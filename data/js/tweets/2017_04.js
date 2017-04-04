@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 13:15:12 +0000 2017",
+		"id": 849248990688182300,
+		"id_str": "849248990688182274",
+		"text": "RT @ygent_official: [WINNER - ‘REALLY REALLY’ M/V]\nhttps://t.co/qDD2ayrnXL via @YouTube\n#WINNER #위너 #FATENUMBERFOR #REALLYREALLY #릴리릴리 #COM…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINNER",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "위너",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "FATENUMBERFOR",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "REALLYREALLY",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"text": "릴리릴리",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygent_official",
+					"name": "YG Family",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qDD2ayrnXL",
+					"expanded_url": "https://youtu.be/4tBnF46ybZk",
+					"display_url": "youtu.be/4tBnF46ybZk",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22267,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 04 07:01:39 +0000 2017",
+			"id": 849154986411872300,
+			"id_str": "849154986411872256",
+			"text": "[WINNER - ‘REALLY REALLY’ M/V]\nhttps://t.co/qDD2ayrnXL via @YouTube\n#WINNER #위너 #FATENUMBERFOR #REALLYREALLY #릴리릴리 #COMEBACK #0404 #4PM #YG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WINNER",
+						"indices": [
+							68,
+							75
+						]
+					},
+					{
+						"text": "위너",
+						"indices": [
+							76,
+							79
+						]
+					},
+					{
+						"text": "FATENUMBERFOR",
+						"indices": [
+							80,
+							94
+						]
+					},
+					{
+						"text": "REALLYREALLY",
+						"indices": [
+							95,
+							108
+						]
+					},
+					{
+						"text": "릴리릴리",
+						"indices": [
+							109,
+							114
+						]
+					},
+					{
+						"text": "COMEBACK",
+						"indices": [
+							115,
+							124
+						]
+					},
+					{
+						"text": "4PM",
+						"indices": [
+							131,
+							135
+						]
+					},
+					{
+						"text": "YG",
+						"indices": [
+							136,
+							139
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							59,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qDD2ayrnXL",
+						"expanded_url": "https://youtu.be/4tBnF46ybZk",
+						"display_url": "youtu.be/4tBnF46ybZk",
+						"indices": [
+							31,
+							54
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 408177579,
+				"id_str": "408177579",
+				"name": "YG Family",
+				"screen_name": "ygent_official",
+				"location": "Seoul, Korea ",
+				"description": "Welcome to the official Twitter page for YG Entertainment. [http://t.co/kwN2AK5T] [http://t.co/2leNbrwq]",
+				"url": "http://t.co/LpBPpYNOzu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LpBPpYNOzu",
+								"expanded_url": "http://www.ygfamily.com/",
+								"display_url": "ygfamily.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/kwN2AK5T",
+								"expanded_url": "http://www.facebook.com/ygfamily",
+								"display_url": "facebook.com/ygfamily",
+								"indices": [
+									60,
+									80
+								]
+							},
+							{
+								"url": "http://t.co/2leNbrwq",
+								"expanded_url": "http://www.youtube.com/ygentertainment",
+								"display_url": "youtube.com/ygentertainment",
+								"indices": [
+									83,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2849052,
+				"friends_count": 34,
+				"listed_count": 5880,
+				"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+				"favourites_count": 3,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6626,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181864194/N5WC3yty.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181864194/N5WC3yty.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3341276211/8b0ad1ebba4a131dad02aa75e6264447_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3341276211/8b0ad1ebba4a131dad02aa75e6264447_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1456393515",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "2E2E2E",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11944,
+			"favorite_count": 8500,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11944,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 04 13:15:02 +0000 2017",
+		"id": 849248949466574800,
+		"id_str": "849248949466574848",
+		"text": "RT @ygent_official: [WINNER - ‘FOOL’ M/V]\nhttps://t.co/8yVhGtHjw3 via @YouTube\n#WINNER #위너 #FATENUMBERFOR #FOOL #SINGLEALBUM #NEWRELEASE #0…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINNER",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "위너",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "FATENUMBERFOR",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"text": "FOOL",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "SINGLEALBUM",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "NEWRELEASE",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygent_official",
+					"name": "YG Family",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						70,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8yVhGtHjw3",
+					"expanded_url": "https://youtu.be/GsebMOWQiYM",
+					"display_url": "youtu.be/GsebMOWQiYM",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22267,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 04 07:00:52 +0000 2017",
+			"id": 849154787278897200,
+			"id_str": "849154787278897154",
+			"text": "[WINNER - ‘FOOL’ M/V]\nhttps://t.co/8yVhGtHjw3 via @YouTube\n#WINNER #위너 #FATENUMBERFOR #FOOL #SINGLEALBUM #NEWRELEASE #0404 #4PM #YG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WINNER",
+						"indices": [
+							59,
+							66
+						]
+					},
+					{
+						"text": "위너",
+						"indices": [
+							67,
+							70
+						]
+					},
+					{
+						"text": "FATENUMBERFOR",
+						"indices": [
+							71,
+							85
+						]
+					},
+					{
+						"text": "FOOL",
+						"indices": [
+							86,
+							91
+						]
+					},
+					{
+						"text": "SINGLEALBUM",
+						"indices": [
+							92,
+							104
+						]
+					},
+					{
+						"text": "NEWRELEASE",
+						"indices": [
+							105,
+							116
+						]
+					},
+					{
+						"text": "4PM",
+						"indices": [
+							123,
+							127
+						]
+					},
+					{
+						"text": "YG",
+						"indices": [
+							128,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							50,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8yVhGtHjw3",
+						"expanded_url": "https://youtu.be/GsebMOWQiYM",
+						"display_url": "youtu.be/GsebMOWQiYM",
+						"indices": [
+							22,
+							45
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 408177579,
+				"id_str": "408177579",
+				"name": "YG Family",
+				"screen_name": "ygent_official",
+				"location": "Seoul, Korea ",
+				"description": "Welcome to the official Twitter page for YG Entertainment. [http://t.co/kwN2AK5T] [http://t.co/2leNbrwq]",
+				"url": "http://t.co/LpBPpYNOzu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LpBPpYNOzu",
+								"expanded_url": "http://www.ygfamily.com/",
+								"display_url": "ygfamily.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/kwN2AK5T",
+								"expanded_url": "http://www.facebook.com/ygfamily",
+								"display_url": "facebook.com/ygfamily",
+								"indices": [
+									60,
+									80
+								]
+							},
+							{
+								"url": "http://t.co/2leNbrwq",
+								"expanded_url": "http://www.youtube.com/ygentertainment",
+								"display_url": "youtube.com/ygentertainment",
+								"indices": [
+									83,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2849052,
+				"friends_count": 34,
+				"listed_count": 5880,
+				"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+				"favourites_count": 3,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6626,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181864194/N5WC3yty.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181864194/N5WC3yty.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3341276211/8b0ad1ebba4a131dad02aa75e6264447_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3341276211/8b0ad1ebba4a131dad02aa75e6264447_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1456393515",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "2E2E2E",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10914,
+			"favorite_count": 7629,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10914,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 04 13:13:43 +0000 2017",
+		"id": 849248616833138700,
+		"id_str": "849248616833138688",
+		"text": "비트랑 목소리랑 안 어울려서 듣기가 힘들다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": 849248386658127900,
+		"in_reply_to_status_id_str": "849248386658127873",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22267,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 04 13:12:48 +0000 2017",
+		"id": 849248386658127900,
+		"id_str": "849248386658127873",
+		"text": "신곡 나온거 정신없고 너무 별로다. 이 팀은 조화가 좋다고 생각한 적이 없고 자사 아티스트 쿠세 따라하는 것도 구렸음.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22267,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Apr 04 08:46:39 +0000 2017",
 		"id": 849181406714630100,
 		"id_str": "849181406714630144",
