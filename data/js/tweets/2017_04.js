@@ -1,6 +1,1223 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 06:45:03 +0000 2017",
+		"id": 849150805622042600,
+		"id_str": "849150805622042624",
+		"text": "RT @HappyRobotKR: [BML2017] 최종 라인업이 공개되었습니다! 🌸 \n따뜻한 봄날, 뷰민라에서 노리플라이 / 데이브레이크 / 랄라스윗 / 소란 / 솔루션스 / 이지형 / 칵스와 함께 좋은 추억 만들어요!🙌🏻 https://t.co/f…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HappyRobotKR",
+					"name": "Happy Robot Records",
+					"id": 63414926,
+					"id_str": "63414926",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 04 02:48:39 +0000 2017",
+			"id": 849091315971313700,
+			"id_str": "849091315971313664",
+			"text": "[BML2017] 최종 라인업이 공개되었습니다! 🌸 \n따뜻한 봄날, 뷰민라에서 노리플라이 / 데이브레이크 / 랄라스윗 / 소란 / 솔루션스 / 이지형 / 칵스와 함께 좋은 추억 만들어요!🙌🏻 https://t.co/f6cAxqq0Ln",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849091281766801400,
+						"id_str": "849091281766801411",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C8iUBaeXYAMOTk0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8iUBaeXYAMOTk0.jpg",
+						"url": "https://t.co/f6cAxqq0Ln",
+						"display_url": "pic.twitter.com/f6cAxqq0Ln",
+						"expanded_url": "https://twitter.com/HappyRobotKR/status/849091315971313664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 678,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 678,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849091281766801400,
+						"id_str": "849091281766801411",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C8iUBaeXYAMOTk0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8iUBaeXYAMOTk0.jpg",
+						"url": "https://t.co/f6cAxqq0Ln",
+						"display_url": "pic.twitter.com/f6cAxqq0Ln",
+						"expanded_url": "https://twitter.com/HappyRobotKR/status/849091315971313664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 678,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 678,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63414926,
+				"id_str": "63414926",
+				"name": "Happy Robot Records",
+				"screen_name": "HappyRobotKR",
+				"location": "Seoul, Korea",
+				"description": "naru, 노리플라이, 데이브레이크, THE KOXX, 랄라스윗, 소란, THE SOLUTIONS, 이지형, TUNE, 권순관, THORNAPPLE, Life and Time",
+				"url": "https://t.co/b6z6U7PUtR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b6z6U7PUtR",
+								"expanded_url": "http://www.happyrobot.co.kr",
+								"display_url": "happyrobot.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15438,
+				"friends_count": 4001,
+				"listed_count": 322,
+				"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+				"favourites_count": 73,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11671,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834565718569947136/6bL0e-rv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834565718569947136/6bL0e-rv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1487810949",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 04 06:44:57 +0000 2017",
+		"id": 849150783341940700,
+		"id_str": "849150783341940736",
+		"text": "RT @The_solutions1: Ticket Open @인터파크\n4월 4일 (화)\n2PM - LIFE AND TIME\n3PM - THE SOLUTIONS\n4PM - THE KOXX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "The_solutions1",
+					"name": "솔루션스 THE SOLUTIONS",
+					"id": 530989602,
+					"id_str": "530989602",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 04 02:34:45 +0000 2017",
+			"id": 849087818437713900,
+			"id_str": "849087818437713920",
+			"text": "Ticket Open @인터파크\n4월 4일 (화)\n2PM - LIFE AND TIME\n3PM - THE SOLUTIONS\n4PM - THE KOXX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 849087662963216400,
+			"in_reply_to_status_id_str": "849087662963216385",
+			"in_reply_to_user_id": 530989602,
+			"in_reply_to_user_id_str": "530989602",
+			"in_reply_to_screen_name": "The_solutions1",
+			"user": {
+				"id": 530989602,
+				"id_str": "530989602",
+				"name": "솔루션스 THE SOLUTIONS",
+				"screen_name": "The_solutions1",
+				"location": "Seoul, South KOREA",
+				"description": "THE SOLUTIONS Official Twitterㅣ나루 @ournaruㅣ박솔 @parksol_vm | 권오경 @kkio2 | 박한솔 @bakkaanㅣhttps://t.co/5TNj4o7Dut",
+				"url": "https://t.co/9ZUYHgb4uU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9ZUYHgb4uU",
+								"expanded_url": "http://bandthesolutions.com/",
+								"display_url": "bandthesolutions.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5TNj4o7Dut",
+								"expanded_url": "https://www.facebook.com/thesolutionsmusic",
+								"display_url": "facebook.com/thesolutionsmu…",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3964,
+				"friends_count": 88,
+				"listed_count": 43,
+				"created_at": "Tue Mar 20 04:20:18 +0000 2012",
+				"favourites_count": 29,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2100,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/645528254/p1z5pug2gjbwjhdimqxa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/645528254/p1z5pug2gjbwjhdimqxa.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819064062961074176/B0ZwXQVr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819064062961074176/B0ZwXQVr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/530989602/1484115119",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 04 06:44:54 +0000 2017",
+		"id": 849150771115552800,
+		"id_str": "849150771115552769",
+		"text": "RT @The_solutions1: 잠시 후 오후 2시부터 'PLAY LOUD'의 티켓이 인터파크에서 오픈됩니다. 5월 4일 있을 솔루션스 공연의 티켓은 오늘 오후 3시 오픈됩니다. https://t.co/QJFAGf9X12",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "The_solutions1",
+					"name": "솔루션스 THE SOLUTIONS",
+					"id": 530989602,
+					"id_str": "530989602",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 849087648744579100,
+					"id_str": "849087648744579075",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/C8iQt8aXoAM5wmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8iQt8aXoAM5wmZ.jpg",
+					"url": "https://t.co/QJFAGf9X12",
+					"display_url": "pic.twitter.com/QJFAGf9X12",
+					"expanded_url": "https://twitter.com/The_solutions1/status/849087662963216385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849087662963216400,
+					"source_status_id_str": "849087662963216385",
+					"source_user_id": 530989602,
+					"source_user_id_str": "530989602"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849087648744579100,
+					"id_str": "849087648744579075",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/C8iQt8aXoAM5wmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8iQt8aXoAM5wmZ.jpg",
+					"url": "https://t.co/QJFAGf9X12",
+					"display_url": "pic.twitter.com/QJFAGf9X12",
+					"expanded_url": "https://twitter.com/The_solutions1/status/849087662963216385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849087662963216400,
+					"source_status_id_str": "849087662963216385",
+					"source_user_id": 530989602,
+					"source_user_id_str": "530989602"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 04 02:34:08 +0000 2017",
+			"id": 849087662963216400,
+			"id_str": "849087662963216385",
+			"text": "잠시 후 오후 2시부터 'PLAY LOUD'의 티켓이 인터파크에서 오픈됩니다. 5월 4일 있을 솔루션스 공연의 티켓은 오늘 오후 3시 오픈됩니다. https://t.co/QJFAGf9X12",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849087648744579100,
+						"id_str": "849087648744579075",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/C8iQt8aXoAM5wmZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8iQt8aXoAM5wmZ.jpg",
+						"url": "https://t.co/QJFAGf9X12",
+						"display_url": "pic.twitter.com/QJFAGf9X12",
+						"expanded_url": "https://twitter.com/The_solutions1/status/849087662963216385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849087648744579100,
+						"id_str": "849087648744579075",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/C8iQt8aXoAM5wmZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8iQt8aXoAM5wmZ.jpg",
+						"url": "https://t.co/QJFAGf9X12",
+						"display_url": "pic.twitter.com/QJFAGf9X12",
+						"expanded_url": "https://twitter.com/The_solutions1/status/849087662963216385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 530989602,
+				"id_str": "530989602",
+				"name": "솔루션스 THE SOLUTIONS",
+				"screen_name": "The_solutions1",
+				"location": "Seoul, South KOREA",
+				"description": "THE SOLUTIONS Official Twitterㅣ나루 @ournaruㅣ박솔 @parksol_vm | 권오경 @kkio2 | 박한솔 @bakkaanㅣhttps://t.co/5TNj4o7Dut",
+				"url": "https://t.co/9ZUYHgb4uU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9ZUYHgb4uU",
+								"expanded_url": "http://bandthesolutions.com/",
+								"display_url": "bandthesolutions.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5TNj4o7Dut",
+								"expanded_url": "https://www.facebook.com/thesolutionsmusic",
+								"display_url": "facebook.com/thesolutionsmu…",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3964,
+				"friends_count": 88,
+				"listed_count": 43,
+				"created_at": "Tue Mar 20 04:20:18 +0000 2012",
+				"favourites_count": 29,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2100,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/645528254/p1z5pug2gjbwjhdimqxa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/645528254/p1z5pug2gjbwjhdimqxa.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819064062961074176/B0ZwXQVr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819064062961074176/B0ZwXQVr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/530989602/1484115119",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 04 06:44:47 +0000 2017",
+		"id": 849150739477917700,
+		"id_str": "849150739477917696",
+		"text": "RT @Valley_Rock: [#밸리록 | 라인업 발표 D-1]\n#밸리록1차라인업 발표를 하루 앞두고,생방송 2MC (고영배&amp; 주우재)가 보내온 핫한 스포일러!! 5일 오후 7시 네이버 V앱을 통해 공개되는 1차 라인업 놓치지 마세요! https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "밸리록",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "밸리록1차라인업",
+					"indices": [
+						37,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Valley_Rock",
+					"name": "밸리록페스티벌",
+					"id": 125890522,
+					"id_str": "125890522",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 04 02:12:04 +0000 2017",
+			"id": 849082106978422800,
+			"id_str": "849082106978422784",
+			"text": "[#밸리록 | 라인업 발표 D-1]\n#밸리록1차라인업 발표를 하루 앞두고,생방송 2MC (고영배&amp; 주우재)가 보내온 핫한 스포일러!! 5일 오후 7시 네이버 V앱을 통해 공개되는 1차 라인업 놓치지 마세요! https://t.co/3rwr1t1qCE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "밸리록",
+						"indices": [
+							1,
+							5
+						]
+					},
+					{
+						"text": "밸리록1차라인업",
+						"indices": [
+							20,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3rwr1t1qCE",
+						"expanded_url": "http://bitly.kr/UGG",
+						"display_url": "bitly.kr/UGG",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 125890522,
+				"id_str": "125890522",
+				"name": "밸리록페스티벌",
+				"screen_name": "Valley_Rock",
+				"location": "Seoul Korea",
+				"description": "2017 지산 밸리록 뮤직앤드아츠 페스티벌 2017 Jisan Valley Rock Music & Arts Festival// 2017.7.28 ~ 7.30 Instagram_@valleyrockfest Facebook_/valleyrockfestival",
+				"url": "https://t.co/LPKPSVsNh5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LPKPSVsNh5",
+								"expanded_url": "http://valleyrockfestival.mnet.com/",
+								"display_url": "valleyrockfestival.mnet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14181,
+				"friends_count": 428,
+				"listed_count": 385,
+				"created_at": "Wed Mar 24 05:17:01 +0000 2010",
+				"favourites_count": 549,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2649,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/777304315/8d6da730d91ffad161c5a04e89cd2a51.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/777304315/8d6da730d91ffad161c5a04e89cd2a51.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848753315970240514/UgwHai2s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848753315970240514/UgwHai2s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/125890522/1491185226",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 04 06:43:23 +0000 2017",
+		"id": 849150386271400000,
+		"id_str": "849150386271399936",
+		"text": "RT @msbsound: 옥상달빛 신곡 '인턴' 뮤직비디오 티저 공개!\n4월 6일 오후 6시 발매됩니다 😉 https://t.co/7UDL1KPpTC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msbsound",
+					"name": "매직스트로베리사운드",
+					"id": 263751129,
+					"id_str": "263751129",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7UDL1KPpTC",
+					"expanded_url": "http://fb.me/36g7ynNHm",
+					"display_url": "fb.me/36g7ynNHm",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 03 15:28:41 +0000 2017",
+			"id": 848920196303736800,
+			"id_str": "848920196303736834",
+			"text": "옥상달빛 신곡 '인턴' 뮤직비디오 티저 공개!\n4월 6일 오후 6시 발매됩니다 😉 https://t.co/7UDL1KPpTC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7UDL1KPpTC",
+						"expanded_url": "http://fb.me/36g7ynNHm",
+						"display_url": "fb.me/36g7ynNHm",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 263751129,
+				"id_str": "263751129",
+				"name": "매직스트로베리사운드",
+				"screen_name": "msbsound",
+				"location": "Republic of Korea",
+				"description": "MagicStrawberry Sound is an Indie label based in Korea.10cm, 옥상달빛, 요조, 선우정아,치즈,루싸이트토끼, Rainbow99, Kafka, 이영훈, 정차식, 남녀공룡, 유즈드카세트, 하상욱, KatFrankie",
+				"url": "https://t.co/0TB8b45bgt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0TB8b45bgt",
+								"expanded_url": "http://www.msbsound.com",
+								"display_url": "msbsound.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7439,
+				"friends_count": 5605,
+				"listed_count": 114,
+				"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+				"favourites_count": 26,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4141,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/515389419906297856/q2Q2BPZk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/515389419906297856/q2Q2BPZk_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Apr 03 16:48:37 +0000 2017",
 		"id": 848940313033011200,
 		"id_str": "848940313033011200",
