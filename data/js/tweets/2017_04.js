@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 12:24:49 +0000 2017",
+		"id": 849961086463889400,
+		"id_str": "849961086463889408",
+		"text": "RT @ppsskr: 책 읽고 싶게 만드는 일본 도서관\nhttps://t.co/KYN16r1cQu\n\n당신의 잉여에 대한 복잡한 니즈를 완벽하게 만족시킬 그런 멋진 공간 https://t.co/5Xab7CFIM0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ppsskr",
+					"name": "ㅍㅍㅅㅅ",
+					"id": 992831082,
+					"id_str": "992831082",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KYN16r1cQu",
+					"expanded_url": "http://ppss.kr/archives/38295",
+					"display_url": "ppss.kr/archives/38295",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 849571283926868000,
+					"id_str": "849571283926867968",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/C8pIlN3VYAAwY8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8pIlN3VYAAwY8k.jpg",
+					"url": "https://t.co/5Xab7CFIM0",
+					"display_url": "pic.twitter.com/5Xab7CFIM0",
+					"expanded_url": "https://twitter.com/ppsskr/status/849577361439940608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849577361439940600,
+					"source_status_id_str": "849577361439940608",
+					"source_user_id": 992831082,
+					"source_user_id_str": "992831082"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849571283926868000,
+					"id_str": "849571283926867968",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/C8pIlN3VYAAwY8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8pIlN3VYAAwY8k.jpg",
+					"url": "https://t.co/5Xab7CFIM0",
+					"display_url": "pic.twitter.com/5Xab7CFIM0",
+					"expanded_url": "https://twitter.com/ppsskr/status/849577361439940608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849577361439940600,
+					"source_status_id_str": "849577361439940608",
+					"source_user_id": 992831082,
+					"source_user_id_str": "992831082"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 774,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19078,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22392,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 11:00:02 +0000 2017",
+			"id": 849577361439940600,
+			"id_str": "849577361439940608",
+			"text": "책 읽고 싶게 만드는 일본 도서관\nhttps://t.co/KYN16r1cQu\n\n당신의 잉여에 대한 복잡한 니즈를 완벽하게 만족시킬 그런 멋진 공간 https://t.co/5Xab7CFIM0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KYN16r1cQu",
+						"expanded_url": "http://ppss.kr/archives/38295",
+						"display_url": "ppss.kr/archives/38295",
+						"indices": [
+							19,
+							42
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 849571283926868000,
+						"id_str": "849571283926867968",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/C8pIlN3VYAAwY8k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8pIlN3VYAAwY8k.jpg",
+						"url": "https://t.co/5Xab7CFIM0",
+						"display_url": "pic.twitter.com/5Xab7CFIM0",
+						"expanded_url": "https://twitter.com/ppsskr/status/849577361439940608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 375,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 354,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849571283926868000,
+						"id_str": "849571283926867968",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/C8pIlN3VYAAwY8k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8pIlN3VYAAwY8k.jpg",
+						"url": "https://t.co/5Xab7CFIM0",
+						"display_url": "pic.twitter.com/5Xab7CFIM0",
+						"expanded_url": "https://twitter.com/ppsskr/status/849577361439940608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 375,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 354,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992831082,
+				"id_str": "992831082",
+				"name": "ㅍㅍㅅㅅ",
+				"screen_name": "ppsskr",
+				"location": "",
+				"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+				"url": "http://t.co/22eKl3pLgd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/22eKl3pLgd",
+								"expanded_url": "http://ppss.kr",
+								"display_url": "ppss.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74449,
+				"friends_count": 117,
+				"listed_count": 486,
+				"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+				"favourites_count": 1619,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8620,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000431637256/33258d9a72e6b874135816cfa6d5c100_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000431637256/33258d9a72e6b874135816cfa6d5c100_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1355111370",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 46,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Apr 06 12:24:09 +0000 2017",
+		"id": 849960918523854800,
+		"id_str": "849960918523854850",
+		"text": "RT @radiombc: \"좋아한다는 말보다 \n좋아하는 마음 먼저\n생각한다는 말보다 \n네가 먼저 생각이 나.\"\n#안녕하신가영 #좋아하는마음 \n\n📻170329 FM4U 91.9Mhz #테이의꿈꾸는라디오 #수요일에만나요 https://t.co/qQEPN…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안녕하신가영",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "좋아하는마음",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "테이의꿈꾸는라디오",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "수요일에만나요",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "radiombc",
+					"name": "MBC 라디오",
+					"id": 145925496,
+					"id_str": "145925496",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 774,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19078,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22392,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 10:45:44 +0000 2017",
+			"id": 849573765109252100,
+			"id_str": "849573765109252098",
+			"text": "\"좋아한다는 말보다 \n좋아하는 마음 먼저\n생각한다는 말보다 \n네가 먼저 생각이 나.\"\n#안녕하신가영 #좋아하는마음 \n\n📻170329 FM4U 91.9Mhz #테이의꿈꾸는라디오 #수요일에만나요 https://t.co/qQEPN5UMip",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "안녕하신가영",
+						"indices": [
+							48,
+							55
+						]
+					},
+					{
+						"text": "좋아하는마음",
+						"indices": [
+							56,
+							63
+						]
+					},
+					{
+						"text": "테이의꿈꾸는라디오",
+						"indices": [
+							87,
+							97
+						]
+					},
+					{
+						"text": "수요일에만나요",
+						"indices": [
+							98,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849572714603884500,
+						"id_str": "849572714603884544",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849572714603884544/pu/img/q0bgcQZMaZjcp5JL.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849572714603884544/pu/img/q0bgcQZMaZjcp5JL.jpg",
+						"url": "https://t.co/qQEPN5UMip",
+						"display_url": "pic.twitter.com/qQEPN5UMip",
+						"expanded_url": "https://twitter.com/radiombc/status/849573765109252098/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849572714603884500,
+						"id_str": "849572714603884544",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849572714603884544/pu/img/q0bgcQZMaZjcp5JL.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849572714603884544/pu/img/q0bgcQZMaZjcp5JL.jpg",
+						"url": "https://t.co/qQEPN5UMip",
+						"display_url": "pic.twitter.com/qQEPN5UMip",
+						"expanded_url": "https://twitter.com/radiombc/status/849573765109252098/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 99766,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/849572714603884544/pu/vid/1280x720/9ar-JrZ4nmXwryMq.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/849572714603884544/pu/pl/mjmm5isCOlT09ILZ.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/849572714603884544/pu/vid/640x360/OK6jIZrTl3BDtmZi.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/849572714603884544/pu/vid/320x180/sdvS4OTpaHoqj2h9.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 145925496,
+				"id_str": "145925496",
+				"name": "MBC 라디오",
+				"screen_name": "radiombc",
+				"location": "Korea",
+				"description": "MBC 라디오의 공식트위터입니다. 웬만하면 본방사수, 놓쳤다면 팟캐스트",
+				"url": "https://t.co/Ahd7S0DuqE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ahd7S0DuqE",
+								"expanded_url": "http://mini.imbc.com",
+								"display_url": "mini.imbc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70600,
+				"friends_count": 3279,
+				"listed_count": 660,
+				"created_at": "Thu May 20 06:02:35 +0000 2010",
+				"favourites_count": 126,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7691,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/138879575/2010___-___.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/138879575/2010___-___.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/672673098584342528/tCRpByk9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/672673098584342528/tCRpByk9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1432520933",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Apr 06 12:11:42 +0000 2017",
 		"id": 849957788386172900,
 		"id_str": "849957788386172929",
