@@ -1,6 +1,1003 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 08 05:14:23 +0000 2017",
+		"id": 850577541333106700,
+		"id_str": "850577541333106688",
+		"text": "RT @hankookilbo: 국내 우울증 환자 60만명...이 중 치료받는 비율은 고작 '15%'\n\n우울증임을 깨닫고 전문가 찾아 치료받는 데까지 걸리는 시간도 평균 84주에 이른다.\n\nhttps://t.co/ECEKnU05Jq https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hankookilbo",
+					"name": "한국일보",
+					"id": 134371459,
+					"id_str": "134371459",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ECEKnU05Jq",
+					"expanded_url": "https://goo.gl/iQrYyE",
+					"display_url": "goo.gl/iQrYyE",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 774,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19118,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22473,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 06 06:59:28 +0000 2017",
+			"id": 849879210822783000,
+			"id_str": "849879210822782977",
+			"text": "국내 우울증 환자 60만명...이 중 치료받는 비율은 고작 '15%'\n\n우울증임을 깨닫고 전문가 찾아 치료받는 데까지 걸리는 시간도 평균 84주에 이른다.\n\nhttps://t.co/ECEKnU05Jq https://t.co/YX9blftX7O",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ECEKnU05Jq",
+						"expanded_url": "https://goo.gl/iQrYyE",
+						"display_url": "goo.gl/iQrYyE",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 849878939606540300,
+						"id_str": "849878939606540288",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/C8tgZIlVYAAfhBj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8tgZIlVYAAfhBj.jpg",
+						"url": "https://t.co/YX9blftX7O",
+						"display_url": "pic.twitter.com/YX9blftX7O",
+						"expanded_url": "https://twitter.com/hankookilbo/status/849879210822782977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1254,
+								"h": 836,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849878939606540300,
+						"id_str": "849878939606540288",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/C8tgZIlVYAAfhBj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8tgZIlVYAAfhBj.jpg",
+						"url": "https://t.co/YX9blftX7O",
+						"display_url": "pic.twitter.com/YX9blftX7O",
+						"expanded_url": "https://twitter.com/hankookilbo/status/849879210822782977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1254,
+								"h": 836,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134371459,
+				"id_str": "134371459",
+				"name": "한국일보",
+				"screen_name": "hankookilbo",
+				"location": "Seoul,KOREA",
+				"description": "한국일보 공식 트위터입니다. 치우치지 않는 신문.사실에 충실한 보도. 중도ㆍ정론지. 한국일보가 여러분에게 눈과 귀를 열고 있습니다. 어떤 제보도 어떤 지적도 환영합니다.\r\n02)724-2489~2490\r\nnews@hk.co.kr\r\nhttp://t.co/TXSUlvj7",
+				"url": "http://t.co/HpuZ3tGl9f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HpuZ3tGl9f",
+								"expanded_url": "http://www.hankookilbo.com",
+								"display_url": "hankookilbo.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/TXSUlvj7",
+								"expanded_url": "http://www.facebook.com/hkilbo",
+								"display_url": "facebook.com/hkilbo",
+								"indices": [
+									129,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 107212,
+				"friends_count": 50535,
+				"listed_count": 2670,
+				"created_at": "Sun Apr 18 06:43:33 +0000 2010",
+				"favourites_count": 878,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43701,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134371459/1439279203",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4351,
+			"favorite_count": 539,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4351,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 08 05:12:12 +0000 2017",
+		"id": 850576992667705300,
+		"id_str": "850576992667705344",
+		"text": "RT @Beonnunny: 이번달 저작권료 937653  누구에게는 큰돈이 아닐 수도 있겠지만 여성의 아티스트가 가요일을 하지 않고 순수 나만의 창작물로 벌어 들인 돈이라는 점에서 나름 뿌듯하다 ! https://t.co/L6zj72VHJM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Beonnunny",
+					"name": "Neon Bunny",
+					"id": 1359504589,
+					"id_str": "1359504589",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 849984485890314200,
+					"id_str": "849984485890314240",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/C8vAYvIV0AANyiO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8vAYvIV0AANyiO.jpg",
+					"url": "https://t.co/L6zj72VHJM",
+					"display_url": "pic.twitter.com/L6zj72VHJM",
+					"expanded_url": "https://twitter.com/Beonnunny/status/849984496803790848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849984496803790800,
+					"source_status_id_str": "849984496803790848",
+					"source_user_id": 1359504589,
+					"source_user_id_str": "1359504589"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849984485890314200,
+					"id_str": "849984485890314240",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/C8vAYvIV0AANyiO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8vAYvIV0AANyiO.jpg",
+					"url": "https://t.co/L6zj72VHJM",
+					"display_url": "pic.twitter.com/L6zj72VHJM",
+					"expanded_url": "https://twitter.com/Beonnunny/status/849984496803790848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849984496803790800,
+					"source_status_id_str": "849984496803790848",
+					"source_user_id": 1359504589,
+					"source_user_id_str": "1359504589"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 774,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19118,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22473,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 06 13:57:50 +0000 2017",
+			"id": 849984496803790800,
+			"id_str": "849984496803790848",
+			"text": "이번달 저작권료 937653  누구에게는 큰돈이 아닐 수도 있겠지만 여성의 아티스트가 가요일을 하지 않고 순수 나만의 창작물로 벌어 들인 돈이라는 점에서 나름 뿌듯하다 ! https://t.co/L6zj72VHJM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849984485890314200,
+						"id_str": "849984485890314240",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C8vAYvIV0AANyiO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8vAYvIV0AANyiO.jpg",
+						"url": "https://t.co/L6zj72VHJM",
+						"display_url": "pic.twitter.com/L6zj72VHJM",
+						"expanded_url": "https://twitter.com/Beonnunny/status/849984496803790848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849984485890314200,
+						"id_str": "849984485890314240",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C8vAYvIV0AANyiO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8vAYvIV0AANyiO.jpg",
+						"url": "https://t.co/L6zj72VHJM",
+						"display_url": "pic.twitter.com/L6zj72VHJM",
+						"expanded_url": "https://twitter.com/Beonnunny/status/849984496803790848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1359504589,
+				"id_str": "1359504589",
+				"name": "Neon Bunny",
+				"screen_name": "Beonnunny",
+				"location": "Seoul,South Korea",
+				"description": "No Bunny loves you like I do. beonnunny@gmail.com",
+				"url": "https://t.co/n0FXYNyEMX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n0FXYNyEMX",
+								"expanded_url": "https://www.facebook.com/neonbunnymusic",
+								"display_url": "facebook.com/neonbunnymusic",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2392,
+				"friends_count": 107,
+				"listed_count": 47,
+				"created_at": "Wed Apr 17 13:57:52 +0000 2013",
+				"favourites_count": 1004,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1415,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440904264198524928/b2nNx498.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440904264198524928/b2nNx498.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846936438633508864/5TxpFe_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846936438633508864/5TxpFe_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1359504589/1447831689",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 08 05:10:04 +0000 2017",
+		"id": 850576454282649600,
+		"id_str": "850576454282649605",
+		"text": "RT @chingusai: 네덜란드서 '남자들끼리 손잡기' 시위 확산…\"동성애 차별말라\" https://t.co/PLoPmuz3nY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chingusai",
+					"name": "친구사이",
+					"id": 69260007,
+					"id_str": "69260007",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PLoPmuz3nY",
+					"expanded_url": "http://www.yonhapnews.co.kr/bulletin/2017/04/06/0200000000AKR20170406038300009.HTML?input=www.twitter.com",
+					"display_url": "yonhapnews.co.kr/bulletin/2017/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 774,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19118,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22473,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 06 07:24:09 +0000 2017",
+			"id": 849885424507998200,
+			"id_str": "849885424507998209",
+			"text": "네덜란드서 '남자들끼리 손잡기' 시위 확산…\"동성애 차별말라\" https://t.co/PLoPmuz3nY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PLoPmuz3nY",
+						"expanded_url": "http://www.yonhapnews.co.kr/bulletin/2017/04/06/0200000000AKR20170406038300009.HTML?input=www.twitter.com",
+						"display_url": "yonhapnews.co.kr/bulletin/2017/…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69260007,
+				"id_str": "69260007",
+				"name": "친구사이",
+				"screen_name": "chingusai",
+				"location": "37.572984,126.990881",
+				"description": "한국게이인권운동단체 ‘친구사이’는 1993년 창립된 ‘초동회’를 모태로, 성소수자의 인권을 보장하고 성소수자에 대한 차별 없는 세상을 건설하는 것을 목표로, 1994년 2월에 결성된, 한국에서 가장 오래된 성소수자 인권 운동 단체입니다.",
+				"url": "https://t.co/uVaWpprB6T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uVaWpprB6T",
+								"expanded_url": "http://chingusai.net",
+								"display_url": "chingusai.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3221,
+				"friends_count": 318,
+				"listed_count": 56,
+				"created_at": "Thu Aug 27 10:51:32 +0000 2009",
+				"favourites_count": 570,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3047,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/532065084684509184/U2qRQ-Vu_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/532065084684509184/U2qRQ-Vu_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69260007/1489739005",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 443,
+			"favorite_count": 128,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 443,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 08 04:44:10 +0000 2017",
+		"id": 850569937902948400,
+		"id_str": "850569937902948352",
+		"text": "RT @grchysmf: 밥먹다가 홍콩사람이 드라마에서 봤는데 한국사람들은 처음 만난 사이에도 나이 물어본 다음에 누가 언니 오빠인지 정하는거 진짜냐고 묻길래 진짜라고 했더니 그자리에 있던 사람들 다 빵터졌다 내가 생각했던 것보다 외국인에겐 더 괴상…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grchysmf",
+					"name": "투덜이 스머펫",
+					"id": 118040023,
+					"id_str": "118040023",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 774,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19118,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22473,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 06 06:34:32 +0000 2017",
+			"id": 849872934659211300,
+			"id_str": "849872934659211264",
+			"text": "밥먹다가 홍콩사람이 드라마에서 봤는데 한국사람들은 처음 만난 사이에도 나이 물어본 다음에 누가 언니 오빠인지 정하는거 진짜냐고 묻길래 진짜라고 했더니 그자리에 있던 사람들 다 빵터졌다 내가 생각했던 것보다 외국인에겐 더 괴상하게 느껴지는 듯",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118040023,
+				"id_str": "118040023",
+				"name": "투덜이 스머펫",
+				"screen_name": "grchysmf",
+				"location": "Hong Kong",
+				"description": "일본에서 오래 살다가 얼마전에 홍콩이주. 한달에 한번 #트위터북클럽 개최. 주로 책 이야기를 합니다. 소통 안해요 (비팔로잉 알림X) 我係香港，學廣東話，學功夫，睇好多香港電影，開心香港生活。本や映画、フェミニズムの話などします。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2673,
+				"friends_count": 495,
+				"listed_count": 32,
+				"created_at": "Sat Feb 27 11:58:46 +0000 2010",
+				"favourites_count": 6657,
+				"utc_offset": 28800,
+				"time_zone": "Hong Kong",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7997,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848188496808337408/IjNYd2kH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848188496808337408/IjNYd2kH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118040023/1459261730",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 862,
+			"favorite_count": 164,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 862,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 08 03:34:15 +0000 2017",
 		"id": 850552343263199200,
 		"id_str": "850552343263199232",
