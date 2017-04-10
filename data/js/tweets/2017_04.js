@@ -1,6 +1,3261 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 22:16:11 +0000 2017",
+		"id": 851559462846447600,
+		"id_str": "851559462846447616",
+		"text": "RT @wnewskr: “여자애는 이름도 지어주지 않”던 시대에 태어나, 본명마저 남편의 성을 따라 잘못 기록되고 기억된, 독립운동가 김란사. 일생을 여성 계몽과 독립운동에 헌신한 그는 100여 년 전 오늘 45세에 타계했습니다. https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wnewskr",
+					"name": "여성신문",
+					"id": 124189138,
+					"id_str": "124189138",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 01:34:33 +0000 2017",
+			"id": 851246996316766200,
+			"id_str": "851246996316766208",
+			"text": "“여자애는 이름도 지어주지 않”던 시대에 태어나, 본명마저 남편의 성을 따라 잘못 기록되고 기억된, 독립운동가 김란사. 일생을 여성 계몽과 독립운동에 헌신한 그는 100여 년 전 오늘 45세에 타계했습니다.… https://t.co/Q93DMxL6vv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Q93DMxL6vv",
+						"expanded_url": "https://twitter.com/i/web/status/851246996316766208",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124189138,
+				"id_str": "124189138",
+				"name": "여성신문",
+				"screen_name": "wnewskr",
+				"location": "Korea",
+				"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+				"url": "https://t.co/i4VsPxKBdL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i4VsPxKBdL",
+								"expanded_url": "http://www.womennews.co.kr",
+								"display_url": "womennews.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26805,
+				"friends_count": 5253,
+				"listed_count": 303,
+				"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+				"favourites_count": 14,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10574,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/542557964100308992/DQN5WxdA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/542557964100308992/DQN5WxdA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1422603049",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3322,
+			"favorite_count": 736,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3322,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 22:14:07 +0000 2017",
+		"id": 851558939682406400,
+		"id_str": "851558939682406402",
+		"text": "엥... 포스트 마동석으로 생각한 게 아니라 그냥 별 생각 없이 뽑은 거 같은데.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 22:11:52 +0000 2017",
+		"id": 851558375875727400,
+		"id_str": "851558375875727360",
+		"text": "RT @izemag: 어쩌다 전현무가 에뛰드 광고에 나올까 by 김진아 \n\n젊은 여성들이 소비하는 화장품 CF에 왜 40대, 그것도 여성관으로 논란이 된 MC를 캐스팅했을까. 불길하게도 이런 조합은 반복될 것 같은 예감이 든다.\nhttps://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "izemag",
+					"name": "ize magazine",
+					"id": 1447965822,
+					"id_str": "1447965822",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 00:36:57 +0000 2017",
+			"id": 851232498293948400,
+			"id_str": "851232498293948416",
+			"text": "어쩌다 전현무가 에뛰드 광고에 나올까 by 김진아 \n\n젊은 여성들이 소비하는 화장품 CF에 왜 40대, 그것도 여성관으로 논란이 된 MC를 캐스팅했을까. 불길하게도 이런 조합은 반복될 것 같은 예감이 든다.… https://t.co/tOtyqF6b3R",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tOtyqF6b3R",
+						"expanded_url": "https://twitter.com/i/web/status/851232498293948416",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1447965822,
+				"id_str": "1447965822",
+				"name": "ize magazine",
+				"screen_name": "izemag",
+				"location": "",
+				"description": "웹 매거진 [아이즈]입니다.",
+				"url": "https://t.co/SGz4w9fK0U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SGz4w9fK0U",
+								"expanded_url": "http://www.ize.co.kr",
+								"display_url": "ize.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53987,
+				"friends_count": 6,
+				"listed_count": 385,
+				"created_at": "Wed May 22 04:54:50 +0000 2013",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9895,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447965822/1469609488",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1077,
+			"favorite_count": 175,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1077,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 22:03:25 +0000 2017",
+		"id": 851556249330044900,
+		"id_str": "851556249330044928",
+		"text": "숨어있던 뾰족한 날이 서서히 들어나고 금방 닳아 녹이 슬 때쯤 사포로 갈아 더 날카로워졌다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 22:00:20 +0000 2017",
+		"id": 851555473480228900,
+		"id_str": "851555473480228864",
+		"text": "RT @qkdlqkdlzld: 뾰족하게 태어나 둥글게 깎여가는 사람이 있는가하면 무르게 태어나 뾰족뾰족 해지는 사람이 있는 것 같다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qkdlqkdlzld",
+					"name": "오픈바이",
+					"id": 826726189595123700,
+					"id_str": "826726189595123714",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 09 15:26:38 +0000 2017",
+			"id": 851094005244805100,
+			"id_str": "851094005244805120",
+			"text": "뾰족하게 태어나 둥글게 깎여가는 사람이 있는가하면 무르게 태어나 뾰족뾰족 해지는 사람이 있는 것 같다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 826726189595123700,
+				"id_str": "826726189595123714",
+				"name": "오픈바이",
+				"screen_name": "qkdlqkdlzld",
+				"location": "",
+				"description": "오픈바이",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 783,
+				"friends_count": 80,
+				"listed_count": 2,
+				"created_at": "Wed Feb 01 09:37:38 +0000 2017",
+				"favourites_count": 400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 214,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826731646221103104/5hC4fY7d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826731646221103104/5hC4fY7d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/826726189595123714/1485943158",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 463,
+			"favorite_count": 172,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 463,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 21:59:56 +0000 2017",
+		"id": 851555372833820700,
+		"id_str": "851555372833820672",
+		"text": "RT @Lullukull: \"왜 돈이 없어요? 의지가 없지!\"\n\n기득권 세력의 탐욕을 채워줄 땐 현실성, 실효성 따위 따지지 않는다는 말. 너무 공감된다. https://t.co/YJMYp2mc4t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lullukull",
+					"name": "류뀰",
+					"id": 2900335614,
+					"id_str": "2900335614",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851103588898136000,
+					"id_str": "851103588898136065",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C8-6NGtVYAEyNJj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8-6NGtVYAEyNJj.jpg",
+					"url": "https://t.co/YJMYp2mc4t",
+					"display_url": "pic.twitter.com/YJMYp2mc4t",
+					"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851103599882944500,
+					"source_status_id_str": "851103599882944513",
+					"source_user_id": 2900335614,
+					"source_user_id_str": "2900335614"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851103588898136000,
+					"id_str": "851103588898136065",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C8-6NGtVYAEyNJj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8-6NGtVYAEyNJj.jpg",
+					"url": "https://t.co/YJMYp2mc4t",
+					"display_url": "pic.twitter.com/YJMYp2mc4t",
+					"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851103599882944500,
+					"source_status_id_str": "851103599882944513",
+					"source_user_id": 2900335614,
+					"source_user_id_str": "2900335614"
+				},
+				{
+					"id": 851103588898058200,
+					"id_str": "851103588898058241",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C8-6NGtUMAEShWc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8-6NGtUMAEShWc.jpg",
+					"url": "https://t.co/YJMYp2mc4t",
+					"display_url": "pic.twitter.com/YJMYp2mc4t",
+					"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851103599882944500,
+					"source_status_id_str": "851103599882944513",
+					"source_user_id": 2900335614,
+					"source_user_id_str": "2900335614"
+				},
+				{
+					"id": 851103588902346800,
+					"id_str": "851103588902346752",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C8-6NGuVoAAniR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8-6NGuVoAAniR3.jpg",
+					"url": "https://t.co/YJMYp2mc4t",
+					"display_url": "pic.twitter.com/YJMYp2mc4t",
+					"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851103599882944500,
+					"source_status_id_str": "851103599882944513",
+					"source_user_id": 2900335614,
+					"source_user_id_str": "2900335614"
+				},
+				{
+					"id": 851103588898095100,
+					"id_str": "851103588898095104",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C8-6NGtUwAAd9sj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8-6NGtUwAAd9sj.jpg",
+					"url": "https://t.co/YJMYp2mc4t",
+					"display_url": "pic.twitter.com/YJMYp2mc4t",
+					"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851103599882944500,
+					"source_status_id_str": "851103599882944513",
+					"source_user_id": 2900335614,
+					"source_user_id_str": "2900335614"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 09 16:04:45 +0000 2017",
+			"id": 851103599882944500,
+			"id_str": "851103599882944513",
+			"text": "\"왜 돈이 없어요? 의지가 없지!\"\n\n기득권 세력의 탐욕을 채워줄 땐 현실성, 실효성 따위 따지지 않는다는 말. 너무 공감된다. https://t.co/YJMYp2mc4t",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851103588898136000,
+						"id_str": "851103588898136065",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C8-6NGtVYAEyNJj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8-6NGtVYAEyNJj.jpg",
+						"url": "https://t.co/YJMYp2mc4t",
+						"display_url": "pic.twitter.com/YJMYp2mc4t",
+						"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851103588898136000,
+						"id_str": "851103588898136065",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C8-6NGtVYAEyNJj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8-6NGtVYAEyNJj.jpg",
+						"url": "https://t.co/YJMYp2mc4t",
+						"display_url": "pic.twitter.com/YJMYp2mc4t",
+						"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 851103588898058200,
+						"id_str": "851103588898058241",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C8-6NGtUMAEShWc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8-6NGtUMAEShWc.jpg",
+						"url": "https://t.co/YJMYp2mc4t",
+						"display_url": "pic.twitter.com/YJMYp2mc4t",
+						"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 851103588902346800,
+						"id_str": "851103588902346752",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C8-6NGuVoAAniR3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8-6NGuVoAAniR3.jpg",
+						"url": "https://t.co/YJMYp2mc4t",
+						"display_url": "pic.twitter.com/YJMYp2mc4t",
+						"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 851103588898095100,
+						"id_str": "851103588898095104",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C8-6NGtUwAAd9sj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8-6NGtUwAAd9sj.jpg",
+						"url": "https://t.co/YJMYp2mc4t",
+						"display_url": "pic.twitter.com/YJMYp2mc4t",
+						"expanded_url": "https://twitter.com/Lullukull/status/851103599882944513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2900335614,
+				"id_str": "2900335614",
+				"name": "류뀰",
+				"screen_name": "Lullukull",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147,
+				"friends_count": 135,
+				"listed_count": 6,
+				"created_at": "Sat Nov 15 12:39:54 +0000 2014",
+				"favourites_count": 1791,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 89,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846708801851973632/YUAH3fsS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846708801851973632/YUAH3fsS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2900335614/1490706137",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8132,
+			"favorite_count": 1598,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8132,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 21:53:55 +0000 2017",
+		"id": 851553856609599500,
+		"id_str": "851553856609599488",
+		"text": "RT @yniold_: 오늘 지하철 기다리다가 본 공연. 나고야에서 오신 Vogli Bonze 라는 분이고 찾아보니 가사가 무려 불경이다. 불경펑크라니 난 아직 멀었어... https://t.co/VNfmnJZdgH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yniold_",
+					"name": "이민휘",
+					"id": 91752654,
+					"id_str": "91752654",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851156002023940100,
+					"id_str": "851156002023940096",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851156002023940096/pu/img/Zl9gGk5yp9Y9KwXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851156002023940096/pu/img/Zl9gGk5yp9Y9KwXq.jpg",
+					"url": "https://t.co/VNfmnJZdgH",
+					"display_url": "pic.twitter.com/VNfmnJZdgH",
+					"expanded_url": "https://twitter.com/yniold_/status/851156079375503365/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851156079375503400,
+					"source_status_id_str": "851156079375503365",
+					"source_user_id": 91752654,
+					"source_user_id_str": "91752654"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851156002023940100,
+					"id_str": "851156002023940096",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851156002023940096/pu/img/Zl9gGk5yp9Y9KwXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851156002023940096/pu/img/Zl9gGk5yp9Y9KwXq.jpg",
+					"url": "https://t.co/VNfmnJZdgH",
+					"display_url": "pic.twitter.com/VNfmnJZdgH",
+					"expanded_url": "https://twitter.com/yniold_/status/851156079375503365/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851156079375503400,
+					"source_status_id_str": "851156079375503365",
+					"source_user_id": 91752654,
+					"source_user_id_str": "91752654",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 27085,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/851156002023940096/pu/pl/7G3gMQxfFM_daTXI.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/851156002023940096/pu/vid/180x320/83S9Z9FZU9ajCnT3.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/851156002023940096/pu/vid/360x640/_EqX7bnk7lEBL-Ym.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/851156002023940096/pu/vid/720x1280/LnliBnKJgvBVHGb5.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 91752654,
+							"id_str": "91752654",
+							"name": "이민휘",
+							"screen_name": "yniold_",
+							"location": "Brooklyn",
+							"description": "https://t.co/MZWqcAJoC1",
+							"url": "https://t.co/3Ks9Yb2wB4",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/3Ks9Yb2wB4",
+											"expanded_url": "http://minhwee.kr",
+											"display_url": "minhwee.kr",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/MZWqcAJoC1",
+											"expanded_url": "https://minhwee.bandcamp.com/",
+											"display_url": "minhwee.bandcamp.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 2360,
+							"friends_count": 721,
+							"listed_count": 50,
+							"created_at": "Sun Nov 22 08:41:09 +0000 2009",
+							"favourites_count": 4346,
+							"utc_offset": 32400,
+							"time_zone": "Seoul",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 15702,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/796945996068622336/ZQNnyT3z_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/796945996068622336/ZQNnyT3z_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/91752654/1480750979",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 09 19:33:17 +0000 2017",
+			"id": 851156079375503400,
+			"id_str": "851156079375503365",
+			"text": "오늘 지하철 기다리다가 본 공연. 나고야에서 오신 Vogli Bonze 라는 분이고 찾아보니 가사가 무려 불경이다. 불경펑크라니 난 아직 멀었어... https://t.co/VNfmnJZdgH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851156002023940100,
+						"id_str": "851156002023940096",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851156002023940096/pu/img/Zl9gGk5yp9Y9KwXq.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851156002023940096/pu/img/Zl9gGk5yp9Y9KwXq.jpg",
+						"url": "https://t.co/VNfmnJZdgH",
+						"display_url": "pic.twitter.com/VNfmnJZdgH",
+						"expanded_url": "https://twitter.com/yniold_/status/851156079375503365/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851156002023940100,
+						"id_str": "851156002023940096",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851156002023940096/pu/img/Zl9gGk5yp9Y9KwXq.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851156002023940096/pu/img/Zl9gGk5yp9Y9KwXq.jpg",
+						"url": "https://t.co/VNfmnJZdgH",
+						"display_url": "pic.twitter.com/VNfmnJZdgH",
+						"expanded_url": "https://twitter.com/yniold_/status/851156079375503365/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 27085,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/851156002023940096/pu/pl/7G3gMQxfFM_daTXI.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851156002023940096/pu/vid/180x320/83S9Z9FZU9ajCnT3.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851156002023940096/pu/vid/360x640/_EqX7bnk7lEBL-Ym.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851156002023940096/pu/vid/720x1280/LnliBnKJgvBVHGb5.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 91752654,
+				"id_str": "91752654",
+				"name": "이민휘",
+				"screen_name": "yniold_",
+				"location": "Brooklyn",
+				"description": "https://t.co/MZWqcAJoC1",
+				"url": "https://t.co/3Ks9Yb2wB4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Ks9Yb2wB4",
+								"expanded_url": "http://minhwee.kr",
+								"display_url": "minhwee.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MZWqcAJoC1",
+								"expanded_url": "https://minhwee.bandcamp.com/",
+								"display_url": "minhwee.bandcamp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2360,
+				"friends_count": 721,
+				"listed_count": 50,
+				"created_at": "Sun Nov 22 08:41:09 +0000 2009",
+				"favourites_count": 4346,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15702,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796945996068622336/ZQNnyT3z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796945996068622336/ZQNnyT3z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/91752654/1480750979",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3889,
+			"favorite_count": 1341,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3889,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 21:50:29 +0000 2017",
+		"id": 851552995900670000,
+		"id_str": "851552995900669952",
+		"text": "RT @sssinen: 나만 당당해진다고 해서 해결되는 문제가 아니라고요.\n https://t.co/KcqWqbvuJC https://t.co/m0Ss2Bxcdk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sssinen",
+					"name": "✨씨냉✨",
+					"id": 700882581349216300,
+					"id_str": "700882581349216256",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KcqWqbvuJC",
+					"expanded_url": "http://posty.pe/1efzyy",
+					"display_url": "posty.pe/1efzyy",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 746705375743746000,
+					"id_str": "746705375743746048",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ClzUlUEUoAAAT7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ClzUlUEUoAAAT7u.jpg",
+					"url": "https://t.co/m0Ss2Bxcdk",
+					"display_url": "pic.twitter.com/m0Ss2Bxcdk",
+					"expanded_url": "https://twitter.com/sssinen/status/746705402507649024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 746705402507649000,
+					"source_status_id_str": "746705402507649024",
+					"source_user_id": 700882581349216300,
+					"source_user_id_str": "700882581349216256"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 746705375743746000,
+					"id_str": "746705375743746048",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ClzUlUEUoAAAT7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ClzUlUEUoAAAT7u.jpg",
+					"url": "https://t.co/m0Ss2Bxcdk",
+					"display_url": "pic.twitter.com/m0Ss2Bxcdk",
+					"expanded_url": "https://twitter.com/sssinen/status/746705402507649024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 746705402507649000,
+					"source_status_id_str": "746705402507649024",
+					"source_user_id": 700882581349216300,
+					"source_user_id_str": "700882581349216256"
+				},
+				{
+					"id": 746705382769209300,
+					"id_str": "746705382769209344",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ClzUluPUsAAg5Ng.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ClzUluPUsAAg5Ng.jpg",
+					"url": "https://t.co/m0Ss2Bxcdk",
+					"display_url": "pic.twitter.com/m0Ss2Bxcdk",
+					"expanded_url": "https://twitter.com/sssinen/status/746705402507649024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 746705402507649000,
+					"source_status_id_str": "746705402507649024",
+					"source_user_id": 700882581349216300,
+					"source_user_id_str": "700882581349216256"
+				},
+				{
+					"id": 746705389828243500,
+					"id_str": "746705389828243460",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ClzUmIiVAAQNeb_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ClzUmIiVAAQNeb_.jpg",
+					"url": "https://t.co/m0Ss2Bxcdk",
+					"display_url": "pic.twitter.com/m0Ss2Bxcdk",
+					"expanded_url": "https://twitter.com/sssinen/status/746705402507649024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 746705402507649000,
+					"source_status_id_str": "746705402507649024",
+					"source_user_id": 700882581349216300,
+					"source_user_id_str": "700882581349216256"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 25 14:03:35 +0000 2016",
+			"id": 746705402507649000,
+			"id_str": "746705402507649024",
+			"text": "나만 당당해진다고 해서 해결되는 문제가 아니라고요.\n https://t.co/KcqWqbvuJC https://t.co/m0Ss2Bxcdk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KcqWqbvuJC",
+						"expanded_url": "http://posty.pe/1efzyy",
+						"display_url": "posty.pe/1efzyy",
+						"indices": [
+							30,
+							53
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 746705375743746000,
+						"id_str": "746705375743746048",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/ClzUlUEUoAAAT7u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ClzUlUEUoAAAT7u.jpg",
+						"url": "https://t.co/m0Ss2Bxcdk",
+						"display_url": "pic.twitter.com/m0Ss2Bxcdk",
+						"expanded_url": "https://twitter.com/sssinen/status/746705402507649024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 1142,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1142,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 746705375743746000,
+						"id_str": "746705375743746048",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/ClzUlUEUoAAAT7u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ClzUlUEUoAAAT7u.jpg",
+						"url": "https://t.co/m0Ss2Bxcdk",
+						"display_url": "pic.twitter.com/m0Ss2Bxcdk",
+						"expanded_url": "https://twitter.com/sssinen/status/746705402507649024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 1142,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1142,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 746705382769209300,
+						"id_str": "746705382769209344",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/ClzUluPUsAAg5Ng.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ClzUluPUsAAg5Ng.jpg",
+						"url": "https://t.co/m0Ss2Bxcdk",
+						"display_url": "pic.twitter.com/m0Ss2Bxcdk",
+						"expanded_url": "https://twitter.com/sssinen/status/746705402507649024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1142,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 1142,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 746705389828243500,
+						"id_str": "746705389828243460",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/ClzUmIiVAAQNeb_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ClzUmIiVAAQNeb_.jpg",
+						"url": "https://t.co/m0Ss2Bxcdk",
+						"display_url": "pic.twitter.com/m0Ss2Bxcdk",
+						"expanded_url": "https://twitter.com/sssinen/status/746705402507649024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 1142,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1142,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 700882581349216300,
+				"id_str": "700882581349216256",
+				"name": "✨씨냉✨",
+				"screen_name": "sssinen",
+				"location": "starlight",
+				"description": "그림 그리는 사람 * https://t.co/wED7YWDzxC * 알티와 링크 외의 그림 공유를 허용하지 않습니다.\n가끔 멘션 온 줄 몰라욘ㅠ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wED7YWDzxC",
+								"expanded_url": "http://sssinen.postype.com",
+								"display_url": "sssinen.postype.com",
+								"indices": [
+									12,
+									35
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6839,
+				"friends_count": 138,
+				"listed_count": 39,
+				"created_at": "Sat Feb 20 03:20:04 +0000 2016",
+				"favourites_count": 1757,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5938,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850951472183365633/gh4tAOQD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850951472183365633/gh4tAOQD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/700882581349216256/1479403751",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1356,
+			"favorite_count": 313,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1356,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 21:48:23 +0000 2017",
+		"id": 851552466365628400,
+		"id_str": "851552466365628416",
+		"text": "RT @YASITAMTAM: 이제 봤다. 혜리가 군대 갔다 오면서 피부가 타서 화면에 안예쁘게 나왔다는 이야기에\n전현무: 혜리흑인\n이라고 하는거나 얼굴 까맣게 칠하고 '흑인' 이라며 자막 띄우는 해피투게더나,, 해피투게더 시청률 낮아지고 망해가는 이…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YASITAMTAM",
+					"name": "야시",
+					"id": 2939304852,
+					"id_str": "2939304852",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 09 09:59:43 +0000 2017",
+			"id": 851011736714989600,
+			"id_str": "851011736714989568",
+			"text": "이제 봤다. 혜리가 군대 갔다 오면서 피부가 타서 화면에 안예쁘게 나왔다는 이야기에\n전현무: 혜리흑인\n이라고 하는거나 얼굴 까맣게 칠하고 '흑인' 이라며 자막 띄우는 해피투게더나,, 해피투게더 시청률 낮아지… https://t.co/DVHpPYYT3q",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DVHpPYYT3q",
+						"expanded_url": "https://twitter.com/i/web/status/851011736714989568",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2939304852,
+				"id_str": "2939304852",
+				"name": "야시",
+				"screen_name": "YASITAMTAM",
+				"location": "Ísland",
+				"description": "@Yuni9ue 부댑효",
+				"url": "https://t.co/ke2kKpoSCk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ke2kKpoSCk",
+								"expanded_url": "https://ask.fm/YASITAMTAM?utm_source=twitter&utm_medium=social&utm_campaign=profile_own",
+								"display_url": "ask.fm/YASITAMTAM?utm…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 191,
+				"friends_count": 191,
+				"listed_count": 1,
+				"created_at": "Mon Dec 22 12:29:41 +0000 2014",
+				"favourites_count": 2114,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11826,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848091483597135872/q-H_JAAw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848091483597135872/q-H_JAAw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2939304852/1489820937",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9921,
+			"favorite_count": 839,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9921,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 21:40:15 +0000 2017",
+		"id": 851550416781299700,
+		"id_str": "851550416781299716",
+		"text": "미쳤다. 이게 무슨 신발광고야.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 21:37:32 +0000 2017",
+		"id": 851549736641241100,
+		"id_str": "851549736641241088",
+		"text": "신발 디자인도 마케팅도 참신함이 1도 없어요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 21:35:35 +0000 2017",
+		"id": 851549244318113800,
+		"id_str": "851549244318113793",
+		"text": "RT @hannamjaggyyo: 저는 오늘부터 휠라 불매할것 https://t.co/ab9585iWOQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hannamjaggyyo",
+					"name": "한 외살",
+					"id": 844884759046246400,
+					"id_str": "844884759046246400",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 850928915757400000,
+					"id_str": "850928915757400064",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C88bVyjUAAAUqDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C88bVyjUAAAUqDJ.jpg",
+					"url": "https://t.co/ab9585iWOQ",
+					"display_url": "pic.twitter.com/ab9585iWOQ",
+					"expanded_url": "https://twitter.com/hannamjaggyyo/status/850928933520392192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 850928933520392200,
+					"source_status_id_str": "850928933520392192",
+					"source_user_id": 844884759046246400,
+					"source_user_id_str": "844884759046246400"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 850928915757400000,
+					"id_str": "850928915757400064",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C88bVyjUAAAUqDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C88bVyjUAAAUqDJ.jpg",
+					"url": "https://t.co/ab9585iWOQ",
+					"display_url": "pic.twitter.com/ab9585iWOQ",
+					"expanded_url": "https://twitter.com/hannamjaggyyo/status/850928933520392192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 850928933520392200,
+					"source_status_id_str": "850928933520392192",
+					"source_user_id": 844884759046246400,
+					"source_user_id_str": "844884759046246400"
+				},
+				{
+					"id": 850928922443120600,
+					"id_str": "850928922443120640",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C88bWLdUAAAJO90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C88bWLdUAAAJO90.jpg",
+					"url": "https://t.co/ab9585iWOQ",
+					"display_url": "pic.twitter.com/ab9585iWOQ",
+					"expanded_url": "https://twitter.com/hannamjaggyyo/status/850928933520392192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 850928933520392200,
+					"source_status_id_str": "850928933520392192",
+					"source_user_id": 844884759046246400,
+					"source_user_id_str": "844884759046246400"
+				},
+				{
+					"id": 850928929174986800,
+					"id_str": "850928929174986752",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C88bWkiUIAAMj-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C88bWkiUIAAMj-L.jpg",
+					"url": "https://t.co/ab9585iWOQ",
+					"display_url": "pic.twitter.com/ab9585iWOQ",
+					"expanded_url": "https://twitter.com/hannamjaggyyo/status/850928933520392192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 850928933520392200,
+					"source_status_id_str": "850928933520392192",
+					"source_user_id": 844884759046246400,
+					"source_user_id_str": "844884759046246400"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 09 04:30:41 +0000 2017",
+			"id": 850928933520392200,
+			"id_str": "850928933520392192",
+			"text": "저는 오늘부터 휠라 불매할것 https://t.co/ab9585iWOQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 850928915757400000,
+						"id_str": "850928915757400064",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/C88bVyjUAAAUqDJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C88bVyjUAAAUqDJ.jpg",
+						"url": "https://t.co/ab9585iWOQ",
+						"display_url": "pic.twitter.com/ab9585iWOQ",
+						"expanded_url": "https://twitter.com/hannamjaggyyo/status/850928933520392192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 850928915757400000,
+						"id_str": "850928915757400064",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/C88bVyjUAAAUqDJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C88bVyjUAAAUqDJ.jpg",
+						"url": "https://t.co/ab9585iWOQ",
+						"display_url": "pic.twitter.com/ab9585iWOQ",
+						"expanded_url": "https://twitter.com/hannamjaggyyo/status/850928933520392192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 850928922443120600,
+						"id_str": "850928922443120640",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/C88bWLdUAAAJO90.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C88bWLdUAAAJO90.jpg",
+						"url": "https://t.co/ab9585iWOQ",
+						"display_url": "pic.twitter.com/ab9585iWOQ",
+						"expanded_url": "https://twitter.com/hannamjaggyyo/status/850928933520392192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 850928929174986800,
+						"id_str": "850928929174986752",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/C88bWkiUIAAMj-L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C88bWkiUIAAMj-L.jpg",
+						"url": "https://t.co/ab9585iWOQ",
+						"display_url": "pic.twitter.com/ab9585iWOQ",
+						"expanded_url": "https://twitter.com/hannamjaggyyo/status/850928933520392192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 420,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 844884759046246400,
+				"id_str": "844884759046246400",
+				"name": "한 외살",
+				"screen_name": "hannamjaggyyo",
+				"location": "헬조센",
+				"description": "한(남)외살(아있어요?) ,취미특기 남혐인 여성우월주의자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 265,
+				"friends_count": 70,
+				"listed_count": 1,
+				"created_at": "Thu Mar 23 12:13:18 +0000 2017",
+				"favourites_count": 283,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2639,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847892595833421824/OKnpEAyb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847892595833421824/OKnpEAyb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/844884759046246400/1491274262",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22919,
+			"favorite_count": 1814,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22919,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 21:31:32 +0000 2017",
+		"id": 851548223743209500,
+		"id_str": "851548223743209473",
+		"text": "예나지금이나 정자 글씨체를 선호한다. 물론 예전에 저렇게 각잡고 썼던 때도 있었다. 학창시절에 컴퓨터 폰트처럼 글씨 잘쓴다는 소리 들으면 좋았다. 요샌 글씨도 잘 안쓰고 쓰더라도 필기할 게 많아지다보니 글씨체가 엉망.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": 851546003844907000,
+		"in_reply_to_status_id_str": "851546003844907008",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 10 21:22:42 +0000 2017",
+		"id": 851546003844907000,
+		"id_str": "851546003844907008",
+		"text": "기계글씨 VS 손글씨 https://t.co/BC29YHYQP6 기분 좋아지는 영상. 배우고 싶다. #minfav",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BC29YHYQP6",
+					"expanded_url": "https://youtu.be/V5nYGV5pnVI",
+					"display_url": "youtu.be/V5nYGV5pnVI",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19203,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22565,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Apr 10 21:14:51 +0000 2017",
 		"id": 851544024435441700,
 		"id_str": "851544024435441665",
