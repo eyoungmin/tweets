@@ -1,6 +1,2109 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 09:16:14 +0000 2017",
+		"id": 851725568391368700,
+		"id_str": "851725568391368704",
+		"text": "RT @ygent_official: [BLACKPINK - 'PLAYING WITH FIRE' M/V HITS 100 MILLION VIEWS]\noriginally posted by https://t.co/XZQ3IOI9MY\n#BLACKPINK #블…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygent_official",
+					"name": "YG Family",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XZQ3IOI9MY",
+					"expanded_url": "http://yg-life.com",
+					"display_url": "yg-life.com",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19231,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22601,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 08:59:29 +0000 2017",
+			"id": 851721353782636500,
+			"id_str": "851721353782636545",
+			"text": "[BLACKPINK - 'PLAYING WITH FIRE' M/V HITS 100 MILLION VIEWS]\noriginally posted by https://t.co/XZQ3IOI9MY… https://t.co/du5rIRqmSz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XZQ3IOI9MY",
+						"expanded_url": "http://yg-life.com",
+						"display_url": "yg-life.com",
+						"indices": [
+							82,
+							105
+						]
+					},
+					{
+						"url": "https://t.co/du5rIRqmSz",
+						"expanded_url": "https://twitter.com/i/web/status/851721353782636545",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 408177579,
+				"id_str": "408177579",
+				"name": "YG Family",
+				"screen_name": "ygent_official",
+				"location": "Seoul, Korea ",
+				"description": "Welcome to the official Twitter page for YG Entertainment. [http://t.co/kwN2AK5T] [http://t.co/2leNbrwq]",
+				"url": "http://t.co/LpBPpYNOzu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LpBPpYNOzu",
+								"expanded_url": "http://www.ygfamily.com/",
+								"display_url": "ygfamily.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/kwN2AK5T",
+								"expanded_url": "http://www.facebook.com/ygfamily",
+								"display_url": "facebook.com/ygfamily",
+								"indices": [
+									60,
+									80
+								]
+							},
+							{
+								"url": "http://t.co/2leNbrwq",
+								"expanded_url": "http://www.youtube.com/ygentertainment",
+								"display_url": "youtube.com/ygentertainment",
+								"indices": [
+									83,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2860099,
+				"friends_count": 34,
+				"listed_count": 5967,
+				"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+				"favourites_count": 3,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6652,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181864194/N5WC3yty.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181864194/N5WC3yty.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3341276211/8b0ad1ebba4a131dad02aa75e6264447_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3341276211/8b0ad1ebba4a131dad02aa75e6264447_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1456393515",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "2E2E2E",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2898,
+			"favorite_count": 3054,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2898,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 11 09:15:33 +0000 2017",
+		"id": 851725394633818100,
+		"id_str": "851725394633818112",
+		"text": "RT @Park_ByuL: 오늘의 날씨 발매됐네요 다들 잘 듣고 계신가요? 미세먼지 풀풀 날려도 비가 미친듯이 와도 봄은 대략 이런 느낌이었으면 좋겠다고 생각하고 만든 곡이에요 작곡가 '바울'이 편곡에 도움을 주었습니다 이전까지와는 좀 다르죠 ㅎㅎ…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_ByuL",
+					"name": "박별",
+					"id": 176013443,
+					"id_str": "176013443",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19231,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22601,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 03:39:46 +0000 2017",
+			"id": 851640895355068400,
+			"id_str": "851640895355068416",
+			"text": "오늘의 날씨 발매됐네요 다들 잘 듣고 계신가요? 미세먼지 풀풀 날려도 비가 미친듯이 와도 봄은 대략 이런 느낌이었으면 좋겠다고 생각하고 만든 곡이에요 작곡가 '바울'이 편곡에 도움을 주었습니다 이전까지와는… https://t.co/k39Rkx8a6u",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k39Rkx8a6u",
+						"expanded_url": "https://twitter.com/i/web/status/851640895355068416",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 176013443,
+				"id_str": "176013443",
+				"name": "박별",
+				"screen_name": "Park_ByuL",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/LthKif8Mao",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LthKif8Mao",
+								"expanded_url": "http://www.lalasweet.com",
+								"display_url": "lalasweet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4455,
+				"friends_count": 150,
+				"listed_count": 98,
+				"created_at": "Sun Aug 08 08:32:01 +0000 2010",
+				"favourites_count": 56,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3969,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/663989318910775296/peaaSln0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/663989318910775296/peaaSln0_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 09:15:27 +0000 2017",
+		"id": 851725369426165800,
+		"id_str": "851725369426165760",
+		"text": "RT @HappyRobotKR: [발매 소식] 랄라스윗 디지털 싱글 ‘오늘의 날씨’가 모든 음원 사이트에서 공개되었습니다! ☀\n-\n멜론 https://t.co/JGCXUVPhDk\n벅스 https://t.co/vZQIgn77pu\n네이버뮤직 https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HappyRobotKR",
+					"name": "Happy Robot Records",
+					"id": 63414926,
+					"id_str": "63414926",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JGCXUVPhDk",
+					"expanded_url": "http://bit.ly/2nXewIF",
+					"display_url": "bit.ly/2nXewIF",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/vZQIgn77pu",
+					"expanded_url": "http://bit.ly/2p16pN4",
+					"display_url": "bit.ly/2p16pN4",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19231,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22601,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 03:15:44 +0000 2017",
+			"id": 851634847487479800,
+			"id_str": "851634847487479809",
+			"text": "[발매 소식] 랄라스윗 디지털 싱글 ‘오늘의 날씨’가 모든 음원 사이트에서 공개되었습니다! ☀\n-\n멜론 https://t.co/JGCXUVPhDk\n벅스 https://t.co/vZQIgn77pu\n네이버뮤직… https://t.co/4SB8YQRTFW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JGCXUVPhDk",
+						"expanded_url": "http://bit.ly/2nXewIF",
+						"display_url": "bit.ly/2nXewIF",
+						"indices": [
+							58,
+							81
+						]
+					},
+					{
+						"url": "https://t.co/vZQIgn77pu",
+						"expanded_url": "http://bit.ly/2p16pN4",
+						"display_url": "bit.ly/2p16pN4",
+						"indices": [
+							85,
+							108
+						]
+					},
+					{
+						"url": "https://t.co/4SB8YQRTFW",
+						"expanded_url": "https://twitter.com/i/web/status/851634847487479809",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63414926,
+				"id_str": "63414926",
+				"name": "Happy Robot Records",
+				"screen_name": "HappyRobotKR",
+				"location": "Seoul, Korea",
+				"description": "naru, 노리플라이, 데이브레이크, THE KOXX, 랄라스윗, 소란, THE SOLUTIONS, 이지형, TUNE, 권순관, THORNAPPLE, Life and Time",
+				"url": "https://t.co/b6z6U7PUtR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b6z6U7PUtR",
+								"expanded_url": "http://www.happyrobot.co.kr",
+								"display_url": "happyrobot.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15446,
+				"friends_count": 3996,
+				"listed_count": 323,
+				"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+				"favourites_count": 73,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11679,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834565718569947136/6bL0e-rv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834565718569947136/6bL0e-rv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1487810949",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 09:15:22 +0000 2017",
+		"id": 851725351633928200,
+		"id_str": "851725351633928194",
+		"text": "RT @highgrnd: hyukoh 1st Album &lt;23&gt;\n\n2017.04.24.18:00 Release\n \n#혁오 #hyukoh #23\n#하이그라운드 #HIGHGRND https://t.co/BX0bE5mHhB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혁오",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "hyukoh",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "하이그라운드",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "HIGHGRND",
+					"indices": [
+						94,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "highgrnd",
+					"name": "HIGHGRND",
+					"id": 3109352389,
+					"id_str": "3109352389",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 851631266264825900,
+					"id_str": "851631266264825856",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/C9GaH-FUwAA7M6t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9GaH-FUwAA7M6t.jpg",
+					"url": "https://t.co/BX0bE5mHhB",
+					"display_url": "pic.twitter.com/BX0bE5mHhB",
+					"expanded_url": "https://twitter.com/highgrnd/status/851631297319415809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851631297319415800,
+					"source_status_id_str": "851631297319415809",
+					"source_user_id": 3109352389,
+					"source_user_id_str": "3109352389"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851631266264825900,
+					"id_str": "851631266264825856",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/C9GaH-FUwAA7M6t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9GaH-FUwAA7M6t.jpg",
+					"url": "https://t.co/BX0bE5mHhB",
+					"display_url": "pic.twitter.com/BX0bE5mHhB",
+					"expanded_url": "https://twitter.com/highgrnd/status/851631297319415809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 851631297319415800,
+					"source_status_id_str": "851631297319415809",
+					"source_user_id": 3109352389,
+					"source_user_id_str": "3109352389"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19231,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22601,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 03:01:38 +0000 2017",
+			"id": 851631297319415800,
+			"id_str": "851631297319415809",
+			"text": "hyukoh 1st Album &lt;23&gt;\n\n2017.04.24.18:00 Release\n \n#혁오 #hyukoh #23\n#하이그라운드 #HIGHGRND https://t.co/BX0bE5mHhB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "혁오",
+						"indices": [
+							56,
+							59
+						]
+					},
+					{
+						"text": "hyukoh",
+						"indices": [
+							60,
+							67
+						]
+					},
+					{
+						"text": "하이그라운드",
+						"indices": [
+							72,
+							79
+						]
+					},
+					{
+						"text": "HIGHGRND",
+						"indices": [
+							80,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851631266264825900,
+						"id_str": "851631266264825856",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GaH-FUwAA7M6t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GaH-FUwAA7M6t.jpg",
+						"url": "https://t.co/BX0bE5mHhB",
+						"display_url": "pic.twitter.com/BX0bE5mHhB",
+						"expanded_url": "https://twitter.com/highgrnd/status/851631297319415809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851631266264825900,
+						"id_str": "851631266264825856",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GaH-FUwAA7M6t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GaH-FUwAA7M6t.jpg",
+						"url": "https://t.co/BX0bE5mHhB",
+						"display_url": "pic.twitter.com/BX0bE5mHhB",
+						"expanded_url": "https://twitter.com/highgrnd/status/851631297319415809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3109352389,
+				"id_str": "3109352389",
+				"name": "HIGHGRND",
+				"screen_name": "highgrnd",
+				"location": "",
+				"description": "THE BLACK SKIRTS, CODE KUNST, HYUKOH, INCREDIVLE,\nMILLIC, OFFONOFF, PUNCHNELLO",
+				"url": "https://t.co/PYZlcajqpZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PYZlcajqpZ",
+								"expanded_url": "http://youtube.com/HIGHGRND",
+								"display_url": "youtube.com/HIGHGRND",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50114,
+				"friends_count": 0,
+				"listed_count": 193,
+				"created_at": "Fri Mar 27 05:42:42 +0000 2015",
+				"favourites_count": 54,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 801,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/742025386356154368/fiHl1q1Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/742025386356154368/fiHl1q1Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3109352389/1473649578",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1085,
+			"favorite_count": 714,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1085,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 11 09:15:09 +0000 2017",
+		"id": 851725294700331000,
+		"id_str": "851725294700331009",
+		"text": "RT @duolalasweet: 랄라스윗, '오늘의 날씨' 발매... 봄날 저격!\n잠시후 12시 모든 음원사이트에서 공개됩니다!!\n#랄라스윗 #오늘의날씨 #잠시후 #12시\n\n기사 보기 https://t.co/fsw4olQ3rJ https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랄라스윗",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "오늘의날씨",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "잠시후",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "12시",
+					"indices": [
+						91,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duolalasweet",
+					"name": "랄라스윗",
+					"id": 2350048339,
+					"id_str": "2350048339",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fsw4olQ3rJ",
+					"expanded_url": "http://goo.gl/Fu5wyX",
+					"display_url": "goo.gl/Fu5wyX",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19231,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22601,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 02:17:03 +0000 2017",
+			"id": 851620077166186500,
+			"id_str": "851620077166186497",
+			"text": "랄라스윗, '오늘의 날씨' 발매... 봄날 저격!\n잠시후 12시 모든 음원사이트에서 공개됩니다!!\n#랄라스윗 #오늘의날씨 #잠시후 #12시\n\n기사 보기 https://t.co/fsw4olQ3rJ https://t.co/0kp52CDoBA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "랄라스윗",
+						"indices": [
+							55,
+							60
+						]
+					},
+					{
+						"text": "오늘의날씨",
+						"indices": [
+							61,
+							67
+						]
+					},
+					{
+						"text": "잠시후",
+						"indices": [
+							68,
+							72
+						]
+					},
+					{
+						"text": "12시",
+						"indices": [
+							73,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fsw4olQ3rJ",
+						"expanded_url": "http://goo.gl/Fu5wyX",
+						"display_url": "goo.gl/Fu5wyX",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 851619893162025000,
+						"id_str": "851619893162024961",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GPx9-UIAENmgd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GPx9-UIAENmgd.jpg",
+						"url": "https://t.co/0kp52CDoBA",
+						"display_url": "pic.twitter.com/0kp52CDoBA",
+						"expanded_url": "https://twitter.com/duolalasweet/status/851620077166186497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851619893162025000,
+						"id_str": "851619893162024961",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GPx9-UIAENmgd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GPx9-UIAENmgd.jpg",
+						"url": "https://t.co/0kp52CDoBA",
+						"display_url": "pic.twitter.com/0kp52CDoBA",
+						"expanded_url": "https://twitter.com/duolalasweet/status/851620077166186497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2350048339,
+				"id_str": "2350048339",
+				"name": "랄라스윗",
+				"screen_name": "duolalasweet",
+				"location": "",
+				"description": "김현아 @missboongboong 박별 @Park_byul",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2618,
+				"friends_count": 2876,
+				"listed_count": 20,
+				"created_at": "Tue Feb 18 12:27:11 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 575,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851639178735435776/id3AvGHd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851639178735435776/id3AvGHd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2350048339/1482242847",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 09:15:05 +0000 2017",
+		"id": 851725279089180700,
+		"id_str": "851725279089180672",
+		"text": "RT @FAVE_ENT: [멜론 VIP 혜택관] \n4월 봄, 섬세한 감성을 노래하는 \n#아이유 정규4집 ‘#palette’ 음감회 초대권 이벤트♥\n\n이벤트 기간 : 4/10 (월) ~ 4/18 (화)\n이벤트 상세 : https://t.co/yoXFR…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "palette",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FAVE_ENT",
+					"name": "FAVE ENT 공식 트위터",
+					"id": 297832294,
+					"id_str": "297832294",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19231,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22601,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 02:12:56 +0000 2017",
+			"id": 851619042003525600,
+			"id_str": "851619042003525632",
+			"text": "[멜론 VIP 혜택관] \n4월 봄, 섬세한 감성을 노래하는 \n#아이유 정규4집 ‘#palette’ 음감회 초대권 이벤트♥\n\n이벤트 기간 : 4/10 (월) ~ 4/18 (화)\n이벤트 상세 :… https://t.co/89mM8AexOf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "아이유",
+						"indices": [
+							34,
+							38
+						]
+					},
+					{
+						"text": "palette",
+						"indices": [
+							45,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/89mM8AexOf",
+						"expanded_url": "https://twitter.com/i/web/status/851619042003525632",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 297832294,
+				"id_str": "297832294",
+				"name": "FAVE ENT 공식 트위터",
+				"screen_name": "FAVE_ENT",
+				"location": "",
+				"description": "{FAVE ENT} Singer : Zia, IU, SunnyHill, Fiestar, HISTORY, 윤현상 / Creator : 원태연, 이채규 *",
+				"url": "https://t.co/dTlBeyvnEZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dTlBeyvnEZ",
+								"expanded_url": "http://ifaveent.co.kr/",
+								"display_url": "ifaveent.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 77474,
+				"friends_count": 23096,
+				"listed_count": 602,
+				"created_at": "Fri May 13 05:56:31 +0000 2011",
+				"favourites_count": 17,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5091,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816465961389670400/NN6Be_kV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816465961389670400/NN6Be_kV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/297832294/1483496886",
+				"profile_link_color": "37415A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 176,
+			"favorite_count": 138,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 11 09:14:58 +0000 2017",
+		"id": 851725249561346000,
+		"id_str": "851725249561346048",
+		"text": "RT @ygent_official: [2017 악동뮤지션 콘서트 &lt;일기장&gt; 전국투어 안내]\n#악동뮤지션 #악뮤 #AKDONGMUSICIAN #AKMU #일기장 #악뮤일기 #전국투어 #광주 #대구 #부산 #수원 #성남 #전국에계신악뮤팬 #소리질러 ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "악동뮤지션",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "악뮤",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "AKDONGMUSICIAN",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"text": "AKMU",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "일기장",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "악뮤일기",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "광주",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "대구",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "부산",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "수원",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "성남",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "전국에계신악뮤팬",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "소리질러",
+					"indices": [
+						137,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygent_official",
+					"name": "YG Family",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "문화예술공연 정보 @EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 773,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 19231,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22601,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 02:00:05 +0000 2017",
+			"id": 851615807536627700,
+			"id_str": "851615807536627712",
+			"text": "[2017 악동뮤지션 콘서트 &lt;일기장&gt; 전국투어 안내]\n#악동뮤지션 #악뮤 #AKDONGMUSICIAN #AKMU #일기장 #악뮤일기 #전국투어 #광주 #대구 #부산 #수원 #성남 #전국에계신악뮤팬 #소리질러 https://t.co/JdxvVGNjGB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "악동뮤지션",
+						"indices": [
+							37,
+							43
+						]
+					},
+					{
+						"text": "악뮤",
+						"indices": [
+							44,
+							47
+						]
+					},
+					{
+						"text": "AKDONGMUSICIAN",
+						"indices": [
+							48,
+							63
+						]
+					},
+					{
+						"text": "AKMU",
+						"indices": [
+							64,
+							69
+						]
+					},
+					{
+						"text": "일기장",
+						"indices": [
+							70,
+							74
+						]
+					},
+					{
+						"text": "악뮤일기",
+						"indices": [
+							75,
+							80
+						]
+					},
+					{
+						"text": "전국투어",
+						"indices": [
+							81,
+							86
+						]
+					},
+					{
+						"text": "광주",
+						"indices": [
+							87,
+							90
+						]
+					},
+					{
+						"text": "대구",
+						"indices": [
+							91,
+							94
+						]
+					},
+					{
+						"text": "부산",
+						"indices": [
+							95,
+							98
+						]
+					},
+					{
+						"text": "수원",
+						"indices": [
+							99,
+							102
+						]
+					},
+					{
+						"text": "성남",
+						"indices": [
+							103,
+							106
+						]
+					},
+					{
+						"text": "전국에계신악뮤팬",
+						"indices": [
+							107,
+							116
+						]
+					},
+					{
+						"text": "소리질러",
+						"indices": [
+							117,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851605142499606500,
+						"id_str": "851605142499606528",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GC9uDVYAE5PaL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GC9uDVYAE5PaL.jpg",
+						"url": "https://t.co/JdxvVGNjGB",
+						"display_url": "pic.twitter.com/JdxvVGNjGB",
+						"expanded_url": "https://twitter.com/ygent_official/status/851615807536627712/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851605142499606500,
+						"id_str": "851605142499606528",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/C9GC9uDVYAE5PaL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9GC9uDVYAE5PaL.jpg",
+						"url": "https://t.co/JdxvVGNjGB",
+						"display_url": "pic.twitter.com/JdxvVGNjGB",
+						"expanded_url": "https://twitter.com/ygent_official/status/851615807536627712/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 51343,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/851605142499606528/vid/1280x720/jdcVjSxALvHTwIPJ.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/851605142499606528/vid/640x360/Bmcq0Yw1T_IQwnGI.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/851605142499606528/pl/1vXyUgpEEAqojj0F.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/851605142499606528/vid/320x180/tfrO_13VKF1ll4q-.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 408177579,
+				"id_str": "408177579",
+				"name": "YG Family",
+				"screen_name": "ygent_official",
+				"location": "Seoul, Korea ",
+				"description": "Welcome to the official Twitter page for YG Entertainment. [http://t.co/kwN2AK5T] [http://t.co/2leNbrwq]",
+				"url": "http://t.co/LpBPpYNOzu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LpBPpYNOzu",
+								"expanded_url": "http://www.ygfamily.com/",
+								"display_url": "ygfamily.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/kwN2AK5T",
+								"expanded_url": "http://www.facebook.com/ygfamily",
+								"display_url": "facebook.com/ygfamily",
+								"indices": [
+									60,
+									80
+								]
+							},
+							{
+								"url": "http://t.co/2leNbrwq",
+								"expanded_url": "http://www.youtube.com/ygentertainment",
+								"display_url": "youtube.com/ygentertainment",
+								"indices": [
+									83,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2860099,
+				"friends_count": 34,
+				"listed_count": 5967,
+				"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+				"favourites_count": 3,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6652,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181864194/N5WC3yty.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181864194/N5WC3yty.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3341276211/8b0ad1ebba4a131dad02aa75e6264447_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3341276211/8b0ad1ebba4a131dad02aa75e6264447_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1456393515",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "2E2E2E",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1068,
+			"favorite_count": 2292,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1068,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Apr 11 00:50:20 +0000 2017",
 		"id": 851598252960956400,
 		"id_str": "851598252960956416",
