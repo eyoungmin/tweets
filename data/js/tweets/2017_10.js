@@ -1,6 +1,4764 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 06 11:08:05 +0000 2017",
+		"id": 916258757406945300,
+		"id_str": "916258757406945280",
+		"text": "RT @YourSummerKR: 운전이 가능한 A&amp;R 을 찾습니다. \n\n연봉 협의 / 당연한 4대 보험 / 노트북 제공 / 2시 출근 / 식사 제공 / 때때로 상여금 / 사무실에 멍하니 앉아 있느니 퇴근 장려\n\n이력 및 자기 소개서를 nina@you…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YourSummerKR",
+					"name": "당신의 여름",
+					"id": 404720294,
+					"id_str": "404720294",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 06 08:07:59 +0000 2017",
+			"id": 916213432180813800,
+			"id_str": "916213432180813825",
+			"text": "운전이 가능한 A&amp;R 을 찾습니다. \n\n연봉 협의 / 당연한 4대 보험 / 노트북 제공 / 2시 출근 / 식사 제공 / 때때로 상여금 / 사무실에 멍하니 앉아 있느니 퇴근 장려\n\n이력 및 자기 소개서를 nina@yoursummer.net 으로!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 404720294,
+				"id_str": "404720294",
+				"name": "당신의 여름",
+				"screen_name": "YourSummerKR",
+				"location": "한국",
+				"description": "홍보 마케팅 에이전시 Your Summer (당신의 여름) 입니다. 가을방학, 못(Mot), 오지은서영호, 박준하, 오늘의라디오, 유재하 동문회, 최낙타, Deezer, 네이버 문화재단, 스윗소로우 컴퍼니와 함께합니다 / 인스타그램은 yoursummernet",
+				"url": "https://t.co/A36Z4wUxOp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A36Z4wUxOp",
+								"expanded_url": "http://www.yoursummer.net",
+								"display_url": "yoursummer.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1133,
+				"friends_count": 23,
+				"listed_count": 8,
+				"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+				"favourites_count": 70,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1632,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/618346991005728768/tiWEjpJa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/618346991005728768/tiWEjpJa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1497543602",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 06 11:07:54 +0000 2017",
+		"id": 916258708421713900,
+		"id_str": "916258708421713920",
+		"text": "RT @theiconkr: [가수 핫펠트] 가수 핫펠트로 돌아온 예은과 수다 아닌 미팅을 하고 왔는데요. 이날 피디들은 얼굴에 미소가 떠나가질 않았다고.. https://t.co/Y9QDzLli4l",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theiconkr",
+					"name": "theicon",
+					"id": 2641327483,
+					"id_str": "2641327483",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y9QDzLli4l",
+					"expanded_url": "http://youtu.be/sMrOAY57d-k",
+					"display_url": "youtu.be/sMrOAY57d-k",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 06 10:12:20 +0000 2017",
+			"id": 916244727615307800,
+			"id_str": "916244727615307776",
+			"text": "[가수 핫펠트] 가수 핫펠트로 돌아온 예은과 수다 아닌 미팅을 하고 왔는데요. 이날 피디들은 얼굴에 미소가 떠나가질 않았다고.. https://t.co/Y9QDzLli4l",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Y9QDzLli4l",
+						"expanded_url": "http://youtu.be/sMrOAY57d-k",
+						"display_url": "youtu.be/sMrOAY57d-k",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2641327483,
+				"id_str": "2641327483",
+				"name": "theicon",
+				"screen_name": "theiconkr",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 735,
+				"friends_count": 2,
+				"listed_count": 3,
+				"created_at": "Mon Jul 14 00:46:43 +0000 2014",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 832,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/623795037025890304/LNouaApD_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/623795037025890304/LNouaApD_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2641327483/1437559290",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 06 11:06:34 +0000 2017",
+		"id": 916258376283078700,
+		"id_str": "916258376283078656",
+		"text": "RT @DPS_Sailors: 안녕하세요. 단편선과 선원들입니다. 밴드의 현재 상황과, 올해의 공연 계획 그리고 해체에 대한 이야기입니다. \nhttps://t.co/eOCXmfoRkD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DPS_Sailors",
+					"name": "단편선과 선원들",
+					"id": 2473602571,
+					"id_str": "2473602571",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eOCXmfoRkD",
+					"expanded_url": "https://www.facebook.com/danpyunsunandthesailors/posts/864197927067592",
+					"display_url": "facebook.com/danpyunsunandt…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 06 09:55:01 +0000 2017",
+			"id": 916240369703985200,
+			"id_str": "916240369703985153",
+			"text": "안녕하세요. 단편선과 선원들입니다. 밴드의 현재 상황과, 올해의 공연 계획 그리고 해체에 대한 이야기입니다. \nhttps://t.co/eOCXmfoRkD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eOCXmfoRkD",
+						"expanded_url": "https://www.facebook.com/danpyunsunandthesailors/posts/864197927067592",
+						"display_url": "facebook.com/danpyunsunandt…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2473602571,
+				"id_str": "2473602571",
+				"name": "단편선과 선원들",
+				"screen_name": "DPS_Sailors",
+				"location": "Seoul, Korea",
+				"description": "Danpyunsun and the Sailors | Avant-Garde Pop/Rock Band from Seoul | 2014 1st Album [Animal] | 2016 2nd Album [Shofar]",
+				"url": "https://t.co/nCHjSfLgnw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nCHjSfLgnw",
+								"expanded_url": "http://danpyunsun.tumblr.com",
+								"display_url": "danpyunsun.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2182,
+				"friends_count": 1502,
+				"listed_count": 15,
+				"created_at": "Fri May 02 07:10:46 +0000 2014",
+				"favourites_count": 62,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6412,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF0055",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462135110075052033/80RGyEc2.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462135110075052033/80RGyEc2.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894546090292199425/jYeD-d50_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894546090292199425/jYeD-d50_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2473602571/1502111398",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 297,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 297,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 06 05:30:06 +0000 2017",
+		"id": 916173702097649700,
+		"id_str": "916173702097649664",
+		"text": "스카이디지탈 아리아판이나 일우 벽걸이 CDP 뽐뿌온다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 06 05:23:28 +0000 2017",
+		"id": 916172030243856400,
+		"id_str": "916172030243856384",
+		"text": "웹드라마 '옐로우' OST 라인업\n\n마마무 휘인\n멜로망스\n카더가든\n웨터",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 06 05:21:32 +0000 2017",
+		"id": 916171545415790600,
+		"id_str": "916171545415790592",
+		"text": "요즘은 웹드라마 OST 라인업이 방송사 드라마에도 뒤지지 않는 것 같음.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 06 05:20:19 +0000 2017",
+		"id": 916171239609077800,
+		"id_str": "916171239609077760",
+		"text": "RT @outstandcrew: 연휴 동안 특선 영화를 보는 건 소소한 재미인데요. 하지만 지금은 시대가 바뀌었고, 언제 어디서든 볼 수 있는 웹 콘텐츠들이 범람하는 상황이죠. 오늘은 한가할 때  보면 좋은 웹콘텐츠를 선별해봤습니다. https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "outstandcrew",
+					"name": "아웃스탠딩",
+					"id": 2937683713,
+					"id_str": "2937683713",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 00:00:27 +0000 2017",
+			"id": 915003579529695200,
+			"id_str": "915003579529695232",
+			"text": "연휴 동안 특선 영화를 보는 건 소소한 재미인데요. 하지만 지금은 시대가 바뀌었고, 언제 어디서든 볼 수 있는 웹 콘텐츠들이 범람하는 상황이죠. 오늘은 한가할 때  보면 좋은 웹콘텐츠를 선별해봤습니다. https://t.co/UGzATHWIWr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UGzATHWIWr",
+						"expanded_url": "http://outstanding.kr/videocontent20171003/",
+						"display_url": "outstanding.kr/videocontent20…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2937683713,
+				"id_str": "2937683713",
+				"name": "아웃스탠딩",
+				"screen_name": "outstandcrew",
+				"location": "대한민국 서울",
+				"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+				"url": "https://t.co/258PFm5gGW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/258PFm5gGW",
+								"expanded_url": "http://www.outstanding.kr",
+								"display_url": "outstanding.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36282,
+				"friends_count": 453,
+				"listed_count": 100,
+				"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+				"favourites_count": 665,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1664,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 30,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 06 03:32:36 +0000 2017",
+		"id": 916144130471768000,
+		"id_str": "916144130471768064",
+		"text": "RT @JYPETWICE_JAPAN: TWICE JAPAN 1st SINGLE『One More Time』 \n2017.10.18 Release\n\n「One More Time」Music Video\n\nhttps://t.co/jrrKsjxZKh\n\n#TWICE…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TWICE",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JYPETWICE_JAPAN",
+					"name": "TWICE JAPAN OFFICIAL",
+					"id": 806020707700215800,
+					"id_str": "806020707700215808",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jrrKsjxZKh",
+					"expanded_url": "https://youtu.be/HuoOEry-Yc4",
+					"display_url": "youtu.be/HuoOEry-Yc4",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 05 19:00:07 +0000 2017",
+			"id": 916015159436492800,
+			"id_str": "916015159436492800",
+			"text": "TWICE JAPAN 1st SINGLE『One More Time』 \n2017.10.18 Release\n\n「One More Time」Music Video\n\nhttps://t.co/jrrKsjxZKh\n\n#TWICE #OneMoreTime",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TWICE",
+						"indices": [
+							112,
+							118
+						]
+					},
+					{
+						"text": "OneMoreTime",
+						"indices": [
+							119,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jrrKsjxZKh",
+						"expanded_url": "https://youtu.be/HuoOEry-Yc4",
+						"display_url": "youtu.be/HuoOEry-Yc4",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 806020707700215800,
+				"id_str": "806020707700215808",
+				"name": "TWICE JAPAN OFFICIAL",
+				"screen_name": "JYPETWICE_JAPAN",
+				"location": "",
+				"description": "TWICE JAPAN OFFICIAL Twitter",
+				"url": "https://t.co/PJi0vcRgRI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJi0vcRgRI",
+								"expanded_url": "http://www.twicejapan.com",
+								"display_url": "twicejapan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 415034,
+				"friends_count": 4,
+				"listed_count": 749,
+				"created_at": "Tue Dec 06 06:21:26 +0000 2016",
+				"favourites_count": 1,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 151,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908406094086627329/rSRM-k2C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908406094086627329/rSRM-k2C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/806020707700215808/1505415866",
+				"profile_link_color": "FF2965",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17273,
+			"favorite_count": 32051,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17273,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 06 03:26:26 +0000 2017",
+		"id": 916142577354555400,
+		"id_str": "916142577354555393",
+		"text": "서늘한 마음썰에서 'Keren Ann - Not Going Anywhere' 추천했다. 프롬님이 톡투유에서 부른 버전도 같이 들어주세요! https://t.co/M8aolNsGf1 https://t.co/6u87vnmgrM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M8aolNsGf1",
+					"expanded_url": "http://tv.naver.com/v/1377255",
+					"display_url": "tv.naver.com/v/1377255",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/6u87vnmgrM",
+					"expanded_url": "http://vod.jtbc.joins.com/player/clip/vo10131325",
+					"display_url": "vod.jtbc.joins.com/player/clip/vo…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 06 03:12:47 +0000 2017",
+		"id": 916139141569552400,
+		"id_str": "916139141569552384",
+		"text": "RT @amoebakorea: [HA:TFELT]\nMEiNE\n'새 신발 (I Wander) Feat. 개코' CONCEPT TEASER\n▶https://t.co/ZdDjgWloeI\n\n#HATFELT #핫펠트 #예은 #MEiNE\n#새신발 #IWande…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HATFELT",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "핫펠트",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "예은",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "MEiNE",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "새신발",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amoebakorea",
+					"name": "amoebaculture",
+					"id": 555814139,
+					"id_str": "555814139",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZdDjgWloeI",
+					"expanded_url": "https://youtu.be/LQXUgr4lNTQ",
+					"display_url": "youtu.be/LQXUgr4lNTQ",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 06 03:00:49 +0000 2017",
+			"id": 916136133859274800,
+			"id_str": "916136133859274752",
+			"text": "[HA:TFELT]\nMEiNE\n'새 신발 (I Wander) Feat. 개코' CONCEPT TEASER\n▶https://t.co/ZdDjgWloeI\n\n#HATFELT #핫펠트 #예은 #MEiNE\n#새신발… https://t.co/bP7dsRCS8K",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HATFELT",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"text": "핫펠트",
+						"indices": [
+							94,
+							98
+						]
+					},
+					{
+						"text": "예은",
+						"indices": [
+							99,
+							102
+						]
+					},
+					{
+						"text": "MEiNE",
+						"indices": [
+							103,
+							109
+						]
+					},
+					{
+						"text": "새신발",
+						"indices": [
+							110,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZdDjgWloeI",
+						"expanded_url": "https://youtu.be/LQXUgr4lNTQ",
+						"display_url": "youtu.be/LQXUgr4lNTQ",
+						"indices": [
+							60,
+							83
+						]
+					},
+					{
+						"url": "https://t.co/bP7dsRCS8K",
+						"expanded_url": "https://twitter.com/i/web/status/916136133859274752",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 555814139,
+				"id_str": "555814139",
+				"name": "amoebaculture",
+				"screen_name": "amoebakorea",
+				"location": "",
+				"description": "아메바컬쳐 공식 트위터 / amoebaculture official twitter",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24293,
+				"friends_count": 10,
+				"listed_count": 186,
+				"created_at": "Tue Apr 17 09:08:06 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1964,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/603057354846777344/syHhrwAY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/603057354846777344/syHhrwAY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/555814139/1432615134",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 608,
+			"favorite_count": 406,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 608,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 06 02:18:07 +0000 2017",
+		"id": 916125387570143200,
+		"id_str": "916125387570143232",
+		"text": "@iloveyogurt_ 그렇군요. 못짜른다니!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iloveyogurt_",
+					"name": "부패한 요거트🌈",
+					"id": 1965267378,
+					"id_str": "1965267378",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 916016989902069800,
+		"in_reply_to_status_id_str": "916016989902069761",
+		"in_reply_to_user_id": 1965267378,
+		"in_reply_to_user_id_str": "1965267378",
+		"in_reply_to_screen_name": "iloveyogurt_",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 05 16:11:11 +0000 2017",
+		"id": 915972645643984900,
+		"id_str": "915972645643984896",
+		"text": "CREATE A NEW GENRE https://t.co/5pwMKiVC4R #minfav",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5pwMKiVC4R",
+					"expanded_url": "https://www.redbull.com/kr-ko/create-a-new-genre-in-seoul",
+					"display_url": "redbull.com/kr-ko/create-a…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 05 16:10:25 +0000 2017",
+		"id": 915972454845112300,
+		"id_str": "915972454845112320",
+		"text": "RT @theoria__: 한 명이라도 더 같이 생각해준다면 좋을 거 같아 인스타그램에 올렸던 걸 여기에 옮겨본다. 블럭 형이 쓴 서울의 로컬 장르에 대한 이야기. https://t.co/fWxASv8E8B https://t.co/2pajn1cNAz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theoria__",
+					"name": "・ɐıɹoǝɥʇ",
+					"id": 2560904234,
+					"id_str": "2560904234",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fWxASv8E8B",
+					"expanded_url": "https://www.redbull.com/kr-ko/create-a-new-genre-in-seoul",
+					"display_url": "redbull.com/kr-ko/create-a…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 915192907014877200,
+					"id_str": "915192907014877184",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DLNrGZuUMAAdWjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLNrGZuUMAAdWjg.jpg",
+					"url": "https://t.co/2pajn1cNAz",
+					"display_url": "pic.twitter.com/2pajn1cNAz",
+					"expanded_url": "https://twitter.com/theoria__/status/915192914371682304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915192914371682300,
+					"source_status_id_str": "915192914371682304",
+					"source_user_id": 2560904234,
+					"source_user_id_str": "2560904234"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 915192907014877200,
+					"id_str": "915192907014877184",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DLNrGZuUMAAdWjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLNrGZuUMAAdWjg.jpg",
+					"url": "https://t.co/2pajn1cNAz",
+					"display_url": "pic.twitter.com/2pajn1cNAz",
+					"expanded_url": "https://twitter.com/theoria__/status/915192914371682304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915192914371682300,
+					"source_status_id_str": "915192914371682304",
+					"source_user_id": 2560904234,
+					"source_user_id_str": "2560904234"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 12:32:48 +0000 2017",
+			"id": 915192914371682300,
+			"id_str": "915192914371682304",
+			"text": "한 명이라도 더 같이 생각해준다면 좋을 거 같아 인스타그램에 올렸던 걸 여기에 옮겨본다. 블럭 형이 쓴 서울의 로컬 장르에 대한 이야기. https://t.co/fWxASv8E8B https://t.co/2pajn1cNAz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fWxASv8E8B",
+						"expanded_url": "https://www.redbull.com/kr-ko/create-a-new-genre-in-seoul",
+						"display_url": "redbull.com/kr-ko/create-a…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 915192907014877200,
+						"id_str": "915192907014877184",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DLNrGZuUMAAdWjg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLNrGZuUMAAdWjg.jpg",
+						"url": "https://t.co/2pajn1cNAz",
+						"display_url": "pic.twitter.com/2pajn1cNAz",
+						"expanded_url": "https://twitter.com/theoria__/status/915192914371682304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 682,
+								"h": 590,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 682,
+								"h": 590,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 915192907014877200,
+						"id_str": "915192907014877184",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DLNrGZuUMAAdWjg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLNrGZuUMAAdWjg.jpg",
+						"url": "https://t.co/2pajn1cNAz",
+						"display_url": "pic.twitter.com/2pajn1cNAz",
+						"expanded_url": "https://twitter.com/theoria__/status/915192914371682304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 682,
+								"h": 590,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 682,
+								"h": 590,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2560904234,
+				"id_str": "2560904234",
+				"name": "・ɐıɹoǝɥʇ",
+				"screen_name": "theoria__",
+				"location": "idea",
+				"description": "HWAITING #케이팝애티튜드",
+				"url": "https://t.co/gFckQqP062",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gFckQqP062",
+								"expanded_url": "http://soundcloud.com/theo-ria",
+								"display_url": "soundcloud.com/theo-ria",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89,
+				"friends_count": 6,
+				"listed_count": 1,
+				"created_at": "Wed Jun 11 08:30:16 +0000 2014",
+				"favourites_count": 3,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476643792456409090/4u8Gs6cE.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/476643792456409090/4u8Gs6cE.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844380259894026240/uXKreNjg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844380259894026240/uXKreNjg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2560904234/1420928091",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 05 16:02:29 +0000 2017",
+		"id": 915970457932775400,
+		"id_str": "915970457932775424",
+		"text": "RT @st_vincent: How could anybody have you &amp; lose you? Dir. Willo Perron\n\nhttps://t.co/SlpotvozJ7\n\nMore: https://t.co/Lm4JTWeN8j @RBMA #RBM…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "st_vincent",
+					"name": "St. Vincent",
+					"id": 18518096,
+					"id_str": "18518096",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "RBMA",
+					"name": "RedBullMusicAcademy",
+					"id": 18924406,
+					"id_str": "18924406",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SlpotvozJ7",
+					"expanded_url": "https://youtu.be/h9TlaYxoOO8",
+					"display_url": "youtu.be/h9TlaYxoOO8",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/Lm4JTWeN8j",
+					"expanded_url": "http://win.gs/losageless",
+					"display_url": "win.gs/losageless",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 14:03:21 +0000 2017",
+			"id": 915215699752161300,
+			"id_str": "915215699752161281",
+			"text": "How could anybody have you &amp; lose you? Dir. Willo Perron\n\nhttps://t.co/SlpotvozJ7\n\nMore: https://t.co/Lm4JTWeN8j @RBMA #RBMALA #MASSEDUCTION",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RBMALA",
+						"indices": [
+							123,
+							130
+						]
+					},
+					{
+						"text": "MASSEDUCTION",
+						"indices": [
+							131,
+							144
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RBMA",
+						"name": "RedBullMusicAcademy",
+						"id": 18924406,
+						"id_str": "18924406",
+						"indices": [
+							117,
+							122
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SlpotvozJ7",
+						"expanded_url": "https://youtu.be/h9TlaYxoOO8",
+						"display_url": "youtu.be/h9TlaYxoOO8",
+						"indices": [
+							62,
+							85
+						]
+					},
+					{
+						"url": "https://t.co/Lm4JTWeN8j",
+						"expanded_url": "http://win.gs/losageless",
+						"display_url": "win.gs/losageless",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18518096,
+				"id_str": "18518096",
+				"name": "St. Vincent",
+				"screen_name": "st_vincent",
+				"location": "everywhere",
+				"description": "",
+				"url": "http://t.co/PoICq4IAfK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PoICq4IAfK",
+								"expanded_url": "http://www.ilovestvincent.com/",
+								"display_url": "ilovestvincent.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 971431,
+				"friends_count": 193,
+				"listed_count": 4508,
+				"created_at": "Wed Dec 31 22:38:53 +0000 2008",
+				"favourites_count": 472,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2547,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000144358734/GG9XxbwJ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000144358734/GG9XxbwJ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905419851329544192/Eh11TJTH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905419851329544192/Eh11TJTH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18518096/1504703871",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 401,
+			"favorite_count": 1147,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 401,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 05 15:58:44 +0000 2017",
+		"id": 915969512196890600,
+		"id_str": "915969512196890625",
+		"text": "RT @byguilty: 문소리 감독이 “한국 남자들, 술자리에서 이러지 좀 말았으면 좋겠다고 생각하는 것”에 대해 묻자 엄정화 배우가 진심을 1000퍼센트 담아서 1막 어떻게 그렇게 잘 썼냐고 감탄+찬사를 보내심. 외모 얘기, 여자라고 깔보는 태도…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "byguilty",
+					"name": "Choi Ji Eun",
+					"id": 175400805,
+					"id_str": "175400805",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 12:52:15 +0000 2017",
+			"id": 915197805567676400,
+			"id_str": "915197805567676416",
+			"text": "문소리 감독이 “한국 남자들, 술자리에서 이러지 좀 말았으면 좋겠다고 생각하는 것”에 대해 묻자 엄정화 배우가 진심을 1000퍼센트 담아서 1막 어떻게 그렇게 잘 썼냐고 감탄+찬사를 보내심. 외모 얘기, 여자라고 깔보는 태도, 성적인 농담 싫으시다고.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 915197057706553300,
+			"in_reply_to_status_id_str": "915197057706553344",
+			"in_reply_to_user_id": 175400805,
+			"in_reply_to_user_id_str": "175400805",
+			"in_reply_to_screen_name": "byguilty",
+			"user": {
+				"id": 175400805,
+				"id_str": "175400805",
+				"name": "Choi Ji Eun",
+				"screen_name": "byguilty",
+				"location": "",
+				"description": "한국 대중문화 속 여성혐오에 대한 책 [괜찮지 않습니다]를 썼습니다. (2017. 9)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23845,
+				"friends_count": 3659,
+				"listed_count": 314,
+				"created_at": "Fri Aug 06 14:12:41 +0000 2010",
+				"favourites_count": 9018,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77026,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899193180117024768/zu55CSDN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899193180117024768/zu55CSDN_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 161,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 05 15:54:35 +0000 2017",
+		"id": 915968470742835200,
+		"id_str": "915968470742835201",
+		"text": "#보라X뮤직페스티벌 접근성에 대해 세부공지하는 것 너무 좋다. 접근성이 높은 페스티벌, 공연이 많아졌으면 좋겠다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라X뮤직페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 05 15:51:54 +0000 2017",
+		"id": 915967793937358800,
+		"id_str": "915967793937358848",
+		"text": "RT @boraXfemicamp: #보라X뮤직페스티벌 장애인 안내 마지막! \n활동보조인 1인 무료입장 가능, 배리어 프리존 이용자는 줄서기없이 티켓팅/입장 가능, 필요시 공연장 내 스텝 요청 가능! 읽어보시고 즐거운 페스티벌 즐겁게 함께해요 :) #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라X뮤직페스티벌",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boraXfemicamp",
+					"name": "보라X뮤직페스티벌",
+					"id": 816934287366713300,
+					"id_str": "816934287366713346",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 05 09:16:37 +0000 2017",
+			"id": 915868316597600300,
+			"id_str": "915868316597600256",
+			"text": "#보라X뮤직페스티벌 장애인 안내 마지막! \n활동보조인 1인 무료입장 가능, 배리어 프리존 이용자는 줄서기없이 티켓팅/입장 가능, 필요시 공연장 내 스텝 요청 가능! 읽어보시고 즐거운 페스티벌 즐겁게 함께해요… https://t.co/4apYmafU3G",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "보라X뮤직페스티벌",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4apYmafU3G",
+						"expanded_url": "https://twitter.com/i/web/status/915868316597600256",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816934287366713300,
+				"id_str": "816934287366713346",
+				"name": "보라X뮤직페스티벌",
+				"screen_name": "boraXfemicamp",
+				"location": "홍대 웨스트브릿지",
+				"description": "제1회 보라X뮤직페스티벌. 음악하는 여자들과 즐기는 여자들의 축제. 10.08 SUN 홍대 웨스트브릿지 💜 티켓예매 https://t.co/Vhipre4nqO 💜굿즈구매 https://t.co/mKwvue0SsR",
+				"url": "https://t.co/yOImrH3Yb4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yOImrH3Yb4",
+								"expanded_url": "http://blog.naver.com/bora-x",
+								"display_url": "blog.naver.com/bora-x",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Vhipre4nqO",
+								"expanded_url": "https://goo.gl/4h4wkn",
+								"display_url": "goo.gl/4h4wkn",
+								"indices": [
+									65,
+									88
+								]
+							},
+							{
+								"url": "https://t.co/mKwvue0SsR",
+								"expanded_url": "https://goo.gl/zAkyTB",
+								"display_url": "goo.gl/zAkyTB",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 667,
+				"friends_count": 691,
+				"listed_count": 3,
+				"created_at": "Thu Jan 05 09:08:06 +0000 2017",
+				"favourites_count": 380,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 711,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816934287366713346/1507016302",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 05 15:51:51 +0000 2017",
+		"id": 915967782277099500,
+		"id_str": "915967782277099520",
+		"text": "RT @boraXfemicamp: #보라X뮤직페스티벌 장애인 안내 두 번째! 휠체여 이동 경로와 배리어 프리존, 장애인 화장실, 시청각 보조 안내입니다! #홍대웨스트브릿지 #10월8일 #이번주_일요일 https://t.co/zxvL27jyih",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라X뮤직페스티벌",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "홍대웨스트브릿지",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "10월8일",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "이번주_일요일",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boraXfemicamp",
+					"name": "보라X뮤직페스티벌",
+					"id": 816934287366713300,
+					"id_str": "816934287366713346",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 915867801130172400,
+					"id_str": "915867801130172417",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DLXQ6aOVAAEnhKm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLXQ6aOVAAEnhKm.jpg",
+					"url": "https://t.co/zxvL27jyih",
+					"display_url": "pic.twitter.com/zxvL27jyih",
+					"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915867850463617000,
+					"source_status_id_str": "915867850463617025",
+					"source_user_id": 816934287366713300,
+					"source_user_id_str": "816934287366713346"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 915867801130172400,
+					"id_str": "915867801130172417",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DLXQ6aOVAAEnhKm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLXQ6aOVAAEnhKm.jpg",
+					"url": "https://t.co/zxvL27jyih",
+					"display_url": "pic.twitter.com/zxvL27jyih",
+					"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915867850463617000,
+					"source_status_id_str": "915867850463617025",
+					"source_user_id": 816934287366713300,
+					"source_user_id_str": "816934287366713346"
+				},
+				{
+					"id": 915867814459617300,
+					"id_str": "915867814459617280",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DLXQ7L4UMAAsswo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLXQ7L4UMAAsswo.jpg",
+					"url": "https://t.co/zxvL27jyih",
+					"display_url": "pic.twitter.com/zxvL27jyih",
+					"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915867850463617000,
+					"source_status_id_str": "915867850463617025",
+					"source_user_id": 816934287366713300,
+					"source_user_id_str": "816934287366713346"
+				},
+				{
+					"id": 915867826178555900,
+					"id_str": "915867826178555908",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DLXQ73iVAAQZ-S9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLXQ73iVAAQZ-S9.jpg",
+					"url": "https://t.co/zxvL27jyih",
+					"display_url": "pic.twitter.com/zxvL27jyih",
+					"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915867850463617000,
+					"source_status_id_str": "915867850463617025",
+					"source_user_id": 816934287366713300,
+					"source_user_id_str": "816934287366713346"
+				},
+				{
+					"id": 915867839034138600,
+					"id_str": "915867839034138625",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DLXQ8nbVoAEhmuk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLXQ8nbVoAEhmuk.jpg",
+					"url": "https://t.co/zxvL27jyih",
+					"display_url": "pic.twitter.com/zxvL27jyih",
+					"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 701,
+							"h": 701,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915867850463617000,
+					"source_status_id_str": "915867850463617025",
+					"source_user_id": 816934287366713300,
+					"source_user_id_str": "816934287366713346"
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 05 09:14:46 +0000 2017",
+			"id": 915867850463617000,
+			"id_str": "915867850463617025",
+			"text": "#보라X뮤직페스티벌 장애인 안내 두 번째! 휠체여 이동 경로와 배리어 프리존, 장애인 화장실, 시청각 보조 안내입니다! #홍대웨스트브릿지 #10월8일 #이번주_일요일 https://t.co/zxvL27jyih",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "보라X뮤직페스티벌",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "홍대웨스트브릿지",
+						"indices": [
+							67,
+							76
+						]
+					},
+					{
+						"text": "10월8일",
+						"indices": [
+							77,
+							83
+						]
+					},
+					{
+						"text": "이번주_일요일",
+						"indices": [
+							84,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 915867801130172400,
+						"id_str": "915867801130172417",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQ6aOVAAEnhKm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQ6aOVAAEnhKm.jpg",
+						"url": "https://t.co/zxvL27jyih",
+						"display_url": "pic.twitter.com/zxvL27jyih",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 915867801130172400,
+						"id_str": "915867801130172417",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQ6aOVAAEnhKm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQ6aOVAAEnhKm.jpg",
+						"url": "https://t.co/zxvL27jyih",
+						"display_url": "pic.twitter.com/zxvL27jyih",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 915867814459617300,
+						"id_str": "915867814459617280",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQ7L4UMAAsswo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQ7L4UMAAsswo.jpg",
+						"url": "https://t.co/zxvL27jyih",
+						"display_url": "pic.twitter.com/zxvL27jyih",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 915867826178555900,
+						"id_str": "915867826178555908",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQ73iVAAQZ-S9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQ73iVAAQZ-S9.jpg",
+						"url": "https://t.co/zxvL27jyih",
+						"display_url": "pic.twitter.com/zxvL27jyih",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 915867839034138600,
+						"id_str": "915867839034138625",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQ8nbVoAEhmuk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQ8nbVoAEhmuk.jpg",
+						"url": "https://t.co/zxvL27jyih",
+						"display_url": "pic.twitter.com/zxvL27jyih",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867850463617025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816934287366713300,
+				"id_str": "816934287366713346",
+				"name": "보라X뮤직페스티벌",
+				"screen_name": "boraXfemicamp",
+				"location": "홍대 웨스트브릿지",
+				"description": "제1회 보라X뮤직페스티벌. 음악하는 여자들과 즐기는 여자들의 축제. 10.08 SUN 홍대 웨스트브릿지 💜 티켓예매 https://t.co/Vhipre4nqO 💜굿즈구매 https://t.co/mKwvue0SsR",
+				"url": "https://t.co/yOImrH3Yb4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yOImrH3Yb4",
+								"expanded_url": "http://blog.naver.com/bora-x",
+								"display_url": "blog.naver.com/bora-x",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Vhipre4nqO",
+								"expanded_url": "https://goo.gl/4h4wkn",
+								"display_url": "goo.gl/4h4wkn",
+								"indices": [
+									65,
+									88
+								]
+							},
+							{
+								"url": "https://t.co/mKwvue0SsR",
+								"expanded_url": "https://goo.gl/zAkyTB",
+								"display_url": "goo.gl/zAkyTB",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 667,
+				"friends_count": 691,
+				"listed_count": 3,
+				"created_at": "Thu Jan 05 09:08:06 +0000 2017",
+				"favourites_count": 380,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 711,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816934287366713346/1507016302",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 05 15:51:48 +0000 2017",
+		"id": 915967769375412200,
+		"id_str": "915967769375412225",
+		"text": "RT @boraXfemicamp: #보라X뮤직페스티벌 일요일이 코앞으로 다가온 목요일 저녁! 신나게 즐기러 오실 장애인 분들을 위한 안내가 나갑니다 :) 찾아오시는 길, 시청각 보조 등등! 꼭 한 번씩 읽어 주세요! #홍대웨스트브릿지 https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라X뮤직페스티벌",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "홍대웨스트브릿지",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boraXfemicamp",
+					"name": "보라X뮤직페스티벌",
+					"id": 816934287366713300,
+					"id_str": "816934287366713346",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 05 09:13:15 +0000 2017",
+			"id": 915867470291812400,
+			"id_str": "915867470291812352",
+			"text": "#보라X뮤직페스티벌 일요일이 코앞으로 다가온 목요일 저녁! 신나게 즐기러 오실 장애인 분들을 위한 안내가 나갑니다 :) 찾아오시는 길, 시청각 보조 등등! 꼭 한 번씩 읽어 주세요! #홍대웨스트브릿지 https://t.co/C3Sz3HuGx5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "보라X뮤직페스티벌",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "홍대웨스트브릿지",
+						"indices": [
+							102,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 915867422329991200,
+						"id_str": "915867422329991168",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQkXFU8AAVdcR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQkXFU8AAVdcR.jpg",
+						"url": "https://t.co/C3Sz3HuGx5",
+						"display_url": "pic.twitter.com/C3Sz3HuGx5",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867470291812352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 915867422329991200,
+						"id_str": "915867422329991168",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQkXFU8AAVdcR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQkXFU8AAVdcR.jpg",
+						"url": "https://t.co/C3Sz3HuGx5",
+						"display_url": "pic.twitter.com/C3Sz3HuGx5",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867470291812352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 915867432438317000,
+						"id_str": "915867432438317056",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQk8vVwAAYN_n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQk8vVwAAYN_n.jpg",
+						"url": "https://t.co/C3Sz3HuGx5",
+						"display_url": "pic.twitter.com/C3Sz3HuGx5",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867470291812352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 701,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 700,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 915867443972653000,
+						"id_str": "915867443972653056",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQlntVwAADSzm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQlntVwAADSzm.jpg",
+						"url": "https://t.co/C3Sz3HuGx5",
+						"display_url": "pic.twitter.com/C3Sz3HuGx5",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867470291812352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 915867458736496600,
+						"id_str": "915867458736496640",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DLXQmetUIAAq1c6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLXQmetUIAAq1c6.jpg",
+						"url": "https://t.co/C3Sz3HuGx5",
+						"display_url": "pic.twitter.com/C3Sz3HuGx5",
+						"expanded_url": "https://twitter.com/boraXfemicamp/status/915867470291812352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 701,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816934287366713300,
+				"id_str": "816934287366713346",
+				"name": "보라X뮤직페스티벌",
+				"screen_name": "boraXfemicamp",
+				"location": "홍대 웨스트브릿지",
+				"description": "제1회 보라X뮤직페스티벌. 음악하는 여자들과 즐기는 여자들의 축제. 10.08 SUN 홍대 웨스트브릿지 💜 티켓예매 https://t.co/Vhipre4nqO 💜굿즈구매 https://t.co/mKwvue0SsR",
+				"url": "https://t.co/yOImrH3Yb4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yOImrH3Yb4",
+								"expanded_url": "http://blog.naver.com/bora-x",
+								"display_url": "blog.naver.com/bora-x",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Vhipre4nqO",
+								"expanded_url": "https://goo.gl/4h4wkn",
+								"display_url": "goo.gl/4h4wkn",
+								"indices": [
+									65,
+									88
+								]
+							},
+							{
+								"url": "https://t.co/mKwvue0SsR",
+								"expanded_url": "https://goo.gl/zAkyTB",
+								"display_url": "goo.gl/zAkyTB",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 667,
+				"friends_count": 691,
+				"listed_count": 3,
+				"created_at": "Thu Jan 05 09:08:06 +0000 2017",
+				"favourites_count": 380,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 711,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816934287366713346/1507016302",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 05 15:50:14 +0000 2017",
+		"id": 915967372585975800,
+		"id_str": "915967372585975808",
+		"text": "RT @boraXfemicamp: \"드디어! 여성에 의한, 여성을 위한, 여성들이 즐기는 #보라X뮤직페스티벌  많이 참여해 주세요.\"\n예능 &lt;뜨거운 사이다&gt;에서 영화계 내 성폭력에 대한 거침없는 발언으로 화제가 되신 이영진 배우님의 응원  말씀! 너…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라X뮤직페스티벌",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boraXfemicamp",
+					"name": "보라X뮤직페스티벌",
+					"id": 816934287366713300,
+					"id_str": "816934287366713346",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 07:21:34 +0000 2017",
+			"id": 915114587363491800,
+			"id_str": "915114587363491840",
+			"text": "\"드디어! 여성에 의한, 여성을 위한, 여성들이 즐기는 #보라X뮤직페스티벌  많이 참여해 주세요.\"\n예능 &lt;뜨거운 사이다&gt;에서 영화계 내 성폭력에 대한 거침없는 발언으로 화제가 되신 이영진 배우님의 응원… https://t.co/3CtQmH01WD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "보라X뮤직페스티벌",
+						"indices": [
+							31,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3CtQmH01WD",
+						"expanded_url": "https://twitter.com/i/web/status/915114587363491840",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816934287366713300,
+				"id_str": "816934287366713346",
+				"name": "보라X뮤직페스티벌",
+				"screen_name": "boraXfemicamp",
+				"location": "홍대 웨스트브릿지",
+				"description": "제1회 보라X뮤직페스티벌. 음악하는 여자들과 즐기는 여자들의 축제. 10.08 SUN 홍대 웨스트브릿지 💜 티켓예매 https://t.co/Vhipre4nqO 💜굿즈구매 https://t.co/mKwvue0SsR",
+				"url": "https://t.co/yOImrH3Yb4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yOImrH3Yb4",
+								"expanded_url": "http://blog.naver.com/bora-x",
+								"display_url": "blog.naver.com/bora-x",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Vhipre4nqO",
+								"expanded_url": "https://goo.gl/4h4wkn",
+								"display_url": "goo.gl/4h4wkn",
+								"indices": [
+									65,
+									88
+								]
+							},
+							{
+								"url": "https://t.co/mKwvue0SsR",
+								"expanded_url": "https://goo.gl/zAkyTB",
+								"display_url": "goo.gl/zAkyTB",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 667,
+				"friends_count": 691,
+				"listed_count": 3,
+				"created_at": "Thu Jan 05 09:08:06 +0000 2017",
+				"favourites_count": 380,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 711,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816934287366713346/1507016302",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 60,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 05 15:50:02 +0000 2017",
+		"id": 915967323705446400,
+		"id_str": "915967323705446400",
+		"text": "RT @boraXfemicamp: &lt;에이퍼즈&gt;가 #보라X뮤직페스티벌 에 응원 영상을 보내주셨어요! 이전에 음악적인 부분보다 여성 연주자라는 점이 부각되는 점이 아쉽다는 인터뷰로 사회에 질문을 던지기도 했죠 정말 멋진 소개말씀이네요 (영혼 듬뿍) #홍…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라X뮤직페스티벌",
+					"indices": [
+						33,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boraXfemicamp",
+					"name": "보라X뮤직페스티벌",
+					"id": 816934287366713300,
+					"id_str": "816934287366713346",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "음악 페스티벌 / 공연일정 / 인디음악\n텔레그램 채널 및 공연 모임\n▶ https://t.co/RKV0QXvf3J\n\n이용방법 \nhttps://t.co/dT6ajiie78\n\n문화공연예술 정보 / 채용 / 강의 / 포럼 \n@EntRecruitKR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RKV0QXvf3J",
+							"expanded_url": "http://t.me/K_INDIE",
+							"display_url": "t.me/K_INDIE",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/dT6ajiie78",
+							"expanded_url": "http://telegra.ph/K-INDIE-03-31",
+							"display_url": "telegra.ph/K-INDIE-03-31",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 806,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 25277,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675561004692934657/UY6V4PXH.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 04 08:52:35 +0000 2017",
+			"id": 915499879551479800,
+			"id_str": "915499879551479808",
+			"text": "&lt;에이퍼즈&gt;가 #보라X뮤직페스티벌 에 응원 영상을 보내주셨어요! 이전에 음악적인 부분보다 여성 연주자라는 점이 부각되는 점이 아쉽다는 인터뷰로 사회에 질문을 던지기도 했죠 정말 멋진 소개말씀이네요 (영혼 듬… https://t.co/ZqFkMTduGy",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "보라X뮤직페스티벌",
+						"indices": [
+							14,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZqFkMTduGy",
+						"expanded_url": "https://twitter.com/i/web/status/915499879551479808",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816934287366713300,
+				"id_str": "816934287366713346",
+				"name": "보라X뮤직페스티벌",
+				"screen_name": "boraXfemicamp",
+				"location": "홍대 웨스트브릿지",
+				"description": "제1회 보라X뮤직페스티벌. 음악하는 여자들과 즐기는 여자들의 축제. 10.08 SUN 홍대 웨스트브릿지 💜 티켓예매 https://t.co/Vhipre4nqO 💜굿즈구매 https://t.co/mKwvue0SsR",
+				"url": "https://t.co/yOImrH3Yb4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yOImrH3Yb4",
+								"expanded_url": "http://blog.naver.com/bora-x",
+								"display_url": "blog.naver.com/bora-x",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Vhipre4nqO",
+								"expanded_url": "https://goo.gl/4h4wkn",
+								"display_url": "goo.gl/4h4wkn",
+								"indices": [
+									65,
+									88
+								]
+							},
+							{
+								"url": "https://t.co/mKwvue0SsR",
+								"expanded_url": "https://goo.gl/zAkyTB",
+								"display_url": "goo.gl/zAkyTB",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 667,
+				"friends_count": 691,
+				"listed_count": 3,
+				"created_at": "Thu Jan 05 09:08:06 +0000 2017",
+				"favourites_count": 380,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 711,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905322710544162816/5Sui2EhO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816934287366713346/1507016302",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Oct 05 15:11:28 +0000 2017",
 		"id": 915957619595948000,
 		"id_str": "915957619595948033",
