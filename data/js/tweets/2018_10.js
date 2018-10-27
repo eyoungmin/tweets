@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 27 03:00:06 +0000 2018",
+		"id": 1056017668216504300,
+		"id_str": "1056017668216504320",
+		"full_text": "[이달의소녀킼킼 #32]\n크앙😈 하나도 안 무섭넹😦\n\n#이달의소녀 #LOONA #LOONAKick #진솔 #JinSoul https://t.co/WoZFjrSZ8r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056015731576500200,
+					"id_str": "1056015731576500225",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056015731576500225/pu/img/xb1ntsetM0Qk6UKU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056015731576500225/pu/img/xb1ntsetM0Qk6UKU.jpg",
+					"url": "https://t.co/WoZFjrSZ8r",
+					"display_url": "pic.twitter.com/WoZFjrSZ8r",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1056017668216504320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056015731576500200,
+					"id_str": "1056015731576500225",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056015731576500225/pu/img/xb1ntsetM0Qk6UKU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056015731576500225/pu/img/xb1ntsetM0Qk6UKU.jpg",
+					"url": "https://t.co/WoZFjrSZ8r",
+					"display_url": "pic.twitter.com/WoZFjrSZ8r",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1056017668216504320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							23,
+							40
+						],
+						"duration_millis": 5875,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1056015731576500225/pu/pl/F1ol1llJg5r1UGq2.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056015731576500225/pu/vid/180x312/KM4QUVQNzqgStdQr.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056015731576500225/pu/vid/276x480/XTSftBvZtdkwMIyx.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210452,
+			"friends_count": 0,
+			"listed_count": 2795,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1156,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1534766929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8552,
+		"favorite_count": 18792,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #32]\n크앙😈 하나도 안 무섭넹😦\n\n#이달의소녀 #LOONA #LOONAKick #진솔 #JinSoul https://t.co/WoZFjrSZ8r"
+	},
+	{
 		"created_at": "Fri Oct 26 14:55:14 +0000 2018",
 		"id": 1055835247760367600,
 		"id_str": "1055835247760367616",
@@ -9417,7 +9653,7 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Sun Oct 21 04:37:45 +0000 2018",
 		"id": 1053867914401644500,
 		"id_str": "1053867914401644544",
-		"full_text": ".@TiffanyYoung plays #Famous4heads with me, and I'm pretty sure she beat the current champs' record... sorry @ShawnMendes 🤷🏻‍♂️ WATCH: https://t.co/wu9jJTrwPh https://t.co/CbHJUoK5bx",
+		"full_text": ".@TiffanyYoung plays #Famous4heads with me, and I'm pretty sure she beat the current champs' record... sorry @ShawnMendes 🤷🏻♂️ WATCH: https://t.co/wu9jJTrwPh https://t.co/CbHJUoK5bx",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -9668,7 +9904,7 @@ Grailbird.data.tweets_2018_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": ".@TiffanyYoung plays #Famous4heads with me, and I'm pretty sure she beat the current champs' record... sorry @ShawnMendes 🤷🏻‍♂️ WATCH: https://t.co/wu9jJTrwPh https://t.co/CbHJUoK5bx"
+		"text": ".@TiffanyYoung plays #Famous4heads with me, and I'm pretty sure she beat the current champs' record... sorry @ShawnMendes 🤷🏻♂️ WATCH: https://t.co/wu9jJTrwPh https://t.co/CbHJUoK5bx"
 	},
 	{
 		"created_at": "Sun Oct 21 13:02:02 +0000 2018",
@@ -64398,7 +64634,7 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Tue Oct 02 15:53:29 +0000 2018",
 		"id": 1047152598128590800,
 		"id_str": "1047152598128590849",
-		"full_text": "👩🏻‍💻 #TEACHYOU livestream today at 7pm pdt on my instagram ❤️",
+		"full_text": "👩🏻💻 #TEACHYOU livestream today at 7pm pdt on my instagram ❤️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -64495,7 +64731,7 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
-		"text": "👩🏻‍💻 #TEACHYOU livestream today at 7pm pdt on my instagram ❤️"
+		"text": "👩🏻💻 #TEACHYOU livestream today at 7pm pdt on my instagram ❤️"
 	},
 	{
 		"created_at": "Tue Oct 02 10:00:12 +0000 2018",
@@ -68267,7 +68503,7 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Mon Oct 01 13:53:45 +0000 2018",
 		"id": 1046760078412410900,
 		"id_str": "1046760078412410881",
-		"full_text": "Want to talk to you all in person to celebrate the #TEACHYOU release and thank u for the love you’ve shown. I’ll be streaming live on my IG on 10/2 at 7pm pst.. 👩🏻‍💻📺",
+		"full_text": "Want to talk to you all in person to celebrate the #TEACHYOU release and thank u for the love you’ve shown. I’ll be streaming live on my IG on 10/2 at 7pm pst.. 👩🏻💻📺",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -68364,7 +68600,7 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
-		"text": "Want to talk to you all in person to celebrate the #TEACHYOU release and thank u for the love you’ve shown. I’ll be streaming live on my IG on 10/2 at 7pm pst.. 👩🏻‍💻📺"
+		"text": "Want to talk to you all in person to celebrate the #TEACHYOU release and thank u for the love you’ve shown. I’ll be streaming live on my IG on 10/2 at 7pm pst.. 👩🏻💻📺"
 	},
 	{
 		"created_at": "Mon Oct 01 13:15:51 +0000 2018",
