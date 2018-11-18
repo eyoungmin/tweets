@@ -1,6 +1,1635 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 18 07:00:00 +0000 2018",
+		"id": 1064050573069168600,
+		"id_str": "1064050573069168640",
+		"full_text": "DJ HYO와 NCT 재현 &amp; 마크가 함께한 ‘Punk Right Now’ 포인트 댄스 Behind the scenes!\n뚠뚠→쿵↘캉↗캉↗ 박자 맞춰가며 열심히 춤춘 세 명의 모습을 확인하세요!\n\n#HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #PunkRightNow #NCT @NCTsmtown #JAEHYUN #재현 #MARK #마크 https://t.co/bR0jqHrpOE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "PunkRightNow",
+					"indices": [
+						170,
+						183
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "JAEHYUN",
+					"indices": [
+						200,
+						208
+					]
+				},
+				{
+					"text": "재현",
+					"indices": [
+						209,
+						212
+					]
+				},
+				{
+					"text": "MARK",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "마크",
+					"indices": [
+						219,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						132,
+						146
+					]
+				},
+				{
+					"screen_name": "NCTsmtown",
+					"name": "NCT",
+					"id": 4811011050,
+					"id_str": "4811011050",
+					"indices": [
+						189,
+						199
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063336808140828700,
+					"id_str": "1063336808140828672",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/DsG7pHdU8AAup3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsG7pHdU8AAup3d.jpg",
+					"url": "https://t.co/bR0jqHrpOE",
+					"display_url": "pic.twitter.com/bR0jqHrpOE",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1064050573069168640/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063336808140828700,
+					"id_str": "1063336808140828672",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/DsG7pHdU8AAup3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsG7pHdU8AAup3d.jpg",
+					"url": "https://t.co/bR0jqHrpOE",
+					"display_url": "pic.twitter.com/bR0jqHrpOE",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1064050573069168640/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 112412,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1063336808140828672/vid/320x180/pBYw1Fh7TwBMpRIW.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1063336808140828672/vid/1280x720/ZkqS3tUJVUsg4FGo.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1063336808140828672/pl/PjgyGLca6Y4aRWx1.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1063336808140828672/vid/640x360/8LLVckLlk5uB9LuW.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3306313,
+			"friends_count": 4,
+			"listed_count": 5504,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1494,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1541992787",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3749,
+		"favorite_count": 7755,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DJ HYO와 NCT 재현 &amp; 마크가 함께한 ‘Punk Right Now’ 포인트 댄스 Behind the scenes!\n뚠뚠→쿵↘캉↗캉↗ 박자 맞춰가며 열심히 춤춘 세 명의 모습을 확인하세요!\n\n#HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #PunkRightNow #NCT @NCTsmtown #JAEHYUN #재현 #MARK #마크 https://t.co/bR0jqHrpOE"
+	},
+	{
+		"created_at": "Sun Nov 18 03:09:22 +0000 2018",
+		"id": 1063992533276024800,
+		"id_str": "1063992533276024832",
+		"full_text": "nerves wrecked for Song Association 😬 let’s have some fun … and my score was 🎙…. https://t.co/nu4YyWhc3P @ELLEmagazine",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELLEmagazine",
+					"name": "ELLE Magazine (US)",
+					"id": 20177423,
+					"id_str": "20177423",
+					"indices": [
+						105,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nu4YyWhc3P",
+					"expanded_url": "https://youtu.be/zx2dmsZWTzw",
+					"display_url": "youtu.be/zx2dmsZWTzw",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "[ instagram • facebook • weibo ] @tiffanyyoung",
+			"url": "https://t.co/wTo84QaoJR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wTo84QaoJR",
+							"expanded_url": "https://empire.lnk.to/TeachYou",
+							"display_url": "empire.lnk.to/TeachYou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 217274,
+			"friends_count": 121,
+			"listed_count": 597,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045526319621058561/e5E3V49U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045526319621058561/e5E3V49U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1538107854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1464,
+		"favorite_count": 2888,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "nerves wrecked for Song Association 😬 let’s have some fun … and my score was 🎙…. https://t.co/nu4YyWhc3P @ELLEmagazine"
+	},
+	{
+		"created_at": "Sun Nov 18 03:00:11 +0000 2018",
+		"id": 1063990222487085000,
+		"id_str": "1063990222487085056",
+		"full_text": "[이달의소녀킼킼 #41]\n갑자기 #진솔 무룩....😦\n#이달의소녀 #LOONA #LOONAKick #JinSoul https://t.co/WyNYg55i1F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063987998251876400,
+					"id_str": "1063987998251876352",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063987998251876352/pu/img/Nn0EK8-y_VPuTYu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063987998251876352/pu/img/Nn0EK8-y_VPuTYu_.jpg",
+					"url": "https://t.co/WyNYg55i1F",
+					"display_url": "pic.twitter.com/WyNYg55i1F",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1063990222487085056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063987998251876400,
+					"id_str": "1063987998251876352",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063987998251876352/pu/img/Nn0EK8-y_VPuTYu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063987998251876352/pu/img/Nn0EK8-y_VPuTYu_.jpg",
+					"url": "https://t.co/WyNYg55i1F",
+					"display_url": "pic.twitter.com/WyNYg55i1F",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1063990222487085056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 35709,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063987998251876352/pu/vid/848x480/W6eE_ww8eQ2QOZsa.mp4?tag=7"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063987998251876352/pu/vid/318x180/5hsUYEOPwbNfPlE7.mp4?tag=7"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1063987998251876352/pu/pl/PzK5WbUj9ZRIF1hV.m3u8?tag=7"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063987998251876352/pu/vid/636x360/RUIx2IQrVuSUnApS.mp4?tag=7"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215820,
+			"friends_count": 0,
+			"listed_count": 2882,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1186,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1534766929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6771,
+		"favorite_count": 14627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #41]\n갑자기 #진솔 무룩....😦\n#이달의소녀 #LOONA #LOONAKick #JinSoul https://t.co/WyNYg55i1F"
+	},
+	{
+		"created_at": "Fri Nov 16 14:35:05 +0000 2018",
+		"id": 1063440324092137500,
+		"id_str": "1063440324092137473",
+		"full_text": ".@tiffanyyoung talks about songwriting for her upcoming EP, her plans for a world tour, and her future with @GirlsGeneration: https://t.co/FgFNazEXht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						108,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FgFNazEXht",
+					"expanded_url": "http://ellemag.co/292oa4k",
+					"display_url": "ellemag.co/292oa4k",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20177423,
+			"id_str": "20177423",
+			"name": "ELLE Magazine (US)",
+			"screen_name": "ELLEmagazine",
+			"location": "",
+			"description": "Follow ELLE on YouTube: https://t.co/0EDloGLXgj",
+			"url": "http://t.co/54wdRJ8G1n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/54wdRJ8G1n",
+							"expanded_url": "http://elle.com",
+							"display_url": "elle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0EDloGLXgj",
+							"expanded_url": "https://www.youtube.com/channel/UCV8Do0nwSrYP7lwPBS4LWpw",
+							"display_url": "youtube.com/channel/UCV8Do…",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6772832,
+			"friends_count": 1219,
+			"listed_count": 19602,
+			"created_at": "Thu Feb 05 19:26:15 +0000 2009",
+			"favourites_count": 6370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 173040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D7D7DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20177423/1542314020",
+			"profile_link_color": "AB135A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 921,
+		"favorite_count": 1972,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@tiffanyyoung talks about songwriting for her upcoming EP, her plans for a world tour, and her future with @GirlsGeneration: https://t.co/FgFNazEXht"
+	},
+	{
+		"created_at": "Fri Nov 16 14:42:25 +0000 2018",
+		"id": 1063442169325920300,
+		"id_str": "1063442169325920263",
+		"full_text": "So thrilled to get to talk to @tiffanyyoung about her songwriting, style (and our mutual appreciation of Blake Lively’s clothes) AND watch her KILL it at Song Associations for @ELLEmagazine. https://t.co/5oXejQJSNe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "ELLEmagazine",
+					"name": "ELLE Magazine (US)",
+					"id": 20177423,
+					"id_str": "20177423",
+					"indices": [
+						176,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5oXejQJSNe",
+					"expanded_url": "https://www.elle.com/culture/celebrities/a24566167/tiffany-young-girls-generation-solo-artist-interview/",
+					"display_url": "elle.com/culture/celebr…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19320139,
+			"id_str": "19320139",
+			"name": "Alyssa Bailey",
+			"screen_name": "alyssabailey",
+			"location": "New York City",
+			"description": "@ELLEmagazine.com news editor, jogger & eternal nice girl. Clever on occasion. | Insta: @alyssalbailey",
+			"url": "https://t.co/sc94pujKzP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sc94pujKzP",
+							"expanded_url": "http://alyssa-explains-it-all.tumblr.com/",
+							"display_url": "alyssa-explains-it-all.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3946,
+			"friends_count": 261,
+			"listed_count": 62,
+			"created_at": "Thu Jan 22 01:51:52 +0000 2009",
+			"favourites_count": 1524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7533,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962496538353205253/BkN01_E-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962496538353205253/BkN01_E-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19320139/1518312047",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 607,
+		"favorite_count": 1320,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So thrilled to get to talk to @tiffanyyoung about her songwriting, style (and our mutual appreciation of Blake Lively’s clothes) AND watch her KILL it at Song Associations for @ELLEmagazine. https://t.co/5oXejQJSNe"
+	},
+	{
+		"created_at": "Fri Nov 16 20:56:52 +0000 2018",
+		"id": 1063536401717882900,
+		"id_str": "1063536401717882880",
+		"full_text": "It's alive! What a treat to play #SongAssociation with the @tiffanyyoung ❤ @ELLEmagazine \nhttps://t.co/tVIgoc2rwn https://t.co/4MZiH4Jxl3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SongAssociation",
+					"indices": [
+						33,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"screen_name": "ELLEmagazine",
+					"name": "ELLE Magazine (US)",
+					"id": 20177423,
+					"id_str": "20177423",
+					"indices": [
+						75,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tVIgoc2rwn",
+					"expanded_url": "https://www.youtube.com/watch?v=zx2dmsZWTzw",
+					"display_url": "youtube.com/watch?v=zx2dms…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1063536281001566200,
+					"id_str": "1063536281001566214",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DsJwnNrWoAYp9-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DsJwnNrWoAYp9-_.jpg",
+					"url": "https://t.co/4MZiH4Jxl3",
+					"display_url": "pic.twitter.com/4MZiH4Jxl3",
+					"expanded_url": "https://twitter.com/ectannenbaum/status/1063536401717882880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063536281001566200,
+					"id_str": "1063536281001566214",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DsJwnNrWoAYp9-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DsJwnNrWoAYp9-_.jpg",
+					"url": "https://t.co/4MZiH4Jxl3",
+					"display_url": "pic.twitter.com/4MZiH4Jxl3",
+					"expanded_url": "https://twitter.com/ectannenbaum/status/1063536401717882880/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DsJwnNrWoAYp9-_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1052729794180407300,
+		"in_reply_to_status_id_str": "1052729794180407297",
+		"in_reply_to_user_id": 2420803914,
+		"in_reply_to_user_id_str": "2420803914",
+		"in_reply_to_screen_name": "ectannenbaum",
+		"user": {
+			"id": 2420803914,
+			"id_str": "2420803914",
+			"name": "Emily Tannenbaum",
+			"screen_name": "ectannenbaum",
+			"location": "New York City",
+			"description": "entertainment editor @cosmopolitan. past, @ELLEmagazine and @vanityfair. creator of #SongAssociation. my parents think all I do is watch tv. they’re not wrong.",
+			"url": "https://t.co/y65SHhxl9k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y65SHhxl9k",
+							"expanded_url": "http://www.cosmopolitan.com",
+							"display_url": "cosmopolitan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 982,
+			"listed_count": 31,
+			"created_at": "Mon Mar 31 16:48:31 +0000 2014",
+			"favourites_count": 5731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2361,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546034839380819968/8cVPJ-8g_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546034839380819968/8cVPJ-8g_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2420803914/1524510677",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 412,
+		"favorite_count": 833,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's alive! What a treat to play #SongAssociation with the @tiffanyyoung ❤ @ELLEmagazine \nhttps://t.co/tVIgoc2rwn https://t.co/4MZiH4Jxl3"
+	},
+	{
+		"created_at": "Sat Nov 17 01:00:43 +0000 2018",
+		"id": 1063597768940421100,
+		"id_str": "1063597768940421120",
+		"full_text": "오주환은 얼마 전 발간한 첫 에세이집 &lt;잘 살고 싶은 마음&gt;에서 “마음이 눌리는 날이면 글을 썼다”고 했다. 그런 그가 마음이 눌릴 때마다 재생했던 음악들을 보내왔다. 잘하고 싶은데 마음처럼 안될 때, 그래서 주저앉아 울고...https://t.co/0n8d29lUzo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0n8d29lUzo",
+					"expanded_url": "https://ift.tt/2qS5xww",
+					"display_url": "ift.tt/2qS5xww",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808835127639801900,
+			"id_str": "808835127639801856",
+			"name": "인디포스트",
+			"screen_name": "indiepostmedia",
+			"location": "",
+			"description": "WE CURATE VALUES\n인디 문화 큐레이션 서비스, 인디포스트의 공식 계정입니다.",
+			"url": "https://t.co/v1HyjgBR3L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1HyjgBR3L",
+							"expanded_url": "http://www.indiepost.co.kr",
+							"display_url": "indiepost.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 417,
+			"listed_count": 29,
+			"created_at": "Wed Dec 14 00:44:56 +0000 2016",
+			"favourites_count": 203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2404,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808835127639801856/1526023975",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오주환은 얼마 전 발간한 첫 에세이집 &lt;잘 살고 싶은 마음&gt;에서 “마음이 눌리는 날이면 글을 썼다”고 했다. 그런 그가 마음이 눌릴 때마다 재생했던 음악들을 보내왔다. 잘하고 싶은데 마음처럼 안될 때, 그래서 주저앉아 울고...https://t.co/0n8d29lUzo"
+	},
+	{
+		"created_at": "Sat Nov 17 01:48:18 +0000 2018",
+		"id": 1063609742939979800,
+		"id_str": "1063609742939979776",
+		"full_text": "음악가 오주환, “마음이 눌릴 때 들었던 노래들” \n\n얼마전 신간 &lt;잘 살고 싶은 마음&gt;을 발간한 그가 마음이 눌릴 때마다 재생했던 음악들을 보내왔다.\n\n@adoyband @Small_o \n\nhttps://t.co/uLHH46bhJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"screen_name": "Small_o",
+					"name": "오주환",
+					"id": 193750706,
+					"id_str": "193750706",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uLHH46bhJZ",
+					"expanded_url": "https://www.indiepost.co.kr/post/9651",
+					"display_url": "indiepost.co.kr/post/9651",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808835127639801900,
+			"id_str": "808835127639801856",
+			"name": "인디포스트",
+			"screen_name": "indiepostmedia",
+			"location": "",
+			"description": "WE CURATE VALUES\n인디 문화 큐레이션 서비스, 인디포스트의 공식 계정입니다.",
+			"url": "https://t.co/v1HyjgBR3L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1HyjgBR3L",
+							"expanded_url": "http://www.indiepost.co.kr",
+							"display_url": "indiepost.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 417,
+			"listed_count": 29,
+			"created_at": "Wed Dec 14 00:44:56 +0000 2016",
+			"favourites_count": 203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2404,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808835127639801856/1526023975",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음악가 오주환, “마음이 눌릴 때 들었던 노래들” \n\n얼마전 신간 &lt;잘 살고 싶은 마음&gt;을 발간한 그가 마음이 눌릴 때마다 재생했던 음악들을 보내왔다.\n\n@adoyband @Small_o \n\nhttps://t.co/uLHH46bhJZ"
+	},
+	{
+		"created_at": "Sat Nov 17 09:00:19 +0000 2018",
+		"id": 1063718465331032000,
+		"id_str": "1063718465331032064",
+		"full_text": "[이달의소녀킼킼 #40]\n감춰도 감춰지지 않는 보컬 존재감😏\n#이달의소녀 #LOONA #LOONAKick #이브 #Yves https://t.co/oSr8T1blTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						63,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063716635654029300,
+					"id_str": "1063716635654029312",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063716635654029312/pu/img/JFbnJPC1Bs0N41eM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063716635654029312/pu/img/JFbnJPC1Bs0N41eM.jpg",
+					"url": "https://t.co/oSr8T1blTS",
+					"display_url": "pic.twitter.com/oSr8T1blTS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1063718465331032064/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063716635654029300,
+					"id_str": "1063716635654029312",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063716635654029312/pu/img/JFbnJPC1Bs0N41eM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063716635654029312/pu/img/JFbnJPC1Bs0N41eM.jpg",
+					"url": "https://t.co/oSr8T1blTS",
+					"display_url": "pic.twitter.com/oSr8T1blTS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1063718465331032064/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 50042,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063716635654029312/pu/vid/852x480/xx1bh9CozssQPHyo.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063716635654029312/pu/vid/318x180/PfVT2neUlHZ9yr8i.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1063716635654029312/pu/pl/f_sETmw9CF91o0Fx.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063716635654029312/pu/vid/638x360/bokbgOYDu_BiS5qN.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215820,
+			"friends_count": 0,
+			"listed_count": 2882,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1186,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1534766929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6692,
+		"favorite_count": 13621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #40]\n감춰도 감춰지지 않는 보컬 존재감😏\n#이달의소녀 #LOONA #LOONAKick #이브 #Yves https://t.co/oSr8T1blTS"
+	},
+	{
 		"created_at": "Sat Nov 17 09:00:19 +0000 2018",
 		"id": 1063718465331032000,
 		"id_str": "1063718465331032064",
@@ -1970,7 +3599,7 @@ Grailbird.data.tweets_2018_11 =
 		"created_at": "Fri Nov 16 09:00:18 +0000 2018",
 		"id": 1063356072713347100,
 		"id_str": "1063356072713347072",
-		"full_text": "DJ로서의 HYO 모습이 궁금한 사람 모두 손! 🙋‍♀️🙋‍♂️\n여러분과 함께 즐기기 위해 열심히 디제잉 연습을 하는 HYO의 Swag 넘치는 모습을 공개합니다!\n\n#HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #PunkRightNow https://t.co/sRiPcrEmqM",
+		"full_text": "DJ로서의 HYO 모습이 궁금한 사람 모두 손! 🙋♀️🙋♂️\n여러분과 함께 즐기기 위해 열심히 디제잉 연습을 하는 HYO의 Swag 넘치는 모습을 공개합니다!\n\n#HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #PunkRightNow https://t.co/sRiPcrEmqM",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2226,7 +3855,7 @@ Grailbird.data.tweets_2018_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "DJ로서의 HYO 모습이 궁금한 사람 모두 손! 🙋‍♀️🙋‍♂️\n여러분과 함께 즐기기 위해 열심히 디제잉 연습을 하는 HYO의 Swag 넘치는 모습을 공개합니다!\n\n#HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #PunkRightNow https://t.co/sRiPcrEmqM"
+		"text": "DJ로서의 HYO 모습이 궁금한 사람 모두 손! 🙋♀️🙋♂️\n여러분과 함께 즐기기 위해 열심히 디제잉 연습을 하는 HYO의 Swag 넘치는 모습을 공개합니다!\n\n#HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #PunkRightNow https://t.co/sRiPcrEmqM"
 	},
 	{
 		"created_at": "Fri Nov 16 09:03:11 +0000 2018",
