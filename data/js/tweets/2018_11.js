@@ -1,6 +1,1191 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 30 20:12:23 +0000 2018",
+		"id": 1068598637050114000,
+		"id_str": "1068598637050114050",
+		"full_text": "김앤박의 BEST NEW K-POP #43 ★키(KEY)★마마무(Mamamoo)★ | CASPER RADIO\nhttps://t.co/6w6OI5Up0q\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤하",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "평론가",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "박희아",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "기자",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "케이팝",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "IDOL",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "BEST_NEW_KPOP",
+					"indices": [
+						128,
+						142
+					]
+				},
+				{
+					"text": "베스트뉴케이팝",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						152,
+						165
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6w6OI5Up0q",
+					"expanded_url": "http://www.vlive.tv/video/100480",
+					"display_url": "vlive.tv/video/100480",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 829,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46613,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김앤박의 BEST NEW K-POP #43 ★키(KEY)★마마무(Mamamoo)★ | CASPER RADIO\nhttps://t.co/6w6OI5Up0q\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오"
+	},
+	{
+		"created_at": "Fri Nov 30 18:15:06 +0000 2018",
+		"id": 1068569121028272100,
+		"id_str": "1068569121028272133",
+		"full_text": "Tis the season! @tiffanyyoung keeps things sweet &amp; cool on her Christmas single, \"Peppermint\": https://t.co/ZqwgRP5Ikp https://t.co/taAchWZihZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZqwgRP5Ikp",
+					"expanded_url": "http://idola.to/2Q0KKFS",
+					"display_url": "idola.to/2Q0KKFS",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068569119321145300,
+					"id_str": "1068569119321145344",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DtRR89cWwAATSLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtRR89cWwAATSLa.jpg",
+					"url": "https://t.co/taAchWZihZ",
+					"display_url": "pic.twitter.com/taAchWZihZ",
+					"expanded_url": "https://twitter.com/idolator/status/1068569121028272133/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068569119321145300,
+					"id_str": "1068569119321145344",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DtRR89cWwAATSLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtRR89cWwAATSLa.jpg",
+					"url": "https://t.co/taAchWZihZ",
+					"display_url": "pic.twitter.com/taAchWZihZ",
+					"expanded_url": "https://twitter.com/idolator/status/1068569121028272133/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13215102,
+			"id_str": "13215102",
+			"name": "idolator",
+			"screen_name": "idolator",
+			"location": "worldwide",
+			"description": "Covering pop music and the nonsense surrounding it.",
+			"url": "http://t.co/NGe9fyiUjX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NGe9fyiUjX",
+							"expanded_url": "http://idolator.com",
+							"display_url": "idolator.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53225,
+			"friends_count": 477,
+			"listed_count": 1700,
+			"created_at": "Thu Feb 07 18:33:52 +0000 2008",
+			"favourites_count": 6601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 69700,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/473500676123656192/CbZN8OiH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/473500676123656192/CbZN8OiH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13215102/1486657810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 921,
+		"favorite_count": 2127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tis the season! @tiffanyyoung keeps things sweet &amp; cool on her Christmas single, \"Peppermint\": https://t.co/ZqwgRP5Ikp https://t.co/taAchWZihZ"
+	},
+	{
+		"created_at": "Fri Nov 30 14:39:38 +0000 2018",
+		"id": 1068514898248982500,
+		"id_str": "1068514898248982528",
+		"full_text": "I talked to @tiffanyyoung, holiday enthusiast and overall festive person, about her \"naughty and nice\" new single #Peppermint and her favorite Christmas songs. And now I have Wham! on repeat. https://t.co/mN2b6aUPNS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Peppermint",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mN2b6aUPNS",
+					"expanded_url": "http://www.mtv.com/news/3105279/tiffany-young-peppermint-holiday-playlist/",
+					"display_url": "mtv.com/news/3105279/t…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21212532,
+			"id_str": "21212532",
+			"name": "Crystal Bell",
+			"screen_name": "crystalbell",
+			"location": "New York, NY",
+			"description": "Entertainment Editor, @MTVNews. Proud Hufflepuff. I like things that I like, but I love everything.✨♍️ Email me: crystal.bell@viacom.com",
+			"url": "https://t.co/MCTTB5x9Qp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MCTTB5x9Qp",
+							"expanded_url": "http://www.mtv.com/news/author/bellcr/",
+							"display_url": "mtv.com/news/author/be…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10890,
+			"friends_count": 995,
+			"listed_count": 141,
+			"created_at": "Wed Feb 18 16:37:37 +0000 2009",
+			"favourites_count": 12852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935645754810617857/uq0uYzLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935645754810617857/uq0uYzLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21212532/1528012253",
+			"profile_link_color": "BD0078",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "5ED3ED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 887,
+		"favorite_count": 1838,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I talked to @tiffanyyoung, holiday enthusiast and overall festive person, about her \"naughty and nice\" new single #Peppermint and her favorite Christmas songs. And now I have Wham! on repeat. https://t.co/mN2b6aUPNS"
+	},
+	{
+		"created_at": "Fri Nov 30 17:32:18 +0000 2018",
+		"id": 1068558352244924400,
+		"id_str": "1068558352244924421",
+		"full_text": "💚❤️ #tiffanypeppermint on @MTV with my playlist of favorite Christmas songs https://t.co/diZWEE8Eo2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tiffanypeppermint",
+					"indices": [
+						4,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MTV",
+					"name": "MTV",
+					"id": 2367911,
+					"id_str": "2367911",
+					"indices": [
+						26,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/diZWEE8Eo2",
+					"expanded_url": "http://www.mtv.com/news/3105279/tiffany-young-peppermint-holiday-playlist/",
+					"display_url": "mtv.com/news/3105279/t…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "[ instagram • facebook • weibo ] @tiffanyyoung",
+			"url": "https://t.co/wTo84QaoJR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wTo84QaoJR",
+							"expanded_url": "https://empire.lnk.to/TeachYou",
+							"display_url": "empire.lnk.to/TeachYou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219107,
+			"friends_count": 121,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068370142302658561/TzhxdLyP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068370142302658561/TzhxdLyP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1543554292",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1605,
+		"favorite_count": 3269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💚❤️ #tiffanypeppermint on @MTV with my playlist of favorite Christmas songs https://t.co/diZWEE8Eo2"
+	},
+	{
+		"created_at": "Fri Nov 30 16:28:15 +0000 2018",
+		"id": 1068542232607711200,
+		"id_str": "1068542232607711232",
+		"full_text": "I wanted to give you something you could unwind and snuggle by the tv all holidays after a hard year of work… like I will be doing 🎄❄️🤗 #tiffanypeppermint",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tiffanypeppermint",
+					"indices": [
+						136,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "[ instagram • facebook • weibo ] @tiffanyyoung",
+			"url": "https://t.co/wTo84QaoJR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wTo84QaoJR",
+							"expanded_url": "https://empire.lnk.to/TeachYou",
+							"display_url": "empire.lnk.to/TeachYou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219107,
+			"friends_count": 121,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068370142302658561/TzhxdLyP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068370142302658561/TzhxdLyP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1543554292",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2869,
+		"favorite_count": 5212,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I wanted to give you something you could unwind and snuggle by the tv all holidays after a hard year of work… like I will be doing 🎄❄️🤗 #tiffanypeppermint"
+	},
+	{
+		"created_at": "Fri Nov 30 16:26:05 +0000 2018",
+		"id": 1068541687520055300,
+		"id_str": "1068541687520055297",
+		"full_text": "So happy to see your thoughts on the song. 😭 thank youuuuu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "[ instagram • facebook • weibo ] @tiffanyyoung",
+			"url": "https://t.co/wTo84QaoJR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wTo84QaoJR",
+							"expanded_url": "https://empire.lnk.to/TeachYou",
+							"display_url": "empire.lnk.to/TeachYou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219107,
+			"friends_count": 121,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068370142302658561/TzhxdLyP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068370142302658561/TzhxdLyP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1543554292",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4192,
+		"favorite_count": 9441,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So happy to see your thoughts on the song. 😭 thank youuuuu"
+	},
+	{
+		"created_at": "Fri Nov 30 16:08:40 +0000 2018",
+		"id": 1068537304195653600,
+		"id_str": "1068537304195653633",
+		"full_text": "❤️💚 ..🚦.. red green, red green… you’ve been waiting to unwrap me 🎁 #tiffanypeppermint",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tiffanypeppermint",
+					"indices": [
+						67,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "[ instagram • facebook • weibo ] @tiffanyyoung",
+			"url": "https://t.co/wTo84QaoJR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wTo84QaoJR",
+							"expanded_url": "https://empire.lnk.to/TeachYou",
+							"display_url": "empire.lnk.to/TeachYou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219107,
+			"friends_count": 121,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068370142302658561/TzhxdLyP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068370142302658561/TzhxdLyP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1543554292",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2856,
+		"favorite_count": 4720,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "❤️💚 ..🚦.. red green, red green… you’ve been waiting to unwrap me 🎁 #tiffanypeppermint"
+	},
+	{
+		"created_at": "Fri Nov 30 15:00:00 +0000 2018",
+		"id": 1068520024405696500,
+		"id_str": "1068520024405696512",
+		"full_text": "#RedVelvet_RBB MV Behind #1\n\n👉 https://t.co/guqRdyrpei\n\n#RedVelvet #레드벨벳 #머릿속_레드벨벳_생각_뿐이야 #RedVelvetAtYourDoor #레드벨벳_RBB_완전홀릭 https://t.co/3gHaUKdA3L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet_RBB",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "머릿속_레드벨벳_생각_뿐이야",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"text": "RedVelvetAtYourDoor",
+					"indices": [
+						90,
+						110
+					]
+				},
+				{
+					"text": "레드벨벳_RBB_완전홀릭",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/guqRdyrpei",
+					"expanded_url": "http://youtu.be/IWJUPY-2EIM",
+					"display_url": "youtu.be/IWJUPY-2EIM",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068467623040495600,
+					"id_str": "1068467623040495616",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DtP18RoVsAEE4Fy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtP18RoVsAEE4Fy.jpg",
+					"url": "https://t.co/3gHaUKdA3L",
+					"display_url": "pic.twitter.com/3gHaUKdA3L",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1068520024405696512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068467623040495600,
+					"id_str": "1068467623040495616",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DtP18RoVsAEE4Fy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtP18RoVsAEE4Fy.jpg",
+					"url": "https://t.co/3gHaUKdA3L",
+					"display_url": "pic.twitter.com/3gHaUKdA3L",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1068520024405696512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56156,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1068467623040495616/vid/320x180/93pBqS_WDT21MiB-.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1068467623040495616/vid/1280x720/ZgqaOk-HiAIvYru5.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1068467623040495616/vid/640x360/WCegSbfMOW6pwX3J.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1068467623040495616/pl/TYTQS57cBMZNo4aB.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/xS8CQVjcs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xS8CQVjcs4",
+							"expanded_url": "https://youtu.be/aiHSVQy9xN8",
+							"display_url": "youtu.be/aiHSVQy9xN8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289097,
+			"friends_count": 2,
+			"listed_count": 3969,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 688,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15931,
+		"favorite_count": 36693,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "#RedVelvet_RBB MV Behind #1\n\n👉 https://t.co/guqRdyrpei\n\n#RedVelvet #레드벨벳 #머릿속_레드벨벳_생각_뿐이야 #RedVelvetAtYourDoor #레드벨벳_RBB_완전홀릭 https://t.co/3gHaUKdA3L"
+	},
+	{
 		"created_at": "Fri Nov 30 15:00:00 +0000 2018",
 		"id": 1068520024405696500,
 		"id_str": "1068520024405696512",
