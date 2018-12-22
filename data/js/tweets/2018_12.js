@@ -1,6 +1,806 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 22 02:42:48 +0000 2018",
+		"id": 1076307033274470400,
+		"id_str": "1076307033274470400",
+		"full_text": "Witness the wonder as Korean indie band, @adoyband, casts their way into #WanderlandMusicFest ✨ https://t.co/6HXw9ADBNk https://t.co/CPSeEGD5RR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WanderlandMusicFest",
+					"indices": [
+						73,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6HXw9ADBNk",
+					"expanded_url": "http://wanderlandfestival.com",
+					"display_url": "wanderlandfestival.com",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1076306864357306400,
+					"id_str": "1076306864357306370",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076306864357306370/pu/img/4mWauU01bFlXVsu8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076306864357306370/pu/img/4mWauU01bFlXVsu8.jpg",
+					"url": "https://t.co/CPSeEGD5RR",
+					"display_url": "pic.twitter.com/CPSeEGD5RR",
+					"expanded_url": "https://twitter.com/wanderlandfest/status/1076307033274470400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076306864357306400,
+					"id_str": "1076306864357306370",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076306864357306370/pu/img/4mWauU01bFlXVsu8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076306864357306370/pu/img/4mWauU01bFlXVsu8.jpg",
+					"url": "https://t.co/CPSeEGD5RR",
+					"display_url": "pic.twitter.com/CPSeEGD5RR",
+					"expanded_url": "https://twitter.com/wanderlandfest/status/1076307033274470400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 8000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076306864357306370/pu/vid/320x320/7RyBNjd8kHcyD9g6.mp4?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076306864357306370/pu/vid/720x720/1N1j1xwPaMIwNEHk.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076306864357306370/pu/vid/480x480/T-1hwqw24BQ2Jzx3.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1076306864357306370/pu/pl/1zoesGAutJ_kJtmf.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1153788732,
+			"id_str": "1153788732",
+			"name": "Wanderland Festival",
+			"screen_name": "wanderlandfest",
+			"location": "",
+			"description": "An Annual Music & Arts Festival in Manila, Philippines Made Possible by Karpos Multimedia @karposmm Presented by Globe Telecom @enjoyglobe #WanderlandMusicFest",
+			"url": "https://t.co/f8b84SUxIC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f8b84SUxIC",
+							"expanded_url": "http://wanderlandfestival.com",
+							"display_url": "wanderlandfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44844,
+			"friends_count": 133,
+			"listed_count": 104,
+			"created_at": "Wed Feb 06 11:52:11 +0000 2013",
+			"favourites_count": 3353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13579,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ECC828",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034035173883490304/Voj28ufC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034035173883490304/Voj28ufC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1153788732/1537697530",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Witness the wonder as Korean indie band, @adoyband, casts their way into #WanderlandMusicFest ✨ https://t.co/6HXw9ADBNk https://t.co/CPSeEGD5RR"
+	},
+	{
+		"created_at": "Sat Dec 22 03:02:41 +0000 2018",
+		"id": 1076312039058858000,
+		"id_str": "1076312039058857984",
+		"full_text": "레드벨벳 아이컨택캠 (EYE CONTACT🎥) S2 EP5. '아이린의 소확행💕'\n\n👉 https://t.co/cN9YzZTCQV\n\n#RedVelvet⁠ ⁠#레드벨벳⁠ ⁠#RedVelvet_RBB⁠ ⁠#머릿속_레드벨벳_생각_뿐이야 ⁠#RedVelvetAtYourDoor https://t.co/tQA00R3IHb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "RedVelvet_RBB",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"text": "머릿속_레드벨벳_생각_뿐이야",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "RedVelvetAtYourDoor",
+					"indices": [
+						130,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cN9YzZTCQV",
+					"expanded_url": "https://tv.naver.com/v/4844899",
+					"display_url": "tv.naver.com/v/4844899",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1076312033384005600,
+					"id_str": "1076312033384005633",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Du_UF4FVAAE5zxw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du_UF4FVAAE5zxw.jpg",
+					"url": "https://t.co/tQA00R3IHb",
+					"display_url": "pic.twitter.com/tQA00R3IHb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1076312039058857984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076312033384005600,
+					"id_str": "1076312033384005633",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Du_UF4FVAAE5zxw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du_UF4FVAAE5zxw.jpg",
+					"url": "https://t.co/tQA00R3IHb",
+					"display_url": "pic.twitter.com/tQA00R3IHb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1076312039058857984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1328353,
+			"friends_count": 2,
+			"listed_count": 4069,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 728,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6666,
+		"favorite_count": 20454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 아이컨택캠 (EYE CONTACT🎥) S2 EP5. '아이린의 소확행💕'\n\n👉 https://t.co/cN9YzZTCQV\n\n#RedVelvet⁠ ⁠#레드벨벳⁠ ⁠#RedVelvet_RBB⁠ ⁠#머릿속_레드벨벳_생각_뿐이야 ⁠#RedVelvetAtYourDoor https://t.co/tQA00R3IHb"
+	},
+	{
+		"created_at": "Sat Dec 22 03:00:15 +0000 2018",
+		"id": 1076311424442363900,
+		"id_str": "1076311424442363905",
+		"full_text": "[이달의소녀탐구 #463]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA \n▶ https://t.co/2sxnteledp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2sxnteledp",
+					"expanded_url": "https://youtu.be/1jFPypRmJ7Y",
+					"display_url": "youtu.be/1jFPypRmJ7Y",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225203,
+			"friends_count": 0,
+			"listed_count": 3095,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1239,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1534766929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1026,
+		"favorite_count": 3242,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #463]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA \n▶ https://t.co/2sxnteledp"
+	},
+	{
+		"created_at": "Fri Dec 21 23:23:40 +0000 2018",
+		"id": 1076256920472711200,
+		"id_str": "1076256920472711169",
+		"full_text": "EBS 공감 1월 10일 관람신청!\n이비에스 공감 홈페이지에서 ⭐️\n#프롬 #허클베리핀 #ebs공감",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "허클베리핀",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "ebs공감",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 584157489,
+			"id_str": "584157489",
+			"name": "Fromm12",
+			"screen_name": "Frommeg",
+			"location": "서울",
+			"description": "이런거 어렵다고",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 11,
+			"listed_count": 10,
+			"created_at": "Fri May 18 19:08:44 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 232,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000697337830/7dee39035cf12499d251ff59f824b909_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000697337830/7dee39035cf12499d251ff59f824b909_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "EBS 공감 1월 10일 관람신청!\n이비에스 공감 홈페이지에서 ⭐️\n#프롬 #허클베리핀 #ebs공감"
+	},
+	{
+		"created_at": "Fri Dec 21 18:07:13 +0000 2018",
+		"id": 1076177284812492800,
+		"id_str": "1076177284812492801",
+		"full_text": "Birdy - Walking In The Air (Cover)\nhttps://t.co/2hVswJUW4j\n#Birdy #버디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Birdy",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "버디",
+					"indices": [
+						66,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2hVswJUW4j",
+					"expanded_url": "https://youtu.be/vfG_L9OaznA",
+					"display_url": "youtu.be/vfG_L9OaznA",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 828,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46806,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Birdy - Walking In The Air (Cover)\nhttps://t.co/2hVswJUW4j\n#Birdy #버디"
+	},
+	{
 		"created_at": "Fri Dec 21 15:03:30 +0000 2018",
 		"id": 1076131051351801900,
 		"id_str": "1076131051351801856",
