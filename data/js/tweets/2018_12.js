@@ -1,6 +1,930 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 29 03:00:16 +0000 2018",
+		"id": 1078848146623451100,
+		"id_str": "1078848146623451136",
+		"full_text": "[이달의소녀킼킼 #54]\n🐰토끼상어vs냥이악어🐱\n#이달의소녀 #LOONA #LOONAKick #희진 #현진 #HeeJin #HyunJin https://t.co/x2UmWhUWFz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078847395281002500,
+					"id_str": "1078847395281002496",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078847395281002496/pu/img/EQv5NKYO-4TBi4yn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078847395281002496/pu/img/EQv5NKYO-4TBi4yn.jpg",
+					"url": "https://t.co/x2UmWhUWFz",
+					"display_url": "pic.twitter.com/x2UmWhUWFz",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1078848146623451136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078847395281002500,
+					"id_str": "1078847395281002496",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078847395281002496/pu/img/EQv5NKYO-4TBi4yn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078847395281002496/pu/img/EQv5NKYO-4TBi4yn.jpg",
+					"url": "https://t.co/x2UmWhUWFz",
+					"display_url": "pic.twitter.com/x2UmWhUWFz",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1078848146623451136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 18667,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1078847395281002496/pu/vid/404x720/8_6UgYJXxfZQPE7t.mp4?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1078847395281002496/pu/vid/320x570/EBreE15Xc5f7Y_OJ.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1078847395281002496/pu/pl/Y3xd7J_AZtKBKac9.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 227627,
+			"friends_count": 0,
+			"listed_count": 3177,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1259,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1534766929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9577,
+		"favorite_count": 21138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #54]\n🐰토끼상어vs냥이악어🐱\n#이달의소녀 #LOONA #LOONAKick #희진 #현진 #HeeJin #HyunJin https://t.co/x2UmWhUWFz"
+	},
+	{
+		"created_at": "Sat Dec 29 02:36:15 +0000 2018",
+		"id": 1078842102358798300,
+		"id_str": "1078842102358798337",
+		"full_text": "콘서트 [자우림, 윈터 원더랜드] 부산 공연 안내\n-\n2018년 12월 29일(토) 오후 6시\nKBS 부산홀(수영구 수영로 429)\n-\n티켓 현장수령 및 현장 판매는 공연 2시간 전부터 공연 시작후 30분까지 가능합니다.\n공연 1시간 전부터 공연장 입장 가능합니다. https://t.co/bGGYmUofer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078842089708765200,
+					"id_str": "1078842089708765185",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/DvjRKiXUwAE_CVE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvjRKiXUwAE_CVE.jpg",
+					"url": "https://t.co/bGGYmUofer",
+					"display_url": "pic.twitter.com/bGGYmUofer",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1078842102358798337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078842089708765200,
+					"id_str": "1078842089708765185",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/DvjRKiXUwAE_CVE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvjRKiXUwAE_CVE.jpg",
+					"url": "https://t.co/bGGYmUofer",
+					"display_url": "pic.twitter.com/bGGYmUofer",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1078842102358798337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1387,
+			"friends_count": 5,
+			"listed_count": 5,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "콘서트 [자우림, 윈터 원더랜드] 부산 공연 안내\n-\n2018년 12월 29일(토) 오후 6시\nKBS 부산홀(수영구 수영로 429)\n-\n티켓 현장수령 및 현장 판매는 공연 2시간 전부터 공연 시작후 30분까지 가능합니다.\n공연 1시간 전부터 공연장 입장 가능합니다. https://t.co/bGGYmUofer"
+	},
+	{
+		"created_at": "Fri Dec 28 14:59:52 +0000 2018",
+		"id": 1078666851947708400,
+		"id_str": "1078666851947708419",
+		"full_text": "레드벨벳 - Hit that drum, Power UP (출처 : 2018 KBS 가요대축제 | 네이버TV)\n\n#RedVelvet⁠ ⁠#레드벨벳⁠ ⁠#Hitthatdrum #PowerUp⁠ ⁠#머릿속_레드벨벳_생각_뿐이야⁠  #RedVelvetAtYourDoor⁠ \n\nhttps://t.co/A4hfUOse5e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "Hitthatdrum",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"text": "PowerUp",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "머릿속_레드벨벳_생각_뿐이야",
+					"indices": [
+						107,
+						123
+					]
+				},
+				{
+					"text": "RedVelvetAtYourDoor",
+					"indices": [
+						126,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A4hfUOse5e",
+					"expanded_url": "http://naver.me/5LaFBN4Z",
+					"display_url": "naver.me/5LaFBN4Z",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1342871,
+			"friends_count": 2,
+			"listed_count": 4136,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 735,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5558,
+		"favorite_count": 15630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 - Hit that drum, Power UP (출처 : 2018 KBS 가요대축제 | 네이버TV)\n\n#RedVelvet⁠ ⁠#레드벨벳⁠ ⁠#Hitthatdrum #PowerUp⁠ ⁠#머릿속_레드벨벳_생각_뿐이야⁠  #RedVelvetAtYourDoor⁠ \n\nhttps://t.co/A4hfUOse5e"
+	},
+	{
+		"created_at": "Fri Dec 28 14:36:18 +0000 2018",
+		"id": 1078660917896724500,
+		"id_str": "1078660917896724480",
+		"full_text": "SM The Greatest - HYO X 레드벨벳에서 NCT U의 무대까지★ (출처 : 2018 KBS 가요대축제 | 네이버TV) \n\n#SMTOWN #SMTheGreatest #HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #EXO #엑소 #RedVelvet⁠ ⁠#레드벨벳 #NCT \n\nhttps://t.co/PA3Q1CCVF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "SMTheGreatest",
+					"indices": [
+						84,
+						98
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						132,
+						148
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						183,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						117,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PA3Q1CCVF1",
+					"expanded_url": "http://naver.me/55vi1Msh",
+					"display_url": "naver.me/55vi1Msh",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7058688,
+			"friends_count": 44,
+			"listed_count": 9015,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5620,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16336,
+		"favorite_count": 38611,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM The Greatest - HYO X 레드벨벳에서 NCT U의 무대까지★ (출처 : 2018 KBS 가요대축제 | 네이버TV) \n\n#SMTOWN #SMTheGreatest #HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #EXO #엑소 #RedVelvet⁠ ⁠#레드벨벳 #NCT \n\nhttps://t.co/PA3Q1CCVF1"
+	},
+	{
+		"created_at": "Fri Dec 28 14:27:02 +0000 2018",
+		"id": 1078658589873430500,
+		"id_str": "1078658589873430530",
+		"full_text": "레드벨벳 - Be Natural + RBB (출처 : 2018 KBS 가요대축제 | 네이버TV)\n\n#RedVelvet⁠ ⁠#레드벨벳⁠ ⁠#BeNatural #RedVelvet_RBB⁠ ⁠#머릿속_레드벨벳_생각_뿐이야⁠  #RedVelvetAtYourDoor⁠ \n\nhttps://t.co/e6OHHVUedW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "BeNatural",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "RedVelvet_RBB",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"text": "머릿속_레드벨벳_생각_뿐이야",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "RedVelvetAtYourDoor",
+					"indices": [
+						123,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e6OHHVUedW",
+					"expanded_url": "http://naver.me/Gfv4rNZt",
+					"display_url": "naver.me/Gfv4rNZt",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1342871,
+			"friends_count": 2,
+			"listed_count": 4136,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 735,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6771,
+		"favorite_count": 18196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 - Be Natural + RBB (출처 : 2018 KBS 가요대축제 | 네이버TV)\n\n#RedVelvet⁠ ⁠#레드벨벳⁠ ⁠#BeNatural #RedVelvet_RBB⁠ ⁠#머릿속_레드벨벳_생각_뿐이야⁠  #RedVelvetAtYourDoor⁠ \n\nhttps://t.co/e6OHHVUedW"
+	},
+	{
 		"created_at": "Fri Dec 28 14:24:20 +0000 2018",
 		"id": 1078657908395647000,
 		"id_str": "1078657908395646977",
