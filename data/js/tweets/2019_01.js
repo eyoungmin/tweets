@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 01:40:07 +0000 2019",
+		"id": 1081727078024835100,
+		"id_str": "1081727078024835073",
+		"full_text": "The legacy of @GirlsGeneration's \"Gee,\" 10 years later https://t.co/gzeg4CNAhJ https://t.co/x8BjYhNOKL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gzeg4CNAhJ",
+					"expanded_url": "https://blbrd.cm/0jtZGH",
+					"display_url": "blbrd.cm/0jtZGH",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081727075621457900,
+					"id_str": "1081727075621457920",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DwMRC0ZW0AANUaP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwMRC0ZW0AANUaP.jpg",
+					"url": "https://t.co/x8BjYhNOKL",
+					"display_url": "pic.twitter.com/x8BjYhNOKL",
+					"expanded_url": "https://twitter.com/billboard/status/1081727078024835073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1548,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081727075621457900,
+					"id_str": "1081727075621457920",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DwMRC0ZW0AANUaP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwMRC0ZW0AANUaP.jpg",
+					"url": "https://t.co/x8BjYhNOKL",
+					"display_url": "pic.twitter.com/x8BjYhNOKL",
+					"expanded_url": "https://twitter.com/billboard/status/1081727078024835073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1548,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "Worldwide!",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @hot100fest",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6987233,
+			"friends_count": 3142,
+			"listed_count": 24609,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 201686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1003669695688560640/QB0md4v8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003669695688560640/QB0md4v8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1544714551",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9109,
+		"favorite_count": 17002,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The legacy of @GirlsGeneration's \"Gee,\" 10 years later https://t.co/gzeg4CNAhJ https://t.co/x8BjYhNOKL"
+	},
+	{
+		"created_at": "Sat Jan 05 15:11:23 +0000 2019",
+		"id": 1081568850775224300,
+		"id_str": "1081568850775224320",
+		"full_text": "2019.1.6 \nRed Velvet Digital Single「SAPPY」release!\n🎧2019.1.6 12AM（JST）\nhttps://t.co/0k526JwtEd\n\n#SAPPY\n#RedVelvet @RVsmtown\n#REDMAREinJAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAPPY",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "REDMAREinJAPAN",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0k526JwtEd",
+					"expanded_url": "https://youtu.be/JUJ3Pq74H4c",
+					"display_url": "youtu.be/JUJ3Pq74H4c",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1371317,
+			"friends_count": 2,
+			"listed_count": 4254,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 739,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20204,
+		"favorite_count": 39926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2019.1.6 \nRed Velvet Digital Single「SAPPY」release!\n🎧2019.1.6 12AM（JST）\nhttps://t.co/0k526JwtEd\n\n#SAPPY\n#RedVelvet @RVsmtown\n#REDMAREinJAPAN"
+	},
+	{
 		"created_at": "Fri Jan 04 22:42:13 +0000 2019",
 		"id": 1081319921164976100,
 		"id_str": "1081319921164976130",
