@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 09:59:37 +0000 2019",
+		"id": 1085476661112406000,
+		"id_str": "1085476661112406018",
+		"full_text": "현대카드 Curated 47 끝나지 않을 사랑의 밤\n- 공연일시 : 2019년 3월 1일 금요일 오후 8시, 3월 2일 토요일 오후 7시\n- 공연장소 : 현대카드 언더스테이지\n- 티켓가격 : 스탠딩 48,000원\n- 티켓오픈 : 멜론티켓 1/18(금) 19:00 \n\nhttps://t.co/8aZQvAMRLP &gt;공지\n\nhttps://t.co/mUTPcpgz2w &gt;예매페이지 https://t.co/ABjaHXOgoS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8aZQvAMRLP",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=2485",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/mUTPcpgz2w",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=202940",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1085476648508547100,
+					"id_str": "1085476648508547072",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DxBjQr5VYAAnoIR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxBjQr5VYAAnoIR.jpg",
+					"url": "https://t.co/ABjaHXOgoS",
+					"display_url": "pic.twitter.com/ABjaHXOgoS",
+					"expanded_url": "https://twitter.com/adoyband/status/1085476661112406018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 708,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085476648508547100,
+					"id_str": "1085476648508547072",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DxBjQr5VYAAnoIR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxBjQr5VYAAnoIR.jpg",
+					"url": "https://t.co/ABjaHXOgoS",
+					"display_url": "pic.twitter.com/ABjaHXOgoS",
+					"expanded_url": "https://twitter.com/adoyband/status/1085476661112406018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 708,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1919,
+			"friends_count": 588,
+			"listed_count": 22,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 366,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현대카드 Curated 47 끝나지 않을 사랑의 밤\n- 공연일시 : 2019년 3월 1일 금요일 오후 8시, 3월 2일 토요일 오후 7시\n- 공연장소 : 현대카드 언더스테이지\n- 티켓가격 : 스탠딩 48,000원\n- 티켓오픈 : 멜론티켓 1/18(금) 19:00 \n\nhttps://t.co/8aZQvAMRLP &gt;공지\n\nhttps://t.co/mUTPcpgz2w &gt;예매페이지 https://t.co/ABjaHXOgoS"
+	},
+	{
+		"created_at": "Wed Jan 16 09:49:12 +0000 2019",
+		"id": 1085474038808424400,
+		"id_str": "1085474038808424448",
+		"full_text": "아스트로 (ASTRO) 'All Light' Released!\n👉https://t.co/FU53uvGpP7 https://t.co/i2hE371jkT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FU53uvGpP7",
+					"expanded_url": "https://m.facebook.com/story.php?story_fbid=2531181033563649&id=942907422391026",
+					"display_url": "m.facebook.com/story.php?stor…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1085474028561649700,
+					"id_str": "1085474028561649665",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DxBg4L1UUAE2FJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxBg4L1UUAE2FJf.jpg",
+					"url": "https://t.co/i2hE371jkT",
+					"display_url": "pic.twitter.com/i2hE371jkT",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1085474038808424448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085474028561649700,
+					"id_str": "1085474028561649665",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DxBg4L1UUAE2FJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxBg4L1UUAE2FJf.jpg",
+					"url": "https://t.co/i2hE371jkT",
+					"display_url": "pic.twitter.com/i2hE371jkT",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1085474038808424448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5917,
+			"friends_count": 3,
+			"listed_count": 42,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아스트로 (ASTRO) 'All Light' Released!\n👉https://t.co/FU53uvGpP7 https://t.co/i2hE371jkT"
+	},
+	{
+		"created_at": "Tue Jan 15 22:58:01 +0000 2019",
+		"id": 1085310163995680800,
+		"id_str": "1085310163995680768",
+		"full_text": "왜 페이스북은 지역 언론에 3억 달러나 투자할까요? - https://t.co/7urip6ybqn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7urip6ybqn",
+					"expanded_url": "http://newspeppermint.com/2019/01/15/facebook_investment/",
+					"display_url": "newspeppermint.com/2019/01/15/fac…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104497,
+			"friends_count": 0,
+			"listed_count": 794,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜 페이스북은 지역 언론에 3억 달러나 투자할까요? - https://t.co/7urip6ybqn"
+	},
+	{
 		"created_at": "Tue Jan 15 07:15:30 +0000 2019",
 		"id": 1085072970614276100,
 		"id_str": "1085072970614276096",
@@ -807,7 +1290,7 @@ Grailbird.data.tweets_2019_01 =
 		"created_at": "Mon Jan 14 18:07:37 +0000 2019",
 		"id": 1084874692517752800,
 		"id_str": "1084874692517752832",
-		"full_text": "Let’s watch this together today 👩🏻‍💻❤️. I’m signing in to the mtv YouTube chat to watch my episode of “Homecoming” on @mtv @MTVNEWS  and say hi! see you soooon:\nhttps://t.co/Spnkevc4ab",
+		"full_text": "Let’s watch this together today 👩🏻💻❤️. I’m signing in to the mtv YouTube chat to watch my episode of “Homecoming” on @mtv @MTVNEWS  and say hi! see you soooon:\nhttps://t.co/Spnkevc4ab",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -928,7 +1411,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Let’s watch this together today 👩🏻‍💻❤️. I’m signing in to the mtv YouTube chat to watch my episode of “Homecoming” on @mtv @MTVNEWS  and say hi! see you soooon:\nhttps://t.co/Spnkevc4ab"
+		"text": "Let’s watch this together today 👩🏻💻❤️. I’m signing in to the mtv YouTube chat to watch my episode of “Homecoming” on @mtv @MTVNEWS  and say hi! see you soooon:\nhttps://t.co/Spnkevc4ab"
 	},
 	{
 		"created_at": "Sat Jan 12 20:31:00 +0000 2019",
