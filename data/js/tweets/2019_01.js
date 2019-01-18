@@ -1,6 +1,1134 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 12:39:07 +0000 2019",
+		"id": 1086241573577252900,
+		"id_str": "1086241573577252865",
+		"full_text": "티켓 오픈과 동시에 양일권이 모두 매진 되었습니다. 여러분의 성원에 진심으로 감사드립니다. 좋은 공연으로 보답 하겠습니다. 현대카드와 추가 공연을 논의중 입니다. 고맙습니다. #ADOY https://t.co/TJ0Zw6cVmv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						98,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086241543642435600,
+					"id_str": "1086241543642435584",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMa7cUUUAAlAg-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMa7cUUUAAlAg-.jpg",
+					"url": "https://t.co/TJ0Zw6cVmv",
+					"display_url": "pic.twitter.com/TJ0Zw6cVmv",
+					"expanded_url": "https://twitter.com/adoyband/status/1086241573577252865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 991,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 991,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086241543642435600,
+					"id_str": "1086241543642435584",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMa7cUUUAAlAg-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMa7cUUUAAlAg-.jpg",
+					"url": "https://t.co/TJ0Zw6cVmv",
+					"display_url": "pic.twitter.com/TJ0Zw6cVmv",
+					"expanded_url": "https://twitter.com/adoyband/status/1086241573577252865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 991,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 991,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086241554988068900,
+					"id_str": "1086241554988068866",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMa8GlU8AIuu07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMa8GlU8AIuu07.jpg",
+					"url": "https://t.co/TJ0Zw6cVmv",
+					"display_url": "pic.twitter.com/TJ0Zw6cVmv",
+					"expanded_url": "https://twitter.com/adoyband/status/1086241573577252865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 991,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 991,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086241563364061200,
+					"id_str": "1086241563364061185",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMa8lyUcAETNAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMa8lyUcAETNAE.jpg",
+					"url": "https://t.co/TJ0Zw6cVmv",
+					"display_url": "pic.twitter.com/TJ0Zw6cVmv",
+					"expanded_url": "https://twitter.com/adoyband/status/1086241573577252865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 991,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 991,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1936,
+			"friends_count": 588,
+			"listed_count": 22,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 367,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "티켓 오픈과 동시에 양일권이 모두 매진 되었습니다. 여러분의 성원에 진심으로 감사드립니다. 좋은 공연으로 보답 하겠습니다. 현대카드와 추가 공연을 논의중 입니다. 고맙습니다. #ADOY https://t.co/TJ0Zw6cVmv"
+	},
+	{
+		"created_at": "Fri Jan 18 12:44:29 +0000 2019",
+		"id": 1086242924348743700,
+		"id_str": "1086242924348743680",
+		"full_text": "#少女時代 #소녀시대_일본\n少女時代ユリ 日本初のソロファンミーティング『YURI 1st Fanmeeting Tour “INTO YURI” in JAPAN』開催決定！SONE JAPANチケット先行受付開始！\nhttps://t.co/uZeP51EBx3\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "소녀시대_일본",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						141,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uZeP51EBx3",
+					"expanded_url": "http://girls-generation.jp/gg/news/yuri_solo.html",
+					"display_url": "girls-generation.jp/gg/news/yuri_s…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46877,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #소녀시대_일본\n少女時代ユリ 日本初のソロファンミーティング『YURI 1st Fanmeeting Tour “INTO YURI” in JAPAN』開催決定！SONE JAPANチケット先行受付開始！\nhttps://t.co/uZeP51EBx3\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Jan 18 11:04:13 +0000 2019",
+		"id": 1086217691277320200,
+		"id_str": "1086217691277320194",
+		"full_text": "ユリが3/19(火)に日本初のソロファンミーティング『YURI 1st Fanmeeting Tour \"INTO YURI\" in JAPAN』を開催！現在、少女時代オフィシャルファンクラブ「SONE JAPAN」では会員様を対象にチケット受付を実施中。この機会をお見逃しなく♪\n▼詳細はこちら\nhttps://t.co/qsSQ5Pjn2S https://t.co/ZCZQxuxmCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qsSQ5Pjn2S",
+					"expanded_url": "http://girls-generation.jp/gg/news/yuri_solo.html",
+					"display_url": "girls-generation.jp/gg/news/yuri_s…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086217683907969000,
+					"id_str": "1086217683907969024",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMFOn4VAAAOb_q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMFOn4VAAAOb_q.jpg",
+					"url": "https://t.co/ZCZQxuxmCy",
+					"display_url": "pic.twitter.com/ZCZQxuxmCy",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1086217691277320194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1322,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086217683907969000,
+					"id_str": "1086217683907969024",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMFOn4VAAAOb_q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMFOn4VAAAOb_q.jpg",
+					"url": "https://t.co/ZCZQxuxmCy",
+					"display_url": "pic.twitter.com/ZCZQxuxmCy",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1086217691277320194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1322,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "2007年8月韓国デビュー。 2009年には韓国の音楽番組KBS MUSIC BANKで9週連続1位の新記録を樹立するなど、トップガールズグループとして君臨。 また、台湾、タイ、フィリピンの各種音楽チャートでも1位を獲得、中国などでもアジアツアーを行うなどアジア全域でNO.1グループとして活躍している。",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100582,
+			"friends_count": 0,
+			"listed_count": 532,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 256,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 863,
+		"favorite_count": 1694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ユリが3/19(火)に日本初のソロファンミーティング『YURI 1st Fanmeeting Tour \"INTO YURI\" in JAPAN』を開催！現在、少女時代オフィシャルファンクラブ「SONE JAPAN」では会員様を対象にチケット受付を実施中。この機会をお見逃しなく♪\n▼詳細はこちら\nhttps://t.co/qsSQ5Pjn2S https://t.co/ZCZQxuxmCy"
+	},
+	{
+		"created_at": "Fri Jan 18 11:00:11 +0000 2019",
+		"id": 1086216678768169000,
+		"id_str": "1086216678768168960",
+		"full_text": "🏹\n\n#이달의소녀 #LOONA https://t.co/dfdycdM35F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086216668840226800,
+					"id_str": "1086216668840226821",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMETidUcAUuiaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMETidUcAUuiaf.jpg",
+					"url": "https://t.co/dfdycdM35F",
+					"display_url": "pic.twitter.com/dfdycdM35F",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1086216678768168960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086216668840226800,
+					"id_str": "1086216668840226821",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMETidUcAUuiaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMETidUcAUuiaf.jpg",
+					"url": "https://t.co/dfdycdM35F",
+					"display_url": "pic.twitter.com/dfdycdM35F",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1086216678768168960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237157,
+			"friends_count": 0,
+			"listed_count": 3386,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1267,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1534766929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4972,
+		"favorite_count": 13604,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🏹\n\n#이달의소녀 #LOONA https://t.co/dfdycdM35F"
+	},
+	{
+		"created_at": "Fri Jan 18 03:22:20 +0000 2019",
+		"id": 1086101456468492300,
+		"id_str": "1086101456468492288",
+		"full_text": "[청원답변 Live] '광양 알루미늄 공장 반대', '잔혹한 개도살 반대' 청원에 답합니다.\nhttps://t.co/l4e7dwKsWk\n#청와대 #국민청원 #답변 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청와대",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "국민청원",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "답변",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l4e7dwKsWk",
+					"expanded_url": "https://www.youtube.com/watch?v=QvyPce1wqg0",
+					"display_url": "youtube.com/watch?v=QvyPce…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46877,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[청원답변 Live] '광양 알루미늄 공장 반대', '잔혹한 개도살 반대' 청원에 답합니다.\nhttps://t.co/l4e7dwKsWk\n#청와대 #국민청원 #답변 #minfav"
+	},
+	{
+		"created_at": "Fri Jan 18 01:33:28 +0000 2019",
+		"id": 1086074059362684900,
+		"id_str": "1086074059362684929",
+		"full_text": "대장금이 보고있다 16회 예고 (출처 : 대장금이 보고 있다 | 네이버TV) \n  \n#권유리 #유리 #YURI #소녀시대 #GirlsGeneration #대장금이보고있다 \n  \nhttps://t.co/hVtkG7BuEF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						68,
+						84
+					]
+				},
+				{
+					"text": "대장금이보고있다",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hVtkG7BuEF",
+					"expanded_url": "http://naver.me/5acwBIAi",
+					"display_url": "naver.me/5acwBIAi",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3343108,
+			"friends_count": 4,
+			"listed_count": 5572,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1541992787",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1238,
+		"favorite_count": 4820,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대장금이 보고있다 16회 예고 (출처 : 대장금이 보고 있다 | 네이버TV) \n  \n#권유리 #유리 #YURI #소녀시대 #GirlsGeneration #대장금이보고있다 \n  \nhttps://t.co/hVtkG7BuEF"
+	},
+	{
+		"created_at": "Thu Jan 17 17:41:00 +0000 2019",
+		"id": 1085955157899313200,
+		"id_str": "1085955157899313153",
+		"full_text": "YESEO - Take Flight! (Official Teaser)\nhttps://t.co/6zemDzFffp\n#YESEO #예서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YESEO",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "예서",
+					"indices": [
+						70,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6zemDzFffp",
+					"expanded_url": "https://youtu.be/gMMXedAzadQ",
+					"display_url": "youtu.be/gMMXedAzadQ",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46877,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YESEO - Take Flight! (Official Teaser)\nhttps://t.co/6zemDzFffp\n#YESEO #예서"
+	},
+	{
 		"created_at": "Thu Jan 17 14:51:13 +0000 2019",
 		"id": 1085912431782694900,
 		"id_str": "1085912431782694912",
@@ -570,7 +1698,7 @@ Grailbird.data.tweets_2019_01 =
 		"created_at": "Thu Jan 17 09:04:34 +0000 2019",
 		"id": 1085825191962243100,
 		"id_str": "1085825191962243072",
-		"full_text": "아직 [LOOΠΔVERSE] 내 자리 찜! 안한사람🙋🏻‍♀️🙋🏻‍♂️?\n오늘 저녁 8시부터 [LOOΠΔVERSE] 일반예매가 시작 됩니다🙆🏻‍♀️🙆🏻‍♂️\n\n티켓 오픈 일정💕\n2019. 01. 17 pm8(KST)\n@멜론티켓\n\n#이달의소녀 #LOONA https://t.co/UQ1ZX6Oa4d",
+		"full_text": "아직 [LOOΠΔVERSE] 내 자리 찜! 안한사람🙋🏻♀️🙋🏻♂️?\n오늘 저녁 8시부터 [LOOΠΔVERSE] 일반예매가 시작 됩니다🙆🏻♀️🙆🏻♂️\n\n티켓 오픈 일정💕\n2019. 01. 17 pm8(KST)\n@멜론티켓\n\n#이달의소녀 #LOONA https://t.co/UQ1ZX6Oa4d",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -753,7 +1881,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "아직 [LOOΠΔVERSE] 내 자리 찜! 안한사람🙋🏻‍♀️🙋🏻‍♂️?\n오늘 저녁 8시부터 [LOOΠΔVERSE] 일반예매가 시작 됩니다🙆🏻‍♀️🙆🏻‍♂️\n\n티켓 오픈 일정💕\n2019. 01. 17 pm8(KST)\n@멜론티켓\n\n#이달의소녀 #LOONA https://t.co/UQ1ZX6Oa4d"
+		"text": "아직 [LOOΠΔVERSE] 내 자리 찜! 안한사람🙋🏻♀️🙋🏻♂️?\n오늘 저녁 8시부터 [LOOΠΔVERSE] 일반예매가 시작 됩니다🙆🏻♀️🙆🏻♂️\n\n티켓 오픈 일정💕\n2019. 01. 17 pm8(KST)\n@멜론티켓\n\n#이달의소녀 #LOONA https://t.co/UQ1ZX6Oa4d"
 	},
 	{
 		"created_at": "Wed Jan 16 22:22:33 +0000 2019",
