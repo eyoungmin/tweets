@@ -1,6 +1,2310 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 11:43:07 +0000 2019",
+		"id": 1090213748906717200,
+		"id_str": "1090213748906717186",
+		"full_text": "AMAZING. @YouTube fixed the audio problem on the “Born Again” music video 😍😍🤩🥳 thank you https://t.co/ebiM318l8u #bornagain",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bornagain",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ebiM318l8u",
+					"expanded_url": "https://youtu.be/gH0a_rcsQTU",
+					"display_url": "youtu.be/gH0a_rcsQTU",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "[ instagram • facebook • weibo ] @tiffanyyoung",
+			"url": "https://t.co/4TmKvirSuF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4TmKvirSuF",
+							"expanded_url": "http://www.tiffanyyoung.com",
+							"display_url": "tiffanyyoung.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240909,
+			"friends_count": 127,
+			"listed_count": 675,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088668881697202177/0MNnLPlO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088668881697202177/0MNnLPlO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1548393845",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2867,
+		"favorite_count": 4487,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AMAZING. @YouTube fixed the audio problem on the “Born Again” music video 😍😍🤩🥳 thank you https://t.co/ebiM318l8u #bornagain"
+	},
+	{
+		"created_at": "Tue Jan 29 10:29:29 +0000 2019",
+		"id": 1090195219008507900,
+		"id_str": "1090195219008507904",
+		"full_text": "[2019 KMA MUSIC Awards] \n\n[LOVE]와 [Wonder]가 제16회 한국 대중 음악상 최우수 모던록 앨범과 최우수 팝 노래 부분에 노미네이트 되었습니다. 감사합니다. \n[LOVE] and [Wonder] have been nominated for the 2019 Korea Music Awards Best Modern Rock Album and Best Pop Song. Thank you. #ADOY https://t.co/sYnq4Q5qBq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						230,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090195196141158400,
+					"id_str": "1090195196141158400",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/DyEmwTnUwAAfvCV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyEmwTnUwAAfvCV.jpg",
+					"url": "https://t.co/sYnq4Q5qBq",
+					"display_url": "pic.twitter.com/sYnq4Q5qBq",
+					"expanded_url": "https://twitter.com/adoyband/status/1090195219008507904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090195196141158400,
+					"id_str": "1090195196141158400",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/DyEmwTnUwAAfvCV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyEmwTnUwAAfvCV.jpg",
+					"url": "https://t.co/sYnq4Q5qBq",
+					"display_url": "pic.twitter.com/sYnq4Q5qBq",
+					"expanded_url": "https://twitter.com/adoyband/status/1090195219008507904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1090195204210970600,
+					"id_str": "1090195204210970625",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/DyEmwxrUUAE92Ak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyEmwxrUUAE92Ak.jpg",
+					"url": "https://t.co/sYnq4Q5qBq",
+					"display_url": "pic.twitter.com/sYnq4Q5qBq",
+					"expanded_url": "https://twitter.com/adoyband/status/1090195219008507904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1979,
+			"friends_count": 585,
+			"listed_count": 22,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 369,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 KMA MUSIC Awards] \n\n[LOVE]와 [Wonder]가 제16회 한국 대중 음악상 최우수 모던록 앨범과 최우수 팝 노래 부분에 노미네이트 되었습니다. 감사합니다. \n[LOVE] and [Wonder] have been nominated for the 2019 Korea Music Awards Best Modern Rock Album and Best Pop Song. Thank you. #ADOY https://t.co/sYnq4Q5qBq"
+	},
+	{
+		"created_at": "Mon Jan 28 07:00:00 +0000 2019",
+		"id": 1089780113137295400,
+		"id_str": "1089780113137295361",
+		"full_text": "여성 지원자 등급 깎은 IBK 투자증권\nhttps://t.co/vs5t8rTaMt https://t.co/jEmKi7F5Jj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vs5t8rTaMt",
+					"expanded_url": "http://www.hani.co.kr/arti/society/society_general/880136.html?_fr=mt2",
+					"display_url": "hani.co.kr/arti/society/s…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089763100499238900,
+					"id_str": "1089763100499238912",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx-dxB6V4AAyPOV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx-dxB6V4AAyPOV.jpg",
+					"url": "https://t.co/jEmKi7F5Jj",
+					"display_url": "pic.twitter.com/jEmKi7F5Jj",
+					"expanded_url": "https://twitter.com/hanitweet/status/1089780113137295361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 527,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 527,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089763100499238900,
+					"id_str": "1089763100499238912",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx-dxB6V4AAyPOV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx-dxB6V4AAyPOV.jpg",
+					"url": "https://t.co/jEmKi7F5Jj",
+					"display_url": "pic.twitter.com/jEmKi7F5Jj",
+					"expanded_url": "https://twitter.com/hanitweet/status/1089780113137295361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 527,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 527,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문 한겨레 공식 트위터입니다.",
+			"url": "http://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 581380,
+			"friends_count": 148735,
+			"listed_count": 7953,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107995,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1561,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여성 지원자 등급 깎은 IBK 투자증권\nhttps://t.co/vs5t8rTaMt https://t.co/jEmKi7F5Jj"
+	},
+	{
+		"created_at": "Tue Jan 29 02:07:51 +0000 2019",
+		"id": 1090068979207422000,
+		"id_str": "1090068979207421952",
+		"full_text": "16회 한국대중음악상(KMA) 올해의 노래 후보\n2019 KMA Nominees for Song of the Year\n\n마미손 Mommy Son- 소년점프 (Feat. 배기성)\n방탄소년단 BTS - Fake Love\n방탄소년단 BTS - IDOL\n세이수미 Say Sue Me - Old Town\n장기하와 얼굴들 Kiha &amp; The Faces - 그건 니 생각이고\n혁오 HYUKOH - Love Ya!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38992649,
+			"id_str": "38992649",
+			"name": "김영대 Kim Youngdae",
+			"screen_name": "toojazzy25",
+			"location": "Seattle, WA",
+			"description": "음악평론가. 한국대중음악상 선정위원. Music critic @vulture @mtvnews @izemag @hanitweet @idologykr Korean Music Awards (@kmusicawards) selection committee. toojazzy25@gmail.com",
+			"url": "https://t.co/xPmIzJPaF5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xPmIzJPaF5",
+							"expanded_url": "https://www.youtube.com/user/toojazzy25",
+							"display_url": "youtube.com/user/toojazzy25",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30688,
+			"friends_count": 435,
+			"listed_count": 217,
+			"created_at": "Sun May 10 04:05:07 +0000 2009",
+			"favourites_count": 2556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25189,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855254655462326272/5LHz8-VE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855254655462326272/5LHz8-VE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38992649/1493749125",
+			"profile_link_color": "2890EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6785,
+		"favorite_count": 10505,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "16회 한국대중음악상(KMA) 올해의 노래 후보\n2019 KMA Nominees for Song of the Year\n\n마미손 Mommy Son- 소년점프 (Feat. 배기성)\n방탄소년단 BTS - Fake Love\n방탄소년단 BTS - IDOL\n세이수미 Say Sue Me - Old Town\n장기하와 얼굴들 Kiha &amp; The Faces - 그건 니 생각이고\n혁오 HYUKOH - Love Ya!"
+	},
+	{
+		"created_at": "Tue Jan 29 03:06:12 +0000 2019",
+		"id": 1090083660458389500,
+		"id_str": "1090083660458389504",
+		"full_text": "2019 한국대중음악상 홈페이지 오픈!! 지금 바로 후보들을 만나보세요. https://t.co/jeyV7M7WJp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jeyV7M7WJp",
+					"expanded_url": "http://koreanmusicawards.com/2019/",
+					"display_url": "koreanmusicawards.com/2019/",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456487957,
+			"id_str": "456487957",
+			"name": "한국대중음악상",
+			"screen_name": "kmusicawards",
+			"location": "Everywhere",
+			"description": "2019 제16회 한국대중음악상 시상식",
+			"url": "https://t.co/WbaqJd68sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbaqJd68sV",
+							"expanded_url": "http://www.koreanmusicawards.com",
+							"display_url": "koreanmusicawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3074,
+			"friends_count": 276,
+			"listed_count": 70,
+			"created_at": "Fri Jan 06 09:22:11 +0000 2012",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 900,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085720587115278337/-MX9XiZb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085720587115278337/-MX9XiZb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456487957/1515527360",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2217,
+		"favorite_count": 3908,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 한국대중음악상 홈페이지 오픈!! 지금 바로 후보들을 만나보세요. https://t.co/jeyV7M7WJp"
+	},
+	{
+		"created_at": "Mon Jan 28 22:02:28 +0000 2019",
+		"id": 1090007225991491600,
+		"id_str": "1090007225991491585",
+		"full_text": "https://t.co/xNZ0WwDVGN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090002870408106000,
+					"id_str": "1090002870408105985",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DyB7vrwU8AAJMFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyB7vrwU8AAJMFe.jpg",
+					"url": "https://t.co/xNZ0WwDVGN",
+					"display_url": "pic.twitter.com/xNZ0WwDVGN",
+					"expanded_url": "https://twitter.com/billieeilish/status/1090007225991491585/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090002870408106000,
+					"id_str": "1090002870408105985",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DyB7vrwU8AAJMFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyB7vrwU8AAJMFe.jpg",
+					"url": "https://t.co/xNZ0WwDVGN",
+					"display_url": "pic.twitter.com/xNZ0WwDVGN",
+					"expanded_url": "https://twitter.com/billieeilish/status/1090007225991491585/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16308,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1090002870408105985/vid/640x360/W4mC3fatREwJtt6n.mp4?tag=9"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1090002870408105985/vid/320x180/3a0q7j8BYNYAjGv7.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1090002870408105985/pl/5sH7w0inwt1jqUQg.m3u8?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1090002870408105985/vid/1280x720/jXx3Zb7s692Conae.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/N4TPic3pXl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N4TPic3pXl",
+							"expanded_url": "http://Instagram.com/wherearetheavocados",
+							"display_url": "Instagram.com/wherearetheavo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1039985,
+			"friends_count": 0,
+			"listed_count": 1377,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 8289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 44,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019655441414959104/ZCMAmo5j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019655441414959104/ZCMAmo5j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1539749450",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49712,
+		"favorite_count": 187163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/xNZ0WwDVGN"
+	},
+	{
+		"created_at": "Tue Jan 29 03:37:04 +0000 2019",
+		"id": 1090091431010566100,
+		"id_str": "1090091431010566145",
+		"full_text": "이외에도 최우수 팝 음반에는 장필순 [soony eight_소길화], 보아 [WOMAN], 이진아 [진아식당 Full Course], 이문세 [BETWEEN US], 엄정화 [The Cloud Dream of the Nine]이 올랐는데, 장필순의 앨범을 포크로 분류할지 팝으로 분류할지에 관해 깊이 고민하는 과정이 있었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090089581964226600,
+		"in_reply_to_status_id_str": "1090089581964226561",
+		"in_reply_to_user_id": 918810726034153500,
+		"in_reply_to_user_id_str": "918810726034153475",
+		"in_reply_to_screen_name": "muse_at",
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "웹진 [ize] 기자, 책 [아이돌 메이커], [아이돌의 작업실]을 작업. 한국대중음악상 선정위원.",
+			"url": "https://t.co/F98S8e3FGb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F98S8e3FGb",
+							"expanded_url": "https://audioclip.naver.com/channels/1165",
+							"display_url": "audioclip.naver.com/channels/1165",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1347,
+			"friends_count": 114,
+			"listed_count": 12,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 1399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 930,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087651279747276801/N5y7N61J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087651279747276801/N5y7N61J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1535205865",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이외에도 최우수 팝 음반에는 장필순 [soony eight_소길화], 보아 [WOMAN], 이진아 [진아식당 Full Course], 이문세 [BETWEEN US], 엄정화 [The Cloud Dream of the Nine]이 올랐는데, 장필순의 앨범을 포크로 분류할지 팝으로 분류할지에 관해 깊이 고민하는 과정이 있었습니다."
+	},
+	{
+		"created_at": "Tue Jan 29 03:29:43 +0000 2019",
+		"id": 1090089581964226600,
+		"id_str": "1090089581964226561",
+		"full_text": "2019 한국대중음악상(KMA) 기자회견을 마쳤어요. 기자분들께 말씀드린 것처럼 방탄소년단의 경우에는 [Tear] 앨범과 [Answer]끼리도 경합을 벌였습니다. 화제성은 논외이고, 각 앨범의 음악적인 성취에 관해서 선정위원들이 열띤 토론을 거친 끝에 [Answer]가 최종후보가 되었습니다. https://t.co/jOGvzfEGMD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090089571977547800,
+					"id_str": "1090089571977547776",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DyDGsK8UUAAZE0E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyDGsK8UUAAZE0E.jpg",
+					"url": "https://t.co/jOGvzfEGMD",
+					"display_url": "pic.twitter.com/jOGvzfEGMD",
+					"expanded_url": "https://twitter.com/muse_at/status/1090089581964226561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090089571977547800,
+					"id_str": "1090089571977547776",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DyDGsK8UUAAZE0E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyDGsK8UUAAZE0E.jpg",
+					"url": "https://t.co/jOGvzfEGMD",
+					"display_url": "pic.twitter.com/jOGvzfEGMD",
+					"expanded_url": "https://twitter.com/muse_at/status/1090089581964226561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1090089571998588900,
+					"id_str": "1090089571998588928",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DyDGsLBVYAAM83i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyDGsLBVYAAM83i.jpg",
+					"url": "https://t.co/jOGvzfEGMD",
+					"display_url": "pic.twitter.com/jOGvzfEGMD",
+					"expanded_url": "https://twitter.com/muse_at/status/1090089581964226561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "웹진 [ize] 기자, 책 [아이돌 메이커], [아이돌의 작업실]을 작업. 한국대중음악상 선정위원.",
+			"url": "https://t.co/F98S8e3FGb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F98S8e3FGb",
+							"expanded_url": "https://audioclip.naver.com/channels/1165",
+							"display_url": "audioclip.naver.com/channels/1165",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1347,
+			"friends_count": 114,
+			"listed_count": 12,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 1399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 930,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087651279747276801/N5y7N61J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087651279747276801/N5y7N61J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1535205865",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4032,
+		"favorite_count": 5612,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 한국대중음악상(KMA) 기자회견을 마쳤어요. 기자분들께 말씀드린 것처럼 방탄소년단의 경우에는 [Tear] 앨범과 [Answer]끼리도 경합을 벌였습니다. 화제성은 논외이고, 각 앨범의 음악적인 성취에 관해서 선정위원들이 열띤 토론을 거친 끝에 [Answer]가 최종후보가 되었습니다. https://t.co/jOGvzfEGMD"
+	},
+	{
+		"created_at": "Tue Jan 29 09:25:32 +0000 2019",
+		"id": 1090179124658761700,
+		"id_str": "1090179124658761729",
+		"full_text": "민서 '1st Mini Album [The Diary of Youth]' Released!\nhttps://t.co/m7mCHqXdpD https://t.co/lKWJw3okw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m7mCHqXdpD",
+					"expanded_url": "https://m.facebook.com/story.php?story_fbid=2552396711442081&id=942907422391026",
+					"display_url": "m.facebook.com/story.php?stor…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1090179116295286800,
+					"id_str": "1090179116295286784",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DyEYIVhUcAA4tnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyEYIVhUcAA4tnn.jpg",
+					"url": "https://t.co/lKWJw3okw5",
+					"display_url": "pic.twitter.com/lKWJw3okw5",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1090179124658761729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090179116295286800,
+					"id_str": "1090179116295286784",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DyEYIVhUcAA4tnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyEYIVhUcAA4tnn.jpg",
+					"url": "https://t.co/lKWJw3okw5",
+					"display_url": "pic.twitter.com/lKWJw3okw5",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1090179124658761729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5903,
+			"friends_count": 3,
+			"listed_count": 42,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "민서 '1st Mini Album [The Diary of Youth]' Released!\nhttps://t.co/m7mCHqXdpD https://t.co/lKWJw3okw5"
+	},
+	{
+		"created_at": "Tue Jan 29 06:15:54 +0000 2019",
+		"id": 1090131403306545200,
+		"id_str": "1090131403306545152",
+		"full_text": "https://t.co/duYyFJdVLN\n#INNER 라니!! 야호\n음원도 좋지만 라이브를 더 좋아하는 노래에요♡ \n#몸과마음_콘서트 #INNER #찾습니다_헷 #도연 ❄️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INNER",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "몸과마음_콘서트",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "INNER",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "찾습니다_헷",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "도연",
+					"indices": [
+						91,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/duYyFJdVLN",
+					"expanded_url": "https://youtu.be/TuDR20DIa-o",
+					"display_url": "youtu.be/TuDR20DIa-o",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 882638149771444200,
+			"id_str": "882638149771444224",
+			"name": "위키미키",
+			"screen_name": "WekiMeki",
+			"location": "",
+			"description": "Let's get crazy! 안녕하세요 위키미키입니다~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108624,
+			"friends_count": 4,
+			"listed_count": 1195,
+			"created_at": "Wed Jul 05 16:31:48 +0000 2017",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1930,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046727782623993856/UVpQcpmB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046727782623993856/UVpQcpmB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/882638149771444224/1538393596",
+			"profile_link_color": "FF301B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 1148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/duYyFJdVLN\n#INNER 라니!! 야호\n음원도 좋지만 라이브를 더 좋아하는 노래에요♡ \n#몸과마음_콘서트 #INNER #찾습니다_헷 #도연 ❄️"
+	},
+	{
+		"created_at": "Thu Jan 24 16:27:49 +0000 2019",
+		"id": 1088473454708281300,
+		"id_str": "1088473454708281344",
+		"full_text": "키링 잘자요🙌\n오늘 도DJ가 추천하는 곡!\n오늘은 특별히 영상입니당크크\nhttps://t.co/yrK3eg7Ivr\n#심규선선배님 #파탈리테 https://t.co/8yMIamqy5c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선선배님",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "파탈리테",
+					"indices": [
+						72,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yrK3eg7Ivr",
+					"expanded_url": "https://youtu.be/tWpELYOpOjE",
+					"display_url": "youtu.be/tWpELYOpOjE",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088473446588117000,
+					"id_str": "1088473446588116993",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DxsI1StUcAEqoRC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxsI1StUcAEqoRC.jpg",
+					"url": "https://t.co/8yMIamqy5c",
+					"display_url": "pic.twitter.com/8yMIamqy5c",
+					"expanded_url": "https://twitter.com/WekiMeki/status/1088473454708281344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088473446588117000,
+					"id_str": "1088473446588116993",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DxsI1StUcAEqoRC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxsI1StUcAEqoRC.jpg",
+					"url": "https://t.co/8yMIamqy5c",
+					"display_url": "pic.twitter.com/8yMIamqy5c",
+					"expanded_url": "https://twitter.com/WekiMeki/status/1088473454708281344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 882638149771444200,
+			"id_str": "882638149771444224",
+			"name": "위키미키",
+			"screen_name": "WekiMeki",
+			"location": "",
+			"description": "Let's get crazy! 안녕하세요 위키미키입니다~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108624,
+			"friends_count": 4,
+			"listed_count": 1195,
+			"created_at": "Wed Jul 05 16:31:48 +0000 2017",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1930,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046727782623993856/UVpQcpmB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046727782623993856/UVpQcpmB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/882638149771444224/1538393596",
+			"profile_link_color": "FF301B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1660,
+		"favorite_count": 6114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "키링 잘자요🙌\n오늘 도DJ가 추천하는 곡!\n오늘은 특별히 영상입니당크크\nhttps://t.co/yrK3eg7Ivr\n#심규선선배님 #파탈리테 https://t.co/8yMIamqy5c"
+	},
+	{
+		"created_at": "Tue Jan 29 01:38:14 +0000 2019",
+		"id": 1090061524197146600,
+		"id_str": "1090061524197146624",
+		"full_text": "악명 높고 창의적이었던 호치민 길- 카메론 페터슨(Cameron Paterson) by. Cameron Paterson\nhttps://t.co/yZj170LVsB\n#TED #테드 #한국어자막 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yZj170LVsB",
+					"expanded_url": "https://www.ted.com/talks/cameron_paterson_the_infamous_and_ingenious_ho_chi_minh_trail?language=ko",
+					"display_url": "ted.com/talks/cameron_…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46931,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "악명 높고 창의적이었던 호치민 길- 카메론 페터슨(Cameron Paterson) by. Cameron Paterson\nhttps://t.co/yZj170LVsB\n#TED #테드 #한국어자막 #minfav"
+	},
+	{
+		"created_at": "Tue Jan 29 01:38:14 +0000 2019",
+		"id": 1090061522632622100,
+		"id_str": "1090061522632622088",
+		"full_text": "세상의 모든 일들을 가능하게 하는 가사 노동자들 by. Ai-jen Poo\nhttps://t.co/Km8DJiDYvd\n#TED #테드 #한국어자막 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Km8DJiDYvd",
+					"expanded_url": "https://www.ted.com/talks/ai_jen_poo_domestic_workers_make_all_other_work_possible?language=ko",
+					"display_url": "ted.com/talks/ai_jen_p…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46931,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상의 모든 일들을 가능하게 하는 가사 노동자들 by. Ai-jen Poo\nhttps://t.co/Km8DJiDYvd\n#TED #테드 #한국어자막 #minfav"
+	},
+	{
+		"created_at": "Mon Jan 28 23:16:33 +0000 2019",
+		"id": 1090025869140283400,
+		"id_str": "1090025869140283394",
+		"full_text": "hahahahaha\nhttps://t.co/SaGaEutIJJ\n#BillieEilish #빌리아일리시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillieEilish",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"text": "빌리아일리시",
+					"indices": [
+						49,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SaGaEutIJJ",
+					"expanded_url": "https://youtu.be/b_em8lNLJXc",
+					"display_url": "youtu.be/b_em8lNLJXc",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46931,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "hahahahaha\nhttps://t.co/SaGaEutIJJ\n#BillieEilish #빌리아일리시"
+	},
+	{
+		"created_at": "Mon Jan 28 21:55:28 +0000 2019",
+		"id": 1090005465122000900,
+		"id_str": "1090005465122000896",
+		"full_text": "[책] 조너선 하이트의 “과보호 되고있는 미국인(The Coddling of the American Mind)” 1부 (2/2) - https://t.co/BqWg9FXJHK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BqWg9FXJHK",
+					"expanded_url": "http://newspeppermint.com/2019/01/28/m-coddling2/",
+					"display_url": "newspeppermint.com/2019/01/28/m-c…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104244,
+			"friends_count": 0,
+			"listed_count": 795,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7608,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[책] 조너선 하이트의 “과보호 되고있는 미국인(The Coddling of the American Mind)” 1부 (2/2) - https://t.co/BqWg9FXJHK"
+	},
+	{
+		"created_at": "Mon Jan 28 21:54:13 +0000 2019",
+		"id": 1090005149085397000,
+		"id_str": "1090005149085396992",
+		"full_text": "[책] 조너선 하이트의 “과보호 되고있는 미국인(The Coddling of the American Mind)” 1부 (1/2) - https://t.co/R3HqVCgeY8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R3HqVCgeY8",
+					"expanded_url": "http://newspeppermint.com/2019/01/28/m-coddling1/",
+					"display_url": "newspeppermint.com/2019/01/28/m-c…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104244,
+			"friends_count": 0,
+			"listed_count": 795,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7608,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[책] 조너선 하이트의 “과보호 되고있는 미국인(The Coddling of the American Mind)” 1부 (1/2) - https://t.co/R3HqVCgeY8"
+	},
+	{
 		"created_at": "Mon Jan 28 11:16:35 +0000 2019",
 		"id": 1089844684913037300,
 		"id_str": "1089844684913037312",
