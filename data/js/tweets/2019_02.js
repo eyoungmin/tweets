@@ -1,6 +1,1135 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 28 23:02:14 +0000 2019",
+		"id": 1101256291169689600,
+		"id_str": "1101256291169689600",
+		"full_text": "they go they go they goooo 💋💋 https://t.co/Cor0Hx3trt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cor0Hx3trt",
+					"expanded_url": "https://twitter.com/1027KIISFM/status/1101215914005917697",
+					"display_url": "twitter.com/1027KIISFM/sta…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "THE LIPS ON LIPS EP is out now 💋❤️",
+			"url": "https://t.co/d1hNggguxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1hNggguxv",
+							"expanded_url": "http://smarturl.it/lipsep",
+							"display_url": "smarturl.it/lipsep",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251935,
+			"friends_count": 132,
+			"listed_count": 716,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1550120511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101215914005917700,
+		"quoted_status_id_str": "1101215914005917697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Cor0Hx3trt",
+			"expanded": "https://twitter.com/1027KIISFM/status/1101215914005917697",
+			"display": "twitter.com/1027KIISFM/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 28 20:21:48 +0000 2019",
+			"id": 1101215914005917700,
+			"id_str": "1101215914005917697",
+			"full_text": ". @tiffanyyoung performing #LipsOnLips at ur @ATT sound studio. https://t.co/RbrCb0ZcIv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LipsOnLips",
+						"indices": [
+							27,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffanyyoung",
+						"name": "TIFFANY YOUNG",
+						"id": 971130819518476300,
+						"id_str": "971130819518476289",
+						"indices": [
+							2,
+							15
+						]
+					},
+					{
+						"screen_name": "ATT",
+						"name": "AT&T",
+						"id": 14620190,
+						"id_str": "14620190",
+						"indices": [
+							45,
+							49
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1101215845957525500,
+						"id_str": "1101215845957525505",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101215845957525505/pu/img/kSVSZQ3nTEo9hG3b.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101215845957525505/pu/img/kSVSZQ3nTEo9hG3b.jpg",
+						"url": "https://t.co/RbrCb0ZcIv",
+						"display_url": "pic.twitter.com/RbrCb0ZcIv",
+						"expanded_url": "https://twitter.com/1027KIISFM/status/1101215914005917697/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101215845957525500,
+						"id_str": "1101215845957525505",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101215845957525505/pu/img/kSVSZQ3nTEo9hG3b.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101215845957525505/pu/img/kSVSZQ3nTEo9hG3b.jpg",
+						"url": "https://t.co/RbrCb0ZcIv",
+						"display_url": "pic.twitter.com/RbrCb0ZcIv",
+						"expanded_url": "https://twitter.com/1027KIISFM/status/1101215914005917697/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								360,
+								203
+							],
+							"duration_millis": 44808,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1101215845957525505/pu/pl/Sf7iWQclGmz-gsMw.m3u8?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1101215845957525505/pu/vid/318x180/I7Rw1JVsjTcOU5XK.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1101215845957525505/pu/vid/720x406/vAx-Yg5Mw61eIDVG.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19046392,
+				"id_str": "19046392",
+				"name": "102.7 KIIS-FM",
+				"screen_name": "1027KIISFM",
+				"location": "Los Angeles",
+				"description": "LA's #1 Hit Music Station! Follow us on Instagram -@1027KIISFM and Snapchat- KIIS_FM #KIISJingleBall",
+				"url": "https://t.co/DZ13ZtofiF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DZ13ZtofiF",
+								"expanded_url": "http://KIISFM.com/jingleball",
+								"display_url": "KIISFM.com/jingleball",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 332409,
+				"friends_count": 1518,
+				"listed_count": 2418,
+				"created_at": "Fri Jan 16 00:05:12 +0000 2009",
+				"favourites_count": 18211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 111620,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082402113798397953/MN7sJau6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082402113798397953/MN7sJau6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19046392/1549331907",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2004,
+			"favorite_count": 2418,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3063,
+		"favorite_count": 5167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "they go they go they goooo 💋💋 https://t.co/Cor0Hx3trt"
+	},
+	{
+		"created_at": "Thu Feb 28 19:07:16 +0000 2019",
+		"id": 1101197157078425600,
+		"id_str": "1101197157078425600",
+		"full_text": ". @tiffanyyoung performing \"Born again\" https://t.co/yiy0W6WdX7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						2,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101197103970189300,
+					"id_str": "1101197103970189312",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101197103970189312/pu/img/hppYlbDWHirDSr-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101197103970189312/pu/img/hppYlbDWHirDSr-K.jpg",
+					"url": "https://t.co/yiy0W6WdX7",
+					"display_url": "pic.twitter.com/yiy0W6WdX7",
+					"expanded_url": "https://twitter.com/1027KIISFM/status/1101197157078425600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101197103970189300,
+					"id_str": "1101197103970189312",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101197103970189312/pu/img/hppYlbDWHirDSr-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101197103970189312/pu/img/hppYlbDWHirDSr-K.jpg",
+					"url": "https://t.co/yiy0W6WdX7",
+					"display_url": "pic.twitter.com/yiy0W6WdX7",
+					"expanded_url": "https://twitter.com/1027KIISFM/status/1101197157078425600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23811,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101197103970189312/pu/vid/640x360/cDMZO9zhbsKIwXcN.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101197103970189312/pu/vid/1280x720/YvN9rBlj_-izmLTZ.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1101197103970189312/pu/pl/Mg30ebPmy2cRP6l5.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101197103970189312/pu/vid/320x180/ReAHjquyPAuQFN0x.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19046392,
+			"id_str": "19046392",
+			"name": "102.7 KIIS-FM",
+			"screen_name": "1027KIISFM",
+			"location": "Los Angeles",
+			"description": "LA's #1 Hit Music Station! Follow us on Instagram -@1027KIISFM and Snapchat- KIIS_FM #KIISJingleBall",
+			"url": "https://t.co/DZ13ZtofiF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DZ13ZtofiF",
+							"expanded_url": "http://KIISFM.com/jingleball",
+							"display_url": "KIISFM.com/jingleball",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332409,
+			"friends_count": 1518,
+			"listed_count": 2418,
+			"created_at": "Fri Jan 16 00:05:12 +0000 2009",
+			"favourites_count": 18211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111620,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082402113798397953/MN7sJau6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082402113798397953/MN7sJau6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19046392/1549331907",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2618,
+		"favorite_count": 3465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ". @tiffanyyoung performing \"Born again\" https://t.co/yiy0W6WdX7"
+	},
+	{
+		"created_at": "Thu Feb 28 20:38:43 +0000 2019",
+		"id": 1101220173174849500,
+		"id_str": "1101220173174849536",
+		"full_text": "Let’s runaway ❤️ thank u for having me 🥰 https://t.co/PSh78boF6j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PSh78boF6j",
+					"expanded_url": "https://twitter.com/1027KIISFM/status/1101204185393971200",
+					"display_url": "twitter.com/1027KIISFM/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "THE LIPS ON LIPS EP is out now 💋❤️",
+			"url": "https://t.co/d1hNggguxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1hNggguxv",
+							"expanded_url": "http://smarturl.it/lipsep",
+							"display_url": "smarturl.it/lipsep",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251935,
+			"friends_count": 132,
+			"listed_count": 716,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1550120511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101204185393971200,
+		"quoted_status_id_str": "1101204185393971200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PSh78boF6j",
+			"expanded": "https://twitter.com/1027KIISFM/status/1101204185393971200",
+			"display": "twitter.com/1027KIISFM/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 28 19:35:11 +0000 2019",
+			"id": 1101204185393971200,
+			"id_str": "1101204185393971200",
+			"full_text": ".@tiffanyyoung singing her song \"Runaway\" has us all wishing we could runaway with her right now 😍 https://t.co/dhxqHKQw0A",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffanyyoung",
+						"name": "TIFFANY YOUNG",
+						"id": 971130819518476300,
+						"id_str": "971130819518476289",
+						"indices": [
+							1,
+							14
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1101204128779259900,
+						"id_str": "1101204128779259906",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101204128779259906/pu/img/9ydH_xVYDGxICrP0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101204128779259906/pu/img/9ydH_xVYDGxICrP0.jpg",
+						"url": "https://t.co/dhxqHKQw0A",
+						"display_url": "pic.twitter.com/dhxqHKQw0A",
+						"expanded_url": "https://twitter.com/1027KIISFM/status/1101204185393971200/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101204128779259900,
+						"id_str": "1101204128779259906",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101204128779259906/pu/img/9ydH_xVYDGxICrP0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101204128779259906/pu/img/9ydH_xVYDGxICrP0.jpg",
+						"url": "https://t.co/dhxqHKQw0A",
+						"display_url": "pic.twitter.com/dhxqHKQw0A",
+						"expanded_url": "https://twitter.com/1027KIISFM/status/1101204185393971200/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 29031,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1101204128779259906/pu/vid/1280x720/8nqFAbonii44uv6z.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1101204128779259906/pu/vid/640x360/WvWTaumhbCLzmFuy.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1101204128779259906/pu/vid/320x180/TQfKsXdkHLBr4i5B.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1101204128779259906/pu/pl/FQLUAugXQ5fRYYUZ.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19046392,
+				"id_str": "19046392",
+				"name": "102.7 KIIS-FM",
+				"screen_name": "1027KIISFM",
+				"location": "Los Angeles",
+				"description": "LA's #1 Hit Music Station! Follow us on Instagram -@1027KIISFM and Snapchat- KIIS_FM #KIISJingleBall",
+				"url": "https://t.co/DZ13ZtofiF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DZ13ZtofiF",
+								"expanded_url": "http://KIISFM.com/jingleball",
+								"display_url": "KIISFM.com/jingleball",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 332409,
+				"friends_count": 1518,
+				"listed_count": 2418,
+				"created_at": "Fri Jan 16 00:05:12 +0000 2009",
+				"favourites_count": 18211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 111620,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082402113798397953/MN7sJau6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082402113798397953/MN7sJau6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19046392/1549331907",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2765,
+			"favorite_count": 3478,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4025,
+		"favorite_count": 6980,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let’s runaway ❤️ thank u for having me 🥰 https://t.co/PSh78boF6j"
+	},
+	{
+		"created_at": "Thu Feb 28 12:01:03 +0000 2019",
+		"id": 1101089898549768200,
+		"id_str": "1101089898549768193",
+		"full_text": "#RedVelvet’s first ever North American tour ‘Red Velvet 2nd Concert [REDMARE]’ held in 7 different cities of the USA and CANADA is successfully done! Really appreciate all the love and support and thanks for the amazing time~\n\n#레드벨벳 #RedVelvet_REDMARE #SMTOWN #SMmakesIT https://t.co/ZkEEHgXVkN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "RedVelvet_REDMARE",
+					"indices": [
+						233,
+						251
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						252,
+						259
+					]
+				},
+				{
+					"text": "SMmakesIT",
+					"indices": [
+						260,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101087679217774600,
+					"id_str": "1101087679217774593",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D0faBVPU0AE41Nb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0faBVPU0AE41Nb.jpg",
+					"url": "https://t.co/ZkEEHgXVkN",
+					"display_url": "pic.twitter.com/ZkEEHgXVkN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1101089898549768193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101087679217774600,
+					"id_str": "1101087679217774593",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D0faBVPU0AE41Nb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0faBVPU0AE41Nb.jpg",
+					"url": "https://t.co/ZkEEHgXVkN",
+					"display_url": "pic.twitter.com/ZkEEHgXVkN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1101089898549768193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 105038,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1101087679217774593/vid/640x360/VFxvOMbRdbNVNlaA.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1101087679217774593/vid/1280x720/vk2QCMrHx1ORqxe-.mp4?tag=9"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1101087679217774593/vid/320x180/7Nu4mgaancYLyvVU.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1101087679217774593/pl/yzkYSDHCcnWXMejC.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7274434,
+			"friends_count": 46,
+			"listed_count": 9165,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5740,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8181,
+		"favorite_count": 29834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#RedVelvet’s first ever North American tour ‘Red Velvet 2nd Concert [REDMARE]’ held in 7 different cities of the USA and CANADA is successfully done! Really appreciate all the love and support and thanks for the amazing time~\n\n#레드벨벳 #RedVelvet_REDMARE #SMTOWN #SMmakesIT https://t.co/ZkEEHgXVkN"
+	},
+	{
 		"created_at": "Thu Feb 28 12:01:03 +0000 2019",
 		"id": 1101089898549768200,
 		"id_str": "1101089898549768193",
