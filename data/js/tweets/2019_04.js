@@ -1,6 +1,1033 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 13:14:59 +0000 2019",
+		"id": 1114872542706065400,
+		"id_str": "1114879240351019009",
+		"full_text": "'모두의 주방' 속 '웬장금' 웬디의 활약 함께 봐요!❤👇\n\nhttps://t.co/giitavdyhg \nhttps://t.co/RFwqrKKujP\nhttps://t.co/pSbidC6TqX\nhttps://t.co/HfMmb9ve8T\nhttps://t.co/SjH2mpJ08v\nhttps://t.co/iHpLwN4dMO\n\n#WENDY #웬디 #RedVelvet #레드벨벳 #모두의주방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WENDY",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "모두의주방",
+					"indices": [
+						208,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/giitavdyhg",
+					"expanded_url": "http://naver.me/5N7Il3Ux",
+					"display_url": "naver.me/5N7Il3Ux",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/RFwqrKKujP",
+					"expanded_url": "http://naver.me/F9dvIAuR",
+					"display_url": "naver.me/F9dvIAuR",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/pSbidC6TqX",
+					"expanded_url": "http://naver.me/GorGJDfc",
+					"display_url": "naver.me/GorGJDfc",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/HfMmb9ve8T",
+					"expanded_url": "http://naver.me/GPwZVawk",
+					"display_url": "naver.me/GPwZVawk",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/SjH2mpJ08v",
+					"expanded_url": "http://naver.me/GAMHGSsE",
+					"display_url": "naver.me/GAMHGSsE",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/iHpLwN4dMO",
+					"expanded_url": "http://naver.me/FUA2cRqu",
+					"display_url": "naver.me/FUA2cRqu",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1542340,
+			"friends_count": 2,
+			"listed_count": 4604,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3753,
+		"favorite_count": 10745,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'모두의 주방' 속 '웬장금' 웬디의 활약 함께 봐요!❤👇\n\nhttps://t.co/giitavdyhg \nhttps://t.co/RFwqrKKujP\nhttps://t.co/pSbidC6TqX\nhttps://t.co/HfMmb9ve8T\nhttps://t.co/SjH2mpJ08v\nhttps://t.co/iHpLwN4dMO\n\n#WENDY #웬디 #RedVelvet #레드벨벳 #모두의주방"
+	},
+	{
+		"created_at": "Sun Apr 07 10:37:49 +0000 2019",
+		"id": 1114839688509034500,
+		"id_str": "1114839688509034497",
+		"full_text": "[캐스퍼라디오] 2018년 '올해의 앨범', 방탄소년단(BTS)의 LOVE YOURSELF 시리즈! | CASPER MUSIC TV\nhttps://t.co/WiCIMgfBrG\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤하",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "평론가",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "박희아",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "기자",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "케이팝",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "IDOL",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "BEST_NEW_KPOP",
+					"indices": [
+						141,
+						155
+					]
+				},
+				{
+					"text": "베스트뉴케이팝",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						165,
+						178
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WiCIMgfBrG",
+					"expanded_url": "http://www.vlive.tv/video/122113",
+					"display_url": "vlive.tv/video/122113",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 827,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48226,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[캐스퍼라디오] 2018년 '올해의 앨범', 방탄소년단(BTS)의 LOVE YOURSELF 시리즈! | CASPER MUSIC TV\nhttps://t.co/WiCIMgfBrG\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오"
+	},
+	{
+		"created_at": "Sun Apr 07 09:14:58 +0000 2019",
+		"id": 1114816601608478700,
+		"id_str": "1114818841652203520",
+		"full_text": "[So!YoON! for HOLIDAY 004]\nPhoto _ Leungmo\nArt Direction &amp; Styling _ Perpetua Ip\nMake Up _ Angel Mok\nHair Styling _ Him (The Attic)\n⠀\n2019. 04. 15. MON. 6PM (KST)\nSo!YoON! (황소윤) 1st single “HOLIDAY”\nofficial https://t.co/aou4DSPf0K\n⠀\n#SoYoON #황소윤 #debut #single #HOLIDAY https://t.co/pONBA4Gvp3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SoYoON",
+					"indices": [
+						238,
+						245
+					]
+				},
+				{
+					"text": "황소윤",
+					"indices": [
+						246,
+						250
+					]
+				},
+				{
+					"text": "debut",
+					"indices": [
+						251,
+						257
+					]
+				},
+				{
+					"text": "single",
+					"indices": [
+						258,
+						265
+					]
+				},
+				{
+					"text": "HOLIDAY",
+					"indices": [
+						266,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aou4DSPf0K",
+					"expanded_url": "http://instagram.com/so.yoon",
+					"display_url": "instagram.com/so.yoon",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114816595153412100,
+					"id_str": "1114816595153412097",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ifyWfUYAE1WIc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ifyWfUYAE1WIc.jpg",
+					"url": "https://t.co/pONBA4Gvp3",
+					"display_url": "pic.twitter.com/pONBA4Gvp3",
+					"expanded_url": "https://twitter.com/SoYoON_official/status/1114816601608478721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114816595153412100,
+					"id_str": "1114816595153412097",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ifyWfUYAE1WIc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ifyWfUYAE1WIc.jpg",
+					"url": "https://t.co/pONBA4Gvp3",
+					"display_url": "pic.twitter.com/pONBA4Gvp3",
+					"expanded_url": "https://twitter.com/SoYoON_official/status/1114816601608478721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112603451660222500,
+			"id_str": "1112603451660222466",
+			"name": "So!YoON! (황소윤) official",
+			"screen_name": "SoYoON_official",
+			"location": "",
+			"description": "1st single [HOLIDAY] 2019. 04. 15. MON. 6PM (KST)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 1,
+			"listed_count": 3,
+			"created_at": "Mon Apr 01 06:31:48 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112608212040060928/pYlfwH0N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112608212040060928/pYlfwH0N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112603451660222466/1554293021",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[So!YoON! for HOLIDAY 004]\nPhoto _ Leungmo\nArt Direction &amp; Styling _ Perpetua Ip\nMake Up _ Angel Mok\nHair Styling _ Him (The Attic)\n⠀\n2019. 04. 15. MON. 6PM (KST)\nSo!YoON! (황소윤) 1st single “HOLIDAY”\nofficial https://t.co/aou4DSPf0K\n⠀\n#SoYoON #황소윤 #debut #single #HOLIDAY https://t.co/pONBA4Gvp3"
+	},
+	{
+		"created_at": "Sun Apr 07 08:15:07 +0000 2019",
+		"id": 1114803182209654800,
+		"id_str": "1114803780057489409",
+		"full_text": "'인기가요' 태연, 믿고듣는 음원퀸 1위 [종합] (출처 : 엑스포츠뉴스 | 네이버 TV연예)\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #사계 #FourSeasons #FourSeasons2ndWin\n\nhttps://t.co/aRgZSFpGUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"text": "사계",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "FourSeasons",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "FourSeasons2ndWin",
+					"indices": [
+						107,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aRgZSFpGUM",
+					"expanded_url": "http://naver.me/xc5vM42D",
+					"display_url": "naver.me/xc5vM42D",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3385284,
+			"friends_count": 4,
+			"listed_count": 5677,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1628,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1553245229",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3478,
+		"favorite_count": 6252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'인기가요' 태연, 믿고듣는 음원퀸 1위 [종합] (출처 : 엑스포츠뉴스 | 네이버 TV연예)\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #사계 #FourSeasons #FourSeasons2ndWin\n\nhttps://t.co/aRgZSFpGUM"
+	},
+	{
+		"created_at": "Sun Apr 07 08:14:58 +0000 2019",
+		"id": 1114799689444933600,
+		"id_str": "1114803741935456256",
+		"full_text": "テヨン、ソロツアー『TAEYEON JAPAN TOUR 2019 ~Signal~』追加公演のファンクラグ最速チケット先行は本日23:59まで！\n\nどこよりも早い先行受付(抽選)です！\nこの機会をお見逃しなく♪\n#テヨン #TAEYEON\n▼詳細・お申込みはこちら▼\nhttps://t.co/gq6icTuzVH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gq6icTuzVH",
+					"expanded_url": "http://taeyeon.girls-generation.jp/",
+					"display_url": "taeyeon.girls-generation.jp",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "2007年8月韓国デビュー。 2009年には韓国の音楽番組KBS MUSIC BANKで9週連続1位の新記録を樹立するなど、トップガールズグループとして君臨。 また、台湾、タイ、フィリピンの各種音楽チャートでも1位を獲得、中国などでもアジアツアーを行うなどアジア全域でNO.1グループとして活躍している。",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102320,
+			"friends_count": 0,
+			"listed_count": 542,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 268,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 837,
+		"favorite_count": 1720,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン、ソロツアー『TAEYEON JAPAN TOUR 2019 ~Signal~』追加公演のファンクラグ最速チケット先行は本日23:59まで！\n\nどこよりも早い先行受付(抽選)です！\nこの機会をお見逃しなく♪\n#テヨン #TAEYEON\n▼詳細・お申込みはこちら▼\nhttps://t.co/gq6icTuzVH"
+	},
+	{
+		"created_at": "Sun Apr 07 04:37:10 +0000 2019",
+		"id": 1114748927604088800,
+		"id_str": "1114748927604088837",
+		"full_text": "[캐스퍼라디오] DAY6(데이식스), 드디어 확실히 잡힌 노선?! Remeber Us : Youth Part 2 리뷰 | CASPER MUSIC TV\nhttps://t.co/6yttBXDz5A\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤하",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "평론가",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "박희아",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "기자",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "케이팝",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "IDOL",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "BEST_NEW_KPOP",
+					"indices": [
+						151,
+						165
+					]
+				},
+				{
+					"text": "베스트뉴케이팝",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						175,
+						188
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						189,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6yttBXDz5A",
+					"expanded_url": "http://www.vlive.tv/video/122104",
+					"display_url": "vlive.tv/video/122104",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 827,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 34925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48226,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[캐스퍼라디오] DAY6(데이식스), 드디어 확실히 잡힌 노선?! Remeber Us : Youth Part 2 리뷰 | CASPER MUSIC TV\nhttps://t.co/6yttBXDz5A\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오"
+	},
+	{
 		"created_at": "Sat Apr 06 14:52:37 +0000 2019",
 		"id": 1114541423494402000,
 		"id_str": "1114541423494402048",
