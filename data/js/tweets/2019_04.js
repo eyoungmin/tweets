@@ -1,6 +1,3110 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 12:24:16 +0000 2019",
+		"id": 1118852745090330600,
+		"id_str": "1118852745090330624",
+		"full_text": "김윤아콘 플미 넘많아...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48375,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "김윤아콘 플미 넘많아..."
+	},
+	{
+		"created_at": "Thu Apr 18 09:36:04 +0000 2019",
+		"id": 1118741751794024400,
+		"id_str": "1118810414970621952",
+		"full_text": "한정판인 만큼 온라인을 통해서만 구매 가능하며, 추후 현장에서는 구매하실 수 없어요. 또, 매진 시 추가 오픈이 없다는 점 꼭 참고해주세요! \n*패키지의 판매 수익금은 '그린플러그드 서울 2019'의 환경 캠페인 'BYE PLASTIC'에 기부되어, 해양 폐기물의 수거 및 재생화 프로젝트에 사용됩니다* https://t.co/5CVjuQpQWY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118741696269828100,
+					"id_str": "1118741696269828097",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aRpTmUwAETbrC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aRpTmUwAETbrC.jpg",
+					"url": "https://t.co/5CVjuQpQWY",
+					"display_url": "pic.twitter.com/5CVjuQpQWY",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741751794024448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118741696269828100,
+					"id_str": "1118741696269828097",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aRpTmUwAETbrC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aRpTmUwAETbrC.jpg",
+					"url": "https://t.co/5CVjuQpQWY",
+					"display_url": "pic.twitter.com/5CVjuQpQWY",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741751794024448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118741706034176000,
+					"id_str": "1118741706034176000",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aRp3-U4AApkZJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aRp3-U4AApkZJ.jpg",
+					"url": "https://t.co/5CVjuQpQWY",
+					"display_url": "pic.twitter.com/5CVjuQpQWY",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741751794024448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118741713697140700,
+					"id_str": "1118741713697140736",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aRqUhUcAAo1Fc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aRqUhUcAAo1Fc.jpg",
+					"url": "https://t.co/5CVjuQpQWY",
+					"display_url": "pic.twitter.com/5CVjuQpQWY",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741751794024448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118741722459062300,
+					"id_str": "1118741722459062272",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aRq1KUwAAhBYp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aRq1KUwAAhBYp.jpg",
+					"url": "https://t.co/5CVjuQpQWY",
+					"display_url": "pic.twitter.com/5CVjuQpQWY",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741751794024448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1118741158451007500,
+		"in_reply_to_status_id_str": "1118741158451007488",
+		"in_reply_to_user_id": 116351905,
+		"in_reply_to_user_id_str": "116351905",
+		"in_reply_to_screen_name": "GREENPLUGGED",
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": "https://t.co/zMjTE5TCiy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMjTE5TCiy",
+							"expanded_url": "http://www.greenplugged.com",
+							"display_url": "greenplugged.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12911,
+			"friends_count": 166,
+			"listed_count": 263,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10636,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1550191158",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한정판인 만큼 온라인을 통해서만 구매 가능하며, 추후 현장에서는 구매하실 수 없어요. 또, 매진 시 추가 오픈이 없다는 점 꼭 참고해주세요! \n*패키지의 판매 수익금은 '그린플러그드 서울 2019'의 환경 캠페인 'BYE PLASTIC'에 기부되어, 해양 폐기물의 수거 및 재생화 프로젝트에 사용됩니다* https://t.co/5CVjuQpQWY"
+	},
+	{
+		"created_at": "Thu Apr 18 09:35:42 +0000 2019",
+		"id": 1118741158451007500,
+		"id_str": "1118810325657112577",
+		"full_text": "['그린플러그드 서울 2019' - 환경기금 마련을 위한 10주년 한정판 MD패키지 오픈 예고]\n✨내일 오후 2시!✨MD패키지가 오픈됩니다!⠀⠀⠀\n✔10주년 한정판 MD패키지는?\n-구성 : 10주년 기념 티셔츠+슬로건+일일 무료입장권\n-가격 : 80,000원\n-판매처 : 하나티켓, 티켓링크\n-수령 : 현장수령만 가능 https://t.co/z339tXwZfq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118733635748655100,
+					"id_str": "1118733635748655104",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aKUH0UcAAt1YL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aKUH0UcAAt1YL.jpg",
+					"url": "https://t.co/z339tXwZfq",
+					"display_url": "pic.twitter.com/z339tXwZfq",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741158451007488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118733635748655100,
+					"id_str": "1118733635748655104",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aKUH0UcAAt1YL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aKUH0UcAAt1YL.jpg",
+					"url": "https://t.co/z339tXwZfq",
+					"display_url": "pic.twitter.com/z339tXwZfq",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741158451007488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118733657227718700,
+					"id_str": "1118733657227718656",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aKVX1U8AAmQAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aKVX1U8AAmQAL.jpg",
+					"url": "https://t.co/z339tXwZfq",
+					"display_url": "pic.twitter.com/z339tXwZfq",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741158451007488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118733740799225900,
+					"id_str": "1118733740799225856",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aKaPKU8AAzfSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aKaPKU8AAzfSg.jpg",
+					"url": "https://t.co/z339tXwZfq",
+					"display_url": "pic.twitter.com/z339tXwZfq",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741158451007488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118733938820665300,
+					"id_str": "1118733938820665345",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aKlw2UUAEjtCk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aKlw2UUAEjtCk.jpg",
+					"url": "https://t.co/z339tXwZfq",
+					"display_url": "pic.twitter.com/z339tXwZfq",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1118741158451007488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": "https://t.co/zMjTE5TCiy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMjTE5TCiy",
+							"expanded_url": "http://www.greenplugged.com",
+							"display_url": "greenplugged.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12911,
+			"friends_count": 166,
+			"listed_count": 263,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10636,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1550191158",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "['그린플러그드 서울 2019' - 환경기금 마련을 위한 10주년 한정판 MD패키지 오픈 예고]\n✨내일 오후 2시!✨MD패키지가 오픈됩니다!⠀⠀⠀\n✔10주년 한정판 MD패키지는?\n-구성 : 10주년 기념 티셔츠+슬로건+일일 무료입장권\n-가격 : 80,000원\n-판매처 : 하나티켓, 티켓링크\n-수령 : 현장수령만 가능 https://t.co/z339tXwZfq"
+	},
+	{
+		"created_at": "Thu Apr 18 09:14:59 +0000 2019",
+		"id": 1118804571399188500,
+		"id_str": "1118805109658587136",
+		"full_text": "정승환 EP [안녕, 나의 우주] Released. \nTitle track 02. 우주선\n\nLyrics by 황현(MonoTree) 유희열\nComposed by 황현(MonoTree)\nArranged by 황현(MonoTree)\nDrums 김은석\nBass 김병석\nGuitars 적재\nKeyboards… https://t.co/0KVm9G2bgh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0KVm9G2bgh",
+					"expanded_url": "https://www.instagram.com/p/BwZC9lIlooi/?utm_source=ig_twitter_share&igshid=1f2y2x95crox2",
+					"display_url": "instagram.com/p/BwZC9lIlooi/…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5950,
+			"friends_count": 3,
+			"listed_count": 41,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정승환 EP [안녕, 나의 우주] Released. \nTitle track 02. 우주선\n\nLyrics by 황현(MonoTree) 유희열\nComposed by 황현(MonoTree)\nArranged by 황현(MonoTree)\nDrums 김은석\nBass 김병석\nGuitars 적재\nKeyboards… https://t.co/0KVm9G2bgh"
+	},
+	{
+		"created_at": "Thu Apr 18 08:45:06 +0000 2019",
+		"id": 1118091672821227500,
+		"id_str": "1118797591569846272",
+		"full_text": "서울시, 2023년까지 모든 시내버스 저상버스로 교체\n\n모든 지하철 역사에 장애인용 엘리베이터 설치\n\nhttps://t.co/aHE70JysBE https://t.co/fw2tEvp5XG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aHE70JysBE",
+					"expanded_url": "https://bit.ly/2Dgdlim",
+					"display_url": "bit.ly/2Dgdlim",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118071989254516700,
+					"id_str": "1118071989254516736",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D4QwjOjUcAAuneA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4QwjOjUcAAuneA.jpg",
+					"url": "https://t.co/fw2tEvp5XG",
+					"display_url": "pic.twitter.com/fw2tEvp5XG",
+					"expanded_url": "https://twitter.com/hankookilbo/status/1118091672821227521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118071989254516700,
+					"id_str": "1118071989254516736",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D4QwjOjUcAAuneA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4QwjOjUcAAuneA.jpg",
+					"url": "https://t.co/fw2tEvp5XG",
+					"display_url": "pic.twitter.com/fw2tEvp5XG",
+					"expanded_url": "https://twitter.com/hankookilbo/status/1118091672821227521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134371459,
+			"id_str": "134371459",
+			"name": "한국일보",
+			"screen_name": "hankookilbo",
+			"location": "Seoul,KOREA",
+			"description": "한국일보 공식 트위터입니다. 치우치지 않는 신문.사실에 충실한 보도. 중도ㆍ정론지. 한국일보가 여러분에게 눈과 귀를 열고 있습니다. 제보 02)724-2312 webmaster@hankookilbo.com  https://t.co/bUvgBdr41j",
+			"url": "http://t.co/HpuZ3tGl9f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HpuZ3tGl9f",
+							"expanded_url": "http://www.hankookilbo.com",
+							"display_url": "hankookilbo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bUvgBdr41j",
+							"expanded_url": "http://www.facebook.com/hkilbo",
+							"display_url": "facebook.com/hkilbo",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 173206,
+			"friends_count": 45728,
+			"listed_count": 2649,
+			"created_at": "Sun Apr 18 06:43:33 +0000 2010",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 64169,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134371459/1439279203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2714,
+		"favorite_count": 788,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울시, 2023년까지 모든 시내버스 저상버스로 교체\n\n모든 지하철 역사에 장애인용 엘리베이터 설치\n\nhttps://t.co/aHE70JysBE https://t.co/fw2tEvp5XG"
+	},
+	{
+		"created_at": "Thu Apr 18 08:43:07 +0000 2019",
+		"id": 1118743327354974200,
+		"id_str": "1118797090006519808",
+		"full_text": "📸 청하 in 🇲🇾\n\n✌🏻😉\n\n#청하 #CHUNGHA\n#Malaysia #Songkran https://t.co/plHDGceeh1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "Malaysia",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"text": "Songkran",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118743315980021800,
+					"id_str": "1118743315980021760",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aTHlfU8AAyjAH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aTHlfU8AAyjAH.jpg",
+					"url": "https://t.co/plHDGceeh1",
+					"display_url": "pic.twitter.com/plHDGceeh1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1118743327354974208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118743315980021800,
+					"id_str": "1118743315980021760",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aTHlfU8AAyjAH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aTHlfU8AAyjAH.jpg",
+					"url": "https://t.co/plHDGceeh1",
+					"display_url": "pic.twitter.com/plHDGceeh1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1118743327354974208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118743316193919000,
+					"id_str": "1118743316193918977",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aTHmSUwAELIjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aTHmSUwAELIjN.jpg",
+					"url": "https://t.co/plHDGceeh1",
+					"display_url": "pic.twitter.com/plHDGceeh1",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1118743327354974208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1118743308430262300,
+		"in_reply_to_status_id_str": "1118743308430262273",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42707,
+			"friends_count": 0,
+			"listed_count": 357,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 78,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3141,
+		"favorite_count": 7605,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 청하 in 🇲🇾\n\n✌🏻😉\n\n#청하 #CHUNGHA\n#Malaysia #Songkran https://t.co/plHDGceeh1"
+	},
+	{
+		"created_at": "Thu Apr 18 08:43:02 +0000 2019",
+		"id": 1118743308430262300,
+		"id_str": "1118797070809255936",
+		"full_text": "📸 청하 in 🇲🇾\n\n🌴🤟🏻\n\n#청하 #CHUNGHA\n#Malaysia #Songkran https://t.co/X1jFOPdV8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "Malaysia",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"text": "Songkran",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118743277744713700,
+					"id_str": "1118743277744713728",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aTFXDUcAAkTPK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aTFXDUcAAkTPK.jpg",
+					"url": "https://t.co/X1jFOPdV8h",
+					"display_url": "pic.twitter.com/X1jFOPdV8h",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1118743308430262273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118743277744713700,
+					"id_str": "1118743277744713728",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aTFXDUcAAkTPK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aTFXDUcAAkTPK.jpg",
+					"url": "https://t.co/X1jFOPdV8h",
+					"display_url": "pic.twitter.com/X1jFOPdV8h",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1118743308430262273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118743277744742400,
+					"id_str": "1118743277744742400",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aTFXDU4AA16hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aTFXDU4AA16hQ.jpg",
+					"url": "https://t.co/X1jFOPdV8h",
+					"display_url": "pic.twitter.com/X1jFOPdV8h",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1118743308430262273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118743277757296600,
+					"id_str": "1118743277757296641",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D4aTFXGUcAEr0e0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4aTFXGUcAEr0e0.jpg",
+					"url": "https://t.co/X1jFOPdV8h",
+					"display_url": "pic.twitter.com/X1jFOPdV8h",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1118743308430262273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42707,
+			"friends_count": 0,
+			"listed_count": 357,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 78,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6809,
+		"favorite_count": 17382,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 청하 in 🇲🇾\n\n🌴🤟🏻\n\n#청하 #CHUNGHA\n#Malaysia #Songkran https://t.co/X1jFOPdV8h"
+	},
+	{
+		"created_at": "Thu Apr 18 07:56:14 +0000 2019",
+		"id": 1118785294608814100,
+		"id_str": "1118785294608814082",
+		"full_text": "#SMTOWN #Artist_News\n싱어송라이터 퍼센트, 4월 30일 정식 데뷔 앨범 'PVC' 발매...5년만 결실\nhttps://t.co/pmfnL7f0ZQ\n#RedVelvet #레드벨벳 https://t.co/m488Z5yLpQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pmfnL7f0ZQ",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2004",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118785293627351000,
+					"id_str": "1118785293627351041",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D4a5TAaW4AEe0DR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4a5TAaW4AEe0DR.jpg",
+					"url": "https://t.co/m488Z5yLpQ",
+					"display_url": "pic.twitter.com/m488Z5yLpQ",
+					"expanded_url": "https://twitter.com/fromminn/status/1118785294608814082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118785293627351000,
+					"id_str": "1118785293627351041",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D4a5TAaW4AEe0DR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4a5TAaW4AEe0DR.jpg",
+					"url": "https://t.co/m488Z5yLpQ",
+					"display_url": "pic.twitter.com/m488Z5yLpQ",
+					"expanded_url": "https://twitter.com/fromminn/status/1118785294608814082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48375,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n싱어송라이터 퍼센트, 4월 30일 정식 데뷔 앨범 'PVC' 발매...5년만 결실\nhttps://t.co/pmfnL7f0ZQ\n#RedVelvet #레드벨벳 https://t.co/m488Z5yLpQ"
+	},
+	{
+		"created_at": "Thu Apr 18 03:32:30 +0000 2019",
+		"id": 1118718923254509600,
+		"id_str": "1118718923254509568",
+		"full_text": "#少女時代 #소녀시대_일본\nテヨン『TAEYEON JAPAN TOUR 2019 ~Signal~』東京追加公演　一般受付開始！\nhttps://t.co/JdFcKbNTxV\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "소녀시대_일본",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JdFcKbNTxV",
+					"expanded_url": "http://girls-generation.jp/gg/news/signal_add_reserve.html",
+					"display_url": "girls-generation.jp/gg/news/signal…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48375,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #소녀시대_일본\nテヨン『TAEYEON JAPAN TOUR 2019 ~Signal~』東京追加公演　一般受付開始！\nhttps://t.co/JdFcKbNTxV\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Thu Apr 18 03:15:00 +0000 2019",
+		"id": 1118711096402014200,
+		"id_str": "1118714519981830144",
+		"full_text": "テヨン待望のソロツアー『TAEYEON JAPAN TOUR 2019 ~Signal~』追加公演の5/31(金)東京国際フォーラム ホールAの一般受付(抽選)を本日12時よりスタート！\nこの機会に是非お申込ください♪\n#TAEYEON #テヨン\n▼詳細はこちら\nhttps://t.co/gq6icTuzVH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						119,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gq6icTuzVH",
+					"expanded_url": "http://taeyeon.girls-generation.jp/",
+					"display_url": "taeyeon.girls-generation.jp",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "2007年8月韓国デビュー。 2009年には韓国の音楽番組KBS MUSIC BANKで9週連続1位の新記録を樹立するなど、トップガールズグループとして君臨。 また、台湾、タイ、フィリピンの各種音楽チャートでも1位を獲得、中国などでもアジアツアーを行うなどアジア全域でNO.1グループとして活躍している。",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102668,
+			"friends_count": 0,
+			"listed_count": 542,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 272,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 679,
+		"favorite_count": 1588,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン待望のソロツアー『TAEYEON JAPAN TOUR 2019 ~Signal~』追加公演の5/31(金)東京国際フォーラム ホールAの一般受付(抽選)を本日12時よりスタート！\nこの機会に是非お申込ください♪\n#TAEYEON #テヨン\n▼詳細はこちら\nhttps://t.co/gq6icTuzVH"
+	},
+	{
+		"created_at": "Thu Apr 18 03:14:58 +0000 2019",
+		"id": 1118710765588901900,
+		"id_str": "1118714510712410114",
+		"full_text": "[이달의소녀킼킼 #87]\n우리 같이 학교가요😆\n오늘도 화이티잉~😍\n\n#이달의소녀 #LOONA #LOONAKick #최리 #Choerry https://t.co/c5wYmdCUoj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118690343333945300,
+					"id_str": "1118690343333945345",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118690343333945345/pu/img/ro9lFSC6NNxxyoFt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118690343333945345/pu/img/ro9lFSC6NNxxyoFt.jpg",
+					"url": "https://t.co/c5wYmdCUoj",
+					"display_url": "pic.twitter.com/c5wYmdCUoj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1118710765588901889/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118690343333945300,
+					"id_str": "1118690343333945345",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118690343333945345/pu/img/ro9lFSC6NNxxyoFt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118690343333945345/pu/img/ro9lFSC6NNxxyoFt.jpg",
+					"url": "https://t.co/c5wYmdCUoj",
+					"display_url": "pic.twitter.com/c5wYmdCUoj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1118710765588901889/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"duration_millis": 10000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1118690343333945345/pu/vid/320x426/XV1Syh_sRrBnr7xk.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1118690343333945345/pu/vid/360x480/9dCUnPGwmj7UcU3O.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1118690343333945345/pu/pl/fG7SRCtWeW_3QTRd.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288986,
+			"friends_count": 0,
+			"listed_count": 3944,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1445,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5182,
+		"favorite_count": 14781,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #87]\n우리 같이 학교가요😆\n오늘도 화이티잉~😍\n\n#이달의소녀 #LOONA #LOONAKick #최리 #Choerry https://t.co/c5wYmdCUoj"
+	},
+	{
+		"created_at": "Thu Apr 18 02:08:22 +0000 2019",
+		"id": 1118697749535449100,
+		"id_str": "1118697749535449089",
+		"full_text": "[국민청원답변] 비리 수사 중인 학교장 직무정지' 청원 with 조희연 서울시교육감, 이광호 교육비서관\nhttps://t.co/9gx11t5cnF\n#청와대 #국민청원 #답변 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청와대",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "국민청원",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "답변",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9gx11t5cnF",
+					"expanded_url": "https://www.youtube.com/watch?v=JP7F1nuS3tU",
+					"display_url": "youtube.com/watch?v=JP7F1n…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48375,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[국민청원답변] 비리 수사 중인 학교장 직무정지' 청원 with 조희연 서울시교육감, 이광호 교육비서관\nhttps://t.co/9gx11t5cnF\n#청와대 #국민청원 #답변 #minfav"
+	},
+	{
+		"created_at": "Wed Apr 17 18:15:24 +0000 2019",
+		"id": 1105278039036899300,
+		"id_str": "1118578724331491330",
+		"full_text": "오늘 낮 12시!\n2019 렛츠스프링페스티벌 공식 티켓이 오픈됩니다!\n\n예매 전 상세페이지를 반드시 확인 부탁드립니다 😊\n\n🌸공연 일시 : 4월 27일(토) - 28일 (일)\n🌸공연 장소 : 고양 아람누리 일대\n🌸공식 티켓 : 1일권 77,000원 / 2일권 110,000원\n🌸인터파크 티켓 : https://t.co/9xA3FikYOb https://t.co/7gko6g6kiI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9xA3FikYOb",
+					"expanded_url": "https://bit.ly/2SUzCXX",
+					"display_url": "bit.ly/2SUzCXX",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105278020271497200,
+					"id_str": "1105278020271497216",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D1a8gOBUYAATasq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1a8gOBUYAATasq.jpg",
+					"url": "https://t.co/7gko6g6kiI",
+					"display_url": "pic.twitter.com/7gko6g6kiI",
+					"expanded_url": "https://twitter.com/letsspring_rock/status/1105278039036899328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105278020271497200,
+					"id_str": "1105278020271497216",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D1a8gOBUYAATasq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1a8gOBUYAATasq.jpg",
+					"url": "https://t.co/7gko6g6kiI",
+					"display_url": "pic.twitter.com/7gko6g6kiI",
+					"expanded_url": "https://twitter.com/letsspring_rock/status/1105278039036899328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158300000,
+			"id_str": "158300000",
+			"name": "렛츠스프링/렛츠락",
+			"screen_name": "letsspring_rock",
+			"location": "Seoul Korea",
+			"description": "2018 LET'S ROCK FESTIVAL VOL.12 2018.09.15-09.16 난지한강공원 내 중앙잔디광장 / 잔디마당",
+			"url": "http://t.co/cZBmdyguPq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cZBmdyguPq",
+							"expanded_url": "http://www.letsrock.co.kr",
+							"display_url": "letsrock.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4161,
+			"friends_count": 179,
+			"listed_count": 58,
+			"created_at": "Tue Jun 22 09:04:04 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1342,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090885638298132480/M53e_PlW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090885638298132480/M53e_PlW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158300000/1548922406",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 낮 12시!\n2019 렛츠스프링페스티벌 공식 티켓이 오픈됩니다!\n\n예매 전 상세페이지를 반드시 확인 부탁드립니다 😊\n\n🌸공연 일시 : 4월 27일(토) - 28일 (일)\n🌸공연 장소 : 고양 아람누리 일대\n🌸공식 티켓 : 1일권 77,000원 / 2일권 110,000원\n🌸인터파크 티켓 : https://t.co/9xA3FikYOb https://t.co/7gko6g6kiI"
+	},
+	{
+		"created_at": "Wed Apr 17 18:15:17 +0000 2019",
+		"id": 1116585412116398100,
+		"id_str": "1118578694317125634",
+		"full_text": "#Repost @2019lshfestival\n• • • • • •\n[D-15] 열아홉 번째 #차카게살자 #이승환페스티벌 \n정말 #핫한 #밴드 가 보고싶다면!! 바로 #아도이!!\n엄청 기대됩니다. https://t.co/wYUnqHsKwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Repost",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "차카게살자",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "이승환페스티벌",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "핫한",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "밴드",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						92,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116585399118286800,
+					"id_str": "1116585399118286849",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D37ogSvVUAEMoDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37ogSvVUAEMoDq.jpg",
+					"url": "https://t.co/wYUnqHsKwN",
+					"display_url": "pic.twitter.com/wYUnqHsKwN",
+					"expanded_url": "https://twitter.com/NyjG9FGFZPHGGNJ/status/1116585412116398083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 949,
+							"h": 949,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116585399118286800,
+					"id_str": "1116585399118286849",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D37ogSvVUAEMoDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37ogSvVUAEMoDq.jpg",
+					"url": "https://t.co/wYUnqHsKwN",
+					"display_url": "pic.twitter.com/wYUnqHsKwN",
+					"expanded_url": "https://twitter.com/NyjG9FGFZPHGGNJ/status/1116585412116398083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 949,
+							"h": 949,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1031431215822204900,
+			"id_str": "1031431215822204928",
+			"name": "이승환데뷔30주년을준비하자 🌸온발주간🌸",
+			"screen_name": "NyjG9FGFZPHGGNJ",
+			"location": "",
+			"description": "이승환 데뷔일1989.10.15\n*2019년은 이승환님 데뷔 30주년입니다\n여전히 현재진행형아티스트인 그의 행보에 힘을 얻는 we/df \n매주 공연하는 가수, 매주 공연보는 행복한 드팩민들의 story를 전합니다\n*(전)빠데이x2 성공기원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 185,
+			"listed_count": 1,
+			"created_at": "Mon Aug 20 06:42:19 +0000 2018",
+			"favourites_count": 11578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5785,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031432874535215104/0_w4licJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031432874535215104/0_w4licJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1031431215822204928/1550418684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Repost @2019lshfestival\n• • • • • •\n[D-15] 열아홉 번째 #차카게살자 #이승환페스티벌 \n정말 #핫한 #밴드 가 보고싶다면!! 바로 #아도이!!\n엄청 기대됩니다. https://t.co/wYUnqHsKwN"
+	},
+	{
+		"created_at": "Wed Apr 17 18:15:14 +0000 2019",
+		"id": 1107820512497922000,
+		"id_str": "1118578681084043266",
+		"full_text": "ADOY x Tempalay 공연이 무사히 끝이 났습니다. \n찾아주신 관객분들께 감사드립니다. \n다음에는 Mukai Taichi 공연으로 만나겠습니다. \n\n[MUKAI TAICHI LIVE IN SEOUL]\n2019년4월6일 토요일 오후 7시 @하나투어 브이홀\n예매 50,000won / 현매 60,000won\n- 예매처 : 멜론티켓 https://t.co/8JR6oUmjq2 https://t.co/x2ZOizAhF0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8JR6oUmjq2",
+					"expanded_url": "https://goo.gl/mbjR6p",
+					"display_url": "goo.gl/mbjR6p",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1107820506646888400,
+					"id_str": "1107820506646888448",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D1_E4Z2UwAAtAbg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1_E4Z2UwAAtAbg.jpg",
+					"url": "https://t.co/x2ZOizAhF0",
+					"display_url": "pic.twitter.com/x2ZOizAhF0",
+					"expanded_url": "https://twitter.com/DeliveryBox_/status/1107820512497922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107820506646888400,
+					"id_str": "1107820506646888448",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D1_E4Z2UwAAtAbg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1_E4Z2UwAAtAbg.jpg",
+					"url": "https://t.co/x2ZOizAhF0",
+					"display_url": "pic.twitter.com/x2ZOizAhF0",
+					"expanded_url": "https://twitter.com/DeliveryBox_/status/1107820512497922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107820506659512300,
+					"id_str": "1107820506659512320",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D1_E4Z5VYAAHezm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1_E4Z5VYAAHezm.jpg",
+					"url": "https://t.co/x2ZOizAhF0",
+					"display_url": "pic.twitter.com/x2ZOizAhF0",
+					"expanded_url": "https://twitter.com/DeliveryBox_/status/1107820512497922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107820506651123700,
+					"id_str": "1107820506651123712",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D1_E4Z3VYAAmSnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1_E4Z3VYAAmSnR.jpg",
+					"url": "https://t.co/x2ZOizAhF0",
+					"display_url": "pic.twitter.com/x2ZOizAhF0",
+					"expanded_url": "https://twitter.com/DeliveryBox_/status/1107820512497922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107820506659471400,
+					"id_str": "1107820506659471360",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D1_E4Z5UwAAInUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1_E4Z5UwAAInUW.jpg",
+					"url": "https://t.co/x2ZOizAhF0",
+					"display_url": "pic.twitter.com/x2ZOizAhF0",
+					"expanded_url": "https://twitter.com/DeliveryBox_/status/1107820512497922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 725555851004510200,
+			"id_str": "725555851004510208",
+			"name": "Delivery Box",
+			"screen_name": "DeliveryBox_",
+			"location": "",
+			"description": "영등포구 국회대로 62길9.501호",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 58,
+			"listed_count": 3,
+			"created_at": "Thu Apr 28 05:22:49 +0000 2016",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 207,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725556712791367680/3dYhc-sS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725556712791367680/3dYhc-sS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/725555851004510208/1549530889",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ADOY x Tempalay 공연이 무사히 끝이 났습니다. \n찾아주신 관객분들께 감사드립니다. \n다음에는 Mukai Taichi 공연으로 만나겠습니다. \n\n[MUKAI TAICHI LIVE IN SEOUL]\n2019년4월6일 토요일 오후 7시 @하나투어 브이홀\n예매 50,000won / 현매 60,000won\n- 예매처 : 멜론티켓 https://t.co/8JR6oUmjq2 https://t.co/x2ZOizAhF0"
+	},
+	{
+		"created_at": "Wed Apr 17 18:15:08 +0000 2019",
+		"id": 1108946315893825500,
+		"id_str": "1118578654769033218",
+		"full_text": "[Phum Viphurit Live is Seoul]\n당신을 사로잡을 ‘선샤인 뮤직’\n2019 품 비푸릿(Phum Viphurit) 내한공연\n\n5월 9일 목요일 / 게스트: ADOY, So!YoON!\n5월 10일 금요일 / 게스트: STUTS(JP), So!YoON!\n@무브홀\n예매처 : 멜론티켓\n*티켓 오픈 날짜는 추후 공지됩니다.\n\n#품비푸릿 #phumviphurit https://t.co/h8FsNvW9TH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "품비푸릿",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "phumviphurit",
+					"indices": [
+						194,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108946307677188100,
+					"id_str": "1108946307677188096",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D2PEypgUcAAx1UM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2PEypgUcAAx1UM.jpg",
+					"url": "https://t.co/h8FsNvW9TH",
+					"display_url": "pic.twitter.com/h8FsNvW9TH",
+					"expanded_url": "https://twitter.com/DeliveryBox_/status/1108946315893825538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108946307677188100,
+					"id_str": "1108946307677188096",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D2PEypgUcAAx1UM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2PEypgUcAAx1UM.jpg",
+					"url": "https://t.co/h8FsNvW9TH",
+					"display_url": "pic.twitter.com/h8FsNvW9TH",
+					"expanded_url": "https://twitter.com/DeliveryBox_/status/1108946315893825538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 725555851004510200,
+			"id_str": "725555851004510208",
+			"name": "Delivery Box",
+			"screen_name": "DeliveryBox_",
+			"location": "",
+			"description": "영등포구 국회대로 62길9.501호",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 58,
+			"listed_count": 3,
+			"created_at": "Thu Apr 28 05:22:49 +0000 2016",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 207,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725556712791367680/3dYhc-sS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725556712791367680/3dYhc-sS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/725555851004510208/1549530889",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Phum Viphurit Live is Seoul]\n당신을 사로잡을 ‘선샤인 뮤직’\n2019 품 비푸릿(Phum Viphurit) 내한공연\n\n5월 9일 목요일 / 게스트: ADOY, So!YoON!\n5월 10일 금요일 / 게스트: STUTS(JP), So!YoON!\n@무브홀\n예매처 : 멜론티켓\n*티켓 오픈 날짜는 추후 공지됩니다.\n\n#품비푸릿 #phumviphurit https://t.co/h8FsNvW9TH"
+	},
+	{
 		"created_at": "Wed Apr 17 12:17:04 +0000 2019",
 		"id": 1118347247035400200,
 		"id_str": "1118488544777924608",
