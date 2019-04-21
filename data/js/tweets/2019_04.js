@@ -1,6 +1,674 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 04:14:58 +0000 2019",
+		"id": 1119813111681146900,
+		"id_str": "1119816774701211648",
+		"full_text": "2019. 04. 22. PM8(KST)\n#이달의소녀 최초의 댄스 커버 영상이 업로드 됩니다. \n무슨 곡일까요🤫🤫? \n⠀⠀⠀⠀\n#LOONA https://t.co/IWdiZPHzMn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						71,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119813101904224300,
+					"id_str": "1119813101904224256",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D4pgFUnUYAAQIKy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4pgFUnUYAAQIKy.jpg",
+					"url": "https://t.co/IWdiZPHzMn",
+					"display_url": "pic.twitter.com/IWdiZPHzMn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1119813111681146880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1436,
+							"h": 1795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119813101904224300,
+					"id_str": "1119813101904224256",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D4pgFUnUYAAQIKy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4pgFUnUYAAQIKy.jpg",
+					"url": "https://t.co/IWdiZPHzMn",
+					"display_url": "pic.twitter.com/IWdiZPHzMn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1119813111681146880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1436,
+							"h": 1795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289887,
+			"friends_count": 0,
+			"listed_count": 3965,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1449,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6859,
+		"favorite_count": 17209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019. 04. 22. PM8(KST)\n#이달의소녀 최초의 댄스 커버 영상이 업로드 됩니다. \n무슨 곡일까요🤫🤫? \n⠀⠀⠀⠀\n#LOONA https://t.co/IWdiZPHzMn"
+	},
+	{
+		"created_at": "Sun Apr 21 03:36:27 +0000 2019",
+		"id": 1119734046978867200,
+		"id_str": "1119807081706471425",
+		"full_text": "맘충, 노키즈존 같은 단어들이 성행하는 요즘같은 때에 세계적인 바이올리니스트 힐러리 한은 아이와 엄마가 함께 즐길 수 있는 콘서트를 열었다.\n본인도 엄마로서 아이를 데리고 공연장에 오는게 얼마나 힘든일인지 잘 알고있어서 \n이런 특별한 공연을 하기로 마음 먹었다고.. https://t.co/Wsf8sB2Snc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119733900287279100,
+					"id_str": "1119733900287279104",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119733900287279104/pu/img/Hs7O2CurgauOiVeq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119733900287279104/pu/img/Hs7O2CurgauOiVeq.jpg",
+					"url": "https://t.co/Wsf8sB2Snc",
+					"display_url": "pic.twitter.com/Wsf8sB2Snc",
+					"expanded_url": "https://twitter.com/rosalynpiano/status/1119734046978867200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119733900287279100,
+					"id_str": "1119733900287279104",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119733900287279104/pu/img/Hs7O2CurgauOiVeq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119733900287279104/pu/img/Hs7O2CurgauOiVeq.jpg",
+					"url": "https://t.co/Wsf8sB2Snc",
+					"display_url": "pic.twitter.com/Wsf8sB2Snc",
+					"expanded_url": "https://twitter.com/rosalynpiano/status/1119734046978867200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 436,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							207,
+							109
+						],
+						"duration_millis": 48558,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119733900287279104/pu/vid/828x436/sQj7l5J8pe4PceP9.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119733900287279104/pu/vid/340x180/pq1FNBIggFhjxMlh.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1119733900287279104/pu/pl/UVDxHknqqLLIE6cY.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096254595666509800,
+			"id_str": "1096254595666509825",
+			"name": "로잘린",
+			"screen_name": "rosalynpiano",
+			"location": "United States",
+			"description": "🎹클래식, 피아노 전공, Piano performance major, Classical music, 미국 거주, Seong-jin cho, 조성진, 뮤지컬, 조승우💕FUB FREE / 연습+사담계 : @pianoforteRosy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460,
+			"friends_count": 131,
+			"listed_count": 3,
+			"created_at": "Fri Feb 15 03:47:17 +0000 2019",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 402,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096343903723245568/WdXudk0M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096343903723245568/WdXudk0M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096254595666509825/1554327247",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8997,
+		"favorite_count": 4511,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맘충, 노키즈존 같은 단어들이 성행하는 요즘같은 때에 세계적인 바이올리니스트 힐러리 한은 아이와 엄마가 함께 즐길 수 있는 콘서트를 열었다.\n본인도 엄마로서 아이를 데리고 공연장에 오는게 얼마나 힘든일인지 잘 알고있어서 \n이런 특별한 공연을 하기로 마음 먹었다고.. https://t.co/Wsf8sB2Snc"
+	},
+	{
+		"created_at": "Sun Apr 21 03:28:07 +0000 2019",
+		"id": 1119767905392922600,
+		"id_str": "1119804983266775040",
+		"full_text": "#BLACKPINK 'BLACKPINK DIARIES' EP.6\n\n🎬 Naver TV : https://t.co/FJ7TGZM0ts\n🎥 YouTube : https://t.co/hdHvur6lJk\n\n#블랙핑크 #DIARIES #BLACKPINK2019WORLDTOURwithKIA #INYOURAREA #KUALALUMPUR #YG https://t.co/dyW2TACveF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "DIARIES",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "BLACKPINK2019WORLDTOURwithKIA",
+					"indices": [
+						126,
+						156
+					]
+				},
+				{
+					"text": "INYOURAREA",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"text": "KUALALUMPUR",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						182,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FJ7TGZM0ts",
+					"expanded_url": "https://tv.naver.com/v/8097839",
+					"display_url": "tv.naver.com/v/8097839",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/hdHvur6lJk",
+					"expanded_url": "https://youtu.be/U-kl3VAmFR0",
+					"display_url": "youtu.be/U-kl3VAmFR0",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119595903113760800,
+					"id_str": "1119595903113760768",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D4mcqE9UYAIu07s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4mcqE9UYAIu07s.jpg",
+					"url": "https://t.co/dyW2TACveF",
+					"display_url": "pic.twitter.com/dyW2TACveF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1119767905392922625/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119595903113760800,
+					"id_str": "1119595903113760768",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D4mcqE9UYAIu07s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4mcqE9UYAIu07s.jpg",
+					"url": "https://t.co/dyW2TACveF",
+					"display_url": "pic.twitter.com/dyW2TACveF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1119767905392922625/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 546212,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1119595903113760768/vid/640x360/3uPLnekcm3iCX0kr.mp4?tag=11"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1119595903113760768/pl/j4NxifNkNc_yYQJt.m3u8?tag=11"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1119595903113760768/vid/320x180/HOJf0K2zBdLsPCBm.mp4?tag=11"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1119595903113760768/vid/1280x720/gUNqrlauEa8-Pxfx.mp4?tag=11"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK 'BLACKPINK DIARIES' EP.6",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/U-kl3VAmFR0"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/H39UN5nsiJ] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #CL #DARA #LEEHI #ONE #TREASURE13",
+			"url": "http://t.co/LpBPpYNOzu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LpBPpYNOzu",
+							"expanded_url": "http://www.ygfamily.com/",
+							"display_url": "ygfamily.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/H39UN5nsiJ",
+							"expanded_url": "http://www.youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5196456,
+			"friends_count": 44,
+			"listed_count": 7636,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9081,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20669,
+		"favorite_count": 64158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'BLACKPINK DIARIES' EP.6\n\n🎬 Naver TV : https://t.co/FJ7TGZM0ts\n🎥 YouTube : https://t.co/hdHvur6lJk\n\n#블랙핑크 #DIARIES #BLACKPINK2019WORLDTOURwithKIA #INYOURAREA #KUALALUMPUR #YG https://t.co/dyW2TACveF"
+	},
+	{
 		"created_at": "Sat Apr 20 08:42:11 +0000 2019",
 		"id": 1119477648684507100,
 		"id_str": "1119521632383406080",
