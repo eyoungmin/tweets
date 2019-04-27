@@ -1,6 +1,1416 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 13:14:58 +0000 2019",
+		"id": 1122119319326826500,
+		"id_str": "1122126997503795200",
+		"full_text": "하고싶은 얘기 참 많았는데 다 못했어요\n계절이 몇번이나 지나는동안 \n서로 많은 일들이 있었겠지요 \n제가 기억하는 표정, 같은 얼굴로 \n오늘 그 자리에 있어줘서 기뻤어요\n부족한 저에게 이토록 지극한 사랑을 나누어주셔서 \n정말 고맙습니다 나는 주저없이 모두 받아마셔요\n\n#심규선 #루시아 https://t.co/yTKBinrXBt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						154,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122119306022572000,
+					"id_str": "1122119306022572033",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D5KRkEcVUAENLos.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5KRkEcVUAENLos.jpg",
+					"url": "https://t.co/yTKBinrXBt",
+					"display_url": "pic.twitter.com/yTKBinrXBt",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1122119319326826497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122119306022572000,
+					"id_str": "1122119306022572033",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D5KRkEcVUAENLos.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5KRkEcVUAENLos.jpg",
+					"url": "https://t.co/yTKBinrXBt",
+					"display_url": "pic.twitter.com/yTKBinrXBt",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1122119319326826497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "New EP '몸과 마음' 5월 13일 발매",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11156,
+			"friends_count": 176,
+			"listed_count": 181,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988651944246890496/6K6YuaU8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988651944246890496/6K6YuaU8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1490689614",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하고싶은 얘기 참 많았는데 다 못했어요\n계절이 몇번이나 지나는동안 \n서로 많은 일들이 있었겠지요 \n제가 기억하는 표정, 같은 얼굴로 \n오늘 그 자리에 있어줘서 기뻤어요\n부족한 저에게 이토록 지극한 사랑을 나누어주셔서 \n정말 고맙습니다 나는 주저없이 모두 받아마셔요\n\n#심규선 #루시아 https://t.co/yTKBinrXBt"
+	},
+	{
+		"created_at": "Sat Apr 27 08:26:27 +0000 2019",
+		"id": 1121704967453102100,
+		"id_str": "1122054389072453632",
+		"full_text": "드디어 새 앨범이 공개되었어요. \n기다려주신 분들 고맙습니다. RT @messenger_yoon: 나인(Nine9) 새 앨범이 공개 되었습니다\n자주 들어주세요!! \n하트와 댓글, 공유는 꼭!!\n\n나인(디어클라우드) - 이별꿈\n\nhttps://t.co/6NosKNbqru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "messenger_yoon",
+					"name": "엠와이뮤직(MYmusic Ent)",
+					"id": 150566482,
+					"id_str": "150566482",
+					"indices": [
+						38,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6NosKNbqru",
+					"expanded_url": "https://melon.do/AQIcaWelV",
+					"display_url": "melon.do/AQIcaWelV",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://onloft.com/tweetlogix\" rel=\"nofollow\">Tweetlogix</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 203218096,
+			"id_str": "203218096",
+			"name": "Nine",
+			"screen_name": "dearcloud_nine",
+			"location": "Cloud 9",
+			"description": "9\nhttps://t.co/crvfrBk1RI",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/crvfrBk1RI",
+							"expanded_url": "http://instagram.com/run_withthewolf",
+							"display_url": "instagram.com/run_withthewolf",
+							"indices": [
+								2,
+								25
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16967,
+			"friends_count": 226,
+			"listed_count": 259,
+			"created_at": "Fri Oct 15 20:01:17 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816717511236325376/TPx8BsX__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816717511236325376/TPx8BsX__normal.jpg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 155,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 새 앨범이 공개되었어요. \n기다려주신 분들 고맙습니다. RT @messenger_yoon: 나인(Nine9) 새 앨범이 공개 되었습니다\n자주 들어주세요!! \n하트와 댓글, 공유는 꼭!!\n\n나인(디어클라우드) - 이별꿈\n\nhttps://t.co/6NosKNbqru"
+	},
+	{
+		"created_at": "Sat Apr 27 04:48:57 +0000 2019",
+		"id": 1119548857140908000,
+		"id_str": "1121999652084047872",
+		"full_text": "🌺4월 27일 트로이 시반 내한 콘서트 나눔\n수량이 한정되어 있어서 트위터는 이 트윗의 RT를 팬카페는 카페 회원인증을 받도록 하겠습니다! \n(투명포토카드+전차스 나눔입니다! 전차스 물량이 마감된 후에는 투명포토카드만 나눔합니다!)\n✨✨✨[트로이 영접까지 D-7]✨✨✨ https://t.co/QUitHkpjTz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119548849905750000,
+					"id_str": "1119548849905750018",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/D4lvv1NUUAIT9dj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4lvv1NUUAIT9dj.jpg",
+					"url": "https://t.co/QUitHkpjTz",
+					"display_url": "pic.twitter.com/QUitHkpjTz",
+					"expanded_url": "https://twitter.com/onlysivankr/status/1119548857140908032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1181,
+							"h": 903,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 903,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119548849905750000,
+					"id_str": "1119548849905750018",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/D4lvv1NUUAIT9dj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4lvv1NUUAIT9dj.jpg",
+					"url": "https://t.co/QUitHkpjTz",
+					"display_url": "pic.twitter.com/QUitHkpjTz",
+					"expanded_url": "https://twitter.com/onlysivankr/status/1119548857140908032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1181,
+							"h": 903,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 903,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 991125206755196900,
+			"id_str": "991125206755196930",
+			"name": "only트로이🌺",
+			"screen_name": "onlysivankr",
+			"location": "대한민국",
+			"description": "각종 짤, 사진 업데이트, 짤 생성, SNS 업데이트, 굿즈 제작 등등 오직 트로이 시반을 위해 존재하는 계정입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue May 01 01:20:38 +0000 2018",
+			"favourites_count": 371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084746429380288512/J82U_9MA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084746429380288512/J82U_9MA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/991125206755196930/1525164369",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 427,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌺4월 27일 트로이 시반 내한 콘서트 나눔\n수량이 한정되어 있어서 트위터는 이 트윗의 RT를 팬카페는 카페 회원인증을 받도록 하겠습니다! \n(투명포토카드+전차스 나눔입니다! 전차스 물량이 마감된 후에는 투명포토카드만 나눔합니다!)\n✨✨✨[트로이 영접까지 D-7]✨✨✨ https://t.co/QUitHkpjTz"
+	},
+	{
+		"created_at": "Sat Apr 27 03:51:47 +0000 2019",
+		"id": 1121942288362401800,
+		"id_str": "1121985267617763328",
+		"full_text": "#BLACKPINK 'BLACKPINK DIARIES' EP.7\n\n🎬 Naver TV : https://t.co/8U1jB1g9WR\n🎥 YouTube : https://t.co/VHo8v8Xbru\n\n#블랙핑크 #DIARIES #BLACKPINK2019WORLDTOURwithKIA #INYOURAREA #TAIPEI #KILLTHISLOVE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "DIARIES",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "BLACKPINK2019WORLDTOURwithKIA",
+					"indices": [
+						126,
+						156
+					]
+				},
+				{
+					"text": "INYOURAREA",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"text": "TAIPEI",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "KILLTHISLOVE",
+					"indices": [
+						177,
+						190
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						191,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8U1jB1g9WR",
+					"expanded_url": "https://tv.naver.com/v/8170718",
+					"display_url": "tv.naver.com/v/8170718",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/VHo8v8Xbru",
+					"expanded_url": "https://youtu.be/6l2onWTpDzk",
+					"display_url": "youtu.be/6l2onWTpDzk",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/H39UN5nsiJ] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #CL #DARA #LEEHI #ONE #TREASURE13",
+			"url": "http://t.co/LpBPpYNOzu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LpBPpYNOzu",
+							"expanded_url": "http://www.ygfamily.com/",
+							"display_url": "ygfamily.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/H39UN5nsiJ",
+							"expanded_url": "http://www.youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5214356,
+			"friends_count": 44,
+			"listed_count": 7639,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9092,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10138,
+		"favorite_count": 32807,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'BLACKPINK DIARIES' EP.7\n\n🎬 Naver TV : https://t.co/8U1jB1g9WR\n🎥 YouTube : https://t.co/VHo8v8Xbru\n\n#블랙핑크 #DIARIES #BLACKPINK2019WORLDTOURwithKIA #INYOURAREA #TAIPEI #KILLTHISLOVE #YG"
+	},
+	{
+		"created_at": "Sat Apr 27 03:14:58 +0000 2019",
+		"id": 1121973134217764900,
+		"id_str": "1121976002484293632",
+		"full_text": "[이달의소녀킼킼 #96]\n#Chuu ’s Day💕\n\n#이달의소녀 #LOONA #LOONAKick #츄 https://t.co/Vt7QsBFdIS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chuu",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						54,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121972583765643300,
+					"id_str": "1121972583765643266",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121972583765643266/pu/img/K5ID-NZepXbe-Yam.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121972583765643266/pu/img/K5ID-NZepXbe-Yam.jpg",
+					"url": "https://t.co/Vt7QsBFdIS",
+					"display_url": "pic.twitter.com/Vt7QsBFdIS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1121973134217764865/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121972583765643300,
+					"id_str": "1121972583765643266",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121972583765643266/pu/img/K5ID-NZepXbe-Yam.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121972583765643266/pu/img/K5ID-NZepXbe-Yam.jpg",
+					"url": "https://t.co/Vt7QsBFdIS",
+					"display_url": "pic.twitter.com/Vt7QsBFdIS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1121973134217764865/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 268,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							67,
+							120
+						],
+						"duration_millis": 30367,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1121972583765643266/pu/pl/SXxF9JpbyKcZL2dG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121972583765643266/pu/vid/268x480/V0VjLXU15VaYsuT0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292752,
+			"friends_count": 0,
+			"listed_count": 3999,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1456,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8505,
+		"favorite_count": 20823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #96]\n#Chuu ’s Day💕\n\n#이달의소녀 #LOONA #LOONAKick #츄 https://t.co/Vt7QsBFdIS"
+	},
+	{
+		"created_at": "Sat Apr 27 02:15:06 +0000 2019",
+		"id": 1121958758312136700,
+		"id_str": "1121960936267493376",
+		"full_text": "'겟잇뷰티 2019' 10회 속 MC 조이의 활약 다시 보기👀❤👇\n\nhttps://t.co/9V9ROiTpRA\nhttps://t.co/YOjSPjzoca\nhttps://t.co/MAGGp5rsf7\n\n#조이 #JOY #레드벨벳 #RedVelvet #겟잇뷰티2019 #겟잇뷰티",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "겟잇뷰티2019",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"text": "겟잇뷰티",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9V9ROiTpRA",
+					"expanded_url": "http://naver.me/GEQa0qM8",
+					"display_url": "naver.me/GEQa0qM8",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/YOjSPjzoca",
+					"expanded_url": "http://naver.me/5tgFpjLa",
+					"display_url": "naver.me/5tgFpjLa",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/MAGGp5rsf7",
+					"expanded_url": "http://naver.me/xog0y8Pv",
+					"display_url": "naver.me/xog0y8Pv",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1576384,
+			"friends_count": 2,
+			"listed_count": 4735,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 817,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2481,
+		"favorite_count": 11224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'겟잇뷰티 2019' 10회 속 MC 조이의 활약 다시 보기👀❤👇\n\nhttps://t.co/9V9ROiTpRA\nhttps://t.co/YOjSPjzoca\nhttps://t.co/MAGGp5rsf7\n\n#조이 #JOY #레드벨벳 #RedVelvet #겟잇뷰티2019 #겟잇뷰티"
+	},
+	{
+		"created_at": "Sat Apr 27 02:14:58 +0000 2019",
+		"id": 1121957658867589100,
+		"id_str": "1121960902226477056",
+		"full_text": "テヨン6/5発売ミニアルバム『VOICE』の全6曲のダイジェスト映像を公開しました！\nそれぞれの楽曲の歌詞も掲載されており、1曲1曲に対するテヨンの想いも感じることのできる内容となっていますのでぜひチェックしてください♪\n#TAEYEON #テヨン #VOICE\n▼映像はこちら\nhttps://t.co/mjVYDmoO6x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "VOICE",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mjVYDmoO6x",
+					"expanded_url": "https://youtu.be/is7Obi53BF0",
+					"display_url": "youtu.be/is7Obi53BF0",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "2007年8月韓国デビュー。 2009年には韓国の音楽番組KBS MUSIC BANKで9週連続1位の新記録を樹立するなど、トップガールズグループとして君臨。 また、台湾、タイ、フィリピンの各種音楽チャートでも1位を獲得、中国などでもアジアツアーを行うなどアジア全域でNO.1グループとして活躍している。",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102939,
+			"friends_count": 0,
+			"listed_count": 544,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 274,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1082,
+		"favorite_count": 2010,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン6/5発売ミニアルバム『VOICE』の全6曲のダイジェスト映像を公開しました！\nそれぞれの楽曲の歌詞も掲載されており、1曲1曲に対するテヨンの想いも感じることのできる内容となっていますのでぜひチェックしてください♪\n#TAEYEON #テヨン #VOICE\n▼映像はこちら\nhttps://t.co/mjVYDmoO6x"
+	},
+	{
+		"created_at": "Sat Apr 27 02:01:30 +0000 2019",
+		"id": 1121957512855601200,
+		"id_str": "1121957512855601152",
+		"full_text": "#少女時代 #소녀시대_일본\nテヨン初のミニアルバム『VOICE』全曲ダイジェスト映像を公開\nhttps://t.co/B63JQuboiU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "소녀시대_일본",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B63JQuboiU",
+					"expanded_url": "http://girls-generation.jp/gg/news/voice_digest.html",
+					"display_url": "girls-generation.jp/gg/news/voice_…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48453,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #소녀시대_일본\nテヨン初のミニアルバム『VOICE』全曲ダイジェスト映像を公開\nhttps://t.co/B63JQuboiU\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Apr 26 23:14:59 +0000 2019",
+		"id": 1121901599259934700,
+		"id_str": "1121915606029217793",
+		"full_text": "such a queen @ChloeFlower https://t.co/4fGec8y2Kx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChloeFlower",
+					"name": "Chloe Flower",
+					"id": 20057829,
+					"id_str": "20057829",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4fGec8y2Kx",
+					"expanded_url": "https://youtu.be/wb38hN37qIc",
+					"display_url": "youtu.be/wb38hN37qIc",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "THE LIPS ON LIPS EP is out now 💋❤️",
+			"url": "https://t.co/d1hNggguxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1hNggguxv",
+							"expanded_url": "http://smarturl.it/lipsep",
+							"display_url": "smarturl.it/lipsep",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277945,
+			"friends_count": 150,
+			"listed_count": 791,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1550120511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1572,
+		"favorite_count": 4053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "such a queen @ChloeFlower https://t.co/4fGec8y2Kx"
+	},
+	{
 		"created_at": "Fri Apr 26 12:37:19 +0000 2019",
 		"id": 1121755134508372000,
 		"id_str": "1121755134508371969",
