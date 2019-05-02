@@ -1,6 +1,1134 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 13:47:05 +0000 2019",
+		"id": 1123947018353815600,
+		"id_str": "1123947018353815556",
+		"full_text": "【 #가온차트 】\n방탄소년단(BTS) - 17주차 리뷰\nhttps://t.co/xb48qdmHzI\n#Gaon #Opinion #minfav https://t.co/BCsmevIeop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "Opinion",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xb48qdmHzI",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=15253&sgenre=opinion&search_str=",
+					"display_url": "gaonchart.co.kr/main/section/a…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123947017221419000,
+					"id_str": "1123947017221419011",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kP23PXsAMIvFG.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5kP23PXsAMIvFG.png",
+					"url": "https://t.co/BCsmevIeop",
+					"display_url": "pic.twitter.com/BCsmevIeop",
+					"expanded_url": "https://twitter.com/fromminn/status/1123947018353815556/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123947017221419000,
+					"id_str": "1123947017221419011",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kP23PXsAMIvFG.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5kP23PXsAMIvFG.png",
+					"url": "https://t.co/BCsmevIeop",
+					"display_url": "pic.twitter.com/BCsmevIeop",
+					"expanded_url": "https://twitter.com/fromminn/status/1123947018353815556/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 825,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48498,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #가온차트 】\n방탄소년단(BTS) - 17주차 리뷰\nhttps://t.co/xb48qdmHzI\n#Gaon #Opinion #minfav https://t.co/BCsmevIeop"
+	},
+	{
+		"created_at": "Thu May 02 10:18:31 +0000 2019",
+		"id": 1123894529726263300,
+		"id_str": "1123894529726263296",
+		"full_text": "【 #SMTOWN 】\nSM엔터테인먼트, 음악 꿈나무 위한 ‘SMile Music Festival 2019’ 개최!\nhttps://t.co/jPWbEcejub\n#SM엔터테인먼트 #News #minfav https://t.co/4PUbo3nbZC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						104,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jPWbEcejub",
+					"expanded_url": "https://www.smtown.com/news/detail/170",
+					"display_url": "smtown.com/news/detail/170",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123894528786751500,
+					"id_str": "1123894528786751490",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jgHolW4AIRJ-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5jgHolW4AIRJ-l.jpg",
+					"url": "https://t.co/4PUbo3nbZC",
+					"display_url": "pic.twitter.com/4PUbo3nbZC",
+					"expanded_url": "https://twitter.com/fromminn/status/1123894529726263296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123894528786751500,
+					"id_str": "1123894528786751490",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jgHolW4AIRJ-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5jgHolW4AIRJ-l.jpg",
+					"url": "https://t.co/4PUbo3nbZC",
+					"display_url": "pic.twitter.com/4PUbo3nbZC",
+					"expanded_url": "https://twitter.com/fromminn/status/1123894529726263296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 825,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48498,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #SMTOWN 】\nSM엔터테인먼트, 음악 꿈나무 위한 ‘SMile Music Festival 2019’ 개최!\nhttps://t.co/jPWbEcejub\n#SM엔터테인먼트 #News #minfav https://t.co/4PUbo3nbZC"
+	},
+	{
+		"created_at": "Thu May 02 10:08:34 +0000 2019",
+		"id": 1123783878165049300,
+		"id_str": "1123892025215131649",
+		"full_text": "#홀리데이랜드페스티벌 3차 라인업 공개!\n‘19 브릿 어워드 4개 부문 최다 노미네이트된 파워 보컬의 소유자 앤 마리, 전직 유명 유튜버 현직 로우파이 힙합의 떠오르는 스타인 88rising 소속의 조지가 확정 되었습니다.\n\n날짜 | 2019.7.27-7.28\n장소 | 파라다이스 시티\n예매 | https://t.co/BN7oIH31Bj https://t.co/fuoeWdzwSK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홀리데이랜드페스티벌",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BN7oIH31Bj",
+					"expanded_url": "http://HOLIDAYLAND.KR",
+					"display_url": "HOLIDAYLAND.KR",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123783817938993200,
+					"id_str": "1123783817938993155",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D5h7baiWAAMWe6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5h7baiWAAMWe6K.jpg",
+					"url": "https://t.co/fuoeWdzwSK",
+					"display_url": "pic.twitter.com/fuoeWdzwSK",
+					"expanded_url": "https://twitter.com/holidaylandfest/status/1123783878165049345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 946,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2030,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123783817938993200,
+					"id_str": "1123783817938993155",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D5h7baiWAAMWe6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5h7baiWAAMWe6K.jpg",
+					"url": "https://t.co/fuoeWdzwSK",
+					"display_url": "pic.twitter.com/fuoeWdzwSK",
+					"expanded_url": "https://twitter.com/holidaylandfest/status/1123783878165049345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 946,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2030,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996572708874797000,
+			"id_str": "996572708874797056",
+			"name": "HOLIDAY LAND FESTIVAL 2019",
+			"screen_name": "holidaylandfest",
+			"location": "",
+			"description": "FOREVER SUMMER, FOREVER HOLIDAY 🍑🌴 7.27-7.28 @ PARADISE CITY",
+			"url": "https://t.co/FQQrKwCJI1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FQQrKwCJI1",
+							"expanded_url": "http://holidayland.kr",
+							"display_url": "holidayland.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 461,
+			"friends_count": 1,
+			"listed_count": 1,
+			"created_at": "Wed May 16 02:07:03 +0000 2018",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102434643486203904/VTF25xDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102434643486203904/VTF25xDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996572708874797056/1556597395",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 224,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#홀리데이랜드페스티벌 3차 라인업 공개!\n‘19 브릿 어워드 4개 부문 최다 노미네이트된 파워 보컬의 소유자 앤 마리, 전직 유명 유튜버 현직 로우파이 힙합의 떠오르는 스타인 88rising 소속의 조지가 확정 되었습니다.\n\n날짜 | 2019.7.27-7.28\n장소 | 파라다이스 시티\n예매 | https://t.co/BN7oIH31Bj https://t.co/fuoeWdzwSK"
+	},
+	{
+		"created_at": "Thu May 02 09:44:22 +0000 2019",
+		"id": 1123885934884327400,
+		"id_str": "1123885934884327426",
+		"full_text": "#SMTOWN #Artist_News\n엑소 시우민, 솔로곡 ‘이유’로 아름다운 감성 발라드 선사!\nhttps://t.co/r2YfG7bvu1\n#STATION #SMSTATION #스테이션 https://t.co/DSNzBu6swV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r2YfG7bvu1",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2064",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123885933596684300,
+					"id_str": "1123885933596684290",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jYTVAWsAIjKQX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5jYTVAWsAIjKQX.jpg",
+					"url": "https://t.co/DSNzBu6swV",
+					"display_url": "pic.twitter.com/DSNzBu6swV",
+					"expanded_url": "https://twitter.com/fromminn/status/1123885934884327426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123885933596684300,
+					"id_str": "1123885933596684290",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jYTVAWsAIjKQX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5jYTVAWsAIjKQX.jpg",
+					"url": "https://t.co/DSNzBu6swV",
+					"display_url": "pic.twitter.com/DSNzBu6swV",
+					"expanded_url": "https://twitter.com/fromminn/status/1123885934884327426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 825,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48498,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n엑소 시우민, 솔로곡 ‘이유’로 아름다운 감성 발라드 선사!\nhttps://t.co/r2YfG7bvu1\n#STATION #SMSTATION #스테이션 https://t.co/DSNzBu6swV"
+	},
+	{
+		"created_at": "Thu May 02 09:44:19 +0000 2019",
+		"id": 1123885922603479000,
+		"id_str": "1123885922603479045",
+		"full_text": "#SMTOWN #Artist_News\n엑소 시우민, SM ‘스테이션’ 시즌 3 출격! 솔로곡 ‘이유’ 5월 9일 오후 6시 공개!\nhttps://t.co/rIPotGrKg5\n#STATION #SMSTATION #스테이션 https://t.co/vRjCEASJX2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rIPotGrKg5",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2062",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123885921533927400,
+					"id_str": "1123885921533927430",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jYSoEXoAY8kq8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5jYSoEXoAY8kq8.jpg",
+					"url": "https://t.co/vRjCEASJX2",
+					"display_url": "pic.twitter.com/vRjCEASJX2",
+					"expanded_url": "https://twitter.com/fromminn/status/1123885922603479045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123885921533927400,
+					"id_str": "1123885921533927430",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jYSoEXoAY8kq8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5jYSoEXoAY8kq8.jpg",
+					"url": "https://t.co/vRjCEASJX2",
+					"display_url": "pic.twitter.com/vRjCEASJX2",
+					"expanded_url": "https://twitter.com/fromminn/status/1123885922603479045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 825,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48498,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n엑소 시우민, SM ‘스테이션’ 시즌 3 출격! 솔로곡 ‘이유’ 5월 9일 오후 6시 공개!\nhttps://t.co/rIPotGrKg5\n#STATION #SMSTATION #스테이션 https://t.co/vRjCEASJX2"
+	},
+	{
+		"created_at": "Thu May 02 05:30:03 +0000 2019",
+		"id": 1123821934385532900,
+		"id_str": "1123821934385532928",
+		"full_text": "커들리 수수께끼|댄 핀켈 by. Daniel Finkel\nhttps://t.co/CkLRURoHtE\n#TED #테드 #한국어자막 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CkLRURoHtE",
+					"expanded_url": "https://www.ted.com/talks/daniel_finkel_can_you_solve_the_cuddly_duddly_fuddly_wuddly_riddle?language=ko",
+					"display_url": "ted.com/talks/daniel_f…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 825,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48498,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "커들리 수수께끼|댄 핀켈 by. Daniel Finkel\nhttps://t.co/CkLRURoHtE\n#TED #테드 #한국어자막 #minfav"
+	},
+	{
 		"created_at": "Wed May 01 11:30:15 +0000 2019",
 		"id": 1123550196095492100,
 		"id_str": "1123550196095492096",
@@ -354,7 +1482,7 @@ Grailbird.data.tweets_2019_05 =
 		"created_at": "Wed May 01 03:14:58 +0000 2019",
 		"id": 1123421824690208800,
 		"id_str": "1123425553317617664",
-		"full_text": "[이달의소녀킼킼 #100]\n👩‍👧여슬자매 놀이동산 왔지😆😍\n\n#이달의소녀 #LOONA #LOONAKick #하슬 #여진 #HaSeul #YeoJin https://t.co/5GG8HQWLgC",
+		"full_text": "[이달의소녀킼킼 #100]\n👩👧여슬자매 놀이동산 왔지😆😍\n\n#이달의소녀 #LOONA #LOONAKick #하슬 #여진 #HaSeul #YeoJin https://t.co/5GG8HQWLgC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -598,6 +1726,6 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[이달의소녀킼킼 #100]\n👩‍👧여슬자매 놀이동산 왔지😆😍\n\n#이달의소녀 #LOONA #LOONAKick #하슬 #여진 #HaSeul #YeoJin https://t.co/5GG8HQWLgC"
+		"text": "[이달의소녀킼킼 #100]\n👩👧여슬자매 놀이동산 왔지😆😍\n\n#이달의소녀 #LOONA #LOONAKick #하슬 #여진 #HaSeul #YeoJin https://t.co/5GG8HQWLgC"
 	}
 ]
