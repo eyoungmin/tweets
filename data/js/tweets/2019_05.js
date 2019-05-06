@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 14:16:53 +0000 2019",
+		"id": 1125404068548108300,
+		"id_str": "1125404068548108288",
+		"full_text": "【 #가온차트 】\nGAON′s 관찰노트\nhttps://t.co/lxQZg1u8Ky\n#Gaon #Opinion #minfav https://t.co/4Jc74zV8FR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "Opinion",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lxQZg1u8Ky",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=15256&sgenre=opinion&search_str=",
+					"display_url": "gaonchart.co.kr/main/section/a…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125404067604369400,
+					"id_str": "1125404067604369408",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D549CW5WkAASM0p.png",
+					"media_url_https": "https://pbs.twimg.com/media/D549CW5WkAASM0p.png",
+					"url": "https://t.co/4Jc74zV8FR",
+					"display_url": "pic.twitter.com/4Jc74zV8FR",
+					"expanded_url": "https://twitter.com/fromminn/status/1125404068548108288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125404067604369400,
+					"id_str": "1125404067604369408",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D549CW5WkAASM0p.png",
+					"media_url_https": "https://pbs.twimg.com/media/D549CW5WkAASM0p.png",
+					"url": "https://t.co/4Jc74zV8FR",
+					"display_url": "pic.twitter.com/4Jc74zV8FR",
+					"expanded_url": "https://twitter.com/fromminn/status/1125404068548108288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 825,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48518,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #가온차트 】\nGAON′s 관찰노트\nhttps://t.co/lxQZg1u8Ky\n#Gaon #Opinion #minfav https://t.co/4Jc74zV8FR"
+	},
+	{
+		"created_at": "Mon May 06 12:14:58 +0000 2019",
+		"id": 1125370689014206500,
+		"id_str": "1125373387822501888",
+		"full_text": "テヨン1stミニアルバム『#VOICE』、5/13(月)よりデジタル先行配信決定！さらに今夜5/7(火)0時からiTunes、Apple Music、Spotifyにて「VOICE」、「TURNT AND BURNT」2曲の先行配信スタート♪iTunesはミニアルバムの予約注文もスタートです！\n#TAEYEON #テヨン\n\n▼配信はこちら\nhttps://t.co/UyB5UhB5sl https://t.co/7EOQRrARVQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VOICE",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UyB5UhB5sl",
+					"expanded_url": "https://umj.lnk.to/TY_VOICE",
+					"display_url": "umj.lnk.to/TY_VOICE",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125370683721113600,
+					"id_str": "1125370683721113600",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D54erKPV4AAmnUV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54erKPV4AAmnUV.jpg",
+					"url": "https://t.co/7EOQRrARVQ",
+					"display_url": "pic.twitter.com/7EOQRrARVQ",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1125370689014206464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 1411,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125370683721113600,
+					"id_str": "1125370683721113600",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D54erKPV4AAmnUV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54erKPV4AAmnUV.jpg",
+					"url": "https://t.co/7EOQRrARVQ",
+					"display_url": "pic.twitter.com/7EOQRrARVQ",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1125370689014206464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 1411,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "2007年8月韓国デビュー。 2009年には韓国の音楽番組KBS MUSIC BANKで9週連続1位の新記録を樹立するなど、トップガールズグループとして君臨。 また、台湾、タイ、フィリピンの各種音楽チャートでも1位を獲得、中国などでもアジアツアーを行うなどアジア全域でNO.1グループとして活躍している。",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102993,
+			"friends_count": 0,
+			"listed_count": 547,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 275,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1025,
+		"favorite_count": 1904,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン1stミニアルバム『#VOICE』、5/13(月)よりデジタル先行配信決定！さらに今夜5/7(火)0時からiTunes、Apple Music、Spotifyにて「VOICE」、「TURNT AND BURNT」2曲の先行配信スタート♪iTunesはミニアルバムの予約注文もスタートです！\n#TAEYEON #テヨン\n\n▼配信はこちら\nhttps://t.co/UyB5UhB5sl https://t.co/7EOQRrARVQ"
+	},
+	{
+		"created_at": "Mon May 06 12:09:44 +0000 2019",
+		"id": 1125372069708030000,
+		"id_str": "1125372069708029953",
+		"full_text": "#少女時代 #소녀시대_일본\nテヨンの1stミニアルバム『VOICE』、5月13日(月)よりデジタル先行配信決定！さらに、5月7日(火)から、iTunesにてプレオーダー（予約・注文）スタート！\nhttps://t.co/lcnqBjnIuh\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "소녀시대_일본",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						128,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lcnqBjnIuh",
+					"expanded_url": "http://girls-generation.jp/gg/news/voice_download.html",
+					"display_url": "girls-generation.jp/gg/news/voice_…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 825,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48518,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #소녀시대_일본\nテヨンの1stミニアルバム『VOICE』、5月13日(月)よりデジタル先行配信決定！さらに、5月7日(火)から、iTunesにてプレオーダー（予約・注文）スタート！\nhttps://t.co/lcnqBjnIuh\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Mon May 06 03:14:58 +0000 2019",
+		"id": 1125233750713950200,
+		"id_str": "1125237492549132288",
+		"full_text": "[이달의소녀킼킼 #104]\n#최리 야 왜 대답을 못해😯?\n\n#이달의소녀 #LOONA #LOONAKick #진솔 #JinSoul #Choerry https://t.co/rOCHo6It54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125227242525642800,
+					"id_str": "1125227242525642757",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125227242525642757/pu/img/0yaP-Gue-8DCc3Ku.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125227242525642757/pu/img/0yaP-Gue-8DCc3Ku.jpg",
+					"url": "https://t.co/rOCHo6It54",
+					"display_url": "pic.twitter.com/rOCHo6It54",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1125233750713950208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125227242525642800,
+					"id_str": "1125227242525642757",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125227242525642757/pu/img/0yaP-Gue-8DCc3Ku.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125227242525642757/pu/img/0yaP-Gue-8DCc3Ku.jpg",
+					"url": "https://t.co/rOCHo6It54",
+					"display_url": "pic.twitter.com/rOCHo6It54",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1125233750713950208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							23,
+							40
+						],
+						"duration_millis": 10792,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1125227242525642757/pu/pl/jDazQU8FVwHuRJH4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125227242525642757/pu/vid/276x480/5XejMNQt7z6CPgnj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295042,
+			"friends_count": 0,
+			"listed_count": 4043,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1465,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4997,
+		"favorite_count": 13309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #104]\n#최리 야 왜 대답을 못해😯?\n\n#이달의소녀 #LOONA #LOONAKick #진솔 #JinSoul #Choerry https://t.co/rOCHo6It54"
+	},
+	{
+		"created_at": "Sun May 05 19:14:58 +0000 2019",
+		"id": 1125107827557560300,
+		"id_str": "1125116695918587905",
+		"full_text": "switching the name to “Mi Young’s Diary”, saw there were many vids labeled ‘Diaries’ out &amp; just want the focus on what a personal piece this is for me. This is my diary that I hold dear, a 30min sit down with you &amp; I. Hope you enjoy chapter 1 ☺️✒️📓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "THE LIPS ON LIPS EP is out now 💋❤️",
+			"url": "https://t.co/d1hNggguxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1hNggguxv",
+							"expanded_url": "http://smarturl.it/lipsep",
+							"display_url": "smarturl.it/lipsep",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279931,
+			"friends_count": 150,
+			"listed_count": 807,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 647,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1550120511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4781,
+		"favorite_count": 10444,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "switching the name to “Mi Young’s Diary”, saw there were many vids labeled ‘Diaries’ out &amp; just want the focus on what a personal piece this is for me. This is my diary that I hold dear, a 30min sit down with you &amp; I. Hope you enjoy chapter 1 ☺️✒️📓"
+	},
+	{
 		"created_at": "Sun May 05 14:35:26 +0000 2019",
 		"id": 1125046350071193600,
 		"id_str": "1125046350071193600",
