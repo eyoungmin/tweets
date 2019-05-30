@@ -1,6 +1,3848 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 11:15:03 +0000 2019",
+		"id": 1134047088432431100,
+		"id_str": "1134055618426355714",
+		"full_text": "#YOONA’s Special Album ‘#AWalkToRemember’ has been released!\n\nYou can get your Digital Booklet with YOONA’s unrevealed photos and handwritten message to fans by downloading the album on iTunes right now!\n\n☑️Download Link: https://t.co/aazm53zmBF\n\n#윤아 #여름밤 #SummerNight https://t.co/13xkWLPTWQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "AWalkToRemember",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						247,
+						250
+					]
+				},
+				{
+					"text": "여름밤",
+					"indices": [
+						251,
+						255
+					]
+				},
+				{
+					"text": "SummerNight",
+					"indices": [
+						256,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aazm53zmBF",
+					"expanded_url": "http://smarturl.it/YOONA_AWTR_i",
+					"display_url": "smarturl.it/YOONA_AWTR_i",
+					"indices": [
+						222,
+						245
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134047050461372400,
+					"id_str": "1134047050461372417",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/D7zxyLFUYAEvu0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7zxyLFUYAEvu0w.jpg",
+					"url": "https://t.co/13xkWLPTWQ",
+					"display_url": "pic.twitter.com/13xkWLPTWQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1134047088432431104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 588,
+							"h": 863,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 588,
+							"h": 863,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134047050461372400,
+					"id_str": "1134047050461372417",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/D7zxyLFUYAEvu0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7zxyLFUYAEvu0w.jpg",
+					"url": "https://t.co/13xkWLPTWQ",
+					"display_url": "pic.twitter.com/13xkWLPTWQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1134047088432431104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 588,
+							"h": 863,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 588,
+							"h": 863,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3413317,
+			"friends_count": 4,
+			"listed_count": 5708,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1559102525",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5491,
+		"favorite_count": 9484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#YOONA’s Special Album ‘#AWalkToRemember’ has been released!\n\nYou can get your Digital Booklet with YOONA’s unrevealed photos and handwritten message to fans by downloading the album on iTunes right now!\n\n☑️Download Link: https://t.co/aazm53zmBF\n\n#윤아 #여름밤 #SummerNight https://t.co/13xkWLPTWQ"
+	},
+	{
+		"created_at": "Thu May 30 11:14:58 +0000 2019",
+		"id": 1134045813552832500,
+		"id_str": "1134055596779552768",
+		"full_text": "YOONA 윤아 [A Walk to Remember - Special Album]\n\n🎧iTunes: https://t.co/aazm53zmBF\n🎧Apple Music: https://t.co/WCDmkAI8Pk\n🎧Spotify: https://t.co/ONCiKce17b\n\n#윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #윤아_신곡_여름밤_공개",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "AWalkToRemember",
+					"indices": [
+						164,
+						180
+					]
+				},
+				{
+					"text": "여름밤",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "SummerNight",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						205,
+						221
+					]
+				},
+				{
+					"text": "윤아_신곡_여름밤_공개",
+					"indices": [
+						222,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aazm53zmBF",
+					"expanded_url": "http://smarturl.it/YOONA_AWTR_i",
+					"display_url": "smarturl.it/YOONA_AWTR_i",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/WCDmkAI8Pk",
+					"expanded_url": "http://smarturl.it/YOONA_AWTR_a",
+					"display_url": "smarturl.it/YOONA_AWTR_a",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/ONCiKce17b",
+					"expanded_url": "http://smarturl.it/YOONA_AWTR_s",
+					"display_url": "smarturl.it/YOONA_AWTR_s",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3413317,
+			"friends_count": 4,
+			"listed_count": 5708,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1559102525",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2659,
+		"favorite_count": 4492,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YOONA 윤아 [A Walk to Remember - Special Album]\n\n🎧iTunes: https://t.co/aazm53zmBF\n🎧Apple Music: https://t.co/WCDmkAI8Pk\n🎧Spotify: https://t.co/ONCiKce17b\n\n#윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #윤아_신곡_여름밤_공개"
+	},
+	{
+		"created_at": "Thu May 30 11:01:03 +0000 2019",
+		"id": 1134052094762192900,
+		"id_str": "1134052094762192898",
+		"full_text": "[STATION 3] DNYL: Recruiting Now\nhttps://t.co/v40SzoKlTz\n#SM_STATION #STATION #스테이션",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_STATION",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v40SzoKlTz",
+					"expanded_url": "https://youtu.be/-ILE0IBFijo",
+					"display_url": "youtu.be/-ILE0IBFijo",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 824,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION 3] DNYL: Recruiting Now\nhttps://t.co/v40SzoKlTz\n#SM_STATION #STATION #스테이션"
+	},
+	{
+		"created_at": "Thu May 30 10:11:18 +0000 2019",
+		"id": 1134039572759875600,
+		"id_str": "1134039572759875584",
+		"full_text": "#SMTOWN #Artist_News\n오늘은 윤아 DAY! ‘한류 여신’ 윤아, 스페셜 앨범 5월 30일 발매!\nhttps://t.co/DyRJoUW0q4\n#GirlsGeneration #소녀시대 https://t.co/PmUJ7DbJYS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DyRJoUW0q4",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2181",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134039571665227800,
+					"id_str": "1134039571665227776",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D7zq-2ZXkAA6Baa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7zq-2ZXkAA6Baa.jpg",
+					"url": "https://t.co/PmUJ7DbJYS",
+					"display_url": "pic.twitter.com/PmUJ7DbJYS",
+					"expanded_url": "https://twitter.com/fromminn/status/1134039572759875584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134039571665227800,
+					"id_str": "1134039571665227776",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D7zq-2ZXkAA6Baa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7zq-2ZXkAA6Baa.jpg",
+					"url": "https://t.co/PmUJ7DbJYS",
+					"display_url": "pic.twitter.com/PmUJ7DbJYS",
+					"expanded_url": "https://twitter.com/fromminn/status/1134039572759875584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 824,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n오늘은 윤아 DAY! ‘한류 여신’ 윤아, 스페셜 앨범 5월 30일 발매!\nhttps://t.co/DyRJoUW0q4\n#GirlsGeneration #소녀시대 https://t.co/PmUJ7DbJYS"
+	},
+	{
+		"created_at": "Thu May 30 09:15:07 +0000 2019",
+		"id": 1134023222968512500,
+		"id_str": "1134025436390928386",
+		"full_text": "#YOONA #윤아 [A Walk to Remember - Special Album]\n\n🎧Melon: https://t.co/SLf0vsJnQY\n🎧FLO: https://t.co/IZQfha0My3\n🎧genie: https://t.co/mjA7WcIFZM\n🎧NAVER MUSIC: https://t.co/5uooBc7aaS\n\n #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #윤아_신곡_여름밤_공개",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "AWalkToRemember",
+					"indices": [
+						183,
+						199
+					]
+				},
+				{
+					"text": "여름밤",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "SummerNight",
+					"indices": [
+						205,
+						217
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						224,
+						240
+					]
+				},
+				{
+					"text": "윤아_신곡_여름밤_공개",
+					"indices": [
+						241,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SLf0vsJnQY",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10292269",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/IZQfha0My3",
+					"expanded_url": "http://flomuz.io/s/Woq",
+					"display_url": "flomuz.io/s/Woq",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/mjA7WcIFZM",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81216756",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/5uooBc7aaS",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=3063089",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3413317,
+			"friends_count": 4,
+			"listed_count": 5708,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1559102525",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3745,
+		"favorite_count": 5696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#YOONA #윤아 [A Walk to Remember - Special Album]\n\n🎧Melon: https://t.co/SLf0vsJnQY\n🎧FLO: https://t.co/IZQfha0My3\n🎧genie: https://t.co/mjA7WcIFZM\n🎧NAVER MUSIC: https://t.co/5uooBc7aaS\n\n #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #윤아_신곡_여름밤_공개"
+	},
+	{
+		"created_at": "Thu May 30 09:14:58 +0000 2019",
+		"id": 1134022336762376200,
+		"id_str": "1134025398025707520",
+		"full_text": "YOONA 윤아 '여름밤 (Feat. 스무살) (Summer Night)' MV\n\n🎬 https://t.co/lgNuJtGW2Z\n\n#윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #윤아_신곡_여름밤_공개",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "AWalkToRemember",
+					"indices": [
+						84,
+						100
+					]
+				},
+				{
+					"text": "여름밤",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "SummerNight",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						125,
+						141
+					]
+				},
+				{
+					"text": "윤아_신곡_여름밤_공개",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lgNuJtGW2Z",
+					"expanded_url": "https://youtu.be/SN_KUZAbxS4",
+					"display_url": "youtu.be/SN_KUZAbxS4",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3413317,
+			"friends_count": 4,
+			"listed_count": 5708,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1559102525",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7728,
+		"favorite_count": 11678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YOONA 윤아 '여름밤 (Feat. 스무살) (Summer Night)' MV\n\n🎬 https://t.co/lgNuJtGW2Z\n\n#윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #윤아_신곡_여름밤_공개"
+	},
+	{
+		"created_at": "Thu May 30 08:17:01 +0000 2019",
+		"id": 1133765249725751300,
+		"id_str": "1134010814946349056",
+		"full_text": "The grand prize winner of our #BILLIExADOBE contest with @AdobeStudents is Sarah! You’ll be meeting Billie on the “WHEN WE ALL FALL ASLEEP, world tour.” Visit https://t.co/ph7W4KrQBG to look at the other incredible entries. https://t.co/I2KS7EZxyc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BILLIExADOBE",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdobeStudents",
+					"name": "Adobe Students",
+					"id": 22161180,
+					"id_str": "22161180",
+					"indices": [
+						57,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ph7W4KrQBG",
+					"expanded_url": "https://adobe.ly/2YzobrU",
+					"display_url": "adobe.ly/2YzobrU",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133764882778640400,
+					"id_str": "1133764882778640384",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D7vxJ2jVUAAiaVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7vxJ2jVUAAiaVb.jpg",
+					"url": "https://t.co/I2KS7EZxyc",
+					"display_url": "pic.twitter.com/I2KS7EZxyc",
+					"expanded_url": "https://twitter.com/billieeilish/status/1133765249725751297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133764882778640400,
+					"id_str": "1133764882778640384",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D7vxJ2jVUAAiaVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7vxJ2jVUAAiaVb.jpg",
+					"url": "https://t.co/I2KS7EZxyc",
+					"display_url": "pic.twitter.com/I2KS7EZxyc",
+					"expanded_url": "https://twitter.com/billieeilish/status/1133765249725751297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133764928915951600,
+					"id_str": "1133764928915951616",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D7vxMibU0AAIuo1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7vxMibU0AAIuo1.jpg",
+					"url": "https://t.co/I2KS7EZxyc",
+					"display_url": "pic.twitter.com/I2KS7EZxyc",
+					"expanded_url": "https://twitter.com/billieeilish/status/1133765249725751297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133764949052837900,
+					"id_str": "1133764949052837889",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D7vxNtcVUAED-0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7vxNtcVUAED-0C.jpg",
+					"url": "https://t.co/I2KS7EZxyc",
+					"display_url": "pic.twitter.com/I2KS7EZxyc",
+					"expanded_url": "https://twitter.com/billieeilish/status/1133765249725751297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1559,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 913,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/oAOxKGH2dY",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oAOxKGH2dY",
+							"expanded_url": "http://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1910317,
+			"friends_count": 0,
+			"listed_count": 1864,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 8191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090339858399166464/8O0dH3QK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090339858399166464/8O0dH3QK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1548792199",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2281,
+		"favorite_count": 23969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The grand prize winner of our #BILLIExADOBE contest with @AdobeStudents is Sarah! You’ll be meeting Billie on the “WHEN WE ALL FALL ASLEEP, world tour.” Visit https://t.co/ph7W4KrQBG to look at the other incredible entries. https://t.co/I2KS7EZxyc"
+	},
+	{
+		"created_at": "Thu May 30 08:09:14 +0000 2019",
+		"id": 1134008853404749800,
+		"id_str": "1134008853404749830",
+		"full_text": "통증의 불가사의한 과학 - 조슈아 W. 페이트 (Joshua W.Pate) by. Joshua W. Pate\nhttps://t.co/nyYZqBEirq\n#TED #테드 #한국어자막 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nyYZqBEirq",
+					"expanded_url": "https://www.ted.com/talks/joshua_w_pate_the_mysterious_science_of_pain?language=ko",
+					"display_url": "ted.com/talks/joshua_w…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 824,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "통증의 불가사의한 과학 - 조슈아 W. 페이트 (Joshua W.Pate) by. Joshua W. Pate\nhttps://t.co/nyYZqBEirq\n#TED #테드 #한국어자막 #minfav"
+	},
+	{
+		"created_at": "Thu May 30 06:14:58 +0000 2019",
+		"id": 1133971834959933400,
+		"id_str": "1133980100050018304",
+		"full_text": "원어스(ONEUS) 'RAISE US' Released!\n👍https://t.co/eaHL0uN0H2 https://t.co/VPZyjVtVeL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eaHL0uN0H2",
+					"expanded_url": "https://m.facebook.com/story.php?story_fbid=2753124188035998&id=942907422391026",
+					"display_url": "m.facebook.com/story.php?stor…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133971826063765500,
+					"id_str": "1133971826063765504",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ytXiXU8AAtmkt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ytXiXU8AAtmkt.jpg",
+					"url": "https://t.co/VPZyjVtVeL",
+					"display_url": "pic.twitter.com/VPZyjVtVeL",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1133971834959933440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133971826063765500,
+					"id_str": "1133971826063765504",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ytXiXU8AAtmkt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ytXiXU8AAtmkt.jpg",
+					"url": "https://t.co/VPZyjVtVeL",
+					"display_url": "pic.twitter.com/VPZyjVtVeL",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1133971834959933440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5949,
+			"friends_count": 3,
+			"listed_count": 41,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원어스(ONEUS) 'RAISE US' Released!\n👍https://t.co/eaHL0uN0H2 https://t.co/VPZyjVtVeL"
+	},
+	{
+		"created_at": "Thu May 30 03:15:16 +0000 2019",
+		"id": 1133932192575266800,
+		"id_str": "1133934874572800000",
+		"full_text": "Red Velvet 레드벨벳 ['SAPPY']\n\n🎧Melon: https://t.co/HwiaJeuYbd\n🎧FLO: https://t.co/ouu66QWfC7\n🎧genie: https://t.co/9PyhhbVhfZ\n🎧NAVER MUSIC: https://t.co/dfP8gtPEWI\n\n#레드벨벳 #RedVelvet #SAPPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "SAPPY",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HwiaJeuYbd",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10291753",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/ouu66QWfC7",
+					"expanded_url": "http://flomuz.io/s/WiE",
+					"display_url": "flomuz.io/s/WiE",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/9PyhhbVhfZ",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81215825",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/dfP8gtPEWI",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=3062610",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1623967,
+			"friends_count": 2,
+			"listed_count": 4845,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067622172561035265/_RhwbEHc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4804,
+		"favorite_count": 14480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 ['SAPPY']\n\n🎧Melon: https://t.co/HwiaJeuYbd\n🎧FLO: https://t.co/ouu66QWfC7\n🎧genie: https://t.co/9PyhhbVhfZ\n🎧NAVER MUSIC: https://t.co/dfP8gtPEWI\n\n#레드벨벳 #RedVelvet #SAPPY"
+	},
+	{
+		"created_at": "Thu May 30 03:15:06 +0000 2019",
+		"id": 1133931135245770800,
+		"id_str": "1133934835578363910",
+		"full_text": "🎉윤아와 함께하는 ‘여름밤’ EVENT🎉\n\n📆참여 기간:19.05.30. – 19.06.07.\n📣당첨자 발표:19.06.14.\n🎁당첨 상품:윤아 친필 사인CD (총 5명)\n📍필수 해시태그: #윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #윤아와_함께하는_여름밤\n\n자세한 내용은 이미지 참고👇 https://t.co/Ul13S9zxS5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "AWalkToRemember",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"text": "여름밤",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "SummerNight",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						158,
+						174
+					]
+				},
+				{
+					"text": "윤아와_함께하는_여름밤",
+					"indices": [
+						175,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133930695800213500,
+					"id_str": "1133930695800213506",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D7yH9cMVUAIknCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7yH9cMVUAIknCe.jpg",
+					"url": "https://t.co/Ul13S9zxS5",
+					"display_url": "pic.twitter.com/Ul13S9zxS5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133931135245770752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133930695800213500,
+					"id_str": "1133930695800213506",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D7yH9cMVUAIknCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7yH9cMVUAIknCe.jpg",
+					"url": "https://t.co/Ul13S9zxS5",
+					"display_url": "pic.twitter.com/Ul13S9zxS5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133931135245770752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133930727374934000,
+					"id_str": "1133930727374934016",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D7yH_R0VUAAO3Su.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7yH_R0VUAAO3Su.jpg",
+					"url": "https://t.co/Ul13S9zxS5",
+					"display_url": "pic.twitter.com/Ul13S9zxS5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133931135245770752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3413317,
+			"friends_count": 4,
+			"listed_count": 5708,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1559102525",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2937,
+		"favorite_count": 6027,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉윤아와 함께하는 ‘여름밤’ EVENT🎉\n\n📆참여 기간:19.05.30. – 19.06.07.\n📣당첨자 발표:19.06.14.\n🎁당첨 상품:윤아 친필 사인CD (총 5명)\n📍필수 해시태그: #윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #윤아와_함께하는_여름밤\n\n자세한 내용은 이미지 참고👇 https://t.co/Ul13S9zxS5"
+	},
+	{
+		"created_at": "Thu May 30 03:14:58 +0000 2019",
+		"id": 1133931108192534500,
+		"id_str": "1133934801164165122",
+		"full_text": "[이달의소녀탐구 #523]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/oosT1UnI4r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133915332714778600,
+					"id_str": "1133915332714778625",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1133915332714778625/pu/img/n8dBsh1SqwINTU_E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1133915332714778625/pu/img/n8dBsh1SqwINTU_E.jpg",
+					"url": "https://t.co/oosT1UnI4r",
+					"display_url": "pic.twitter.com/oosT1UnI4r",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1133931108192534528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133915332714778600,
+					"id_str": "1133915332714778625",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1133915332714778625/pu/img/n8dBsh1SqwINTU_E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1133915332714778625/pu/img/n8dBsh1SqwINTU_E.jpg",
+					"url": "https://t.co/oosT1UnI4r",
+					"display_url": "pic.twitter.com/oosT1UnI4r",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1133931108192534528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1133915332714778625/pu/pl/025FWrylmxjFYS7i.m3u8?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1133915332714778625/pu/vid/1280x720/wzJ3SwFwlUeR2ulJ.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1133915332714778625/pu/vid/640x360/Ef3r5zVNqnyhHozw.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1133915332714778625/pu/vid/320x180/QRZqA4ApeaSrHq03.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305398,
+			"friends_count": 0,
+			"listed_count": 4145,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3391,
+		"favorite_count": 9743,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #523]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/oosT1UnI4r"
+	},
+	{
+		"created_at": "Thu May 30 01:14:58 +0000 2019",
+		"id": 1133900833681264600,
+		"id_str": "1133904602582200320",
+		"full_text": "#HappyYOONADay 🎂🎉\n#190530 #GirlsGeneration #소녀시대 #YOONA #윤아 https://t.co/yqU7CBzQyD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyYOONADay",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						56,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133642276977033200,
+					"id_str": "1133642276977033216",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D7uBpQWUwAAD0WK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7uBpQWUwAAD0WK.jpg",
+					"url": "https://t.co/yqU7CBzQyD",
+					"display_url": "pic.twitter.com/yqU7CBzQyD",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133900833681264640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133642276977033200,
+					"id_str": "1133642276977033216",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D7uBpQWUwAAD0WK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7uBpQWUwAAD0WK.jpg",
+					"url": "https://t.co/yqU7CBzQyD",
+					"display_url": "pic.twitter.com/yqU7CBzQyD",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133900833681264640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3413317,
+			"friends_count": 4,
+			"listed_count": 5708,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1559102525",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13556,
+		"favorite_count": 23506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#HappyYOONADay 🎂🎉\n#190530 #GirlsGeneration #소녀시대 #YOONA #윤아 https://t.co/yqU7CBzQyD"
+	},
+	{
+		"created_at": "Thu May 30 00:14:58 +0000 2019",
+		"id": 1133887169490063400,
+		"id_str": "1133889502647410688",
+		"full_text": "오늘은 윤아DAY! ‘한류 여신’ 윤아의 스페셜 앨범이 오늘 공개됩니다!\n윤아가 선사하는 달콤한 감성 여름송을 오늘 오후 6시에 만나보세요~ 💖\n\n🎧 2019.05.30. 6PM (KST)\n\n#윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #5월30일_하루종일_윤아DAY https://t.co/UtZdjS5LLL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "AWalkToRemember",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "여름밤",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "SummerNight",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"text": "5월30일_하루종일_윤아DAY",
+					"indices": [
+						176,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133887163769090000,
+					"id_str": "1133887163769090048",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xgXivU8AAU6qF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xgXivU8AAU6qF.jpg",
+					"url": "https://t.co/UtZdjS5LLL",
+					"display_url": "pic.twitter.com/UtZdjS5LLL",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133887169490063361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133887163769090000,
+					"id_str": "1133887163769090048",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xgXivU8AAU6qF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xgXivU8AAU6qF.jpg",
+					"url": "https://t.co/UtZdjS5LLL",
+					"display_url": "pic.twitter.com/UtZdjS5LLL",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133887169490063361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133887163756499000,
+					"id_str": "1133887163756498944",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xgXisU0AAa-Ew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xgXisU0AAa-Ew.jpg",
+					"url": "https://t.co/UtZdjS5LLL",
+					"display_url": "pic.twitter.com/UtZdjS5LLL",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133887169490063361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133887163777425400,
+					"id_str": "1133887163777425408",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xgXixUIAAPf0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xgXixUIAAPf0t.jpg",
+					"url": "https://t.co/UtZdjS5LLL",
+					"display_url": "pic.twitter.com/UtZdjS5LLL",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133887169490063361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3413317,
+			"friends_count": 4,
+			"listed_count": 5708,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1559102525",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7774,
+		"favorite_count": 15694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 윤아DAY! ‘한류 여신’ 윤아의 스페셜 앨범이 오늘 공개됩니다!\n윤아가 선사하는 달콤한 감성 여름송을 오늘 오후 6시에 만나보세요~ 💖\n\n🎧 2019.05.30. 6PM (KST)\n\n#윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #5월30일_하루종일_윤아DAY https://t.co/UtZdjS5LLL"
+	},
+	{
+		"created_at": "Wed May 29 23:15:01 +0000 2019",
+		"id": 1133865465669869600,
+		"id_str": "1133874413248634881",
+		"full_text": "도쿄에서 https://t.co/BhczMHU7Ra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133865406421057500,
+					"id_str": "1133865406421057536",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xMlGTUwAAaTBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xMlGTUwAAaTBo.jpg",
+					"url": "https://t.co/BhczMHU7Ra",
+					"display_url": "pic.twitter.com/BhczMHU7Ra",
+					"expanded_url": "https://twitter.com/adoyband/status/1133865465669869568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1824,
+							"h": 1127,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133865406421057500,
+					"id_str": "1133865406421057536",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xMlGTUwAAaTBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xMlGTUwAAaTBo.jpg",
+					"url": "https://t.co/BhczMHU7Ra",
+					"display_url": "pic.twitter.com/BhczMHU7Ra",
+					"expanded_url": "https://twitter.com/adoyband/status/1133865465669869568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1824,
+							"h": 1127,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133865421436665900,
+					"id_str": "1133865421436665856",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xMl-PUwAAHPjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xMl-PUwAAHPjr.jpg",
+					"url": "https://t.co/BhczMHU7Ra",
+					"display_url": "pic.twitter.com/BhczMHU7Ra",
+					"expanded_url": "https://twitter.com/adoyband/status/1133865465669869568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133865432127946800,
+					"id_str": "1133865432127946752",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xMmmEUwAAqBsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xMmmEUwAAqBsV.jpg",
+					"url": "https://t.co/BhczMHU7Ra",
+					"display_url": "pic.twitter.com/BhczMHU7Ra",
+					"expanded_url": "https://twitter.com/adoyband/status/1133865465669869568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133865452994682900,
+					"id_str": "1133865452994682880",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xMnzzV4AAREEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xMnzzV4AAREEZ.jpg",
+					"url": "https://t.co/BhczMHU7Ra",
+					"display_url": "pic.twitter.com/BhczMHU7Ra",
+					"expanded_url": "https://twitter.com/adoyband/status/1133865465669869568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1523,
+							"h": 1051,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2424,
+			"friends_count": 568,
+			"listed_count": 27,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도쿄에서 https://t.co/BhczMHU7Ra"
+	},
+	{
+		"created_at": "Wed May 29 23:14:58 +0000 2019",
+		"id": 1133864477592436700,
+		"id_str": "1133874404037935105",
+		"full_text": "도쿄에서 https://t.co/EvzAXkel3B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133864419820154900,
+					"id_str": "1133864419820154880",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xLrq7VsAANsrH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xLrq7VsAANsrH.jpg",
+					"url": "https://t.co/EvzAXkel3B",
+					"display_url": "pic.twitter.com/EvzAXkel3B",
+					"expanded_url": "https://twitter.com/adoyband/status/1133864477592436736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1379,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133864419820154900,
+					"id_str": "1133864419820154880",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xLrq7VsAANsrH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xLrq7VsAANsrH.jpg",
+					"url": "https://t.co/EvzAXkel3B",
+					"display_url": "pic.twitter.com/EvzAXkel3B",
+					"expanded_url": "https://twitter.com/adoyband/status/1133864477592436736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1379,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133864438639972400,
+					"id_str": "1133864438639972352",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xLsxCVUAAi-lW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xLsxCVUAAi-lW.jpg",
+					"url": "https://t.co/EvzAXkel3B",
+					"display_url": "pic.twitter.com/EvzAXkel3B",
+					"expanded_url": "https://twitter.com/adoyband/status/1133864477592436736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1889,
+							"h": 1273,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133864457422008300,
+					"id_str": "1133864457422008320",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xLt3AUcAALGYM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xLt3AUcAALGYM.jpg",
+					"url": "https://t.co/EvzAXkel3B",
+					"display_url": "pic.twitter.com/EvzAXkel3B",
+					"expanded_url": "https://twitter.com/adoyband/status/1133864477592436736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2046,
+							"h": 1378,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133864472840290300,
+					"id_str": "1133864472840290304",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xLuwcUwAAlrbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xLuwcUwAAlrbu.jpg",
+					"url": "https://t.co/EvzAXkel3B",
+					"display_url": "pic.twitter.com/EvzAXkel3B",
+					"expanded_url": "https://twitter.com/adoyband/status/1133864477592436736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 728,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 728,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2424,
+			"friends_count": 568,
+			"listed_count": 27,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도쿄에서 https://t.co/EvzAXkel3B"
+	},
+	{
+		"created_at": "Wed May 29 17:53:13 +0000 2019",
+		"id": 1133793430746882000,
+		"id_str": "1133793430746882050",
+		"full_text": "Katy Perry – Never Really Over (Trailer)\nhttps://t.co/pMLatZGuKp\n#KatyPerry #케이티페리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KatyPerry",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "케이티페리",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pMLatZGuKp",
+					"expanded_url": "https://youtu.be/UJ0x-MW1EdM",
+					"display_url": "youtu.be/UJ0x-MW1EdM",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 824,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Katy Perry – Never Really Over (Trailer)\nhttps://t.co/pMLatZGuKp\n#KatyPerry #케이티페리"
+	},
+	{
+		"created_at": "Wed May 29 15:15:06 +0000 2019",
+		"id": 1133749969611964400,
+		"id_str": "1133753641742024716",
+		"full_text": "YOONA 윤아 '여름밤 (Feat. 스무살) (Summer Night)' MV Teaser # 2\n\n🎧 2019.05.30. 6PM (KST)\n👉 https://t.co/pvIJ0CgRdw\n\n#윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #5월30일_하루종일_윤아DAY https://t.co/KqsJYNvWF3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "AWalkToRemember",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "여름밤",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "SummerNight",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						160,
+						176
+					]
+				},
+				{
+					"text": "5월30일_하루종일_윤아DAY",
+					"indices": [
+						177,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pvIJ0CgRdw",
+					"expanded_url": "http://yoona.smtown.com/",
+					"display_url": "yoona.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133684225004060700,
+					"id_str": "1133684225004060672",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D7uoD2VUwAA035L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7uoD2VUwAA035L.jpg",
+					"url": "https://t.co/KqsJYNvWF3",
+					"display_url": "pic.twitter.com/KqsJYNvWF3",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133749969611964417/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133684225004060700,
+					"id_str": "1133684225004060672",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D7uoD2VUwAA035L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7uoD2VUwAA035L.jpg",
+					"url": "https://t.co/KqsJYNvWF3",
+					"display_url": "pic.twitter.com/KqsJYNvWF3",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1133749969611964417/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27444,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1133684225004060672/vid/320x180/s488oITkFY06sbJl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1133684225004060672/pl/5IDUZbBlc-3Rw5JK.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1133684225004060672/vid/640x360/sv8Oo5dmf3i0zEAU.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1133684225004060672/vid/1280x720/3pJPEqRIs84fPcjz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3413317,
+			"friends_count": 4,
+			"listed_count": 5708,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1559102525",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14653,
+		"favorite_count": 27643,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YOONA 윤아 '여름밤 (Feat. 스무살) (Summer Night)' MV Teaser # 2\n\n🎧 2019.05.30. 6PM (KST)\n👉 https://t.co/pvIJ0CgRdw\n\n#윤아 #YOONA #AWalkToRemember #여름밤 #SummerNight #소녀시대 #GirlsGeneration #5월30일_하루종일_윤아DAY https://t.co/KqsJYNvWF3"
+	},
+	{
 		"created_at": "Wed May 29 10:17:43 +0000 2019",
 		"id": 1133678800628211700,
 		"id_str": "1133678800628211712",
