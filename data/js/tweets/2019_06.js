@@ -1,6 +1,1096 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 09:14:58 +0000 2019",
+		"id": 1137283122104590300,
+		"id_str": "1137286889172537344",
+		"full_text": "https://t.co/b9gJ3LT8tj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137225600945442800,
+					"id_str": "1137225600945442816",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D8g89qkUIAImYl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8g89qkUIAImYl6.jpg",
+					"url": "https://t.co/b9gJ3LT8tj",
+					"display_url": "pic.twitter.com/b9gJ3LT8tj",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1137283122104590342/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137225600945442800,
+					"id_str": "1137225600945442816",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D8g89qkUIAImYl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8g89qkUIAImYl6.jpg",
+					"url": "https://t.co/b9gJ3LT8tj",
+					"display_url": "pic.twitter.com/b9gJ3LT8tj",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1137283122104590342/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19820,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1137225600945442816/vid/480x270/zPH7NhiaU2Fx8dcW.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1137225600945442816/vid/640x360/Lt9pJ8U_6Hsqbp91.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1137225600945442816/pl/iAuOJENaBJBI_w3C.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1137225600945442816/vid/1280x720/3aC1eNQbCfKZvSKB.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1641441,
+			"friends_count": 2,
+			"listed_count": 4891,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15109,
+		"favorite_count": 33686,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/b9gJ3LT8tj"
+	},
+	{
+		"created_at": "Sat Jun 08 03:14:58 +0000 2019",
+		"id": 1137192549016227800,
+		"id_str": "1137196291740581888",
+		"full_text": "[이달의소녀킼킼 #131]\n이거 진짜 마사지 하는거에요😮\n\n#이달의소녀 #LOONA #LOONAKick #희진 #이브 #고원 #OliviaHye #HeeJin #Yves #GoWon #올리비아혜 https://t.co/C0CfaoPmbv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						102,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137178036531368000,
+					"id_str": "1137178036531367936",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137178036531367936/pu/img/rfEsFNzCVpam2UDv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137178036531367936/pu/img/rfEsFNzCVpam2UDv.jpg",
+					"url": "https://t.co/C0CfaoPmbv",
+					"display_url": "pic.twitter.com/C0CfaoPmbv",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1137192549016227845/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137178036531368000,
+					"id_str": "1137178036531367936",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137178036531367936/pu/img/rfEsFNzCVpam2UDv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137178036531367936/pu/img/rfEsFNzCVpam2UDv.jpg",
+					"url": "https://t.co/C0CfaoPmbv",
+					"display_url": "pic.twitter.com/C0CfaoPmbv",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1137192549016227845/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							23,
+							40
+						],
+						"duration_millis": 33100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1137178036531367936/pu/pl/CK-gze-N-HDjqsQT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1137178036531367936/pu/vid/276x480/-4JYyTTyqExOhOaa.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310560,
+			"friends_count": 0,
+			"listed_count": 4179,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4630,
+		"favorite_count": 12491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #131]\n이거 진짜 마사지 하는거에요😮\n\n#이달의소녀 #LOONA #LOONAKick #희진 #이브 #고원 #OliviaHye #HeeJin #Yves #GoWon #올리비아혜 https://t.co/C0CfaoPmbv"
+	},
+	{
+		"created_at": "Fri Jun 07 18:14:58 +0000 2019",
+		"id": 1137045480406302700,
+		"id_str": "1137060396072919040",
+		"full_text": "펄럭펄럭 가로등 배너 깜짝 이벤트 중입니다. #ADOY 인증샷 남기시면 추첨을 통해 아도이의 새로운 굿즈를 선물로 드립니다. https://t.co/XOa8QgJ4Kn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137045420431962100,
+					"id_str": "1137045420431962113",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D8eYyRpU8AELxGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8eYyRpU8AELxGs.jpg",
+					"url": "https://t.co/XOa8QgJ4Kn",
+					"display_url": "pic.twitter.com/XOa8QgJ4Kn",
+					"expanded_url": "https://twitter.com/adoyband/status/1137045480406302721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137045420431962100,
+					"id_str": "1137045420431962113",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D8eYyRpU8AELxGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8eYyRpU8AELxGs.jpg",
+					"url": "https://t.co/XOa8QgJ4Kn",
+					"display_url": "pic.twitter.com/XOa8QgJ4Kn",
+					"expanded_url": "https://twitter.com/adoyband/status/1137045480406302721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137045431664332800,
+					"id_str": "1137045431664332800",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D8eYy7fVUAAOBXN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8eYy7fVUAAOBXN.jpg",
+					"url": "https://t.co/XOa8QgJ4Kn",
+					"display_url": "pic.twitter.com/XOa8QgJ4Kn",
+					"expanded_url": "https://twitter.com/adoyband/status/1137045480406302721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137045440350675000,
+					"id_str": "1137045440350674944",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D8eYzb2UYAAGuuy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8eYzb2UYAAGuuy.jpg",
+					"url": "https://t.co/XOa8QgJ4Kn",
+					"display_url": "pic.twitter.com/XOa8QgJ4Kn",
+					"expanded_url": "https://twitter.com/adoyband/status/1137045480406302721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137045468779704300,
+					"id_str": "1137045468779704321",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D8eY1FwU8AEQixd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8eY1FwU8AEQixd.jpg",
+					"url": "https://t.co/XOa8QgJ4Kn",
+					"display_url": "pic.twitter.com/XOa8QgJ4Kn",
+					"expanded_url": "https://twitter.com/adoyband/status/1137045480406302721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 663,
+							"h": 663,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 663,
+							"h": 663,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 663,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2472,
+			"friends_count": 566,
+			"listed_count": 27,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "펄럭펄럭 가로등 배너 깜짝 이벤트 중입니다. #ADOY 인증샷 남기시면 추첨을 통해 아도이의 새로운 굿즈를 선물로 드립니다. https://t.co/XOa8QgJ4Kn"
+	},
+	{
+		"created_at": "Fri Jun 07 17:54:13 +0000 2019",
+		"id": 1137055172620931100,
+		"id_str": "1137055172620931073",
+		"full_text": "김앤박의 BEST NEW K-POP #68 🟊 우주소녀, 투모로우바이투게더, 틴탑, 프로미스나인 🟊 | CASPER RADIO\nhttps://t.co/inxK0M3XRS\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤하",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "평론가",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "박희아",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "기자",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "케이팝",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "IDOL",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "BEST_NEW_KPOP",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"text": "베스트뉴케이팝",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						162,
+						175
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						176,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/inxK0M3XRS",
+					"expanded_url": "http://www.vlive.tv/video/133258",
+					"display_url": "vlive.tv/video/133258",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 826,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김앤박의 BEST NEW K-POP #68 🟊 우주소녀, 투모로우바이투게더, 틴탑, 프로미스나인 🟊 | CASPER RADIO\nhttps://t.co/inxK0M3XRS\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오"
+	},
+	{
+		"created_at": "Fri Jun 07 17:26:13 +0000 2019",
+		"id": 1137048126936768500,
+		"id_str": "1137048126936768513",
+		"full_text": "Katy Perry “Never Really Over” YouTube Space Premiere Event\nhttps://t.co/Bh6lkLluLl\n#KatyPerry #케이티페리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KatyPerry",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "케이티페리",
+					"indices": [
+						95,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bh6lkLluLl",
+					"expanded_url": "https://youtu.be/Cm_TcqDXQrU",
+					"display_url": "youtu.be/Cm_TcqDXQrU",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 826,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Katy Perry “Never Really Over” YouTube Space Premiere Event\nhttps://t.co/Bh6lkLluLl\n#KatyPerry #케이티페리"
+	},
+	{
 		"created_at": "Fri Jun 07 13:14:58 +0000 2019",
 		"id": 1136981278970982400,
 		"id_str": "1136984899171303424",
