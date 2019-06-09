@@ -1,6 +1,1033 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 13:14:58 +0000 2019",
+		"id": 1137705999576444900,
+		"id_str": "1137709674311147521",
+		"full_text": "5년차 레드벨벳 예리의 걸어서 인싸 속으로 Reborn YERI in North America | 레드벨벳 아이컨택캠📹 시즌3\n\n👉https://t.co/IzJZ5JdLYY\n\n#YERI #예리 #RedVelvet #레드벨벳 #아이컨택캠",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YERI",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "아이컨택캠",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IzJZ5JdLYY",
+					"expanded_url": "https://youtu.be/F0tkL_jHrys",
+					"display_url": "youtu.be/F0tkL_jHrys",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1643795,
+			"friends_count": 2,
+			"listed_count": 4896,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4282,
+		"favorite_count": 9844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5년차 레드벨벳 예리의 걸어서 인싸 속으로 Reborn YERI in North America | 레드벨벳 아이컨택캠📹 시즌3\n\n👉https://t.co/IzJZ5JdLYY\n\n#YERI #예리 #RedVelvet #레드벨벳 #아이컨택캠"
+	},
+	{
+		"created_at": "Sun Jun 09 09:14:58 +0000 2019",
+		"id": 1137645510553030700,
+		"id_str": "1137649276522250241",
+		"full_text": "https://t.co/ow6pIW1nfT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137226181730684900,
+					"id_str": "1137226181730684929",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D8g-aYxU8AA59Dk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8g-aYxU8AA59Dk.jpg",
+					"url": "https://t.co/ow6pIW1nfT",
+					"display_url": "pic.twitter.com/ow6pIW1nfT",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1137645510553030656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137226181730684900,
+					"id_str": "1137226181730684929",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D8g-aYxU8AA59Dk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8g-aYxU8AA59Dk.jpg",
+					"url": "https://t.co/ow6pIW1nfT",
+					"display_url": "pic.twitter.com/ow6pIW1nfT",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1137645510553030656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20087,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1137226181730684929/vid/480x270/wOnIpL4qD7oyOcKq.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1137226181730684929/vid/1280x720/v-HJ730dnT23p0Py.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1137226181730684929/pl/UIbsx4ig-DV9jXwp.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1137226181730684929/vid/640x360/juj_rIaF82tEEXmp.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1643795,
+			"friends_count": 2,
+			"listed_count": 4896,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17450,
+		"favorite_count": 36544,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ow6pIW1nfT"
+	},
+	{
+		"created_at": "Sun Jun 09 08:14:58 +0000 2019",
+		"id": 1137630410496626700,
+		"id_str": "1137634177040429056",
+		"full_text": "RETURN OF EYE CONTACT CAM📹 – [THE_REAL_YERI_VIBE.mp4]\n\n💚FULL VIDEO COMING SOON💚\n\nPLEASE SUBSCRIBE NOW!\n👉https://t.co/TFDDQ6ohyb\n\n#YERI #예리 #RedVelvet #레드벨벳 #아이컨택캠 https://t.co/my2W7dFZkw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YERI",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "아이컨택캠",
+					"indices": [
+						156,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TFDDQ6ohyb",
+					"expanded_url": "https://www.youtube.com/redvelvet?sub_confirmation=1",
+					"display_url": "youtube.com/redvelvet?sub_…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136986449721430000,
+					"id_str": "1136986449721430018",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1136986449721430018/img/p5pTBkWXsENK93E_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1136986449721430018/img/p5pTBkWXsENK93E_.jpg",
+					"url": "https://t.co/my2W7dFZkw",
+					"display_url": "pic.twitter.com/my2W7dFZkw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1137630410496626688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136986449721430000,
+					"id_str": "1136986449721430018",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1136986449721430018/img/p5pTBkWXsENK93E_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1136986449721430018/img/p5pTBkWXsENK93E_.jpg",
+					"url": "https://t.co/my2W7dFZkw",
+					"display_url": "pic.twitter.com/my2W7dFZkw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1137630410496626688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12613,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1136986449721430018/vid/480x270/fQoZU7KGebnz0uAd.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1136986449721430018/vid/1280x720/PLatKyYUaw7PwpKE.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1136986449721430018/pl/JGL2cdL6PHlSj4lg.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1136986449721430018/vid/640x360/zB8AjAJDtQiROFzO.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1643795,
+			"friends_count": 2,
+			"listed_count": 4896,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7256,
+		"favorite_count": 18441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RETURN OF EYE CONTACT CAM📹 – [THE_REAL_YERI_VIBE.mp4]\n\n💚FULL VIDEO COMING SOON💚\n\nPLEASE SUBSCRIBE NOW!\n👉https://t.co/TFDDQ6ohyb\n\n#YERI #예리 #RedVelvet #레드벨벳 #아이컨택캠 https://t.co/my2W7dFZkw"
+	},
+	{
+		"created_at": "Sun Jun 09 07:14:58 +0000 2019",
+		"id": 1137615310893199400,
+		"id_str": "1137619077663531009",
+		"full_text": "이불이 #이브 와 남순 할머니의 아쉬운 이야기😥 \npm6:45(KST) MBC #가시나들 에서 만나요🥺\n⠀⠀\n#LOONA #이달의소녀 #Yves https://t.co/O0zmUZwRCL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "가시나들",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						75,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137615302429007900,
+					"id_str": "1137615302429007872",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D8mfFxhUYAAdVLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8mfFxhUYAAdVLf.jpg",
+					"url": "https://t.co/O0zmUZwRCL",
+					"display_url": "pic.twitter.com/O0zmUZwRCL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1137615310893199360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1125,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137615302429007900,
+					"id_str": "1137615302429007872",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D8mfFxhUYAAdVLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8mfFxhUYAAdVLf.jpg",
+					"url": "https://t.co/O0zmUZwRCL",
+					"display_url": "pic.twitter.com/O0zmUZwRCL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1137615310893199360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1125,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310903,
+			"friends_count": 0,
+			"listed_count": 4185,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2191,
+		"favorite_count": 6642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이불이 #이브 와 남순 할머니의 아쉬운 이야기😥 \npm6:45(KST) MBC #가시나들 에서 만나요🥺\n⠀⠀\n#LOONA #이달의소녀 #Yves https://t.co/O0zmUZwRCL"
+	},
+	{
+		"created_at": "Sun Jun 09 05:14:58 +0000 2019",
+		"id": 1137585391949631500,
+		"id_str": "1137588878729199616",
+		"full_text": "“ #이브 와 함께 잊지 못 할 행복한 추억 또 만들어요!” 이브의 메세지 확인하고 추억갱신하러 가요😉▶️ https://t.co/d5CTveCRkE\n\n#이달의소녀 #LOONA #Yves https://t.co/X8CW8rjK0O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d5CTveCRkE",
+					"expanded_url": "https://www.facebook.com/loonatheworld/photos/a.303009970076535/823753791335481/?type=3&theater",
+					"display_url": "facebook.com/loonatheworld/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1137584258015359000,
+					"id_str": "1137584258015358978",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D8mC2wEU8AIJ2VR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8mC2wEU8AIJ2VR.jpg",
+					"url": "https://t.co/X8CW8rjK0O",
+					"display_url": "pic.twitter.com/X8CW8rjK0O",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1137585391949631488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137584258015359000,
+					"id_str": "1137584258015358978",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D8mC2wEU8AIJ2VR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8mC2wEU8AIJ2VR.jpg",
+					"url": "https://t.co/X8CW8rjK0O",
+					"display_url": "pic.twitter.com/X8CW8rjK0O",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1137585391949631488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310903,
+			"friends_count": 0,
+			"listed_count": 4185,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5495,
+		"favorite_count": 14043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“ #이브 와 함께 잊지 못 할 행복한 추억 또 만들어요!” 이브의 메세지 확인하고 추억갱신하러 가요😉▶️ https://t.co/d5CTveCRkE\n\n#이달의소녀 #LOONA #Yves https://t.co/X8CW8rjK0O"
+	},
+	{
 		"created_at": "Sat Jun 08 09:14:58 +0000 2019",
 		"id": 1137283122104590300,
 		"id_str": "1137286889172537344",
