@@ -1,6 +1,1562 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 11:19:57 +0000 2019",
+		"id": 1137885952884523000,
+		"id_str": "1138043118639407104",
+		"full_text": "\"나같이 부족한 사람이 이런 기쁨을 누리는 것은 뭔가 잘못 됐거나, 나의 착각일 뿐이거나, 어차피 운이 좋아서 한 번 잘 된 것뿐이고 따라서 나는 내가 진짜 잘 한 것처럼 여기에 만족하고 기뻐할 자격이 없다는 생각들이 한 예\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1137885840057733100,
+		"in_reply_to_status_id_str": "1137885840057733121",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "나도 인간임을 잊지 맙시다. 심리학 책 [나를 사랑하지 않는 나에게], [나, 지금 이대로 괜찮은 사람] https://t.co/3neEmrTIUX",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3neEmrTIUX",
+							"expanded_url": "http://goo.gl/k99PpR",
+							"display_url": "goo.gl/k99PpR",
+							"indices": [
+								59,
+								82
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 72083,
+			"friends_count": 198,
+			"listed_count": 582,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075567494922829825/XncEpkfm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075567494922829825/XncEpkfm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "23ebe811ea93fd41",
+			"url": "https://api.twitter.com/1.1/geo/id/23ebe811ea93fd41.json",
+			"place_type": "city",
+			"name": "Chapel Hill",
+			"full_name": "Chapel Hill, NC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-79.0831529,
+							35.869376
+						],
+						[
+							-78.968887,
+							35.869376
+						],
+						[
+							-78.968887,
+							35.969507
+						],
+						[
+							-79.0831529,
+							35.969507
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 624,
+		"favorite_count": 367,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"나같이 부족한 사람이 이런 기쁨을 누리는 것은 뭔가 잘못 됐거나, 나의 착각일 뿐이거나, 어차피 운이 좋아서 한 번 잘 된 것뿐이고 따라서 나는 내가 진짜 잘 한 것처럼 여기에 만족하고 기뻐할 자격이 없다는 생각들이 한 예\""
+	},
+	{
+		"created_at": "Mon Jun 10 11:19:50 +0000 2019",
+		"id": 1137885840057733100,
+		"id_str": "1138043085286301697",
+		"full_text": "\"우울증상이 심한 사람들은 기쁨을 끌어올리기는 커녕 마치 우울한 마음을 유지하려는 듯, 기쁜 일이 생겨도 이를 별 것 아닌 일이라며 긍정적인 정서의 길이와 강도를 가라앉히는(dampening) 경향을 보인다\" https://t.co/j5j9RAhhQt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j5j9RAhhQt",
+					"expanded_url": "http://dongascience.donga.com/news.php?idx=29217",
+					"display_url": "dongascience.donga.com/news.php?idx=2…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "나도 인간임을 잊지 맙시다. 심리학 책 [나를 사랑하지 않는 나에게], [나, 지금 이대로 괜찮은 사람] https://t.co/3neEmrTIUX",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3neEmrTIUX",
+							"expanded_url": "http://goo.gl/k99PpR",
+							"display_url": "goo.gl/k99PpR",
+							"indices": [
+								59,
+								82
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 72083,
+			"friends_count": 198,
+			"listed_count": 582,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075567494922829825/XncEpkfm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075567494922829825/XncEpkfm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "23ebe811ea93fd41",
+			"url": "https://api.twitter.com/1.1/geo/id/23ebe811ea93fd41.json",
+			"place_type": "city",
+			"name": "Chapel Hill",
+			"full_name": "Chapel Hill, NC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-79.0831529,
+							35.869376
+						],
+						[
+							-78.968887,
+							35.869376
+						],
+						[
+							-78.968887,
+							35.969507
+						],
+						[
+							-79.0831529,
+							35.969507
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1668,
+		"favorite_count": 1051,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"우울증상이 심한 사람들은 기쁨을 끌어올리기는 커녕 마치 우울한 마음을 유지하려는 듯, 기쁜 일이 생겨도 이를 별 것 아닌 일이라며 긍정적인 정서의 길이와 강도를 가라앉히는(dampening) 경향을 보인다\" https://t.co/j5j9RAhhQt"
+	},
+	{
+		"created_at": "Mon Jun 10 11:14:58 +0000 2019",
+		"id": 1138032615791841300,
+		"id_str": "1138041864026763265",
+		"full_text": "🔊 Pre-order of #RedVelvet's Mini Album #TheReVeFestivalDay1 #Day1 and #GuideBook Ver. available now👇🏻👇🏻 \n   \n▶️ Amazon:\nhttps://t.co/RVaYoCtAsG\nhttps://t.co/gK7hEm1KC3\n\n▶️ SM Global Shop:\nhttps://t.co/PEeN3KMP5U\nhttps://t.co/0pnVO2Ub7Q\nhttps://t.co/0WpxC3oW3X\n\n#레드벨벳 #RVF https://t.co/mq6yIIX5SY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay1",
+					"indices": [
+						39,
+						59
+					]
+				},
+				{
+					"text": "Day1",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "GuideBook",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						261,
+						266
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						267,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RVaYoCtAsG",
+					"expanded_url": "https://smarturl.it/Amazon_RV_GuideBook",
+					"display_url": "smarturl.it/Amazon_RV_Guid…",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/gK7hEm1KC3",
+					"expanded_url": "https://smarturl.it/Amazon_RV_Day1",
+					"display_url": "smarturl.it/Amazon_RV_Day1",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/PEeN3KMP5U",
+					"expanded_url": "https://smarturl.it/SGS_RV_GuideBook",
+					"display_url": "smarturl.it/SGS_RV_GuideBo…",
+					"indices": [
+						188,
+						211
+					]
+				},
+				{
+					"url": "https://t.co/0pnVO2Ub7Q",
+					"expanded_url": "https://smarturl.it/SGS_RV_Day1",
+					"display_url": "smarturl.it/SGS_RV_Day1",
+					"indices": [
+						212,
+						235
+					]
+				},
+				{
+					"url": "https://t.co/0WpxC3oW3X",
+					"expanded_url": "https://smarturl.it/SGS_RV_Day1Bundle",
+					"display_url": "smarturl.it/SGS_RV_Day1Bun…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138028495471120400,
+					"id_str": "1138028495471120390",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sW4xjUEAYZj6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sW4xjUEAYZj6e.jpg",
+					"url": "https://t.co/mq6yIIX5SY",
+					"display_url": "pic.twitter.com/mq6yIIX5SY",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1138032615791841280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138028495471120400,
+					"id_str": "1138028495471120390",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sW4xjUEAYZj6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sW4xjUEAYZj6e.jpg",
+					"url": "https://t.co/mq6yIIX5SY",
+					"display_url": "pic.twitter.com/mq6yIIX5SY",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1138032615791841280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1647256,
+			"friends_count": 2,
+			"listed_count": 4905,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6481,
+		"favorite_count": 16183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔊 Pre-order of #RedVelvet's Mini Album #TheReVeFestivalDay1 #Day1 and #GuideBook Ver. available now👇🏻👇🏻 \n   \n▶️ Amazon:\nhttps://t.co/RVaYoCtAsG\nhttps://t.co/gK7hEm1KC3\n\n▶️ SM Global Shop:\nhttps://t.co/PEeN3KMP5U\nhttps://t.co/0pnVO2Ub7Q\nhttps://t.co/0WpxC3oW3X\n\n#레드벨벳 #RVF https://t.co/mq6yIIX5SY"
+	},
+	{
+		"created_at": "Mon Jun 10 11:08:23 +0000 2019",
+		"id": 1138040204634271700,
+		"id_str": "1138040204634271745",
+		"full_text": "#SMTOWN #Artist_News\n레드벨벳, 새 미니앨범 타이틀 곡 ‘짐살라빔’으로 강력한 중독성 예고!\nhttps://t.co/YuYPTMP9aL\n#RedVelvet #레드벨벳 https://t.co/M6mftT0cmW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						96,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YuYPTMP9aL",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2221",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138040203329904600,
+					"id_str": "1138040203329904642",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D8shiQuXoAImJGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8shiQuXoAImJGs.jpg",
+					"url": "https://t.co/M6mftT0cmW",
+					"display_url": "pic.twitter.com/M6mftT0cmW",
+					"expanded_url": "https://twitter.com/fromminn/status/1138040204634271745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138040203329904600,
+					"id_str": "1138040203329904642",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D8shiQuXoAImJGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8shiQuXoAImJGs.jpg",
+					"url": "https://t.co/M6mftT0cmW",
+					"display_url": "pic.twitter.com/M6mftT0cmW",
+					"expanded_url": "https://twitter.com/fromminn/status/1138040204634271745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 826,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n레드벨벳, 새 미니앨범 타이틀 곡 ‘짐살라빔’으로 강력한 중독성 예고!\nhttps://t.co/YuYPTMP9aL\n#RedVelvet #레드벨벳 https://t.co/M6mftT0cmW"
+	},
+	{
+		"created_at": "Mon Jun 10 08:46:19 +0000 2019",
+		"id": 1138004452630323200,
+		"id_str": "1138004452630323200",
+		"full_text": "【 #가온차트 】\n5월 리뷰 (2019)\nhttps://t.co/UWaKX1izvQ\n#Gaon #Opinion #minfav https://t.co/0sWON3ZpoF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "Opinion",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UWaKX1izvQ",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=15372&sgenre=opinion&search_str=",
+					"display_url": "gaonchart.co.kr/main/section/a…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138004451573342200,
+					"id_str": "1138004451573342209",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBBPDXoAEGQxR.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBBPDXoAEGQxR.png",
+					"url": "https://t.co/0sWON3ZpoF",
+					"display_url": "pic.twitter.com/0sWON3ZpoF",
+					"expanded_url": "https://twitter.com/fromminn/status/1138004452630323200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138004451573342200,
+					"id_str": "1138004451573342209",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBBPDXoAEGQxR.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBBPDXoAEGQxR.png",
+					"url": "https://t.co/0sWON3ZpoF",
+					"display_url": "pic.twitter.com/0sWON3ZpoF",
+					"expanded_url": "https://twitter.com/fromminn/status/1138004452630323200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 826,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #가온차트 】\n5월 리뷰 (2019)\nhttps://t.co/UWaKX1izvQ\n#Gaon #Opinion #minfav https://t.co/0sWON3ZpoF"
+	},
+	{
+		"created_at": "Mon Jun 10 08:33:20 +0000 2019",
+		"id": 1138001186114678800,
+		"id_str": "1138001186114678784",
+		"full_text": "【 #가온차트 】\n2019년 6월 10일 공지사항\nhttps://t.co/obertpjeSv\n#Gaon #Notice #공지사항 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "Notice",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/obertpjeSv",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=67&pageNo=1&condition=&searchStr",
+					"display_url": "gaonchart.co.kr/main/section/n…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 826,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #가온차트 】\n2019년 6월 10일 공지사항\nhttps://t.co/obertpjeSv\n#Gaon #Notice #공지사항 #minfav"
+	},
+	{
+		"created_at": "Mon Jun 10 03:14:58 +0000 2019",
+		"id": 1137917307789824000,
+		"id_str": "1137921067329183745",
+		"full_text": "[이달의소녀킼킼 #133]\n#고원 이가 멈칫! 한 이유🤭\n\n#이달의소녀 #LOONA #LOONAKick #여진 #YeoJin #GoWon https://t.co/Vtoi6qMgX4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137914806315278300,
+					"id_str": "1137914806315278337",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137914806315278337/pu/img/gkPWyQmwybawor3J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137914806315278337/pu/img/gkPWyQmwybawor3J.jpg",
+					"url": "https://t.co/Vtoi6qMgX4",
+					"display_url": "pic.twitter.com/Vtoi6qMgX4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1137917307789824001/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137914806315278300,
+					"id_str": "1137914806315278337",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137914806315278337/pu/img/gkPWyQmwybawor3J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137914806315278337/pu/img/gkPWyQmwybawor3J.jpg",
+					"url": "https://t.co/Vtoi6qMgX4",
+					"display_url": "pic.twitter.com/Vtoi6qMgX4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1137917307789824001/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 14933,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1137914806315278337/pu/vid/320x570/hfo-AmG6B8cZ8dW9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1137914806315278337/pu/pl/TLM0k7qyVQ75VnsQ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1137914806315278337/pu/vid/404x720/9kbm_O7Y2ms-SnZ5.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311298,
+			"friends_count": 0,
+			"listed_count": 4196,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4879,
+		"favorite_count": 13525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #133]\n#고원 이가 멈칫! 한 이유🤭\n\n#이달의소녀 #LOONA #LOONAKick #여진 #YeoJin #GoWon https://t.co/Vtoi6qMgX4"
+	},
+	{
+		"created_at": "Mon Jun 10 01:14:58 +0000 2019",
+		"id": 1137884121215094800,
+		"id_str": "1137890868139089921",
+		"full_text": "'마성의 주문' '소원성취송' ‘#짐살라빔 (#Zimzalabim)’으로 레드벨벳이 2019년 음악 축제의 서막을 엽니다! \n‘수리수리 마수리’와 같은 주문을 뜻하는 새 미니 앨범 타이틀 곡 제목처럼 6월  19일 환상적인 레드벨벳의 매직에 빠져보세요!🎉\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 https://t.co/iQteCNNDhF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "짐살라빔",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						25,
+						36
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay1",
+					"indices": [
+						166,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137884087765459000,
+					"id_str": "1137884087765458945",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D8qTjI7UYAEhG8h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8qTjI7UYAEhG8h.jpg",
+					"url": "https://t.co/iQteCNNDhF",
+					"display_url": "pic.twitter.com/iQteCNNDhF",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1137884121215094785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137884087765459000,
+					"id_str": "1137884087765458945",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D8qTjI7UYAEhG8h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8qTjI7UYAEhG8h.jpg",
+					"url": "https://t.co/iQteCNNDhF",
+					"display_url": "pic.twitter.com/iQteCNNDhF",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1137884121215094785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137884100377817100,
+					"id_str": "1137884100377817088",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D8qTj36VsAAaJDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8qTj36VsAAaJDg.jpg",
+					"url": "https://t.co/iQteCNNDhF",
+					"display_url": "pic.twitter.com/iQteCNNDhF",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1137884121215094785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1647256,
+			"friends_count": 2,
+			"listed_count": 4905,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135565161966723077/DhGwxwv5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1543375924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18997,
+		"favorite_count": 41917,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'마성의 주문' '소원성취송' ‘#짐살라빔 (#Zimzalabim)’으로 레드벨벳이 2019년 음악 축제의 서막을 엽니다! \n‘수리수리 마수리’와 같은 주문을 뜻하는 새 미니 앨범 타이틀 곡 제목처럼 6월  19일 환상적인 레드벨벳의 매직에 빠져보세요!🎉\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 https://t.co/iQteCNNDhF"
+	},
+	{
 		"created_at": "Sun Jun 09 13:14:58 +0000 2019",
 		"id": 1137705999576444900,
 		"id_str": "1137709674311147521",
