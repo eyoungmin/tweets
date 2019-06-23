@@ -1,6 +1,773 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 09:15:05 +0000 2019",
+		"id": 1142710044468731900,
+		"id_str": "1142722737288429568",
+		"full_text": "수록곡 맛집 ‘레드벨벳’의 걸크러쉬! ‘Sunny Side Up!’ (출처 : SBS 인기가요 | 네이버TV)\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #SunnySideUp\n\nhttps://t.co/Kyx3jlXM1m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay1",
+					"indices": [
+						85,
+						105
+					]
+				},
+				{
+					"text": "SunnySideUp",
+					"indices": [
+						106,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kyx3jlXM1m",
+					"expanded_url": "http://naver.me/FLJQbpFU",
+					"display_url": "naver.me/FLJQbpFU",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1688749,
+			"friends_count": 2,
+			"listed_count": 5015,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4904,
+		"favorite_count": 14313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수록곡 맛집 ‘레드벨벳’의 걸크러쉬! ‘Sunny Side Up!’ (출처 : SBS 인기가요 | 네이버TV)\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #SunnySideUp\n\nhttps://t.co/Kyx3jlXM1m"
+	},
+	{
+		"created_at": "Sun Jun 23 09:14:58 +0000 2019",
+		"id": 1142709364622409700,
+		"id_str": "1142722707454353408",
+		"full_text": "주문을 외는 순간 중독★ ‘레드벨벳’의 ‘짐살라빔’ (출처 : SBS 인기가요 | 네이버TV)\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim\n\nhttps://t.co/r7qNrL4QuR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay1",
+					"indices": [
+						76,
+						96
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r7qNrL4QuR",
+					"expanded_url": "http://naver.me/5oOS4cPc",
+					"display_url": "naver.me/5oOS4cPc",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1688749,
+			"friends_count": 2,
+			"listed_count": 5015,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5022,
+		"favorite_count": 14464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주문을 외는 순간 중독★ ‘레드벨벳’의 ‘짐살라빔’ (출처 : SBS 인기가요 | 네이버TV)\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim\n\nhttps://t.co/r7qNrL4QuR"
+	},
+	{
+		"created_at": "Sun Jun 23 06:14:58 +0000 2019",
+		"id": 1142670175847665700,
+		"id_str": "1142677408065236992",
+		"full_text": "“오늘 우리 같이 행복한 시간 보내요❤️” 콩주님 #고원 이가 보낸 메세지 확인하고 행복한 일요일 함께 보내요😍 \n▶️ https://t.co/FtD6wwpo3S  \n\n#이달의소녀 #LOONA #GoWon https://t.co/66ykMOb5Ic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FtD6wwpo3S",
+					"expanded_url": "https://www.facebook.com/289822978061901/posts/833305510380309?s=100013292502787&sfns=mo",
+					"display_url": "facebook.com/28982297806190…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142670125071396900,
+					"id_str": "1142670125071396864",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D9uUbLRU8AAz7IM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9uUbLRU8AAz7IM.jpg",
+					"url": "https://t.co/66ykMOb5Ic",
+					"display_url": "pic.twitter.com/66ykMOb5Ic",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1142670175847665664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142670125071396900,
+					"id_str": "1142670125071396864",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D9uUbLRU8AAz7IM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9uUbLRU8AAz7IM.jpg",
+					"url": "https://t.co/66ykMOb5Ic",
+					"display_url": "pic.twitter.com/66ykMOb5Ic",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1142670175847665664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1142670125071396900,
+					"id_str": "1142670125071396865",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D9uUbLRU8AEK29Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9uUbLRU8AEK29Q.jpg",
+					"url": "https://t.co/66ykMOb5Ic",
+					"display_url": "pic.twitter.com/66ykMOb5Ic",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1142670175847665664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314661,
+			"friends_count": 0,
+			"listed_count": 4243,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7330,
+		"favorite_count": 17124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“오늘 우리 같이 행복한 시간 보내요❤️” 콩주님 #고원 이가 보낸 메세지 확인하고 행복한 일요일 함께 보내요😍 \n▶️ https://t.co/FtD6wwpo3S  \n\n#이달의소녀 #LOONA #GoWon https://t.co/66ykMOb5Ic"
+	},
+	{
+		"created_at": "Sun Jun 23 01:14:58 +0000 2019",
+		"id": 1142598272730538000,
+		"id_str": "1142601910664519680",
+		"full_text": "레드벨벳 인기가요 본방사수하기 전에! \n\n오늘 오후 1시 &lt;SBS KPOP PLAY&gt; '출첵 라이브 with 레드벨벳'에서 레드벨벳을 실시간으로 만나보아요!🎉\n\n👉https://t.co/GwiZHbKVrf\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim https://t.co/cnx1uMxKzK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay1",
+					"indices": [
+						144,
+						164
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						171,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GwiZHbKVrf",
+					"expanded_url": "https://youtu.be/01_H9J4jUGw",
+					"display_url": "youtu.be/01_H9J4jUGw",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142598259308806100,
+					"id_str": "1142598259308806145",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D9tTECcUwAERS-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9tTECcUwAERS-D.jpg",
+					"url": "https://t.co/cnx1uMxKzK",
+					"display_url": "pic.twitter.com/cnx1uMxKzK",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1142598272730537984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142598259308806100,
+					"id_str": "1142598259308806145",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D9tTECcUwAERS-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9tTECcUwAERS-D.jpg",
+					"url": "https://t.co/cnx1uMxKzK",
+					"display_url": "pic.twitter.com/cnx1uMxKzK",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1142598272730537984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/6MpK8tG84M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MpK8tG84M",
+							"expanded_url": "https://youtu.be/IWJUPY-2EIM",
+							"display_url": "youtu.be/IWJUPY-2EIM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1688749,
+			"friends_count": 2,
+			"listed_count": 5015,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6759,
+		"favorite_count": 24325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 인기가요 본방사수하기 전에! \n\n오늘 오후 1시 &lt;SBS KPOP PLAY&gt; '출첵 라이브 with 레드벨벳'에서 레드벨벳을 실시간으로 만나보아요!🎉\n\n👉https://t.co/GwiZHbKVrf\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim https://t.co/cnx1uMxKzK"
+	},
+	{
 		"created_at": "Sat Jun 22 10:47:20 +0000 2019",
 		"id": 1142328308744327200,
 		"id_str": "1142383563527970816",
@@ -1278,7 +2045,7 @@ Grailbird.data.tweets_2019_06 =
 		"created_at": "Sat Jun 22 03:14:58 +0000 2019",
 		"id": 1142265981487571000,
 		"id_str": "1142269722001584128",
-		"full_text": "[이달의소녀킼킼 #145]\n예쁘다😍 금발즈~👩🏼👩‍🦳\n\n#이달의소녀 #LOONA #LOONAKick #진솔 #고원 #JinSoul #GoWon https://t.co/muSH0tLVat",
+		"full_text": "[이달의소녀킼킼 #145]\n예쁘다😍 금발즈~👩🏼👩🦳\n\n#이달의소녀 #LOONA #LOONAKick #진솔 #고원 #JinSoul #GoWon https://t.co/muSH0tLVat",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1522,7 +2289,7 @@ Grailbird.data.tweets_2019_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[이달의소녀킼킼 #145]\n예쁘다😍 금발즈~👩🏼👩‍🦳\n\n#이달의소녀 #LOONA #LOONAKick #진솔 #고원 #JinSoul #GoWon https://t.co/muSH0tLVat"
+		"text": "[이달의소녀킼킼 #145]\n예쁘다😍 금발즈~👩🏼👩🦳\n\n#이달의소녀 #LOONA #LOONAKick #진솔 #고원 #JinSoul #GoWon https://t.co/muSH0tLVat"
 	},
 	{
 		"created_at": "Sat Jun 22 01:50:38 +0000 2019",
