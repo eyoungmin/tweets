@@ -1,6 +1,1433 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 29 14:14:59 +0000 2019",
+		"id": 1144966644847878100,
+		"id_str": "1144972533093064710",
+		"full_text": "[예능연구소 직캠] 1위 앵콜 / Red Velvet - Zimzalabim, 레드벨벳 - 짐살라빔 @쇼!음악중심 20190629\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim\n\n https://t.co/A9qnyxIX6a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay1",
+					"indices": [
+						96,
+						116
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						123,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A9qnyxIX6a",
+					"expanded_url": "https://youtu.be/MHZ9Z1FX1ZA",
+					"display_url": "youtu.be/MHZ9Z1FX1ZA",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699858,
+			"friends_count": 2,
+			"listed_count": 5027,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2581,
+		"favorite_count": 6527,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예능연구소 직캠] 1위 앵콜 / Red Velvet - Zimzalabim, 레드벨벳 - 짐살라빔 @쇼!음악중심 20190629\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim\n\n https://t.co/A9qnyxIX6a"
+	},
+	{
+		"created_at": "Sat Jun 29 11:24:09 +0000 2019",
+		"id": 1144772482362200000,
+		"id_str": "1144929541732753408",
+		"full_text": "올해 아카데미 시상식에서 실사 단편영화 작품상을 받은수상한 화제작 &lt;Skin&gt;. 피부 색깔이 다른 두 어린이의 시각에서 바라본 인종 편견에 관한 이슈를 장편 영화보다 더 효과적으로, 그리고 충격적인 방식으로 고발하였다.\nhttps://t.co/L00LAYPDAG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L00LAYPDAG",
+					"expanded_url": "https://www.indiepost.co.kr/post/12597",
+					"display_url": "indiepost.co.kr/post/12597",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808835127639801900,
+			"id_str": "808835127639801856",
+			"name": "인디포스트",
+			"screen_name": "indiepostmedia",
+			"location": "",
+			"description": "WE CURATE VALUES\n인디 문화 큐레이션 서비스, 인디포스트의 공식 계정입니다.",
+			"url": "https://t.co/v1HyjgBR3L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1HyjgBR3L",
+							"expanded_url": "http://www.indiepost.co.kr",
+							"display_url": "indiepost.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4709,
+			"friends_count": 415,
+			"listed_count": 34,
+			"created_at": "Wed Dec 14 00:44:56 +0000 2016",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808835127639801856/1526023975",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올해 아카데미 시상식에서 실사 단편영화 작품상을 받은수상한 화제작 &lt;Skin&gt;. 피부 색깔이 다른 두 어린이의 시각에서 바라본 인종 편견에 관한 이슈를 장편 영화보다 더 효과적으로, 그리고 충격적인 방식으로 고발하였다.\nhttps://t.co/L00LAYPDAG"
+	},
+	{
+		"created_at": "Sat Jun 29 11:14:58 +0000 2019",
+		"id": 1144926888873230300,
+		"id_str": "1144927233561235457",
+		"full_text": "#이달의소녀 #츄 와 함께하는 [ #이세퀴 ] 시즌2 Ep1이 공개 되었어요!\n귀염뽀짝 열일중인 츄를 매주 토요일 만나주세요😉\n▶️ https://t.co/9wnJchlTId\n\n#LOONA #Chuu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						7,
+						9
+					]
+				},
+				{
+					"text": "이세퀴",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wnJchlTId",
+					"expanded_url": "https://youtu.be/yfq3z1u0nBc",
+					"display_url": "youtu.be/yfq3z1u0nBc",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316176,
+			"friends_count": 0,
+			"listed_count": 4265,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1853,
+		"favorite_count": 5162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #츄 와 함께하는 [ #이세퀴 ] 시즌2 Ep1이 공개 되었어요!\n귀염뽀짝 열일중인 츄를 매주 토요일 만나주세요😉\n▶️ https://t.co/9wnJchlTId\n\n#LOONA #Chuu"
+	},
+	{
+		"created_at": "Sat Jun 29 10:20:29 +0000 2019",
+		"id": 1144789832490786800,
+		"id_str": "1144913519755681792",
+		"full_text": "\"누가 내게 “너는 안 될 걸\" 이라고 할 때, 자신의 실패를 합리하기 위해서이거나 또는 성공했을 경우 자신의 대단함을 과시하기 위해서, 즉 결국 자기 고양감을 느끼기 위해서 그런 얘기를 하는 것은 아닌지 살펴보자. 그들의 자존감 문제는 결코 내 문제가 아니다.\" https://t.co/a0lukPgWlx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0lukPgWlx",
+					"expanded_url": "http://dongascience.donga.com/news.php?idx=29633",
+					"display_url": "dongascience.donga.com/news.php?idx=2…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/3neEmsbkjx",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3neEmsbkjx",
+							"expanded_url": "http://goo.gl/k99PpR",
+							"display_url": "goo.gl/k99PpR",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 72641,
+			"friends_count": 199,
+			"listed_count": 580,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"누가 내게 “너는 안 될 걸\" 이라고 할 때, 자신의 실패를 합리하기 위해서이거나 또는 성공했을 경우 자신의 대단함을 과시하기 위해서, 즉 결국 자기 고양감을 느끼기 위해서 그런 얘기를 하는 것은 아닌지 살펴보자. 그들의 자존감 문제는 결코 내 문제가 아니다.\" https://t.co/a0lukPgWlx"
+	},
+	{
+		"created_at": "Sat Jun 29 08:14:58 +0000 2019",
+		"id": 1144881334134771700,
+		"id_str": "1144881934788698112",
+		"full_text": "레드벨벳 - 짐살라빔(Red Velvet - Zimzalabim) (출처 : 쇼 음악중심 | 네이버TV) \n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim\n\nhttps://t.co/OkcZyTwl3J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay1",
+					"indices": [
+						83,
+						103
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OkcZyTwl3J",
+					"expanded_url": "http://naver.me/FuJZdHq3",
+					"display_url": "naver.me/FuJZdHq3",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699858,
+			"friends_count": 2,
+			"listed_count": 5027,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4532,
+		"favorite_count": 13316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 - 짐살라빔(Red Velvet - Zimzalabim) (출처 : 쇼 음악중심 | 네이버TV) \n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim\n\nhttps://t.co/OkcZyTwl3J"
+	},
+	{
+		"created_at": "Sat Jun 29 03:14:58 +0000 2019",
+		"id": 1144802670038982700,
+		"id_str": "1144806436725305344",
+		"full_text": "[열일 시리즈] 어머 어머 어머 열일하는 레드벨벳을 봐👀\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim https://t.co/IcoOGVntDK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay1",
+					"indices": [
+						55,
+						75
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						82,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143100035552301000,
+					"id_str": "1143100035552301056",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D90b02xVAAE3DpB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D90b02xVAAE3DpB.jpg",
+					"url": "https://t.co/IcoOGVntDK",
+					"display_url": "pic.twitter.com/IcoOGVntDK",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1144802670038982661/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1083,
+							"h": 609,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1083,
+							"h": 609,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143100035552301000,
+					"id_str": "1143100035552301056",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D90b02xVAAE3DpB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D90b02xVAAE3DpB.jpg",
+					"url": "https://t.co/IcoOGVntDK",
+					"display_url": "pic.twitter.com/IcoOGVntDK",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1144802670038982661/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1083,
+							"h": 609,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1083,
+							"h": 609,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54054,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1143100035552301056/vid/480x270/OgroTuWeLfSRt-FM.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1143100035552301056/vid/640x360/_TZ6rp3DzcpkXQL4.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1143100035552301056/vid/1280x720/GoC-HsmaLjFl0IZl.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1143100035552301056/pl/Rjy3Oo8A6IZSz1v2.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699858,
+			"friends_count": 2,
+			"listed_count": 5027,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8728,
+		"favorite_count": 27141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[열일 시리즈] 어머 어머 어머 열일하는 레드벨벳을 봐👀\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim https://t.co/IcoOGVntDK"
+	},
+	{
+		"created_at": "Fri Jun 28 23:34:41 +0000 2019",
+		"id": 1144405926595588100,
+		"id_str": "1144750998071590913",
+		"full_text": "정소연 연구자가 기고한 '3세대 여덕의 탄생' 이라는 글인데 레드벨벳 팬이시고 트위터리안이고  꼭 읽어봐 주세요 너무 재밋다.. 첫장 읽고 멈출 수가 없었다\n\nhttps://t.co/JIhVIYYYXd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JIhVIYYYXd",
+					"expanded_url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07584455&language=ko_KR",
+					"display_url": "dbpia.co.kr/journal/articl…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 726457297765994500,
+			"id_str": "726457297765994496",
+			"name": "경덩이",
+			"screen_name": "RxR1481",
+			"location": "RPS",
+			"description": "RRRRRedvelvet",
+			"url": "https://t.co/QRsY0cRuvX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QRsY0cRuvX",
+							"expanded_url": "http://naver.me/Ftg4LffA",
+							"display_url": "naver.me/Ftg4LffA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1107,
+			"friends_count": 177,
+			"listed_count": 4,
+			"created_at": "Sat Apr 30 17:04:51 +0000 2016",
+			"favourites_count": 7501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100540644119007234/TH7g9NcY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100540644119007234/TH7g9NcY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/726457297765994496/1489662380",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1481,
+		"favorite_count": 1168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정소연 연구자가 기고한 '3세대 여덕의 탄생' 이라는 글인데 레드벨벳 팬이시고 트위터리안이고  꼭 읽어봐 주세요 너무 재밋다.. 첫장 읽고 멈출 수가 없었다\n\nhttps://t.co/JIhVIYYYXd"
+	},
+	{
+		"created_at": "Fri Jun 28 21:14:58 +0000 2019",
+		"id": 1144690961097691100,
+		"id_str": "1144715840224284672",
+		"full_text": "Tickets for @tiffanyyoung's Magnetic Moon Tour are on sale now at https://t.co/VhV6Go71YV 🌙 https://t.co/d0pGRPUFB3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VhV6Go71YV",
+					"expanded_url": "http://tiffanyyoung.com/calendar",
+					"display_url": "tiffanyyoung.com/calendar",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1144690636466995200,
+					"id_str": "1144690636466995200",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D-LCO5DU4AA1pdg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-LCO5DU4AA1pdg.jpg",
+					"url": "https://t.co/d0pGRPUFB3",
+					"display_url": "pic.twitter.com/d0pGRPUFB3",
+					"expanded_url": "https://twitter.com/aegpresents/status/1144690961097691138/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144690636466995200,
+					"id_str": "1144690636466995200",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D-LCO5DU4AA1pdg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-LCO5DU4AA1pdg.jpg",
+					"url": "https://t.co/d0pGRPUFB3",
+					"display_url": "pic.twitter.com/d0pGRPUFB3",
+					"expanded_url": "https://twitter.com/aegpresents/status/1144690961097691138/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23273,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1144690636466995200/pl/52UwdWwRtlfG9duO.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1144690636466995200/vid/480x480/c8PysF767TygADsc.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1144690636466995200/vid/320x320/MA-NgdWguCWZIQc5.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1144690636466995200/vid/720x720/Pb1oOv1LhdTc-rc6.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700084087,
+			"id_str": "700084087",
+			"name": "AEG Presents",
+			"screen_name": "aegpresents",
+			"location": "",
+			"description": "World renowned live entertainment.",
+			"url": "https://t.co/pZfoLj4EKV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pZfoLj4EKV",
+							"expanded_url": "http://www.aegpresents.com",
+							"display_url": "aegpresents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7633,
+			"friends_count": 150,
+			"listed_count": 62,
+			"created_at": "Tue Jul 17 00:53:41 +0000 2012",
+			"favourites_count": 2845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836683791888330752/ofhhU8u7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836683791888330752/ofhhU8u7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700084087/1488315642",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1981,
+		"favorite_count": 3777,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tickets for @tiffanyyoung's Magnetic Moon Tour are on sale now at https://t.co/VhV6Go71YV 🌙 https://t.co/d0pGRPUFB3"
+	},
+	{
+		"created_at": "Fri Jun 28 19:14:58 +0000 2019",
+		"id": 1144680881908404200,
+		"id_str": "1144685641587920896",
+		"full_text": "The Magnetic Moon Tour🌙💖 all tickets are live today ! I’m excited for this https://t.co/Itq6Km3vOm\n#TiffanyMagneticMoon https://t.co/kQsDd5taMF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TiffanyMagneticMoon",
+					"indices": [
+						99,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Itq6Km3vOm",
+					"expanded_url": "https://tiffanyyoung.com/calendar/",
+					"display_url": "tiffanyyoung.com/calendar/",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1144680877877633000,
+					"id_str": "1144680877877633024",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/D-K5MZMUIAAmyic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-K5MZMUIAAmyic.jpg",
+					"url": "https://t.co/kQsDd5taMF",
+					"display_url": "pic.twitter.com/kQsDd5taMF",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1144680881908404224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144680877877633000,
+					"id_str": "1144680877877633024",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/D-K5MZMUIAAmyic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-K5MZMUIAAmyic.jpg",
+					"url": "https://t.co/kQsDd5taMF",
+					"display_url": "pic.twitter.com/kQsDd5taMF",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1144680881908404224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "THE LIPS ON LIPS EP is out now 💋❤️",
+			"url": "https://t.co/d1hNggguxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1hNggguxv",
+							"expanded_url": "http://smarturl.it/lipsep",
+							"display_url": "smarturl.it/lipsep",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293435,
+			"friends_count": 151,
+			"listed_count": 850,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 1852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098813769143054337/QviaZYV8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1550120511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3860,
+		"favorite_count": 7725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Magnetic Moon Tour🌙💖 all tickets are live today ! I’m excited for this https://t.co/Itq6Km3vOm\n#TiffanyMagneticMoon https://t.co/kQsDd5taMF"
+	},
+	{
 		"created_at": "Fri Jun 28 11:15:02 +0000 2019",
 		"id": 1144552817870327800,
 		"id_str": "1144564859960537088",
