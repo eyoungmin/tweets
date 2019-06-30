@@ -1,6 +1,956 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 30 08:30:45 +0000 2019",
+		"id": 1145134857707753500,
+		"id_str": "1145248292034400257",
+		"full_text": "이른바 ‘체험형 동물카페’. 개와 고양이에 그쳤던 카페 내 동물은 라쿤과 왈라비, 북극여우 등 야생동물을 아우른다. 이들은 입장료를 내고 들어온 방문객들에게 ‘만짐’을 당하기 위해 살아간다. 이들에게 허용된 공간은 비좁은 아크릴 케이지가 전부다.\n\nhttps://t.co/AymBtIZ5ds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AymBtIZ5ds",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201906290951011&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758741,
+			"friends_count": 82498,
+			"listed_count": 6549,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2297,
+		"favorite_count": 536,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이른바 ‘체험형 동물카페’. 개와 고양이에 그쳤던 카페 내 동물은 라쿤과 왈라비, 북극여우 등 야생동물을 아우른다. 이들은 입장료를 내고 들어온 방문객들에게 ‘만짐’을 당하기 위해 살아간다. 이들에게 허용된 공간은 비좁은 아크릴 케이지가 전부다.\n\nhttps://t.co/AymBtIZ5ds"
+	},
+	{
+		"created_at": "Sun Jun 30 06:14:58 +0000 2019",
+		"id": 1145201220945997800,
+		"id_str": "1145214123678081024",
+		"full_text": "“오늘 우리 천천히, 여유롭게 서로에게 힘이 되어주는 시간 가져요.” \n#이달의소녀 #OliviaHye 와 함께하는 시간 잊지 않으셨죠? 수박같은 오빛! 사인회에서 만나요🤗▶️ https://t.co/svvoesj1q1\n\n#LOONA #올리비아혜 https://t.co/1Jo21r9SZG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/svvoesj1q1",
+					"expanded_url": "https://www.facebook.com/289822978061901/posts/838017773242416?s=100013292502787&sfns=mo",
+					"display_url": "facebook.com/28982297806190…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1145200938476429300,
+					"id_str": "1145200938476429313",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D-SSL55U4AEmRni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-SSL55U4AEmRni.jpg",
+					"url": "https://t.co/1Jo21r9SZG",
+					"display_url": "pic.twitter.com/1Jo21r9SZG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1145201220945997824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145200938476429300,
+					"id_str": "1145200938476429313",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D-SSL55U4AEmRni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-SSL55U4AEmRni.jpg",
+					"url": "https://t.co/1Jo21r9SZG",
+					"display_url": "pic.twitter.com/1Jo21r9SZG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1145201220945997824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145200938488979500,
+					"id_str": "1145200938488979456",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D-SSL58UYAAw9No.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-SSL58UYAAw9No.jpg",
+					"url": "https://t.co/1Jo21r9SZG",
+					"display_url": "pic.twitter.com/1Jo21r9SZG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1145201220945997824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316600,
+			"friends_count": 0,
+			"listed_count": 4276,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7059,
+		"favorite_count": 17784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“오늘 우리 천천히, 여유롭게 서로에게 힘이 되어주는 시간 가져요.” \n#이달의소녀 #OliviaHye 와 함께하는 시간 잊지 않으셨죠? 수박같은 오빛! 사인회에서 만나요🤗▶️ https://t.co/svvoesj1q1\n\n#LOONA #올리비아혜 https://t.co/1Jo21r9SZG"
+	},
+	{
+		"created_at": "Sun Jun 30 02:13:25 +0000 2019",
+		"id": 1144406590784565200,
+		"id_str": "1145153332505280512",
+		"full_text": "@King_of_10duck 헉 정말요ㅠㅠ \n\nhttps://t.co/YlTHf4rylh\n\n이건 riss 링큰데 이쪽은 되나요..?ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "King_of_10duck",
+					"name": "짐살라왕",
+					"id": 2744408436,
+					"id_str": "2744408436",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YlTHf4rylh",
+					"expanded_url": "http://www.riss.kr/link?id=A105970909",
+					"display_url": "riss.kr/link?id=A10597…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1144406200945037300,
+		"in_reply_to_status_id_str": "1144406200945037312",
+		"in_reply_to_user_id": 2744408436,
+		"in_reply_to_user_id_str": "2744408436",
+		"in_reply_to_screen_name": "King_of_10duck",
+		"user": {
+			"id": 726457297765994500,
+			"id_str": "726457297765994496",
+			"name": "경덩이",
+			"screen_name": "RxR1481",
+			"location": "RPS",
+			"description": "RRRRRedvelvet",
+			"url": "https://t.co/QRsY0cRuvX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QRsY0cRuvX",
+							"expanded_url": "http://naver.me/Ftg4LffA",
+							"display_url": "naver.me/Ftg4LffA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1108,
+			"friends_count": 177,
+			"listed_count": 5,
+			"created_at": "Sat Apr 30 17:04:51 +0000 2016",
+			"favourites_count": 7511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100540644119007234/TH7g9NcY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100540644119007234/TH7g9NcY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/726457297765994496/1489662380",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 84,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@King_of_10duck 헉 정말요ㅠㅠ \n\nhttps://t.co/YlTHf4rylh\n\n이건 riss 링큰데 이쪽은 되나요..?ㅠㅠ"
+	},
+	{
+		"created_at": "Sun Jun 30 02:13:21 +0000 2019",
+		"id": 1144405926595588100,
+		"id_str": "1145153317737123840",
+		"full_text": "정소연 연구자가 기고한 '3세대 여덕의 탄생' 이라는 글인데 레드벨벳 팬이시고 트위터리안이고  꼭 읽어봐 주세요 너무 재밋다.. 첫장 읽고 멈출 수가 없었다\n\nhttps://t.co/JIhVIYYYXd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JIhVIYYYXd",
+					"expanded_url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07584455&language=ko_KR",
+					"display_url": "dbpia.co.kr/journal/articl…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 726457297765994500,
+			"id_str": "726457297765994496",
+			"name": "경덩이",
+			"screen_name": "RxR1481",
+			"location": "RPS",
+			"description": "RRRRRedvelvet",
+			"url": "https://t.co/QRsY0cRuvX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QRsY0cRuvX",
+							"expanded_url": "http://naver.me/Ftg4LffA",
+							"display_url": "naver.me/Ftg4LffA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1108,
+			"friends_count": 177,
+			"listed_count": 5,
+			"created_at": "Sat Apr 30 17:04:51 +0000 2016",
+			"favourites_count": 7511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100540644119007234/TH7g9NcY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100540644119007234/TH7g9NcY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/726457297765994496/1489662380",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1503,
+		"favorite_count": 1192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정소연 연구자가 기고한 '3세대 여덕의 탄생' 이라는 글인데 레드벨벳 팬이시고 트위터리안이고  꼭 읽어봐 주세요 너무 재밋다.. 첫장 읽고 멈출 수가 없었다\n\nhttps://t.co/JIhVIYYYXd"
+	},
+	{
+		"created_at": "Sun Jun 30 01:54:43 +0000 2019",
+		"id": 1144944275584503800,
+		"id_str": "1145148629373448193",
+		"full_text": "베스킨라빈스 광고가 소아성애적 코드를 담고 있다고 항의하는 사람들이 누군가는 유난스럽다고 느껴질 수 있겠지만, 여기는 10세 아동과의 성관계가 합의된 성관계라는 판례가 나왔던 나라 아닌가?  이 정도 유난을 떨어야 현실의 아동들이 조금이나마 위험에 덜 노출될 수 있을거다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110121306,
+			"id_str": "110121306",
+			"name": "서밤",
+			"screen_name": "alreadytaken0_0",
+			"location": "",
+			"description": "'나에게 다정한 하루’ 작가. 틈틈이 그림일기 그립니다, 팟캐스트 '서늘한 마음썰'. 인스타 @seobam_breeze 반말멘션과 알계는 자동차단중",
+			"url": "https://t.co/hTTYmppQlo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hTTYmppQlo",
+							"expanded_url": "http://m.blog.naver.com/leeojsh",
+							"display_url": "m.blog.naver.com/leeojsh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28488,
+			"friends_count": 1448,
+			"listed_count": 113,
+			"created_at": "Sun Jan 31 12:11:21 +0000 2010",
+			"favourites_count": 24591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110121306/1489064492",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16392,
+		"favorite_count": 4249,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "베스킨라빈스 광고가 소아성애적 코드를 담고 있다고 항의하는 사람들이 누군가는 유난스럽다고 느껴질 수 있겠지만, 여기는 10세 아동과의 성관계가 합의된 성관계라는 판례가 나왔던 나라 아닌가?  이 정도 유난을 떨어야 현실의 아동들이 조금이나마 위험에 덜 노출될 수 있을거다."
+	},
+	{
+		"created_at": "Sun Jun 30 01:54:30 +0000 2019",
+		"id": 1144946819589263400,
+		"id_str": "1145148572528025601",
+		"full_text": "https://t.co/nzCyxLj4Xr\n한겨레 칼럼이 올라왔습니다. 배스킨라빈스 여아모델 문제와 관련해 읽어보셨으면 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nzCyxLj4Xr",
+					"expanded_url": "http://m.hani.co.kr/arti/culture/book/899677.html#cb",
+					"display_url": "m.hani.co.kr/arti/culture/b…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 752801459796795400,
+			"id_str": "752801459796795393",
+			"name": "봄알람 Baume à l'âme",
+			"screen_name": "baumealame",
+			"location": "대한민국 서울",
+			"description": "『우리에겐 언어가 필요하다: 입이 트이는 페미니즘』, 『유럽 낙태 여행』, 『꿈을 그리는 여자들: 일러스트 위인전』 등을 출간한 페미니즘 출판사. 문의는 we@baumealame.com 으로 보내주세요.",
+			"url": "https://t.co/Tn4QOcJb99",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tn4QOcJb99",
+							"expanded_url": "http://baumealame.com",
+							"display_url": "baumealame.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5479,
+			"friends_count": 553,
+			"listed_count": 37,
+			"created_at": "Tue Jul 12 09:47:09 +0000 2016",
+			"favourites_count": 2616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129324325943701504/j3sgESWx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129324325943701504/j3sgESWx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/752801459796795393/1551686710",
+			"profile_link_color": "50DC82",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1741,
+		"favorite_count": 596,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/nzCyxLj4Xr\n한겨레 칼럼이 올라왔습니다. 배스킨라빈스 여아모델 문제와 관련해 읽어보셨으면 합니다."
+	},
+	{
+		"created_at": "Sun Jun 30 01:51:59 +0000 2019",
+		"id": 1144873315527303200,
+		"id_str": "1145147942124150784",
+		"full_text": "배스킨라빈스가 공개한 새 광고 영상이 아동 성적대상화 논란에 휩싸였다. 논란이 일자 업체 측은 영상을 삭제했다. \n\nhttps://t.co/D4vUZxOtYr https://t.co/2IcDvdzMib",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D4vUZxOtYr",
+					"expanded_url": "http://www.womennews.co.kr/news/191404",
+					"display_url": "womennews.co.kr/news/191404",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1144873293373038600,
+					"id_str": "1144873293373038592",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D-NoMcxU4AAn0CN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-NoMcxU4AAn0CN.jpg",
+					"url": "https://t.co/2IcDvdzMib",
+					"display_url": "pic.twitter.com/2IcDvdzMib",
+					"expanded_url": "https://twitter.com/wnewskr/status/1144873315527303169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144873293373038600,
+					"id_str": "1144873293373038592",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D-NoMcxU4AAn0CN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-NoMcxU4AAn0CN.jpg",
+					"url": "https://t.co/2IcDvdzMib",
+					"display_url": "pic.twitter.com/2IcDvdzMib",
+					"expanded_url": "https://twitter.com/wnewskr/status/1144873315527303169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200360,
+			"friends_count": 3619,
+			"listed_count": 369,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4596,
+		"favorite_count": 637,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "배스킨라빈스가 공개한 새 광고 영상이 아동 성적대상화 논란에 휩싸였다. 논란이 일자 업체 측은 영상을 삭제했다. \n\nhttps://t.co/D4vUZxOtYr https://t.co/2IcDvdzMib"
+	},
+	{
 		"created_at": "Sat Jun 29 14:14:59 +0000 2019",
 		"id": 1144966644847878100,
 		"id_str": "1144972533093064710",
