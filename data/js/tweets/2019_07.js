@@ -1,6 +1,1421 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 04 12:15:26 +0000 2019",
+		"id": 1146743137773031400,
+		"id_str": "1146754388695891968",
+		"full_text": "[YERI Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/z1mnfZrTd4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"text": "ZIPCODE",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "Zimzalabim_In_Public",
+					"indices": [
+						113,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z1mnfZrTd4",
+					"expanded_url": "https://youtu.be/IFfqGX9WPRA",
+					"display_url": "youtu.be/IFfqGX9WPRA",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1707359,
+			"friends_count": 2,
+			"listed_count": 5057,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1847,
+		"favorite_count": 5032,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[YERI Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/z1mnfZrTd4"
+	},
+	{
+		"created_at": "Thu Jul 04 12:15:18 +0000 2019",
+		"id": 1146743119611715600,
+		"id_str": "1146754354109669376",
+		"full_text": "[JOY Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/arnqJXC3us",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "ZIPCODE",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "Zimzalabim_In_Public",
+					"indices": [
+						112,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/arnqJXC3us",
+					"expanded_url": "https://youtu.be/o7l9i8LnGU4",
+					"display_url": "youtu.be/o7l9i8LnGU4",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1707359,
+			"friends_count": 2,
+			"listed_count": 5057,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1827,
+		"favorite_count": 4609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[JOY Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/arnqJXC3us"
+	},
+	{
+		"created_at": "Thu Jul 04 12:15:09 +0000 2019",
+		"id": 1146743093514784800,
+		"id_str": "1146754315878633474",
+		"full_text": "[WENDY Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/NMY75rctQX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "ZIPCODE",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "Zimzalabim_In_Public",
+					"indices": [
+						114,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMY75rctQX",
+					"expanded_url": "http://www.youtube.com/embed/vo5LgD7IywY",
+					"display_url": "youtube.com/embed/vo5LgD7I…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1707359,
+			"friends_count": 2,
+			"listed_count": 5057,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2038,
+		"favorite_count": 4939,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[WENDY Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/NMY75rctQX"
+	},
+	{
+		"created_at": "Thu Jul 04 12:15:02 +0000 2019",
+		"id": 1146743063038984200,
+		"id_str": "1146754285910351874",
+		"full_text": "[SEULGI Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/jjRsQsgmIz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "ZIPCODE",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "Zimzalabim_In_Public",
+					"indices": [
+						115,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jjRsQsgmIz",
+					"expanded_url": "https://youtu.be/fei5bLkulPw",
+					"display_url": "youtu.be/fei5bLkulPw",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1707359,
+			"friends_count": 2,
+			"listed_count": 5057,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2119,
+		"favorite_count": 5711,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SEULGI Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/jjRsQsgmIz"
+	},
+	{
+		"created_at": "Thu Jul 04 12:14:58 +0000 2019",
+		"id": 1146743015957917700,
+		"id_str": "1146754272765386752",
+		"full_text": "[IRENE Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/09ybx0vtxU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "ZIPCODE",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "Zimzalabim_In_Public",
+					"indices": [
+						114,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/09ybx0vtxU",
+					"expanded_url": "https://youtu.be/Pvyma3nA6MI",
+					"display_url": "youtu.be/Pvyma3nA6MI",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1707359,
+			"friends_count": 2,
+			"listed_count": 5057,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2135,
+		"favorite_count": 5432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IRENE Focused Cam] Red Velvet 레드벨벳 ‘짐살라빔 (Zimzalabim)’ @ ZIP.CODE : SEOUL\n\n#RedVelvet #짐살라빔 #Zimzalabim #ZIPCODE #Zimzalabim_In_Public\n\nhttps://t.co/09ybx0vtxU"
+	},
+	{
+		"created_at": "Thu Jul 04 09:11:06 +0000 2019",
+		"id": 1146708000519970800,
+		"id_str": "1146708000519970816",
+		"full_text": "브랜든 콘스탄틴의 시 \"반대말 놀이\" by. Brendan Constantine\nhttps://t.co/6e4HMBNrwt\n#TED #테드 #한국어자막 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6e4HMBNrwt",
+					"expanded_url": "https://www.ted.com/talks/brendan_constantine_the_opposites_game?language=ko",
+					"display_url": "ted.com/talks/brendan_…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브랜든 콘스탄틴의 시 \"반대말 놀이\" by. Brendan Constantine\nhttps://t.co/6e4HMBNrwt\n#TED #테드 #한국어자막 #minfav"
+	},
+	{
+		"created_at": "Thu Jul 04 03:11:31 +0000 2019",
+		"id": 1146617508289548300,
+		"id_str": "1146617508289548288",
+		"full_text": "사피아 엘힐로(Safia Elhillo)의 \"물을 이용하여\" by. Safia Elhillo\nhttps://t.co/t0qgbr2FBB\n#TED #테드 #한국어자막 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t0qgbr2FBB",
+					"expanded_url": "https://www.ted.com/talks/safia_elhillo_to_make_use_of_water?language=ko",
+					"display_url": "ted.com/talks/safia_el…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사피아 엘힐로(Safia Elhillo)의 \"물을 이용하여\" by. Safia Elhillo\nhttps://t.co/t0qgbr2FBB\n#TED #테드 #한국어자막 #minfav"
+	},
+	{
+		"created_at": "Thu Jul 04 02:14:58 +0000 2019",
+		"id": 1146590602277969900,
+		"id_str": "1146603276982525958",
+		"full_text": "출구 없는 매력의 임윤아가 영화 [엑시트]에 함께 출연하는 배우 조정석과 매거진 ‘하이컷’ 표지를 장식했습니다!\n7월 31일 개봉될 임윤아의 영화 [엑시트] 많이 기대해주세요~!🎬\n\n#윤아 #YOONA #LIMYOONA #임윤아 #GirlsGeneration #소녀시대 #엑시트 #EXIT https://t.co/9lIAvu3ygz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "엑시트",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "EXIT",
+					"indices": [
+						156,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146589657070628900,
+					"id_str": "1146589657070628864",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/D-mBN9zU8AAwq-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-mBN9zU8AAwq-w.jpg",
+					"url": "https://t.co/9lIAvu3ygz",
+					"display_url": "pic.twitter.com/9lIAvu3ygz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1146590602277969920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 1186,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1186,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146589657070628900,
+					"id_str": "1146589657070628864",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/D-mBN9zU8AAwq-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-mBN9zU8AAwq-w.jpg",
+					"url": "https://t.co/9lIAvu3ygz",
+					"display_url": "pic.twitter.com/9lIAvu3ygz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1146590602277969920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 1186,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1186,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146589677329113100,
+					"id_str": "1146589677329113088",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/D-mBPJRU4AAMS6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-mBPJRU4AAMS6D.jpg",
+					"url": "https://t.co/9lIAvu3ygz",
+					"display_url": "pic.twitter.com/9lIAvu3ygz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1146590602277969920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1214,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146589701903548400,
+					"id_str": "1146589701903548416",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/D-mBQk0VAAArU4s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-mBQk0VAAArU4s.jpg",
+					"url": "https://t.co/9lIAvu3ygz",
+					"display_url": "pic.twitter.com/9lIAvu3ygz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1146590602277969920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 727,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 582,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146589720467480600,
+					"id_str": "1146589720467480581",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/D-mBRp-UIAUvznF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-mBRp-UIAUvznF.jpg",
+					"url": "https://t.co/9lIAvu3ygz",
+					"display_url": "pic.twitter.com/9lIAvu3ygz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1146590602277969920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 1259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3438052,
+			"friends_count": 4,
+			"listed_count": 5721,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1559102525",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6924,
+		"favorite_count": 16443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "출구 없는 매력의 임윤아가 영화 [엑시트]에 함께 출연하는 배우 조정석과 매거진 ‘하이컷’ 표지를 장식했습니다!\n7월 31일 개봉될 임윤아의 영화 [엑시트] 많이 기대해주세요~!🎬\n\n#윤아 #YOONA #LIMYOONA #임윤아 #GirlsGeneration #소녀시대 #엑시트 #EXIT https://t.co/9lIAvu3ygz"
+	},
+	{
+		"created_at": "Thu Jul 04 01:56:18 +0000 2019",
+		"id": 1146598579202641900,
+		"id_str": "1146598579202641921",
+		"full_text": "[청원답변공개LIVE] '성폭행 살인 가해자 사형', '제주 전 남편 살인 가해자 사형', '동물학대 강력처벌 및 대책마련 촉구' 청원답변\nhttps://t.co/RxZelaLc4P\n#청와대 #국민청원 #답변 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청와대",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "국민청원",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "답변",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RxZelaLc4P",
+					"expanded_url": "https://www.youtube.com/watch?v=uTN2JnUP8GE",
+					"display_url": "youtube.com/watch?v=uTN2Jn…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[청원답변공개LIVE] '성폭행 살인 가해자 사형', '제주 전 남편 살인 가해자 사형', '동물학대 강력처벌 및 대책마련 촉구' 청원답변\nhttps://t.co/RxZelaLc4P\n#청와대 #국민청원 #답변 #minfav"
+	},
+	{
 		"created_at": "Wed Jul 03 15:06:11 +0000 2019",
 		"id": 1146434972426866700,
 		"id_str": "1146434972426866688",
@@ -2599,7 +4014,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 2580690319,
 			"id_str": "2580690319",
-			"name": "야나(Я Яна)🏳️‍🌈",
+			"name": "야나(Я Яна)🏳️🌈",
 			"screen_name": "_paper_bird_",
 			"location": "",
 			"description": "혐오 안삽니다. 남혐이나 헤테로혐은 성립할 수가 없성... (っ˘ڡ˘ς)",
