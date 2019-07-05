@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 05 09:50:16 +0000 2019",
+		"id": 1146783202951827500,
+		"id_str": "1147080242286043136",
+		"full_text": "모노토리에서 진행하는 프로듀싱의 여러형태 섹션중 예림이 언급 부분!\n(예림이와 손고은 작곡가님 인연 및 스물에게 비하인드 정도가 될 것 같아요!) https://t.co/voepcSwtX9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146782433481596900,
+					"id_str": "1146782433481596929",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146782433481596929/pu/img/9QK7oOXxP3PjQko0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146782433481596929/pu/img/9QK7oOXxP3PjQko0.jpg",
+					"url": "https://t.co/voepcSwtX9",
+					"display_url": "pic.twitter.com/voepcSwtX9",
+					"expanded_url": "https://twitter.com/hulkumilku/status/1146783202951827456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146782433481596900,
+					"id_str": "1146782433481596929",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146782433481596929/pu/img/9QK7oOXxP3PjQko0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146782433481596929/pu/img/9QK7oOXxP3PjQko0.jpg",
+					"url": "https://t.co/voepcSwtX9",
+					"display_url": "pic.twitter.com/voepcSwtX9",
+					"expanded_url": "https://twitter.com/hulkumilku/status/1146783202951827456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 70745,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1146782433481596929/pu/vid/640x360/AlRRas_CiN1LiAL7.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1146782433481596929/pu/pl/xBiJVL7_g2oYle_v.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1146782433481596929/pu/vid/480x270/Mc5ai23XOCFCy1HE.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1146782433481596929/pu/vid/1280x720/wnbrGLO9ZMoVSeNG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 892012179708301300,
+			"id_str": "892012179708301312",
+			"name": "익명의 둥빠",
+			"screen_name": "hulkumilku",
+			"location": "MY PUPPY HAETNIM",
+			"description": "I’M JOY. I’M YOUR JOY. YOU’RE MY JOY!! 🐤🐥🍀🍃💡🥝💚 💣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Mon Jul 31 13:20:51 +0000 2017",
+			"favourites_count": 955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040645556018733056/qoOYa9L__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040645556018733056/qoOYa9L__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892012179708301312/1558970265",
+			"profile_link_color": "5C7148",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모노토리에서 진행하는 프로듀싱의 여러형태 섹션중 예림이 언급 부분!\n(예림이와 손고은 작곡가님 인연 및 스물에게 비하인드 정도가 될 것 같아요!) https://t.co/voepcSwtX9"
+	},
+	{
+		"created_at": "Fri Jul 05 03:02:08 +0000 2019",
+		"id": 1146555914394017800,
+		"id_str": "1146977535361597443",
+		"full_text": "\"'너희들 공부 열심히 해서 판사나 의사 될래, 아니면 저기 급식 아줌마처럼 될래?' 학교 선생님이 하는 말을 우리 딸이 들은 거에요.\"\n\n전체 영상은 ▶ https://t.co/ufRNUfyMXZ https://t.co/Ip2GKsj3Yd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ufRNUfyMXZ",
+					"expanded_url": "https://youtu.be/EeZ7ERg2YUc",
+					"display_url": "youtu.be/EeZ7ERg2YUc",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1146554925029085200,
+					"id_str": "1146554925029085186",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146554925029085186/pu/img/tzbk6o6gKZ8t4044.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146554925029085186/pu/img/tzbk6o6gKZ8t4044.jpg",
+					"url": "https://t.co/Ip2GKsj3Yd",
+					"display_url": "pic.twitter.com/Ip2GKsj3Yd",
+					"expanded_url": "https://twitter.com/kyunghyang/status/1146555914394017792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146554925029085200,
+					"id_str": "1146554925029085186",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146554925029085186/pu/img/tzbk6o6gKZ8t4044.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146554925029085186/pu/img/tzbk6o6gKZ8t4044.jpg",
+					"url": "https://t.co/Ip2GKsj3Yd",
+					"display_url": "pic.twitter.com/Ip2GKsj3Yd",
+					"expanded_url": "https://twitter.com/kyunghyang/status/1146555914394017792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 61395,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1146554925029085186/pu/vid/1280x720/aqIZn-8_p9C3kyt4.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1146554925029085186/pu/vid/640x360/Fb-DYXMEONKU0Y_6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1146554925029085186/pu/pl/vmz_OEr6fFwqGwch.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1146554925029085186/pu/vid/480x270/WgAaFybN_V-fY4GG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758558,
+			"friends_count": 82429,
+			"listed_count": 6546,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4682,
+		"favorite_count": 1215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"'너희들 공부 열심히 해서 판사나 의사 될래, 아니면 저기 급식 아줌마처럼 될래?' 학교 선생님이 하는 말을 우리 딸이 들은 거에요.\"\n\n전체 영상은 ▶ https://t.co/ufRNUfyMXZ https://t.co/Ip2GKsj3Yd"
+	},
+	{
 		"created_at": "Thu Jul 04 12:15:26 +0000 2019",
 		"id": 1146743137773031400,
 		"id_str": "1146754388695891968",
