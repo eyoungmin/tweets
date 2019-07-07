@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 10:14:58 +0000 2019",
+		"id": 1147798013516996600,
+		"id_str": "1147811236203175937",
+		"full_text": "‘레드벨벳’의 마법처럼 화려한 스테이지☆ ‘짐살라빔’ (출처 : SBS 인기가요 | 네이버TV) \n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim\n\nhttps://t.co/8lUqcg4LYC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay1",
+					"indices": [
+						78,
+						98
+					]
+				},
+				{
+					"text": "짐살라빔",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						105,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8lUqcg4LYC",
+					"expanded_url": "http://naver.me/FirCsTct",
+					"display_url": "naver.me/FirCsTct",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1711675,
+			"friends_count": 2,
+			"listed_count": 5073,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138613499238551553/VKGFG5Rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1560935684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2368,
+		"favorite_count": 8382,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘레드벨벳’의 마법처럼 화려한 스테이지☆ ‘짐살라빔’ (출처 : SBS 인기가요 | 네이버TV) \n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay1 #짐살라빔 #Zimzalabim\n\nhttps://t.co/8lUqcg4LYC"
+	},
+	{
+		"created_at": "Sun Jul 07 09:14:58 +0000 2019",
+		"id": 1147783364750929900,
+		"id_str": "1147796137006522368",
+		"full_text": "Drive vol 1. 무사히 마쳤습니다. \n팀 아도이 모든 스탭과 찾아와주신 관객 여러분 모두 감사합니다. 저희는 좀 더 멋진 공연으로 돌아오겠습니다. 그때 꼭 다시 만나요. 아도이 하면 최고된다. #ADOY https://t.co/i2qqW2U9or",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						112,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147783323160154100,
+					"id_str": "1147783323160154112",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/D-2-2egUEAAWyK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-2-2egUEAAWyK1.jpg",
+					"url": "https://t.co/i2qqW2U9or",
+					"display_url": "pic.twitter.com/i2qqW2U9or",
+					"expanded_url": "https://twitter.com/adoyband/status/1147783364750929922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147783323160154100,
+					"id_str": "1147783323160154112",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/D-2-2egUEAAWyK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-2-2egUEAAWyK1.jpg",
+					"url": "https://t.co/i2qqW2U9or",
+					"display_url": "pic.twitter.com/i2qqW2U9or",
+					"expanded_url": "https://twitter.com/adoyband/status/1147783364750929922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147783333939564500,
+					"id_str": "1147783333939564544",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/D-2-3GqU0AA4hHp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-2-3GqU0AA4hHp.jpg",
+					"url": "https://t.co/i2qqW2U9or",
+					"display_url": "pic.twitter.com/i2qqW2U9or",
+					"expanded_url": "https://twitter.com/adoyband/status/1147783364750929922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147783344521805800,
+					"id_str": "1147783344521805824",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/D-2-3uFVAAAiWvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-2-3uFVAAAiWvo.jpg",
+					"url": "https://t.co/i2qqW2U9or",
+					"display_url": "pic.twitter.com/i2qqW2U9or",
+					"expanded_url": "https://twitter.com/adoyband/status/1147783364750929922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 797,
+							"h": 531,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 797,
+							"h": 531,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147783354701402100,
+					"id_str": "1147783354701402113",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/D-2-4UAVUAEYiNQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-2-4UAVUAEYiNQ.jpg",
+					"url": "https://t.co/i2qqW2U9or",
+					"display_url": "pic.twitter.com/i2qqW2U9or",
+					"expanded_url": "https://twitter.com/adoyband/status/1147783364750929922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 809,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2531,
+			"friends_count": 566,
+			"listed_count": 28,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Drive vol 1. 무사히 마쳤습니다. \n팀 아도이 모든 스탭과 찾아와주신 관객 여러분 모두 감사합니다. 저희는 좀 더 멋진 공연으로 돌아오겠습니다. 그때 꼭 다시 만나요. 아도이 하면 최고된다. #ADOY https://t.co/i2qqW2U9or"
+	},
+	{
 		"created_at": "Sat Jul 06 14:14:58 +0000 2019",
 		"id": 1147506031271899100,
 		"id_str": "1147509246675890176",
