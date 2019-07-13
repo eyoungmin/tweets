@@ -1,6 +1,1874 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 11:22:49 +0000 2019",
+		"id": 1149956364334030800,
+		"id_str": "1150002638445920256",
+		"full_text": "빌보드 Hot 100 차트 5위를 기록한 곡 ‘Boo’d Up’ 의 주인공, 그래미 어워드 수상에 빛나는 차세대 R&amp;B 슈퍼스타 Ella Mai #엘라마이 의 첫 내한 공연\nㅤ\n날짜 | 2019.11.02 (토)\n장소 | YES24 LIVE HALL\n티켓 | 조기예매 77,000 일반예매 88,000\n예매 | 7/15 낮12시 예스24\nhttps://t.co/DUEPIJ4ZM7 https://t.co/0ZeFx553Rn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엘라마이",
+					"indices": [
+						85,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DUEPIJ4ZM7",
+					"expanded_url": "http://fakevirgin.com/ellamai",
+					"display_url": "fakevirgin.com/ellamai",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149956264253784000,
+					"id_str": "1149956264253784064",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149956264253784064/pu/img/RZyCYD9WAy5ZdUeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149956264253784064/pu/img/RZyCYD9WAy5ZdUeW.jpg",
+					"url": "https://t.co/0ZeFx553Rn",
+					"display_url": "pic.twitter.com/0ZeFx553Rn",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1149956364334030848/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 982,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149956264253784000,
+					"id_str": "1149956264253784064",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149956264253784064/pu/img/RZyCYD9WAy5ZdUeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149956264253784064/pu/img/RZyCYD9WAy5ZdUeW.jpg",
+					"url": "https://t.co/0ZeFx553Rn",
+					"display_url": "pic.twitter.com/0ZeFx553Rn",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1149956364334030848/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 982,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							491,
+							540
+						],
+						"duration_millis": 36884,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149956264253784064/pu/vid/320x350/yV5qcXPfcEhdtsWb.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149956264253784064/pu/vid/720x790/Gf-iAgYS7KvGPlv5.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149956264253784064/pu/vid/360x394/mkrQcd_fccel6N9e.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1149956264253784064/pu/pl/1ZXWNpSs59ePbzu1.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "7/27-7/28 HOLIDAY LAND FESTIVAL • 8/15 MAHALIA • 8/20 FKJ • 11/2 ELLA MAI • 11/29 GUS DAPPERTON",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1489,
+			"friends_count": 50,
+			"listed_count": 16,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌보드 Hot 100 차트 5위를 기록한 곡 ‘Boo’d Up’ 의 주인공, 그래미 어워드 수상에 빛나는 차세대 R&amp;B 슈퍼스타 Ella Mai #엘라마이 의 첫 내한 공연\nㅤ\n날짜 | 2019.11.02 (토)\n장소 | YES24 LIVE HALL\n티켓 | 조기예매 77,000 일반예매 88,000\n예매 | 7/15 낮12시 예스24\nhttps://t.co/DUEPIJ4ZM7 https://t.co/0ZeFx553Rn"
+	},
+	{
+		"created_at": "Sat Jul 13 03:14:58 +0000 2019",
+		"id": 1149877396595597300,
+		"id_str": "1149879867766444032",
+		"full_text": "즐거운 주말 보내고 계신가요?\n오빛과 함께하는 행복한 토요일!\n잠시후 오후3시 V앱에서 만나용 ♪\n\nhttps://t.co/1avNbRiyee\n\n#이달의소녀 #LOONA https://t.co/xP9GrETYVJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1avNbRiyee",
+					"expanded_url": "https://www.vlive.tv/video/139554",
+					"display_url": "vlive.tv/video/139554",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149877112469200900,
+					"id_str": "1149877112469200896",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/D_UvJDgUIAAkKCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_UvJDgUIAAkKCe.jpg",
+					"url": "https://t.co/xP9GrETYVJ",
+					"display_url": "pic.twitter.com/xP9GrETYVJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1149877396595597313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149877112469200900,
+					"id_str": "1149877112469200896",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/D_UvJDgUIAAkKCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_UvJDgUIAAkKCe.jpg",
+					"url": "https://t.co/xP9GrETYVJ",
+					"display_url": "pic.twitter.com/xP9GrETYVJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1149877396595597313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321715,
+			"friends_count": 0,
+			"listed_count": 4353,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6161,
+		"favorite_count": 16459,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "즐거운 주말 보내고 계신가요?\n오빛과 함께하는 행복한 토요일!\n잠시후 오후3시 V앱에서 만나용 ♪\n\nhttps://t.co/1avNbRiyee\n\n#이달의소녀 #LOONA https://t.co/xP9GrETYVJ"
+	},
+	{
+		"created_at": "Fri Jul 12 23:31:50 +0000 2019",
+		"id": 1149823713560256500,
+		"id_str": "1149823713560256513",
+		"full_text": "LIM KIM EP 릴리즈\nhttps://t.co/jFqUlPGz1Z @tumblbug\n\n#LIMKIM #김예림 #텀블벅 #펀딩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMKIM",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "텀블벅",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "펀딩",
+					"indices": [
+						68,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tumblbug",
+					"name": "텀블벅",
+					"id": 241848832,
+					"id_str": "241848832",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jFqUlPGz1Z",
+					"expanded_url": "https://www.tumblbug.com/supportlimkim/",
+					"display_url": "tumblbug.com/supportlimkim/",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LIM KIM EP 릴리즈\nhttps://t.co/jFqUlPGz1Z @tumblbug\n\n#LIMKIM #김예림 #텀블벅 #펀딩"
+	},
+	{
+		"created_at": "Fri Jul 12 23:20:27 +0000 2019",
+		"id": 1149257056353865700,
+		"id_str": "1149820849463025664",
+		"full_text": "&lt;극장판 샤이닝스타: 새로운 루나퀸의 탄생&gt; 싱얼롱은 관객들이 노래를 따라 부르며 즐기는 이벤트 상영으로, 가사 자막이 입혀진 별도 상영본으로 상영됩니다. 입장 관객분들에겐 야광스틱을 나눠드릴 예정이니, 조용한 영화 관람만을 원하는 관객분들은 7/19 금 13:20 일반 상영을 선택해주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1149255500690706400,
+		"in_reply_to_status_id_str": "1149255500690706432",
+		"in_reply_to_user_id": 123470069,
+		"in_reply_to_user_id_str": "123470069",
+		"in_reply_to_screen_name": "csangsangmadang",
+		"user": {
+			"id": 123470069,
+			"id_str": "123470069",
+			"name": "KT&G 상상마당 시네마",
+			"screen_name": "csangsangmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "",
+			"url": "https://t.co/QfaNWod0Kp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QfaNWod0Kp",
+							"expanded_url": "http://www.sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176102,
+			"friends_count": 5850,
+			"listed_count": 580,
+			"created_at": "Tue Mar 16 05:41:08 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773840506543480833/SMq_1VKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773840506543480833/SMq_1VKG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123470069/1555406337",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;극장판 샤이닝스타: 새로운 루나퀸의 탄생&gt; 싱얼롱은 관객들이 노래를 따라 부르며 즐기는 이벤트 상영으로, 가사 자막이 입혀진 별도 상영본으로 상영됩니다. 입장 관객분들에겐 야광스틱을 나눠드릴 예정이니, 조용한 영화 관람만을 원하는 관객분들은 7/19 금 13:20 일반 상영을 선택해주세요."
+	},
+	{
+		"created_at": "Fri Jul 12 23:20:15 +0000 2019",
+		"id": 1149255500690706400,
+		"id_str": "1149820798602887169",
+		"full_text": "\"최고의 아이돌을 뽑는 루나퀸 대회가 시작됐어!\"\n\n소녀시대, H.O.T, S.E.S, 보아.. SM엔터테인먼트의 레전드 케이팝을 함께 따라 부르면서 즐길 수 있는 애니메이션 &lt;극장판 샤이닝스타: 새로운 루나퀸의 탄생&gt; 7/13 토 15:30 #2019FILMLIVE 음악영화제 단 한 번의 싱얼롱 상영. 예매-맥스무비,예스24 https://t.co/WIiXpeX05B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2019FILMLIVE",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149255392909615100,
+					"id_str": "1149255392909615104",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149255392909615104/pu/img/SsIT6zL-8vua6MhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149255392909615104/pu/img/SsIT6zL-8vua6MhG.jpg",
+					"url": "https://t.co/WIiXpeX05B",
+					"display_url": "pic.twitter.com/WIiXpeX05B",
+					"expanded_url": "https://twitter.com/csangsangmadang/status/1149255500690706432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149255392909615100,
+					"id_str": "1149255392909615104",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149255392909615104/pu/img/SsIT6zL-8vua6MhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149255392909615104/pu/img/SsIT6zL-8vua6MhG.jpg",
+					"url": "https://t.co/WIiXpeX05B",
+					"display_url": "pic.twitter.com/WIiXpeX05B",
+					"expanded_url": "https://twitter.com/csangsangmadang/status/1149255500690706432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 79121,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1149255392909615104/pu/pl/GvnyFwkVMlBz2jNI.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149255392909615104/pu/vid/640x360/ZZvY9uYOvl5WzC5-.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149255392909615104/pu/vid/1280x720/sS6P7y1LGIZ6_POb.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149255392909615104/pu/vid/480x270/1UU8ydg1Wj-87Ixp.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123470069,
+			"id_str": "123470069",
+			"name": "KT&G 상상마당 시네마",
+			"screen_name": "csangsangmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "",
+			"url": "https://t.co/QfaNWod0Kp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QfaNWod0Kp",
+							"expanded_url": "http://www.sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176102,
+			"friends_count": 5850,
+			"listed_count": 580,
+			"created_at": "Tue Mar 16 05:41:08 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773840506543480833/SMq_1VKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773840506543480833/SMq_1VKG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123470069/1555406337",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"최고의 아이돌을 뽑는 루나퀸 대회가 시작됐어!\"\n\n소녀시대, H.O.T, S.E.S, 보아.. SM엔터테인먼트의 레전드 케이팝을 함께 따라 부르면서 즐길 수 있는 애니메이션 &lt;극장판 샤이닝스타: 새로운 루나퀸의 탄생&gt; 7/13 토 15:30 #2019FILMLIVE 음악영화제 단 한 번의 싱얼롱 상영. 예매-맥스무비,예스24 https://t.co/WIiXpeX05B"
+	},
+	{
+		"created_at": "Fri Jul 12 23:18:56 +0000 2019",
+		"id": 1149618255394246700,
+		"id_str": "1149820465268981766",
+		"full_text": "📼 190712 #뮤직뱅크\n\n▪️ #스내핑\n🔗 https://t.co/B2WkyDJfr6\n\n#청하 #CHUNGHA #뮤뱅\n#Flourishing #Snapping\n@KBSMusicBank",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "스내핑",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "뮤뱅",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "Flourishing",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"text": "Snapping",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KBSMusicBank",
+					"name": "뮤직뱅크 (Music Bank)",
+					"id": 52661072,
+					"id_str": "52661072",
+					"indices": [
+						91,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B2WkyDJfr6",
+					"expanded_url": "https://bit.ly/2XYOBXk",
+					"display_url": "bit.ly/2XYOBXk",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104541,
+			"friends_count": 0,
+			"listed_count": 802,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 300,
+		"favorite_count": 1568,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "📼 190712 #뮤직뱅크\n\n▪️ #스내핑\n🔗 https://t.co/B2WkyDJfr6\n\n#청하 #CHUNGHA #뮤뱅\n#Flourishing #Snapping\n@KBSMusicBank"
+	},
+	{
+		"created_at": "Fri Jul 12 23:18:17 +0000 2019",
+		"id": 1149820301301055500,
+		"id_str": "1149820301301055488",
+		"full_text": "꼴보기 싫어...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "꼴보기 싫어..."
+	},
+	{
+		"created_at": "Fri Jul 12 23:17:56 +0000 2019",
+		"id": 1149557105986175000,
+		"id_str": "1149820214181158912",
+		"full_text": "이영돈 PD가 등기이사로 있는 ‘더콘텐츠메이커’는 그가 사과 기자간담회를 열기 전인 지난달 12일부터 16일까지 개인투자자 60명으로부터 2억5900여만원을 투자받는데 성공했다.\n\nhttps://t.co/jQQ4thwfJN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jQQ4thwfJN",
+					"expanded_url": "http://biz.khan.co.kr/khan_art_view.html?artid=201907121307001&code=920301",
+					"display_url": "biz.khan.co.kr/khan_art_view.…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758336,
+			"friends_count": 82371,
+			"listed_count": 6544,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이영돈 PD가 등기이사로 있는 ‘더콘텐츠메이커’는 그가 사과 기자간담회를 열기 전인 지난달 12일부터 16일까지 개인투자자 60명으로부터 2억5900여만원을 투자받는데 성공했다.\n\nhttps://t.co/jQQ4thwfJN"
+	},
+	{
+		"created_at": "Fri Jul 12 23:13:12 +0000 2019",
+		"id": 1149613664179085300,
+		"id_str": "1149819025196584960",
+		"full_text": "아니 이젠 하다하다 구체적인 마약류 이름까지 음식에 들먹이고 있네 작작 좀 https://t.co/C0cSdA83ig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149613608818507800,
+					"id_str": "1149613608818507776",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Q_fH6VAAADuxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Q_fH6VAAADuxK.jpg",
+					"url": "https://t.co/C0cSdA83ig",
+					"display_url": "pic.twitter.com/C0cSdA83ig",
+					"expanded_url": "https://twitter.com/Onegai_OKSensei/status/1149613664179085312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 514,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 291,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 808,
+							"h": 1888,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149613608818507800,
+					"id_str": "1149613608818507776",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Q_fH6VAAADuxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Q_fH6VAAADuxK.jpg",
+					"url": "https://t.co/C0cSdA83ig",
+					"display_url": "pic.twitter.com/C0cSdA83ig",
+					"expanded_url": "https://twitter.com/Onegai_OKSensei/status/1149613664179085312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 514,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 291,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 808,
+							"h": 1888,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 708193511149932500,
+			"id_str": "708193511149932544",
+			"name": "Mr. OK",
+			"screen_name": "Onegai_OKSensei",
+			"location": "",
+			"description": "Ong Ong/#GirlsCanDoAnything/B🏳️‍🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 872,
+			"friends_count": 349,
+			"listed_count": 25,
+			"created_at": "Fri Mar 11 07:31:05 +0000 2016",
+			"favourites_count": 204516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 250028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945483866835361792/nBVvVXKw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945483866835361792/nBVvVXKw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/708193511149932544/1514255924",
+			"profile_link_color": "FFC702",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3690,
+		"favorite_count": 250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 이젠 하다하다 구체적인 마약류 이름까지 음식에 들먹이고 있네 작작 좀 https://t.co/C0cSdA83ig"
+	},
+	{
+		"created_at": "Fri Jul 12 23:09:27 +0000 2019",
+		"id": 1149581313235513300,
+		"id_str": "1149818078714159104",
+		"full_text": "하씨는 밀양연극촌장 재직 시절 단원을 성폭행한 의혹을 받아왔다.\n\nhttps://t.co/4EzbPhMJYx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4EzbPhMJYx",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201907121621001&code=960100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758336,
+			"friends_count": 82371,
+			"listed_count": 6544,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하씨는 밀양연극촌장 재직 시절 단원을 성폭행한 의혹을 받아왔다.\n\nhttps://t.co/4EzbPhMJYx"
+	},
+	{
+		"created_at": "Fri Jul 12 23:08:32 +0000 2019",
+		"id": 1149689748199366700,
+		"id_str": "1149817848224571392",
+		"full_text": "불매운동이 별거 아닌거 같아 보여도\n시간이 지나고 쌓이고 쌓이면 이렇게 무서운겁니다 \n\n'50년 라이벌' 매일·남양유업의 뒤바뀐 운명 \n\nhttps://t.co/14PWiqqShb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/14PWiqqShb",
+					"expanded_url": "https://www.hankyung.com/economy/article/2019040792601",
+					"display_url": "hankyung.com/economy/articl…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 708157645186662400,
+			"id_str": "708157645186662400",
+			"name": "®龍°D°스카이®",
+			"screen_name": "sky22j1004",
+			"location": "대한민국",
+			"description": "✨✨사명창조명운(使命創造命運)\n✨✨®️사명이 있기에 운명도 만들어진다®️✨문재인✨이낙연✨김경수✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3152,
+			"friends_count": 2012,
+			"listed_count": 4,
+			"created_at": "Fri Mar 11 05:08:34 +0000 2016",
+			"favourites_count": 19593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149156696238858240/nPxZn-0-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149156696238858240/nPxZn-0-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/708157645186662400/1562815231",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "불매운동이 별거 아닌거 같아 보여도\n시간이 지나고 쌓이고 쌓이면 이렇게 무서운겁니다 \n\n'50년 라이벌' 매일·남양유업의 뒤바뀐 운명 \n\nhttps://t.co/14PWiqqShb"
+	},
+	{
+		"created_at": "Fri Jul 12 23:06:11 +0000 2019",
+		"id": 1149664712411369500,
+		"id_str": "1149817257771409411",
+		"full_text": "\"실제 11세 여자 아이를 보면 톡톡 튀는 상큼함이나 핑크핑크함, 성인 여성과 흡사한 느낌은 찾아보기 어렵다. 어른들이 만든 환상이다. 문제는 점차 우리 사회가 여자 아이에게 이런 이미지를 기대하고, 아이 스스로도 이런 이미지가 되기 위해 노력하게 된다는 점이다.”\n\nhttps://t.co/X6Is62ISkP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X6Is62ISkP",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201907121758001&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758336,
+			"friends_count": 82371,
+			"listed_count": 6544,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5478,
+		"favorite_count": 661,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"실제 11세 여자 아이를 보면 톡톡 튀는 상큼함이나 핑크핑크함, 성인 여성과 흡사한 느낌은 찾아보기 어렵다. 어른들이 만든 환상이다. 문제는 점차 우리 사회가 여자 아이에게 이런 이미지를 기대하고, 아이 스스로도 이런 이미지가 되기 위해 노력하게 된다는 점이다.”\n\nhttps://t.co/X6Is62ISkP"
+	},
+	{
+		"created_at": "Fri Jul 12 23:05:35 +0000 2019",
+		"id": 1149153298647142400,
+		"id_str": "1149817105128124416",
+		"full_text": "2019 그래미 어워드 최우수 R&amp;B 트랙 ‘Boo’d Up’ 의 주인공, 감미로운 90년대 감성을 재현하는 R&amp;B 씬의 무서운 신예, 엘라 메이의 첫 내한 공연\n\n날짜 | 2019.11.02 (토)\n장소 | YES24 LIVE HALL\n티켓 | 조기예매 77,000 일반예매 88,000\n예매 | 7월 15일 낮12시 예스24\nhttps://t.co/ykUNDYNUmP https://t.co/1ROyxmCpTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ykUNDYNUmP",
+					"expanded_url": "http://FAKEVIRGIN.COM",
+					"display_url": "FAKEVIRGIN.COM",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149153289956515800,
+					"id_str": "1149153289956515840",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Kc1ChUYAAymkm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Kc1ChUYAAymkm.jpg",
+					"url": "https://t.co/1ROyxmCpTQ",
+					"display_url": "pic.twitter.com/1ROyxmCpTQ",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1149153298647142401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149153289956515800,
+					"id_str": "1149153289956515840",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Kc1ChUYAAymkm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Kc1ChUYAAymkm.jpg",
+					"url": "https://t.co/1ROyxmCpTQ",
+					"display_url": "pic.twitter.com/1ROyxmCpTQ",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1149153298647142401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "7/27-7/28 HOLIDAY LAND FESTIVAL • 8/15 MAHALIA • 8/20 FKJ • 11/2 ELLA MAI • 11/29 GUS DAPPERTON",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1489,
+			"friends_count": 50,
+			"listed_count": 16,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 그래미 어워드 최우수 R&amp;B 트랙 ‘Boo’d Up’ 의 주인공, 감미로운 90년대 감성을 재현하는 R&amp;B 씬의 무서운 신예, 엘라 메이의 첫 내한 공연\n\n날짜 | 2019.11.02 (토)\n장소 | YES24 LIVE HALL\n티켓 | 조기예매 77,000 일반예매 88,000\n예매 | 7월 15일 낮12시 예스24\nhttps://t.co/ykUNDYNUmP https://t.co/1ROyxmCpTQ"
+	},
+	{
 		"created_at": "Fri Jul 12 14:01:04 +0000 2019",
 		"id": 1148878140267098100,
 		"id_str": "1149680073261195265",
