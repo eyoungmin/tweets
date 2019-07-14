@@ -1,6 +1,1005 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 14 04:50:40 +0000 2019",
+		"id": 1150266337698222100,
+		"id_str": "1150266337698222080",
+		"full_text": "에마 라자루스(Emma Lazarus)의 \"새로운 거상\" by. Emma Lazarus\nhttps://t.co/c1dOGTPK00\n#TED #테드 #한국어자막 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c1dOGTPK00",
+					"expanded_url": "https://www.ted.com/talks/emma_lazarus_new_colossus?language=ko",
+					"display_url": "ted.com/talks/emma_laz…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 823,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에마 라자루스(Emma Lazarus)의 \"새로운 거상\" by. Emma Lazarus\nhttps://t.co/c1dOGTPK00\n#TED #테드 #한국어자막 #minfav"
+	},
+	{
+		"created_at": "Sun Jul 14 02:14:58 +0000 2019",
+		"id": 1150217714952106000,
+		"id_str": "1150227155588210694",
+		"full_text": "Thank you @tiffanyyoung, I brought my parents along since it’s 90% in mandarin. My dad doesn’t cry but my old man was in tears by the end of the movie! My parents also laughed until tears formed. Thanks, I’ll cherish these memories with my parents! #TheFarewell #TiffanyYoung https://t.co/6bo4Nuzs54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheFarewell",
+					"indices": [
+						249,
+						261
+					]
+				},
+				{
+					"text": "TiffanyYoung",
+					"indices": [
+						262,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150217710879400000,
+					"id_str": "1150217710879399936",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Zk6fdUYAACShi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Zk6fdUYAACShi.jpg",
+					"url": "https://t.co/6bo4Nuzs54",
+					"display_url": "pic.twitter.com/6bo4Nuzs54",
+					"expanded_url": "https://twitter.com/skeletaeng/status/1150217714952105992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1943,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150217710879400000,
+					"id_str": "1150217710879399936",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Zk6fdUYAACShi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Zk6fdUYAACShi.jpg",
+					"url": "https://t.co/6bo4Nuzs54",
+					"display_url": "pic.twitter.com/6bo4Nuzs54",
+					"expanded_url": "https://twitter.com/skeletaeng/status/1150217714952105992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1943,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1150217710875230200,
+					"id_str": "1150217710875230209",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Zk6fcUwAEs8JA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Zk6fcUwAEs8JA.jpg",
+					"url": "https://t.co/6bo4Nuzs54",
+					"display_url": "pic.twitter.com/6bo4Nuzs54",
+					"expanded_url": "https://twitter.com/skeletaeng/status/1150217714952105992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3167987857,
+			"id_str": "3167987857",
+			"name": "anne 🌸",
+			"screen_name": "skeletaeng",
+			"location": "💖ocean",
+			"description": "소녀시대. a girl group multi-stan. ☕️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 1128,
+			"listed_count": 1,
+			"created_at": "Wed Apr 22 21:52:30 +0000 2015",
+			"favourites_count": 8958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146052092806586368/XMCBYrQP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146052092806586368/XMCBYrQP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3167987857/1562076061",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 355,
+		"favorite_count": 1281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @tiffanyyoung, I brought my parents along since it’s 90% in mandarin. My dad doesn’t cry but my old man was in tears by the end of the movie! My parents also laughed until tears formed. Thanks, I’ll cherish these memories with my parents! #TheFarewell #TiffanyYoung https://t.co/6bo4Nuzs54"
+	},
+	{
+		"created_at": "Sat Jul 13 21:04:32 +0000 2019",
+		"id": 1150004772587524100,
+		"id_str": "1150149031668019201",
+		"full_text": "✔️ 청하(CHUNG HA) - \" Snapping\"  안무 영상 (Dance Practice)\n\n▶️ https://t.co/K3RtzQTjAy\n✌🏻 https://t.co/AcNqmEj05T\n⚡️ https://t.co/cUyElnYtwx\n\n#청하 #CHUNGHA\n#Flourishing #Snapping\n#안무영상 #DancePractice https://t.co/omNk4NXIH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "Flourishing",
+					"indices": [
+						150,
+						162
+					]
+				},
+				{
+					"text": "Snapping",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "안무영상",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "DancePractice",
+					"indices": [
+						179,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K3RtzQTjAy",
+					"expanded_url": "https://bit.ly/2xKJ3Rx",
+					"display_url": "bit.ly/2xKJ3Rx",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/AcNqmEj05T",
+					"expanded_url": "https://bit.ly/2NUjCYL",
+					"display_url": "bit.ly/2NUjCYL",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/cUyElnYtwx",
+					"expanded_url": "https://bit.ly/2JJJgK7",
+					"display_url": "bit.ly/2JJJgK7",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1150004553649025000,
+					"id_str": "1150004553649025024",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150004553649025024/pu/img/zags47-7_qto5qFk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150004553649025024/pu/img/zags47-7_qto5qFk.jpg",
+					"url": "https://t.co/omNk4NXIH9",
+					"display_url": "pic.twitter.com/omNk4NXIH9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1150004772587524096/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150004553649025000,
+					"id_str": "1150004553649025024",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150004553649025024/pu/img/zags47-7_qto5qFk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150004553649025024/pu/img/zags47-7_qto5qFk.jpg",
+					"url": "https://t.co/omNk4NXIH9",
+					"display_url": "pic.twitter.com/omNk4NXIH9",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1150004772587524096/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140006,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150004553649025024/pu/vid/1280x720/I-gC-3Pv04uMY7Gi.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150004553649025024/pu/vid/640x360/Iz5iD9y6gCg7wASK.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150004553649025024/pu/vid/480x270/-rLDA0zX9fqAeWud.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1150004553649025024/pu/pl/gV4IfjQrxvu8gXfz.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106212,
+			"friends_count": 0,
+			"listed_count": 806,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2666,
+		"favorite_count": 7267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️ 청하(CHUNG HA) - \" Snapping\"  안무 영상 (Dance Practice)\n\n▶️ https://t.co/K3RtzQTjAy\n✌🏻 https://t.co/AcNqmEj05T\n⚡️ https://t.co/cUyElnYtwx\n\n#청하 #CHUNGHA\n#Flourishing #Snapping\n#안무영상 #DancePractice https://t.co/omNk4NXIH9"
+	},
+	{
+		"created_at": "Sat Jul 13 21:03:55 +0000 2019",
+		"id": 1149972500555583500,
+		"id_str": "1150148877351174144",
+		"full_text": "📼 190713 #음악중심\n\n▪️ #스내핑\n🔗 https://t.co/Il91dbLMcH\n\n#청하 #CHUNGHA #음중\n#Flourishing #Snapping\n@MBC_entertain",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음악중심",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "스내핑",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "Flourishing",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"text": "Snapping",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MBC_entertain",
+					"name": "MBC예능연구소",
+					"id": 4144012572,
+					"id_str": "4144012572",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Il91dbLMcH",
+					"expanded_url": "https://bit.ly/2GcV1Il",
+					"display_url": "bit.ly/2GcV1Il",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106212,
+			"friends_count": 0,
+			"listed_count": 806,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 2768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "📼 190713 #음악중심\n\n▪️ #스내핑\n🔗 https://t.co/Il91dbLMcH\n\n#청하 #CHUNGHA #음중\n#Flourishing #Snapping\n@MBC_entertain"
+	},
+	{
+		"created_at": "Sat Jul 13 20:57:44 +0000 2019",
+		"id": 1149516833248047100,
+		"id_str": "1150147319200796672",
+		"full_text": "말식가 전국 떡볶이 맛집 지도\n\n빨간색 : 말식가 선정 3대 떡볶이\n파란색 : 먹었는데 맛집이었음 (일단 프랜차이즈보다 맛있으면 올린다)\n노란색 : 먹어보진 않았지만 동네에서 유명하거나 트위터로 추천 받은 집\n\nhttps://t.co/ABu3TpR7jC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ABu3TpR7jC",
+					"expanded_url": "https://drive.google.com/open?id=1qJdWom5DcrZVlWnjjR_aAIEOHTosfIbw&usp=sharing",
+					"display_url": "drive.google.com/open?id=1qJdWo…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968025069225107500,
+			"id_str": "968025069225107457",
+			"name": "아무말 미식가",
+			"screen_name": "Amumal_epicure",
+			"location": "대한민국 서대문구",
+			"description": "🍴말식가에서 떡볶이 미식가로 닉네임을 바꿔야하나 싶을 정도로 떡볶이 자주 먹음🍴 맛집 리뷰 및 추천 계정. 매운 거 존나 잘 먹습니다. 신전떡볶이 하나도 안 맵죠. 💐 본계 @White___12",
+			"url": "https://t.co/Rm3HerGWLa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rm3HerGWLa",
+							"expanded_url": "http://asked.kr/amumal_epicure",
+							"display_url": "asked.kr/amumal_epicure",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14217,
+			"friends_count": 15,
+			"listed_count": 121,
+			"created_at": "Mon Feb 26 07:28:56 +0000 2018",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968027546997551105/vtxrQLd1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968027546997551105/vtxrQLd1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968025069225107457/1519630403",
+			"profile_link_color": "7B68EE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1545,
+		"favorite_count": 1028,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "말식가 전국 떡볶이 맛집 지도\n\n빨간색 : 말식가 선정 3대 떡볶이\n파란색 : 먹었는데 맛집이었음 (일단 프랜차이즈보다 맛있으면 올린다)\n노란색 : 먹어보진 않았지만 동네에서 유명하거나 트위터로 추천 받은 집\n\nhttps://t.co/ABu3TpR7jC"
+	},
+	{
+		"created_at": "Sat Jul 13 20:54:34 +0000 2019",
+		"id": 1149886292492034000,
+		"id_str": "1150146522002022400",
+		"full_text": "씨네21에 썼습니다. \n\n&lt;악플의 밤&gt;의 근본적인 문제는 단순한 호오 언급, 비판적 시선, 혐오 표현을 몽땅 ‘악플’로 뭉뚱그려 접근한다는 점이다. https://t.co/0AGlOByNY2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0AGlOByNY2",
+					"expanded_url": "http://m.cine21.com/news/view/?mag_id=93363",
+					"display_url": "m.cine21.com/news/view/?mag…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 175400805,
+			"id_str": "175400805",
+			"name": "Jieun",
+			"screen_name": "byguilty",
+			"location": "",
+			"description": "[괜찮지 않습니다]라는 책을 썼습니다.",
+			"url": "https://t.co/r1iyz82GPf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r1iyz82GPf",
+							"expanded_url": "http://mobile.kyobobook.co.kr/showcase/book/KOR/9788925562339",
+							"display_url": "mobile.kyobobook.co.kr/showcase/book/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23753,
+			"friends_count": 3288,
+			"listed_count": 321,
+			"created_at": "Fri Aug 06 14:12:41 +0000 2010",
+			"favourites_count": 12733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/899193180117024768/zu55CSDN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/899193180117024768/zu55CSDN_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "씨네21에 썼습니다. \n\n&lt;악플의 밤&gt;의 근본적인 문제는 단순한 호오 언급, 비판적 시선, 혐오 표현을 몽땅 ‘악플’로 뭉뚱그려 접근한다는 점이다. https://t.co/0AGlOByNY2"
+	},
+	{
 		"created_at": "Sat Jul 13 11:22:49 +0000 2019",
 		"id": 1149956364334030800,
 		"id_str": "1150002638445920256",
@@ -1324,7 +2323,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "Mr. OK",
 			"screen_name": "Onegai_OKSensei",
 			"location": "",
-			"description": "Ong Ong/#GirlsCanDoAnything/B🏳️‍🌈",
+			"description": "Ong Ong/#GirlsCanDoAnything/B🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
