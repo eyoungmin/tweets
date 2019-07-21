@@ -1,6 +1,1969 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 21 14:12:24 +0000 2019",
+		"id": 1152944419349381000,
+		"id_str": "1152944419349381125",
+		"full_text": "Voice (feat.Swings) - Lim Kim\nhttps://t.co/XSeo36TG3W\n#DIGIPEDI #디지페디 #Director",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DIGIPEDI",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "디지페디",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "Director",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XSeo36TG3W",
+					"expanded_url": "https://vimeo.com/349299416",
+					"display_url": "vimeo.com/349299416",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 822,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Voice (feat.Swings) - Lim Kim\nhttps://t.co/XSeo36TG3W\n#DIGIPEDI #디지페디 #Director"
+	},
+	{
+		"created_at": "Sun Jul 21 13:25:26 +0000 2019",
+		"id": 1152932596533219300,
+		"id_str": "1152932596533219330",
+		"full_text": "내 사랑 내 곁에 - 김현식 Cover in Seattle \nhttps://t.co/LfUjQ6QDEv\n#최정윤 #매직스트로베리사운 #김현식 #COVER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최정윤",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "매직스트로베리사운",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "김현식",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "COVER",
+					"indices": [
+						79,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LfUjQ6QDEv",
+					"expanded_url": "https://youtu.be/29h3sRThyEI",
+					"display_url": "youtu.be/29h3sRThyEI",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 822,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 사랑 내 곁에 - 김현식 Cover in Seattle \nhttps://t.co/LfUjQ6QDEv\n#최정윤 #매직스트로베리사운 #김현식 #COVER"
+	},
+	{
+		"created_at": "Sun Jul 21 13:14:58 +0000 2019",
+		"id": 1152922034835378200,
+		"id_str": "1152929966159519744",
+		"full_text": "https://t.co/jRdsIwzJ9p\n\n#태연 #TAEYEON #믿듣탱 #음원퀸 #소녀시대 #girlsgeneration @GirlsGeneration #호텔델루나' #그대라는시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "음원퀸",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "girlsgeneration",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"text": "호텔델루나",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "그대라는시",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						71,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jRdsIwzJ9p",
+					"expanded_url": "https://n.news.naver.com/entertain/article/109/0004054203",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3444017,
+			"friends_count": 4,
+			"listed_count": 5723,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1536,
+		"favorite_count": 2892,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/jRdsIwzJ9p\n\n#태연 #TAEYEON #믿듣탱 #음원퀸 #소녀시대 #girlsgeneration @GirlsGeneration #호텔델루나' #그대라는시"
+	},
+	{
+		"created_at": "Sun Jul 21 09:14:58 +0000 2019",
+		"id": 1152867623857578000,
+		"id_str": "1152869567502409728",
+		"full_text": "태연 TAEYEON ['호텔 델루나’ OST Part.3 - ‘그대라는 시']\n\n🎧Melon :https://t.co/R2wiBZNrPH\n🎧FLO : https://t.co/HtbysdJviG \n🎧genie: https://t.co/xZ1DdSHPJ7\n🎧NAVER MUSIC: https://t.co/2D17nkykEc\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #호텔델루나 #그대라는시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						199,
+						215
+					]
+				},
+				{
+					"text": "호텔델루나",
+					"indices": [
+						216,
+						222
+					]
+				},
+				{
+					"text": "그대라는시",
+					"indices": [
+						223,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R2wiBZNrPH",
+					"expanded_url": "https://m.app.melon.com/album/music.htm?albumId=10309213",
+					"display_url": "m.app.melon.com/album/music.ht…",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/HtbysdJviG",
+					"expanded_url": "http://flomuz.io/s/cLaj",
+					"display_url": "flomuz.io/s/cLaj",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/xZ1DdSHPJ7",
+					"expanded_url": "http://genie.co.kr/B8QEN0",
+					"display_url": "genie.co.kr/B8QEN0",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/2D17nkykEc",
+					"expanded_url": "http://naver.me/5DkOUuVn",
+					"display_url": "naver.me/5DkOUuVn",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3444017,
+			"friends_count": 4,
+			"listed_count": 5723,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4256,
+		"favorite_count": 6578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연 TAEYEON ['호텔 델루나’ OST Part.3 - ‘그대라는 시']\n\n🎧Melon :https://t.co/R2wiBZNrPH\n🎧FLO : https://t.co/HtbysdJviG \n🎧genie: https://t.co/xZ1DdSHPJ7\n🎧NAVER MUSIC: https://t.co/2D17nkykEc\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #호텔델루나 #그대라는시"
+	},
+	{
+		"created_at": "Sun Jul 21 05:54:28 +0000 2019",
+		"id": 1152819107185623000,
+		"id_str": "1152819107185623040",
+		"full_text": "@holidaylandfest 홀랜페도 솔플파티와 함께! @solplparty 페이크버진 취향저격 아티스트 많이 데려와서 넘나 좋아합니다. 이번에도 갑니다. 홀렌페 매년 출석하고 있어요. 올해도 정말 좋을 것 같아요 🍑❤️",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "holidaylandfest",
+					"name": "HOLIDAY LAND FESTIVAL 2019",
+					"id": 996572708874797000,
+					"id_str": "996572708874797056",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "solplparty",
+					"name": "솔플파티",
+					"id": 968706450779463700,
+					"id_str": "968706450779463682",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1152813856533688300,
+		"in_reply_to_status_id_str": "1152813856533688320",
+		"in_reply_to_user_id": 996572708874797000,
+		"in_reply_to_user_id_str": "996572708874797056",
+		"in_reply_to_screen_name": "holidaylandfest",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 822,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@holidaylandfest 홀랜페도 솔플파티와 함께! @solplparty 페이크버진 취향저격 아티스트 많이 데려와서 넘나 좋아합니다. 이번에도 갑니다. 홀렌페 매년 출석하고 있어요. 올해도 정말 좋을 것 같아요 🍑❤️"
+	},
+	{
+		"created_at": "Sun Jul 21 05:52:00 +0000 2019",
+		"id": 1152813856533688300,
+		"id_str": "1152818486764175360",
+		"full_text": "#HLF19 티켓과 공식 굿즈를 받을 수 있는 단 한번의 이벤트!\n\n1.본 포스트를 리트윗 후, @holidaylandfest 를 팔로우\n2.친구 태그하여 기대평 멘션\n*FB, IG 와 중복 참여 가능\n🍑\n[ 상품 ]\n1등(1명): 양일권 1쌍 + 공식 굿즈 키트 1쌍\n2등(4명): 양일권 1쌍\n🍑\n[ 당첨자 발표 ]\n7월25일 (개별 연락) https://t.co/NpFJGFp5gu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLF19",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "holidaylandfest",
+					"name": "HOLIDAY LAND FESTIVAL 2019",
+					"id": 996572708874797000,
+					"id_str": "996572708874797056",
+					"indices": [
+						54,
+						70
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152813847859716100,
+					"id_str": "1152813847859716096",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D_-eFjXUYAAZQDb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_-eFjXUYAAZQDb.jpg",
+					"url": "https://t.co/NpFJGFp5gu",
+					"display_url": "pic.twitter.com/NpFJGFp5gu",
+					"expanded_url": "https://twitter.com/holidaylandfest/status/1152813856533688320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 949,
+							"h": 949,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152813847859716100,
+					"id_str": "1152813847859716096",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D_-eFjXUYAAZQDb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_-eFjXUYAAZQDb.jpg",
+					"url": "https://t.co/NpFJGFp5gu",
+					"display_url": "pic.twitter.com/NpFJGFp5gu",
+					"expanded_url": "https://twitter.com/holidaylandfest/status/1152813856533688320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 949,
+							"h": 949,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996572708874797000,
+			"id_str": "996572708874797056",
+			"name": "HOLIDAY LAND FESTIVAL 2019",
+			"screen_name": "holidaylandfest",
+			"location": "S.Korea",
+			"description": "FOREVER SUMMER, FOREVER HOLIDAY 🍑🌴 7.27-7.28 @ PARADISE CITY, INCHEON",
+			"url": "https://t.co/FQQrKwCJI1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FQQrKwCJI1",
+							"expanded_url": "http://holidayland.kr",
+							"display_url": "holidayland.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Wed May 16 02:07:03 +0000 2018",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102434643486203904/VTF25xDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102434643486203904/VTF25xDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996572708874797056/1556597395",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#HLF19 티켓과 공식 굿즈를 받을 수 있는 단 한번의 이벤트!\n\n1.본 포스트를 리트윗 후, @holidaylandfest 를 팔로우\n2.친구 태그하여 기대평 멘션\n*FB, IG 와 중복 참여 가능\n🍑\n[ 상품 ]\n1등(1명): 양일권 1쌍 + 공식 굿즈 키트 1쌍\n2등(4명): 양일권 1쌍\n🍑\n[ 당첨자 발표 ]\n7월25일 (개별 연락) https://t.co/NpFJGFp5gu"
+	},
+	{
+		"created_at": "Sun Jul 21 04:46:33 +0000 2019",
+		"id": 1152802017888198700,
+		"id_str": "1152802017888198657",
+		"full_text": "케미 폭발한 조정석 임윤아 조합 어떡하지?? | 엑시트 | 조정석 | 임윤아 | YooNa | 딩고무비\nhttps://t.co/qXMb4XaB9N\n#엑시트 #소녀시대 #윤아 #조정석",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엑시트",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "조정석",
+					"indices": [
+						97,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qXMb4XaB9N",
+					"expanded_url": "https://youtu.be/07g_rlq8mXs",
+					"display_url": "youtu.be/07g_rlq8mXs",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 822,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "케미 폭발한 조정석 임윤아 조합 어떡하지?? | 엑시트 | 조정석 | 임윤아 | YooNa | 딩고무비\nhttps://t.co/qXMb4XaB9N\n#엑시트 #소녀시대 #윤아 #조정석"
+	},
+	{
+		"created_at": "Sun Jul 21 04:39:33 +0000 2019",
+		"id": 1152800256020500500,
+		"id_str": "1152800256020500482",
+		"full_text": "조정석 윤아의 티키타카 대잔칰ㅋㅋ | 콜링유 | 엑시트 | 조정석 | 윤아 | yoona | exit\nhttps://t.co/DhL5MFJn0c\n#엑시트 #소녀시대 #윤아 #조정석",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엑시트",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "조정석",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DhL5MFJn0c",
+					"expanded_url": "https://youtu.be/Eep7_DAOjYY",
+					"display_url": "youtu.be/Eep7_DAOjYY",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 822,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조정석 윤아의 티키타카 대잔칰ㅋㅋ | 콜링유 | 엑시트 | 조정석 | 윤아 | yoona | exit\nhttps://t.co/DhL5MFJn0c\n#엑시트 #소녀시대 #윤아 #조정석"
+	},
+	{
+		"created_at": "Sun Jul 21 03:15:01 +0000 2019",
+		"id": 1152774366360301600,
+		"id_str": "1152778980497481729",
+		"full_text": "[7월 21일 예고] 다섯 개의 비상구, 나가야 산다! (출처 : 런닝맨 | 네이버TV) \n\n#윤아 #YOONA #소녀시대 #GirlsGeneration #런닝맨\n\nhttps://t.co/hoxYwA0lNx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"text": "런닝맨",
+					"indices": [
+						86,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hoxYwA0lNx",
+					"expanded_url": "http://naver.me/5qO6WBTS",
+					"display_url": "naver.me/5qO6WBTS",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3444017,
+			"friends_count": 4,
+			"listed_count": 5723,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2380,
+		"favorite_count": 5595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[7월 21일 예고] 다섯 개의 비상구, 나가야 산다! (출처 : 런닝맨 | 네이버TV) \n\n#윤아 #YOONA #소녀시대 #GirlsGeneration #런닝맨\n\nhttps://t.co/hoxYwA0lNx"
+	},
+	{
+		"created_at": "Sun Jul 21 03:14:59 +0000 2019",
+		"id": 1152771020421357600,
+		"id_str": "1152778971370496000",
+		"full_text": "‘믿고 듣는 음원퀸’ 태연이 참여한 tvN드라마 ‘호텔 델루나’ OST ‘그대라는 시’가 오늘 오후 6시에 공개됩니다! 섬세한 피아노 선율과 태연의 감성 보이스가 어우러진 애틋하고 아련한 분위기의 발라드 곡 오늘 만나보세요!\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #호텔델루나 #그대라는시 https://t.co/sJpDo5KYic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"text": "호텔델루나",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "그대라는시",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152771010367672300,
+					"id_str": "1152771010367672320",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D_93IFRVUAAETbw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_93IFRVUAAETbw.jpg",
+					"url": "https://t.co/sJpDo5KYic",
+					"display_url": "pic.twitter.com/sJpDo5KYic",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1152771020421357568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152771010367672300,
+					"id_str": "1152771010367672320",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D_93IFRVUAAETbw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_93IFRVUAAETbw.jpg",
+					"url": "https://t.co/sJpDo5KYic",
+					"display_url": "pic.twitter.com/sJpDo5KYic",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1152771020421357568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3444017,
+			"friends_count": 4,
+			"listed_count": 5723,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5836,
+		"favorite_count": 13723,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘믿고 듣는 음원퀸’ 태연이 참여한 tvN드라마 ‘호텔 델루나’ OST ‘그대라는 시’가 오늘 오후 6시에 공개됩니다! 섬세한 피아노 선율과 태연의 감성 보이스가 어우러진 애틋하고 아련한 분위기의 발라드 곡 오늘 만나보세요!\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #호텔델루나 #그대라는시 https://t.co/sJpDo5KYic"
+	},
+	{
+		"created_at": "Sat Jul 20 21:33:06 +0000 2019",
+		"id": 1152359613611688000,
+		"id_str": "1152692936561217536",
+		"full_text": "어바웃럽 작사가님께서 이렇게 글 올려 주셨는데 진짜 이상하긴 하다 ㅋㅋㅋ 음악 가사를 책 제목으로 사용하는 게 \"음악 출판물\"이 아니라 \"일반 출판물\"이라서 찍는 부수에 따라서 몇만원만 내면 사용할 수 있다는 것도 그렇고 무단으로 사용하고 사후에 신고하면 된다는 것도 어이없고.... https://t.co/vjK4WJTyWB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152359603331485700,
+					"id_str": "1152359603331485696",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D_4A9CoVUAADjoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_4A9CoVUAADjoL.jpg",
+					"url": "https://t.co/vjK4WJTyWB",
+					"display_url": "pic.twitter.com/vjK4WJTyWB",
+					"expanded_url": "https://twitter.com/lesmakethanger/status/1152359613611687936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1793,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152359603331485700,
+					"id_str": "1152359603331485696",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D_4A9CoVUAADjoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_4A9CoVUAADjoL.jpg",
+					"url": "https://t.co/vjK4WJTyWB",
+					"display_url": "pic.twitter.com/vjK4WJTyWB",
+					"expanded_url": "https://twitter.com/lesmakethanger/status/1152359613611687936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1793,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1152359603344035800,
+					"id_str": "1152359603344035841",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D_4A9CrU0AEVDFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_4A9CrU0AEVDFz.jpg",
+					"url": "https://t.co/vjK4WJTyWB",
+					"display_url": "pic.twitter.com/vjK4WJTyWB",
+					"expanded_url": "https://twitter.com/lesmakethanger/status/1152359613611687936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 731,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861258777411989500,
+			"id_str": "861258777411989504",
+			"name": "범플레이어",
+			"screen_name": "lesmakethanger",
+			"location": "",
+			"description": "실례가아니라면혹시어쩌라는건지말해주실수있나요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 483,
+			"friends_count": 149,
+			"listed_count": 3,
+			"created_at": "Sun May 07 16:37:48 +0000 2017",
+			"favourites_count": 645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131593882972459008/OvRDN4Fh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131593882972459008/OvRDN4Fh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861258777411989504/1557627586",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 779,
+		"favorite_count": 197,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어바웃럽 작사가님께서 이렇게 글 올려 주셨는데 진짜 이상하긴 하다 ㅋㅋㅋ 음악 가사를 책 제목으로 사용하는 게 \"음악 출판물\"이 아니라 \"일반 출판물\"이라서 찍는 부수에 따라서 몇만원만 내면 사용할 수 있다는 것도 그렇고 무단으로 사용하고 사후에 신고하면 된다는 것도 어이없고.... https://t.co/vjK4WJTyWB"
+	},
+	{
+		"created_at": "Sat Jul 20 21:11:41 +0000 2019",
+		"id": 1152124126447824900,
+		"id_str": "1152687546985353217",
+		"full_text": "이용권 등록방법은 아래에 나와 있어요!\n\n팬활동 무료 라이선스 이용권 코드\nSTAR19TW\n\nhttps://t.co/nV5vVPGU9l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nV5vVPGU9l",
+					"expanded_url": "https://youtu.be/BiiGzchfTo8",
+					"display_url": "youtu.be/BiiGzchfTo8",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1152121831656026100,
+		"in_reply_to_status_id_str": "1152121831656026112",
+		"in_reply_to_user_id": 768670904138149900,
+		"in_reply_to_user_id_str": "768670904138149889",
+		"in_reply_to_screen_name": "sandollcloud",
+		"user": {
+			"id": 768670904138149900,
+			"id_str": "768670904138149889",
+			"name": "산돌구름",
+			"screen_name": "sandollcloud",
+			"location": "대한민국 중구",
+			"description": "전세계 대표 폰트클라우드 서비스 - 산돌구름",
+			"url": "https://t.co/mAfEYZZtO9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mAfEYZZtO9",
+							"expanded_url": "http://www.sandollcloud.com",
+							"display_url": "sandollcloud.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3290,
+			"friends_count": 377,
+			"listed_count": 16,
+			"created_at": "Thu Aug 25 04:46:39 +0000 2016",
+			"favourites_count": 317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/933869310979612672/HEHB_buN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/933869310979612672/HEHB_buN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/768670904138149889/1472100533",
+			"profile_link_color": "3CAFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 277,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이용권 등록방법은 아래에 나와 있어요!\n\n팬활동 무료 라이선스 이용권 코드\nSTAR19TW\n\nhttps://t.co/nV5vVPGU9l"
+	},
+	{
+		"created_at": "Sat Jul 20 21:10:48 +0000 2019",
+		"id": 1152121831656026100,
+		"id_str": "1152687322208464897",
+		"full_text": "충격적소식😭 산돌구름 팬활동폰트가 무료라이선스로 나올 예정인데 담당자분께 들은 바로는 무려 격동고딕이 포함될 예정이라고🤭사업담당쪽에서는 그렇게 막퍼주다가 회사 망하는 것 아니냐고 했다던데 전 모르겠네요🤡 아무튼 만알티를 목표로 트위터에서 최초로 산돌구름 팬활동폰트 배포합니다😵 https://t.co/bktwqO0sW0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152121815671590900,
+					"id_str": "1152121815671590912",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D_0or-kVUAAIR7p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_0or-kVUAAIR7p.jpg",
+					"url": "https://t.co/bktwqO0sW0",
+					"display_url": "pic.twitter.com/bktwqO0sW0",
+					"expanded_url": "https://twitter.com/sandollcloud/status/1152121831656026112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1271,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 745,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152121815671590900,
+					"id_str": "1152121815671590912",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D_0or-kVUAAIR7p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_0or-kVUAAIR7p.jpg",
+					"url": "https://t.co/bktwqO0sW0",
+					"display_url": "pic.twitter.com/bktwqO0sW0",
+					"expanded_url": "https://twitter.com/sandollcloud/status/1152121831656026112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1271,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 745,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 768670904138149900,
+			"id_str": "768670904138149889",
+			"name": "산돌구름",
+			"screen_name": "sandollcloud",
+			"location": "대한민국 중구",
+			"description": "전세계 대표 폰트클라우드 서비스 - 산돌구름",
+			"url": "https://t.co/mAfEYZZtO9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mAfEYZZtO9",
+							"expanded_url": "http://www.sandollcloud.com",
+							"display_url": "sandollcloud.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3290,
+			"friends_count": 377,
+			"listed_count": 16,
+			"created_at": "Thu Aug 25 04:46:39 +0000 2016",
+			"favourites_count": 317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/933869310979612672/HEHB_buN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/933869310979612672/HEHB_buN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/768670904138149889/1472100533",
+			"profile_link_color": "3CAFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12687,
+		"favorite_count": 4512,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "충격적소식😭 산돌구름 팬활동폰트가 무료라이선스로 나올 예정인데 담당자분께 들은 바로는 무려 격동고딕이 포함될 예정이라고🤭사업담당쪽에서는 그렇게 막퍼주다가 회사 망하는 것 아니냐고 했다던데 전 모르겠네요🤡 아무튼 만알티를 목표로 트위터에서 최초로 산돌구름 팬활동폰트 배포합니다😵 https://t.co/bktwqO0sW0"
+	},
+	{
 		"created_at": "Sat Jul 20 14:42:21 +0000 2019",
 		"id": 1152589567385645000,
 		"id_str": "1152589567385645059",
