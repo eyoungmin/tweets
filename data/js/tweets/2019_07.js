@@ -1,6 +1,4396 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 31 21:16:00 +0000 2019",
+		"id": 1156667269130231800,
+		"id_str": "1156674900314271744",
+		"full_text": "다영한테 치이고 아도이 입덕하세요 https://t.co/anraTeBLaG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156667185311314000,
+					"id_str": "1156667185311313920",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156667185311313920/pu/img/_-GGwZrzXGrBq7yX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156667185311313920/pu/img/_-GGwZrzXGrBq7yX.jpg",
+					"url": "https://t.co/anraTeBLaG",
+					"display_url": "pic.twitter.com/anraTeBLaG",
+					"expanded_url": "https://twitter.com/adoyband/status/1156667269130231808/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156667185311314000,
+					"id_str": "1156667185311313920",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156667185311313920/pu/img/_-GGwZrzXGrBq7yX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156667185311313920/pu/img/_-GGwZrzXGrBq7yX.jpg",
+					"url": "https://t.co/anraTeBLaG",
+					"display_url": "pic.twitter.com/anraTeBLaG",
+					"expanded_url": "https://twitter.com/adoyband/status/1156667269130231808/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16634,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156667185311313920/pu/vid/480x270/y72oAjGSFc5TfaCK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1156667185311313920/pu/pl/BBbMDU07KWTISo1n.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156667185311313920/pu/vid/640x360/0TuS01Z9YKyf5X9G.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2603,
+			"friends_count": 565,
+			"listed_count": 28,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다영한테 치이고 아도이 입덕하세요 https://t.co/anraTeBLaG"
+	},
+	{
+		"created_at": "Wed Jul 31 21:15:58 +0000 2019",
+		"id": 1156660755384565800,
+		"id_str": "1156674891439104001",
+		"full_text": "트위터 너무 오랜만이라 미안해요. \n부산 락 페스티벌 감사합니다. https://t.co/IBmjAMTJkU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156660742663204900,
+					"id_str": "1156660742663204865",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EA1I0TQUcAExUeb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA1I0TQUcAExUeb.jpg",
+					"url": "https://t.co/IBmjAMTJkU",
+					"display_url": "pic.twitter.com/IBmjAMTJkU",
+					"expanded_url": "https://twitter.com/adoyband/status/1156660755384565760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156660742663204900,
+					"id_str": "1156660742663204865",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EA1I0TQUcAExUeb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA1I0TQUcAExUeb.jpg",
+					"url": "https://t.co/IBmjAMTJkU",
+					"display_url": "pic.twitter.com/IBmjAMTJkU",
+					"expanded_url": "https://twitter.com/adoyband/status/1156660755384565760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2603,
+			"friends_count": 565,
+			"listed_count": 28,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 너무 오랜만이라 미안해요. \n부산 락 페스티벌 감사합니다. https://t.co/IBmjAMTJkU"
+	},
+	{
+		"created_at": "Wed Jul 31 19:51:36 +0000 2019",
+		"id": 1156653658546802700,
+		"id_str": "1156653658546802693",
+		"full_text": "나, 요즘 덕질해 | 우리가 푹 빠져있는 것, 쓰레기??!! | 1847화 | 2019년 07월 31일 방송\nhttps://t.co/rwyseni26P\n#지식채널e #EBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						92,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rwyseni26P",
+					"expanded_url": "http://www.ebs.co.kr/replay/show?prodId=352&lectId=20128062",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 826,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나, 요즘 덕질해 | 우리가 푹 빠져있는 것, 쓰레기??!! | 1847화 | 2019년 07월 31일 방송\nhttps://t.co/rwyseni26P\n#지식채널e #EBS"
+	},
+	{
+		"created_at": "Wed Jul 31 18:25:05 +0000 2019",
+		"id": 1156631887370248200,
+		"id_str": "1156631887370248193",
+		"full_text": "합성 생물학이 초래할 인류의 종말. 그리고 그 종말을 멈출 수 있는 방법 by. Rob Reid\nhttps://t.co/FcEDSKrrgu\n#TED #테드 #한국어자막 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FcEDSKrrgu",
+					"expanded_url": "https://www.ted.com/talks/rob_reid_how_synthetic_biology_could_wipe_out_humanity_and_how_we_can_stop_it?language=ko",
+					"display_url": "ted.com/talks/rob_reid…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 826,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "합성 생물학이 초래할 인류의 종말. 그리고 그 종말을 멈출 수 있는 방법 by. Rob Reid\nhttps://t.co/FcEDSKrrgu\n#TED #테드 #한국어자막 #minfav"
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:50 +0000 2019",
+		"id": 1156478458286841900,
+		"id_str": "1156614460070490113",
+		"full_text": "*Paul J. Wright, Robert S. Tokunaga, Ashley Kraus (2016). A Meta-Analysis of Pornography Consumption and Actual Acts of Sexual Aggression in General Population Studies. Journal of Communication, 66(1), 183–205.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1156478453379506200,
+		"in_reply_to_status_id_str": "1156478453379506178",
+		"in_reply_to_user_id": 3712000754,
+		"in_reply_to_user_id_str": "3712000754",
+		"in_reply_to_screen_name": "rktrene",
+		"user": {
+			"id": 3712000754,
+			"id_str": "3712000754",
+			"name": "호우즈 벨루어🥀",
+			"screen_name": "rktrene",
+			"location": "",
+			"description": "🌹🍓언팔 대신 블언블/ 세상을 바꾼 변호인 (6.00) / 어쩐지 미술에서 뇌과학이 보인다/🍒🍷리트윗 아카이브",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 550,
+			"listed_count": 4,
+			"created_at": "Mon Sep 28 06:44:57 +0000 2015",
+			"favourites_count": 9234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139213899209723904/1LxHwe7N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139213899209723904/1LxHwe7N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3712000754/1552813019",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "*Paul J. Wright, Robert S. Tokunaga, Ashley Kraus (2016). A Meta-Analysis of Pornography Consumption and Actual Acts of Sexual Aggression in General Population Studies. Journal of Communication, 66(1), 183–205."
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:49 +0000 2019",
+		"id": 1156478453379506200,
+		"id_str": "1156614452680093696",
+		"full_text": "비슷하게, 포르노가 현실의 성범죄를 줄여주는 데 기여할 거라는 주장도 있으나, 2014년까지 일반 인구를 대상으로 포르노 소비와 성폭력 사이의 관계를 정량적으로 연구한 22개 연구의 데이터에 대한 메타 분석 결과*, 포르노 소비와 성폭력(sexual aggression) 사이의 양의 상관관계 확인. https://t.co/wHD97YcCJB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wHD97YcCJB",
+					"expanded_url": "https://twitter.com/imaum0217/status/1156429544179605504",
+					"display_url": "twitter.com/imaum0217/stat…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3712000754,
+			"id_str": "3712000754",
+			"name": "호우즈 벨루어🥀",
+			"screen_name": "rktrene",
+			"location": "",
+			"description": "🌹🍓언팔 대신 블언블/ 세상을 바꾼 변호인 (6.00) / 어쩐지 미술에서 뇌과학이 보인다/🍒🍷리트윗 아카이브",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 550,
+			"listed_count": 4,
+			"created_at": "Mon Sep 28 06:44:57 +0000 2015",
+			"favourites_count": 9234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139213899209723904/1LxHwe7N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139213899209723904/1LxHwe7N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3712000754/1552813019",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1156429544179605500,
+		"quoted_status_id_str": "1156429544179605504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wHD97YcCJB",
+			"expanded": "https://twitter.com/imaum0217/status/1156429544179605504",
+			"display": "twitter.com/imaum0217/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 31 05:01:03 +0000 2019",
+			"id": 1156429544179605500,
+			"id_str": "1156429544179605504",
+			"full_text": "또 성매매 하는 남성들은 성매매가 강간을 줄여준다고 믿지만 정작 본인들은 성매매를 하지 않는 남성들에 비해 성폭력 전과가 많고 성매매 여성에 대해 낮은 공감능력을 보였다는 연구 결과들을 보면 인간을 어떻게든 성적 도구로 삼으려는 생각 자체가 위험한 것https://t.co/YB7u2eYf0A",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YB7u2eYf0A",
+						"expanded_url": "https://twitter.com/imaum0217/status/1002417448363151360?s=20",
+						"display_url": "twitter.com/imaum0217/stat…",
+						"indices": [
+							140,
+							163
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1156378284290117600,
+			"in_reply_to_status_id_str": "1156378284290117632",
+			"in_reply_to_user_id": 197707412,
+			"in_reply_to_user_id_str": "197707412",
+			"in_reply_to_screen_name": "imaum0217",
+			"user": {
+				"id": 197707412,
+				"id_str": "197707412",
+				"name": "지뇽뇽의 사회심리학 이야기",
+				"screen_name": "imaum0217",
+				"location": "Chapel Hill, NC",
+				"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RidTQz7bvJ",
+								"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+								"display_url": "aladin.co.kr/shop/wproduct.…",
+								"indices": [
+									12,
+									35
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 74307,
+				"friends_count": 201,
+				"listed_count": 591,
+				"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+				"favourites_count": 6486,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28663,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1002417448363151400,
+			"quoted_status_id_str": "1002417448363151360",
+			"quoted_status_permalink": {
+				"url": "https://t.co/YB7u2eYf0A",
+				"expanded": "https://twitter.com/imaum0217/status/1002417448363151360?s=20",
+				"display": "twitter.com/imaum0217/stat…"
+			},
+			"retweet_count": 1695,
+			"favorite_count": 466,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2611,
+		"favorite_count": 626,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비슷하게, 포르노가 현실의 성범죄를 줄여주는 데 기여할 거라는 주장도 있으나, 2014년까지 일반 인구를 대상으로 포르노 소비와 성폭력 사이의 관계를 정량적으로 연구한 22개 연구의 데이터에 대한 메타 분석 결과*, 포르노 소비와 성폭력(sexual aggression) 사이의 양의 상관관계 확인. https://t.co/wHD97YcCJB"
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:37 +0000 2019",
+		"id": 1156429544179605500,
+		"id_str": "1156614402717564928",
+		"full_text": "또 성매매 하는 남성들은 성매매가 강간을 줄여준다고 믿지만 정작 본인들은 성매매를 하지 않는 남성들에 비해 성폭력 전과가 많고 성매매 여성에 대해 낮은 공감능력을 보였다는 연구 결과들을 보면 인간을 어떻게든 성적 도구로 삼으려는 생각 자체가 위험한 것https://t.co/YB7u2eYf0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YB7u2eYf0A",
+					"expanded_url": "https://twitter.com/imaum0217/status/1002417448363151360?s=20",
+					"display_url": "twitter.com/imaum0217/stat…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156378284290117600,
+		"in_reply_to_status_id_str": "1156378284290117632",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RidTQz7bvJ",
+							"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+							"display_url": "aladin.co.kr/shop/wproduct.…",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74307,
+			"friends_count": 201,
+			"listed_count": 591,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1002417448363151400,
+		"quoted_status_id_str": "1002417448363151360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YB7u2eYf0A",
+			"expanded": "https://twitter.com/imaum0217/status/1002417448363151360?s=20",
+			"display": "twitter.com/imaum0217/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 01 05:11:58 +0000 2018",
+			"id": 1002417448363151400,
+			"id_str": "1002417448363151360",
+			"full_text": "성매수자인 남성을 대상으로 한 연구에서 성구매 횟수가 많은 남성들이 그렇지 않은 남성들에 비해 여성 일반에 대한 성폭력 전과가 많았고, 심한 성차별 의식, 여성도 강간을 즐기고 강간은 여성이 잘못해서 생긴다는 강간 신화, 남성성 = 공격성이라는 잘못된 인식을 보였다고(Farley et al., 2011)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197707412,
+				"id_str": "197707412",
+				"name": "지뇽뇽의 사회심리학 이야기",
+				"screen_name": "imaum0217",
+				"location": "Chapel Hill, NC",
+				"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RidTQz7bvJ",
+								"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+								"display_url": "aladin.co.kr/shop/wproduct.…",
+								"indices": [
+									12,
+									35
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 74307,
+				"friends_count": 201,
+				"listed_count": 591,
+				"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+				"favourites_count": 6486,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28663,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3920,
+			"favorite_count": 923,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1695,
+		"favorite_count": 466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 성매매 하는 남성들은 성매매가 강간을 줄여준다고 믿지만 정작 본인들은 성매매를 하지 않는 남성들에 비해 성폭력 전과가 많고 성매매 여성에 대해 낮은 공감능력을 보였다는 연구 결과들을 보면 인간을 어떻게든 성적 도구로 삼으려는 생각 자체가 위험한 것https://t.co/YB7u2eYf0A"
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:34 +0000 2019",
+		"id": 1156378284290117600,
+		"id_str": "1156614393116807168",
+		"full_text": "인공지능이 발달해서 거의 인간같이 반응할 수 있는 섹스로봇이 나온다고 해보자. 이 로봇에 대한 동의 없는 성행위는 강간이 아닌가?-라는 논의들.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156377426794098700,
+		"in_reply_to_status_id_str": "1156377426794098689",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RidTQz7bvJ",
+							"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+							"display_url": "aladin.co.kr/shop/wproduct.…",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74307,
+			"friends_count": 201,
+			"listed_count": 591,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 812,
+		"favorite_count": 307,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "인공지능이 발달해서 거의 인간같이 반응할 수 있는 섹스로봇이 나온다고 해보자. 이 로봇에 대한 동의 없는 성행위는 강간이 아닌가?-라는 논의들."
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:29 +0000 2019",
+		"id": 1156377426794098700,
+		"id_str": "1156614369829986304",
+		"full_text": "섹스돌이 왜 굳이 '여성'의 모습이어야 하는지에 대해서도 논의가 필요해 보이는데... 성욕을 해소하는 다양한 방법이 있을텐데 굳이 '리얼한' 여성의 신체 모형을 통해 해소해야 한다고 생각하는 것 자체가 이미 크리피 한 것. 섹스로봇에 대해서는 사실상 '대체 노예제'라는 의견들도 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156365928260690000,
+		"in_reply_to_status_id_str": "1156365928260689920",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RidTQz7bvJ",
+							"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+							"display_url": "aladin.co.kr/shop/wproduct.…",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74307,
+			"friends_count": 201,
+			"listed_count": 591,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2361,
+		"favorite_count": 582,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "섹스돌이 왜 굳이 '여성'의 모습이어야 하는지에 대해서도 논의가 필요해 보이는데... 성욕을 해소하는 다양한 방법이 있을텐데 굳이 '리얼한' 여성의 신체 모형을 통해 해소해야 한다고 생각하는 것 자체가 이미 크리피 한 것. 섹스로봇에 대해서는 사실상 '대체 노예제'라는 의견들도 있음."
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:27 +0000 2019",
+		"id": 1156365928260690000,
+		"id_str": "1156614363031040001",
+		"full_text": "살인자들에게 살해욕구를 해소할 수 있도록 실제 살인을 시뮬레이션 할 수 있는 리얼한 신체 모델을 지급하지 않듯, 성욕해소를 돕는단 이유로 성범죄자들에게 여성 신체 모형을 지급해서는 안 된다는 주장 https://t.co/ps7CVieTKi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ps7CVieTKi",
+					"expanded_url": "https://www.nytimes.com/2017/07/17/opinion/sex-robots-consent.html",
+					"display_url": "nytimes.com/2017/07/17/opi…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156364512041283600,
+		"in_reply_to_status_id_str": "1156364512041283585",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RidTQz7bvJ",
+							"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+							"display_url": "aladin.co.kr/shop/wproduct.…",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74307,
+			"friends_count": 201,
+			"listed_count": 591,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9773,
+		"favorite_count": 1699,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "살인자들에게 살해욕구를 해소할 수 있도록 실제 살인을 시뮬레이션 할 수 있는 리얼한 신체 모델을 지급하지 않듯, 성욕해소를 돕는단 이유로 성범죄자들에게 여성 신체 모형을 지급해서는 안 된다는 주장 https://t.co/ps7CVieTKi"
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:25 +0000 2019",
+		"id": 1156364512041283600,
+		"id_str": "1156614354722156545",
+		"full_text": "성범죄자들은 흔히 성범죄에 대한 판타지를 가지고 있는데, 판타지를 '현실화' 하는 단계에서 섹스돌 같은 여성 신체 모양 인형을 훼손하는 현상이 나타나기도 한다고.  Hazelwood, R. R., &amp; Warren, J. I. (2016). 5 The Relevance of Fantasy in Serial Sexual Crimes Investigation. https://t.co/grpaeUrPqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156364507352051700,
+					"id_str": "1156364507352051712",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EAw7ZIuWsAA4cN-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAw7ZIuWsAA4cN-.png",
+					"url": "https://t.co/grpaeUrPqT",
+					"display_url": "pic.twitter.com/grpaeUrPqT",
+					"expanded_url": "https://twitter.com/imaum0217/status/1156364512041283585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 873,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 873,
+							"h": 365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156364507352051700,
+					"id_str": "1156364507352051712",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EAw7ZIuWsAA4cN-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAw7ZIuWsAA4cN-.png",
+					"url": "https://t.co/grpaeUrPqT",
+					"display_url": "pic.twitter.com/grpaeUrPqT",
+					"expanded_url": "https://twitter.com/imaum0217/status/1156364512041283585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 873,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 873,
+							"h": 365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156363102755180500,
+		"in_reply_to_status_id_str": "1156363102755180547",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RidTQz7bvJ",
+							"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+							"display_url": "aladin.co.kr/shop/wproduct.…",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74307,
+			"friends_count": 201,
+			"listed_count": 591,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1661,
+		"favorite_count": 381,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성범죄자들은 흔히 성범죄에 대한 판타지를 가지고 있는데, 판타지를 '현실화' 하는 단계에서 섹스돌 같은 여성 신체 모양 인형을 훼손하는 현상이 나타나기도 한다고.  Hazelwood, R. R., &amp; Warren, J. I. (2016). 5 The Relevance of Fantasy in Serial Sexual Crimes Investigation. https://t.co/grpaeUrPqT"
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:23 +0000 2019",
+		"id": 1156363102755180500,
+		"id_str": "1156614346539036672",
+		"full_text": "여성을 섹스돌 정도로 여기는 인식과 별개로 섹스돌 자체의 문제에 대한 지적들도 많은데, 예컨데 인간의 형태를 모방한 섹스돌이나 로봇들은 '동의'를 구할 수 없다는 지점에서 강간에 가깝고, 신체를 심각하게 훼손하는 등 가학성을 표출하는 통로(연습)가 된다는 점에서 위험하다는 지적들이 있었다 https://t.co/izmE2aOFMc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156363096673403000,
+					"id_str": "1156363096673402880",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EAw6HBiWwAAh9YP.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAw6HBiWwAAh9YP.png",
+					"url": "https://t.co/izmE2aOFMc",
+					"display_url": "pic.twitter.com/izmE2aOFMc",
+					"expanded_url": "https://twitter.com/imaum0217/status/1156363102755180547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 785,
+							"h": 833,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 785,
+							"h": 833,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156363096673403000,
+					"id_str": "1156363096673402880",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EAw6HBiWwAAh9YP.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAw6HBiWwAAh9YP.png",
+					"url": "https://t.co/izmE2aOFMc",
+					"display_url": "pic.twitter.com/izmE2aOFMc",
+					"expanded_url": "https://twitter.com/imaum0217/status/1156363102755180547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 785,
+							"h": 833,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 785,
+							"h": 833,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156337141980569600,
+		"in_reply_to_status_id_str": "1156337141980569600",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RidTQz7bvJ",
+							"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+							"display_url": "aladin.co.kr/shop/wproduct.…",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74307,
+			"friends_count": 201,
+			"listed_count": 591,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2974,
+		"favorite_count": 627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여성을 섹스돌 정도로 여기는 인식과 별개로 섹스돌 자체의 문제에 대한 지적들도 많은데, 예컨데 인간의 형태를 모방한 섹스돌이나 로봇들은 '동의'를 구할 수 없다는 지점에서 강간에 가깝고, 신체를 심각하게 훼손하는 등 가학성을 표출하는 통로(연습)가 된다는 점에서 위험하다는 지적들이 있었다 https://t.co/izmE2aOFMc"
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:20 +0000 2019",
+		"id": 1156337141980569600,
+		"id_str": "1156614335088566273",
+		"full_text": "이들이 생각하는 젊고 아름다운 여성의 권력이라는 것은 인기 있는 강간 인형의 영향력 정도인 것. 이게 권력일리가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156336325521485800,
+		"in_reply_to_status_id_str": "1156336325521485825",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RidTQz7bvJ",
+							"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+							"display_url": "aladin.co.kr/shop/wproduct.…",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74307,
+			"friends_count": 201,
+			"listed_count": 591,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1919,
+		"favorite_count": 578,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이들이 생각하는 젊고 아름다운 여성의 권력이라는 것은 인기 있는 강간 인형의 영향력 정도인 것. 이게 권력일리가"
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:19 +0000 2019",
+		"id": 1156336325521485800,
+		"id_str": "1156614327689871360",
+		"full_text": "남성에게 팔리는 게 목적인 강간인형처럼 일반 여성들도 남성에게 많이 팔려야 존재 의의가 있고, 여성 본인도 남성의 성욕 도구가 되길 원한다고 생각함. 사회 전반에서 여성은 남성에게 사랑받아야만 살아갈 수 있다는 메시지를 주입하기도 하는데, 이런 메시지 자체가 강간 문화의 상징인 셈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156335685588213800,
+		"in_reply_to_status_id_str": "1156335685588213760",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RidTQz7bvJ",
+							"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+							"display_url": "aladin.co.kr/shop/wproduct.…",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74307,
+			"friends_count": 201,
+			"listed_count": 591,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3105,
+		"favorite_count": 743,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "남성에게 팔리는 게 목적인 강간인형처럼 일반 여성들도 남성에게 많이 팔려야 존재 의의가 있고, 여성 본인도 남성의 성욕 도구가 되길 원한다고 생각함. 사회 전반에서 여성은 남성에게 사랑받아야만 살아갈 수 있다는 메시지를 주입하기도 하는데, 이런 메시지 자체가 강간 문화의 상징인 셈"
+	},
+	{
+		"created_at": "Wed Jul 31 17:15:17 +0000 2019",
+		"id": 1156335685588213800,
+		"id_str": "1156614321796812801",
+		"full_text": "성범죄자들의 전형적인 사고방식 중 하나가 여성을 남성 성욕 해소 도구로 보는 것. 여성의 존재 목적 자체가 남성용이기 때문에 강간은 죄가 아니라고 생각함. 여성들이 리얼강간인형에 라이벌의식을 느껴서 판매 금지를 주장한다고 생각하는 것에도 여성과 강간인형을 동급으로 여기는 사고가 투명함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. https://t.co/RidTQz7bvJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RidTQz7bvJ",
+							"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=144293341",
+							"display_url": "aladin.co.kr/shop/wproduct.…",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74307,
+			"friends_count": 201,
+			"listed_count": 591,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144103138279997440/b7u4pYYB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1542920665",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12646,
+		"favorite_count": 2906,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "성범죄자들의 전형적인 사고방식 중 하나가 여성을 남성 성욕 해소 도구로 보는 것. 여성의 존재 목적 자체가 남성용이기 때문에 강간은 죄가 아니라고 생각함. 여성들이 리얼강간인형에 라이벌의식을 느껴서 판매 금지를 주장한다고 생각하는 것에도 여성과 강간인형을 동급으로 여기는 사고가 투명함"
+	},
+	{
+		"created_at": "Wed Jul 31 17:11:44 +0000 2019",
+		"id": 1156127317883682800,
+		"id_str": "1156613427768377345",
+		"full_text": "[HA:TFELT] 💡\n'Happy Now (Feat. 문별 of 마마무)'\nAlbum Cover 💔\n2019.08.01. 6pm (KST)\n_\n#핫펠트 #HATFELT #예은 #문별 #MoonByul \n#마마무 #MAMAMOO #HappyNow\n#코드쉐어 #CodeShare https://t.co/rFu7b1PPOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "핫펠트",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "HATFELT",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "예은",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "MoonByul",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "HappyNow",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "코드쉐어",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "CodeShare",
+					"indices": [
+						144,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156127298774397000,
+					"id_str": "1156127298774396929",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EAtjpx6UcAEhigr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAtjpx6UcAEhigr.jpg",
+					"url": "https://t.co/rFu7b1PPOW",
+					"display_url": "pic.twitter.com/rFu7b1PPOW",
+					"expanded_url": "https://twitter.com/amoebakorea/status/1156127317883682816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156127298774397000,
+					"id_str": "1156127298774396929",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EAtjpx6UcAEhigr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAtjpx6UcAEhigr.jpg",
+					"url": "https://t.co/rFu7b1PPOW",
+					"display_url": "pic.twitter.com/rFu7b1PPOW",
+					"expanded_url": "https://twitter.com/amoebakorea/status/1156127317883682816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555814139,
+			"id_str": "555814139",
+			"name": "amoebaculture",
+			"screen_name": "amoebakorea",
+			"location": "",
+			"description": "아메바컬쳐 공식 트위터 / amoebaculture official twitter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20036,
+			"friends_count": 11,
+			"listed_count": 280,
+			"created_at": "Tue Apr 17 09:08:06 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009635986676973571/T9XSWzPV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009635986676973571/T9XSWzPV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555814139/1529551402",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 342,
+		"favorite_count": 506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[HA:TFELT] 💡\n'Happy Now (Feat. 문별 of 마마무)'\nAlbum Cover 💔\n2019.08.01. 6pm (KST)\n_\n#핫펠트 #HATFELT #예은 #문별 #MoonByul \n#마마무 #MAMAMOO #HappyNow\n#코드쉐어 #CodeShare https://t.co/rFu7b1PPOW"
+	},
+	{
+		"created_at": "Wed Jul 31 17:11:40 +0000 2019",
+		"id": 1155765072712441900,
+		"id_str": "1156613411544813568",
+		"full_text": "[HA:TFELT] 💡\n'Happy Now (Feat. 문별 of 마마무)' 💔\n2019.08.01. 6pm (KST)\n_\n#핫펠트 #HATFELT #예은 #문별 #MoonByul\n#마마무 #MAMAMOO #HappyNow #190801_6pm\n#코드쉐어 #CodeShare https://t.co/YtQhlWM5OP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "핫펠트",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "HATFELT",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "예은",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "MoonByul",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "HappyNow",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "190801_6pm",
+					"indices": [
+						125,
+						136
+					]
+				},
+				{
+					"text": "코드쉐어",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "CodeShare",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1155765056438587400,
+					"id_str": "1155765056438587392",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EAoaMgDU0AANkQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAoaMgDU0AANkQv.jpg",
+					"url": "https://t.co/YtQhlWM5OP",
+					"display_url": "pic.twitter.com/YtQhlWM5OP",
+					"expanded_url": "https://twitter.com/amoebakorea/status/1155765072712441856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1974,
+							"h": 1974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155765056438587400,
+					"id_str": "1155765056438587392",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EAoaMgDU0AANkQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAoaMgDU0AANkQv.jpg",
+					"url": "https://t.co/YtQhlWM5OP",
+					"display_url": "pic.twitter.com/YtQhlWM5OP",
+					"expanded_url": "https://twitter.com/amoebakorea/status/1155765072712441856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1974,
+							"h": 1974,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555814139,
+			"id_str": "555814139",
+			"name": "amoebaculture",
+			"screen_name": "amoebakorea",
+			"location": "",
+			"description": "아메바컬쳐 공식 트위터 / amoebaculture official twitter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20036,
+			"friends_count": 11,
+			"listed_count": 280,
+			"created_at": "Tue Apr 17 09:08:06 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009635986676973571/T9XSWzPV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009635986676973571/T9XSWzPV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555814139/1529551402",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 998,
+		"favorite_count": 1415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[HA:TFELT] 💡\n'Happy Now (Feat. 문별 of 마마무)' 💔\n2019.08.01. 6pm (KST)\n_\n#핫펠트 #HATFELT #예은 #문별 #MoonByul\n#마마무 #MAMAMOO #HappyNow #190801_6pm\n#코드쉐어 #CodeShare https://t.co/YtQhlWM5OP"
+	},
+	{
+		"created_at": "Wed Jul 31 17:11:38 +0000 2019",
+		"id": 1155402628437667800,
+		"id_str": "1156613403307212800",
+		"full_text": "[HA:TFELT] 💡\n'Happy Now (Feat. ❓)' 💔\n2019.08.01. 6pm (KST)\n_\n#핫펠트 #HATFELT #예은 #HappyNow #190801_6pm\n#코드쉐어 #CodeShare https://t.co/qlECHf9YPB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "핫펠트",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "HATFELT",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "예은",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "HappyNow",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "190801_6pm",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"text": "코드쉐어",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "CodeShare",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1155402613992521700,
+					"id_str": "1155402613992521728",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EAjQjkuVAAAuVxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAjQjkuVAAAuVxW.jpg",
+					"url": "https://t.co/qlECHf9YPB",
+					"display_url": "pic.twitter.com/qlECHf9YPB",
+					"expanded_url": "https://twitter.com/amoebakorea/status/1155402628437667840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1974,
+							"h": 1974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155402613992521700,
+					"id_str": "1155402613992521728",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EAjQjkuVAAAuVxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAjQjkuVAAAuVxW.jpg",
+					"url": "https://t.co/qlECHf9YPB",
+					"display_url": "pic.twitter.com/qlECHf9YPB",
+					"expanded_url": "https://twitter.com/amoebakorea/status/1155402628437667840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1974,
+							"h": 1974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555814139,
+			"id_str": "555814139",
+			"name": "amoebaculture",
+			"screen_name": "amoebakorea",
+			"location": "",
+			"description": "아메바컬쳐 공식 트위터 / amoebaculture official twitter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20036,
+			"friends_count": 11,
+			"listed_count": 280,
+			"created_at": "Tue Apr 17 09:08:06 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009635986676973571/T9XSWzPV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009635986676973571/T9XSWzPV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555814139/1529551402",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 404,
+		"favorite_count": 589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[HA:TFELT] 💡\n'Happy Now (Feat. ❓)' 💔\n2019.08.01. 6pm (KST)\n_\n#핫펠트 #HATFELT #예은 #HappyNow #190801_6pm\n#코드쉐어 #CodeShare https://t.co/qlECHf9YPB"
+	},
+	{
+		"created_at": "Wed Jul 31 17:10:29 +0000 2019",
+		"id": 1156489899324801000,
+		"id_str": "1156613112222515200",
+		"full_text": "[HA:TFELT] 💡\n'Happy Now (Feat. 문별 of 마마무)'\nShort F:lm 💔\n▶️ https://t.co/HjujkHV0vh 에서 바로보기\n_\n#핫펠트 #HATFELT #예은 #문별 #MoonByul \n#마마무 #MAMAMOO #HappyNow #190801_6pm\n#코드쉐어 #CodeShare https://t.co/cSs2nI74OH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "핫펠트",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "HATFELT",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "예은",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "MoonByul",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "HappyNow",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "190801_6pm",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "코드쉐어",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "CodeShare",
+					"indices": [
+						168,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HjujkHV0vh",
+					"expanded_url": "https://youtu.be/8LBtVfl6Y0A",
+					"display_url": "youtu.be/8LBtVfl6Y0A",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1156489719682719700,
+					"id_str": "1156489719682719745",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156489719682719745/pu/img/EFhRoFkIeBNT1e4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156489719682719745/pu/img/EFhRoFkIeBNT1e4U.jpg",
+					"url": "https://t.co/cSs2nI74OH",
+					"display_url": "pic.twitter.com/cSs2nI74OH",
+					"expanded_url": "https://twitter.com/amoebakorea/status/1156489899324801024/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156489719682719700,
+					"id_str": "1156489719682719745",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156489719682719745/pu/img/EFhRoFkIeBNT1e4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156489719682719745/pu/img/EFhRoFkIeBNT1e4U.jpg",
+					"url": "https://t.co/cSs2nI74OH",
+					"display_url": "pic.twitter.com/cSs2nI74OH",
+					"expanded_url": "https://twitter.com/amoebakorea/status/1156489899324801024/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 39039,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1156489719682719745/pu/pl/9dcrLLhvrfm-Q1Ws.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156489719682719745/pu/vid/320x320/eZ0gqa4XZjCJklnk.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156489719682719745/pu/vid/480x480/ig3Xm9WWCiHuECfU.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156489719682719745/pu/vid/720x720/ZIY45YDVaUSG2BXK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555814139,
+			"id_str": "555814139",
+			"name": "amoebaculture",
+			"screen_name": "amoebakorea",
+			"location": "",
+			"description": "아메바컬쳐 공식 트위터 / amoebaculture official twitter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20036,
+			"friends_count": 11,
+			"listed_count": 280,
+			"created_at": "Tue Apr 17 09:08:06 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009635986676973571/T9XSWzPV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009635986676973571/T9XSWzPV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555814139/1529551402",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 485,
+		"favorite_count": 532,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[HA:TFELT] 💡\n'Happy Now (Feat. 문별 of 마마무)'\nShort F:lm 💔\n▶️ https://t.co/HjujkHV0vh 에서 바로보기\n_\n#핫펠트 #HATFELT #예은 #문별 #MoonByul \n#마마무 #MAMAMOO #HappyNow #190801_6pm\n#코드쉐어 #CodeShare https://t.co/cSs2nI74OH"
+	},
+	{
+		"created_at": "Wed Jul 31 17:06:59 +0000 2019",
+		"id": 1156119314497298400,
+		"id_str": "1156612233226420226",
+		"full_text": "LISTEN TO MUSIC\nDRINK BEER\nMAKE FRIENDS\nㅤㅤ\n잔다리페스타 2019\nZANDARI FESTA 2019\nㅤㅤ\n19.9.26.(Thu)-9.29(Sun)\n@Hongdae Area https://t.co/TP3zpmBCIy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hongdae",
+					"name": "김현옥 봇",
+					"id": 1328262589,
+					"id_str": "1328262589",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156119248265027600,
+					"id_str": "1156119248265027584",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156119248265027584/pu/img/Bcdg897My9XrLYdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156119248265027584/pu/img/Bcdg897My9XrLYdE.jpg",
+					"url": "https://t.co/TP3zpmBCIy",
+					"display_url": "pic.twitter.com/TP3zpmBCIy",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1156119314497298434/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156119248265027600,
+					"id_str": "1156119248265027584",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156119248265027584/pu/img/Bcdg897My9XrLYdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156119248265027584/pu/img/Bcdg897My9XrLYdE.jpg",
+					"url": "https://t.co/TP3zpmBCIy",
+					"display_url": "pic.twitter.com/TP3zpmBCIy",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1156119314497298434/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							227,
+							320
+						],
+						"duration_millis": 15083,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156119248265027584/pu/vid/720x1014/h3tKsv_hygEmEnp2.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156119248265027584/pu/vid/360x506/iZZkpa0p9Y77D6Sf.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156119248265027584/pu/vid/320x450/RHqqfJr28RRXMpdP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1156119248265027584/pu/pl/4PxvNOdIOw0tqjwM.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 4th - 7th 2018 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2839,
+			"friends_count": 1870,
+			"listed_count": 47,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156021610555424770/AOUbampI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156021610555424770/AOUbampI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1564452007",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LISTEN TO MUSIC\nDRINK BEER\nMAKE FRIENDS\nㅤㅤ\n잔다리페스타 2019\nZANDARI FESTA 2019\nㅤㅤ\n19.9.26.(Thu)-9.29(Sun)\n@Hongdae Area https://t.co/TP3zpmBCIy"
+	},
+	{
+		"created_at": "Wed Jul 31 17:06:49 +0000 2019",
+		"id": 1156474939878203400,
+		"id_str": "1156612190494834688",
+		"full_text": "EARLY BIRD TICKET OPEN \n8.01(Thu) 14:00\nㅤㅤ\n잔다리페스타 2019\nZANDARI FESTA 2019\nㅤㅤ\n19.9.26.(Thu)-9.29(Sun) @Hongdae Area https://t.co/r6R4akzDKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hongdae",
+					"name": "김현옥 봇",
+					"id": 1328262589,
+					"id_str": "1328262589",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156474934706634800,
+					"id_str": "1156474934706634752",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EAyf02rVAAAdzkH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAyf02rVAAAdzkH.jpg",
+					"url": "https://t.co/r6R4akzDKC",
+					"display_url": "pic.twitter.com/r6R4akzDKC",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1156474939878203394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156474934706634800,
+					"id_str": "1156474934706634752",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EAyf02rVAAAdzkH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAyf02rVAAAdzkH.jpg",
+					"url": "https://t.co/r6R4akzDKC",
+					"display_url": "pic.twitter.com/r6R4akzDKC",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1156474939878203394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1156474928540950500,
+		"in_reply_to_status_id_str": "1156474928540950528",
+		"in_reply_to_user_id": 822764023,
+		"in_reply_to_user_id_str": "822764023",
+		"in_reply_to_screen_name": "ZandariFesta",
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 4th - 7th 2018 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2839,
+			"friends_count": 1870,
+			"listed_count": 47,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156021610555424770/AOUbampI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156021610555424770/AOUbampI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1564452007",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EARLY BIRD TICKET OPEN \n8.01(Thu) 14:00\nㅤㅤ\n잔다리페스타 2019\nZANDARI FESTA 2019\nㅤㅤ\n19.9.26.(Thu)-9.29(Sun) @Hongdae Area https://t.co/r6R4akzDKC"
+	},
+	{
+		"created_at": "Wed Jul 31 17:06:47 +0000 2019",
+		"id": 1156474928540950500,
+		"id_str": "1156612182244646913",
+		"full_text": "💙 1st LINE UP ANNOUNCEMENTS 💙\nㅤㅤ\nLISTEN TO MUSIC\nDRINK BEER\nMAKE FRIENDS https://t.co/pf65T5pKHJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156474919644848000,
+					"id_str": "1156474919644848131",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EAyfz-kUYAMvSeJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAyfz-kUYAMvSeJ.jpg",
+					"url": "https://t.co/pf65T5pKHJ",
+					"display_url": "pic.twitter.com/pf65T5pKHJ",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1156474928540950528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156474919644848000,
+					"id_str": "1156474919644848131",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EAyfz-kUYAMvSeJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAyfz-kUYAMvSeJ.jpg",
+					"url": "https://t.co/pf65T5pKHJ",
+					"display_url": "pic.twitter.com/pf65T5pKHJ",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1156474928540950528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156474919649042400,
+					"id_str": "1156474919649042433",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EAyfz-lUYAEx_1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAyfz-lUYAEx_1c.jpg",
+					"url": "https://t.co/pf65T5pKHJ",
+					"display_url": "pic.twitter.com/pf65T5pKHJ",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1156474928540950528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156474919644848000,
+					"id_str": "1156474919644848130",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EAyfz-kUYAIE6a_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAyfz-kUYAIE6a_.jpg",
+					"url": "https://t.co/pf65T5pKHJ",
+					"display_url": "pic.twitter.com/pf65T5pKHJ",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1156474928540950528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156474919644881000,
+					"id_str": "1156474919644880896",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EAyfz-kU4AAIPBR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAyfz-kU4AAIPBR.jpg",
+					"url": "https://t.co/pf65T5pKHJ",
+					"display_url": "pic.twitter.com/pf65T5pKHJ",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1156474928540950528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 4th - 7th 2018 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2839,
+			"friends_count": 1870,
+			"listed_count": 47,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156021610555424770/AOUbampI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156021610555424770/AOUbampI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1564452007",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💙 1st LINE UP ANNOUNCEMENTS 💙\nㅤㅤ\nLISTEN TO MUSIC\nDRINK BEER\nMAKE FRIENDS https://t.co/pf65T5pKHJ"
+	},
+	{
+		"created_at": "Wed Jul 31 17:04:56 +0000 2019",
+		"id": 1123348712451858400,
+		"id_str": "1156611714403536896",
+		"full_text": "밀레니얼 세대는 이전 세대에 비해 섹스 덜 한다. 연애의 번거로움과 수고를 꺼린다. 혼자서도 확실한 즐거움이 보장되는 것에 탐닉하고 위험 부담 큰 것은 꺼린다. 스트리밍 동영상에 몰입하고 집 떠나는 모험 기피한다. 인간관계 대체 오락은 잠시뿐 외로움 불안 가중된다. https://t.co/IFXAWnAOJF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IFXAWnAOJF",
+					"expanded_url": "https://qz.com/1598271/the-reason-young-people-are-having-less-sex/",
+					"display_url": "qz.com/1598271/the-re…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102646,
+			"friends_count": 2440,
+			"listed_count": 391,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1562800707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 542,
+		"favorite_count": 470,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "밀레니얼 세대는 이전 세대에 비해 섹스 덜 한다. 연애의 번거로움과 수고를 꺼린다. 혼자서도 확실한 즐거움이 보장되는 것에 탐닉하고 위험 부담 큰 것은 꺼린다. 스트리밍 동영상에 몰입하고 집 떠나는 모험 기피한다. 인간관계 대체 오락은 잠시뿐 외로움 불안 가중된다. https://t.co/IFXAWnAOJF"
+	},
+	{
+		"created_at": "Wed Jul 31 17:04:39 +0000 2019",
+		"id": 1156556129989623800,
+		"id_str": "1156611645478563841",
+		"full_text": "'당신이 특정 장소를 좋아하는 이유'…뇌는 알고 있다 https://t.co/kCeiR45nto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kCeiR45nto",
+					"expanded_url": "http://news.jtbc.joins.com/html/114/NB11859114.html",
+					"display_url": "news.jtbc.joins.com/html/114/NB118…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 616359,
+			"friends_count": 46621,
+			"listed_count": 2387,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 65510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1551367952",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 95,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'당신이 특정 장소를 좋아하는 이유'…뇌는 알고 있다 https://t.co/kCeiR45nto"
+	},
+	{
+		"created_at": "Wed Jul 31 17:04:22 +0000 2019",
+		"id": 1156557279430189000,
+		"id_str": "1156611572757753856",
+		"full_text": "빌리 아일리시 Billie Eilish (p: Petra Collins), Rolling Stone, August 2019. 3/3 https://t.co/NlO29eqo0C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156557267963011000,
+					"id_str": "1156557267963011072",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EAzqtR9U4AA17QO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAzqtR9U4AA17QO.jpg",
+					"url": "https://t.co/NlO29eqo0C",
+					"display_url": "pic.twitter.com/NlO29eqo0C",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1156557279430189056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 661,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 926,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156557267963011000,
+					"id_str": "1156557267963011072",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EAzqtR9U4AA17QO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAzqtR9U4AA17QO.jpg",
+					"url": "https://t.co/NlO29eqo0C",
+					"display_url": "pic.twitter.com/NlO29eqo0C",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1156557279430189056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 661,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 926,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156557267967156200,
+					"id_str": "1156557267967156224",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EAzqtR-UIAAWpS0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAzqtR-UIAAWpS0.jpg",
+					"url": "https://t.co/NlO29eqo0C",
+					"display_url": "pic.twitter.com/NlO29eqo0C",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1156557279430189056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156557267971408000,
+					"id_str": "1156557267971407872",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EAzqtR_VAAANQbv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAzqtR_VAAANQbv.jpg",
+					"url": "https://t.co/NlO29eqo0C",
+					"display_url": "pic.twitter.com/NlO29eqo0C",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1156557279430189056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 930,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156557261700911000,
+		"in_reply_to_status_id_str": "1156557261700911111",
+		"in_reply_to_user_id": 3641518992,
+		"in_reply_to_user_id_str": "3641518992",
+		"in_reply_to_screen_name": "jmtastexx",
+		"user": {
+			"id": 3641518992,
+			"id_str": "3641518992",
+			"name": "화보백업계정",
+			"screen_name": "jmtastexx",
+			"location": "",
+			"description": "봇 아님. 사진 올리는게 취미인 사람의 부계정. 해외 셀럽 & 모델, 캠페인/화보 가리지 않음. 최신 위주, 중복 없음, 정확한 출처표기 원칙. 고화질로 올리려고 노력은 해요. 서치 막힘이 잦으니 팔로하시고 뮤트하시는 것을 추천합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41720,
+			"friends_count": 1,
+			"listed_count": 584,
+			"created_at": "Mon Sep 21 21:04:13 +0000 2015",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3641518992/1481380248",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌리 아일리시 Billie Eilish (p: Petra Collins), Rolling Stone, August 2019. 3/3 https://t.co/NlO29eqo0C"
+	},
+	{
+		"created_at": "Wed Jul 31 17:04:20 +0000 2019",
+		"id": 1156557261700911000,
+		"id_str": "1156611565174452225",
+		"full_text": "빌리 아일리시 Billie Eilish (p: Petra Collins), Rolling Stone, August 2019. 2/3 https://t.co/s3oKbQYeRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156557250573455400,
+					"id_str": "1156557250573455360",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EAzqsRLVUAAOY3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAzqsRLVUAAOY3q.jpg",
+					"url": "https://t.co/s3oKbQYeRs",
+					"display_url": "pic.twitter.com/s3oKbQYeRs",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1156557261700911111/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 901,
+							"h": 926,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 901,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156557250573455400,
+					"id_str": "1156557250573455360",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EAzqsRLVUAAOY3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAzqsRLVUAAOY3q.jpg",
+					"url": "https://t.co/s3oKbQYeRs",
+					"display_url": "pic.twitter.com/s3oKbQYeRs",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1156557261700911111/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 901,
+							"h": 926,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 901,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156557250531475500,
+					"id_str": "1156557250531475456",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EAzqsRBUwAAdoid.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAzqsRBUwAAdoid.jpg",
+					"url": "https://t.co/s3oKbQYeRs",
+					"display_url": "pic.twitter.com/s3oKbQYeRs",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1156557261700911111/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156557250539880400,
+					"id_str": "1156557250539880448",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EAzqsRDVAAAA7ih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAzqsRDVAAAA7ih.jpg",
+					"url": "https://t.co/s3oKbQYeRs",
+					"display_url": "pic.twitter.com/s3oKbQYeRs",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1156557261700911111/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156557239143944200,
+		"in_reply_to_status_id_str": "1156557239143944194",
+		"in_reply_to_user_id": 3641518992,
+		"in_reply_to_user_id_str": "3641518992",
+		"in_reply_to_screen_name": "jmtastexx",
+		"user": {
+			"id": 3641518992,
+			"id_str": "3641518992",
+			"name": "화보백업계정",
+			"screen_name": "jmtastexx",
+			"location": "",
+			"description": "봇 아님. 사진 올리는게 취미인 사람의 부계정. 해외 셀럽 & 모델, 캠페인/화보 가리지 않음. 최신 위주, 중복 없음, 정확한 출처표기 원칙. 고화질로 올리려고 노력은 해요. 서치 막힘이 잦으니 팔로하시고 뮤트하시는 것을 추천합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41720,
+			"friends_count": 1,
+			"listed_count": 584,
+			"created_at": "Mon Sep 21 21:04:13 +0000 2015",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3641518992/1481380248",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌리 아일리시 Billie Eilish (p: Petra Collins), Rolling Stone, August 2019. 2/3 https://t.co/s3oKbQYeRs"
+	},
+	{
 		"created_at": "Wed Jul 31 13:18:08 +0000 2019",
 		"id": 1156554640537870300,
 		"id_str": "1156554640537870336",
@@ -1352,7 +5742,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Tue Jul 30 18:18:57 +0000 2019",
 		"id": 1156263076481491000,
 		"id_str": "1156267953907806209",
-		"full_text": "just a scratch but good catch ❤️. I’ve been dancing my toes off, putting every piece of me into this show 🧚🏼‍♀️👩🏻‍🔬👩🏻‍💻👩🏻‍🎨💝 https://t.co/tyuMG2nswe",
+		"full_text": "just a scratch but good catch ❤️. I’ve been dancing my toes off, putting every piece of me into this show 🧚🏼♀️👩🏻🔬👩🏻💻👩🏻🎨💝 https://t.co/tyuMG2nswe",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1674,7 +6064,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "just a scratch but good catch ❤️. I’ve been dancing my toes off, putting every piece of me into this show 🧚🏼‍♀️👩🏻‍🔬👩🏻‍💻👩🏻‍🎨💝 https://t.co/tyuMG2nswe"
+		"text": "just a scratch but good catch ❤️. I’ve been dancing my toes off, putting every piece of me into this show 🧚🏼♀️👩🏻🔬👩🏻💻👩🏻🎨💝 https://t.co/tyuMG2nswe"
 	},
 	{
 		"created_at": "Tue Jul 30 16:20:55 +0000 2019",
