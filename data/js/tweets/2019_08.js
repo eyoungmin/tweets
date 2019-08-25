@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 25 13:49:08 +0000 2019",
+		"id": 1165622139271045000,
+		"id_str": "1165622139271045121",
+		"full_text": "공감간다. 이메일 주고 받을 때도 용건이 끝나도 감사하다고 답장하려고 한다. 또  그런 사람이 더 커뮤니케이션이 잘되는 것 같다. https://t.co/NyxWK7CFtz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NyxWK7CFtz",
+					"expanded_url": "https://twitter.com/alreadytaken0_0/status/1165443194894475264",
+					"display_url": "twitter.com/alreadytaken0_…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 829,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1165443194894475300,
+		"quoted_status_id_str": "1165443194894475264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NyxWK7CFtz",
+			"expanded": "https://twitter.com/alreadytaken0_0/status/1165443194894475264",
+			"display": "twitter.com/alreadytaken0_…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 25 01:58:05 +0000 2019",
+			"id": 1165443194894475300,
+			"id_str": "1165443194894475264",
+			"full_text": "블로그 할때 어떤 이는 뭐 맡겨놓은 듯 물어보고 고맙다는 한마디 없다. 근데 또 어떤 이는 \"이런 질문 많이 받으실텐데 바쁜 시간 내 답변해줘서 고맙다\"고 감사한다. 이런 사람들 덕분에 블로그에 꾸준히 답글을 달 수 있었다. 작은 것에 감사하는 사람들은 세상을 더 친절한 곳으로 만들고 있다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110121306,
+				"id_str": "110121306",
+				"name": "서밤",
+				"screen_name": "alreadytaken0_0",
+				"location": "",
+				"description": "'나에게 다정한 하루’ 작가. 틈틈이 그림일기 그립니다, 팟캐스트 '서늘한 마음썰'. 인스타 @seobam_breeze 반말멘션과 알계는 자동차단중",
+				"url": "https://t.co/hTTYmppQlo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hTTYmppQlo",
+								"expanded_url": "http://m.blog.naver.com/leeojsh",
+								"display_url": "m.blog.naver.com/leeojsh",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29162,
+				"friends_count": 1441,
+				"listed_count": 108,
+				"created_at": "Sun Jan 31 12:11:21 +0000 2010",
+				"favourites_count": 25953,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25762,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110121306/1489064492",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 310,
+			"favorite_count": 627,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공감간다. 이메일 주고 받을 때도 용건이 끝나도 감사하다고 답장하려고 한다. 또  그런 사람이 더 커뮤니케이션이 잘되는 것 같다. https://t.co/NyxWK7CFtz"
+	},
+	{
+		"created_at": "Sun Aug 25 09:15:58 +0000 2019",
+		"id": 1165542843265343500,
+		"id_str": "1165553394075013120",
+		"full_text": "헤어날 수 없는 매력에 풍~덩♥ ‘레드벨벳’의 ‘음파음파’ (출처 : SBS 인기가요 | 네이버TV) \n\n👉https://t.co/7K72Gyzha1\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay2",
+					"indices": [
+						107,
+						127
+					]
+				},
+				{
+					"text": "음파음파",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "UmpahUmpah",
+					"indices": [
+						134,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7K72Gyzha1",
+					"expanded_url": "http://naver.me/564Yg6eX",
+					"display_url": "naver.me/564Yg6eX",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/CrvY7G7bJU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CrvY7G7bJU",
+							"expanded_url": "https://www.youtube.com/watch?v=YBnGBb1wg98",
+							"display_url": "youtube.com/watch?v=YBnGBb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1800230,
+			"friends_count": 2,
+			"listed_count": 5369,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7162,
+		"favorite_count": 17847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "헤어날 수 없는 매력에 풍~덩♥ ‘레드벨벳’의 ‘음파음파’ (출처 : SBS 인기가요 | 네이버TV) \n\n👉https://t.co/7K72Gyzha1\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah"
+	},
+	{
+		"created_at": "Sun Aug 25 06:15:58 +0000 2019",
+		"id": 1165499037253943300,
+		"id_str": "1165508096330018816",
+		"full_text": "새소년의 첫 싱가폴 공연을 즐겨주신 많은 분들께 감사드립니다! 페스티벌 관계자 분들도 놀랄 만큼 많은 분들이 찾아주셨는데요 뜨거운 반응을 보내주셔서 새소년도 즐겁게 공연할 수 있었답니다.😎곧 또 만날 수 있었으면 좋겠습니다. 새소년은 이제 헬로월드 투어마지막 도시인 방콕으로 갑니다! 🦎 https://t.co/0Dr8hOIsLA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165499024633282600,
+					"id_str": "1165499024633282560",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ECyvMBVUwAASFmh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECyvMBVUwAASFmh.jpg",
+					"url": "https://t.co/0Dr8hOIsLA",
+					"display_url": "pic.twitter.com/0Dr8hOIsLA",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1165499037253943297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165499024633282600,
+					"id_str": "1165499024633282560",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ECyvMBVUwAASFmh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECyvMBVUwAASFmh.jpg",
+					"url": "https://t.co/0Dr8hOIsLA",
+					"display_url": "pic.twitter.com/0Dr8hOIsLA",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1165499037253943297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4957,
+			"friends_count": 534,
+			"listed_count": 34,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새소년의 첫 싱가폴 공연을 즐겨주신 많은 분들께 감사드립니다! 페스티벌 관계자 분들도 놀랄 만큼 많은 분들이 찾아주셨는데요 뜨거운 반응을 보내주셔서 새소년도 즐겁게 공연할 수 있었답니다.😎곧 또 만날 수 있었으면 좋겠습니다. 새소년은 이제 헬로월드 투어마지막 도시인 방콕으로 갑니다! 🦎 https://t.co/0Dr8hOIsLA"
+	},
+	{
 		"created_at": "Sat Aug 24 14:21:33 +0000 2019",
 		"id": 1165267907091157000,
 		"id_str": "1165267907091156992",
