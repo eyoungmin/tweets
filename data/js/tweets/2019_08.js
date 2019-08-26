@@ -1,6 +1,2418 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 13:46:12 +0000 2019",
+		"id": 1165983786447884300,
+		"id_str": "1165983786447884291",
+		"full_text": "#Tiffany_Young #티파니\nCan You Feel The Love Tonight (Korean Version) @ Disney D-23 Expo | Tiffany Young\nhttps://t.co/ovBOGbWJFN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tiffany_Young",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						15,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ovBOGbWJFN",
+					"expanded_url": "https://youtu.be/MjLbVqauNxI",
+					"display_url": "youtu.be/MjLbVqauNxI",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 827,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Tiffany_Young #티파니\nCan You Feel The Love Tonight (Korean Version) @ Disney D-23 Expo | Tiffany Young\nhttps://t.co/ovBOGbWJFN"
+	},
+	{
+		"created_at": "Mon Aug 26 13:15:58 +0000 2019",
+		"id": 1165961379594981400,
+		"id_str": "1165976180228595713",
+		"full_text": "디즈니 @DisneyD23  엑스포의 스페셜 무대로 영화 라이온 킹 OST, “Can You Feel The Love Tonight” 을 한국어 버전으로 준비해봤어요! @Disney #d23expo \nhttps://t.co/y2UzHBk2q8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "d23expo",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DisneyD23",
+					"name": "Disney D23",
+					"id": 29236490,
+					"id_str": "29236490",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"screen_name": "Disney",
+					"name": "Disney",
+					"id": 67418441,
+					"id_str": "67418441",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y2UzHBk2q8",
+					"expanded_url": "https://youtu.be/MjLbVqauNxI",
+					"display_url": "youtu.be/MjLbVqauNxI",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNMOUh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNMOUh",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309967,
+			"friends_count": 163,
+			"listed_count": 910,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1564707040",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1874,
+		"favorite_count": 2713,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디즈니 @DisneyD23  엑스포의 스페셜 무대로 영화 라이온 킹 OST, “Can You Feel The Love Tonight” 을 한국어 버전으로 준비해봤어요! @Disney #d23expo \nhttps://t.co/y2UzHBk2q8"
+	},
+	{
+		"created_at": "Mon Aug 26 11:31:42 +0000 2019",
+		"id": 1165949937579942000,
+		"id_str": "1165949937579941888",
+		"full_text": "#SMTOWN #Artist_News\nNCT 태용, ‘호텔 델루나’ OST 참여!\nhttps://t.co/Vkkg8CnUcf\n#STATION #SMSTATION #스테이션 https://t.co/zpoeX0WbWj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vkkg8CnUcf",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2517",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1165949936485261300,
+					"id_str": "1165949936485261314",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5JSi4X4AIK6oA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5JSi4X4AIK6oA.jpg",
+					"url": "https://t.co/zpoeX0WbWj",
+					"display_url": "pic.twitter.com/zpoeX0WbWj",
+					"expanded_url": "https://twitter.com/fromminn/status/1165949937579941888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165949936485261300,
+					"id_str": "1165949936485261314",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5JSi4X4AIK6oA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5JSi4X4AIK6oA.jpg",
+					"url": "https://t.co/zpoeX0WbWj",
+					"display_url": "pic.twitter.com/zpoeX0WbWj",
+					"expanded_url": "https://twitter.com/fromminn/status/1165949937579941888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 827,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\nNCT 태용, ‘호텔 델루나’ OST 참여!\nhttps://t.co/Vkkg8CnUcf\n#STATION #SMSTATION #스테이션 https://t.co/zpoeX0WbWj"
+	},
+	{
+		"created_at": "Mon Aug 26 09:58:20 +0000 2019",
+		"id": 1165926441881657300,
+		"id_str": "1165926441881657344",
+		"full_text": "\"한 박스도 안 나오는 짐을 가지고 퇴소를 했죠\"\nhttps://t.co/1CgHumNlpz\n#닷페이스 #Dotface #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "닷페이스",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "Dotface",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1CgHumNlpz",
+					"expanded_url": "https://youtu.be/QsjAdENjEAQ",
+					"display_url": "youtu.be/QsjAdENjEAQ",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 827,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"한 박스도 안 나오는 짐을 가지고 퇴소를 했죠\"\nhttps://t.co/1CgHumNlpz\n#닷페이스 #Dotface #minfav"
+	},
+	{
+		"created_at": "Mon Aug 26 09:17:25 +0000 2019",
+		"id": 1165916144915615700,
+		"id_str": "1165916144915615744",
+		"full_text": "【 #가온차트 】\n2019년 여름 ′댄스곡′ 실종?\nhttps://t.co/EBXleDKizq\n#Gaon #Opinion #minfav https://t.co/F8q8RPH0gE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "Opinion",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EBXleDKizq",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=15705&sgenre=opinion&search_str=",
+					"display_url": "gaonchart.co.kr/main/section/a…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1165916143405686800,
+					"id_str": "1165916143405686785",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EC4qjh2W4AE_gym.png",
+					"media_url_https": "https://pbs.twimg.com/media/EC4qjh2W4AE_gym.png",
+					"url": "https://t.co/F8q8RPH0gE",
+					"display_url": "pic.twitter.com/F8q8RPH0gE",
+					"expanded_url": "https://twitter.com/fromminn/status/1165916144915615744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165916143405686800,
+					"id_str": "1165916143405686785",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EC4qjh2W4AE_gym.png",
+					"media_url_https": "https://pbs.twimg.com/media/EC4qjh2W4AE_gym.png",
+					"url": "https://t.co/F8q8RPH0gE",
+					"display_url": "pic.twitter.com/F8q8RPH0gE",
+					"expanded_url": "https://twitter.com/fromminn/status/1165916144915615744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 827,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #가온차트 】\n2019년 여름 ′댄스곡′ 실종?\nhttps://t.co/EBXleDKizq\n#Gaon #Opinion #minfav https://t.co/F8q8RPH0gE"
+	},
+	{
+		"created_at": "Mon Aug 26 08:15:58 +0000 2019",
+		"id": 1165825539845709800,
+		"id_str": "1165900682748207104",
+		"full_text": "팬북에서 레드벨벳의 새 미니앨범 ‘‘The ReVe Festival’ Day 2’ 팬아트 이벤트가 시작되었습니다! 청량한 느낌의 새 앨범을 감상 후, 다채롭고 아기자기한 팬아트를 만들어 응모해주세요.\n\n🎨응모하기: https://t.co/IqQ24TugkT\n🗓️기간: 8.26~9.17 / 발표: 10.11\n\n#RedVelvet #레드벨벳 #FanBook https://t.co/Gg9nYpPiq7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "FanBook",
+					"indices": [
+						190,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IqQ24TugkT",
+					"expanded_url": "https://www.fanbook.me/event/detail/64",
+					"display_url": "fanbook.me/event/detail/64",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1165825530416881700,
+					"id_str": "1165825530416881665",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EC3YJKKUYAEYnT8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC3YJKKUYAEYnT8.jpg",
+					"url": "https://t.co/Gg9nYpPiq7",
+					"display_url": "pic.twitter.com/Gg9nYpPiq7",
+					"expanded_url": "https://twitter.com/FanBookOfficial/status/1165825539845709824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 370,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 653,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165825530416881700,
+					"id_str": "1165825530416881665",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EC3YJKKUYAEYnT8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC3YJKKUYAEYnT8.jpg",
+					"url": "https://t.co/Gg9nYpPiq7",
+					"display_url": "pic.twitter.com/Gg9nYpPiq7",
+					"expanded_url": "https://twitter.com/FanBookOfficial/status/1165825539845709824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 370,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 653,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1165825530416910300,
+					"id_str": "1165825530416910337",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EC3YJKKU0AEal9Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC3YJKKU0AEal9Q.jpg",
+					"url": "https://t.co/Gg9nYpPiq7",
+					"display_url": "pic.twitter.com/Gg9nYpPiq7",
+					"expanded_url": "https://twitter.com/FanBookOfficial/status/1165825539845709824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 324,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 571,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1165825530421108700,
+					"id_str": "1165825530421108736",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EC3YJKLU4AAvAqI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC3YJKLU4AAvAqI.jpg",
+					"url": "https://t.co/Gg9nYpPiq7",
+					"display_url": "pic.twitter.com/Gg9nYpPiq7",
+					"expanded_url": "https://twitter.com/FanBookOfficial/status/1165825539845709824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 324,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 571,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1165825530416861200,
+					"id_str": "1165825530416861184",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EC3YJKKUEAA_e1H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC3YJKKUEAA_e1H.jpg",
+					"url": "https://t.co/Gg9nYpPiq7",
+					"display_url": "pic.twitter.com/Gg9nYpPiq7",
+					"expanded_url": "https://twitter.com/FanBookOfficial/status/1165825539845709824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 324,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 571,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 757766096917139500,
+			"id_str": "757766096917139456",
+			"name": "FanBook",
+			"screen_name": "FanBookOfficial",
+			"location": "Fan&Art Social Platform",
+			"description": "FanBook Official Twitter",
+			"url": "https://t.co/dQHCKwOadQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQHCKwOadQ",
+							"expanded_url": "http://www.fanbook.me",
+							"display_url": "fanbook.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23780,
+			"friends_count": 153,
+			"listed_count": 77,
+			"created_at": "Tue Jul 26 02:34:50 +0000 2016",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763256965375991809/x07BKDl1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763256965375991809/x07BKDl1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/757766096917139456/1470810460",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1142,
+		"favorite_count": 4658,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팬북에서 레드벨벳의 새 미니앨범 ‘‘The ReVe Festival’ Day 2’ 팬아트 이벤트가 시작되었습니다! 청량한 느낌의 새 앨범을 감상 후, 다채롭고 아기자기한 팬아트를 만들어 응모해주세요.\n\n🎨응모하기: https://t.co/IqQ24TugkT\n🗓️기간: 8.26~9.17 / 발표: 10.11\n\n#RedVelvet #레드벨벳 #FanBook https://t.co/Gg9nYpPiq7"
+	},
+	{
+		"created_at": "Mon Aug 26 07:26:29 +0000 2019",
+		"id": 1165888227221364700,
+		"id_str": "1165888227221364736",
+		"full_text": "#플레이DB\n396라이브 - 안동 (2019.09.27 ~ 2019.09.28) at 396커피 컴퍼니\nhttps://t.co/okFTbwW5ea\n#프롬 #Fromm https://t.co/hE4qSBGyUi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "플레이DB",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/okFTbwW5ea",
+					"expanded_url": "http://www.playdb.co.kr/playdb/playdbDetail.asp?sReqPlayno=147756",
+					"display_url": "playdb.co.kr/playdb/playdbD…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1165888226093162500,
+					"id_str": "1165888226093162496",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EC4RKhwX4AAL49P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC4RKhwX4AAL49P.jpg",
+					"url": "https://t.co/hE4qSBGyUi",
+					"display_url": "pic.twitter.com/hE4qSBGyUi",
+					"expanded_url": "https://twitter.com/fromminn/status/1165888227221364736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165888226093162500,
+					"id_str": "1165888226093162496",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EC4RKhwX4AAL49P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC4RKhwX4AAL49P.jpg",
+					"url": "https://t.co/hE4qSBGyUi",
+					"display_url": "pic.twitter.com/hE4qSBGyUi",
+					"expanded_url": "https://twitter.com/fromminn/status/1165888227221364736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 827,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#플레이DB\n396라이브 - 안동 (2019.09.27 ~ 2019.09.28) at 396커피 컴퍼니\nhttps://t.co/okFTbwW5ea\n#프롬 #Fromm https://t.co/hE4qSBGyUi"
+	},
+	{
+		"created_at": "Mon Aug 26 07:04:35 +0000 2019",
+		"id": 1165882717743059000,
+		"id_str": "1165882717743058944",
+		"full_text": "#SMTOWN #Artist_News\n서머 하드캐리! 레드벨벳, 새 미니앨범 ‘‘The ReVe Festival’ Day 2’ 주간 음반 차트 1위!\nhttps://t.co/YEwbIsJbky\n#RedVelvet #레드벨벳 https://t.co/nifwANMGlx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						119,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YEwbIsJbky",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2523",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1165882716769980400,
+					"id_str": "1165882716769980416",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EC4MJ17XkAAMQox.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC4MJ17XkAAMQox.jpg",
+					"url": "https://t.co/nifwANMGlx",
+					"display_url": "pic.twitter.com/nifwANMGlx",
+					"expanded_url": "https://twitter.com/fromminn/status/1165882717743058944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165882716769980400,
+					"id_str": "1165882716769980416",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EC4MJ17XkAAMQox.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC4MJ17XkAAMQox.jpg",
+					"url": "https://t.co/nifwANMGlx",
+					"display_url": "pic.twitter.com/nifwANMGlx",
+					"expanded_url": "https://twitter.com/fromminn/status/1165882717743058944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 827,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n서머 하드캐리! 레드벨벳, 새 미니앨범 ‘‘The ReVe Festival’ Day 2’ 주간 음반 차트 1위!\nhttps://t.co/YEwbIsJbky\n#RedVelvet #레드벨벳 https://t.co/nifwANMGlx"
+	},
+	{
+		"created_at": "Mon Aug 26 02:16:08 +0000 2019",
+		"id": 1165806910215344000,
+		"id_str": "1165810128395935744",
+		"full_text": "#레드벨벳 새 미니앨범 ‘‘The ReVe Festival’ Day 2’가 한터차트, 신나라레코드, 교보문고, 알라딘 등 각종 주간 음반 차트 1위, 타이틀 곡 '#음파음파'는 국내 음원 차트, 중국 QQ뮤직 한국 뮤직비디오 차트, 쿠거우뮤직 한국 신곡 차트 1위에 오르며 높은 인기를 얻고 있습니다!\n\n#RedVelvet #RVF https://t.co/7usg6cfErW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "음파음파",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165806901998669800,
+					"id_str": "1165806901998669824",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EC3HM15UUAAglNU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC3HM15UUAAglNU.jpg",
+					"url": "https://t.co/7usg6cfErW",
+					"display_url": "pic.twitter.com/7usg6cfErW",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1165806910215344128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165806901998669800,
+					"id_str": "1165806901998669824",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EC3HM15UUAAglNU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC3HM15UUAAglNU.jpg",
+					"url": "https://t.co/7usg6cfErW",
+					"display_url": "pic.twitter.com/7usg6cfErW",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1165806910215344128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1802116,
+			"friends_count": 2,
+			"listed_count": 5369,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6037,
+		"favorite_count": 21490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳 새 미니앨범 ‘‘The ReVe Festival’ Day 2’가 한터차트, 신나라레코드, 교보문고, 알라딘 등 각종 주간 음반 차트 1위, 타이틀 곡 '#음파음파'는 국내 음원 차트, 중국 QQ뮤직 한국 뮤직비디오 차트, 쿠거우뮤직 한국 신곡 차트 1위에 오르며 높은 인기를 얻고 있습니다!\n\n#RedVelvet #RVF https://t.co/7usg6cfErW"
+	},
+	{
+		"created_at": "Mon Aug 26 02:16:03 +0000 2019",
+		"id": 1165770266212888600,
+		"id_str": "1165810106929418240",
+		"full_text": "Can You Feel the Love Tonight? beautifully expressed in Korean by KPop singer @Tiffanyyoung\n#D23Expo https://t.co/hHgIo5AwTs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "D23Expo",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165770185115984000,
+					"id_str": "1165770185115983872",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165770185115983872/pu/img/VJ2upSYUSDzGRGDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165770185115983872/pu/img/VJ2upSYUSDzGRGDB.jpg",
+					"url": "https://t.co/hHgIo5AwTs",
+					"display_url": "pic.twitter.com/hHgIo5AwTs",
+					"expanded_url": "https://twitter.com/laughing_place/status/1165770266212888576/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165770185115984000,
+					"id_str": "1165770185115983872",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165770185115983872/pu/img/VJ2upSYUSDzGRGDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165770185115983872/pu/img/VJ2upSYUSDzGRGDB.jpg",
+					"url": "https://t.co/hHgIo5AwTs",
+					"display_url": "pic.twitter.com/hHgIo5AwTs",
+					"expanded_url": "https://twitter.com/laughing_place/status/1165770266212888576/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44988,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165770185115983872/pu/vid/1280x720/ZWNyBIGWKC6wxr9Z.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1165770185115983872/pu/pl/2DXcIKvCgq2rELlq.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165770185115983872/pu/vid/480x270/RzPnz1F1BFLZI83b.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165770185115983872/pu/vid/640x360/qFzS4uYqEUw3ze_3.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36251026,
+			"id_str": "36251026",
+			"name": "LaughingPlace.com @ #D23Expo",
+			"screen_name": "laughing_place",
+			"location": "Orlando, FL",
+			"description": "The official Walt Disney World, Disneyland and Disney news Twitter of https://t.co/ma73gto2vZ",
+			"url": "https://t.co/ma73gto2vZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ma73gto2vZ",
+							"expanded_url": "http://LaughingPlace.com",
+							"display_url": "LaughingPlace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ma73gto2vZ",
+							"expanded_url": "http://LaughingPlace.com",
+							"display_url": "LaughingPlace.com",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29083,
+			"friends_count": 411,
+			"listed_count": 630,
+			"created_at": "Wed Apr 29 01:56:44 +0000 2009",
+			"favourites_count": 3847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135892386306043904/NYpk9eYw_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135892386306043904/NYpk9eYw_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36251026/1566512473",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1065,
+		"favorite_count": 1819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can You Feel the Love Tonight? beautifully expressed in Korean by KPop singer @Tiffanyyoung\n#D23Expo https://t.co/hHgIo5AwTs"
+	},
+	{
+		"created_at": "Mon Aug 26 02:15:58 +0000 2019",
+		"id": 1165767187203686400,
+		"id_str": "1165810085370761218",
+		"full_text": "Ohhh my heart ❤💕❤💕\n@tiffanyyoung #TiffanyYoung #Disney  never heard in Korean before. But yesssssss I can feel the love tonight 😍🌙❤💕 https://t.co/SDm6FrUBhg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TiffanyYoung",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"text": "Disney",
+					"indices": [
+						47,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						19,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165766864686829600,
+					"id_str": "1165766864686829568",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165766864686829568/pu/img/ixVQajYuf2-donYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165766864686829568/pu/img/ixVQajYuf2-donYx.jpg",
+					"url": "https://t.co/SDm6FrUBhg",
+					"display_url": "pic.twitter.com/SDm6FrUBhg",
+					"expanded_url": "https://twitter.com/ployployd/status/1165767187203686400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165766864686829600,
+					"id_str": "1165766864686829568",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165766864686829568/pu/img/ixVQajYuf2-donYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165766864686829568/pu/img/ixVQajYuf2-donYx.jpg",
+					"url": "https://t.co/SDm6FrUBhg",
+					"display_url": "pic.twitter.com/SDm6FrUBhg",
+					"expanded_url": "https://twitter.com/ployployd/status/1165767187203686400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 139955,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165766864686829568/pu/vid/540x960/Z_yQGOAFqdtq4mR4.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165766864686829568/pu/vid/320x568/oOVVwe1vRNQV_sNF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165766864686829568/pu/vid/360x640/QHl-SXnnrRCzfPsJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1165766864686829568/pu/pl/YucXRBDjCofnxXyk.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74592480,
+			"id_str": "74592480",
+			"name": "🦄🌙✨💕💃💓",
+			"screen_name": "ployployd",
+			"location": "ÜT: 51.4782492,-0.1981771",
+			"description": "One Life to Live, OnE LovE to GiVe..........❤",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 214,
+			"listed_count": 6,
+			"created_at": "Tue Sep 15 23:38:59 +0000 2009",
+			"favourites_count": 632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157327968823214080/kGALQehC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157327968823214080/kGALQehC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74592480/1559476409",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1942,
+		"favorite_count": 3448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ohhh my heart ❤💕❤💕\n@tiffanyyoung #TiffanyYoung #Disney  never heard in Korean before. But yesssssss I can feel the love tonight 😍🌙❤💕 https://t.co/SDm6FrUBhg"
+	},
+	{
+		"created_at": "Sun Aug 25 23:16:06 +0000 2019",
+		"id": 1165763380738527200,
+		"id_str": "1165764818047049728",
+		"full_text": "Coming soon https://t.co/0BzFtg4oSZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165763368893829000,
+					"id_str": "1165763368893829120",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EC2fm4cUUAAx6rC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC2fm4cUUAAx6rC.jpg",
+					"url": "https://t.co/0BzFtg4oSZ",
+					"display_url": "pic.twitter.com/0BzFtg4oSZ",
+					"expanded_url": "https://twitter.com/adoyband/status/1165763380738527232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165763368893829000,
+					"id_str": "1165763368893829120",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EC2fm4cUUAAx6rC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC2fm4cUUAAx6rC.jpg",
+					"url": "https://t.co/0BzFtg4oSZ",
+					"display_url": "pic.twitter.com/0BzFtg4oSZ",
+					"expanded_url": "https://twitter.com/adoyband/status/1165763380738527232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2709,
+			"friends_count": 560,
+			"listed_count": 29,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 302,
+		"favorite_count": 361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coming soon https://t.co/0BzFtg4oSZ"
+	},
+	{
 		"created_at": "Sun Aug 25 13:49:08 +0000 2019",
 		"id": 1165622139271045000,
 		"id_str": "1165622139271045121",
