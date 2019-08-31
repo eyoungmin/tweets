@@ -1,6 +1,1309 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 15:15:58 +0000 2019",
+		"id": 1167814410296905700,
+		"id_str": "1167818318633472000",
+		"full_text": "9월 16일! 드디어 #이달의소녀 의 공식 팬클럽 'Orbit' 2기 모집이 시작됩니다!\n자세한 내용은 공식 팬카페에서 확인 해주세요~\n\n#LOONA\n\n▶️ \nhttps://t.co/61eWgy4eu1 https://t.co/DSbsUM2N1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/61eWgy4eu1",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F5dA/234",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167814393909760000,
+					"id_str": "1167814393909760003",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EDTpAQCUUAMUHcf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDTpAQCUUAMUHcf.jpg",
+					"url": "https://t.co/DSbsUM2N1f",
+					"display_url": "pic.twitter.com/DSbsUM2N1f",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1167814410296905729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167814393909760000,
+					"id_str": "1167814393909760003",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EDTpAQCUUAMUHcf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDTpAQCUUAMUHcf.jpg",
+					"url": "https://t.co/DSbsUM2N1f",
+					"display_url": "pic.twitter.com/DSbsUM2N1f",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1167814410296905729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339583,
+			"friends_count": 0,
+			"listed_count": 4572,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3226,
+		"favorite_count": 7370,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9월 16일! 드디어 #이달의소녀 의 공식 팬클럽 'Orbit' 2기 모집이 시작됩니다!\n자세한 내용은 공식 팬카페에서 확인 해주세요~\n\n#LOONA\n\n▶️ \nhttps://t.co/61eWgy4eu1 https://t.co/DSbsUM2N1f"
+	},
+	{
+		"created_at": "Sat Aug 31 14:15:58 +0000 2019",
+		"id": 1167792344340414500,
+		"id_str": "1167803218866450432",
+		"full_text": "'비긴어게인3' 속 태연 모아보기 👀👇\n\nhttps://t.co/7nbcZcxpMJ\nhttps://t.co/yRlfX7HZtK\nhttps://t.co/BQBfNp4JXX\nhttps://t.co/tl2RYM6oND\nhttps://t.co/E7E61qJzfm\nhttps://t.co/zgDOutQAxN\nhttps://t.co/efM8Alp2W6\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #비긴어게인3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						192,
+						195
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						211,
+						227
+					]
+				},
+				{
+					"text": "비긴어게인3",
+					"indices": [
+						228,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7nbcZcxpMJ",
+					"expanded_url": "http://tv.naver.com/v/9704843",
+					"display_url": "tv.naver.com/v/9704843",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/yRlfX7HZtK",
+					"expanded_url": "http://tv.naver.com/v/9704882",
+					"display_url": "tv.naver.com/v/9704882",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/BQBfNp4JXX",
+					"expanded_url": "http://tv.naver.com/v/9704885",
+					"display_url": "tv.naver.com/v/9704885",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/tl2RYM6oND",
+					"expanded_url": "http://tv.naver.com/v/9704886",
+					"display_url": "tv.naver.com/v/9704886",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/E7E61qJzfm",
+					"expanded_url": "http://tv.naver.com/v/9704941",
+					"display_url": "tv.naver.com/v/9704941",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/zgDOutQAxN",
+					"expanded_url": "http://tv.naver.com/v/9704947",
+					"display_url": "tv.naver.com/v/9704947",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/efM8Alp2W6",
+					"expanded_url": "http://tv.naver.com/v/9705225",
+					"display_url": "tv.naver.com/v/9705225",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3466928,
+			"friends_count": 4,
+			"listed_count": 5783,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2190,
+		"favorite_count": 3895,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'비긴어게인3' 속 태연 모아보기 👀👇\n\nhttps://t.co/7nbcZcxpMJ\nhttps://t.co/yRlfX7HZtK\nhttps://t.co/BQBfNp4JXX\nhttps://t.co/tl2RYM6oND\nhttps://t.co/E7E61qJzfm\nhttps://t.co/zgDOutQAxN\nhttps://t.co/efM8Alp2W6\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #비긴어게인3"
+	},
+	{
+		"created_at": "Sat Aug 31 12:15:58 +0000 2019",
+		"id": 1167764780548944000,
+		"id_str": "1167773020519374853",
+		"full_text": "＂러비 감사해＂... '쇼 음악중심' 레드벨벳 '음파음파'로 1위 (출처 : 텐아시아 | 네이버 TV연예)\n\n 👉🏻 https://t.co/o60DvqWBFT\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah #UmpahUmpah5thWin 🏆",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay2",
+					"indices": [
+						112,
+						132
+					]
+				},
+				{
+					"text": "음파음파",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "UmpahUmpah",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "UmpahUmpah5thWin",
+					"indices": [
+						151,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o60DvqWBFT",
+					"expanded_url": "http://naver.me/FDDXnKwK",
+					"display_url": "naver.me/FDDXnKwK",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1811188,
+			"friends_count": 2,
+			"listed_count": 5377,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2552,
+		"favorite_count": 7840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "＂러비 감사해＂... '쇼 음악중심' 레드벨벳 '음파음파'로 1위 (출처 : 텐아시아 | 네이버 TV연예)\n\n 👉🏻 https://t.co/o60DvqWBFT\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah #UmpahUmpah5thWin 🏆"
+	},
+	{
+		"created_at": "Sat Aug 31 09:16:04 +0000 2019",
+		"id": 1167717203984076800,
+		"id_str": "1167727746690244608",
+		"full_text": "8월 5주차 1위 '레드벨벳 - 음파음파(Red Velvet - Umpah Umpah)' (출처 : 쇼! 음악중심 | 네이버TV) \n\n👉🏻https://t.co/H27IAtDwOQ\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay2",
+					"indices": [
+						124,
+						144
+					]
+				},
+				{
+					"text": "음파음파",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "UmpahUmpah",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H27IAtDwOQ",
+					"expanded_url": "http://naver.me/GaQTT65y",
+					"display_url": "naver.me/GaQTT65y",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1811188,
+			"friends_count": 2,
+			"listed_count": 5377,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4370,
+		"favorite_count": 13782,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8월 5주차 1위 '레드벨벳 - 음파음파(Red Velvet - Umpah Umpah)' (출처 : 쇼! 음악중심 | 네이버TV) \n\n👉🏻https://t.co/H27IAtDwOQ\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah"
+	},
+	{
+		"created_at": "Sat Aug 31 09:15:58 +0000 2019",
+		"id": 1167717032814510000,
+		"id_str": "1167727721025331200",
+		"full_text": "레드벨벳 - 음파음파(Red Velvet - Umpah Umpah) (출처 : 쇼! 음악중심 | 네이버TV) \n\n👉🏻https://t.co/jg77tF0ZDi\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay2",
+					"indices": [
+						112,
+						132
+					]
+				},
+				{
+					"text": "음파음파",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "UmpahUmpah",
+					"indices": [
+						139,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jg77tF0ZDi",
+					"expanded_url": "http://naver.me/5cKADaP6",
+					"display_url": "naver.me/5cKADaP6",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1811188,
+			"friends_count": 2,
+			"listed_count": 5377,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3549,
+		"favorite_count": 11308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 - 음파음파(Red Velvet - Umpah Umpah) (출처 : 쇼! 음악중심 | 네이버TV) \n\n👉🏻https://t.co/jg77tF0ZDi\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah"
+	},
+	{
+		"created_at": "Sat Aug 31 06:15:58 +0000 2019",
+		"id": 1167677512010412000,
+		"id_str": "1167682422906994689",
+		"full_text": "a few days to breathe. imy tho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNMOUh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNMOUh",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310557,
+			"friends_count": 163,
+			"listed_count": 909,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1564707040",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2921,
+		"favorite_count": 7048,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "a few days to breathe. imy tho"
+	},
+	{
+		"created_at": "Sat Aug 31 02:15:58 +0000 2019",
+		"id": 1167612996337561600,
+		"id_str": "1167622025650851840",
+		"full_text": "'#비긴어게인3' #태연, \n베를린서도 빛난 #감성보이스...역시 #믿듣탱!\n(출처 : 스포츠서울 | 네이버 TV연예)\n#TAEYEON 🎵 #소녀시대 #GirlsGeneration \n https://t.co/PYI5u0CwbF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비긴어게인3",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "감성보이스",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PYI5u0CwbF",
+					"expanded_url": "http://naver.me/F64xzzXZ",
+					"display_url": "naver.me/F64xzzXZ",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3466928,
+			"friends_count": 4,
+			"listed_count": 5783,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1763,
+		"favorite_count": 4504,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'#비긴어게인3' #태연, \n베를린서도 빛난 #감성보이스...역시 #믿듣탱!\n(출처 : 스포츠서울 | 네이버 TV연예)\n#TAEYEON 🎵 #소녀시대 #GirlsGeneration \n https://t.co/PYI5u0CwbF"
+	},
+	{
+		"created_at": "Fri Aug 30 21:15:58 +0000 2019",
+		"id": 1167497216698830800,
+		"id_str": "1167546527310589953",
+		"full_text": ".@ygofficialblink has released '2018 TOUR 'IN YOUR AREA SEOUL,' which features live tracks from their incredible shows at Seoul's Olympic Gymnastics Arena last November. 🖤 💗 Listen now: https://t.co/16wP7rCOA0 #BLACKPINK https://t.co/L05Dsbuwhl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						210,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/16wP7rCOA0",
+					"expanded_url": "https://pdora.co/2PtcSlg",
+					"display_url": "pdora.co/2PtcSlg",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167497215272771600,
+					"id_str": "1167497215272771585",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EDPIiBiXYAE4NnQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDPIiBiXYAE4NnQ.jpg",
+					"url": "https://t.co/L05Dsbuwhl",
+					"display_url": "pic.twitter.com/L05Dsbuwhl",
+					"expanded_url": "https://twitter.com/pandoramusic/status/1167497216698830848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167497215272771600,
+					"id_str": "1167497215272771585",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EDPIiBiXYAE4NnQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDPIiBiXYAE4NnQ.jpg",
+					"url": "https://t.co/L05Dsbuwhl",
+					"display_url": "pic.twitter.com/L05Dsbuwhl",
+					"expanded_url": "https://twitter.com/pandoramusic/status/1167497216698830848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5796972,
+			"id_str": "5796972",
+			"name": "Pandora",
+			"screen_name": "pandoramusic",
+			"location": "",
+			"description": "Find the music you love, and let the music you love find you. 🎶#PandoraMusic #PandoraPodcasts #PandoraLive Tech questions: @pandorasupport",
+			"url": "https://t.co/EkaAqXmCFj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EkaAqXmCFj",
+							"expanded_url": "http://www.pandora.com/",
+							"display_url": "pandora.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 529694,
+			"friends_count": 151852,
+			"listed_count": 6623,
+			"created_at": "Sat May 05 23:31:49 +0000 2007",
+			"favourites_count": 4416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 173782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "11132A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134831532168925184/YtqFXvGE_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134831532168925184/YtqFXvGE_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5796972/1565809152",
+			"profile_link_color": "00A0EE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "04102D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2625,
+		"favorite_count": 15688,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@ygofficialblink has released '2018 TOUR 'IN YOUR AREA SEOUL,' which features live tracks from their incredible shows at Seoul's Olympic Gymnastics Arena last November. 🖤 💗 Listen now: https://t.co/16wP7rCOA0 #BLACKPINK https://t.co/L05Dsbuwhl"
+	},
+	{
 		"created_at": "Fri Aug 30 15:16:12 +0000 2019",
 		"id": 1167452564108918800,
 		"id_str": "1167455988926099456",
