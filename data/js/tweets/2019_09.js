@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 10:58:06 +0000 2019",
+		"id": 1170290138322264000,
+		"id_str": "1170290138322264064",
+		"full_text": "117화_늘 돈이 어려운 당신께 with 미스 페니\nhttps://t.co/Wb3kaQwAYY\n#서늘한마음썰 #서밤 #블블 #봄봄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서늘한마음썰",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "서밤",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "블블",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "봄봄",
+					"indices": [
+						69,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wb3kaQwAYY",
+					"expanded_url": "http://kbspodcastad.kbs.co.kr/cgi-bin/podcast.fcgi/kbsaod/I0000-1902/I0000-1902_S000_20190906_PI-1567635909-53-8AA_00_00_99_M3A30012.mp3",
+					"display_url": "kbspodcastad.kbs.co.kr/cgi-bin/podcas…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "117화_늘 돈이 어려운 당신께 with 미스 페니\nhttps://t.co/Wb3kaQwAYY\n#서늘한마음썰 #서밤 #블블 #봄봄"
+	},
+	{
+		"created_at": "Sat Sep 07 05:15:58 +0000 2019",
+		"id": 1170197364599971800,
+		"id_str": "1170204038433869824",
+		"full_text": "'#비긴어게인3' 속 태연 모아보기 👀👇\n\nhttps://t.co/5QyQm5zljC\nhttps://t.co/qNeSVuTkEr\nhttps://t.co/5QSj5s6t8E\nhttps://t.co/FkXGL6Iim0\nhttps://t.co/FkXGL6Iim0\nhttps://t.co/gdqnp2eCuE\nhttps://t.co/DQuACGK3Wp\nhttps://t.co/exDTnAjU02\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비긴어게인3",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						217,
+						220
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						221,
+						229
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						236,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5QyQm5zljC",
+					"expanded_url": "https://tv.naver.com/v/9786001",
+					"display_url": "tv.naver.com/v/9786001",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/qNeSVuTkEr",
+					"expanded_url": "https://tv.naver.com/v/9786061",
+					"display_url": "tv.naver.com/v/9786061",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/5QSj5s6t8E",
+					"expanded_url": "https://tv.naver.com/v/9786062",
+					"display_url": "tv.naver.com/v/9786062",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/FkXGL6Iim0",
+					"expanded_url": "https://tv.naver.com/v/9786111",
+					"display_url": "tv.naver.com/v/9786111",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/FkXGL6Iim0",
+					"expanded_url": "https://tv.naver.com/v/9786111",
+					"display_url": "tv.naver.com/v/9786111",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/gdqnp2eCuE",
+					"expanded_url": "https://tv.naver.com/v/9786165",
+					"display_url": "tv.naver.com/v/9786165",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/DQuACGK3Wp",
+					"expanded_url": "https://tv.naver.com/v/9786167",
+					"display_url": "tv.naver.com/v/9786167",
+					"indices": [
+						168,
+						191
+					]
+				},
+				{
+					"url": "https://t.co/exDTnAjU02",
+					"expanded_url": "https://tv.naver.com/v/9786169",
+					"display_url": "tv.naver.com/v/9786169",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3470587,
+			"friends_count": 4,
+			"listed_count": 5773,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2892,
+		"favorite_count": 6171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'#비긴어게인3' 속 태연 모아보기 👀👇\n\nhttps://t.co/5QyQm5zljC\nhttps://t.co/qNeSVuTkEr\nhttps://t.co/5QSj5s6t8E\nhttps://t.co/FkXGL6Iim0\nhttps://t.co/FkXGL6Iim0\nhttps://t.co/gdqnp2eCuE\nhttps://t.co/DQuACGK3Wp\nhttps://t.co/exDTnAjU02\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Sat Sep 07 02:15:58 +0000 2019",
+		"id": 1170156629699940400,
+		"id_str": "1170158740441640960",
+		"full_text": "you bring me life 💗 📷 https://t.co/etmmv54dkY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/etmmv54dkY",
+					"expanded_url": "https://www.instagram.com/tv/B2F600rHh57/?igshid=ygcppgg67khd",
+					"display_url": "instagram.com/tv/B2F600rHh57…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNMOUh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNMOUh",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311690,
+			"friends_count": 163,
+			"listed_count": 912,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1564707040",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2068,
+		"favorite_count": 4119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "you bring me life 💗 📷 https://t.co/etmmv54dkY"
+	},
+	{
+		"created_at": "Fri Sep 06 17:52:48 +0000 2019",
+		"id": 1169437910036172800,
+		"id_str": "1170032111610261504",
+		"full_text": "\"좋아하는 일을 하니 돈이 저절로 따라왔어요\" 라는 것은 운좋게 돈이 따라왔던 사람만이 할 수 있는 얘기다. 돈이 안 따라왔던 사람들은 이미 굶어죽어 말이 읎다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110121306,
+			"id_str": "110121306",
+			"name": "서밤",
+			"screen_name": "alreadytaken0_0",
+			"location": "",
+			"description": "'나에게 다정한 하루’ 작가. 틈틈이 그림일기 그립니다, 팟캐스트 '서늘한 마음썰'. 인스타 @seobam_breeze 반말멘션과 알계는 자동차단중",
+			"url": "https://t.co/hTTYmppQlo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hTTYmppQlo",
+							"expanded_url": "http://m.blog.naver.com/leeojsh",
+							"display_url": "m.blog.naver.com/leeojsh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29252,
+			"friends_count": 1443,
+			"listed_count": 108,
+			"created_at": "Sun Jan 31 12:11:21 +0000 2010",
+			"favourites_count": 26395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110121306/1489064492",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7945,
+		"favorite_count": 3463,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"좋아하는 일을 하니 돈이 저절로 따라왔어요\" 라는 것은 운좋게 돈이 따라왔던 사람만이 할 수 있는 얘기다. 돈이 안 따라왔던 사람들은 이미 굶어죽어 말이 읎다..."
+	},
+	{
 		"created_at": "Fri Sep 06 09:43:31 +0000 2019",
 		"id": 1169908981684269000,
 		"id_str": "1169908981684269059",
