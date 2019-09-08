@@ -1,6 +1,949 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 09:16:08 +0000 2019",
+		"id": 1170617435994505200,
+		"id_str": "1170626866086109184",
+		"full_text": "‘레드벨벳’의 매력에 빠져서 영원히 ‘음파음파’ 할래요♥ (출처 : SBS 인기가요 | 네이버TV) \n\n👉🏻 https://t.co/sBBtBwVRFH\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay2",
+					"indices": [
+						108,
+						128
+					]
+				},
+				{
+					"text": "음파음파",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "UmpahUmpah",
+					"indices": [
+						135,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sBBtBwVRFH",
+					"expanded_url": "http://naver.me/FuJ6fgB8",
+					"display_url": "naver.me/FuJ6fgB8",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1828122,
+			"friends_count": 2,
+			"listed_count": 5420,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4680,
+		"favorite_count": 14723,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘레드벨벳’의 매력에 빠져서 영원히 ‘음파음파’ 할래요♥ (출처 : SBS 인기가요 | 네이버TV) \n\n👉🏻 https://t.co/sBBtBwVRFH\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah"
+	},
+	{
+		"created_at": "Sun Sep 08 09:15:59 +0000 2019",
+		"id": 1170614946029289500,
+		"id_str": "1170626825636208640",
+		"full_text": "ADOY \nLIVE IN HONG KONG, BANGKOK\n\nFirst international appearance following the new album release!\nSee you all there 🇭🇰🇹🇭\n\nTicket link for Bangkok: https://t.co/zIgkuzIQt6\nTicket link for Hong Kong: https://t.co/75uRQy4TmN https://t.co/qrem3lRa5f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zIgkuzIQt6",
+					"expanded_url": "http://www.ticketmelon.com/sss/adoy2019",
+					"display_url": "ticketmelon.com/sss/adoy2019",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/75uRQy4TmN",
+					"expanded_url": "http://bit.ly/2kyvOAq",
+					"display_url": "bit.ly/2kyvOAq",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170614925737132000,
+					"id_str": "1170614925737132034",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7cEqFVAAIQ35P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED7cEqFVAAIQ35P.jpg",
+					"url": "https://t.co/qrem3lRa5f",
+					"display_url": "pic.twitter.com/qrem3lRa5f",
+					"expanded_url": "https://twitter.com/adoyband/status/1170614946029289472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 679,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 679,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170614925737132000,
+					"id_str": "1170614925737132034",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7cEqFVAAIQ35P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED7cEqFVAAIQ35P.jpg",
+					"url": "https://t.co/qrem3lRa5f",
+					"display_url": "pic.twitter.com/qrem3lRa5f",
+					"expanded_url": "https://twitter.com/adoyband/status/1170614946029289472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 679,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 679,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170614934490665000,
+					"id_str": "1170614934490664961",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7cFKsVUAE3OoA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED7cFKsVUAE3OoA.jpg",
+					"url": "https://t.co/qrem3lRa5f",
+					"display_url": "pic.twitter.com/qrem3lRa5f",
+					"expanded_url": "https://twitter.com/adoyband/status/1170614946029289472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2776,
+			"friends_count": 560,
+			"listed_count": 30,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ADOY \nLIVE IN HONG KONG, BANGKOK\n\nFirst international appearance following the new album release!\nSee you all there 🇭🇰🇹🇭\n\nTicket link for Bangkok: https://t.co/zIgkuzIQt6\nTicket link for Hong Kong: https://t.co/75uRQy4TmN https://t.co/qrem3lRa5f"
+	},
+	{
+		"created_at": "Sun Sep 08 07:37:22 +0000 2019",
+		"id": 1170602007738105900,
+		"id_str": "1170602007738105856",
+		"full_text": "#3시의인디살롱\n'한국 고양이의 날' 스탬프 투어 15일까지…\"연남동으로 오세요\"\nhttps://t.co/f4Fc616Qks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "3시의인디살롱",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f4Fc616Qks",
+					"expanded_url": "http://news1.kr/articles/?3714295",
+					"display_url": "news1.kr/articles/?3714…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#3시의인디살롱\n'한국 고양이의 날' 스탬프 투어 15일까지…\"연남동으로 오세요\"\nhttps://t.co/f4Fc616Qks"
+	},
+	{
+		"created_at": "Sun Sep 08 04:16:05 +0000 2019",
+		"id": 1170548887179817000,
+		"id_str": "1170551356798750722",
+		"full_text": "#BLACKPINK  'BLACKPINK DIARIES' EP.14\n\n🎬 Naver TV : https://t.co/N29ohcGbSX\n🎥 YouTube : https://t.co/VF1mvCVOKw\n\n#BLACKPINK #블랙핑크 #DIARIES #BLACKPINK2019WORLDTOURwithKIA #INYOURAREA #MACAO #MELBOURNE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "DIARIES",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "BLACKPINK2019WORLDTOURwithKIA",
+					"indices": [
+						139,
+						169
+					]
+				},
+				{
+					"text": "INYOURAREA",
+					"indices": [
+						170,
+						181
+					]
+				},
+				{
+					"text": "MACAO",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "MELBOURNE",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						200,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N29ohcGbSX",
+					"expanded_url": "https://tv.naver.com/v/9794886",
+					"display_url": "tv.naver.com/v/9794886",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/VF1mvCVOKw",
+					"expanded_url": "https://youtu.be/Ci2qEE3Zo6s",
+					"display_url": "youtu.be/Ci2qEE3Zo6s",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #CL #DARA #LEEHI #TREASURE13",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5490553,
+			"friends_count": 44,
+			"listed_count": 7640,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6035,
+		"favorite_count": 21703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK  'BLACKPINK DIARIES' EP.14\n\n🎬 Naver TV : https://t.co/N29ohcGbSX\n🎥 YouTube : https://t.co/VF1mvCVOKw\n\n#BLACKPINK #블랙핑크 #DIARIES #BLACKPINK2019WORLDTOURwithKIA #INYOURAREA #MACAO #MELBOURNE #YG"
+	},
+	{
+		"created_at": "Sun Sep 08 04:15:58 +0000 2019",
+		"id": 1170413927747989500,
+		"id_str": "1170551326813708288",
+		"full_text": "\"me!! choose me!! i know this song!\" ft. @loonatheworld https://t.co/K4RNqoEuqq https://t.co/DKAx9Zlilz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K4RNqoEuqq",
+					"expanded_url": "https://youtu.be/1S2KvOvSXFk",
+					"display_url": "youtu.be/1S2KvOvSXFk",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170144358474997800,
+					"id_str": "1170144358474997760",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1170144358474997760/img/7X3ECPqqa3mCntNH.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1170144358474997760/img/7X3ECPqqa3mCntNH.jpg",
+					"url": "https://t.co/DKAx9Zlilz",
+					"display_url": "pic.twitter.com/DKAx9Zlilz",
+					"expanded_url": "https://twitter.com/FBE/status/1170413927747989504/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170144358474997800,
+					"id_str": "1170144358474997760",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1170144358474997760/img/7X3ECPqqa3mCntNH.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1170144358474997760/img/7X3ECPqqa3mCntNH.jpg",
+					"url": "https://t.co/DKAx9Zlilz",
+					"display_url": "pic.twitter.com/DKAx9Zlilz",
+					"expanded_url": "https://twitter.com/FBE/status/1170413927747989504/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39991,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1170144358474997760/vid/480x270/oK4p-r2XcI4Lro8-.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1170144358474997760/vid/1280x720/BKkrfITAzWFcoM3G.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1170144358474997760/vid/640x360/YqYDW3kyM_6QH4Iz.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1170144358474997760/pl/QOfW4Hu8ppc3ywzD.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16547369,
+			"id_str": "16547369",
+			"name": "FBE",
+			"screen_name": "FBE",
+			"location": "Los Angeles, CA",
+			"description": "This is the official FBE Twitter. We make originals for web & TV. Join the conversation!",
+			"url": "https://t.co/wca5tMf2ld",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wca5tMf2ld",
+							"expanded_url": "https://youtube.com/fbe",
+							"display_url": "youtube.com/fbe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 904474,
+			"friends_count": 1943,
+			"listed_count": 1746,
+			"created_at": "Wed Oct 01 18:04:28 +0000 2008",
+			"favourites_count": 6901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132048001755537408/05Ors0jw_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132048001755537408/05Ors0jw_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16547369/1558742401",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2966,
+		"favorite_count": 8141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"me!! choose me!! i know this song!\" ft. @loonatheworld https://t.co/K4RNqoEuqq https://t.co/DKAx9Zlilz"
+	},
+	{
 		"created_at": "Sat Sep 07 10:58:06 +0000 2019",
 		"id": 1170290138322264000,
 		"id_str": "1170290138322264064",
