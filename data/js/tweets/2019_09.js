@@ -1,6 +1,951 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 08:15:59 +0000 2019",
+		"id": 1171323991845326800,
+		"id_str": "1171336501562675201",
+		"full_text": "DJ 레이든의 DJ MAG TOP 100 랭킹 도전을 레드벨벳 아이린도 응원합니다! 💪TOP 100에 들 수 있도록 여러분의 많은 투표 부탁드려요~😊💖 TOP 100 랭킹에 들게된다면 서프라이즈 영상 선물도 있답니다! 🎁\n\n👉https://t.co/gH6hshnK2N\n\n#RAIDEN #레이든 @raidenmusic #IRENE #아이린 #DJ_MAG_TOP_100 https://t.co/5FvHxhRDoH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RAIDEN",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "DJ_MAG_TOP_100",
+					"indices": [
+						189,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						164,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gH6hshnK2N",
+					"expanded_url": "http://bit.ly/RaidenTop100",
+					"display_url": "bit.ly/RaidenTop100",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171319473237713000,
+					"id_str": "1171319473237712896",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1171319473237712896/img/T-onR4f2sBmzpdlC.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1171319473237712896/img/T-onR4f2sBmzpdlC.jpg",
+					"url": "https://t.co/5FvHxhRDoH",
+					"display_url": "pic.twitter.com/5FvHxhRDoH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1171323991845326849/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171319473237713000,
+					"id_str": "1171319473237712896",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1171319473237712896/img/T-onR4f2sBmzpdlC.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1171319473237712896/img/T-onR4f2sBmzpdlC.jpg",
+					"url": "https://t.co/5FvHxhRDoH",
+					"display_url": "pic.twitter.com/5FvHxhRDoH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1171323991845326849/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31965,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1171319473237712896/vid/480x270/o818spBzXR6iRF5w.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1171319473237712896/pl/GL8QPcNgvD8FKKYj.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1171319473237712896/vid/640x360/pH0vrBuvNpXcYtHZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1171319473237712896/vid/1280x720/u0Np-IDLA3E2apJ8.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1831557,
+			"friends_count": 2,
+			"listed_count": 5431,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4339,
+		"favorite_count": 15354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DJ 레이든의 DJ MAG TOP 100 랭킹 도전을 레드벨벳 아이린도 응원합니다! 💪TOP 100에 들 수 있도록 여러분의 많은 투표 부탁드려요~😊💖 TOP 100 랭킹에 들게된다면 서프라이즈 영상 선물도 있답니다! 🎁\n\n👉https://t.co/gH6hshnK2N\n\n#RAIDEN #레이든 @raidenmusic #IRENE #아이린 #DJ_MAG_TOP_100 https://t.co/5FvHxhRDoH"
+	},
+	{
+		"created_at": "Tue Sep 10 04:16:01 +0000 2019",
+		"id": 1171189035236298800,
+		"id_str": "1171276115744346112",
+		"full_text": "TA ARTIST: @tiffanyyoung a composed queen. #RFYL #RFYL #RFYL #RFYL #RFYL 🖤🖤🖤🌐 \n📷: #derekhutchstudio https://t.co/UIMidmilId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RFYL",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "RFYL",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "RFYL",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "RFYL",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "RFYL",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "derekhutchstudio",
+					"indices": [
+						82,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171159938963406800,
+					"id_str": "1171159938963406848",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EEDLwmkVAAAlvUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEDLwmkVAAAlvUW.jpg",
+					"url": "https://t.co/UIMidmilId",
+					"display_url": "pic.twitter.com/UIMidmilId",
+					"expanded_url": "https://twitter.com/transparentfeed/status/1171189035236298753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 982,
+							"h": 1228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171159938963406800,
+					"id_str": "1171159938963406848",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EEDLwmkVAAAlvUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEDLwmkVAAAlvUW.jpg",
+					"url": "https://t.co/UIMidmilId",
+					"display_url": "pic.twitter.com/UIMidmilId",
+					"expanded_url": "https://twitter.com/transparentfeed/status/1171189035236298753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 982,
+							"h": 1228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120575614,
+			"id_str": "120575614",
+			"name": "TRANSPARENT ARTS",
+			"screen_name": "transparentfeed",
+			"location": "City of Angels",
+			"description": "TEAM:@tiffanyyoung @fareastmovement @dumbfoundead @yultron @saticamusic @officialyox @theautolaser @coryenemy @trapcitymusic @bornctzn @insomniacrecs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3476,
+			"friends_count": 232,
+			"listed_count": 16,
+			"created_at": "Sat Mar 06 21:52:36 +0000 2010",
+			"favourites_count": 2017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000436176900/7fdcd54fee958f3951480b7c9ab70b1b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000436176900/7fdcd54fee958f3951480b7c9ab70b1b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120575614/1558050055",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1215,
+		"favorite_count": 2730,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TA ARTIST: @tiffanyyoung a composed queen. #RFYL #RFYL #RFYL #RFYL #RFYL 🖤🖤🖤🌐 \n📷: #derekhutchstudio https://t.co/UIMidmilId"
+	},
+	{
+		"created_at": "Tue Sep 10 04:15:58 +0000 2019",
+		"id": 1171187525144187000,
+		"id_str": "1171276102507085824",
+		"full_text": ".@tiffanyyoung has had a whirlwind year, from dropping new music and touring, to an appearance at #D23Expo: \"As much of a Disney fan as I am, it's a moment, not only for myself, but for #Kpop artists\" \nhttps://t.co/BYlalx1gmn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "D23Expo",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "Kpop",
+					"indices": [
+						186,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BYlalx1gmn",
+					"expanded_url": "http://www.mtv.com/news/3138520/tiffany-young-disney-interview/",
+					"display_url": "mtv.com/news/3138520/t…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40076725,
+			"id_str": "40076725",
+			"name": "MTV NEWS",
+			"screen_name": "MTVNEWS",
+			"location": "",
+			"description": "very fun and social wow!",
+			"url": "https://t.co/GRoD27UNPT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRoD27UNPT",
+							"expanded_url": "http://mtvnews.com",
+							"display_url": "mtvnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5157101,
+			"friends_count": 5765,
+			"listed_count": 11647,
+			"created_at": "Thu May 14 20:33:18 +0000 2009",
+			"favourites_count": 3791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 114575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "00BBE4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145685952314204160/RuufFyCg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145685952314204160/RuufFyCg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40076725/1548947685",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 960,
+		"favorite_count": 1919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@tiffanyyoung has had a whirlwind year, from dropping new music and touring, to an appearance at #D23Expo: \"As much of a Disney fan as I am, it's a moment, not only for myself, but for #Kpop artists\" \nhttps://t.co/BYlalx1gmn"
+	},
+	{
+		"created_at": "Tue Sep 10 04:04:21 +0000 2019",
+		"id": 1171273179320475600,
+		"id_str": "1171273179320475649",
+		"full_text": "[LIVE] 프롬(Fromm) - 서로의 조각 (Pieces of You and Me)\nhttps://t.co/AVx0pbhrHW\n#Fromm #프롬",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Fromm",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AVx0pbhrHW",
+					"expanded_url": "https://youtu.be/gdMVk7rYIbQ",
+					"display_url": "youtu.be/gdMVk7rYIbQ",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE] 프롬(Fromm) - 서로의 조각 (Pieces of You and Me)\nhttps://t.co/AVx0pbhrHW\n#Fromm #프롬"
+	},
+	{
+		"created_at": "Mon Sep 09 23:16:05 +0000 2019",
+		"id": 1171195430610202600,
+		"id_str": "1171200632352575488",
+		"full_text": "망각이란 무엇인가(2/2) - https://t.co/zmYmQmDsxY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zmYmQmDsxY",
+					"expanded_url": "https://newspeppermint.com/2019/09/09/m-forgetting2/",
+					"display_url": "newspeppermint.com/2019/09/09/m-f…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101663,
+			"friends_count": 0,
+			"listed_count": 793,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "망각이란 무엇인가(2/2) - https://t.co/zmYmQmDsxY"
+	},
+	{
+		"created_at": "Mon Sep 09 23:15:59 +0000 2019",
+		"id": 1171195145066180600,
+		"id_str": "1171200606784151554",
+		"full_text": "망각이란 무엇인가(1/2) - https://t.co/I96J0YQcVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I96J0YQcVB",
+					"expanded_url": "https://newspeppermint.com/2019/09/09/m-forgetting1/",
+					"display_url": "newspeppermint.com/2019/09/09/m-f…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101663,
+			"friends_count": 0,
+			"listed_count": 793,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "망각이란 무엇인가(1/2) - https://t.co/I96J0YQcVB"
+	},
+	{
 		"created_at": "Mon Sep 09 09:18:39 +0000 2019",
 		"id": 1170989885869699000,
 		"id_str": "1170989885869699073",
