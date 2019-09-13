@@ -1,6 +1,796 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 12:15:58 +0000 2019",
+		"id": 1172482579183702000,
+		"id_str": "1172484062558269440",
+		"full_text": "2019 추석특집 아이돌스타 선수권대회 속 슬기,웬디 다시보기 👀👇\n\nhttps://t.co/HgGqbLWMV9\nhttps://t.co/ebi9zDWS7G\n\n#SEULGI #슬기 #WENDY #웬디 #RedVelvet #레드벨벳 #추석특집아육대 #아이돌스타선수권대회",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEULGI",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "추석특집아육대",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "아이돌스타선수권대회",
+					"indices": [
+						137,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HgGqbLWMV9",
+					"expanded_url": "http://tv.naver.com/v/9851594",
+					"display_url": "tv.naver.com/v/9851594",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/ebi9zDWS7G",
+					"expanded_url": "http://tv.naver.com/v/9851678",
+					"display_url": "tv.naver.com/v/9851678",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1836317,
+			"friends_count": 2,
+			"listed_count": 5435,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2573,
+		"favorite_count": 8296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 추석특집 아이돌스타 선수권대회 속 슬기,웬디 다시보기 👀👇\n\nhttps://t.co/HgGqbLWMV9\nhttps://t.co/ebi9zDWS7G\n\n#SEULGI #슬기 #WENDY #웬디 #RedVelvet #레드벨벳 #추석특집아육대 #아이돌스타선수권대회"
+	},
+	{
+		"created_at": "Fri Sep 13 07:24:12 +0000 2019",
+		"id": 1172410635969155000,
+		"id_str": "1172410635969155077",
+		"full_text": "학교에서 연애금지 하는 이유\nhttps://t.co/n8OSYwbReA\n#그거앎 #ggrm\n#닷페이스 #Dotface #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그거앎",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "ggrm",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "닷페이스",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "Dotface",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						66,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n8OSYwbReA",
+					"expanded_url": "https://youtu.be/FShPuU-TVYI",
+					"display_url": "youtu.be/FShPuU-TVYI",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "학교에서 연애금지 하는 이유\nhttps://t.co/n8OSYwbReA\n#그거앎 #ggrm\n#닷페이스 #Dotface #minfav"
+	},
+	{
+		"created_at": "Fri Sep 13 03:15:58 +0000 2019",
+		"id": 1172344445720678400,
+		"id_str": "1172348167444189184",
+		"full_text": "[이달의소녀탐구 #526]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/Lofsjg2JdL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172344170645618700,
+					"id_str": "1172344170645618691",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172344170645618691/pu/img/Bw7esKtjQVWZYQgD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172344170645618691/pu/img/Bw7esKtjQVWZYQgD.jpg",
+					"url": "https://t.co/Lofsjg2JdL",
+					"display_url": "pic.twitter.com/Lofsjg2JdL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1172344445720678400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172344170645618700,
+					"id_str": "1172344170645618691",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172344170645618691/pu/img/Bw7esKtjQVWZYQgD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172344170645618691/pu/img/Bw7esKtjQVWZYQgD.jpg",
+					"url": "https://t.co/Lofsjg2JdL",
+					"display_url": "pic.twitter.com/Lofsjg2JdL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1172344445720678400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59993,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172344170645618691/pu/vid/1280x720/cRmvb3rbwgVu0pZH.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172344170645618691/pu/vid/480x270/wHjWOYWTyGIu3IQ8.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172344170645618691/pu/vid/640x360/okVHc0wDvO81gFqa.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1172344170645618691/pu/pl/E1qNw-LF4MSAgzgk.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 342935,
+			"friends_count": 0,
+			"listed_count": 4658,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5662,
+		"favorite_count": 15765,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #526]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/Lofsjg2JdL"
+	},
+	{
+		"created_at": "Fri Sep 13 01:45:37 +0000 2019",
+		"id": 1172325429031555000,
+		"id_str": "1172325429031555073",
+		"full_text": "Don’t Call Me Angel (Charlie’s Angels) World Premiere - 9pm PST tonight\nhttps://t.co/W227cNUYk6\n#ArianaGrande #아리아나그란데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArianaGrande",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"text": "아리아나그란데",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W227cNUYk6",
+					"expanded_url": "https://youtu.be/tbs1AwS9RdU",
+					"display_url": "youtu.be/tbs1AwS9RdU",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t Call Me Angel (Charlie’s Angels) World Premiere - 9pm PST tonight\nhttps://t.co/W227cNUYk6\n#ArianaGrande #아리아나그란데"
+	},
+	{
+		"created_at": "Thu Sep 12 21:41:06 +0000 2019",
+		"id": 1172263894196400000,
+		"id_str": "1172263894196400130",
+		"full_text": "Halsey - Graveyard Out 9/13\nhttps://t.co/XQAjH47U3p\n#Halsey #할시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Halsey",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "할시",
+					"indices": [
+						60,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XQAjH47U3p",
+					"expanded_url": "https://youtu.be/wBoSXCgCF34",
+					"display_url": "youtu.be/wBoSXCgCF34",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Halsey - Graveyard Out 9/13\nhttps://t.co/XQAjH47U3p\n#Halsey #할시"
+	},
+	{
 		"created_at": "Thu Sep 12 14:15:58 +0000 2019",
 		"id": 1172147759341719600,
 		"id_str": "1172151873400463360",
@@ -349,7 +1139,7 @@ Grailbird.data.tweets_2019_09 =
 		"created_at": "Thu Sep 12 07:15:59 +0000 2019",
 		"id": 1172042186843541500,
 		"id_str": "1172046178499858432",
-		"full_text": "잠시후 4시 30분!\nMBC 2019 아이돌 스타 육상 선수권 대회에 #이달의소녀 가 출전합니다!🥳\n본방 사수하며 이달의 소녀와 함께 달려요!🏃‍♀️\n\n#LOONA https://t.co/ZhYO3ZnYfn",
+		"full_text": "잠시후 4시 30분!\nMBC 2019 아이돌 스타 육상 선수권 대회에 #이달의소녀 가 출전합니다!🥳\n본방 사수하며 이달의 소녀와 함께 달려요!🏃♀️\n\n#LOONA https://t.co/ZhYO3ZnYfn",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -532,7 +1322,7 @@ Grailbird.data.tweets_2019_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "잠시후 4시 30분!\nMBC 2019 아이돌 스타 육상 선수권 대회에 #이달의소녀 가 출전합니다!🥳\n본방 사수하며 이달의 소녀와 함께 달려요!🏃‍♀️\n\n#LOONA https://t.co/ZhYO3ZnYfn"
+		"text": "잠시후 4시 30분!\nMBC 2019 아이돌 스타 육상 선수권 대회에 #이달의소녀 가 출전합니다!🥳\n본방 사수하며 이달의 소녀와 함께 달려요!🏃♀️\n\n#LOONA https://t.co/ZhYO3ZnYfn"
 	},
 	{
 		"created_at": "Thu Sep 12 05:15:58 +0000 2019",
