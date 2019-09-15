@@ -1,6 +1,948 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 15:16:05 +0000 2019",
+		"id": 1173250367204651000,
+		"id_str": "1173254162747973632",
+		"full_text": "짠! 오빛 2기 모집이 오늘밤 8시부터 시작됩니다 ✨\n자세한 공지와 링크는 #이달의소녀 공식 팬카페를 통해 확인하세요!\n\n#LOONA https://t.co/IIYwvM0YFg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1173250153941127200,
+					"id_str": "1173250153941127168",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173250153941127168/pu/img/DfKFoemF95r6HtIR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173250153941127168/pu/img/DfKFoemF95r6HtIR.jpg",
+					"url": "https://t.co/IIYwvM0YFg",
+					"display_url": "pic.twitter.com/IIYwvM0YFg",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1173250367204651008/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 590,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173250153941127200,
+					"id_str": "1173250153941127168",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173250153941127168/pu/img/DfKFoemF95r6HtIR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173250153941127168/pu/img/DfKFoemF95r6HtIR.jpg",
+					"url": "https://t.co/IIYwvM0YFg",
+					"display_url": "pic.twitter.com/IIYwvM0YFg",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1173250367204651008/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 590,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							59,
+							128
+						],
+						"duration_millis": 29332,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1173250153941127168/pu/pl/cB-C-Z3jljub8VB3.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1173250153941127168/pu/vid/590x1280/TB4eU0AF5xY1RMgq.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1173250153941127168/pu/vid/320x694/MrXs4MTOMBv26iMQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1173250153941127168/pu/vid/360x780/dUgBeLdY4Dp6aBfb.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 343450,
+			"friends_count": 0,
+			"listed_count": 4667,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3932,
+		"favorite_count": 8458,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "짠! 오빛 2기 모집이 오늘밤 8시부터 시작됩니다 ✨\n자세한 공지와 링크는 #이달의소녀 공식 팬카페를 통해 확인하세요!\n\n#LOONA https://t.co/IIYwvM0YFg"
+	},
+	{
+		"created_at": "Sun Sep 15 15:15:58 +0000 2019",
+		"id": 1173240748000460800,
+		"id_str": "1173254137036886016",
+		"full_text": "[예능연구소 직캠] Red Velvet - Umpah Umpah, 레드벨벳 - 음파음파 @쇼!음악중심 20190914\n\n👉🏻 https://t.co/u7kz6S48d8\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay2",
+					"indices": [
+						117,
+						137
+					]
+				},
+				{
+					"text": "음파음파",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "UmpahUmpah",
+					"indices": [
+						144,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u7kz6S48d8",
+					"expanded_url": "http://youtu.be/AM0WvH4ow5M",
+					"display_url": "youtu.be/AM0WvH4ow5M",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1839664,
+			"friends_count": 2,
+			"listed_count": 5447,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2030,
+		"favorite_count": 5668,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예능연구소 직캠] Red Velvet - Umpah Umpah, 레드벨벳 - 음파음파 @쇼!음악중심 20190914\n\n👉🏻 https://t.co/u7kz6S48d8\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah"
+	},
+	{
+		"created_at": "Sun Sep 15 12:16:03 +0000 2019",
+		"id": 1173207145568800800,
+		"id_str": "1173208859076440065",
+		"full_text": "MonoTree youtube channel notice\n👉https://t.co/zqVXfMkknc https://t.co/Pk3Prp4mAj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zqVXfMkknc",
+					"expanded_url": "https://www.youtube.com/channel/UCfPnAF-DYznLiGWkNg-wxGw/community",
+					"display_url": "youtube.com/channel/UCfPnA…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1173207134848209000,
+					"id_str": "1173207134848208896",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EEgRrFiU0AACwll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEgRrFiU0AACwll.jpg",
+					"url": "https://t.co/Pk3Prp4mAj",
+					"display_url": "pic.twitter.com/Pk3Prp4mAj",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1173207145568800769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1063,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173207134848209000,
+					"id_str": "1173207134848208896",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EEgRrFiU0AACwll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEgRrFiU0AACwll.jpg",
+					"url": "https://t.co/Pk3Prp4mAj",
+					"display_url": "pic.twitter.com/Pk3Prp4mAj",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1173207145568800769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1063,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6008,
+			"friends_count": 0,
+			"listed_count": 46,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MonoTree youtube channel notice\n👉https://t.co/zqVXfMkknc https://t.co/Pk3Prp4mAj"
+	},
+	{
+		"created_at": "Sun Sep 15 12:15:58 +0000 2019",
+		"id": 1173207077340119000,
+		"id_str": "1173208837601529856",
+		"full_text": "모노트리 유튜브 공지\n👉https://t.co/zqVXfMkknc https://t.co/h9vXTH5SLn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zqVXfMkknc",
+					"expanded_url": "https://www.youtube.com/channel/UCfPnAF-DYznLiGWkNg-wxGw/community",
+					"display_url": "youtube.com/channel/UCfPnA…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1173206991046500400,
+					"id_str": "1173206991046500352",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEgRit1U4AAZfIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEgRit1U4AAZfIw.jpg",
+					"url": "https://t.co/h9vXTH5SLn",
+					"display_url": "pic.twitter.com/h9vXTH5SLn",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1173207077340119040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1165,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1165,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173206991046500400,
+					"id_str": "1173206991046500352",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEgRit1U4AAZfIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEgRit1U4AAZfIw.jpg",
+					"url": "https://t.co/h9vXTH5SLn",
+					"display_url": "pic.twitter.com/h9vXTH5SLn",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1173207077340119040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1165,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1165,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6008,
+			"friends_count": 0,
+			"listed_count": 46,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모노트리 유튜브 공지\n👉https://t.co/zqVXfMkknc https://t.co/h9vXTH5SLn"
+	},
+	{
+		"created_at": "Sun Sep 15 06:15:50 +0000 2019",
+		"id": 1171756362725879800,
+		"id_str": "1173118206518513664",
+		"full_text": "아까 jtbc에 나온 내용인데 노인과 우울증 환자에게 효돌이라는 AI 인형을 보급했는데 우울증 증세와 고위험군 비중이 확 줄었대 ㅠㅠ 할아버지는 40년동안 듣지 못했던 사랑해요라는 말을 들으셨고 할머니는 다시 바느질을 시작하셨다고.. ㅠㅠ 너무 가슴 따뜻해지는 이야기다 https://t.co/8yB7T0KwfH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171756155560841200,
+					"id_str": "1171756155560841218",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171756155560841218/pu/img/see8Xr6sKZOPWLun.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171756155560841218/pu/img/see8Xr6sKZOPWLun.jpg",
+					"url": "https://t.co/8yB7T0KwfH",
+					"display_url": "pic.twitter.com/8yB7T0KwfH",
+					"expanded_url": "https://twitter.com/guma389/status/1171756362725879809/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171756155560841200,
+					"id_str": "1171756155560841218",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171756155560841218/pu/img/see8Xr6sKZOPWLun.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171756155560841218/pu/img/see8Xr6sKZOPWLun.jpg",
+					"url": "https://t.co/8yB7T0KwfH",
+					"display_url": "pic.twitter.com/8yB7T0KwfH",
+					"expanded_url": "https://twitter.com/guma389/status/1171756362725879809/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 100260,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171756155560841218/pu/vid/480x270/9v1fGLT0zVOZYDMT.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171756155560841218/pu/vid/1280x720/4AcLHwx1t3TfemAm.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1171756155560841218/pu/pl/YGO1QDunEVJYRsHk.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171756155560841218/pu/vid/640x360/3nnt5JAuJ8gb4A0X.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1026814666314461200,
+			"id_str": "1026814666314461184",
+			"name": "guma",
+			"screen_name": "guma389",
+			"location": "",
+			"description": "해찬이랑 런쥔이",
+			"url": "https://t.co/VhybIfwqvQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VhybIfwqvQ",
+							"expanded_url": "https://ask.fm/guma389",
+							"display_url": "ask.fm/guma389",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7085,
+			"friends_count": 42,
+			"listed_count": 81,
+			"created_at": "Tue Aug 07 12:57:48 +0000 2018",
+			"favourites_count": 1133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170313538721603589/TWuUdo_6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170313538721603589/TWuUdo_6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1026814666314461184/1567742989",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37129,
+		"favorite_count": 20050,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아까 jtbc에 나온 내용인데 노인과 우울증 환자에게 효돌이라는 AI 인형을 보급했는데 우울증 증세와 고위험군 비중이 확 줄었대 ㅠㅠ 할아버지는 40년동안 듣지 못했던 사랑해요라는 말을 들으셨고 할머니는 다시 바느질을 시작하셨다고.. ㅠㅠ 너무 가슴 따뜻해지는 이야기다 https://t.co/8yB7T0KwfH"
+	},
+	{
 		"created_at": "Sat Sep 14 05:49:26 +0000 2019",
 		"id": 1172749173776502800,
 		"id_str": "1172749173776502784",
