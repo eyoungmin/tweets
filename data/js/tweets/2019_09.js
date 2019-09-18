@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 09:15:59 +0000 2019",
+		"id": 1174246774694994000,
+		"id_str": "1174250704548052993",
+		"full_text": "#OFFICIALBLINK #BLACKPINK 2019 PRIVATE STAGE [Chapter 1] OFFICIAL BLINK BOOTH 운영 안내 공지가 등록되었습니다! 지금 바로 #블링크존 Notice 게시판에서 확인해주세요 📢",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "블링크존",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2877301,
+			"friends_count": 1,
+			"listed_count": 3564,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1565762484",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2915,
+		"favorite_count": 14273,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK #BLACKPINK 2019 PRIVATE STAGE [Chapter 1] OFFICIAL BLINK BOOTH 운영 안내 공지가 등록되었습니다! 지금 바로 #블링크존 Notice 게시판에서 확인해주세요 📢"
+	},
+	{
+		"created_at": "Wed Sep 18 04:15:58 +0000 2019",
+		"id": 1174163839111221200,
+		"id_str": "1174175206174273536",
+		"full_text": "❤ 레드벨벳 (Red Velvet) - 음파음파 (Umpah Umpah) 교차 편집 (Stage Mix) ❤\n\n👉🏻 https://t.co/ndXlBHpSNw \n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah #쇼음악중심",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "TheReVeFestivalDay2",
+					"indices": [
+						113,
+						133
+					]
+				},
+				{
+					"text": "음파음파",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "UmpahUmpah",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ndXlBHpSNw",
+					"expanded_url": "http://youtu.be/CgAkopXonOM",
+					"display_url": "youtu.be/CgAkopXonOM",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1846249,
+			"friends_count": 2,
+			"listed_count": 5457,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4037,
+		"favorite_count": 12109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤ 레드벨벳 (Red Velvet) - 음파음파 (Umpah Umpah) 교차 편집 (Stage Mix) ❤\n\n👉🏻 https://t.co/ndXlBHpSNw \n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalDay2 #음파음파 #UmpahUmpah #쇼음악중심"
+	},
+	{
+		"created_at": "Wed Sep 18 03:15:59 +0000 2019",
+		"id": 1174156492896735200,
+		"id_str": "1174160107061612544",
+		"full_text": "[이달의소녀탐구 #531]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/VRh3CZmgl3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174156104151863300,
+					"id_str": "1174156104151863296",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174156104151863296/pu/img/5-eurbetKwVUAmvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174156104151863296/pu/img/5-eurbetKwVUAmvF.jpg",
+					"url": "https://t.co/VRh3CZmgl3",
+					"display_url": "pic.twitter.com/VRh3CZmgl3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1174156492896735233/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174156104151863300,
+					"id_str": "1174156104151863296",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174156104151863296/pu/img/5-eurbetKwVUAmvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174156104151863296/pu/img/5-eurbetKwVUAmvF.jpg",
+					"url": "https://t.co/VRh3CZmgl3",
+					"display_url": "pic.twitter.com/VRh3CZmgl3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1174156492896735233/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58041,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174156104151863296/pu/vid/1280x720/hsmAw9ZCZsdlXbn2.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174156104151863296/pu/vid/640x360/n7KrWdOH2rwF2dsx.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1174156104151863296/pu/pl/ybpZmhtS6VQ4D15M.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174156104151863296/pu/vid/480x270/EPIOaTrEZovdpxE0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 344609,
+			"friends_count": 0,
+			"listed_count": 4693,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4607,
+		"favorite_count": 13025,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #531]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/VRh3CZmgl3"
+	},
+	{
 		"created_at": "Tue Sep 17 13:58:22 +0000 2019",
 		"id": 1173959382738059300,
 		"id_str": "1173959382738059265",
@@ -1105,7 +1612,7 @@ Grailbird.data.tweets_2019_09 =
 		"created_at": "Mon Sep 16 21:18:37 +0000 2019",
 		"id": 1173707787223756800,
 		"id_str": "1173707787223756800",
-		"full_text": "동방신기 단독으로 하지...🤦‍♂️ https://t.co/fwupxEvIPr",
+		"full_text": "동방신기 단독으로 하지...🤦♂️ https://t.co/fwupxEvIPr",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1210,7 +1717,7 @@ Grailbird.data.tweets_2019_09 =
 			"created_at": "Mon Sep 16 13:00:01 +0000 2019",
 			"id": 1173582309812949000,
 			"id_str": "1173582309812948992",
-			"full_text": "동방신기와 슈퍼주니어가 2002년으로 돌아갔다?!\n함께 여행은 처음인 여섯 남자의\n가장 아날로그한 여행 🗺 \n\n동방신기X슈퍼주니어 &lt;Analog Trip&gt; 10월 9일 공개!\n\n#동방신기 #東方神起⁠ #TVXQ! #SUPERJUNIOR #슈퍼주니어 #유튜브오리지널 #아날로그트립 https://t.co/bfzxLgDHwg",
+			"full_text": "동방신기와 슈퍼주니어가 2002년으로 돌아갔다?!\n함께 여행은 처음인 여섯 남자의\n가장 아날로그한 여행 🗺 \n\n동방신기X슈퍼주니어 &lt;Analog Trip&gt; 10월 9일 공개!\n\n#동방신기 #東方神起 #TVXQ! #SUPERJUNIOR #슈퍼주니어 #유튜브오리지널 #아날로그트립 https://t.co/bfzxLgDHwg",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -1469,7 +1976,7 @@ Grailbird.data.tweets_2019_09 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "동방신기 단독으로 하지...🤦‍♂️ https://t.co/fwupxEvIPr"
+		"text": "동방신기 단독으로 하지...🤦♂️ https://t.co/fwupxEvIPr"
 	},
 	{
 		"created_at": "Mon Sep 16 21:17:53 +0000 2019",
