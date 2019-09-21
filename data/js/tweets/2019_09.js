@@ -1,6 +1,983 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 21 14:15:58 +0000 2019",
+		"id": 1175412706674823200,
+		"id_str": "1175413364387917824",
+		"full_text": "[2019 Lets Rock Festival]\n오랜만에 국내 페스티벌에 출연하였습니다. 이른 시간에도 많이 와주시고 많이 즐겨주셔서 감사합니다 🤟🏻( 참고로 모두 기분이 좋은 상태입니다. ) 내일은 태풍소식이 있는데 부디 피해가 없길 기도하겠습니다 🙏🏻 그럼 또 다른 곳에서 만나요 여러분 🐦✨ https://t.co/FHcGTjTFDo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175412692967776300,
+					"id_str": "1175412692967776256",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EE_nndzUYAAiQyr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE_nndzUYAAiQyr.jpg",
+					"url": "https://t.co/FHcGTjTFDo",
+					"display_url": "pic.twitter.com/FHcGTjTFDo",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1175412706674823169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175412692967776300,
+					"id_str": "1175412692967776256",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EE_nndzUYAAiQyr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE_nndzUYAAiQyr.jpg",
+					"url": "https://t.co/FHcGTjTFDo",
+					"display_url": "pic.twitter.com/FHcGTjTFDo",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1175412706674823169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1175412692988788700,
+					"id_str": "1175412692988788745",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EE_nnd4VAAkct6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE_nnd4VAAkct6i.jpg",
+					"url": "https://t.co/FHcGTjTFDo",
+					"display_url": "pic.twitter.com/FHcGTjTFDo",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1175412706674823169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1175412692988788700,
+					"id_str": "1175412692988788742",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EE_nnd4VAAYwlEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE_nnd4VAAYwlEa.jpg",
+					"url": "https://t.co/FHcGTjTFDo",
+					"display_url": "pic.twitter.com/FHcGTjTFDo",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1175412706674823169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1175412692988788700,
+					"id_str": "1175412692988788744",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EE_nnd4VAAgjDfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE_nnd4VAAgjDfs.jpg",
+					"url": "https://t.co/FHcGTjTFDo",
+					"display_url": "pic.twitter.com/FHcGTjTFDo",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1175412706674823169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5055,
+			"friends_count": 532,
+			"listed_count": 35,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 Lets Rock Festival]\n오랜만에 국내 페스티벌에 출연하였습니다. 이른 시간에도 많이 와주시고 많이 즐겨주셔서 감사합니다 🤟🏻( 참고로 모두 기분이 좋은 상태입니다. ) 내일은 태풍소식이 있는데 부디 피해가 없길 기도하겠습니다 🙏🏻 그럼 또 다른 곳에서 만나요 여러분 🐦✨ https://t.co/FHcGTjTFDo"
+	},
+	{
+		"created_at": "Sat Sep 21 06:15:58 +0000 2019",
+		"id": 1175281248341655600,
+		"id_str": "1175292567921057792",
+		"full_text": "환상소곡집op.2 &lt;ARIA&gt;  \n/ Album Release \n2019.10.02 (WED) 6PM \n\n#심규선 #루시아 #환상소곡집op2 #ARIA #새앨범 #발매 #Album_Release \n#Teaser_image #Comingsoon https://t.co/ZtnokvIDHm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "환상소곡집op2",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "ARIA",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "Album_Release",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "Teaser_image",
+					"indices": [
+						116,
+						129
+					]
+				},
+				{
+					"text": "Comingsoon",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175281236727582700,
+					"id_str": "1175281236727582720",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EE9wDtJUUAALVWH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE9wDtJUUAALVWH.jpg",
+					"url": "https://t.co/ZtnokvIDHm",
+					"display_url": "pic.twitter.com/ZtnokvIDHm",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1175281248341655552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175281236727582700,
+					"id_str": "1175281236727582720",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EE9wDtJUUAALVWH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE9wDtJUUAALVWH.jpg",
+					"url": "https://t.co/ZtnokvIDHm",
+					"display_url": "pic.twitter.com/ZtnokvIDHm",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1175281248341655552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "환상소곡집 op.2 ARIA 10/2 발매",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11009,
+			"friends_count": 174,
+			"listed_count": 178,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988651944246890496/6K6YuaU8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988651944246890496/6K6YuaU8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1490689614",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 297,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "환상소곡집op.2 &lt;ARIA&gt;  \n/ Album Release \n2019.10.02 (WED) 6PM \n\n#심규선 #루시아 #환상소곡집op2 #ARIA #새앨범 #발매 #Album_Release \n#Teaser_image #Comingsoon https://t.co/ZtnokvIDHm"
+	},
+	{
+		"created_at": "Sat Sep 21 03:15:59 +0000 2019",
+		"id": 1175243536007958500,
+		"id_str": "1175247270649970688",
+		"full_text": "[이달의소녀탐구 #534]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/4rciLZy3Mb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175243221456212000,
+					"id_str": "1175243221456211969",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175243221456211969/pu/img/1rS874aH2pT1daX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175243221456211969/pu/img/1rS874aH2pT1daX9.jpg",
+					"url": "https://t.co/4rciLZy3Mb",
+					"display_url": "pic.twitter.com/4rciLZy3Mb",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1175243536007958528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175243221456212000,
+					"id_str": "1175243221456211969",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175243221456211969/pu/img/1rS874aH2pT1daX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175243221456211969/pu/img/1rS874aH2pT1daX9.jpg",
+					"url": "https://t.co/4rciLZy3Mb",
+					"display_url": "pic.twitter.com/4rciLZy3Mb",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1175243536007958528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58525,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1175243221456211969/pu/vid/480x270/t1Oci2UxXXeRTDZ8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1175243221456211969/pu/pl/z529_i_SFJq1E7In.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1175243221456211969/pu/vid/1280x720/yc1yR6FGodh99zgo.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1175243221456211969/pu/vid/640x360/EQTpm0EK9iA0Ys3L.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 345466,
+			"friends_count": 0,
+			"listed_count": 4722,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4283,
+		"favorite_count": 12808,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #534]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/4rciLZy3Mb"
+	},
+	{
+		"created_at": "Sat Sep 21 02:15:58 +0000 2019",
+		"id": 1175228257290973200,
+		"id_str": "1175232170299994113",
+		"full_text": "#OFFICIALBLINK #BLACKPINK 와 #BLINK 가 함께하는 첫번째 PRIVATE STAGE🙌 [Chapter 1] 공식 팬클럽 부스가 운영됩니다 🎁\n✔️ 운영시간 : 오전 11시 ~ 오후 5시 (예정)\n✔️ 준비물 : 신분증, 당일공연티켓, OFFICIAL BLINK 마이페이지\n(*회차당 1인 1회 참여 가능)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						28,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2888787,
+			"friends_count": 1,
+			"listed_count": 3584,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1565762484",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3788,
+		"favorite_count": 19621,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK #BLACKPINK 와 #BLINK 가 함께하는 첫번째 PRIVATE STAGE🙌 [Chapter 1] 공식 팬클럽 부스가 운영됩니다 🎁\n✔️ 운영시간 : 오전 11시 ~ 오후 5시 (예정)\n✔️ 준비물 : 신분증, 당일공연티켓, OFFICIAL BLINK 마이페이지\n(*회차당 1인 1회 참여 가능)"
+	},
+	{
+		"created_at": "Fri Sep 20 23:15:58 +0000 2019",
+		"id": 1175182807003324400,
+		"id_str": "1175186872559124481",
+		"full_text": "노스캐롤라이나 보궐선거, 내년 대선 결과 알려주는 수정구슬? - https://t.co/OMRoe1qbwV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OMRoe1qbwV",
+					"expanded_url": "https://newspeppermint.com/2019/09/20/ncelectionandtrumpbyemmer/",
+					"display_url": "newspeppermint.com/2019/09/20/nce…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101435,
+			"friends_count": 0,
+			"listed_count": 795,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노스캐롤라이나 보궐선거, 내년 대선 결과 알려주는 수정구슬? - https://t.co/OMRoe1qbwV"
+	},
+	{
 		"created_at": "Fri Sep 20 13:15:58 +0000 2019",
 		"id": 1175031859216035800,
 		"id_str": "1175035876772077569",
