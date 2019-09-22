@@ -1,6 +1,821 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 22 10:39:14 +0000 2019",
+		"id": 1175721207699820500,
+		"id_str": "1175721207699820545",
+		"full_text": "#CHUNGHA #청하\n[Special Clips] 청하 2019 SOBA 시상식 비하인드\nhttps://t.co/UCt0kmMsiF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						9,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UCt0kmMsiF",
+					"expanded_url": "https://youtu.be/FdGAb5m7ZNE",
+					"display_url": "youtu.be/FdGAb5m7ZNE",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 822,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CHUNGHA #청하\n[Special Clips] 청하 2019 SOBA 시상식 비하인드\nhttps://t.co/UCt0kmMsiF"
+	},
+	{
+		"created_at": "Sun Sep 22 03:16:09 +0000 2019",
+		"id": 1175590742216937500,
+		"id_str": "1175609700387295232",
+		"full_text": "boundless music of groovy beats and melodies await as #karposlive mix 9 presents:\n\nnew french house artist, @Fkjmusic \n+\ndreamy korean indie band, @adoyband \n\nnovember 14, abs cbn vertis tent\nearly bird tickets for PHP3000 on sale TOM, sept 23, 11AM via https://t.co/I1kPj9oSaT https://t.co/5l9dUaEX0G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "karposlive",
+					"indices": [
+						54,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fkjmusic",
+					"name": "Fkj",
+					"id": 2336730666,
+					"id_str": "2336730666",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I1kPj9oSaT",
+					"expanded_url": "http://karposlive.com",
+					"display_url": "karposlive.com",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1175590695714742300,
+					"id_str": "1175590695714742274",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EFCJgltU4AI8wd2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFCJgltU4AI8wd2.jpg",
+					"url": "https://t.co/5l9dUaEX0G",
+					"display_url": "pic.twitter.com/5l9dUaEX0G",
+					"expanded_url": "https://twitter.com/KarposLive/status/1175590742216937473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175590695714742300,
+					"id_str": "1175590695714742274",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EFCJgltU4AI8wd2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFCJgltU4AI8wd2.jpg",
+					"url": "https://t.co/5l9dUaEX0G",
+					"display_url": "pic.twitter.com/5l9dUaEX0G",
+					"expanded_url": "https://twitter.com/KarposLive/status/1175590742216937473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1175590695706316800,
+					"id_str": "1175590695706316801",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EFCJglrUUAEtHb_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFCJglrUUAEtHb_.jpg",
+					"url": "https://t.co/5l9dUaEX0G",
+					"display_url": "pic.twitter.com/5l9dUaEX0G",
+					"expanded_url": "https://twitter.com/KarposLive/status/1175590742216937473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 997313385329913900,
+			"id_str": "997313385329913856",
+			"name": "Karpos Live",
+			"screen_name": "KarposLive",
+			"location": "",
+			"description": "MUSIC + YOU. A concert series by @karposmm",
+			"url": "https://t.co/6lZZ9aGiF6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6lZZ9aGiF6",
+							"expanded_url": "http://karposlive.com",
+							"display_url": "karposlive.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3187,
+			"friends_count": 23,
+			"listed_count": 7,
+			"created_at": "Fri May 18 03:10:15 +0000 2018",
+			"favourites_count": 958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/997320323295920128/Qn3F8uqj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/997320323295920128/Qn3F8uqj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/997313385329913856/1568697321",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "boundless music of groovy beats and melodies await as #karposlive mix 9 presents:\n\nnew french house artist, @Fkjmusic \n+\ndreamy korean indie band, @adoyband \n\nnovember 14, abs cbn vertis tent\nearly bird tickets for PHP3000 on sale TOM, sept 23, 11AM via https://t.co/I1kPj9oSaT https://t.co/5l9dUaEX0G"
+	},
+	{
+		"created_at": "Sun Sep 22 03:16:01 +0000 2019",
+		"id": 1175592061157789700,
+		"id_str": "1175609670440034304",
+		"full_text": "FKJ and ADOY to return to Manila for Karpos Live Mix 9 https://t.co/BmrPRlccxC #KarposLive https://t.co/bLsRnFeVJE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KarposLive",
+					"indices": [
+						79,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BmrPRlccxC",
+					"expanded_url": "https://www.bandwagon.asia/articles/fkj-adoy-to-return-manila-concert-karpos-live-mix-9-2019",
+					"display_url": "bandwagon.asia/articles/fkj-a…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1175592039800397800,
+					"id_str": "1175592039800397825",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EFCKu00UYAE1BlD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFCKu00UYAE1BlD.jpg",
+					"url": "https://t.co/bLsRnFeVJE",
+					"display_url": "pic.twitter.com/bLsRnFeVJE",
+					"expanded_url": "https://twitter.com/bandwagonPH/status/1175592061157789696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175592039800397800,
+					"id_str": "1175592039800397825",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EFCKu00UYAE1BlD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFCKu00UYAE1BlD.jpg",
+					"url": "https://t.co/bLsRnFeVJE",
+					"display_url": "pic.twitter.com/bLsRnFeVJE",
+					"expanded_url": "https://twitter.com/bandwagonPH/status/1175592061157789696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2993566454,
+			"id_str": "2993566454",
+			"name": "Bandwagon PH",
+			"screen_name": "bandwagonPH",
+			"location": "Philippines",
+			"description": "Online music publication and live music finder in Southeast Asia. (PH, SG, ID)",
+			"url": "https://t.co/EO4HWVQDAj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EO4HWVQDAj",
+							"expanded_url": "http://www.bandwagon.asia",
+							"display_url": "bandwagon.asia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9359,
+			"friends_count": 1164,
+			"listed_count": 60,
+			"created_at": "Fri Jan 23 16:01:06 +0000 2015",
+			"favourites_count": 36912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/786470611275030532/s6BFf5CY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/786470611275030532/s6BFf5CY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2993566454/1565007742",
+			"profile_link_color": "FDB813",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FKJ and ADOY to return to Manila for Karpos Live Mix 9 https://t.co/BmrPRlccxC #KarposLive https://t.co/bLsRnFeVJE"
+	},
+	{
+		"created_at": "Sun Sep 22 03:15:58 +0000 2019",
+		"id": 1175606371745595400,
+		"id_str": "1175609657399959552",
+		"full_text": "November 14 // Abs cbn vertis tent\nOn sale tomorrow September 23. Tickets are available at\nhttps://t.co/l8Yxr4Vsbg https://t.co/Fb4TXc7Kww",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l8Yxr4Vsbg",
+					"expanded_url": "http://www.karposlive.com",
+					"display_url": "karposlive.com",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1175606332272955400,
+					"id_str": "1175606332272955392",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EFCXuwbUUAAb-R7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFCXuwbUUAAb-R7.jpg",
+					"url": "https://t.co/Fb4TXc7Kww",
+					"display_url": "pic.twitter.com/Fb4TXc7Kww",
+					"expanded_url": "https://twitter.com/adoyband/status/1175606371745595392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175606332272955400,
+					"id_str": "1175606332272955392",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EFCXuwbUUAAb-R7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFCXuwbUUAAb-R7.jpg",
+					"url": "https://t.co/Fb4TXc7Kww",
+					"display_url": "pic.twitter.com/Fb4TXc7Kww",
+					"expanded_url": "https://twitter.com/adoyband/status/1175606371745595392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1175606350484607000,
+					"id_str": "1175606350484606978",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EFCXv0RUEAIW57O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFCXv0RUEAIW57O.jpg",
+					"url": "https://t.co/Fb4TXc7Kww",
+					"display_url": "pic.twitter.com/Fb4TXc7Kww",
+					"expanded_url": "https://twitter.com/adoyband/status/1175606371745595392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2797,
+			"friends_count": 558,
+			"listed_count": 30,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007304697462439936/S-bhKeLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "November 14 // Abs cbn vertis tent\nOn sale tomorrow September 23. Tickets are available at\nhttps://t.co/l8Yxr4Vsbg https://t.co/Fb4TXc7Kww"
+	},
+	{
 		"created_at": "Sat Sep 21 14:15:58 +0000 2019",
 		"id": 1175412706674823200,
 		"id_str": "1175413364387917824",
