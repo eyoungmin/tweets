@@ -1,6 +1,674 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 11:15:58 +0000 2019",
+		"id": 1176445819441959000,
+		"id_str": "1176455229031747584",
+		"full_text": "this @FBE challenge is serious https://t.co/TccSvsIWtS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FBE",
+					"name": "FBE",
+					"id": 16547369,
+					"id_str": "16547369",
+					"indices": [
+						5,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TccSvsIWtS",
+					"expanded_url": "https://youtu.be/tiNBmnQr1uE",
+					"display_url": "youtu.be/tiNBmnQr1uE",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNMOUh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNMOUh",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313576,
+			"friends_count": 164,
+			"listed_count": 927,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1564707040",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2378,
+		"favorite_count": 4124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this @FBE challenge is serious https://t.co/TccSvsIWtS"
+	},
+	{
+		"created_at": "Tue Sep 24 08:15:58 +0000 2019",
+		"id": 1176407856083423200,
+		"id_str": "1176409930712174593",
+		"full_text": "뉴욕을 배경으로 한 동갑내기 94라인 슬기와 웬디의 가을 화보가 공개됐습니다! \n진한 가을 무드와 자연스러운 트윈룩으로 연출된 둘의 케미를 마리끌레르 10월호에서 확인해보세요! \n\n#슬기 #웬디 #SEULGI #WENDY #레드벨벳 #RedVelvet #마리끌레르 #MarieClaire https://t.co/3tydzowXc3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "MarieClaire",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176407845899624400,
+					"id_str": "1176407845899624449",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EFNws_XUYAE4I_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFNws_XUYAE4I_f.jpg",
+					"url": "https://t.co/3tydzowXc3",
+					"display_url": "pic.twitter.com/3tydzowXc3",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1176407856083423237/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 818,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 886,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176407845899624400,
+					"id_str": "1176407845899624449",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EFNws_XUYAE4I_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFNws_XUYAE4I_f.jpg",
+					"url": "https://t.co/3tydzowXc3",
+					"display_url": "pic.twitter.com/3tydzowXc3",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1176407856083423237/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 818,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 886,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1176407845903855600,
+					"id_str": "1176407845903855616",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EFNws_YU8AAfWE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFNws_YU8AAfWE3.jpg",
+					"url": "https://t.co/3tydzowXc3",
+					"display_url": "pic.twitter.com/3tydzowXc3",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1176407856083423237/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 886,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 1122,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1857093,
+			"friends_count": 2,
+			"listed_count": 5486,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11339,
+		"favorite_count": 31891,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴욕을 배경으로 한 동갑내기 94라인 슬기와 웬디의 가을 화보가 공개됐습니다! \n진한 가을 무드와 자연스러운 트윈룩으로 연출된 둘의 케미를 마리끌레르 10월호에서 확인해보세요! \n\n#슬기 #웬디 #SEULGI #WENDY #레드벨벳 #RedVelvet #마리끌레르 #MarieClaire https://t.co/3tydzowXc3"
+	},
+	{
+		"created_at": "Tue Sep 24 06:15:58 +0000 2019",
+		"id": 1176373808992645000,
+		"id_str": "1176379731715002368",
+		"full_text": "1번 타자 게임 여신 올리비아 혜!\n혜주야 가즈아~를 외쳤지만 알고 보니 게임 블랙홀?!\n\n#나돌 #아이돌그라운드 #이달의소녀 #LOONA\n#올리비아혜 #비비 #현진 #고원 \n\nhttps://t.co/MQATDy0baH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나돌",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "아이돌그라운드",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						93,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MQATDy0baH",
+					"expanded_url": "https://youtu.be/tWfIwsLUSRI",
+					"display_url": "youtu.be/tWfIwsLUSRI",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48,
+			"friends_count": 103,
+			"listed_count": 1,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176379639159066624/5aMs3fZj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176379639159066624/5aMs3fZj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1569305737",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 884,
+		"favorite_count": 2412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1번 타자 게임 여신 올리비아 혜!\n혜주야 가즈아~를 외쳤지만 알고 보니 게임 블랙홀?!\n\n#나돌 #아이돌그라운드 #이달의소녀 #LOONA\n#올리비아혜 #비비 #현진 #고원 \n\nhttps://t.co/MQATDy0baH"
+	},
+	{
+		"created_at": "Mon Sep 23 21:17:49 +0000 2019",
+		"id": 1176244302491598800,
+		"id_str": "1176244302491598848",
+		"full_text": "냄새 때문에 | 냄새는 불현 듯 과거를 불러온다 잊고 있던 기억과 감정이 되살아나는 순간 | 1875화 | 2019년 09월 23일 방송\nhttps://t.co/31lFUAA7fC\n#지식채널e #EBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/31lFUAA7fC",
+					"expanded_url": "http://www.ebs.co.kr/replay/show?prodId=352&lectId=20156189",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "냄새 때문에 | 냄새는 불현 듯 과거를 불러온다 잊고 있던 기억과 감정이 되살아나는 순간 | 1875화 | 2019년 09월 23일 방송\nhttps://t.co/31lFUAA7fC\n#지식채널e #EBS"
+	},
+	{
 		"created_at": "Mon Sep 23 10:15:58 +0000 2019",
 		"id": 1176072697740005400,
 		"id_str": "1176077741986332673",
