@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 10:15:58 +0000 2019",
+		"id": 1176792204615901200,
+		"id_str": "1176802518195724288",
+		"full_text": "✔ New EP 환상소곡집 op.2 &lt;ARIA&gt;\n트랙리스트 및 단편소설 표지 공개🥰💜\n✔앨범 예약판매 일정 \n9월 27일 오전 11시🕚🎁\n(시간은 판매처마다 상이할 수 있습니다)\n#심규선 #환상소곡집op2 #ARIA #예약판매 #석양산책 #화조도 #폭풍의언덕 #바다새의노래 #도미노 #어릿광대를보내주오 #바다위의두사람 https://t.co/TklNHBtYhW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "환상소곡집op2",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "ARIA",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "예약판매",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "석양산책",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "화조도",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "폭풍의언덕",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "바다새의노래",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "도미노",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "어릿광대를보내주오",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"text": "바다위의두사람",
+					"indices": [
+						175,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176792194339836000,
+					"id_str": "1176792194339835904",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EFTORA4UEAALn4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFTORA4UEAALn4D.jpg",
+					"url": "https://t.co/TklNHBtYhW",
+					"display_url": "pic.twitter.com/TklNHBtYhW",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1176792204615901184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176792194339836000,
+					"id_str": "1176792194339835904",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EFTORA4UEAALn4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFTORA4UEAALn4D.jpg",
+					"url": "https://t.co/TklNHBtYhW",
+					"display_url": "pic.twitter.com/TklNHBtYhW",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1176792204615901184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1176792202409697300,
+					"id_str": "1176792202409697280",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EFTORe8UYAA9D7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFTORe8UYAA9D7t.jpg",
+					"url": "https://t.co/TklNHBtYhW",
+					"display_url": "pic.twitter.com/TklNHBtYhW",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1176792204615901184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "환상소곡집 op.2 ARIA 10/2 발매",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11015,
+			"friends_count": 173,
+			"listed_count": 178,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988651944246890496/6K6YuaU8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988651944246890496/6K6YuaU8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1490689614",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔ New EP 환상소곡집 op.2 &lt;ARIA&gt;\n트랙리스트 및 단편소설 표지 공개🥰💜\n✔앨범 예약판매 일정 \n9월 27일 오전 11시🕚🎁\n(시간은 판매처마다 상이할 수 있습니다)\n#심규선 #환상소곡집op2 #ARIA #예약판매 #석양산책 #화조도 #폭풍의언덕 #바다새의노래 #도미노 #어릿광대를보내주오 #바다위의두사람 https://t.co/TklNHBtYhW"
+	},
+	{
+		"created_at": "Wed Sep 25 03:15:59 +0000 2019",
+		"id": 1176692854686568400,
+		"id_str": "1176696822674444288",
+		"full_text": "[이달의소녀킼킼 #167]\n토끼와 알파카의 댄스타임💃🏼\n\n#이달의소녀 #LOONA #LOONAKick #희진 #HeeJin https://t.co/mDCsLGzo9R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176692732116504600,
+					"id_str": "1176692732116504578",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176692732116504578/pu/img/uEjAVqeM2etDdaAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176692732116504578/pu/img/uEjAVqeM2etDdaAi.jpg",
+					"url": "https://t.co/mDCsLGzo9R",
+					"display_url": "pic.twitter.com/mDCsLGzo9R",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1176692854686568449/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176692732116504600,
+					"id_str": "1176692732116504578",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176692732116504578/pu/img/uEjAVqeM2etDdaAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176692732116504578/pu/img/uEjAVqeM2etDdaAi.jpg",
+					"url": "https://t.co/mDCsLGzo9R",
+					"display_url": "pic.twitter.com/mDCsLGzo9R",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1176692854686568449/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"duration_millis": 16417,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1176692732116504578/pu/vid/320x426/a0jIXeDLVAUiaPLE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1176692732116504578/pu/pl/0UFCtENqpJ0m6pnz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1176692732116504578/pu/vid/360x480/9SIapjLwRoJ3ldkK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346509,
+			"friends_count": 0,
+			"listed_count": 4750,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7286,
+		"favorite_count": 19176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #167]\n토끼와 알파카의 댄스타임💃🏼\n\n#이달의소녀 #LOONA #LOONAKick #희진 #HeeJin https://t.co/mDCsLGzo9R"
+	},
+	{
 		"created_at": "Tue Sep 24 11:15:58 +0000 2019",
 		"id": 1176445819441959000,
 		"id_str": "1176455229031747584",
