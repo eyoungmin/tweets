@@ -1,6 +1,809 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 10:14:30 +0000 2019",
+		"id": 1178251697170321400,
+		"id_str": "1178251697170321408",
+		"full_text": "#3시의인디살롱\n유쾌발랄 청년난장 ‘제로 페스티벌’ 개봉박두\nhttps://t.co/pkFFIEvAaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "3시의인디살롱",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pkFFIEvAaL",
+					"expanded_url": "http://www.busan.com/view/busan/view.php?code=2019092917403595440",
+					"display_url": "busan.com/view/busan/vie…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#3시의인디살롱\n유쾌발랄 청년난장 ‘제로 페스티벌’ 개봉박두\nhttps://t.co/pkFFIEvAaL"
+	},
+	{
+		"created_at": "Sun Sep 29 06:20:48 +0000 2019",
+		"id": 1177787746292621300,
+		"id_str": "1178192885394493440",
+		"full_text": "직업도 나이도 밝히지 않는 젊은이들의 소셜 살롱이 강남까지 진출한 이유: 크리에이터 클럽 표시형 대표 인터뷰\nhttps://t.co/I46XECyQRF\n\n“‘나는 열정 없어요.’ ‘저는 차가워요.’ 이거 다 구라예요. 열정 없고 꿈 없는 사람 없어요. 다만 꿈이 없는 게 더 편하다고 생각하게 만든 거예요.” https://t.co/JljV2fcvTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I46XECyQRF",
+					"expanded_url": "https://ppss.kr/archives/204181",
+					"display_url": "ppss.kr/archives/204181",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1177787702139220000,
+					"id_str": "1177787702139219968",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhXrMbU8AAR5iB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhXrMbU8AAR5iB.jpg",
+					"url": "https://t.co/JljV2fcvTq",
+					"display_url": "pic.twitter.com/JljV2fcvTq",
+					"expanded_url": "https://twitter.com/ppsskr/status/1177787746292621312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177787702139220000,
+					"id_str": "1177787702139219968",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhXrMbU8AAR5iB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhXrMbU8AAR5iB.jpg",
+					"url": "https://t.co/JljV2fcvTq",
+					"display_url": "pic.twitter.com/JljV2fcvTq",
+					"expanded_url": "https://twitter.com/ppsskr/status/1177787746292621312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992831082,
+			"id_str": "992831082",
+			"name": "ㅍㅍㅅㅅ",
+			"screen_name": "ppsskr",
+			"location": "",
+			"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+			"url": "http://t.co/22eKl3pLgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/22eKl3pLgd",
+							"expanded_url": "http://ppss.kr",
+							"display_url": "ppss.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243829,
+			"friends_count": 113,
+			"listed_count": 493,
+			"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+			"favourites_count": 1792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1531144326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "직업도 나이도 밝히지 않는 젊은이들의 소셜 살롱이 강남까지 진출한 이유: 크리에이터 클럽 표시형 대표 인터뷰\nhttps://t.co/I46XECyQRF\n\n“‘나는 열정 없어요.’ ‘저는 차가워요.’ 이거 다 구라예요. 열정 없고 꿈 없는 사람 없어요. 다만 꿈이 없는 게 더 편하다고 생각하게 만든 거예요.” https://t.co/JljV2fcvTq"
+	},
+	{
+		"created_at": "Sun Sep 29 06:14:24 +0000 2019",
+		"id": 1178191275490730000,
+		"id_str": "1178191275490729985",
+		"full_text": "#3시의인디살롱\n로빈X오주 ‘꽃따러 가자’, 첫술에 배부른 사제지간 첫 앨범[3시의 인디살롱]\nhttps://t.co/9iq3DEvMT9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "3시의인디살롱",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9iq3DEvMT9",
+					"expanded_url": "http://www.osen.co.kr/article/G1111231424",
+					"display_url": "osen.co.kr/article/G11112…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#3시의인디살롱\n로빈X오주 ‘꽃따러 가자’, 첫술에 배부른 사제지간 첫 앨범[3시의 인디살롱]\nhttps://t.co/9iq3DEvMT9"
+	},
+	{
+		"created_at": "Sun Sep 29 04:16:05 +0000 2019",
+		"id": 1178153272722374700,
+		"id_str": "1178161501917581312",
+		"full_text": "indonesia, you sparked a fire inside my heart. thank you for this feeling, thank you for your voice",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNMOUh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNMOUh",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315571,
+			"friends_count": 164,
+			"listed_count": 930,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151597926780530688/fKkZUIBk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1564707040",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5696,
+		"favorite_count": 13338,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "indonesia, you sparked a fire inside my heart. thank you for this feeling, thank you for your voice"
+	},
+	{
+		"created_at": "Sun Sep 29 04:15:58 +0000 2019",
+		"id": 1178142587468697600,
+		"id_str": "1178161471815073797",
+		"full_text": "#BLACKPINK 'BLACKPINK DIARIES' EP.15\n\n🎬 Naver TV : https://t.co/8oDOU71fa6\n🎥 YouTube : https://t.co/IM7yw6Q5FZ\n\n#블랙핑크 #DIARIES #BLACKPINK2019WORLDTOURwithKIA #INYOURAREA #SYDNEY #BANGKOK #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "DIARIES",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "BLACKPINK2019WORLDTOURwithKIA",
+					"indices": [
+						127,
+						157
+					]
+				},
+				{
+					"text": "INYOURAREA",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"text": "SYDNEY",
+					"indices": [
+						170,
+						177
+					]
+				},
+				{
+					"text": "BANGKOK",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						187,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8oDOU71fa6",
+					"expanded_url": "https://tv.naver.com/v/10027993",
+					"display_url": "tv.naver.com/v/10027993",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/IM7yw6Q5FZ",
+					"expanded_url": "https://youtu.be/TIil9aZsbsE",
+					"display_url": "youtu.be/TIil9aZsbsE",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #CL #DARA #LEEHI #TREASURE13",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5514451,
+			"friends_count": 44,
+			"listed_count": 7652,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6640,
+		"favorite_count": 22059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'BLACKPINK DIARIES' EP.15\n\n🎬 Naver TV : https://t.co/8oDOU71fa6\n🎥 YouTube : https://t.co/IM7yw6Q5FZ\n\n#블랙핑크 #DIARIES #BLACKPINK2019WORLDTOURwithKIA #INYOURAREA #SYDNEY #BANGKOK #YG"
+	},
+	{
+		"created_at": "Sun Sep 29 02:14:54 +0000 2019",
+		"id": 1178131003161940000,
+		"id_str": "1178131003161939968",
+		"full_text": "#3시의인디살롱\n김선욱 2집에서 발견한 공감 노래 셋 [3시의 인디살롱]\nhttps://t.co/j1XhmnknCL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "3시의인디살롱",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j1XhmnknCL",
+					"expanded_url": "http://www.osen.co.kr/article/G1111231416",
+					"display_url": "osen.co.kr/article/G11112…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#3시의인디살롱\n김선욱 2집에서 발견한 공감 노래 셋 [3시의 인디살롱]\nhttps://t.co/j1XhmnknCL"
+	},
+	{
 		"created_at": "Sat Sep 28 15:15:58 +0000 2019",
 		"id": 1177961166343032800,
 		"id_str": "1177965179142918145",
@@ -970,7 +1773,7 @@ Grailbird.data.tweets_2019_09 =
 		"created_at": "Sat Sep 28 07:15:58 +0000 2019",
 		"id": 1177829733230243800,
 		"id_str": "1177844383053426688",
-		"full_text": "[homecoming]\n유수와 현진의 모교라서 더욱 뜻 깊었던 서울예대 축제 🎡🤹🏼‍♀️🎪 오신 분들 반응 엄청 뜨거워서 놀랐는데 🥳🤩🥳 무대에서 불도 막 나와서 🔥🔥🔥 정말 뜨거웠어요 😆🤣😂\n⠀\n엄청 재밌었어요! 🐘🦝🐘🦝🐘\n⠀\n고마워요. 그리고 다음에 또 만나요!\n⠀\n#새소년 #SESONEON #축제 https://t.co/RxRZeQKRvS",
+		"full_text": "[homecoming]\n유수와 현진의 모교라서 더욱 뜻 깊었던 서울예대 축제 🎡🤹🏼♀️🎪 오신 분들 반응 엄청 뜨거워서 놀랐는데 🥳🤩🥳 무대에서 불도 막 나와서 🔥🔥🔥 정말 뜨거웠어요 😆🤣😂\n⠀\n엄청 재밌었어요! 🐘🦝🐘🦝🐘\n⠀\n고마워요. 그리고 다음에 또 만나요!\n⠀\n#새소년 #SESONEON #축제 https://t.co/RxRZeQKRvS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1232,7 +2035,7 @@ Grailbird.data.tweets_2019_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[homecoming]\n유수와 현진의 모교라서 더욱 뜻 깊었던 서울예대 축제 🎡🤹🏼‍♀️🎪 오신 분들 반응 엄청 뜨거워서 놀랐는데 🥳🤩🥳 무대에서 불도 막 나와서 🔥🔥🔥 정말 뜨거웠어요 😆🤣😂\n⠀\n엄청 재밌었어요! 🐘🦝🐘🦝🐘\n⠀\n고마워요. 그리고 다음에 또 만나요!\n⠀\n#새소년 #SESONEON #축제 https://t.co/RxRZeQKRvS"
+		"text": "[homecoming]\n유수와 현진의 모교라서 더욱 뜻 깊었던 서울예대 축제 🎡🤹🏼♀️🎪 오신 분들 반응 엄청 뜨거워서 놀랐는데 🥳🤩🥳 무대에서 불도 막 나와서 🔥🔥🔥 정말 뜨거웠어요 😆🤣😂\n⠀\n엄청 재밌었어요! 🐘🦝🐘🦝🐘\n⠀\n고마워요. 그리고 다음에 또 만나요!\n⠀\n#새소년 #SESONEON #축제 https://t.co/RxRZeQKRvS"
 	},
 	{
 		"created_at": "Sat Sep 28 06:57:53 +0000 2019",
