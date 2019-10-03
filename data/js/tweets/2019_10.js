@@ -1,6 +1,1094 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 13:15:58 +0000 2019",
+		"id": 1179743776194957300,
+		"id_str": "1179746919599480834",
+		"full_text": "[강아지 🐶 vs 고양이 🐱]\n박현진 황소윤 유수가 함께 한 것도 어언 5개월 🤚새소년은 서로를 얼마나 알게됐을까요? 🤔 취향 이구동성으로 알아 본 결과는...💩\n⠀\n풀 버젼은 유투브에서 📺 https://t.co/chGh7Y7fOZ\n⠀\n그리고 10월 4일(금) 오후 6시 발매 예정인 싱글 “집에” 많이 들어주세요 🙏🙏🙏 https://t.co/t0EPrJLLNt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/chGh7Y7fOZ",
+					"expanded_url": "https://youtu.be/ZShIhnu_UjU",
+					"display_url": "youtu.be/ZShIhnu_UjU",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179743698063507500,
+					"id_str": "1179743698063507456",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1179743698063507456/pu/img/sStCp_G6xWdlxuvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1179743698063507456/pu/img/sStCp_G6xWdlxuvL.jpg",
+					"url": "https://t.co/t0EPrJLLNt",
+					"display_url": "pic.twitter.com/t0EPrJLLNt",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1179743776194957312/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179743698063507500,
+					"id_str": "1179743698063507456",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1179743698063507456/pu/img/sStCp_G6xWdlxuvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1179743698063507456/pu/img/sStCp_G6xWdlxuvL.jpg",
+					"url": "https://t.co/t0EPrJLLNt",
+					"display_url": "pic.twitter.com/t0EPrJLLNt",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1179743776194957312/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 59752,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1179743698063507456/pu/pl/g1-Z_1f-oJ4HzTQw.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1179743698063507456/pu/vid/478x270/1lXDdsO1MVy3kauz.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1179743698063507456/pu/vid/720x406/vUEUBWZdqhgF6Kxl.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6069,
+			"friends_count": 533,
+			"listed_count": 39,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[강아지 🐶 vs 고양이 🐱]\n박현진 황소윤 유수가 함께 한 것도 어언 5개월 🤚새소년은 서로를 얼마나 알게됐을까요? 🤔 취향 이구동성으로 알아 본 결과는...💩\n⠀\n풀 버젼은 유투브에서 📺 https://t.co/chGh7Y7fOZ\n⠀\n그리고 10월 4일(금) 오후 6시 발매 예정인 싱글 “집에” 많이 들어주세요 🙏🙏🙏 https://t.co/t0EPrJLLNt"
+	},
+	{
+		"created_at": "Thu Oct 03 11:58:05 +0000 2019",
+		"id": 1179727317721112600,
+		"id_str": "1179727317721112576",
+		"full_text": "“병원이 이런 상황인데 어떻게 오래 일을 해요” 간호사의 절반은 3년 안에 병원을 떠난다 [간호사, LIFE #2]\nhttps://t.co/5AIK5yz5qg\n#닷페이스 #Dotface #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "닷페이스",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "Dotface",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						104,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5AIK5yz5qg",
+					"expanded_url": "https://youtu.be/O4BomFQR2nE",
+					"display_url": "youtu.be/O4BomFQR2nE",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 822,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“병원이 이런 상황인데 어떻게 오래 일을 해요” 간호사의 절반은 3년 안에 병원을 떠난다 [간호사, LIFE #2]\nhttps://t.co/5AIK5yz5qg\n#닷페이스 #Dotface #minfav"
+	},
+	{
+		"created_at": "Thu Oct 03 10:01:18 +0000 2019",
+		"id": 1179697928140738600,
+		"id_str": "1179697928140738560",
+		"full_text": "[MV / ENG sub] 심규선(Lucia) - 화조도 (Hwa-jo-do : Flowers and Birds painting)\nhttps://t.co/7Fn2zlbu4Y\n#심규선 #SimGyuseon #LUCIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "SimGyuseon",
+					"indices": [
+						102,
+						113
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						114,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Fn2zlbu4Y",
+					"expanded_url": "https://youtu.be/7quUimAraDg",
+					"display_url": "youtu.be/7quUimAraDg",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 822,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV / ENG sub] 심규선(Lucia) - 화조도 (Hwa-jo-do : Flowers and Birds painting)\nhttps://t.co/7Fn2zlbu4Y\n#심규선 #SimGyuseon #LUCIA"
+	},
+	{
+		"created_at": "Thu Oct 03 09:15:59 +0000 2019",
+		"id": 1179683801561043000,
+		"id_str": "1179686523341549568",
+		"full_text": "[싱글 “집에” D-1]\nsingle cover art\ndesigned by 황소윤\nutilizing Artbreeder\n⠀\n2019. 10. 04. FRI 6PM 발매\n⠀\n#새소년 #SESONEON #신곡 #싱글 #집에 #goback #커버아트 #Artbreeder https://t.co/y8dqdfzw3G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "집에",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "goback",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "커버아트",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "Artbreeder",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179683791633170400,
+					"id_str": "1179683791633170433",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EF8UKIOUwAEGGcs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF8UKIOUwAEGGcs.jpg",
+					"url": "https://t.co/y8dqdfzw3G",
+					"display_url": "pic.twitter.com/y8dqdfzw3G",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1179683801561042946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179683791633170400,
+					"id_str": "1179683791633170433",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EF8UKIOUwAEGGcs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF8UKIOUwAEGGcs.jpg",
+					"url": "https://t.co/y8dqdfzw3G",
+					"display_url": "pic.twitter.com/y8dqdfzw3G",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1179683801561042946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6069,
+			"friends_count": 533,
+			"listed_count": 39,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[싱글 “집에” D-1]\nsingle cover art\ndesigned by 황소윤\nutilizing Artbreeder\n⠀\n2019. 10. 04. FRI 6PM 발매\n⠀\n#새소년 #SESONEON #신곡 #싱글 #집에 #goback #커버아트 #Artbreeder https://t.co/y8dqdfzw3G"
+	},
+	{
+		"created_at": "Thu Oct 03 09:10:19 +0000 2019",
+		"id": 1179685097991282700,
+		"id_str": "1179685097991282688",
+		"full_text": "[MV / KOR sub] 심규선 - 화조도 花鳥圖\nhttps://t.co/vaYHEp1zsZ\n#심규선 #SimGyuseon #LUCIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "SimGyuseon",
+					"indices": [
+						58,
+						69
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vaYHEp1zsZ",
+					"expanded_url": "https://youtu.be/sA5Si3oOiqE",
+					"display_url": "youtu.be/sA5Si3oOiqE",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 822,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "[MV / KOR sub] 심규선 - 화조도 花鳥圖\nhttps://t.co/vaYHEp1zsZ\n#심규선 #SimGyuseon #LUCIA"
+	},
+	{
+		"created_at": "Wed Oct 02 23:15:58 +0000 2019",
+		"id": 1179531852044017700,
+		"id_str": "1179535526531076097",
+		"full_text": "[아티스트와 함께 하는 앨범 발매의 순간]\n새소년이 네이버 나우의 오디오 방송 '6시 5분 전'에 출연합니다. \n⠀\n싱글 '집에' 발매 5분 전인 10월 4일(금) 오후 5시 55분부터 네이버 앱을 통해서 들으실 수 있습니다.\n⠀\nhttps://t.co/5fD17Z5bJe\n⠀\n#새소년 #신곡 #집에 #네이버 #나우 #6시5분전 https://t.co/xhr1mClMjm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "집에",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "나우",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "6시5분전",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5fD17Z5bJe",
+					"expanded_url": "https://now.naver.com",
+					"display_url": "now.naver.com",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179531843265126400,
+					"id_str": "1179531843265126400",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EF6J9kcUYAAhljw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF6J9kcUYAAhljw.jpg",
+					"url": "https://t.co/xhr1mClMjm",
+					"display_url": "pic.twitter.com/xhr1mClMjm",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1179531852044017666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179531843265126400,
+					"id_str": "1179531843265126400",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EF6J9kcUYAAhljw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF6J9kcUYAAhljw.jpg",
+					"url": "https://t.co/xhr1mClMjm",
+					"display_url": "pic.twitter.com/xhr1mClMjm",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1179531852044017666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179531843256766500,
+					"id_str": "1179531843256766469",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EF6J9kaU0AUPpxs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF6J9kaU0AUPpxs.jpg",
+					"url": "https://t.co/xhr1mClMjm",
+					"display_url": "pic.twitter.com/xhr1mClMjm",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1179531852044017666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6069,
+			"friends_count": 533,
+			"listed_count": 39,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877874536409997312/fZOxaM6Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아티스트와 함께 하는 앨범 발매의 순간]\n새소년이 네이버 나우의 오디오 방송 '6시 5분 전'에 출연합니다. \n⠀\n싱글 '집에' 발매 5분 전인 10월 4일(금) 오후 5시 55분부터 네이버 앱을 통해서 들으실 수 있습니다.\n⠀\nhttps://t.co/5fD17Z5bJe\n⠀\n#새소년 #신곡 #집에 #네이버 #나우 #6시5분전 https://t.co/xhr1mClMjm"
+	},
+	{
 		"created_at": "Wed Oct 02 13:58:06 +0000 2019",
 		"id": 1179395135211221000,
 		"id_str": "1179395135211220993",
