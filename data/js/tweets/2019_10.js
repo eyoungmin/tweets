@@ -1,6 +1,1476 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 13:15:58 +0000 2019",
+		"id": 1180470701750243300,
+		"id_str": "1180471694806470656",
+		"full_text": "출구 없는 매력의 배우 임윤아가 ‘2019 제28회 #부일영화상’과 ‘2019 BIFF 아시아 스타 어워즈’ 에서 각각 ‘여자 인기스타상'과 ‘아시아의 얼굴상'을 수상했습니다!⭐\n배우 #임윤아 의 활약 앞으로도 많이 응원해주세요! 👍\n\n#LIMYOONA #윤아 #YOONA #소녀시대 #GirlsGeneration #BuilFilmAwards #BIFF https://t.co/M9AOVx3EQB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부일영화상",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"text": "BuilFilmAwards",
+					"indices": [
+						176,
+						191
+					]
+				},
+				{
+					"text": "BIFF",
+					"indices": [
+						192,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180470674348863500,
+					"id_str": "1180470674348863490",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EGHf0uxUcAI9QrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGHf0uxUcAI9QrB.jpg",
+					"url": "https://t.co/M9AOVx3EQB",
+					"display_url": "pic.twitter.com/M9AOVx3EQB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1180470701750243328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 903,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1505,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180470674348863500,
+					"id_str": "1180470674348863490",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EGHf0uxUcAI9QrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGHf0uxUcAI9QrB.jpg",
+					"url": "https://t.co/M9AOVx3EQB",
+					"display_url": "pic.twitter.com/M9AOVx3EQB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1180470701750243328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 903,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1505,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1180470690626994200,
+					"id_str": "1180470690626994176",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EGHf1raVAAAT1Tc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGHf1raVAAAT1Tc.jpg",
+					"url": "https://t.co/M9AOVx3EQB",
+					"display_url": "pic.twitter.com/M9AOVx3EQB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1180470701750243328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3478277,
+			"friends_count": 4,
+			"listed_count": 5813,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5465,
+		"favorite_count": 10942,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "출구 없는 매력의 배우 임윤아가 ‘2019 제28회 #부일영화상’과 ‘2019 BIFF 아시아 스타 어워즈’ 에서 각각 ‘여자 인기스타상'과 ‘아시아의 얼굴상'을 수상했습니다!⭐\n배우 #임윤아 의 활약 앞으로도 많이 응원해주세요! 👍\n\n#LIMYOONA #윤아 #YOONA #소녀시대 #GirlsGeneration #BuilFilmAwards #BIFF https://t.co/M9AOVx3EQB"
+	},
+	{
+		"created_at": "Sat Oct 05 12:15:58 +0000 2019",
+		"id": 1180447672961908700,
+		"id_str": "1180456595731431428",
+		"full_text": "[포스터라이브 by FLO]\n새소년 SE SO NEON\n\"집에\" (go back)\n⠀\n황소윤 Soyoon (v/g)\n유수 U Su (dr)\n박현진 Park Hyunjin (b)\n⠀\nhttps://t.co/7syaoXMHTw\n⠀\n#새소년 #SESONEON #집에 #goback #싱글 #신곡 #포스터라이브 #FLO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "집에",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "goback",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "포스터라이브",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						170,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7syaoXMHTw",
+					"expanded_url": "https://www.youtube.com/watch?v=P0d4Shc7Kmk",
+					"display_url": "youtube.com/watch?v=P0d4Sh…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6200,
+			"friends_count": 533,
+			"listed_count": 39,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[포스터라이브 by FLO]\n새소년 SE SO NEON\n\"집에\" (go back)\n⠀\n황소윤 Soyoon (v/g)\n유수 U Su (dr)\n박현진 Park Hyunjin (b)\n⠀\nhttps://t.co/7syaoXMHTw\n⠀\n#새소년 #SESONEON #집에 #goback #싱글 #신곡 #포스터라이브 #FLO"
+	},
+	{
+		"created_at": "Sat Oct 05 10:52:51 +0000 2019",
+		"id": 1179990567494672400,
+		"id_str": "1180435676652662786",
+		"full_text": "내게 실용적이었던 프로그래밍 공부 방법들\nhttps://t.co/COUdzLc1XC\n\n프로그래밍 공부를 위한 매개체를 쭉 소개하고, 내가 어떻게 공부하는지 써보았다.\n\n이 사이클은 평소의 생활과 완전히 단절되어야 한다. ‘학교 다니느라 못 한다’ ‘프로젝트 하느라 못 한다’는 핑계를 대지 않기 위함이다. https://t.co/y6FX3k2IXt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/COUdzLc1XC",
+					"expanded_url": "https://ppss.kr/archives/204117",
+					"display_url": "ppss.kr/archives/204117",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179990557545775000,
+					"id_str": "1179990557545775104",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EGArKQTUwAABFQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGArKQTUwAABFQO.jpg",
+					"url": "https://t.co/y6FX3k2IXt",
+					"display_url": "pic.twitter.com/y6FX3k2IXt",
+					"expanded_url": "https://twitter.com/ppsskr/status/1179990567494672385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179990557545775000,
+					"id_str": "1179990557545775104",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EGArKQTUwAABFQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGArKQTUwAABFQO.jpg",
+					"url": "https://t.co/y6FX3k2IXt",
+					"display_url": "pic.twitter.com/y6FX3k2IXt",
+					"expanded_url": "https://twitter.com/ppsskr/status/1179990567494672385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992831082,
+			"id_str": "992831082",
+			"name": "ㅍㅍㅅㅅ",
+			"screen_name": "ppsskr",
+			"location": "",
+			"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+			"url": "http://t.co/22eKl3pLgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/22eKl3pLgd",
+							"expanded_url": "http://ppss.kr",
+							"display_url": "ppss.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243716,
+			"friends_count": 113,
+			"listed_count": 493,
+			"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+			"favourites_count": 1792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1531144326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내게 실용적이었던 프로그래밍 공부 방법들\nhttps://t.co/COUdzLc1XC\n\n프로그래밍 공부를 위한 매개체를 쭉 소개하고, 내가 어떻게 공부하는지 써보았다.\n\n이 사이클은 평소의 생활과 완전히 단절되어야 한다. ‘학교 다니느라 못 한다’ ‘프로젝트 하느라 못 한다’는 핑계를 대지 않기 위함이다. https://t.co/y6FX3k2IXt"
+	},
+	{
+		"created_at": "Sat Oct 05 09:36:53 +0000 2019",
+		"id": 1179628760389177300,
+		"id_str": "1180416559241498624",
+		"full_text": "지난 이야기지만, 저는 과거 '숨막히는 뒷태'라는 제목으로 유명해졌던 박성기 기자를 뭔가 재밌는 밈이자 캐릭터처럼 소비한 건 너무 큰 문제였다고 봐요. 심지어 맥심에선 이 사람 웨딩사진을 커버에 넣기도 했는데, 세상 명백한 해악을 끼친 사람을 '재미'로 소비한다고 그 해악이 극복되진 않아요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1179627313006178300,
+		"in_reply_to_status_id_str": "1179627313006178305",
+		"in_reply_to_user_id": 171901847,
+		"in_reply_to_user_id_str": "171901847",
+		"in_reply_to_screen_name": "guevara_99",
+		"user": {
+			"id": 171901847,
+			"id_str": "171901847",
+			"name": "위근우",
+			"screen_name": "guevara_99",
+			"location": "",
+			"description": "아무 것도 기대하지 마세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35830,
+			"friends_count": 45,
+			"listed_count": 268,
+			"created_at": "Wed Jul 28 13:05:26 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 644,
+		"favorite_count": 244,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지난 이야기지만, 저는 과거 '숨막히는 뒷태'라는 제목으로 유명해졌던 박성기 기자를 뭔가 재밌는 밈이자 캐릭터처럼 소비한 건 너무 큰 문제였다고 봐요. 심지어 맥심에선 이 사람 웨딩사진을 커버에 넣기도 했는데, 세상 명백한 해악을 끼친 사람을 '재미'로 소비한다고 그 해악이 극복되진 않아요."
+	},
+	{
+		"created_at": "Sat Oct 05 09:36:51 +0000 2019",
+		"id": 1179627313006178300,
+		"id_str": "1180416551410757633",
+		"full_text": "각선미, 뒤태... 여성 연예인 포토뉴스에서 무분별하게 쓰다보니까 이제 문제가 뭔지도 모르겠지? 추사랑 씨 2011년생, 아직 10살도 안 된 유년기다. 그냥 다 망해라. https://t.co/Q7KrFZoUYw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179627302029684700,
+					"id_str": "1179627302029684736",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7gyADU8AA8nf6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7gyADU8AA8nf6.jpg",
+					"url": "https://t.co/Q7KrFZoUYw",
+					"display_url": "pic.twitter.com/Q7KrFZoUYw",
+					"expanded_url": "https://twitter.com/guevara_99/status/1179627313006178305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179627302029684700,
+					"id_str": "1179627302029684736",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7gyADU8AA8nf6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7gyADU8AA8nf6.jpg",
+					"url": "https://t.co/Q7KrFZoUYw",
+					"display_url": "pic.twitter.com/Q7KrFZoUYw",
+					"expanded_url": "https://twitter.com/guevara_99/status/1179627313006178305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171901847,
+			"id_str": "171901847",
+			"name": "위근우",
+			"screen_name": "guevara_99",
+			"location": "",
+			"description": "아무 것도 기대하지 마세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35830,
+			"friends_count": 45,
+			"listed_count": 268,
+			"created_at": "Wed Jul 28 13:05:26 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16497,
+		"favorite_count": 3298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "각선미, 뒤태... 여성 연예인 포토뉴스에서 무분별하게 쓰다보니까 이제 문제가 뭔지도 모르겠지? 추사랑 씨 2011년생, 아직 10살도 안 된 유년기다. 그냥 다 망해라. https://t.co/Q7KrFZoUYw"
+	},
+	{
+		"created_at": "Sat Oct 05 09:35:40 +0000 2019",
+		"id": 1180065562178637800,
+		"id_str": "1180416253426421760",
+		"full_text": "남을 배려할 줄 알며, 도울 줄 아는 남자아이들도 필요하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1180065559225888800,
+		"in_reply_to_status_id_str": "1180065559225888769",
+		"in_reply_to_user_id": 436011235,
+		"in_reply_to_user_id_str": "436011235",
+		"in_reply_to_screen_name": "jijingya",
+		"user": {
+			"id": 436011235,
+			"id_str": "436011235",
+			"name": "원더지",
+			"screen_name": "jijingya",
+			"location": "",
+			"description": "영유아 그림책 성평등 큐레이션 서비스 우따따",
+			"url": "https://t.co/TfVY2HgbvE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TfVY2HgbvE",
+							"expanded_url": "http://www.wooddadda.com",
+							"display_url": "wooddadda.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 260,
+			"listed_count": 1,
+			"created_at": "Tue Dec 13 17:50:31 +0000 2011",
+			"favourites_count": 1734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067430610296131590/0q3byjfG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067430610296131590/0q3byjfG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/436011235/1543330091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 503,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "남을 배려할 줄 알며, 도울 줄 아는 남자아이들도 필요하다."
+	},
+	{
+		"created_at": "Sat Oct 05 09:35:38 +0000 2019",
+		"id": 1180065559225888800,
+		"id_str": "1180416244542922752",
+		"full_text": "노동이 당연시 되어야 육아나 집안일 분담이 쉬워지기 때문이다. 남성이 더 많이 가정으로(돌봄노동으로) 가야만 여성이 더 많이 일터로 갈 수 있다. 또 돌봄노동 쪽 임금이 낮은 것도 남성이 돌봄노동 직업을 많이 가져야 해결되는 문제다. 우리에겐 도전적이고 진취적인 여자아이들만큼 다정하고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1180065557346807800,
+		"in_reply_to_status_id_str": "1180065557346807814",
+		"in_reply_to_user_id": 436011235,
+		"in_reply_to_user_id_str": "436011235",
+		"in_reply_to_screen_name": "jijingya",
+		"user": {
+			"id": 436011235,
+			"id_str": "436011235",
+			"name": "원더지",
+			"screen_name": "jijingya",
+			"location": "",
+			"description": "영유아 그림책 성평등 큐레이션 서비스 우따따",
+			"url": "https://t.co/TfVY2HgbvE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TfVY2HgbvE",
+							"expanded_url": "http://www.wooddadda.com",
+							"display_url": "wooddadda.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 260,
+			"listed_count": 1,
+			"created_at": "Tue Dec 13 17:50:31 +0000 2011",
+			"favourites_count": 1734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067430610296131590/0q3byjfG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067430610296131590/0q3byjfG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/436011235/1543330091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 611,
+		"favorite_count": 242,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "노동이 당연시 되어야 육아나 집안일 분담이 쉬워지기 때문이다. 남성이 더 많이 가정으로(돌봄노동으로) 가야만 여성이 더 많이 일터로 갈 수 있다. 또 돌봄노동 쪽 임금이 낮은 것도 남성이 돌봄노동 직업을 많이 가져야 해결되는 문제다. 우리에겐 도전적이고 진취적인 여자아이들만큼 다정하고"
+	},
+	{
+		"created_at": "Sat Oct 05 09:35:36 +0000 2019",
+		"id": 1180065557346807800,
+		"id_str": "1180416236187869185",
+		"full_text": "선생님과 간호사 등에 남녀성비를 맞추려는 국가정책을 시행한다. 독일은 이미 여남 청소년을 여자는 STEAM 분야로 / 남자는 돌봄노동 분야로 인턴을 보내는 프로그램을 진행하고 있다. 남성의 돌봄노동이 중요한 이유는 돌봄노동이 얼마나 중요한지 남성들이 알아야 하기 때문도 있지만, 남성의 돌봄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1180065555006382000,
+		"in_reply_to_status_id_str": "1180065555006382080",
+		"in_reply_to_user_id": 436011235,
+		"in_reply_to_user_id_str": "436011235",
+		"in_reply_to_screen_name": "jijingya",
+		"user": {
+			"id": 436011235,
+			"id_str": "436011235",
+			"name": "원더지",
+			"screen_name": "jijingya",
+			"location": "",
+			"description": "영유아 그림책 성평등 큐레이션 서비스 우따따",
+			"url": "https://t.co/TfVY2HgbvE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TfVY2HgbvE",
+							"expanded_url": "http://www.wooddadda.com",
+							"display_url": "wooddadda.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 260,
+			"listed_count": 1,
+			"created_at": "Tue Dec 13 17:50:31 +0000 2011",
+			"favourites_count": 1734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067430610296131590/0q3byjfG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067430610296131590/0q3byjfG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/436011235/1543330091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 628,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "선생님과 간호사 등에 남녀성비를 맞추려는 국가정책을 시행한다. 독일은 이미 여남 청소년을 여자는 STEAM 분야로 / 남자는 돌봄노동 분야로 인턴을 보내는 프로그램을 진행하고 있다. 남성의 돌봄노동이 중요한 이유는 돌봄노동이 얼마나 중요한지 남성들이 알아야 하기 때문도 있지만, 남성의 돌봄"
+	},
+	{
+		"created_at": "Sat Oct 05 09:35:34 +0000 2019",
+		"id": 1180065555006382000,
+		"id_str": "1180416228076048385",
+		"full_text": "최근 유럽의 성평등 교육의 포커스는 ‘남성의 돌봄노동’이다. 이번에 유럽으로 성평등 교육을 하고 있는 단체들을 만나고 왔는데, 노르웨이는 중학생 남자아이들이 아르바이트로 돌봄노동을 할 수 있도록 장려하고(유치원과 요양원에서 알바를 할 수 있음), 스웨덴은 유치원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 436011235,
+			"id_str": "436011235",
+			"name": "원더지",
+			"screen_name": "jijingya",
+			"location": "",
+			"description": "영유아 그림책 성평등 큐레이션 서비스 우따따",
+			"url": "https://t.co/TfVY2HgbvE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TfVY2HgbvE",
+							"expanded_url": "http://www.wooddadda.com",
+							"display_url": "wooddadda.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 260,
+			"listed_count": 1,
+			"created_at": "Tue Dec 13 17:50:31 +0000 2011",
+			"favourites_count": 1734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067430610296131590/0q3byjfG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067430610296131590/0q3byjfG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/436011235/1543330091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1785,
+		"favorite_count": 692,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "최근 유럽의 성평등 교육의 포커스는 ‘남성의 돌봄노동’이다. 이번에 유럽으로 성평등 교육을 하고 있는 단체들을 만나고 왔는데, 노르웨이는 중학생 남자아이들이 아르바이트로 돌봄노동을 할 수 있도록 장려하고(유치원과 요양원에서 알바를 할 수 있음), 스웨덴은 유치원"
+	},
+	{
+		"created_at": "Sat Oct 05 09:32:51 +0000 2019",
+		"id": 1180211472619589600,
+		"id_str": "1180415545847382016",
+		"full_text": "붉은 고기와 가공육이 건강에 나쁘지 않다는 논문의 저자가 과거에 맥도날드, 코카콜라 등 기업의 지원을 받아 설탕 섭취가 건강에 나쁘지 않다는 논문을 냈던 것으로 밝혀짐. 식습관의 건강 영향을 평가하는 표준 방식 대신 약물 평가 방식를 사용한 것도 논란. https://t.co/sJEohVxm1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sJEohVxm1f",
+					"expanded_url": "https://twitter.com/nytimes/status/1180204220420673537",
+					"display_url": "twitter.com/nytimes/status…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152641523,
+			"id_str": "152641523",
+			"name": "이라이자",
+			"screen_name": "TweetElizaTweet",
+			"location": "",
+			"description": "ELIZA the computer program",
+			"url": "https://t.co/vh20SUjiSD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vh20SUjiSD",
+							"expanded_url": "https://ask.fm/AskEEliza",
+							"display_url": "ask.fm/AskEEliza",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 396,
+			"listed_count": 46,
+			"created_at": "Sun Jun 06 14:01:10 +0000 2010",
+			"favourites_count": 6998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728143116293705729/NhwvUEIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728143116293705729/NhwvUEIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152641523/1429074574",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1180204220420673500,
+		"quoted_status_id_str": "1180204220420673537",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sJEohVxm1f",
+			"expanded": "https://twitter.com/nytimes/status/1180204220420673537",
+			"display": "twitter.com/nytimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 04 19:33:07 +0000 2019",
+			"id": 1180204220420673500,
+			"id_str": "1180204220420673537",
+			"full_text": "A surprising study this week gave a green light to eat more red meat, challenging decades of nutrition advice. Here's what it didn’t say: That its lead author has past research ties to the meat and food industry. https://t.co/12e7XyZj4G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/12e7XyZj4G",
+						"expanded_url": "https://nyti.ms/2oiQGxg",
+						"display_url": "nyti.ms/2oiQGxg",
+						"indices": [
+							213,
+							236
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807095,
+				"id_str": "807095",
+				"name": "The New York Times",
+				"screen_name": "nytimes",
+				"location": "New York City",
+				"description": "News tips? Share them here: https://t.co/ghL9OoYKMM\n\n\"The Weekly\" is our new TV series. Episodes air Sundays at 10 p.m. on FX and on Hulu the next day.",
+				"url": "http://t.co/ahvuWqicF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ahvuWqicF9",
+								"expanded_url": "http://www.nytimes.com/",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ghL9OoYKMM",
+								"expanded_url": "http://nyti.ms/2FVHq9v",
+								"display_url": "nyti.ms/2FVHq9v",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 44221951,
+				"friends_count": 900,
+				"listed_count": 200931,
+				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+				"favourites_count": 18327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 373404,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1567993462",
+				"profile_link_color": "607696",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 459,
+			"favorite_count": 870,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 389,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "붉은 고기와 가공육이 건강에 나쁘지 않다는 논문의 저자가 과거에 맥도날드, 코카콜라 등 기업의 지원을 받아 설탕 섭취가 건강에 나쁘지 않다는 논문을 냈던 것으로 밝혀짐. 식습관의 건강 영향을 평가하는 표준 방식 대신 약물 평가 방식를 사용한 것도 논란. https://t.co/sJEohVxm1f"
+	},
+	{
 		"created_at": "Fri Oct 04 14:42:12 +0000 2019",
 		"id": 1180131006730457000,
 		"id_str": "1180131006730457088",
