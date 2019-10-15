@@ -1,6 +1,1121 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 10:15:58 +0000 2019",
+		"id": 1184037930580332500,
+		"id_str": "1184050275633512448",
+		"full_text": "[D-1] 'Swim' TEASER. Single album drops tomorrow. #ADOY https://t.co/Qw0cmhcpTC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						50,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184037706197717000,
+					"id_str": "1184037706197716993",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184037706197716993/pu/img/mO0H9b2pXYR5dWRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184037706197716993/pu/img/mO0H9b2pXYR5dWRZ.jpg",
+					"url": "https://t.co/Qw0cmhcpTC",
+					"display_url": "pic.twitter.com/Qw0cmhcpTC",
+					"expanded_url": "https://twitter.com/adoyband/status/1184037930580332546/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184037706197717000,
+					"id_str": "1184037706197716993",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184037706197716993/pu/img/mO0H9b2pXYR5dWRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184037706197716993/pu/img/mO0H9b2pXYR5dWRZ.jpg",
+					"url": "https://t.co/Qw0cmhcpTC",
+					"display_url": "pic.twitter.com/Qw0cmhcpTC",
+					"expanded_url": "https://twitter.com/adoyband/status/1184037930580332546/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45462,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184037706197716993/pu/vid/320x320/1erlzZrh-h4R5uJq.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184037706197716993/pu/vid/480x480/QBkVL5dKe4choMsR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1184037706197716993/pu/pl/FxZBeYjcLXWaH3Dm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184037706197716993/pu/vid/720x720/4EJfmIowQd2pKtXj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2925,
+			"friends_count": 554,
+			"listed_count": 30,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[D-1] 'Swim' TEASER. Single album drops tomorrow. #ADOY https://t.co/Qw0cmhcpTC"
+	},
+	{
+		"created_at": "Tue Oct 15 09:53:12 +0000 2019",
+		"id": 1183675144947916800,
+		"id_str": "1184044545995984897",
+		"full_text": "벌써 사례가 몇 번이나 반복됐나. 종현, 설리뿐만 아니라 생각보다 많다. 지금 위험수위에 놓인 아이돌도 있을 거고, 또다른 극단적인 해소책을 찾는 이도 있다. 모두가 괜찮았으면 좋겠다. 대중에게는 오락이고 가십이지만, 그들에게는 삶과 자존감을 건 하루하루라는 게 얼마나 무서운 일인가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1183672868338487300,
+		"in_reply_to_status_id_str": "1183672868338487296",
+		"in_reply_to_user_id": 918810726034153500,
+		"in_reply_to_user_id_str": "918810726034153475",
+		"in_reply_to_screen_name": "muse_at",
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "K-Culture and K-Pop journalist; writer of Idol Maker, Idol's Studio, Interviews with K-Pop stars, @BAP_bangyongguk photo essay.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2738,
+			"friends_count": 100,
+			"listed_count": 21,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 1858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180461555269296128/Kme9sOIO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180461555269296128/Kme9sOIO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5130,
+		"favorite_count": 3032,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "벌써 사례가 몇 번이나 반복됐나. 종현, 설리뿐만 아니라 생각보다 많다. 지금 위험수위에 놓인 아이돌도 있을 거고, 또다른 극단적인 해소책을 찾는 이도 있다. 모두가 괜찮았으면 좋겠다. 대중에게는 오락이고 가십이지만, 그들에게는 삶과 자존감을 건 하루하루라는 게 얼마나 무서운 일인가."
+	},
+	{
+		"created_at": "Tue Oct 15 09:53:10 +0000 2019",
+		"id": 1183672868338487300,
+		"id_str": "1184044536235868161",
+		"full_text": "왜 계속 성형을 하는지, 왜 어른들이 정의롭지 못한 제안을 했을 때 당당하게 거절하지 못하는지, 왜 무대에서 내려오면 호흡을 잃는지, 알 수 없는 두통과 이명이 계속 되는지. 모든 사람들에게 나타날 수 있는 증상이지만, 맥락의 차이가 치료과정에 반드시 반영돼야 한다. 앞으로는 제발 좀.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1183672050113581000,
+		"in_reply_to_status_id_str": "1183672050113581056",
+		"in_reply_to_user_id": 918810726034153500,
+		"in_reply_to_user_id_str": "918810726034153475",
+		"in_reply_to_screen_name": "muse_at",
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "K-Culture and K-Pop journalist; writer of Idol Maker, Idol's Studio, Interviews with K-Pop stars, @BAP_bangyongguk photo essay.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2738,
+			"friends_count": 100,
+			"listed_count": 21,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 1858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180461555269296128/Kme9sOIO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180461555269296128/Kme9sOIO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3307,
+		"favorite_count": 1875,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "왜 계속 성형을 하는지, 왜 어른들이 정의롭지 못한 제안을 했을 때 당당하게 거절하지 못하는지, 왜 무대에서 내려오면 호흡을 잃는지, 알 수 없는 두통과 이명이 계속 되는지. 모든 사람들에게 나타날 수 있는 증상이지만, 맥락의 차이가 치료과정에 반드시 반영돼야 한다. 앞으로는 제발 좀."
+	},
+	{
+		"created_at": "Tue Oct 15 09:53:07 +0000 2019",
+		"id": 1183672050113581000,
+		"id_str": "1184044521425735680",
+		"full_text": "아이돌들을 지켜보며 그들의 일이 지닌 특수성과 성격적 특성을 잘 아는 심리상담사가 필요하다고 계속 얘기해왔다. 대학병원이라고, 연예인 상담을 많이 한다고 아이돌 상담도 잘 하는 게 아니다. 그 일과 성장과정의 특수성을 아는 사람이 해야하는데 이 업계에는 그런 의사나 상담사가 거의 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "K-Culture and K-Pop journalist; writer of Idol Maker, Idol's Studio, Interviews with K-Pop stars, @BAP_bangyongguk photo essay.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2738,
+			"friends_count": 100,
+			"listed_count": 21,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 1858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180461555269296128/Kme9sOIO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180461555269296128/Kme9sOIO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13180,
+		"favorite_count": 6115,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아이돌들을 지켜보며 그들의 일이 지닌 특수성과 성격적 특성을 잘 아는 심리상담사가 필요하다고 계속 얘기해왔다. 대학병원이라고, 연예인 상담을 많이 한다고 아이돌 상담도 잘 하는 게 아니다. 그 일과 성장과정의 특수성을 아는 사람이 해야하는데 이 업계에는 그런 의사나 상담사가 거의 없다."
+	},
+	{
+		"created_at": "Tue Oct 15 09:52:56 +0000 2019",
+		"id": 1183766052049580000,
+		"id_str": "1184044479151398912",
+		"full_text": "이 세상에 특별하게 강인한 사람이 어딨습니까. 고인의 명복을 빕니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "이랑 📧 info.langlee@gmail.com 📧 日本の仕事は info.sweetdreams@gmail.comでお願いします. STAFF @info_langlee",
+			"url": "https://t.co/bUYoYg3RHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUYoYg3RHg",
+							"expanded_url": "http://www.youtube.com/user/langleeschool",
+							"display_url": "youtube.com/user/langleesc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29816,
+			"friends_count": 860,
+			"listed_count": 230,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180520481188802560/9RxOwriX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180520481188802560/9RxOwriX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1570292877",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1657,
+		"favorite_count": 2011,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 세상에 특별하게 강인한 사람이 어딨습니까. 고인의 명복을 빕니다."
+	},
+	{
+		"created_at": "Mon Oct 14 21:59:12 +0000 2019",
+		"id": 1183864861010399200,
+		"id_str": "1183864861010399232",
+		"full_text": "현(絃)의 울림 | 현이 떨려 소리가 되고 그 소리는 삶을 노래한다 삶이 이어지는 한 노래는 계속될 것이다 | 1888화 | 2019년 10월 14일 방송\nhttps://t.co/6sXz1pdpVu\n#지식채널e #EBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						118,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6sXz1pdpVu",
+					"expanded_url": "http://www.ebs.co.kr/replay/show?prodId=352&lectId=20166588",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현(絃)의 울림 | 현이 떨려 소리가 되고 그 소리는 삶을 노래한다 삶이 이어지는 한 노래는 계속될 것이다 | 1888화 | 2019년 10월 14일 방송\nhttps://t.co/6sXz1pdpVu\n#지식채널e #EBS"
+	},
+	{
+		"created_at": "Mon Oct 14 21:15:58 +0000 2019",
+		"id": 1183843373209149400,
+		"id_str": "1183853981417836545",
+		"full_text": "D-2 New Profile Photo📷\n\nADOY new single ‘Pool’\nRelease date: Oct. 16th (Wed), 6PM Korea Time\n\nTracklist:\n01. Pool\n02. Swim\n\nHair_ @hairbysjp\nMakeup_ @mooondddddd\nPhoto_ @leesoohwan_ \n\n여러분은 몇 번이 가장 마음에 드세요? \n\n#ADOY https://t.co/i3KBjXKBy1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						208,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183843352250212400,
+					"id_str": "1183843352250212353",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EG3bQbCU4AE0BXi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG3bQbCU4AE0BXi.jpg",
+					"url": "https://t.co/i3KBjXKBy1",
+					"display_url": "pic.twitter.com/i3KBjXKBy1",
+					"expanded_url": "https://twitter.com/adoyband/status/1183843373209149440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183843352250212400,
+					"id_str": "1183843352250212353",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EG3bQbCU4AE0BXi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG3bQbCU4AE0BXi.jpg",
+					"url": "https://t.co/i3KBjXKBy1",
+					"display_url": "pic.twitter.com/i3KBjXKBy1",
+					"expanded_url": "https://twitter.com/adoyband/status/1183843373209149440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1183843360504569900,
+					"id_str": "1183843360504569858",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EG3bQ5yUYAINt2L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG3bQ5yUYAINt2L.jpg",
+					"url": "https://t.co/i3KBjXKBy1",
+					"display_url": "pic.twitter.com/i3KBjXKBy1",
+					"expanded_url": "https://twitter.com/adoyband/status/1183843373209149440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1183843366309519400,
+					"id_str": "1183843366309519360",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EG3bRPaU4AAx_tw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG3bRPaU4AAx_tw.jpg",
+					"url": "https://t.co/i3KBjXKBy1",
+					"display_url": "pic.twitter.com/i3KBjXKBy1",
+					"expanded_url": "https://twitter.com/adoyband/status/1183843373209149440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 718,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2925,
+			"friends_count": 554,
+			"listed_count": 30,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-2 New Profile Photo📷\n\nADOY new single ‘Pool’\nRelease date: Oct. 16th (Wed), 6PM Korea Time\n\nTracklist:\n01. Pool\n02. Swim\n\nHair_ @hairbysjp\nMakeup_ @mooondddddd\nPhoto_ @leesoohwan_ \n\n여러분은 몇 번이 가장 마음에 드세요? \n\n#ADOY https://t.co/i3KBjXKBy1"
+	},
+	{
+		"created_at": "Mon Oct 14 19:54:23 +0000 2019",
+		"id": 1183833449637073000,
+		"id_str": "1183833449637072897",
+		"full_text": "#CigarettesAfterSex\nHentai\nhttps://t.co/DF4sl52Fx3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CigarettesAfterSex",
+					"indices": [
+						0,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DF4sl52Fx3",
+					"expanded_url": "https://youtu.be/mA9SOS84t0E",
+					"display_url": "youtu.be/mA9SOS84t0E",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 823,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#CigarettesAfterSex\nHentai\nhttps://t.co/DF4sl52Fx3"
+	},
+	{
 		"created_at": "Mon Oct 14 13:16:02 +0000 2019",
 		"id": 1183731506100895700,
 		"id_str": "1183733202906685448",
