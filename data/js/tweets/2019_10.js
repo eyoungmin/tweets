@@ -1,6 +1,2290 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 26 15:15:58 +0000 2019",
+		"id": 1188108088575852500,
+		"id_str": "1188112039065075713",
+		"full_text": "TAEYEON 태연 The 2nd Album ['Purpose']\n\n🎧 2019.10.28. 6PM (KST)\n👉 https://t.co/eGGBOh2IK0 \n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose https://t.co/Mk7sSZZUqo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						109,
+						125
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eGGBOh2IK0",
+					"expanded_url": "http://taeyeon.smtown.com",
+					"display_url": "taeyeon.smtown.com",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1188108066673180700,
+					"id_str": "1188108066673180672",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EH0B_eTUwAAEveP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH0B_eTUwAAEveP.jpg",
+					"url": "https://t.co/Mk7sSZZUqo",
+					"display_url": "pic.twitter.com/Mk7sSZZUqo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1188108088575852548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188108066673180700,
+					"id_str": "1188108066673180672",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EH0B_eTUwAAEveP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH0B_eTUwAAEveP.jpg",
+					"url": "https://t.co/Mk7sSZZUqo",
+					"display_url": "pic.twitter.com/Mk7sSZZUqo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1188108088575852548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1188108066689958000,
+					"id_str": "1188108066689957888",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EH0B_eXUwAAbpRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH0B_eXUwAAbpRy.jpg",
+					"url": "https://t.co/Mk7sSZZUqo",
+					"display_url": "pic.twitter.com/Mk7sSZZUqo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1188108088575852548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1188108066769604600,
+					"id_str": "1188108066769604609",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EH0B_eqUEAEVyTz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH0B_eqUEAEVyTz.jpg",
+					"url": "https://t.co/Mk7sSZZUqo",
+					"display_url": "pic.twitter.com/Mk7sSZZUqo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1188108088575852548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3496362,
+			"friends_count": 4,
+			"listed_count": 5871,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6471,
+		"favorite_count": 8043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 The 2nd Album ['Purpose']\n\n🎧 2019.10.28. 6PM (KST)\n👉 https://t.co/eGGBOh2IK0 \n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose https://t.co/Mk7sSZZUqo"
+	},
+	{
+		"created_at": "Sat Oct 26 09:15:03 +0000 2019",
+		"id": 1188021208207548400,
+		"id_str": "1188021208207548416",
+		"full_text": "TAEYEON 태연 '불티 (Spark)' MV Teaser #2\nhttps://t.co/iOnNqIlSU0\n#SMTOWN #GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						86,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iOnNqIlSU0",
+					"expanded_url": "https://youtu.be/F8pCy4HSCqI",
+					"display_url": "youtu.be/F8pCy4HSCqI",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON 태연 '불티 (Spark)' MV Teaser #2\nhttps://t.co/iOnNqIlSU0\n#SMTOWN #GirlsGeneration #소녀시대"
+	},
+	{
+		"created_at": "Sat Oct 26 06:16:22 +0000 2019",
+		"id": 1187976242550710300,
+		"id_str": "1187976242550710272",
+		"full_text": "[청원답변] ‘윤석열 총장 기밀누설죄 처벌 촉구’, ‘나경원 원내대표 각종의혹 특검 요청’ 청원  | 김광진 정무비서관\nhttps://t.co/jIv6LsZrjP\n#청와대 #국민청원 #답변 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청와대",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "국민청원",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "답변",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jIv6LsZrjP",
+					"expanded_url": "https://www.youtube.com/watch?v=JrXYlKgpC34",
+					"display_url": "youtube.com/watch?v=JrXYlK…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[청원답변] ‘윤석열 총장 기밀누설죄 처벌 촉구’, ‘나경원 원내대표 각종의혹 특검 요청’ 청원  | 김광진 정무비서관\nhttps://t.co/jIv6LsZrjP\n#청와대 #국민청원 #답변 #minfav"
+	},
+	{
+		"created_at": "Fri Oct 25 21:15:58 +0000 2019",
+		"id": 1187835674268819500,
+		"id_str": "1187840248732094464",
+		"full_text": "YESSS SF 🖤 https://t.co/sZVfUwWPFU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sZVfUwWPFU",
+					"expanded_url": "https://twitter.com/Wild949/status/1187832483582226432",
+					"display_url": "twitter.com/Wild949/status…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322480,
+			"friends_count": 170,
+			"listed_count": 970,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187832483582226400,
+		"quoted_status_id_str": "1187832483582226432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sZVfUwWPFU",
+			"expanded": "https://twitter.com/Wild949/status/1187832483582226432",
+			"display": "twitter.com/Wild949/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 25 20:45:07 +0000 2019",
+			"id": 1187832483582226400,
+			"id_str": "1187832483582226432",
+			"full_text": ".@TiffanyYoung is kicking off her #MagneticMoon tour in San Francisco! See you tonight! #RFYL\nhttps://t.co/ikuU8dInev",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MagneticMoon",
+						"indices": [
+							34,
+							47
+						]
+					},
+					{
+						"text": "RFYL",
+						"indices": [
+							88,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffanyyoung",
+						"name": "TIFFANY YOUNG",
+						"id": 971130819518476300,
+						"id_str": "971130819518476289",
+						"indices": [
+							1,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ikuU8dInev",
+						"expanded_url": "http://ihe.art/fpREZRk",
+						"display_url": "ihe.art/fpREZRk",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22180037,
+				"id_str": "22180037",
+				"name": "WiLD 94.9",
+				"screen_name": "Wild949",
+				"location": "Bay Area!",
+				"description": "The Bay's #1 Hit Music Station! - 888.333.9490 Snapchat: iHeartWiLD949 | Instagram/Facebook: @WiLD949",
+				"url": "https://t.co/72XWQnkh08",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/72XWQnkh08",
+								"expanded_url": "http://wild949.com",
+								"display_url": "wild949.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 110806,
+				"friends_count": 4091,
+				"listed_count": 751,
+				"created_at": "Fri Feb 27 19:41:31 +0000 2009",
+				"favourites_count": 12801,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 110135,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1176985801298608128/ZTuKPibQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176985801298608128/ZTuKPibQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22180037/1570821240",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 277,
+			"favorite_count": 691,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 696,
+		"favorite_count": 2199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YESSS SF 🖤 https://t.co/sZVfUwWPFU"
+	},
+	{
+		"created_at": "Fri Oct 25 18:51:28 +0000 2019",
+		"id": 1187803884024152000,
+		"id_str": "1187803884024152067",
+		"full_text": "김앤박의 BEST NEW K-POP #86 ★DAY6, 투모로우바이투게더, WINNER, 뉴이스트★ | CASPER RADIO\nhttps://t.co/XSvkpTznK1\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤하",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "평론가",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "박희아",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "기자",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "케이팝",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "IDOL",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "BEST_NEW_KPOP",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"text": "베스트뉴케이팝",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						162,
+						175
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						176,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XSvkpTznK1",
+					"expanded_url": "http://www.vlive.tv/video/156197",
+					"display_url": "vlive.tv/video/156197",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김앤박의 BEST NEW K-POP #86 ★DAY6, 투모로우바이투게더, WINNER, 뉴이스트★ | CASPER RADIO\nhttps://t.co/XSvkpTznK1\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오"
+	},
+	{
+		"created_at": "Fri Oct 25 18:16:01 +0000 2019",
+		"id": 1187783445830918100,
+		"id_str": "1187794959895814144",
+		"full_text": "Remix Queen! @tiffanyyoung sends us into the weekend with a must-hear remix of \"Run For Your Life\" courtesy of @CedricGervais: https://t.co/qRWoRwBnQL https://t.co/4eSm9oZPU4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "CedricGervais",
+					"name": "Cedric Gervais",
+					"id": 24358250,
+					"id_str": "24358250",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qRWoRwBnQL",
+					"expanded_url": "http://bit.ly/2MvjRFB",
+					"display_url": "bit.ly/2MvjRFB",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187783444069257200,
+					"id_str": "1187783444069257216",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EHvav83WkAA0m_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHvav83WkAA0m_Q.jpg",
+					"url": "https://t.co/4eSm9oZPU4",
+					"display_url": "pic.twitter.com/4eSm9oZPU4",
+					"expanded_url": "https://twitter.com/idolator/status/1187783445830918146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187783444069257200,
+					"id_str": "1187783444069257216",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EHvav83WkAA0m_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHvav83WkAA0m_Q.jpg",
+					"url": "https://t.co/4eSm9oZPU4",
+					"display_url": "pic.twitter.com/4eSm9oZPU4",
+					"expanded_url": "https://twitter.com/idolator/status/1187783445830918146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13215102,
+			"id_str": "13215102",
+			"name": "idolator",
+			"screen_name": "idolator",
+			"location": "worldwide",
+			"description": "Covering pop music and the nonsense surrounding it.",
+			"url": "http://t.co/NGe9fyiUjX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NGe9fyiUjX",
+							"expanded_url": "http://idolator.com",
+							"display_url": "idolator.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54692,
+			"friends_count": 500,
+			"listed_count": 1716,
+			"created_at": "Thu Feb 07 18:33:52 +0000 2008",
+			"favourites_count": 8562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 81550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/473500676123656192/CbZN8OiH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/473500676123656192/CbZN8OiH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13215102/1486657810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 958,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remix Queen! @tiffanyyoung sends us into the weekend with a must-hear remix of \"Run For Your Life\" courtesy of @CedricGervais: https://t.co/qRWoRwBnQL https://t.co/4eSm9oZPU4"
+	},
+	{
+		"created_at": "Fri Oct 25 18:15:58 +0000 2019",
+		"id": 1187781751554183200,
+		"id_str": "1187794949770756098",
+		"full_text": "ig live tomorrow night at 7p pst on the #magneticmoontour , will be live w @CedricGervais celebrating the #Rfyl rmx 💗 https://t.co/kxSg6xYRF4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "magneticmoontour",
+					"indices": [
+						40,
+						57
+					]
+				},
+				{
+					"text": "Rfyl",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CedricGervais",
+					"name": "Cedric Gervais",
+					"id": 24358250,
+					"id_str": "24358250",
+					"indices": [
+						75,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1187781747749998600,
+					"id_str": "1187781747749998593",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EHvZNNlU0AEoFED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHvZNNlU0AEoFED.jpg",
+					"url": "https://t.co/kxSg6xYRF4",
+					"display_url": "pic.twitter.com/kxSg6xYRF4",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1187781751554183168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187781747749998600,
+					"id_str": "1187781747749998593",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EHvZNNlU0AEoFED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHvZNNlU0AEoFED.jpg",
+					"url": "https://t.co/kxSg6xYRF4",
+					"display_url": "pic.twitter.com/kxSg6xYRF4",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1187781751554183168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322480,
+			"friends_count": 170,
+			"listed_count": 970,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5208,
+		"favorite_count": 11673,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ig live tomorrow night at 7p pst on the #magneticmoontour , will be live w @CedricGervais celebrating the #Rfyl rmx 💗 https://t.co/kxSg6xYRF4"
+	},
+	{
+		"created_at": "Fri Oct 25 17:15:59 +0000 2019",
+		"id": 1187778318164119600,
+		"id_str": "1187779853581520896",
+		"full_text": "see u tonight san francisco 💜 https://t.co/aTJKY7VZbR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aTJKY7VZbR",
+					"expanded_url": "https://twitter.com/jaebootiful/status/1187773782607290368",
+					"display_url": "twitter.com/jaebootiful/st…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322480,
+			"friends_count": 170,
+			"listed_count": 970,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187773782607290400,
+		"quoted_status_id_str": "1187773782607290368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aTJKY7VZbR",
+			"expanded": "https://twitter.com/jaebootiful/status/1187773782607290368",
+			"display": "twitter.com/jaebootiful/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 25 16:51:52 +0000 2019",
+			"id": 1187773782607290400,
+			"id_str": "1187773782607290368",
+			"full_text": "ruuuuhiise &amp; shine @tiffanyyoung  #MagneticMoonTour   #MagneticMoonSF https://t.co/l0e1cvoQVn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MagneticMoonTour",
+						"indices": [
+							38,
+							55
+						]
+					},
+					{
+						"text": "MagneticMoonSF",
+						"indices": [
+							58,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffanyyoung",
+						"name": "TIFFANY YOUNG",
+						"id": 971130819518476300,
+						"id_str": "971130819518476289",
+						"indices": [
+							23,
+							36
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1187773776957563000,
+						"id_str": "1187773776957562880",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/EHvR9QEUYAAaTfh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHvR9QEUYAAaTfh.jpg",
+						"url": "https://t.co/l0e1cvoQVn",
+						"display_url": "pic.twitter.com/l0e1cvoQVn",
+						"expanded_url": "https://twitter.com/jaebootiful/status/1187773782607290368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187773776957563000,
+						"id_str": "1187773776957562880",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/EHvR9QEUYAAaTfh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHvR9QEUYAAaTfh.jpg",
+						"url": "https://t.co/l0e1cvoQVn",
+						"display_url": "pic.twitter.com/l0e1cvoQVn",
+						"expanded_url": "https://twitter.com/jaebootiful/status/1187773782607290368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2930746854,
+				"id_str": "2930746854",
+				"name": "vicky picky 💘",
+				"screen_name": "jaebootiful",
+				"location": "a.c.e • the rose • got7",
+				"description": "“vicky vicky picky nicky” - woosung, 2019",
+				"url": "https://t.co/Zv10sFi6pJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Zv10sFi6pJ",
+								"expanded_url": "https://curiouscat.me/jaebootiful",
+								"display_url": "curiouscat.me/jaebootiful",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 260,
+				"friends_count": 151,
+				"listed_count": 0,
+				"created_at": "Mon Dec 15 08:37:27 +0000 2014",
+				"favourites_count": 9771,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8482,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1174209204246274053/69p-XecG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174209204246274053/69p-XecG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2930746854/1568788266",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 279,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "et"
+		},
+		"retweet_count": 1098,
+		"favorite_count": 3266,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "see u tonight san francisco 💜 https://t.co/aTJKY7VZbR"
+	},
+	{
+		"created_at": "Fri Oct 25 16:16:08 +0000 2019",
+		"id": 1187764495734567000,
+		"id_str": "1187764791265378304",
+		"full_text": "🖤thank U https://t.co/svaNE1MNe1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/svaNE1MNe1",
+					"expanded_url": "https://twitter.com/CedricGervais/status/1187760761650716673",
+					"display_url": "twitter.com/CedricGervais/…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322480,
+			"friends_count": 170,
+			"listed_count": 970,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187760761650716700,
+		"quoted_status_id_str": "1187760761650716673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/svaNE1MNe1",
+			"expanded": "https://twitter.com/CedricGervais/status/1187760761650716673",
+			"display": "twitter.com/CedricGervais/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 25 16:00:07 +0000 2019",
+			"id": 1187760761650716700,
+			"id_str": "1187760761650716673",
+			"full_text": "New track with @tiffanyyoung out today 🎉 https://t.co/zmRlGjyPM2 https://t.co/SipFj4hSKA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffanyyoung",
+						"name": "TIFFANY YOUNG",
+						"id": 971130819518476300,
+						"id_str": "971130819518476289",
+						"indices": [
+							15,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zmRlGjyPM2",
+						"expanded_url": "https://empire.lnk.to/RFYLR",
+						"display_url": "empire.lnk.to/RFYLR",
+						"indices": [
+							41,
+							64
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1187760759536869400,
+						"id_str": "1187760759536869377",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/EHvGHiZX4AEtcn6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHvGHiZX4AEtcn6.jpg",
+						"url": "https://t.co/SipFj4hSKA",
+						"display_url": "pic.twitter.com/SipFj4hSKA",
+						"expanded_url": "https://twitter.com/CedricGervais/status/1187760761650716673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187760759536869400,
+						"id_str": "1187760759536869377",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/EHvGHiZX4AEtcn6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHvGHiZX4AEtcn6.jpg",
+						"url": "https://t.co/SipFj4hSKA",
+						"display_url": "pic.twitter.com/SipFj4hSKA",
+						"expanded_url": "https://twitter.com/CedricGervais/status/1187760761650716673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24358250,
+				"id_str": "24358250",
+				"name": "Cedric Gervais",
+				"screen_name": "CedricGervais",
+				"location": "Miami, FL",
+				"description": "On n'a pas le temps!",
+				"url": "https://t.co/ONjxWcpKwA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ONjxWcpKwA",
+								"expanded_url": "https://dtr016.lnk.to/GTB",
+								"display_url": "dtr016.lnk.to/GTB",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83565,
+				"friends_count": 54,
+				"listed_count": 753,
+				"created_at": "Sat Mar 14 11:41:22 +0000 2009",
+				"favourites_count": 17184,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14253,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1153419181238435840/KjAcUzDB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153419181238435840/KjAcUzDB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24358250/1569557130",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "009999",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 422,
+			"favorite_count": 767,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1208,
+		"favorite_count": 3114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🖤thank U https://t.co/svaNE1MNe1"
+	},
+	{
+		"created_at": "Fri Oct 25 16:16:05 +0000 2019",
+		"id": 1187762091828007000,
+		"id_str": "1187764778149830658",
+		"full_text": "on @Spotify nowwww #rfyl remix @CedricGervais 💃🔥 https://t.co/pMiLvlrUXl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rfyl",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "CedricGervais",
+					"name": "Cedric Gervais",
+					"id": 24358250,
+					"id_str": "24358250",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pMiLvlrUXl",
+					"expanded_url": "https://open.spotify.com/track/4x8uj9kL1RLvd7y79oFB3a?si=PREOhqyaQwaKSDL0_H79yA",
+					"display_url": "open.spotify.com/track/4x8uj9kL…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322480,
+			"friends_count": 170,
+			"listed_count": 970,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 960,
+		"favorite_count": 1801,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "on @Spotify nowwww #rfyl remix @CedricGervais 💃🔥 https://t.co/pMiLvlrUXl"
+	},
+	{
+		"created_at": "Fri Oct 25 16:16:02 +0000 2019",
+		"id": 1187761300668989400,
+		"id_str": "1187764764992266240",
+		"full_text": "🖤🔥the #RFYL remix with @CedricGervais on @AppleMusic iTunes https://t.co/tFGueiXsh6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RFYL",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CedricGervais",
+					"name": "Cedric Gervais",
+					"id": 24358250,
+					"id_str": "24358250",
+					"indices": [
+						23,
+						37
+					]
+				},
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tFGueiXsh6",
+					"expanded_url": "https://music.apple.com/us/album/run-for-your-life-remix-single/1484565723",
+					"display_url": "music.apple.com/us/album/run-f…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322480,
+			"friends_count": 170,
+			"listed_count": 970,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 930,
+		"favorite_count": 1663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🖤🔥the #RFYL remix with @CedricGervais on @AppleMusic iTunes https://t.co/tFGueiXsh6"
+	},
+	{
 		"created_at": "Fri Oct 25 15:16:02 +0000 2019",
 		"id": 1187746003522379800,
 		"id_str": "1187749668513603584",
