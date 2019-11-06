@@ -1,6 +1,1752 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 12:15:59 +0000 2019",
+		"id": 1192039088817262600,
+		"id_str": "1192053008269529088",
+		"full_text": "[추가 예매 오픈 공지]\n새소년 단독 콘서트 “2020/NEON” 티켓을 추가로 오픈합니다.\n⠀\n예매 오픈 일시는 11월 11일(월) 저녁 8시\n예매처는 #멜론티켓 #YES24티켓\n⠀\n원활한 예매 진행을 위해 추가 오픈 전까지 예매는 잠시 중단합니다. 무통장 미입금 등 취소표는 추가 오픈과 함께 풀릴 예정입니다 https://t.co/jkAqhwAIhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "YES24티켓",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192039037382480000,
+					"id_str": "1192039037382479872",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EIr5MFWU0AADEQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIr5MFWU0AADEQZ.jpg",
+					"url": "https://t.co/jkAqhwAIhy",
+					"display_url": "pic.twitter.com/jkAqhwAIhy",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1192039088817262592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1234,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 723,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 560,
+									"y": 408,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 185,
+									"y": 135,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 560,
+									"y": 408,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 328,
+									"y": 239,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192039037382480000,
+					"id_str": "1192039037382479872",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EIr5MFWU0AADEQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIr5MFWU0AADEQZ.jpg",
+					"url": "https://t.co/jkAqhwAIhy",
+					"display_url": "pic.twitter.com/jkAqhwAIhy",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1192039088817262592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1234,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 723,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 560,
+									"y": 408,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 185,
+									"y": 135,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 560,
+									"y": 408,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 328,
+									"y": 239,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6764,
+			"friends_count": 527,
+			"listed_count": 38,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[추가 예매 오픈 공지]\n새소년 단독 콘서트 “2020/NEON” 티켓을 추가로 오픈합니다.\n⠀\n예매 오픈 일시는 11월 11일(월) 저녁 8시\n예매처는 #멜론티켓 #YES24티켓\n⠀\n원활한 예매 진행을 위해 추가 오픈 전까지 예매는 잠시 중단합니다. 무통장 미입금 등 취소표는 추가 오픈과 함께 풀릴 예정입니다 https://t.co/jkAqhwAIhy"
+	},
+	{
+		"created_at": "Wed Nov 06 06:15:58 +0000 2019",
+		"id": 1191955319309656000,
+		"id_str": "1191962410548178944",
+		"full_text": "지난번 연기되었던 화성시민을 위한 음악회 &lt;가을, 음악 산책 콘서트&gt;가 이번주 일요일(10일)에 열립니다. https://t.co/sjWmU6Jhh2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191955306768748500,
+					"id_str": "1191955306768748544",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqtCUgX0AAZVTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqtCUgX0AAZVTX.jpg",
+					"url": "https://t.co/sjWmU6Jhh2",
+					"display_url": "pic.twitter.com/sjWmU6Jhh2",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1191955319309656066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 843,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 527,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 205,
+									"y": 528,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 453,
+									"y": 553,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 544,
+									"y": 553,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 367,
+									"y": 557,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 311,
+									"y": 640,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 114,
+									"y": 649,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 119,
+									"y": 464,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 250,
+									"y": 488,
+									"h": 212,
+									"w": 212
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 527,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 205,
+									"y": 528,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 453,
+									"y": 553,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 544,
+									"y": 553,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 367,
+									"y": 557,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 311,
+									"y": 640,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 114,
+									"y": 649,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 119,
+									"y": 464,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 250,
+									"y": 488,
+									"h": 212,
+									"w": 212
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 425,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 165,
+									"y": 425,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 365,
+									"y": 446,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 438,
+									"y": 446,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 296,
+									"y": 449,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 250,
+									"y": 516,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 91,
+									"y": 523,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 95,
+									"y": 374,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 201,
+									"y": 393,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 527,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 205,
+									"y": 528,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 453,
+									"y": 553,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 544,
+									"y": 553,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 367,
+									"y": 557,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 311,
+									"y": 640,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 114,
+									"y": 649,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 119,
+									"y": 464,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 250,
+									"y": 488,
+									"h": 212,
+									"w": 212
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191955306768748500,
+					"id_str": "1191955306768748544",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqtCUgX0AAZVTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqtCUgX0AAZVTX.jpg",
+					"url": "https://t.co/sjWmU6Jhh2",
+					"display_url": "pic.twitter.com/sjWmU6Jhh2",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1191955319309656066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 843,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 527,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 205,
+									"y": 528,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 453,
+									"y": 553,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 544,
+									"y": 553,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 367,
+									"y": 557,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 311,
+									"y": 640,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 114,
+									"y": 649,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 119,
+									"y": 464,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 250,
+									"y": 488,
+									"h": 212,
+									"w": 212
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 527,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 205,
+									"y": 528,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 453,
+									"y": 553,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 544,
+									"y": 553,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 367,
+									"y": 557,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 311,
+									"y": 640,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 114,
+									"y": 649,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 119,
+									"y": 464,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 250,
+									"y": 488,
+									"h": 212,
+									"w": 212
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 425,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 165,
+									"y": 425,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 365,
+									"y": 446,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 438,
+									"y": 446,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 296,
+									"y": 449,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 250,
+									"y": 516,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 91,
+									"y": 523,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 95,
+									"y": 374,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 201,
+									"y": 393,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 527,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 205,
+									"y": 528,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 453,
+									"y": 553,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 544,
+									"y": 553,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 367,
+									"y": 557,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 311,
+									"y": 640,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 114,
+									"y": 649,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 119,
+									"y": 464,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 250,
+									"y": 488,
+									"h": 212,
+									"w": 212
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 5,
+			"listed_count": 10,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난번 연기되었던 화성시민을 위한 음악회 &lt;가을, 음악 산책 콘서트&gt;가 이번주 일요일(10일)에 열립니다. https://t.co/sjWmU6Jhh2"
+	},
+	{
+		"created_at": "Wed Nov 06 03:15:58 +0000 2019",
+		"id": 1191913287320866800,
+		"id_str": "1191917111746203648",
+		"full_text": "[이달의소녀킼킼 #173]\n#이달의소녀 가위바위보 왕은 누구?🤔\n\n#LOONA #LOONAKick #이브 #Yves https://t.co/KPeklgxqfw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						59,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191913132660158500,
+					"id_str": "1191913132660158464",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1191913132660158464/pu/img/QRyRYT2AWzNc002Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1191913132660158464/pu/img/QRyRYT2AWzNc002Q.jpg",
+					"url": "https://t.co/KPeklgxqfw",
+					"display_url": "pic.twitter.com/KPeklgxqfw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1191913287320866816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191913132660158500,
+					"id_str": "1191913132660158464",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1191913132660158464/pu/img/QRyRYT2AWzNc002Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1191913132660158464/pu/img/QRyRYT2AWzNc002Q.jpg",
+					"url": "https://t.co/KPeklgxqfw",
+					"display_url": "pic.twitter.com/KPeklgxqfw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1191913287320866816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22467,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1191913132660158464/pu/vid/320x320/d9PYt2UraO2olRrZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1191913132660158464/pu/vid/720x720/IxPwoLXpN2siwDrf.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1191913132660158464/pu/vid/480x480/ZW3JIiPgl-Gx9OLl.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1191913132660158464/pu/pl/6NJ01fOikls_6gi9.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359180,
+			"friends_count": 0,
+			"listed_count": 4967,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7499,
+		"favorite_count": 21248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #173]\n#이달의소녀 가위바위보 왕은 누구?🤔\n\n#LOONA #LOONAKick #이브 #Yves https://t.co/KPeklgxqfw"
+	},
+	{
+		"created_at": "Wed Nov 06 00:15:59 +0000 2019",
+		"id": 1191856828008681500,
+		"id_str": "1191871813921517568",
+		"full_text": "Philly #magneticmoontour tomorrow night 🥰 https://t.co/30kpNfakeX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "magneticmoontour",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/30kpNfakeX",
+					"expanded_url": "https://event.etix.com/ticket/online/performanceSale.do?performance_id=5867443&method=restoreToken",
+					"display_url": "event.etix.com/ticket/online/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326320,
+			"friends_count": 171,
+			"listed_count": 978,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 943,
+		"favorite_count": 2692,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Philly #magneticmoontour tomorrow night 🥰 https://t.co/30kpNfakeX"
+	},
+	{
+		"created_at": "Tue Nov 05 20:15:58 +0000 2019",
+		"id": 1191784308815454200,
+		"id_str": "1191811415226667009",
+		"full_text": "Part 2 👑 Catch the empowering story of how @TiffanyYoung evolved from the K-pop🌟 we know and love, to a break-out solo artist 🎶 https://t.co/6LBJHfC34c https://t.co/bUHJ3YkChC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6LBJHfC34c",
+					"expanded_url": "http://honda.us/Tiffany",
+					"display_url": "honda.us/Tiffany",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191784298627522600,
+					"id_str": "1191784298627522561",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EIoRgViU4AEdnVW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIoRgViU4AEdnVW.jpg",
+					"url": "https://t.co/bUHJ3YkChC",
+					"display_url": "pic.twitter.com/bUHJ3YkChC",
+					"expanded_url": "https://twitter.com/HondaStage/status/1191784308815454208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 945,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1612,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191784298627522600,
+					"id_str": "1191784298627522561",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EIoRgViU4AEdnVW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIoRgViU4AEdnVW.jpg",
+					"url": "https://t.co/bUHJ3YkChC",
+					"display_url": "pic.twitter.com/bUHJ3YkChC",
+					"expanded_url": "https://twitter.com/HondaStage/status/1191784308815454208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 945,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1612,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245422880,
+			"id_str": "245422880",
+			"name": "Honda Stage",
+			"screen_name": "HondaStage",
+			"location": "Music Venues Across the U.S.",
+			"description": "An up-close look at #HondaStage. The place where Honda’s passion for music comes to life, including the Honda Civic Tour.",
+			"url": "http://t.co/hx29LQAXvm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/hx29LQAXvm",
+							"expanded_url": "http://YouTube.com/HondaStage",
+							"display_url": "YouTube.com/HondaStage",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33412,
+			"friends_count": 610,
+			"listed_count": 177,
+			"created_at": "Mon Jan 31 17:25:19 +0000 2011",
+			"favourites_count": 14739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923322638352580608/8HaOZga5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923322638352580608/8HaOZga5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245422880/1508972192",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 833,
+		"favorite_count": 1800,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Part 2 👑 Catch the empowering story of how @TiffanyYoung evolved from the K-pop🌟 we know and love, to a break-out solo artist 🎶 https://t.co/6LBJHfC34c https://t.co/bUHJ3YkChC"
+	},
+	{
+		"created_at": "Tue Nov 05 17:16:02 +0000 2019",
+		"id": 1191731901628706800,
+		"id_str": "1191766132233035777",
+		"full_text": ".@tiffanyyoung - How she grew into her K-pop persona by moving from L.A to Korea to explore her roots @hondastage #ad https://t.co/Rs7OUZujHG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ad",
+					"indices": [
+						114,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "HondaStage",
+					"name": "Honda Stage",
+					"id": 245422880,
+					"id_str": "245422880",
+					"indices": [
+						102,
+						113
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191373738870296600,
+					"id_str": "1191373738870296577",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1191373738870296577/img/bRjzzd4Gj0d4g6hW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1191373738870296577/img/bRjzzd4Gj0d4g6hW.jpg",
+					"url": "https://t.co/Rs7OUZujHG",
+					"display_url": "pic.twitter.com/Rs7OUZujHG",
+					"expanded_url": "https://twitter.com/billboard/status/1191731901628706817/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191373738870296600,
+					"id_str": "1191373738870296577",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1191373738870296577/img/bRjzzd4Gj0d4g6hW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1191373738870296577/img/bRjzzd4Gj0d4g6hW.jpg",
+					"url": "https://t.co/Rs7OUZujHG",
+					"display_url": "pic.twitter.com/Rs7OUZujHG",
+					"expanded_url": "https://twitter.com/billboard/status/1191731901628706817/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 203870,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1191373738870296577/vid/1280x720/N-oquRwG7LOerOCa.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1191373738870296577/vid/480x270/cHITjIvmBSflLEgd.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1191373738870296577/pl/VGbeklyGQmUVNidh.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1191373738870296577/vid/640x360/Fse6S2XmdaQ5-G_Z.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7824342,
+			"friends_count": 3174,
+			"listed_count": 25262,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 233796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1572534802",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1604,
+		"favorite_count": 3307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@tiffanyyoung - How she grew into her K-pop persona by moving from L.A to Korea to explore her roots @hondastage #ad https://t.co/Rs7OUZujHG"
+	},
+	{
 		"created_at": "Tue Nov 05 14:15:59 +0000 2019",
 		"id": 1191711996976124000,
 		"id_str": "1191720819472424961",
