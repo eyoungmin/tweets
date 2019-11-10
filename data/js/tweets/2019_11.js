@@ -1,6 +1,1290 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 15:15:58 +0000 2019",
+		"id": 1193543845918593000,
+		"id_str": "1193547856696815617",
+		"full_text": "귀여운 막내 #여진 이의 생일을 축하합니다🥳\n앞으로도 여진이의 미소처럼 밝은 날만 가득하길 바랄게\nHappy Birthday #YeoJin 🎂\n\n#이달의소녀 #LOONA https://t.co/g65WN4VLT7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193543833843224600,
+					"id_str": "1193543833843224576",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EJBRyxAVUAAh74u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJBRyxAVUAAh74u.jpg",
+					"url": "https://t.co/g65WN4VLT7",
+					"display_url": "pic.twitter.com/g65WN4VLT7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1193543845918593025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 350,
+									"y": 329,
+									"h": 194,
+									"w": 194
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 562,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 562,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 198,
+									"y": 186,
+									"h": 110,
+									"w": 110
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193543833843224600,
+					"id_str": "1193543833843224576",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EJBRyxAVUAAh74u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJBRyxAVUAAh74u.jpg",
+					"url": "https://t.co/g65WN4VLT7",
+					"display_url": "pic.twitter.com/g65WN4VLT7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1193543845918593025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 350,
+									"y": 329,
+									"h": 194,
+									"w": 194
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 562,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 562,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 198,
+									"y": 186,
+									"h": 110,
+									"w": 110
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359898,
+			"friends_count": 0,
+			"listed_count": 5002,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6355,
+		"favorite_count": 9772,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "귀여운 막내 #여진 이의 생일을 축하합니다🥳\n앞으로도 여진이의 미소처럼 밝은 날만 가득하길 바랄게\nHappy Birthday #YeoJin 🎂\n\n#이달의소녀 #LOONA https://t.co/g65WN4VLT7"
+	},
+	{
+		"created_at": "Sun Nov 10 08:24:46 +0000 2019",
+		"id": 1193444373306003500,
+		"id_str": "1193444373306003457",
+		"full_text": "126화_친절의 재구성\nhttps://t.co/pvDzQJ19hy\n#서늘한마음썰 #서밤 #블블 #봄봄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서늘한마음썰",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"text": "서밤",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "블블",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "봄봄",
+					"indices": [
+						53,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pvDzQJ19hy",
+					"expanded_url": "http://kbspodcastad.kbs.co.kr/cgi-bin/podcast.fcgi/kbsaod/I0000-1902/I0000-1902_S000_20191108_PI-1573078777-52-6AA_00_00_99_M3A30012.mp3",
+					"display_url": "kbspodcastad.kbs.co.kr/cgi-bin/podcas…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 824,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 35918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "126화_친절의 재구성\nhttps://t.co/pvDzQJ19hy\n#서늘한마음썰 #서밤 #블블 #봄봄"
+	},
+	{
+		"created_at": "Sun Nov 10 04:16:02 +0000 2019",
+		"id": 1193370753825153000,
+		"id_str": "1193381776493858816",
+		"full_text": "a DC feelin💜\n#magneticmoondc https://t.co/5xb4DNZGf5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "magneticmoondc",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193370744283172900,
+					"id_str": "1193370744283172865",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EI-0XoJXkAEFnW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI-0XoJXkAEFnW9.jpg",
+					"url": "https://t.co/5xb4DNZGf5",
+					"display_url": "pic.twitter.com/5xb4DNZGf5",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1193370753825153024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193370744283172900,
+					"id_str": "1193370744283172865",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EI-0XoJXkAEFnW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI-0XoJXkAEFnW9.jpg",
+					"url": "https://t.co/5xb4DNZGf5",
+					"display_url": "pic.twitter.com/5xb4DNZGf5",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1193370753825153024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1193370743783993300,
+					"id_str": "1193370743783993344",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EI-0XmSWsAAPMDr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI-0XmSWsAAPMDr.jpg",
+					"url": "https://t.co/5xb4DNZGf5",
+					"display_url": "pic.twitter.com/5xb4DNZGf5",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1193370753825153024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 670,
+									"y": 920,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 392,
+									"y": 539,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 670,
+									"y": 920,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 305,
+									"h": 61,
+									"w": 61
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 327163,
+			"friends_count": 171,
+			"listed_count": 975,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2371,
+		"favorite_count": 6195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "a DC feelin💜\n#magneticmoondc https://t.co/5xb4DNZGf5"
+	},
+	{
+		"created_at": "Sun Nov 10 04:15:58 +0000 2019",
+		"id": 1193370198641987600,
+		"id_str": "1193381763122372608",
+		"full_text": "Washington DC ! I love u\n#magneticmoonDC https://t.co/IQ1WdRePTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "magneticmoonDC",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IQ1WdRePTH",
+					"expanded_url": "https://twitter.com/taengoomoo/status/1193364335264972800",
+					"display_url": "twitter.com/taengoomoo/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 327163,
+			"friends_count": 171,
+			"listed_count": 975,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1193364335264972800,
+		"quoted_status_id_str": "1193364335264972800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IQ1WdRePTH",
+			"expanded": "https://twitter.com/taengoomoo/status/1193364335264972800",
+			"display": "twitter.com/taengoomoo/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 10 03:06:43 +0000 2019",
+			"id": 1193364335264972800,
+			"id_str": "1193364335264972800",
+			"full_text": "I just wanna thank you for being the most amazing person on Earth. I will update more acct....\n\nI can’t express how thankful I am for you @tiffanyyoung. \n\nThank you for taking the banner from my hand and asking me for permission with your beautiful eyes. ILYSM. #MagneticMoonDC https://t.co/aLjhE1avtl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MagneticMoonDC",
+						"indices": [
+							262,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffanyyoung",
+						"name": "TIFFANY YOUNG",
+						"id": 971130819518476300,
+						"id_str": "971130819518476289",
+						"indices": [
+							138,
+							151
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1193364330424742000,
+						"id_str": "1193364330424741889",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EI-uiSqWsAEI-tM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EI-uiSqWsAEI-tM.jpg",
+						"url": "https://t.co/aLjhE1avtl",
+						"display_url": "pic.twitter.com/aLjhE1avtl",
+						"expanded_url": "https://twitter.com/taengoomoo/status/1193364335264972800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1193364330424742000,
+						"id_str": "1193364330424741889",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EI-uiSqWsAEI-tM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EI-uiSqWsAEI-tM.jpg",
+						"url": "https://t.co/aLjhE1avtl",
+						"display_url": "pic.twitter.com/aLjhE1avtl",
+						"expanded_url": "https://twitter.com/taengoomoo/status/1193364335264972800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 577758960,
+				"id_str": "577758960",
+				"name": "Y̶Y̶｡*☆ TAEYEON #PURPOSE 10.28",
+				"screen_name": "taengoomoo",
+				"location": "Taeyeon’s 💜・Taengsic・Seulrene",
+				"description": "✨ 소녀시대。마마무。레드벨벳。Jessica [ENG/中文]",
+				"url": "https://t.co/F8Xgbojwp1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F8Xgbojwp1",
+								"expanded_url": "https://curiouscat.me/taengoomoo",
+								"display_url": "curiouscat.me/taengoomoo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4324,
+				"friends_count": 679,
+				"listed_count": 13,
+				"created_at": "Sat May 12 03:03:16 +0000 2012",
+				"favourites_count": 51585,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57523,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1192095766019489793/kJD__3lC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192095766019489793/kJD__3lC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/577758960/1511123600",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 260,
+			"favorite_count": 579,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 943,
+		"favorite_count": 2444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Washington DC ! I love u\n#magneticmoonDC https://t.co/IQ1WdRePTH"
+	},
+	{
+		"created_at": "Sat Nov 09 21:15:58 +0000 2019",
+		"id": 1193274064598655000,
+		"id_str": "1193276066309300224",
+		"full_text": "For the show in NYC tomorrow , taking over the @iHeartRadio IG stories all day 🌙 🌙🌙#magneticmoontour https://t.co/QSuGRGBQd9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "magneticmoontour",
+					"indices": [
+						83,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						47,
+						59
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193274058206589000,
+					"id_str": "1193274058206588928",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EI9cbwcXsAA7QxN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI9cbwcXsAA7QxN.jpg",
+					"url": "https://t.co/QSuGRGBQd9",
+					"display_url": "pic.twitter.com/QSuGRGBQd9",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1193274064598654977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193274058206589000,
+					"id_str": "1193274058206588928",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EI9cbwcXsAA7QxN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI9cbwcXsAA7QxN.jpg",
+					"url": "https://t.co/QSuGRGBQd9",
+					"display_url": "pic.twitter.com/QSuGRGBQd9",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1193274064598654977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙 Starts 10/25 🖤",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 327163,
+			"friends_count": 171,
+			"listed_count": 975,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1079,
+		"favorite_count": 2579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For the show in NYC tomorrow , taking over the @iHeartRadio IG stories all day 🌙 🌙🌙#magneticmoontour https://t.co/QSuGRGBQd9"
+	},
+	{
 		"created_at": "Sat Nov 09 13:16:10 +0000 2019",
 		"id": 1193154556261064700,
 		"id_str": "1193155317128933377",
@@ -1515,7 +2799,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Sat Nov 09 12:10:45 +0000 2019",
 		"id": 1192351530650701800,
 		"id_str": "1193138858319212544",
-		"full_text": "10월 29일, 퍼블리 멤버십 앱이 피드 화면으로 개편되었다. A/B 테스트를 진행 중이었는데, 실험 결과 앱 고객 모두에게 피드 화면을 제공하기로. \n\n퍼블리 멤버십 고객 중에서 아직 앱을 안 쓰시는 분들은 어서 이리로 와 주세요 💕 \n새 콘텐츠 나올 때마다 푸시 알림도 보내드립니다 🙋‍♀️ https://t.co/j3f28htUNC",
+		"full_text": "10월 29일, 퍼블리 멤버십 앱이 피드 화면으로 개편되었다. A/B 테스트를 진행 중이었는데, 실험 결과 앱 고객 모두에게 피드 화면을 제공하기로. \n\n퍼블리 멤버십 고객 중에서 아직 앱을 안 쓰시는 분들은 어서 이리로 와 주세요 💕 \n새 콘텐츠 나올 때마다 푸시 알림도 보내드립니다 🙋♀️ https://t.co/j3f28htUNC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1718,7 +3002,7 @@ Grailbird.data.tweets_2019_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "10월 29일, 퍼블리 멤버십 앱이 피드 화면으로 개편되었다. A/B 테스트를 진행 중이었는데, 실험 결과 앱 고객 모두에게 피드 화면을 제공하기로. \n\n퍼블리 멤버십 고객 중에서 아직 앱을 안 쓰시는 분들은 어서 이리로 와 주세요 💕 \n새 콘텐츠 나올 때마다 푸시 알림도 보내드립니다 🙋‍♀️ https://t.co/j3f28htUNC"
+		"text": "10월 29일, 퍼블리 멤버십 앱이 피드 화면으로 개편되었다. A/B 테스트를 진행 중이었는데, 실험 결과 앱 고객 모두에게 피드 화면을 제공하기로. \n\n퍼블리 멤버십 고객 중에서 아직 앱을 안 쓰시는 분들은 어서 이리로 와 주세요 💕 \n새 콘텐츠 나올 때마다 푸시 알림도 보내드립니다 🙋♀️ https://t.co/j3f28htUNC"
 	},
 	{
 		"created_at": "Sat Nov 09 12:09:50 +0000 2019",
@@ -3768,7 +5052,7 @@ Grailbird.data.tweets_2019_11 =
 		"user": {
 			"id": 150361331,
 			"id_str": "150361331",
-			"name": "물병자리🌠 Lian🌸🏋️‍♀️🎗",
+			"name": "물병자리🌠 Lian🌸🏋️♀️🎗",
 			"screen_name": "DrOMD",
 			"location": "Somewhere over the Rainbow",
 			"description": "진흙에 더렵혀지지 않는 연꽃처럼. Aquarius. Jupiter. Astro. Moon.",
