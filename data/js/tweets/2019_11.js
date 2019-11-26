@@ -1,6 +1,6917 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 11:21:22 +0000 2019",
+		"id": 1199287022495633400,
+		"id_str": "1199287022495633409",
+		"full_text": "Dua Lipa - Don't Start Now (Dom Dolla Remix)\nhttps://t.co/LCKZE1a48h\n#DuaLipa #두아리파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuaLipa",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "두아리파",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LCKZE1a48h",
+					"expanded_url": "https://youtu.be/EYiDZ6ORYC8",
+					"display_url": "youtu.be/EYiDZ6ORYC8",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 830,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dua Lipa - Don't Start Now (Dom Dolla Remix)\nhttps://t.co/LCKZE1a48h\n#DuaLipa #두아리파"
+	},
+	{
+		"created_at": "Tue Nov 26 10:27:05 +0000 2019",
+		"id": 1199273362289254400,
+		"id_str": "1199273362289254400",
+		"full_text": "#3시의인디살롱\n[인터뷰] 류철하 이응노미술관 관장\nhttps://t.co/zwbe6HD4Pa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "3시의인디살롱",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zwbe6HD4Pa",
+					"expanded_url": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1226361",
+					"display_url": "shinailbo.co.kr/news/articleVi…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 830,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#3시의인디살롱\n[인터뷰] 류철하 이응노미술관 관장\nhttps://t.co/zwbe6HD4Pa"
+	},
+	{
+		"created_at": "Tue Nov 26 10:15:59 +0000 2019",
+		"id": 1199264720064090000,
+		"id_str": "1199270566596882432",
+		"full_text": "[billboard]\n새소년의 데뷔 싱글 ‘긴 꿈’이 빌보드 스탭들이 뽑은 2010년대 최고의 케이팝 100곡 중 82위에 올랐습니다.\n\n기사 전문은 https://t.co/hmp8crIaZI\n\n그리고 단독 콘서트 ‘2020/NEON’은 이제 D-11\n\n#새소년 #SESONEON #billboard #kpop https://t.co/CsDxadIwhj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "billboard",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						168,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hmp8crIaZI",
+					"expanded_url": "https://www.billboard.com/articles/news/list/8544710/best-k-pop-songs-2010s-top-100",
+					"display_url": "billboard.com/articles/news/…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199264709242843100,
+					"id_str": "1199264709242843136",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EKSk5ioU8AAcIzq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKSk5ioU8AAcIzq.jpg",
+					"url": "https://t.co/CsDxadIwhj",
+					"display_url": "pic.twitter.com/CsDxadIwhj",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1199264720064090117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199264709242843100,
+					"id_str": "1199264709242843136",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EKSk5ioU8AAcIzq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKSk5ioU8AAcIzq.jpg",
+					"url": "https://t.co/CsDxadIwhj",
+					"display_url": "pic.twitter.com/CsDxadIwhj",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1199264720064090117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6955,
+			"friends_count": 528,
+			"listed_count": 41,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 204,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[billboard]\n새소년의 데뷔 싱글 ‘긴 꿈’이 빌보드 스탭들이 뽑은 2010년대 최고의 케이팝 100곡 중 82위에 올랐습니다.\n\n기사 전문은 https://t.co/hmp8crIaZI\n\n그리고 단독 콘서트 ‘2020/NEON’은 이제 D-11\n\n#새소년 #SESONEON #billboard #kpop https://t.co/CsDxadIwhj"
+	},
+	{
+		"created_at": "Mon Nov 25 21:21:51 +0000 2019",
+		"id": 1199075752634912800,
+		"id_str": "1199075752634912775",
+		"full_text": "Dua Lipa - Don't Start Now - live performance at the AMAs [2019]\nhttps://t.co/zLCwSRmJY9\n#DuaLipa #두아리파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuaLipa",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "두아리파",
+					"indices": [
+						98,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zLCwSRmJY9",
+					"expanded_url": "https://youtu.be/BCN4ESvkoKU",
+					"display_url": "youtu.be/BCN4ESvkoKU",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 830,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dua Lipa - Don't Start Now - live performance at the AMAs [2019]\nhttps://t.co/zLCwSRmJY9\n#DuaLipa #두아리파"
+	},
+	{
+		"created_at": "Mon Nov 25 18:32:54 +0000 2019",
+		"id": 1199033234807328800,
+		"id_str": "1199033234807328768",
+		"full_text": "191123 태연 - Speechless @ Inside-TAEYEON\nhttps://t.co/Sbf0Utp0ma\n\n마이크가 잘못해서 다시 불러준 최고의 라이브!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sbf0Utp0ma",
+					"expanded_url": "https://youtu.be/ieJYC_Zp0Zo",
+					"display_url": "youtu.be/ieJYC_Zp0Zo",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 830,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "191123 태연 - Speechless @ Inside-TAEYEON\nhttps://t.co/Sbf0Utp0ma\n\n마이크가 잘못해서 다시 불러준 최고의 라이브!"
+	},
+	{
+		"created_at": "Mon Nov 25 18:22:39 +0000 2019",
+		"id": 1198864867018428400,
+		"id_str": "1199030655943733251",
+		"full_text": "집중 웬디.. 초 단위로 레전드 짤 경신됨💕\n\n#G마켓 #잘됨파티 #블랙프라이데이_득템됨\n웬디가 준비한 연말선물 👉 https://t.co/xtNtOCBztt https://t.co/l5PvqJ1fdo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "G마켓",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "잘됨파티",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "블랙프라이데이_득템됨",
+					"indices": [
+						37,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xtNtOCBztt",
+					"expanded_url": "http://bit.ly/2qzPXZT",
+					"display_url": "bit.ly/2qzPXZT",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1198864032133812200,
+					"id_str": "1198864032133812224",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198864032133812224/pu/img/846yBquVF8E2A_CN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198864032133812224/pu/img/846yBquVF8E2A_CN.jpg",
+					"url": "https://t.co/l5PvqJ1fdo",
+					"display_url": "pic.twitter.com/l5PvqJ1fdo",
+					"expanded_url": "https://twitter.com/gmarketstory/status/1198864867018428417/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198864032133812200,
+					"id_str": "1198864032133812224",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198864032133812224/pu/img/846yBquVF8E2A_CN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198864032133812224/pu/img/846yBquVF8E2A_CN.jpg",
+					"url": "https://t.co/l5PvqJ1fdo",
+					"display_url": "pic.twitter.com/l5PvqJ1fdo",
+					"expanded_url": "https://twitter.com/gmarketstory/status/1198864867018428417/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198864032133812224/pu/vid/480x270/Sk4GsxsUMyD2o7aR.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198864032133812224/pu/vid/1280x720/qB4cIuIsk31H-C0N.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198864032133812224/pu/vid/640x360/B4wYUpcoAPLf8Jcp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1198864032133812224/pu/pl/ayGmsjxRSftZSKe2.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63066760,
+			"id_str": "63066760",
+			"name": "G마켓 (지마켓)",
+			"screen_name": "gmarketstory",
+			"location": "37.500592,127.036237",
+			"description": "여러분의 욕망을 채워드릴 쇼핑 꿀정보! 궁금하면 어서 8로미",
+			"url": "https://t.co/ATuTSyzP71",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATuTSyzP71",
+							"expanded_url": "http://www.gmarket.co.kr",
+							"display_url": "gmarket.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142965,
+			"friends_count": 38950,
+			"listed_count": 590,
+			"created_at": "Wed Aug 05 07:45:04 +0000 2009",
+			"favourites_count": 1918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192271585790443521/UOLpbqnO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192271585790443521/UOLpbqnO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63066760/1574668192",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3316,
+		"favorite_count": 3651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "집중 웬디.. 초 단위로 레전드 짤 경신됨💕\n\n#G마켓 #잘됨파티 #블랙프라이데이_득템됨\n웬디가 준비한 연말선물 👉 https://t.co/xtNtOCBztt https://t.co/l5PvqJ1fdo"
+	},
+	{
+		"created_at": "Mon Nov 25 18:22:09 +0000 2019",
+		"id": 1198204517973495800,
+		"id_str": "1199030529024122880",
+		"full_text": "โซโล่สเตจ เวนดี้ร้องเพลง Light Me Up #2\n#LaRougeInSeoul_Day1\n#MAMAVOTE #redvelvet @RVsmtown https://t.co/D6ETBZMl7O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LaRougeInSeoul_Day1",
+					"indices": [
+						40,
+						60
+					]
+				},
+				{
+					"text": "MAMAVOTE",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198201480844431400,
+					"id_str": "1198201480844431360",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198201480844431360/pu/img/O94on1QmYFxNFc1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198201480844431360/pu/img/O94on1QmYFxNFc1h.jpg",
+					"url": "https://t.co/D6ETBZMl7O",
+					"display_url": "pic.twitter.com/D6ETBZMl7O",
+					"expanded_url": "https://twitter.com/fiona_irene0329/status/1198201595617394688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1198201595617394700,
+					"source_status_id_str": "1198201595617394688",
+					"source_user_id": 893338235291574300,
+					"source_user_id_str": "893338235291574276",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198201480844431400,
+					"id_str": "1198201480844431360",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198201480844431360/pu/img/O94on1QmYFxNFc1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198201480844431360/pu/img/O94on1QmYFxNFc1h.jpg",
+					"url": "https://t.co/D6ETBZMl7O",
+					"display_url": "pic.twitter.com/D6ETBZMl7O",
+					"expanded_url": "https://twitter.com/fiona_irene0329/status/1198201595617394688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1198201595617394700,
+					"source_status_id_str": "1198201595617394688",
+					"source_user_id": 893338235291574300,
+					"source_user_id_str": "893338235291574276",
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 74667,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198201480844431360/pu/vid/478x270/cUqDtYH91E9BSFwE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1198201480844431360/pu/pl/kHq1jyoCSwv8AEXO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198201480844431360/pu/vid/638x360/JAYg-K5pBlPDzTqT.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198201480844431360/pu/vid/852x480/arudRnC2vyQi0D6m.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 893338235291574300,
+							"id_str": "893338235291574276",
+							"name": "Fiona",
+							"screen_name": "fiona_irene0329",
+							"location": "Malaysia",
+							"description": "🇲🇾 Reveluv ❤💛💙💚💜 Eng/中文 #레드벨벳 #아이린 170422🇲🇾170523🇲🇾 171124🇸🇬181020🇸🇬190727🇰🇷 https://t.co/pd7VyZxwAZ #fiona_irene0329arrivalstock",
+							"url": "https://t.co/wy1nsWWmPA",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/wy1nsWWmPA",
+											"expanded_url": "https://www.youtube.com/c/ReveluvFiona",
+											"display_url": "youtube.com/c/ReveluvFiona",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/pd7VyZxwAZ",
+											"expanded_url": "http://curiouscat.me/fiona_irene0329",
+											"display_url": "curiouscat.me/fiona_irene0329",
+											"indices": [
+												77,
+												100
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 4573,
+							"friends_count": 635,
+							"listed_count": 96,
+							"created_at": "Fri Aug 04 05:10:07 +0000 2017",
+							"favourites_count": 6314,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 23227,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1178958471720423424/K_aMN661_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178958471720423424/K_aMN661_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/893338235291574276/1536635366",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1198204250762801200,
+		"in_reply_to_status_id_str": "1198204250762801152",
+		"in_reply_to_user_id": 2697357252,
+		"in_reply_to_user_id_str": "2697357252",
+		"in_reply_to_screen_name": "wenderland__",
+		"user": {
+			"id": 2697357252,
+			"id_str": "2697357252",
+			"name": "WENDERLAND",
+			"screen_name": "wenderland__",
+			"location": "",
+			"description": "for WENDY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50865,
+			"friends_count": 61,
+			"listed_count": 352,
+			"created_at": "Fri Aug 01 05:13:55 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/786555877675274244/Xcr630b4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/786555877675274244/Xcr630b4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2697357252/1427818924",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 438,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "โซโล่สเตจ เวนดี้ร้องเพลง Light Me Up #2\n#LaRougeInSeoul_Day1\n#MAMAVOTE #redvelvet @RVsmtown https://t.co/D6ETBZMl7O"
+	},
+	{
+		"created_at": "Mon Nov 25 18:22:07 +0000 2019",
+		"id": 1198204250762801200,
+		"id_str": "1199030520132145153",
+		"full_text": "โซโล่สเตจ เวนดี้ร้องเพลง Light Me Up #1\n#LaRougeInSeoul_Day1\n#MAMAVOTE #redvelvet @RVsmtown\n https://t.co/b6d44Rbkwo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LaRougeInSeoul_Day1",
+					"indices": [
+						40,
+						60
+					]
+				},
+				{
+					"text": "MAMAVOTE",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198201140795412500,
+					"id_str": "1198201140795412480",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198201140795412480/pu/img/9v4AzPJOtinDC24h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198201140795412480/pu/img/9v4AzPJOtinDC24h.jpg",
+					"url": "https://t.co/b6d44Rbkwo",
+					"display_url": "pic.twitter.com/b6d44Rbkwo",
+					"expanded_url": "https://twitter.com/fiona_irene0329/status/1198201344324067328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1198201344324067300,
+					"source_status_id_str": "1198201344324067328",
+					"source_user_id": 893338235291574300,
+					"source_user_id_str": "893338235291574276",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198201140795412500,
+					"id_str": "1198201140795412480",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198201140795412480/pu/img/9v4AzPJOtinDC24h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198201140795412480/pu/img/9v4AzPJOtinDC24h.jpg",
+					"url": "https://t.co/b6d44Rbkwo",
+					"display_url": "pic.twitter.com/b6d44Rbkwo",
+					"expanded_url": "https://twitter.com/fiona_irene0329/status/1198201344324067328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1198201344324067300,
+					"source_status_id_str": "1198201344324067328",
+					"source_user_id": 893338235291574300,
+					"source_user_id_str": "893338235291574276",
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 130667,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1198201140795412480/pu/pl/5wDuxyvwbMZvKJro.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198201140795412480/pu/vid/852x480/m5QkB8bD7ci7R2mN.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198201140795412480/pu/vid/638x360/cyjJnIs42uhGMEhQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198201140795412480/pu/vid/478x270/tB0vTiIo8_lq6Umk.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 893338235291574300,
+							"id_str": "893338235291574276",
+							"name": "Fiona",
+							"screen_name": "fiona_irene0329",
+							"location": "Malaysia",
+							"description": "🇲🇾 Reveluv ❤💛💙💚💜 Eng/中文 #레드벨벳 #아이린 170422🇲🇾170523🇲🇾 171124🇸🇬181020🇸🇬190727🇰🇷 https://t.co/pd7VyZxwAZ #fiona_irene0329arrivalstock",
+							"url": "https://t.co/wy1nsWWmPA",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/wy1nsWWmPA",
+											"expanded_url": "https://www.youtube.com/c/ReveluvFiona",
+											"display_url": "youtube.com/c/ReveluvFiona",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/pd7VyZxwAZ",
+											"expanded_url": "http://curiouscat.me/fiona_irene0329",
+											"display_url": "curiouscat.me/fiona_irene0329",
+											"indices": [
+												77,
+												100
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 4573,
+							"friends_count": 635,
+							"listed_count": 96,
+							"created_at": "Fri Aug 04 05:10:07 +0000 2017",
+							"favourites_count": 6314,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 23227,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1178958471720423424/K_aMN661_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178958471720423424/K_aMN661_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/893338235291574276/1536635366",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2697357252,
+			"id_str": "2697357252",
+			"name": "WENDERLAND",
+			"screen_name": "wenderland__",
+			"location": "",
+			"description": "for WENDY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50865,
+			"friends_count": 61,
+			"listed_count": 352,
+			"created_at": "Fri Aug 01 05:13:55 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/786555877675274244/Xcr630b4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/786555877675274244/Xcr630b4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2697357252/1427818924",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1181,
+		"favorite_count": 596,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "โซโล่สเตจ เวนดี้ร้องเพลง Light Me Up #1\n#LaRougeInSeoul_Day1\n#MAMAVOTE #redvelvet @RVsmtown\n https://t.co/b6d44Rbkwo"
+	},
+	{
+		"created_at": "Mon Nov 25 18:21:47 +0000 2019",
+		"id": 1198208948060295200,
+		"id_str": "1199030434195066880",
+		"full_text": "เป็น oh girl ที่รุนแรงมาก ขยี้ใจ\n\n#LaRougeInSeoul_Day1\n#MAMAVOTE #redvelvet @RVsmtown https://t.co/UAo3TlMnGE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LaRougeInSeoul_Day1",
+					"indices": [
+						34,
+						54
+					]
+				},
+				{
+					"text": "MAMAVOTE",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						76,
+						85
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198208831651664000,
+					"id_str": "1198208831651663873",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198208831651663873/pu/img/n7Ct1V9kJk6Dapuc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198208831651663873/pu/img/n7Ct1V9kJk6Dapuc.jpg",
+					"url": "https://t.co/UAo3TlMnGE",
+					"display_url": "pic.twitter.com/UAo3TlMnGE",
+					"expanded_url": "https://twitter.com/wenderland__/status/1198208948060295168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198208831651664000,
+					"id_str": "1198208831651663873",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198208831651663873/pu/img/n7Ct1V9kJk6Dapuc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198208831651663873/pu/img/n7Ct1V9kJk6Dapuc.jpg",
+					"url": "https://t.co/UAo3TlMnGE",
+					"display_url": "pic.twitter.com/UAo3TlMnGE",
+					"expanded_url": "https://twitter.com/wenderland__/status/1198208948060295168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29583,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198208831651663873/pu/vid/720x720/9AdY_95FQPNUDrdg.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198208831651663873/pu/vid/480x480/rVT6sfrkMJafwSWY.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198208831651663873/pu/vid/320x320/kfYEmY32Dc8Q7UiL.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1198208831651663873/pu/pl/id5VTWGnl11RaltV.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2697357252,
+			"id_str": "2697357252",
+			"name": "WENDERLAND",
+			"screen_name": "wenderland__",
+			"location": "",
+			"description": "for WENDY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50865,
+			"friends_count": 61,
+			"listed_count": 352,
+			"created_at": "Fri Aug 01 05:13:55 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/786555877675274244/Xcr630b4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/786555877675274244/Xcr630b4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2697357252/1427818924",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3046,
+		"favorite_count": 1737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "เป็น oh girl ที่รุนแรงมาก ขยี้ใจ\n\n#LaRougeInSeoul_Day1\n#MAMAVOTE #redvelvet @RVsmtown https://t.co/UAo3TlMnGE"
+	},
+	{
+		"created_at": "Mon Nov 25 18:21:25 +0000 2019",
+		"id": 1198596854075687000,
+		"id_str": "1199030343702990849",
+		"full_text": "[4K fancam] 191123 La Rouge\nLight me up - 레드벨벳 웬디 solo.\n#웬디 #WENDY #레드벨벳 #RedVelvet\n \nFull : https://t.co/FOBawVmr86 https://t.co/D3Y7JQrhCm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FOBawVmr86",
+					"expanded_url": "https://youtu.be/8k9p64vdp7E",
+					"display_url": "youtu.be/8k9p64vdp7E",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1198596619521802200,
+					"id_str": "1198596619521802240",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198596619521802240/pu/img/kxrm0BIdobl2oHJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198596619521802240/pu/img/kxrm0BIdobl2oHJI.jpg",
+					"url": "https://t.co/D3Y7JQrhCm",
+					"display_url": "pic.twitter.com/D3Y7JQrhCm",
+					"expanded_url": "https://twitter.com/wenever940221/status/1198596854075686912/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198596619521802200,
+					"id_str": "1198596619521802240",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198596619521802240/pu/img/kxrm0BIdobl2oHJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198596619521802240/pu/img/kxrm0BIdobl2oHJI.jpg",
+					"url": "https://t.co/D3Y7JQrhCm",
+					"display_url": "pic.twitter.com/D3Y7JQrhCm",
+					"expanded_url": "https://twitter.com/wenever940221/status/1198596854075686912/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 65463,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1198596619521802240/pu/pl/JFIoawSUC7Deeugy.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198596619521802240/pu/vid/480x270/JwU0VimXbyJU1BHQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198596619521802240/pu/vid/1280x720/YsVjX2BBDNJt_xXQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198596619521802240/pu/vid/640x360/rQcCy9EpqC8Gdp6K.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4235083273,
+			"id_str": "4235083273",
+			"name": "웬에버 [WENever]",
+			"screen_name": "wenever940221",
+			"location": "wenever94@gmail.com ",
+			"description": "하지만 이 모든 게 다 끝나도, 나는 네 곁에 있어. whenever&forever, 레드벨벳 웬디💙",
+			"url": "https://t.co/qAI8ceM0tD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qAI8ceM0tD",
+							"expanded_url": "http://wenever94.tistory.com/",
+							"display_url": "wenever94.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84338,
+			"friends_count": 9,
+			"listed_count": 2407,
+			"created_at": "Sat Nov 14 13:43:08 +0000 2015",
+			"favourites_count": 859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162018088176324608/ofGORWL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162018088176324608/ofGORWL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4235083273/1560259667",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3020,
+		"favorite_count": 3991,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4K fancam] 191123 La Rouge\nLight me up - 레드벨벳 웬디 solo.\n#웬디 #WENDY #레드벨벳 #RedVelvet\n \nFull : https://t.co/FOBawVmr86 https://t.co/D3Y7JQrhCm"
+	},
+	{
+		"created_at": "Mon Nov 25 18:18:09 +0000 2019",
+		"id": 1198704110154870800,
+		"id_str": "1199029520205897728",
+		"full_text": "191124 라루즈 막콘\n\n모닝 완뭉이🐶\n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/Vvdg3X6oSK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "Wendy",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198704098515644400,
+					"id_str": "1198704098515644416",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EKKnBs7UcAAVXWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKKnBs7UcAAVXWm.jpg",
+					"url": "https://t.co/Vvdg3X6oSK",
+					"display_url": "pic.twitter.com/Vvdg3X6oSK",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198704110154870784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 49,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 141,
+									"y": 251,
+									"h": 361,
+									"w": 361
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 62,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 314,
+									"h": 452,
+									"w": 452
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 62,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 314,
+									"h": 452,
+									"w": 452
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 198,
+									"y": 28,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 80,
+									"y": 142,
+									"h": 204,
+									"w": 204
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198704098515644400,
+					"id_str": "1198704098515644416",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EKKnBs7UcAAVXWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKKnBs7UcAAVXWm.jpg",
+					"url": "https://t.co/Vvdg3X6oSK",
+					"display_url": "pic.twitter.com/Vvdg3X6oSK",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198704110154870784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 49,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 141,
+									"y": 251,
+									"h": 361,
+									"w": 361
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 62,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 314,
+									"h": 452,
+									"w": 452
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 62,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 177,
+									"y": 314,
+									"h": 452,
+									"w": 452
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 198,
+									"y": 28,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 80,
+									"y": 142,
+									"h": 204,
+									"w": 204
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198704098507247600,
+					"id_str": "1198704098507247616",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EKKnBs5UUAA9e6u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKKnBs5UUAA9e6u.jpg",
+					"url": "https://t.co/Vvdg3X6oSK",
+					"display_url": "pic.twitter.com/Vvdg3X6oSK",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198704110154870784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 292,
+									"y": 1379,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 224,
+									"y": 322,
+									"h": 439,
+									"w": 439
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 233,
+									"y": 1103,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 179,
+									"y": 257,
+									"h": 351,
+									"w": 351
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 292,
+									"y": 1379,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 224,
+									"y": 322,
+									"h": 439,
+									"w": 439
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 132,
+									"y": 624,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 101,
+									"y": 145,
+									"h": 198,
+									"w": 198
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863249989295759400,
+			"id_str": "863249989295759360",
+			"name": "Aurora 오로라",
+			"screen_name": "Aurora940221_",
+			"location": "",
+			"description": "Red Velvet Wendy Fanpage Aurora / Data = 💙 / INSTA - https://t.co/XDMObTdRdU / 처언천히 굴러갑니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XDMObTdRdU",
+							"expanded_url": "https://Instagram.com/_aurora221_",
+							"display_url": "Instagram.com/_aurora221_",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15510,
+			"friends_count": 4,
+			"listed_count": 777,
+			"created_at": "Sat May 13 04:30:10 +0000 2017",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863249989295759360/1574741069",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3400,
+		"favorite_count": 4676,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "191124 라루즈 막콘\n\n모닝 완뭉이🐶\n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/Vvdg3X6oSK"
+	},
+	{
+		"created_at": "Mon Nov 25 18:18:04 +0000 2019",
+		"id": 1198885582782337000,
+		"id_str": "1199029499448291330",
+		"full_text": "191124 라루즈 막콘\n\nYou light me up💙\n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/5QNgmQJcFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "Wendy",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198885569721356300,
+					"id_str": "1198885569721356289",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNMEt2VUAE-rJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNMEt2VUAE-rJr.jpg",
+					"url": "https://t.co/5QNgmQJcFm",
+					"display_url": "pic.twitter.com/5QNgmQJcFm",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198885582782337025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 124,
+									"y": 137,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 304,
+									"h": 500,
+									"w": 500
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 220,
+									"y": 243,
+									"h": 400,
+									"w": 400
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 304,
+									"h": 500,
+									"w": 500
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198885569721356300,
+					"id_str": "1198885569721356289",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNMEt2VUAE-rJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNMEt2VUAE-rJr.jpg",
+					"url": "https://t.co/5QNgmQJcFm",
+					"display_url": "pic.twitter.com/5QNgmQJcFm",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198885582782337025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 124,
+									"y": 137,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 304,
+									"h": 500,
+									"w": 500
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 220,
+									"y": 243,
+									"h": 400,
+									"w": 400
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 304,
+									"h": 500,
+									"w": 500
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198885574318276600,
+					"id_str": "1198885574318276609",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNME--UwAECSXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNME--UwAECSXc.jpg",
+					"url": "https://t.co/5QNgmQJcFm",
+					"display_url": "pic.twitter.com/5QNgmQJcFm",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198885582782337025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 111,
+									"y": 136,
+									"h": 222,
+									"w": 222
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 246,
+									"y": 301,
+									"h": 492,
+									"w": 492
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 240,
+									"h": 393,
+									"w": 393
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 246,
+									"y": 301,
+									"h": 492,
+									"w": 492
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863249989295759400,
+			"id_str": "863249989295759360",
+			"name": "Aurora 오로라",
+			"screen_name": "Aurora940221_",
+			"location": "",
+			"description": "Red Velvet Wendy Fanpage Aurora / Data = 💙 / INSTA - https://t.co/XDMObTdRdU / 처언천히 굴러갑니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XDMObTdRdU",
+							"expanded_url": "https://Instagram.com/_aurora221_",
+							"display_url": "Instagram.com/_aurora221_",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15510,
+			"friends_count": 4,
+			"listed_count": 777,
+			"created_at": "Sat May 13 04:30:10 +0000 2017",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863249989295759360/1574741069",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1370,
+		"favorite_count": 2340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "191124 라루즈 막콘\n\nYou light me up💙\n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/5QNgmQJcFm"
+	},
+	{
+		"created_at": "Mon Nov 25 18:17:56 +0000 2019",
+		"id": 1198968128413130800,
+		"id_str": "1199029467726770176",
+		"full_text": "191124 라루즈\n\n웬디 조이 조합 너무 귀여워💙💚\n\n#웬디 #Wendy #조이 #Joy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/dy5T8xgUjK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "Wendy",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "Joy",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198968111879184400,
+					"id_str": "1198968111879184389",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOXJTWUYAUPHwk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOXJTWUYAUPHwk.jpg",
+					"url": "https://t.co/dy5T8xgUjK",
+					"display_url": "pic.twitter.com/dy5T8xgUjK",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198968128413130752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 874,
+									"y": 212,
+									"h": 266,
+									"w": 266
+								},
+								{
+									"x": 336,
+									"y": 166,
+									"h": 445,
+									"w": 445
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 96,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 152,
+									"y": 75,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 699,
+									"y": 169,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 268,
+									"y": 132,
+									"h": 356,
+									"w": 356
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 874,
+									"y": 212,
+									"h": 266,
+									"w": 266
+								},
+								{
+									"x": 336,
+									"y": 166,
+									"h": 445,
+									"w": 445
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198968111879184400,
+					"id_str": "1198968111879184389",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOXJTWUYAUPHwk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOXJTWUYAUPHwk.jpg",
+					"url": "https://t.co/dy5T8xgUjK",
+					"display_url": "pic.twitter.com/dy5T8xgUjK",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198968128413130752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 874,
+									"y": 212,
+									"h": 266,
+									"w": 266
+								},
+								{
+									"x": 336,
+									"y": 166,
+									"h": 445,
+									"w": 445
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 96,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 152,
+									"y": 75,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 699,
+									"y": 169,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 268,
+									"y": 132,
+									"h": 356,
+									"w": 356
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 874,
+									"y": 212,
+									"h": 266,
+									"w": 266
+								},
+								{
+									"x": 336,
+									"y": 166,
+									"h": 445,
+									"w": 445
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863249989295759400,
+			"id_str": "863249989295759360",
+			"name": "Aurora 오로라",
+			"screen_name": "Aurora940221_",
+			"location": "",
+			"description": "Red Velvet Wendy Fanpage Aurora / Data = 💙 / INSTA - https://t.co/XDMObTdRdU / 처언천히 굴러갑니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XDMObTdRdU",
+							"expanded_url": "https://Instagram.com/_aurora221_",
+							"display_url": "Instagram.com/_aurora221_",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15510,
+			"friends_count": 4,
+			"listed_count": 777,
+			"created_at": "Sat May 13 04:30:10 +0000 2017",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863249989295759360/1574741069",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2317,
+		"favorite_count": 3362,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "191124 라루즈\n\n웬디 조이 조합 너무 귀여워💙💚\n\n#웬디 #Wendy #조이 #Joy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/dy5T8xgUjK"
+	},
+	{
+		"created_at": "Mon Nov 25 18:17:51 +0000 2019",
+		"id": 1198972248880644000,
+		"id_str": "1199029445161414656",
+		"full_text": "191124 라루즈\n\n폭주하는 기관차 드디어 연료가 떨어져서 마지막 사진 살포시 놓고 갑니다,, (총총총)\n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/zUloFbQ2dv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "Wendy",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198972225350557700,
+					"id_str": "1198972225350557696",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOa4vOUYAADIc1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOa4vOUYAADIc1.jpg",
+					"url": "https://t.co/zUloFbQ2dv",
+					"display_url": "pic.twitter.com/zUloFbQ2dv",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198972248880644096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198972225350557700,
+					"id_str": "1198972225350557696",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOa4vOUYAADIc1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOa4vOUYAADIc1.jpg",
+					"url": "https://t.co/zUloFbQ2dv",
+					"display_url": "pic.twitter.com/zUloFbQ2dv",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198972248880644096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863249989295759400,
+			"id_str": "863249989295759360",
+			"name": "Aurora 오로라",
+			"screen_name": "Aurora940221_",
+			"location": "",
+			"description": "Red Velvet Wendy Fanpage Aurora / Data = 💙 / INSTA - https://t.co/XDMObTdRdU / 처언천히 굴러갑니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XDMObTdRdU",
+							"expanded_url": "https://Instagram.com/_aurora221_",
+							"display_url": "Instagram.com/_aurora221_",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15510,
+			"friends_count": 4,
+			"listed_count": 777,
+			"created_at": "Sat May 13 04:30:10 +0000 2017",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863249989295759360/1574741069",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1439,
+		"favorite_count": 2367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "191124 라루즈\n\n폭주하는 기관차 드디어 연료가 떨어져서 마지막 사진 살포시 놓고 갑니다,, (총총총)\n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/zUloFbQ2dv"
+	},
+	{
+		"created_at": "Mon Nov 25 18:09:15 +0000 2019",
+		"id": 1199027280242045000,
+		"id_str": "1199027280242044929",
+		"full_text": "지난번 공연 때는 구매당 1매 증정이었는데 이번에는 앨범당 1매씩 주나보다. 👍🏻 https://t.co/fE7vqu0D7G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fE7vqu0D7G",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1197413114829930497",
+					"display_url": "twitter.com/JaurimOfficial…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 830,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197413114829930500,
+		"quoted_status_id_str": "1197413114829930497",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fE7vqu0D7G",
+			"expanded": "https://twitter.com/JaurimOfficial/status/1197413114829930497",
+			"display": "twitter.com/JaurimOfficial…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 21 07:15:08 +0000 2019",
+			"id": 1197413114829930500,
+			"id_str": "1197413114829930497",
+			"full_text": "*CD 및 LP 구매자에게는 포스터 3종 중 1종을 증정합니다.(포스터 종류 선택 가능/ 1개 앨범당 택 1) \n*공연시작 1시간 전부터, 공연 종료 후 30분까지 구매 가능합니다.(현금, 카드 결제 가능)\n*엽서와 LP는 서울, 부산 공연장에서만 선판매되며, 미 예매자도 엽서 및 CD, LP 구입이 가능합니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1197412870293581800,
+			"in_reply_to_status_id_str": "1197412870293581824",
+			"in_reply_to_user_id": 923507155860299800,
+			"in_reply_to_user_id_str": "923507155860299776",
+			"in_reply_to_screen_name": "JaurimOfficial",
+			"user": {
+				"id": 923507155860299800,
+				"id_str": "923507155860299776",
+				"name": "Jaurim",
+				"screen_name": "JaurimOfficial",
+				"location": "",
+				"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+				"url": "https://t.co/jgMgFhG3ea",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jgMgFhG3ea",
+								"expanded_url": "http://www.jaurim.com",
+								"display_url": "jaurim.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1590,
+				"friends_count": 5,
+				"listed_count": 10,
+				"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 136,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난번 공연 때는 구매당 1매 증정이었는데 이번에는 앨범당 1매씩 주나보다. 👍🏻 https://t.co/fE7vqu0D7G"
+	},
+	{
+		"created_at": "Mon Nov 25 18:07:40 +0000 2019",
+		"id": 1197413114829930500,
+		"id_str": "1199026882114543616",
+		"full_text": "*CD 및 LP 구매자에게는 포스터 3종 중 1종을 증정합니다.(포스터 종류 선택 가능/ 1개 앨범당 택 1) \n*공연시작 1시간 전부터, 공연 종료 후 30분까지 구매 가능합니다.(현금, 카드 결제 가능)\n*엽서와 LP는 서울, 부산 공연장에서만 선판매되며, 미 예매자도 엽서 및 CD, LP 구입이 가능합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1197412870293581800,
+		"in_reply_to_status_id_str": "1197412870293581824",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1590,
+			"friends_count": 5,
+			"listed_count": 10,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*CD 및 LP 구매자에게는 포스터 3종 중 1종을 증정합니다.(포스터 종류 선택 가능/ 1개 앨범당 택 1) \n*공연시작 1시간 전부터, 공연 종료 후 30분까지 구매 가능합니다.(현금, 카드 결제 가능)\n*엽서와 LP는 서울, 부산 공연장에서만 선판매되며, 미 예매자도 엽서 및 CD, LP 구입이 가능합니다."
+	},
+	{
+		"created_at": "Mon Nov 25 18:04:28 +0000 2019",
+		"id": 1198960791027769300,
+		"id_str": "1199026078422953986",
+		"full_text": "191124 라루즈\n\n\"손승완 그만 좋아해 \"\n\n\" 그게 뭔데 \" \n\n\" 손승완 그만 좋아하라고. \"\n\n\" ...그거 어떻게 하는건데. \" \n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/9jfMncc1zk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "Wendy",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198960763110453200,
+					"id_str": "1198960763110453250",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOQdjDUcAIGQbI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOQdjDUcAIGQbI.jpg",
+					"url": "https://t.co/9jfMncc1zk",
+					"display_url": "pic.twitter.com/9jfMncc1zk",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198960791027769345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 114,
+									"h": 121,
+									"w": 121
+								},
+								{
+									"x": 144,
+									"y": 50,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 253,
+									"h": 268,
+									"w": 268
+								},
+								{
+									"x": 320,
+									"y": 111,
+									"h": 294,
+									"w": 294
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 253,
+									"h": 268,
+									"w": 268
+								},
+								{
+									"x": 320,
+									"y": 111,
+									"h": 294,
+									"w": 294
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 331,
+									"y": 202,
+									"h": 214,
+									"w": 214
+								},
+								{
+									"x": 256,
+									"y": 88,
+									"h": 235,
+									"w": 235
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198960763110453200,
+					"id_str": "1198960763110453250",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOQdjDUcAIGQbI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOQdjDUcAIGQbI.jpg",
+					"url": "https://t.co/9jfMncc1zk",
+					"display_url": "pic.twitter.com/9jfMncc1zk",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198960791027769345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 114,
+									"h": 121,
+									"w": 121
+								},
+								{
+									"x": 144,
+									"y": 50,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 253,
+									"h": 268,
+									"w": 268
+								},
+								{
+									"x": 320,
+									"y": 111,
+									"h": 294,
+									"w": 294
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 253,
+									"h": 268,
+									"w": 268
+								},
+								{
+									"x": 320,
+									"y": 111,
+									"h": 294,
+									"w": 294
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 331,
+									"y": 202,
+									"h": 214,
+									"w": 214
+								},
+								{
+									"x": 256,
+									"y": 88,
+									"h": 235,
+									"w": 235
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198960763148234800,
+					"id_str": "1198960763148234752",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOQdjMU8AAgWmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOQdjMU8AAgWmH.jpg",
+					"url": "https://t.co/9jfMncc1zk",
+					"display_url": "pic.twitter.com/9jfMncc1zk",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198960791027769345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863249989295759400,
+			"id_str": "863249989295759360",
+			"name": "Aurora 오로라",
+			"screen_name": "Aurora940221_",
+			"location": "",
+			"description": "Red Velvet Wendy Fanpage Aurora / Data = 💙 / INSTA - https://t.co/XDMObTdRdU / 처언천히 굴러갑니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XDMObTdRdU",
+							"expanded_url": "https://Instagram.com/_aurora221_",
+							"display_url": "Instagram.com/_aurora221_",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15510,
+			"friends_count": 4,
+			"listed_count": 777,
+			"created_at": "Sat May 13 04:30:10 +0000 2017",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863249989295759360/1574741069",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2880,
+		"favorite_count": 3736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "191124 라루즈\n\n\"손승완 그만 좋아해 \"\n\n\" 그게 뭔데 \" \n\n\" 손승완 그만 좋아하라고. \"\n\n\" ...그거 어떻게 하는건데. \" \n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/9jfMncc1zk"
+	},
+	{
+		"created_at": "Mon Nov 25 18:04:08 +0000 2019",
+		"id": 1198900536763773000,
+		"id_str": "1199025992754323456",
+		"full_text": "191124 라루즈\n\n어떻게 사람이 이래요?\n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/cQbnPZ8Kaf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "Wendy",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198900516643725300,
+					"id_str": "1198900516643725312",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNZqveU4AAvlc4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNZqveU4AAvlc4.jpg",
+					"url": "https://t.co/cQbnPZ8Kaf",
+					"display_url": "pic.twitter.com/cQbnPZ8Kaf",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198900536763772930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 353,
+									"y": 294,
+									"h": 489,
+									"w": 489
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 133,
+									"h": 221,
+									"w": 221
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 235,
+									"h": 391,
+									"w": 391
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 353,
+									"y": 294,
+									"h": 489,
+									"w": 489
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198900516643725300,
+					"id_str": "1198900516643725312",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNZqveU4AAvlc4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNZqveU4AAvlc4.jpg",
+					"url": "https://t.co/cQbnPZ8Kaf",
+					"display_url": "pic.twitter.com/cQbnPZ8Kaf",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198900536763772930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 353,
+									"y": 294,
+									"h": 489,
+									"w": 489
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 133,
+									"h": 221,
+									"w": 221
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 235,
+									"h": 391,
+									"w": 391
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 353,
+									"y": 294,
+									"h": 489,
+									"w": 489
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198900516639522800,
+					"id_str": "1198900516639522816",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNZqvdUwAAlB2N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNZqvdUwAAlB2N.jpg",
+					"url": "https://t.co/cQbnPZ8Kaf",
+					"display_url": "pic.twitter.com/cQbnPZ8Kaf",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198900536763772930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1198900516652081200,
+					"id_str": "1198900516652081153",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EKNZqvgUYAEl69T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKNZqvgUYAEl69T.jpg",
+					"url": "https://t.co/cQbnPZ8Kaf",
+					"display_url": "pic.twitter.com/cQbnPZ8Kaf",
+					"expanded_url": "https://twitter.com/Aurora940221_/status/1198900536763772930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863249989295759400,
+			"id_str": "863249989295759360",
+			"name": "Aurora 오로라",
+			"screen_name": "Aurora940221_",
+			"location": "",
+			"description": "Red Velvet Wendy Fanpage Aurora / Data = 💙 / INSTA - https://t.co/XDMObTdRdU / 처언천히 굴러갑니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XDMObTdRdU",
+							"expanded_url": "https://Instagram.com/_aurora221_",
+							"display_url": "Instagram.com/_aurora221_",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15510,
+			"friends_count": 4,
+			"listed_count": 777,
+			"created_at": "Sat May 13 04:30:10 +0000 2017",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199177073970962432/bR5bjEDL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863249989295759360/1574741069",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3672,
+		"favorite_count": 4552,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "191124 라루즈\n\n어떻게 사람이 이래요?\n\n#웬디 #Wendy #레드벨벳⁠ ⁠⁠#RedVelvet⁠ ⁠⁠ https://t.co/cQbnPZ8Kaf"
+	},
+	{
+		"created_at": "Mon Nov 25 18:03:44 +0000 2019",
+		"id": 1199025894351786000,
+		"id_str": "1199025894351785985",
+		"full_text": "손승완 슈트박제해조라 갠무대 끝나고 손승완! 손승완! 외치는데 감격해버림...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 830,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "손승완 슈트박제해조라 갠무대 끝나고 손승완! 손승완! 외치는데 감격해버림..."
+	},
+	{
+		"created_at": "Mon Nov 25 17:57:18 +0000 2019",
+		"id": 1199024272536006700,
+		"id_str": "1199024272536006659",
+		"full_text": "현실에 도입했으면",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 830,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "현실에 도입했으면"
+	},
+	{
+		"created_at": "Mon Nov 25 17:56:43 +0000 2019",
+		"id": 1197675916496736300,
+		"id_str": "1199024127102709762",
+		"full_text": "비누로 손을 씻지 않으면 열리지 않는 화장실 문 https://t.co/er0i74pUEI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197675826700882000,
+					"id_str": "1197675826700881920",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1197675826700881920/pu/img/W3flnED4Y5-6yQdk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1197675826700881920/pu/img/W3flnED4Y5-6yQdk.jpg",
+					"url": "https://t.co/er0i74pUEI",
+					"display_url": "pic.twitter.com/er0i74pUEI",
+					"expanded_url": "https://twitter.com/gjaog7k5xxs/status/1197675916496736256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197675826700882000,
+					"id_str": "1197675826700881920",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1197675826700881920/pu/img/W3flnED4Y5-6yQdk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1197675826700881920/pu/img/W3flnED4Y5-6yQdk.jpg",
+					"url": "https://t.co/er0i74pUEI",
+					"display_url": "pic.twitter.com/er0i74pUEI",
+					"expanded_url": "https://twitter.com/gjaog7k5xxs/status/1197675916496736256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40767,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1197675826700881920/pu/vid/640x360/oHb1IILtQ8At36XN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1197675826700881920/pu/pl/IUrb9P4M5H3PLb_i.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1197675826700881920/pu/vid/480x270/Nzr9dsDMh_cG2y-R.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1197675826700881920/pu/vid/1280x720/Igar5k-bUFKlUPRq.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1173855597453701000,
+			"id_str": "1173855597453701120",
+			"name": "렷카이브",
+			"screen_name": "vbgasodhl3r",
+			"location": "",
+			"description": "룰렷 그리고 세번의 계정정지 @I_Demeanor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23797,
+			"friends_count": 0,
+			"listed_count": 78,
+			"created_at": "Tue Sep 17 07:06:04 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7018,
+		"favorite_count": 3069,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비누로 손을 씻지 않으면 열리지 않는 화장실 문 https://t.co/er0i74pUEI"
+	},
+	{
+		"created_at": "Mon Nov 25 17:53:42 +0000 2019",
+		"id": 1198780844506329000,
+		"id_str": "1199023370613846016",
+		"full_text": "최근 몇 년 사이 움직임이 불편한 웨딩드레스 대신, 흰 정장을 입는 신부들이 늘고 있다고 합니다. #웨딩드레스 #웨딩팬츠 https://t.co/9yWFwdBlGw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웨딩드레스",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "웨딩팬츠",
+					"indices": [
+						62,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198756729346871300,
+					"id_str": "1198756729346871296",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1198756729346871296/img/Wn0vmC1aFZwRiHrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1198756729346871296/img/Wn0vmC1aFZwRiHrc.jpg",
+					"url": "https://t.co/9yWFwdBlGw",
+					"display_url": "pic.twitter.com/9yWFwdBlGw",
+					"expanded_url": "https://twitter.com/mbcnews/status/1198780844506329088/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198756729346871300,
+					"id_str": "1198756729346871296",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1198756729346871296/img/Wn0vmC1aFZwRiHrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1198756729346871296/img/Wn0vmC1aFZwRiHrc.jpg",
+					"url": "https://t.co/9yWFwdBlGw",
+					"display_url": "pic.twitter.com/9yWFwdBlGw",
+					"expanded_url": "https://twitter.com/mbcnews/status/1198780844506329088/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 52417,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1198756729346871296/pl/FbbVTcjNDv_HYVX1.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1198756729346871296/vid/480x272/Xe0BvF8xNsnygBlW.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "\"불편한 건 싫어\"…웨딩드레스 거부하는 신부들",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://imnews.imbc.com//replay/2019/nwtoday/article/5618041_24616.html"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 383849,
+			"friends_count": 151216,
+			"listed_count": 3697,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 133946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8217,
+		"favorite_count": 4259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 몇 년 사이 움직임이 불편한 웨딩드레스 대신, 흰 정장을 입는 신부들이 늘고 있다고 합니다. #웨딩드레스 #웨딩팬츠 https://t.co/9yWFwdBlGw"
+	},
+	{
+		"created_at": "Mon Nov 25 17:49:13 +0000 2019",
+		"id": 1198077671084703700,
+		"id_str": "1199022238323769344",
+		"full_text": "아이유가 장난으로 올 때 메로나라고 보냈더니 진짜 사온 유인나\nhttps://t.co/YtESRA78pr https://t.co/LeWaqTPmCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YtESRA78pr",
+					"expanded_url": "https://youtu.be/gqVWBMY3yow",
+					"display_url": "youtu.be/gqVWBMY3yow",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1198077338224713700,
+					"id_str": "1198077338224713728",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198077338224713728/pu/img/OfKl9xgQVAoc4fct.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198077338224713728/pu/img/OfKl9xgQVAoc4fct.jpg",
+					"url": "https://t.co/LeWaqTPmCy",
+					"display_url": "pic.twitter.com/LeWaqTPmCy",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1198077671084703744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1048,
+							"h": 588,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1048,
+							"h": 588,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198077338224713700,
+					"id_str": "1198077338224713728",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198077338224713728/pu/img/OfKl9xgQVAoc4fct.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198077338224713728/pu/img/OfKl9xgQVAoc4fct.jpg",
+					"url": "https://t.co/LeWaqTPmCy",
+					"display_url": "pic.twitter.com/LeWaqTPmCy",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1198077671084703744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1048,
+							"h": 588,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1048,
+							"h": 588,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							262,
+							147
+						],
+						"duration_millis": 118634,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1198077338224713728/pu/pl/dGImyaRcovN0L18i.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198077338224713728/pu/vid/640x360/NWVKgNQSS5i0lr5W.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198077338224713728/pu/vid/480x270/QRutyyAiHqUTb32R.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198077338224713728/pu/vid/1048x588/FijShOBLnWKxCX4L.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180291928031514600,
+			"id_str": "1180291928031514624",
+			"name": "좋아하는여자영상",
+			"screen_name": "zmfflq1234",
+			"location": "여자만/모멘트에 정리",
+			"description": "여자얘기뿐",
+			"url": "https://t.co/QZoFnUuklR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZoFnUuklR",
+							"expanded_url": "http://asked.kr/zmfflq1234",
+							"display_url": "asked.kr/zmfflq1234",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37741,
+			"friends_count": 0,
+			"listed_count": 74,
+			"created_at": "Sat Oct 05 01:21:50 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9799,
+		"favorite_count": 6775,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유가 장난으로 올 때 메로나라고 보냈더니 진짜 사온 유인나\nhttps://t.co/YtESRA78pr https://t.co/LeWaqTPmCy"
+	},
+	{
+		"created_at": "Mon Nov 25 17:44:11 +0000 2019",
+		"id": 1198971656200310800,
+		"id_str": "1199020972193415168",
+		"full_text": "영노자 108화는 &lt;씬의 아이들&gt;에 저자로 참여한 하박국님과 대중음악 평론가 김윤하님 그리고 편집자이신 재미공작소의 이세미님과 함께 했어요. 10대에 흔히들 말하는 '인디씬'에 들어와 20년 가까이 지낸 이들의 이야기! 다같이 추억팔이에 빠져 좀처럼 웃음이 끊이질 않았던 108화 기대해주세요🥰 https://t.co/ynYjM8lX8p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198971641893548000,
+					"id_str": "1198971641893548032",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOaWxrU8AAfvLD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOaWxrU8AAfvLD.jpg",
+					"url": "https://t.co/ynYjM8lX8p",
+					"display_url": "pic.twitter.com/ynYjM8lX8p",
+					"expanded_url": "https://twitter.com/homeless_matt/status/1198971656200310784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 225,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 365,
+									"y": 272,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 507,
+									"y": 304,
+									"h": 204,
+									"w": 204
+								},
+								{
+									"x": 675,
+									"y": 278,
+									"h": 273,
+									"w": 273
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 158,
+									"y": 149,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 242,
+									"y": 180,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 336,
+									"y": 201,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 448,
+									"y": 184,
+									"h": 181,
+									"w": 181
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 225,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 365,
+									"y": 272,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 507,
+									"y": 304,
+									"h": 204,
+									"w": 204
+								},
+								{
+									"x": 675,
+									"y": 278,
+									"h": 273,
+									"w": 273
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 225,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 365,
+									"y": 272,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 507,
+									"y": 304,
+									"h": 204,
+									"w": 204
+								},
+								{
+									"x": 675,
+									"y": 278,
+									"h": 273,
+									"w": 273
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198971641893548000,
+					"id_str": "1198971641893548032",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOaWxrU8AAfvLD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOaWxrU8AAfvLD.jpg",
+					"url": "https://t.co/ynYjM8lX8p",
+					"display_url": "pic.twitter.com/ynYjM8lX8p",
+					"expanded_url": "https://twitter.com/homeless_matt/status/1198971656200310784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 225,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 365,
+									"y": 272,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 507,
+									"y": 304,
+									"h": 204,
+									"w": 204
+								},
+								{
+									"x": 675,
+									"y": 278,
+									"h": 273,
+									"w": 273
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 158,
+									"y": 149,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 242,
+									"y": 180,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 336,
+									"y": 201,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 448,
+									"y": 184,
+									"h": 181,
+									"w": 181
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 225,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 365,
+									"y": 272,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 507,
+									"y": 304,
+									"h": 204,
+									"w": 204
+								},
+								{
+									"x": 675,
+									"y": 278,
+									"h": 273,
+									"w": 273
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 225,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 365,
+									"y": 272,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 507,
+									"y": 304,
+									"h": 204,
+									"w": 204
+								},
+								{
+									"x": 675,
+									"y": 278,
+									"h": 273,
+									"w": 273
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198971641893544000,
+					"id_str": "1198971641893543936",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOaWxrU4AAlkhz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOaWxrU4AAlkhz.jpg",
+					"url": "https://t.co/ynYjM8lX8p",
+					"display_url": "pic.twitter.com/ynYjM8lX8p",
+					"expanded_url": "https://twitter.com/homeless_matt/status/1198971656200310784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 703,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 637,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 703,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914580161164660700,
+			"id_str": "914580161164660736",
+			"name": "셀럽 맷",
+			"screen_name": "homeless_matt",
+			"location": "",
+			"description": "팟캐스트 “영혼의 노숙자”, “독일언니들” 네이버 오디오클립 \"시스터후드 시즌1\"",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4325,
+			"friends_count": 393,
+			"listed_count": 7,
+			"created_at": "Sun Oct 01 19:57:57 +0000 2017",
+			"favourites_count": 16927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092094084980699138/dew7tY2B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092094084980699138/dew7tY2B_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영노자 108화는 &lt;씬의 아이들&gt;에 저자로 참여한 하박국님과 대중음악 평론가 김윤하님 그리고 편집자이신 재미공작소의 이세미님과 함께 했어요. 10대에 흔히들 말하는 '인디씬'에 들어와 20년 가까이 지낸 이들의 이야기! 다같이 추억팔이에 빠져 좀처럼 웃음이 끊이질 않았던 108화 기대해주세요🥰 https://t.co/ynYjM8lX8p"
+	},
+	{
+		"created_at": "Mon Nov 25 17:43:42 +0000 2019",
+		"id": 1198510349260972000,
+		"id_str": "1199020853096136704",
+		"full_text": "좋아하는 보아 인터뷰\n“자신과 누군가를 비교하여 무의식적으로라도 우열을 느끼는 것이 자신을 잃는 것의 시작이라고 생각합니다.” https://t.co/oCMxUfWoVg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198510341518319600,
+					"id_str": "1198510341518319616",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EKH2zj3U4AAfqLX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKH2zj3U4AAfqLX.jpg",
+					"url": "https://t.co/oCMxUfWoVg",
+					"display_url": "pic.twitter.com/oCMxUfWoVg",
+					"expanded_url": "https://twitter.com/sunhasntdied_/status/1198510349260972032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 558,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 558,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 558,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198510341518319600,
+					"id_str": "1198510341518319616",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EKH2zj3U4AAfqLX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKH2zj3U4AAfqLX.jpg",
+					"url": "https://t.co/oCMxUfWoVg",
+					"display_url": "pic.twitter.com/oCMxUfWoVg",
+					"expanded_url": "https://twitter.com/sunhasntdied_/status/1198510349260972032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 558,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 558,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 558,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1198510341518266400,
+					"id_str": "1198510341518266368",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EKH2zj3UEAAkIX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKH2zj3UEAAkIX3.jpg",
+					"url": "https://t.co/oCMxUfWoVg",
+					"display_url": "pic.twitter.com/oCMxUfWoVg",
+					"expanded_url": "https://twitter.com/sunhasntdied_/status/1198510349260972032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 718,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 718,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1148945134634930200,
+			"id_str": "1148945134634930177",
+			"name": "음녀",
+			"screen_name": "sunhasntdied_",
+			"location": "비팔알림x",
+			"description": "음악하는 녀",
+			"url": "https://t.co/Cd7yhrIYCA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cd7yhrIYCA",
+							"expanded_url": "http://naver.com",
+							"display_url": "naver.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 53,
+			"listed_count": 0,
+			"created_at": "Wed Jul 10 13:20:41 +0000 2019",
+			"favourites_count": 3563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193177923928248320/gC10CQZw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193177923928248320/gC10CQZw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1148945134634930177/1562859348",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8931,
+		"favorite_count": 5558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "좋아하는 보아 인터뷰\n“자신과 누군가를 비교하여 무의식적으로라도 우열을 느끼는 것이 자신을 잃는 것의 시작이라고 생각합니다.” https://t.co/oCMxUfWoVg"
+	},
+	{
+		"created_at": "Mon Nov 25 17:39:39 +0000 2019",
+		"id": 1198977361552658400,
+		"id_str": "1199019831586017280",
+		"full_text": "넷플릭스 &lt;오티스의 비밀 상담소&gt; 내년 1월 17일 공개! https://t.co/ruRp7TGRsN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ruRp7TGRsN",
+					"expanded_url": "https://twitter.com/netflixuk/status/1198947058583056384",
+					"display_url": "twitter.com/netflixuk/stat…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14119,
+			"friends_count": 732,
+			"listed_count": 125,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994448983786336256/DZXGeDHk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994448983786336256/DZXGeDHk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1525930080",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1198947058583056400,
+		"quoted_status_id_str": "1198947058583056384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ruRp7TGRsN",
+			"expanded": "https://twitter.com/netflixuk/status/1198947058583056384",
+			"display": "twitter.com/netflixuk/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 25 12:50:28 +0000 2019",
+			"id": 1198947058583056400,
+			"id_str": "1198947058583056384",
+			"full_text": "Get in losers, the new term is starting. Sex Education s2 streaming 17 January 2020. https://t.co/itDARGz5ba",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1198946933852852200,
+						"id_str": "1198946933852852224",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/EKOD4lDX0AA3frq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKOD4lDX0AA3frq.jpg",
+						"url": "https://t.co/itDARGz5ba",
+						"display_url": "pic.twitter.com/itDARGz5ba",
+						"expanded_url": "https://twitter.com/NetflixUK/status/1198947058583056384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 274,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 484,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 826,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 351,
+										"y": 28,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 223,
+										"y": 29,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 418,
+										"y": 28,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 468,
+										"y": 39,
+										"h": 22,
+										"w": 22
+									},
+									{
+										"x": 149,
+										"y": 80,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 284,
+										"y": 87,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 461,
+										"y": 132,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 618,
+										"y": 135,
+										"h": 21,
+										"w": 21
+									},
+									{
+										"x": 345,
+										"y": 152,
+										"h": 29,
+										"w": 29
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 2120,
+										"y": 172,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1344,
+										"y": 176,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 2520,
+										"y": 172,
+										"h": 144,
+										"w": 144
+									},
+									{
+										"x": 2820,
+										"y": 240,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 900,
+										"y": 484,
+										"h": 144,
+										"w": 144
+									},
+									{
+										"x": 1716,
+										"y": 528,
+										"h": 152,
+										"w": 152
+									},
+									{
+										"x": 2780,
+										"y": 800,
+										"h": 144,
+										"w": 144
+									},
+									{
+										"x": 3728,
+										"y": 816,
+										"h": 132,
+										"w": 132
+									},
+									{
+										"x": 2080,
+										"y": 920,
+										"h": 176,
+										"w": 176
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 621,
+										"y": 50,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 393,
+										"y": 51,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 738,
+										"y": 50,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 826,
+										"y": 70,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 263,
+										"y": 141,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 502,
+										"y": 154,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 814,
+										"y": 234,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 1092,
+										"y": 239,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 609,
+										"y": 269,
+										"h": 51,
+										"w": 51
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1060,
+										"y": 86,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 672,
+										"y": 88,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 1260,
+										"y": 86,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 1410,
+										"y": 120,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 450,
+										"y": 242,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 858,
+										"y": 264,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 1390,
+										"y": 400,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 1864,
+										"y": 408,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 1040,
+										"y": 460,
+										"h": 88,
+										"w": 88
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1198946933852852200,
+						"id_str": "1198946933852852224",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/EKOD4lDX0AA3frq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKOD4lDX0AA3frq.jpg",
+						"url": "https://t.co/itDARGz5ba",
+						"display_url": "pic.twitter.com/itDARGz5ba",
+						"expanded_url": "https://twitter.com/NetflixUK/status/1198947058583056384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 274,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 484,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 826,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 351,
+										"y": 28,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 223,
+										"y": 29,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 418,
+										"y": 28,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 468,
+										"y": 39,
+										"h": 22,
+										"w": 22
+									},
+									{
+										"x": 149,
+										"y": 80,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 284,
+										"y": 87,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 461,
+										"y": 132,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 618,
+										"y": 135,
+										"h": 21,
+										"w": 21
+									},
+									{
+										"x": 345,
+										"y": 152,
+										"h": 29,
+										"w": 29
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 2120,
+										"y": 172,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1344,
+										"y": 176,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 2520,
+										"y": 172,
+										"h": 144,
+										"w": 144
+									},
+									{
+										"x": 2820,
+										"y": 240,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 900,
+										"y": 484,
+										"h": 144,
+										"w": 144
+									},
+									{
+										"x": 1716,
+										"y": 528,
+										"h": 152,
+										"w": 152
+									},
+									{
+										"x": 2780,
+										"y": 800,
+										"h": 144,
+										"w": 144
+									},
+									{
+										"x": 3728,
+										"y": 816,
+										"h": 132,
+										"w": 132
+									},
+									{
+										"x": 2080,
+										"y": 920,
+										"h": 176,
+										"w": 176
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 621,
+										"y": 50,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 393,
+										"y": 51,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 738,
+										"y": 50,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 826,
+										"y": 70,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 263,
+										"y": 141,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 502,
+										"y": 154,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 814,
+										"y": 234,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 1092,
+										"y": 239,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 609,
+										"y": 269,
+										"h": 51,
+										"w": 51
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1060,
+										"y": 86,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 672,
+										"y": 88,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 1260,
+										"y": 86,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 1410,
+										"y": 120,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 450,
+										"y": 242,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 858,
+										"y": 264,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 1390,
+										"y": 400,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 1864,
+										"y": 408,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 1040,
+										"y": 460,
+										"h": 88,
+										"w": 88
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 231183280,
+				"id_str": "231183280",
+				"name": "Netflix UK & Ireland",
+				"screen_name": "NetflixUK",
+				"location": "UK & Ireland",
+				"description": "There was a young lady from Dallas...",
+				"url": "https://t.co/eBtipTqdEN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eBtipTqdEN",
+								"expanded_url": "http://netflix.com/thecrown",
+								"display_url": "netflix.com/thecrown",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 688368,
+				"friends_count": 1864,
+				"listed_count": 1995,
+				"created_at": "Mon Dec 27 20:54:09 +0000 2010",
+				"favourites_count": 12313,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48642,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1192770092897067009/m4K4SCSj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192770092897067009/m4K4SCSj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/231183280/1573991890",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8648,
+			"favorite_count": 37143,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 818,
+		"favorite_count": 282,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스 &lt;오티스의 비밀 상담소&gt; 내년 1월 17일 공개! https://t.co/ruRp7TGRsN"
+	},
+	{
+		"created_at": "Mon Nov 25 17:20:41 +0000 2019",
+		"id": 1199015057927147500,
+		"id_str": "1199015057927147525",
+		"full_text": "당신께 내일 또 쓰지요 (1915화 | 2019년 11월 25일 방송) (4분 54초)\nhttps://t.co/D18vKZAt9y\n#지식채널e #EBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D18vKZAt9y",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20187717",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 830,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신께 내일 또 쓰지요 (1915화 | 2019년 11월 25일 방송) (4분 54초)\nhttps://t.co/D18vKZAt9y\n#지식채널e #EBS"
+	},
+	{
 		"created_at": "Mon Nov 25 13:00:46 +0000 2019",
 		"id": 1198949650536878000,
 		"id_str": "1198949650536878080",
@@ -2825,7 +9736,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "La (Pera) Rouge 🥀",
 			"screen_name": "wanwansforehead",
 			"location": "Kingdom of Katy Kim",
-			"description": "higher further faster baby — ⚠️현완옒쓸뚱⚠️ • 150412/180908/190609 • 👭🏳️‍🌈• 나 여기가 집이야 • 내맘대로 살꺼야 • 🌹🍑",
+			"description": "higher further faster baby — ⚠️현완옒쓸뚱⚠️ • 150412/180908/190609 • 👭🏳️🌈• 나 여기가 집이야 • 내맘대로 살꺼야 • 🌹🍑",
 			"url": "https://t.co/qiPwLBwKf0",
 			"entities": {
 				"url": {
