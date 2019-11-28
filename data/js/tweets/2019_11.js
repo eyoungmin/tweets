@@ -1,6 +1,1123 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 07:21:15 +0000 2019",
+		"id": 1199951370658500600,
+		"id_str": "1199951370658500608",
+		"full_text": "【 #가온차트 】\nGAON′s 관찰노트\nhttps://t.co/dkGK1czYJc\n#Gaon #Opinion #minfav https://t.co/0ph7CjB93I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "Opinion",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dkGK1czYJc",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=16114&sgenre=opinion&search_str=",
+					"display_url": "gaonchart.co.kr/main/section/a…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199951369463115800,
+					"id_str": "1199951369463115776",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EKcVabSXsAAnbE1.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKcVabSXsAAnbE1.png",
+					"url": "https://t.co/0ph7CjB93I",
+					"display_url": "pic.twitter.com/0ph7CjB93I",
+					"expanded_url": "https://twitter.com/fromminn/status/1199951370658500608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199951369463115800,
+					"id_str": "1199951369463115776",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EKcVabSXsAAnbE1.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKcVabSXsAAnbE1.png",
+					"url": "https://t.co/0ph7CjB93I",
+					"display_url": "pic.twitter.com/0ph7CjB93I",
+					"expanded_url": "https://twitter.com/fromminn/status/1199951370658500608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 832,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #가온차트 】\nGAON′s 관찰노트\nhttps://t.co/dkGK1czYJc\n#Gaon #Opinion #minfav https://t.co/0ph7CjB93I"
+	},
+	{
+		"created_at": "Thu Nov 28 05:21:56 +0000 2019",
+		"id": 1199919275626000400,
+		"id_str": "1199921344952983552",
+		"full_text": "디어 재즈 오케스트라 첫 앨범 발매 D-1\nDear Jazz Orchestra’s first EP release D-1 https://t.co/z3n73TaOH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199919220135301000,
+					"id_str": "1199919220135301120",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199919220135301120/pu/img/JpQpRtfLX-JMqaE_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199919220135301120/pu/img/JpQpRtfLX-JMqaE_.jpg",
+					"url": "https://t.co/z3n73TaOH4",
+					"display_url": "pic.twitter.com/z3n73TaOH4",
+					"expanded_url": "https://twitter.com/echaekang/status/1199919275626000384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199919220135301000,
+					"id_str": "1199919220135301120",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199919220135301120/pu/img/JpQpRtfLX-JMqaE_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199919220135301120/pu/img/JpQpRtfLX-JMqaE_.jpg",
+					"url": "https://t.co/z3n73TaOH4",
+					"display_url": "pic.twitter.com/z3n73TaOH4",
+					"expanded_url": "https://twitter.com/echaekang/status/1199919275626000384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 36875,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199919220135301120/pu/vid/480x270/vO56RGJnxXawDl1A.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199919220135301120/pu/vid/720x404/KtNNymwo2nVAIMtg.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1199919220135301120/pu/pl/0WClTs7BZN4NxJk1.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2993202942,
+			"id_str": "2993202942",
+			"name": "강이채",
+			"screen_name": "echaekang",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1064,
+			"friends_count": 69,
+			"listed_count": 5,
+			"created_at": "Fri Jan 23 10:58:00 +0000 2015",
+			"favourites_count": 413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070426147383472128/3g57XJn__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070426147383472128/3g57XJn__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2993202942/1559308252",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디어 재즈 오케스트라 첫 앨범 발매 D-1\nDear Jazz Orchestra’s first EP release D-1 https://t.co/z3n73TaOH4"
+	},
+	{
+		"created_at": "Thu Nov 28 03:38:44 +0000 2019",
+		"id": 1199885867042521000,
+		"id_str": "1199895374397427712",
+		"full_text": "12/25発売のテヨン「The Signal Gift」4種のオリジナル・アクリルスタンドを公開！\n商品は完全限定生産商品のため限定数に達し次第販売終了となります！新曲「I Do」を収録したCDも梱包しておりますので、お早目のご予約を♪\n#TAEYEON #テヨン #Signal\n▼ご予約はこちら\nhttps://t.co/GaRnVHc3vB https://t.co/nCdbVAEFXT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "Signal",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GaRnVHc3vB",
+					"expanded_url": "https://umj.lnk.to/TheSignalGift",
+					"display_url": "umj.lnk.to/TheSignalGift",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199885836562522000,
+					"id_str": "1199885836562522113",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKbZz6NU4AEtldD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKbZz6NU4AEtldD.jpg",
+					"url": "https://t.co/nCdbVAEFXT",
+					"display_url": "pic.twitter.com/nCdbVAEFXT",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1199885867042521093/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1066,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199885836562522000,
+					"id_str": "1199885836562522113",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKbZz6NU4AEtldD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKbZz6NU4AEtldD.jpg",
+					"url": "https://t.co/nCdbVAEFXT",
+					"display_url": "pic.twitter.com/nCdbVAEFXT",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1199885867042521093/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1066,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							800,
+							533
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EKbZz6NU4AEtldD.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "2007年8月韓国デビュー。 2009年には韓国の音楽番組KBS MUSIC BANKで9週連続1位の新記録を樹立するなど、トップガールズグループとして君臨。 また、台湾、タイ、フィリピンの各種音楽チャートでも1位を獲得、中国などでもアジアツアーを行うなどアジア全域でNO.1グループとして活躍している。",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102784,
+			"friends_count": 0,
+			"listed_count": 564,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 475,
+		"favorite_count": 907,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "12/25発売のテヨン「The Signal Gift」4種のオリジナル・アクリルスタンドを公開！\n商品は完全限定生産商品のため限定数に達し次第販売終了となります！新曲「I Do」を収録したCDも梱包しておりますので、お早目のご予約を♪\n#TAEYEON #テヨン #Signal\n▼ご予約はこちら\nhttps://t.co/GaRnVHc3vB https://t.co/nCdbVAEFXT"
+	},
+	{
+		"created_at": "Thu Nov 28 02:28:48 +0000 2019",
+		"id": 1199710832000553000,
+		"id_str": "1199877773432479745",
+		"full_text": "[announce]\n선우정아 3rd ‘Serenade’ will be released on December 12 at 18:00 (KST).\n선우정아의 정규 3집 ‘Serenade’가 12월 12일 18시에 발매됩니다. 전체 트랙리스트는 다음주에 공개될 예정입니다. https://t.co/swiNF92lnK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199710819283394600,
+					"id_str": "1199710819283394560",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EKY6okCUYAAvPOM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKY6okCUYAAvPOM.jpg",
+					"url": "https://t.co/swiNF92lnK",
+					"display_url": "pic.twitter.com/swiNF92lnK",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1199710832000552960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 556,
+									"h": 444,
+									"w": 444
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 115,
+									"y": 184,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 556,
+									"h": 444,
+									"w": 444
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 203,
+									"y": 325,
+									"h": 260,
+									"w": 260
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199710819283394600,
+					"id_str": "1199710819283394560",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EKY6okCUYAAvPOM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKY6okCUYAAvPOM.jpg",
+					"url": "https://t.co/swiNF92lnK",
+					"display_url": "pic.twitter.com/swiNF92lnK",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1199710832000552960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 556,
+									"h": 444,
+									"w": 444
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 115,
+									"y": 184,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 556,
+									"h": 444,
+									"w": 444
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 203,
+									"y": 325,
+									"h": 260,
+									"w": 260
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13233,
+			"friends_count": 132,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1566398264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[announce]\n선우정아 3rd ‘Serenade’ will be released on December 12 at 18:00 (KST).\n선우정아의 정규 3집 ‘Serenade’가 12월 12일 18시에 발매됩니다. 전체 트랙리스트는 다음주에 공개될 예정입니다. https://t.co/swiNF92lnK"
+	},
+	{
+		"created_at": "Thu Nov 28 02:28:34 +0000 2019",
+		"id": 1199292686508777500,
+		"id_str": "1199877716121542656",
+		"full_text": "햄버거 👉 버거파크\n육회비빔밥 👉 이모네 집밥\n삼겹라이스, 함박라이스 👉 효자바베\n디저트도 맛있고 커피도 맛있는 카페 👉 마띠에르, 서화커피\n라멘 👉 멘야산다이메(혜화 부탄츄는 비추)\n쌀떡볶이 👉 나누미\n텐동 👉 야스미\n어묵 안주 👉 차니오뎅\n김치볶음밥 👉 혜화 도담",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1199290071511261200,
+		"in_reply_to_status_id_str": "1199290071511261184",
+		"in_reply_to_user_id": 163801485,
+		"in_reply_to_user_id_str": "163801485",
+		"in_reply_to_screen_name": "yeonjuchu",
+		"user": {
+			"id": 163801485,
+			"id_str": "163801485",
+			"name": "연주",
+			"screen_name": "yeonjuchu",
+			"location": "seoul",
+			"description": "",
+			"url": "https://t.co/F8HJSWqU5D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F8HJSWqU5D",
+							"expanded_url": "http://Instagram.com/yeonjuchu",
+							"display_url": "Instagram.com/yeonjuchu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1443,
+			"friends_count": 1847,
+			"listed_count": 7,
+			"created_at": "Wed Jul 07 09:13:18 +0000 2010",
+			"favourites_count": 20360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139748664195207170/reIiy-UN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139748664195207170/reIiy-UN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/163801485/1432119904",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F1F1F1",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 302,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "햄버거 👉 버거파크\n육회비빔밥 👉 이모네 집밥\n삼겹라이스, 함박라이스 👉 효자바베\n디저트도 맛있고 커피도 맛있는 카페 👉 마띠에르, 서화커피\n라멘 👉 멘야산다이메(혜화 부탄츄는 비추)\n쌀떡볶이 👉 나누미\n텐동 👉 야스미\n어묵 안주 👉 차니오뎅\n김치볶음밥 👉 혜화 도담"
+	},
+	{
+		"created_at": "Thu Nov 28 02:28:32 +0000 2019",
+		"id": 1199290071511261200,
+		"id_str": "1199877707481276416",
+		"full_text": "혜화 직장인에게 인기있는(?) 혜화 식당\n\n한식 집밥, 가정식 👉 이유식당\n파스타 👉 혜화동 다이닝\n마라샹궈, 마라탕 👉 라매자\n유린기, 볶음면 등 퓨전 중식 👉 소친친\n즉석떡볶이 👉 코야코\n삼계탕 👉 마당너른집\n오리탕(6,000원) 👉 또오리\n쌀국수 👉 뎁짜이, 미분당",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 163801485,
+			"id_str": "163801485",
+			"name": "연주",
+			"screen_name": "yeonjuchu",
+			"location": "seoul",
+			"description": "",
+			"url": "https://t.co/F8HJSWqU5D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F8HJSWqU5D",
+							"expanded_url": "http://Instagram.com/yeonjuchu",
+							"display_url": "Instagram.com/yeonjuchu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1443,
+			"friends_count": 1847,
+			"listed_count": 7,
+			"created_at": "Wed Jul 07 09:13:18 +0000 2010",
+			"favourites_count": 20360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139748664195207170/reIiy-UN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139748664195207170/reIiy-UN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/163801485/1432119904",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F1F1F1",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2784,
+		"favorite_count": 2320,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "혜화 직장인에게 인기있는(?) 혜화 식당\n\n한식 집밥, 가정식 👉 이유식당\n파스타 👉 혜화동 다이닝\n마라샹궈, 마라탕 👉 라매자\n유린기, 볶음면 등 퓨전 중식 👉 소친친\n즉석떡볶이 👉 코야코\n삼계탕 👉 마당너른집\n오리탕(6,000원) 👉 또오리\n쌀국수 👉 뎁짜이, 미분당"
+	},
+	{
 		"created_at": "Wed Nov 27 13:19:07 +0000 2019",
 		"id": 1199679041357385700,
 		"id_str": "1199679041357385730",
