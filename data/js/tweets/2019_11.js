@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 12:35:19 +0000 2019",
+		"id": 1199988366780973000,
+		"id_str": "1200030409867685888",
+		"full_text": "이들의 삶이 멈췄다고 생각하지 않으려 합니다. 두 사람의 발자취로 인해 서서히 달라지고 있던 여성들은 더 달라질 것이고, 더 강해질 것이기에. 다만 더는 볼 수 없기에, 명복을 빕니다. https://t.co/lcBlEzPab7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lcBlEzPab7",
+					"expanded_url": "https://twitter.com/yes24chyes/status/1199875132119891968",
+					"display_url": "twitter.com/yes24chyes/sta…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918810726034153500,
+			"id_str": "918810726034153475",
+			"name": "박희아, Joy Park",
+			"screen_name": "muse_at",
+			"location": "대한민국 서울",
+			"description": "K-Culture and K-Pop journalist; writer of Idol Maker, Idol's Studio, Interviews with K-Pop stars, @BAP_bangyongguk photo essay. @real_kpoplab 의 호스트.",
+			"url": "https://t.co/ATBgLe3QUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ATBgLe3QUa",
+							"expanded_url": "https://joyparkmuse.wixsite.com/muse",
+							"display_url": "joyparkmuse.wixsite.com/muse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2857,
+			"friends_count": 112,
+			"listed_count": 22,
+			"created_at": "Fri Oct 13 12:08:42 +0000 2017",
+			"favourites_count": 1922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197077841386455041/VdFS8VEf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197077841386455041/VdFS8VEf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918810726034153475/1567525216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199875132119892000,
+		"quoted_status_id_str": "1199875132119891968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lcBlEzPab7",
+			"expanded": "https://twitter.com/yes24chyes/status/1199875132119891968",
+			"display": "twitter.com/yes24chyes/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 28 02:18:18 +0000 2019",
+			"id": 1199875132119892000,
+			"id_str": "1199875132119891968",
+			"full_text": "여성들이 나서서 묻기 시작한다. 잘 웃는 여자애, 밝은 여자애, 예쁜 여자애가 웃지 않아도 예쁘지 않아도 되는 날은 언제 가능할 거냐고. 설리와 구하라의 삶은 멈추지 않고 계속 나아간다. 놀란 마음에 잠시 숨을 고르는 시간일지언정 멈춘 시간은 아니다. \n\n🔍기사 보기: https://t.co/MY0wkZ4aHu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MY0wkZ4aHu",
+						"expanded_url": "http://m.ch.yes24.com/Article/View/40433",
+						"display_url": "m.ch.yes24.com/Article/View/4…",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135816524,
+				"id_str": "135816524",
+				"name": "문화웹진 채널예스",
+				"screen_name": "yes24chyes",
+				"location": "대한민국 서울",
+				"description": "인터넷서점 예스24의 공감이 있는 문화웹진! 인터뷰, 작가와의만남, 칼럼 등 문화계 전반 소식을 만나보세요!",
+				"url": "http://t.co/dMg4fRHhzu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dMg4fRHhzu",
+								"expanded_url": "http://ch.yes24.com",
+								"display_url": "ch.yes24.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3068,
+				"friends_count": 1885,
+				"listed_count": 25,
+				"created_at": "Thu Apr 22 09:05:20 +0000 2010",
+				"favourites_count": 2738,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2518,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000819134166/916786ea693d24211f1d27eb8fb17602_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000819134166/916786ea693d24211f1d27eb8fb17602_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 12,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이들의 삶이 멈췄다고 생각하지 않으려 합니다. 두 사람의 발자취로 인해 서서히 달라지고 있던 여성들은 더 달라질 것이고, 더 강해질 것이기에. 다만 더는 볼 수 없기에, 명복을 빕니다. https://t.co/lcBlEzPab7"
+	},
+	{
 		"created_at": "Thu Nov 28 11:46:43 +0000 2019",
 		"id": 1200018178421743600,
 		"id_str": "1200018178421743617",
