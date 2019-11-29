@@ -1,6 +1,136 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 08:02:49 +0000 2019",
+		"id": 1200301402959908900,
+		"id_str": "1200324218283384832",
+		"full_text": "- 일시: 12.28-29(양일간) pm7:00\n- 장소: 파랑새극장 /대학로\n- 예매: 멜론티켓 (티켓오픈12/3(화) pm2:00)\n- 가격: 4,5000원(1일)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1200301400770535400,
+		"in_reply_to_status_id_str": "1200301400770535434",
+		"in_reply_to_user_id": 2572167788,
+		"in_reply_to_user_id_str": "2572167788",
+		"in_reply_to_screen_name": "KwonNamoo",
+		"user": {
+			"id": 2572167788,
+			"id_str": "2572167788",
+			"name": "권나무 KwonTree",
+			"screen_name": "KwonNamoo",
+			"location": "",
+			"description": "3집 ‘새로운 날’ 발매되었습니다. (2019.1.1)",
+			"url": "https://t.co/7TbcbHFff2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7TbcbHFff2",
+							"expanded_url": "https://Instagram.com/kwontree_",
+							"display_url": "Instagram.com/kwontree_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1902,
+			"friends_count": 313,
+			"listed_count": 15,
+			"created_at": "Tue Jun 17 04:00:39 +0000 2014",
+			"favourites_count": 2064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572167788/1546317944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00975f0c4e60a25f",
+			"url": "https://api.twitter.com/1.1/geo/id/00975f0c4e60a25f.json",
+			"place_type": "city",
+			"name": "아산시",
+			"full_name": "대한민국 아산시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.82837168261,
+							36.6394074062541
+						],
+						[
+							127.123900740569,
+							36.6394074062541
+						],
+						[
+							127.123900740569,
+							36.9420103296393
+						],
+						[
+							126.82837168261,
+							36.9420103296393
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 일시: 12.28-29(양일간) pm7:00\n- 장소: 파랑새극장 /대학로\n- 예매: 멜론티켓 (티켓오픈12/3(화) pm2:00)\n- 가격: 4,5000원(1일)"
+	},
+	{
 		"created_at": "Fri Nov 29 07:46:33 +0000 2019",
 		"id": 1200320124474933200,
 		"id_str": "1200320124474933249",
