@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 04:17:51 +0000 2019",
+		"id": 1200252510302171100,
+		"id_str": "1200267606311104513",
+		"full_text": "우리는 장애인 구성원을 맞이할 준비가 되었을까요? 이번 교육은 청각장애인과 비장애인이 더불어 살아가는 환경을 만드는 에이유디 사회적협동조합 대표 박원진 님과 함께했어요. 인식개선을 넘어 어떤 업무 환경을 조성해야 할 지 생각해 볼 수 있는 시간이었어요💪 https://t.co/aQtrvlDSGk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aQtrvlDSGk",
+					"expanded_url": "https://slowalk.tistory.com/2612",
+					"display_url": "slowalk.tistory.com/2612",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5027,
+			"friends_count": 3475,
+			"listed_count": 226,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리는 장애인 구성원을 맞이할 준비가 되었을까요? 이번 교육은 청각장애인과 비장애인이 더불어 살아가는 환경을 만드는 에이유디 사회적협동조합 대표 박원진 님과 함께했어요. 인식개선을 넘어 어떤 업무 환경을 조성해야 할 지 생각해 볼 수 있는 시간이었어요💪 https://t.co/aQtrvlDSGk"
+	},
+	{
+		"created_at": "Fri Nov 29 04:17:46 +0000 2019",
+		"id": 1200231256383881200,
+		"id_str": "1200267583305347072",
+		"full_text": "\"우리와 이해관계자의 개인정보는 안전하게 관리되고 있을까?\"🧐\n슬로워크는 구성원에게 도움이 되고 의미 있는 법정의무교육을 위해 특히 기획에 신경을 썼어요. 그 교육 과정을 여러분에게 시리즈로 공개합니다. 첫 번째는 '개인정보 보호교육'에 관한 내용이에요🔒\nhttps://t.co/JfOZiLsQn8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JfOZiLsQn8",
+					"expanded_url": "https://slowalk.tistory.com/2611",
+					"display_url": "slowalk.tistory.com/2611",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5027,
+			"friends_count": 3475,
+			"listed_count": 226,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"우리와 이해관계자의 개인정보는 안전하게 관리되고 있을까?\"🧐\n슬로워크는 구성원에게 도움이 되고 의미 있는 법정의무교육을 위해 특히 기획에 신경을 썼어요. 그 교육 과정을 여러분에게 시리즈로 공개합니다. 첫 번째는 '개인정보 보호교육'에 관한 내용이에요🔒\nhttps://t.co/JfOZiLsQn8"
+	},
+	{
+		"created_at": "Fri Nov 29 04:17:35 +0000 2019",
+		"id": 1200256697547182000,
+		"id_str": "1200267536392048640",
+		"full_text": "작은 물고기 큰 바다 - 디어 재즈 오케스트라 \nhttps://t.co/Qh5SRUEoS0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qh5SRUEoS0",
+					"expanded_url": "https://youtu.be/ag9eAd24e1E",
+					"display_url": "youtu.be/ag9eAd24e1E",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2993202942,
+			"id_str": "2993202942",
+			"name": "강이채",
+			"screen_name": "echaekang",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1063,
+			"friends_count": 69,
+			"listed_count": 5,
+			"created_at": "Fri Jan 23 10:58:00 +0000 2015",
+			"favourites_count": 413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070426147383472128/3g57XJn__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070426147383472128/3g57XJn__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2993202942/1559308252",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "작은 물고기 큰 바다 - 디어 재즈 오케스트라 \nhttps://t.co/Qh5SRUEoS0"
+	},
+	{
+		"created_at": "Fri Nov 29 04:17:06 +0000 2019",
+		"id": 1200267413939339300,
+		"id_str": "1200267413939339265",
+		"full_text": "오늘도 보는 빌리카터 김고양님 글. https://t.co/nG1FGPKirt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200267406808993800,
+					"id_str": "1200267406808993792",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EKg02OJUUAA5XW_.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKg02OJUUAA5XW_.png",
+					"url": "https://t.co/nG1FGPKirt",
+					"display_url": "pic.twitter.com/nG1FGPKirt",
+					"expanded_url": "https://twitter.com/fromminn/status/1200267413939339265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 622,
+							"h": 625,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 625,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 622,
+							"h": 625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200267406808993800,
+					"id_str": "1200267406808993792",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EKg02OJUUAA5XW_.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKg02OJUUAA5XW_.png",
+					"url": "https://t.co/nG1FGPKirt",
+					"display_url": "pic.twitter.com/nG1FGPKirt",
+					"expanded_url": "https://twitter.com/fromminn/status/1200267413939339265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 622,
+							"h": 625,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 625,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 622,
+							"h": 625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 832,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘도 보는 빌리카터 김고양님 글. https://t.co/nG1FGPKirt"
+	},
+	{
+		"created_at": "Fri Nov 29 04:14:33 +0000 2019",
+		"id": 1200266774379237400,
+		"id_str": "1200266774379237376",
+		"full_text": "최애 공연 공지가 떴는데 하고 싶은 말이 있지만.... 참는다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 832,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "최애 공연 공지가 떴는데 하고 싶은 말이 있지만.... 참는다..."
+	},
+	{
 		"created_at": "Fri Nov 29 03:38:44 +0000 2019",
 		"id": 1200252266210451500,
 		"id_str": "1200257762120359936",
