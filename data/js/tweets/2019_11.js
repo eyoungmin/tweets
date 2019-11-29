@@ -1,6 +1,822 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 12:56:37 +0000 2019",
+		"id": 1200026387991523300,
+		"id_str": "1200398154979348487",
+		"full_text": "페이스북, '한남충' 삭제하고 '김치녀' 허용한 이유\n\n\"김치녀는 특정 행동을 하는 여성을 지칭한다면 한남충은 한국 국적의 남성 전체를 지칭하는 말이기 때문\"\nhttps://t.co/u77TX13Hem",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u77TX13Hem",
+					"expanded_url": "https://www.ytn.co.kr/_ln/0103_201911281720070608",
+					"display_url": "ytn.co.kr/_ln/0103_20191…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835741294798368800,
+			"id_str": "835741294798368769",
+			"name": "입헌민주당원 나보코프",
+			"screen_name": "jongwon1917",
+			"location": "Петроград",
+			"description": "Умение и труд на благо Родине",
+			"url": "https://t.co/ibqjGURuYe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ibqjGURuYe",
+							"expanded_url": "https://cdp-japan.jp/",
+							"display_url": "cdp-japan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3120,
+			"friends_count": 1257,
+			"listed_count": 38,
+			"created_at": "Sun Feb 26 06:40:26 +0000 2017",
+			"favourites_count": 71157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835741294798368769/1525438850",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4916,
+		"favorite_count": 467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북, '한남충' 삭제하고 '김치녀' 허용한 이유\n\n\"김치녀는 특정 행동을 하는 여성을 지칭한다면 한남충은 한국 국적의 남성 전체를 지칭하는 말이기 때문\"\nhttps://t.co/u77TX13Hem"
+	},
+	{
+		"created_at": "Fri Nov 29 12:54:44 +0000 2019",
+		"id": 1199164493491773400,
+		"id_str": "1200397684533645313",
+		"full_text": "【まだ間に合います】\nK-POPが気になっているけど何から聴けばわからない。K-POP専門マガジン「idology(@idologykr )」のライター4人が「2019年に注目すべきK-POPアーティスト」を2組づつ選定。2019年聴くべきアーティストはこちらから。 | @herenowjp\n\n▼\nhttps://t.co/2njBChxJG2 https://t.co/KYrZy4MM8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "idologykr",
+					"name": "아이돌로지",
+					"id": 2370674196,
+					"id_str": "2370674196",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "herenowjp",
+					"name": "HereNow JP",
+					"id": 3242867875,
+					"id_str": "3242867875",
+					"indices": [
+						136,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2njBChxJG2",
+					"expanded_url": "https://www.herenow.city/seoul/article/k-pop2019/",
+					"display_url": "herenow.city/seoul/article/…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199164490924736500,
+					"id_str": "1199164490924736512",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EKRJwETUwAAed6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKRJwETUwAAed6b.jpg",
+					"url": "https://t.co/KYrZy4MM8x",
+					"display_url": "pic.twitter.com/KYrZy4MM8x",
+					"expanded_url": "https://twitter.com/herenowjp/status/1199164493491773441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 4,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 4,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 457,
+									"y": 2,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 4,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199164490924736500,
+					"id_str": "1199164490924736512",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EKRJwETUwAAed6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKRJwETUwAAed6b.jpg",
+					"url": "https://t.co/KYrZy4MM8x",
+					"display_url": "pic.twitter.com/KYrZy4MM8x",
+					"expanded_url": "https://twitter.com/herenowjp/status/1199164493491773441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 4,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 4,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 457,
+									"y": 2,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 4,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://social-dog.net/\" rel=\"nofollow\">SocialDog for Twitter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3242867875,
+			"id_str": "3242867875",
+			"name": "HereNow JP",
+			"screen_name": "herenowjp",
+			"location": "",
+			"description": "HereNow（ヒアナウ）は「アジアカルチャー」を中心に、各都市の「今」を紹介するシティガイド。あなたの知らない都市の魅力を、現地のキュレーターと編集部が紹介します。🇯🇵🇹🇼🇰🇷🇭🇰🇹🇭🇸🇬",
+			"url": "http://t.co/4AsSJYH5Ar",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4AsSJYH5Ar",
+							"expanded_url": "http://www.herenow.city/",
+							"display_url": "herenow.city",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4266,
+			"friends_count": 610,
+			"listed_count": 80,
+			"created_at": "Fri Jun 12 02:17:19 +0000 2015",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196256600190668800/Eir6hDJQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196256600190668800/Eir6hDJQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3242867875/1574044824",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【まだ間に合います】\nK-POPが気になっているけど何から聴けばわからない。K-POP専門マガジン「idology(@idologykr )」のライター4人が「2019年に注目すべきK-POPアーティスト」を2組づつ選定。2019年聴くべきアーティストはこちらから。 | @herenowjp\n\n▼\nhttps://t.co/2njBChxJG2 https://t.co/KYrZy4MM8x"
+	},
+	{
+		"created_at": "Fri Nov 29 12:53:04 +0000 2019",
+		"id": 1200396466440691700,
+		"id_str": "1200397263274557442",
+		"full_text": "K-POP 전문 매거진 라이터 4 명이 추천하는 2019 년 꼭 들어야 할 아티스트 소개 | HereNow Seoul\n\n아이돌로지 에디터 4명이 추천한 케이팝 아티스트 아티클이 공개되었습니다! https://t.co/YBgUCjQ7wX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YBgUCjQ7wX",
+					"expanded_url": "https://www.herenow.city/ko/seoul/article/k-pop2019/",
+					"display_url": "herenow.city/ko/seoul/artic…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714336278079086600,
+			"id_str": "714336278079086592",
+			"name": "심댱😷",
+			"screen_name": "simdyang",
+			"location": "",
+			"description": "느낌을 믿읍시다 / 내가 바로 Idology 필진이다!!!!! https://t.co/iNzLTVDeRH",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iNzLTVDeRH",
+							"expanded_url": "http://idology.kr",
+							"display_url": "idology.kr",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 407,
+			"listed_count": 3,
+			"created_at": "Mon Mar 28 06:20:15 +0000 2016",
+			"favourites_count": 6254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109310757080985605/bGCNDcUb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109310757080985605/bGCNDcUb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714336278079086592/1549632122",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "K-POP 전문 매거진 라이터 4 명이 추천하는 2019 년 꼭 들어야 할 아티스트 소개 | HereNow Seoul\n\n아이돌로지 에디터 4명이 추천한 케이팝 아티스트 아티클이 공개되었습니다! https://t.co/YBgUCjQ7wX"
+	},
+	{
+		"created_at": "Fri Nov 29 12:34:24 +0000 2019",
+		"id": 1200338669644566500,
+		"id_str": "1200392566245453827",
+		"full_text": "겉으론 강해 보이지만... 내 동년배들은 다 상처 잘 받는다ㅠ\n사연자에 심하게 과몰입한 김이나, 딘딘, 데이브레이크 이원석, 정세운의 격정(?)힐링 에피, 고막메이트 7회!\nhttps://t.co/qHD22FxFND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qHD22FxFND",
+					"expanded_url": "https://youtu.be/BG_Fmpj2mrs",
+					"display_url": "youtu.be/BG_Fmpj2mrs",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1175330838721876000,
+			"id_str": "1175330838721875968",
+			"name": "고막메이트",
+			"screen_name": "gomakmate",
+			"location": "",
+			"description": "“너의 이야기, 우리가 들려줄게” #고막메이트 #김이나 #딘딘 #이원석 #정세운 막둥이들의 관심과 팔로우를 구걸합니다💙 https://t.co/rqKlpGc0uo",
+			"url": "https://t.co/uthn6kjKvj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uthn6kjKvj",
+							"expanded_url": "http://www.sbs.co.kr",
+							"display_url": "sbs.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rqKlpGc0uo",
+							"expanded_url": "https://www.youtube.com/channel/UC-BqPABOl7c7rR5EoJJZ0UA",
+							"display_url": "youtube.com/channel/UC-BqP…",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 697,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Sat Sep 21 08:49:30 +0000 2019",
+			"favourites_count": 288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175331273176281088/6If36MiT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175331273176281088/6If36MiT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1175330838721875968/1569065842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "겉으론 강해 보이지만... 내 동년배들은 다 상처 잘 받는다ㅠ\n사연자에 심하게 과몰입한 김이나, 딘딘, 데이브레이크 이원석, 정세운의 격정(?)힐링 에피, 고막메이트 7회!\nhttps://t.co/qHD22FxFND"
+	},
+	{
+		"created_at": "Fri Nov 29 12:32:49 +0000 2019",
+		"id": 1200392168961036300,
+		"id_str": "1200392168961036288",
+		"full_text": "&lt;TITLE&gt;\n'TEXT'\n\"TEXT\"\n\\TEXT\n\n표시를 SNS에 쓰고 싶거든 특수문자를 써주세요.\n타 플랫폼에서 가져올 때 컴퓨터 언어로 인식되어 사라질 수 있습니다. ㄴ한자 누르면 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 835,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "&lt;TITLE&gt;\n'TEXT'\n\"TEXT\"\n\\TEXT\n\n표시를 SNS에 쓰고 싶거든 특수문자를 써주세요.\n타 플랫폼에서 가져올 때 컴퓨터 언어로 인식되어 사라질 수 있습니다. ㄴ한자 누르면 있습니다."
+	},
+	{
+		"created_at": "Fri Nov 29 12:17:51 +0000 2019",
+		"id": 1200309516568383500,
+		"id_str": "1200388401251274752",
+		"full_text": "*공연의 사진 및 동영상 촬영, 녹음을 금지합니다.(적발시 강제퇴장)\n*공연장 내 생수 외 식음료 반입을 금지합니다.\n\n*공연장 내 물품보관소에서 주차할인권을 구매하셔야 할인 혜택을 받으실 수 있습니다.(현금만 가능/티켓만으로는 할인 불가)\n*가급적 대중교통을 이용해주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1200309233801027600,
+		"in_reply_to_status_id_str": "1200309233801027584",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*공연의 사진 및 동영상 촬영, 녹음을 금지합니다.(적발시 강제퇴장)\n*공연장 내 생수 외 식음료 반입을 금지합니다.\n\n*공연장 내 물품보관소에서 주차할인권을 구매하셔야 할인 혜택을 받으실 수 있습니다.(현금만 가능/티켓만으로는 할인 불가)\n*가급적 대중교통을 이용해주세요."
+	},
+	{
 		"created_at": "Fri Nov 29 11:56:28 +0000 2019",
 		"id": 1200383021389668400,
 		"id_str": "1200383021389668352",
