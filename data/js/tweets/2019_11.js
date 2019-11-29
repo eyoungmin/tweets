@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 05:14:28 +0000 2019",
+		"id": 1200271457244180500,
+		"id_str": "1200281853187350528",
+		"full_text": "만취한 여성을 집단 성폭행하고 수많은 여성의 성관계를 불법 촬영해 유포한 혐의로 재판에 넘겨진 정준영이 징역 6년 실형을 선고받았다. 함께 기소된 가수 최종훈(30)은 징역 5년이 선고됐다. 법정에서 최종훈은 소리내 통곡했다. 정준영 또한 눈물을 감추지 못했다.\nhttps://t.co/7e2SSYfaWV https://t.co/OzO6svS53q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7e2SSYfaWV",
+					"expanded_url": "http://www.womennews.co.kr/news/articleView.html?idxno=194682",
+					"display_url": "womennews.co.kr/news/articleVi…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200271434397864000,
+					"id_str": "1200271434397863936",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EKg4gqFVUAANf7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKg4gqFVUAANf7j.jpg",
+					"url": "https://t.co/OzO6svS53q",
+					"display_url": "pic.twitter.com/OzO6svS53q",
+					"expanded_url": "https://twitter.com/wnewskr/status/1200271457244180480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 147,
+									"y": 180,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 318,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 318,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 318,
+									"h": 234,
+									"w": 234
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200271434397864000,
+					"id_str": "1200271434397863936",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EKg4gqFVUAANf7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKg4gqFVUAANf7j.jpg",
+					"url": "https://t.co/OzO6svS53q",
+					"display_url": "pic.twitter.com/OzO6svS53q",
+					"expanded_url": "https://twitter.com/wnewskr/status/1200271457244180480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 147,
+									"y": 180,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 318,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 318,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 318,
+									"h": 234,
+									"w": 234
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200031,
+			"friends_count": 3602,
+			"listed_count": 366,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 594,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "만취한 여성을 집단 성폭행하고 수많은 여성의 성관계를 불법 촬영해 유포한 혐의로 재판에 넘겨진 정준영이 징역 6년 실형을 선고받았다. 함께 기소된 가수 최종훈(30)은 징역 5년이 선고됐다. 법정에서 최종훈은 소리내 통곡했다. 정준영 또한 눈물을 감추지 못했다.\nhttps://t.co/7e2SSYfaWV https://t.co/OzO6svS53q"
+	},
+	{
+		"created_at": "Fri Nov 29 05:14:21 +0000 2019",
+		"id": 1200278219632414700,
+		"id_str": "1200281821574914049",
+		"full_text": "비밀의방 3에서 여러분들께서 주신 사연으로 작곡을 하였는데요 이번 공연에서는 여러분들의 사진과 영상에 담긴 이야기가 궁금해요 🙏 info@privatecurve.com 말머리[비밀의방4] 와 함께 보내주시면 그중 한 작품으로 작곡을 하려 합니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1200277858792329200,
+		"in_reply_to_status_id_str": "1200277858792329216",
+		"in_reply_to_user_id": 2993202942,
+		"in_reply_to_user_id_str": "2993202942",
+		"in_reply_to_screen_name": "echaekang",
+		"user": {
+			"id": 2993202942,
+			"id_str": "2993202942",
+			"name": "강이채",
+			"screen_name": "echaekang",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1064,
+			"friends_count": 69,
+			"listed_count": 5,
+			"created_at": "Fri Jan 23 10:58:00 +0000 2015",
+			"favourites_count": 413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070426147383472128/3g57XJn__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070426147383472128/3g57XJn__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2993202942/1559308252",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "비밀의방 3에서 여러분들께서 주신 사연으로 작곡을 하였는데요 이번 공연에서는 여러분들의 사진과 영상에 담긴 이야기가 궁금해요 🙏 info@privatecurve.com 말머리[비밀의방4] 와 함께 보내주시면 그중 한 작품으로 작곡을 하려 합니다"
+	},
+	{
+		"created_at": "Fri Nov 29 05:14:18 +0000 2019",
+		"id": 1200277858792329200,
+		"id_str": "1200281809889574912",
+		"full_text": "&lt;강이채 소극장 콘서트 '비밀의 방 IV'&gt;\n강이채의 비밀스러운 이야기가 펼쳐지는 공간\n비밀의 방으로 여러분들을 초대합니다 📩📩\n▶공연일시: 2020. 01. 11 (토) 오후 6시\n▶공연장소: CKL스테이지\n▶티켓오픈: 2019. 12. 04 (수) 낮 12시 at 인터파크\n▶티켓가격: 전석 55,000원 (전석 지정좌석) https://t.co/8EKA8WYo9x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200277848616919000,
+					"id_str": "1200277848616919040",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EKg-WA6U4AA3o9f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKg-WA6U4AA3o9f.jpg",
+					"url": "https://t.co/8EKA8WYo9x",
+					"display_url": "pic.twitter.com/8EKA8WYo9x",
+					"expanded_url": "https://twitter.com/echaekang/status/1200277858792329216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1327,
+							"h": 1803,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 481,
+									"y": 531,
+									"h": 249,
+									"w": 249
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 723,
+									"y": 799,
+									"h": 375,
+									"w": 375
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 301,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 723,
+									"y": 799,
+									"h": 375,
+									"w": 375
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200277848616919000,
+					"id_str": "1200277848616919040",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EKg-WA6U4AA3o9f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKg-WA6U4AA3o9f.jpg",
+					"url": "https://t.co/8EKA8WYo9x",
+					"display_url": "pic.twitter.com/8EKA8WYo9x",
+					"expanded_url": "https://twitter.com/echaekang/status/1200277858792329216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 883,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1327,
+							"h": 1803,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 481,
+									"y": 531,
+									"h": 249,
+									"w": 249
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 723,
+									"y": 799,
+									"h": 375,
+									"w": 375
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 301,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 723,
+									"y": 799,
+									"h": 375,
+									"w": 375
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2993202942,
+			"id_str": "2993202942",
+			"name": "강이채",
+			"screen_name": "echaekang",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1064,
+			"friends_count": 69,
+			"listed_count": 5,
+			"created_at": "Fri Jan 23 10:58:00 +0000 2015",
+			"favourites_count": 413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070426147383472128/3g57XJn__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070426147383472128/3g57XJn__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2993202942/1559308252",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;강이채 소극장 콘서트 '비밀의 방 IV'&gt;\n강이채의 비밀스러운 이야기가 펼쳐지는 공간\n비밀의 방으로 여러분들을 초대합니다 📩📩\n▶공연일시: 2020. 01. 11 (토) 오후 6시\n▶공연장소: CKL스테이지\n▶티켓오픈: 2019. 12. 04 (수) 낮 12시 at 인터파크\n▶티켓가격: 전석 55,000원 (전석 지정좌석) https://t.co/8EKA8WYo9x"
+	},
+	{
 		"created_at": "Fri Nov 29 04:17:51 +0000 2019",
 		"id": 1200252510302171100,
 		"id_str": "1200267606311104513",
