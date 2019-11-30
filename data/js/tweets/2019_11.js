@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 18:46:08 +0000 2019",
+		"id": 1200848501283991600,
+		"id_str": "1200848501283991552",
+		"full_text": "@lovemusicbutch 그렇군요. 언제 한국오세요? 담 콘서트때는 꼭 가시길 ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lovemusicbutch",
+					"name": "여름(깃)",
+					"id": 1965267378,
+					"id_str": "1965267378",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1200848146584223700,
+		"in_reply_to_status_id_str": "1200848146584223745",
+		"in_reply_to_user_id": 1965267378,
+		"in_reply_to_user_id_str": "1965267378",
+		"in_reply_to_screen_name": "lovemusicbutch",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@lovemusicbutch 그렇군요. 언제 한국오세요? 담 콘서트때는 꼭 가시길 ㅠㅠ"
+	},
+	{
+		"created_at": "Sat Nov 30 18:43:26 +0000 2019",
+		"id": 1200847823853326300,
+		"id_str": "1200847823853326336",
+		"full_text": "@lovemusicbutch 요즘도 바쁘신가요? 저 오늘 윤아님 보러 가요 😄",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lovemusicbutch",
+					"name": "여름(깃)",
+					"id": 1965267378,
+					"id_str": "1965267378",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1200847535570587600,
+		"in_reply_to_status_id_str": "1200847535570587650",
+		"in_reply_to_user_id": 1965267378,
+		"in_reply_to_user_id_str": "1965267378",
+		"in_reply_to_screen_name": "lovemusicbutch",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@lovemusicbutch 요즘도 바쁘신가요? 저 오늘 윤아님 보러 가요 😄"
+	},
+	{
+		"created_at": "Sat Nov 30 18:34:03 +0000 2019",
+		"id": 1200845463517159400,
+		"id_str": "1200845463517159424",
+		"full_text": "IMAP 대신 POP3을 써야 하는 2가지 이유 - ITWorld Korea\nhttps://t.co/sgPkHeeipK\n#Email #이메일 #IMAP #POP3 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Email",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "이메일",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "IMAP",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "POP3",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sgPkHeeipK",
+					"expanded_url": "http://www.itworld.co.kr/news/90201",
+					"display_url": "itworld.co.kr/news/90201",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IMAP 대신 POP3을 써야 하는 2가지 이유 - ITWorld Korea\nhttps://t.co/sgPkHeeipK\n#Email #이메일 #IMAP #POP3 #minfav"
+	},
+	{
+		"created_at": "Sat Nov 30 18:28:27 +0000 2019",
+		"id": 1200844054214238200,
+		"id_str": "1200844054214238209",
+		"full_text": "@lovemusicbutch 뭔가 이상하네요 공앱에서 DM 보내면 자꾸 누락되는 것 같아요. 오늘 자우림 보러 가셨어여?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lovemusicbutch",
+					"name": "여름(깃)",
+					"id": 1965267378,
+					"id_str": "1965267378",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1200843097061638100,
+		"in_reply_to_status_id_str": "1200843097061638156",
+		"in_reply_to_user_id": 1965267378,
+		"in_reply_to_user_id_str": "1965267378",
+		"in_reply_to_screen_name": "lovemusicbutch",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@lovemusicbutch 뭔가 이상하네요 공앱에서 DM 보내면 자꾸 누락되는 것 같아요. 오늘 자우림 보러 가셨어여?"
+	},
+	{
+		"created_at": "Sat Nov 30 18:09:43 +0000 2019",
+		"id": 1196550589938688000,
+		"id_str": "1200839340454117376",
+		"full_text": "The @IFTTT ISIS spam bots are still tweeting. https://t.co/R6t7kpCjTb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IFTTT",
+					"name": "IFTTT",
+					"id": 75079616,
+					"id_str": "75079616",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R6t7kpCjTb",
+					"expanded_url": "https://twitter.com/marcowenjones/status/1196546432083382272",
+					"display_url": "twitter.com/marcowenjones/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50512313,
+			"id_str": "50512313",
+			"name": "Erin Gallagher",
+			"screen_name": "3r1nG",
+			"location": "USA",
+			"description": "multimedia artist • social media researcher • spanish translator",
+			"url": "https://t.co/WqH1gAq7QQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WqH1gAq7QQ",
+							"expanded_url": "https://medium.com/@erin_gallagher?source=linkShare-87f9a06ef9c-1501516172",
+							"display_url": "medium.com/@erin_gallaghe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6773,
+			"friends_count": 6060,
+			"listed_count": 197,
+			"created_at": "Thu Jun 25 01:42:54 +0000 2009",
+			"favourites_count": 13395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117620008983699458/DMDjKKBo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117620008983699458/DMDjKKBo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50512313/1555038850",
+			"profile_link_color": "28A9E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "140E0A",
+			"profile_text_color": "4F3F38",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196546432083382300,
+		"quoted_status_id_str": "1196546432083382272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R6t7kpCjTb",
+			"expanded": "https://twitter.com/marcowenjones/status/1196546432083382272",
+			"display": "twitter.com/marcowenjones/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 18 21:51:14 +0000 2019",
+			"id": 1196546432083382300,
+			"id_str": "1196546432083382272",
+			"full_text": "2/ Around 850 of the tweets on this hashtag were produced within an hour by 24 different accounts. The most prolific produced around 131 tweets in that hour. They all use the app @IFTTT and all just post grisly propaganda videos with a tweet full of hashtags https://t.co/oXNuxoHaXM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IFTTT",
+						"name": "IFTTT",
+						"id": 75079616,
+						"id_str": "75079616",
+						"indices": [
+							179,
+							185
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1196546427536728000,
+						"id_str": "1196546427536728065",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/EJr8ouKW4AE-RKU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJr8ouKW4AE-RKU.jpg",
+						"url": "https://t.co/oXNuxoHaXM",
+						"display_url": "pic.twitter.com/oXNuxoHaXM",
+						"expanded_url": "https://twitter.com/marcowenjones/status/1196546432083382272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1656,
+								"h": 1656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 371,
+										"y": 226,
+										"h": 171,
+										"w": 171
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 371,
+										"y": 226,
+										"h": 171,
+										"w": 171
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 268,
+										"y": 163,
+										"h": 123,
+										"w": 123
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 92,
+										"h": 70,
+										"w": 70
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1196546427536728000,
+						"id_str": "1196546427536728065",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/EJr8ouKW4AE-RKU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJr8ouKW4AE-RKU.jpg",
+						"url": "https://t.co/oXNuxoHaXM",
+						"display_url": "pic.twitter.com/oXNuxoHaXM",
+						"expanded_url": "https://twitter.com/marcowenjones/status/1196546432083382272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1656,
+								"h": 1656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 371,
+										"y": 226,
+										"h": 171,
+										"w": 171
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 371,
+										"y": 226,
+										"h": 171,
+										"w": 171
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 268,
+										"y": 163,
+										"h": 123,
+										"w": 123
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 92,
+										"h": 70,
+										"w": 70
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1196545149762986000,
+			"in_reply_to_status_id_str": "1196545149762985984",
+			"in_reply_to_user_id": 21088417,
+			"in_reply_to_user_id_str": "21088417",
+			"in_reply_to_screen_name": "marcowenjones",
+			"user": {
+				"id": 21088417,
+				"id_str": "21088417",
+				"name": "Marc Owen Jones",
+				"screen_name": "marcowenjones",
+				"location": "Doha, Qatar",
+				"description": "Ast Prof Mid East Studies @HBKU | Digital Humanities | PhD @durham_uni | Fellow @ExeterIAIS | Political Repression | Information Controls | PGP https://t.co/cRirFXh0Sg",
+				"url": "https://t.co/6iYKjFuwkL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6iYKjFuwkL",
+								"expanded_url": "http://www.marcowenjones.co.uk/",
+								"display_url": "marcowenjones.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cRirFXh0Sg",
+								"expanded_url": "http://goo.gl/HTSEQV",
+								"display_url": "goo.gl/HTSEQV",
+								"indices": [
+									144,
+									167
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22362,
+				"friends_count": 3059,
+				"listed_count": 360,
+				"created_at": "Tue Feb 17 13:32:24 +0000 2009",
+				"favourites_count": 11903,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44232,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "21551C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950849987159699458/3c8SB13x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950849987159699458/3c8SB13x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21088417/1515536808",
+				"profile_link_color": "2F812F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0EBB2",
+				"profile_text_color": "33832C",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @IFTTT ISIS spam bots are still tweeting. https://t.co/R6t7kpCjTb"
+	},
+	{
 		"created_at": "Sat Nov 30 17:58:17 +0000 2019",
 		"id": 1200836459789308000,
 		"id_str": "1200836459789307904",
