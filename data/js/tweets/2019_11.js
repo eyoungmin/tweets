@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 07:19:47 +0000 2019",
+		"id": 1200589868646027300,
+		"id_str": "1200675778137972737",
+		"full_text": "90년 출생아 성비를 봤더니, \n여아 100명이 태어날 때 남아 194명이 태어났습니다. https://t.co/OIrwUArawe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OIrwUArawe",
+					"expanded_url": "https://mnews.joins.com/article/23645495",
+					"display_url": "mnews.joins.com/article/236454…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.joongang.co.kr\" rel=\"nofollow\">joongangilbo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213591116,
+			"id_str": "213591116",
+			"name": "중앙일보",
+			"screen_name": "joongangilbo",
+			"location": "Seoul",
+			"description": "JoongAng Group is Korea's only comprehensive content group. / Facebook: https://t.co/1TuEOM6mwy",
+			"url": "http://t.co/tglh3q22E5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tglh3q22E5",
+							"expanded_url": "http://www.joongang.co.kr",
+							"display_url": "joongang.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1TuEOM6mwy",
+							"expanded_url": "https://www.facebook.com/joongang",
+							"display_url": "facebook.com/joongang",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 292910,
+			"friends_count": 44182,
+			"listed_count": 1670,
+			"created_at": "Tue Nov 09 09:18:31 +0000 2010",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FA9A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213591116/1553672899",
+			"profile_link_color": "88847F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3140,
+		"favorite_count": 444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "90년 출생아 성비를 봤더니, \n여아 100명이 태어날 때 남아 194명이 태어났습니다. https://t.co/OIrwUArawe"
+	},
+	{
+		"created_at": "Sat Nov 30 07:19:06 +0000 2019",
+		"id": 1200411702375792600,
+		"id_str": "1200675605525626881",
+		"full_text": "서울 곳곳에서 한국 여성을 불법 촬영해 인터넷에 유포한 외국인 남성이 1년 3개월 만에 인터폴에 체포됐습니다. #KBS뉴스 #KBS https://t.co/Gma6JeFE6j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS뉴스",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gma6JeFE6j",
+					"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=4334109",
+					"display_url": "news.kbs.co.kr/news/view.do?n…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 410880,
+			"friends_count": 111149,
+			"listed_count": 4883,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1574642003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1192,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울 곳곳에서 한국 여성을 불법 촬영해 인터넷에 유포한 외국인 남성이 1년 3개월 만에 인터폴에 체포됐습니다. #KBS뉴스 #KBS https://t.co/Gma6JeFE6j"
+	},
+	{
+		"created_at": "Sat Nov 30 07:18:20 +0000 2019",
+		"id": 1200275493846519800,
+		"id_str": "1200675412973502464",
+		"full_text": "짝짝짝!!! 드디어 서울시 생리대 보편지급 조례가 통과되엇습니다!!!!\n이제 서울시의 모든 청소년들은 생리대를 무료로 지급받을 수 있습니다 ^_^/ 서울시 여성청소년 생리대 보편지급 운동본부에서 열심히 활동한 보람이 있네요!! 모두 소리질러요~~~!!! https://t.co/XYPDfU2E3k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200275478663188500,
+					"id_str": "1200275478663188480",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EKg8MEJU0AAPTL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKg8MEJU0AAPTL3.jpg",
+					"url": "https://t.co/XYPDfU2E3k",
+					"display_url": "pic.twitter.com/XYPDfU2E3k",
+					"expanded_url": "https://twitter.com/eco_kwen/status/1200275493846519808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1417,
+							"h": 1417,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200275478663188500,
+					"id_str": "1200275478663188480",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EKg8MEJU0AAPTL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKg8MEJU0AAPTL3.jpg",
+					"url": "https://t.co/XYPDfU2E3k",
+					"display_url": "pic.twitter.com/XYPDfU2E3k",
+					"expanded_url": "https://twitter.com/eco_kwen/status/1200275493846519808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1417,
+							"h": 1417,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112889444,
+			"id_str": "112889444",
+			"name": "여성환경연대(KWEN)",
+			"screen_name": "eco_kwen",
+			"location": "서울시 영등포구 국회대로 55길6 201호",
+			"description": "실천하는 에코페미니스트들의 플랫폼. \n\n디엠 확인이 늦어지는 경우가 있으니 급한 문의는 멘션 혹은 여성환경연대(02-722-7944)로 전화 부탁드립니다.\n\n후원 : KEB하나 630-004757-375 사단법인여성환경연대",
+			"url": "https://t.co/V5uh5JRCOX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V5uh5JRCOX",
+							"expanded_url": "http://ecofem.or.kr",
+							"display_url": "ecofem.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9282,
+			"friends_count": 210,
+			"listed_count": 233,
+			"created_at": "Wed Feb 10 01:26:51 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970485049941377025/G5_PLQb-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970485049941377025/G5_PLQb-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112889444/1559539997",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2704,
+		"favorite_count": 883,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "짝짝짝!!! 드디어 서울시 생리대 보편지급 조례가 통과되엇습니다!!!!\n이제 서울시의 모든 청소년들은 생리대를 무료로 지급받을 수 있습니다 ^_^/ 서울시 여성청소년 생리대 보편지급 운동본부에서 열심히 활동한 보람이 있네요!! 모두 소리질러요~~~!!! https://t.co/XYPDfU2E3k"
+	},
+	{
 		"created_at": "Sat Nov 30 03:58:10 +0000 2019",
 		"id": 1200614494340206600,
 		"id_str": "1200625037042208768",
