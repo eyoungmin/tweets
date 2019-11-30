@@ -1,6 +1,1981 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 17:01:40 +0000 2019",
+		"id": 1200822214628503600,
+		"id_str": "1200822214628503552",
+		"full_text": "Enpass 데스크톱 버전 유료로 산 지 얼마 안되었는데 무료화 되어서 뭔가 기분이 별로지만 뭐 이제 무료니까. 좋은 서비스가 무료니까... 용서된다😀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Enpass 데스크톱 버전 유료로 산 지 얼마 안되었는데 무료화 되어서 뭔가 기분이 별로지만 뭐 이제 무료니까. 좋은 서비스가 무료니까... 용서된다😀"
+	},
+	{
+		"created_at": "Sat Nov 30 16:59:39 +0000 2019",
+		"id": 1200821706564096000,
+		"id_str": "1200821706564096000",
+		"full_text": "마소에서 만든 사용자 휴대폰 어플리케이션이 있다. 문자랑 앱알림만 보려면 이것도 나쁘지 않다. 무료고 윈도우랑 동기화 시켜줌. 단점 불안정함.  https://t.co/qHsCeazhyD\n#SMS #동기화 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMS",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "동기화",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qHsCeazhyD",
+					"expanded_url": "https://play.google.com/store/apps/details?id=com.microsoft.appmanager&hl=ko",
+					"display_url": "play.google.com/store/apps/det…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1200820024367145000,
+		"in_reply_to_status_id_str": "1200820024367144960",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마소에서 만든 사용자 휴대폰 어플리케이션이 있다. 문자랑 앱알림만 보려면 이것도 나쁘지 않다. 무료고 윈도우랑 동기화 시켜줌. 단점 불안정함.  https://t.co/qHsCeazhyD\n#SMS #동기화 #minfav"
+	},
+	{
+		"created_at": "Sat Nov 30 16:52:58 +0000 2019",
+		"id": 1200820024367145000,
+		"id_str": "1200820024367144960",
+		"full_text": "Pulse 가 압도적으로 SMS동기화앱이라 생각한다. 무료인 Pushbullet 있지만 기능면에서는 못따라감.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Pulse 가 압도적으로 SMS동기화앱이라 생각한다. 무료인 Pushbullet 있지만 기능면에서는 못따라감."
+	},
+	{
+		"created_at": "Sat Nov 30 16:47:07 +0000 2019",
+		"id": 1200818553135362000,
+		"id_str": "1200818553135362049",
+		"full_text": "펄스 웹앱 언제 살아났데....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "펄스 웹앱 언제 살아났데...."
+	},
+	{
+		"created_at": "Sat Nov 30 16:46:54 +0000 2019",
+		"id": 1017829615518339100,
+		"id_str": "1200818497879605249",
+		"full_text": "Excited to announce that I have been re-writing the Pulse SMS web app! Today, it is being released for anyone to start testing and using. It is also open source :)\n\nDetails: https://t.co/Y2OQqKSXE9\nTry it: https://t.co/daNiRzUigX\nSource: https://t.co/rfz096JkEu https://t.co/26nhLFpCYr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y2OQqKSXE9",
+					"expanded_url": "https://blog.klinkerapps.com/upgrading-pulses-web-app/",
+					"display_url": "blog.klinkerapps.com/upgrading-puls…",
+					"indices": [
+						174,
+						197
+					]
+				},
+				{
+					"url": "https://t.co/daNiRzUigX",
+					"expanded_url": "https://pulsesms.app",
+					"display_url": "pulsesms.app",
+					"indices": [
+						206,
+						229
+					]
+				},
+				{
+					"url": "https://t.co/rfz096JkEu",
+					"expanded_url": "https://github.com/klinker-apps/messenger-web",
+					"display_url": "github.com/klinker-apps/m…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1017828883532374000,
+					"id_str": "1017828883532374017",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/DiAN-hUUYAEVrUt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiAN-hUUYAEVrUt.jpg",
+					"url": "https://t.co/26nhLFpCYr",
+					"display_url": "pic.twitter.com/26nhLFpCYr",
+					"expanded_url": "https://twitter.com/lukeklinker/status/1017829615518339072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2014,
+							"h": 1692,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1008,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1017828883532374000,
+					"id_str": "1017828883532374017",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/DiAN-hUUYAEVrUt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiAN-hUUYAEVrUt.jpg",
+					"url": "https://t.co/26nhLFpCYr",
+					"display_url": "pic.twitter.com/26nhLFpCYr",
+					"expanded_url": "https://twitter.com/lukeklinker/status/1017829615518339072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2014,
+							"h": 1692,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1008,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1017828906424889300,
+					"id_str": "1017828906424889344",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/DiAN_2mUcAAX4Rl.png",
+					"media_url_https": "https://pbs.twimg.com/media/DiAN_2mUcAAX4Rl.png",
+					"url": "https://t.co/26nhLFpCYr",
+					"display_url": "pic.twitter.com/26nhLFpCYr",
+					"expanded_url": "https://twitter.com/lukeklinker/status/1017829615518339072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1962,
+							"h": 999,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 604990177,
+			"id_str": "604990177",
+			"name": "Luke Klinker",
+			"screen_name": "lukeklinker",
+			"location": "Iowa",
+			"description": "I make your favorite Android apps @KlinkerApps and run @SpartanRace.",
+			"url": "https://t.co/rutZ8E3t4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rutZ8E3t4F",
+							"expanded_url": "http://lucas.klinker.xyz",
+							"display_url": "lucas.klinker.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13082,
+			"friends_count": 86,
+			"listed_count": 127,
+			"created_at": "Mon Jun 11 01:06:42 +0000 2012",
+			"favourites_count": 1195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182306902245625856/FGMF7EV1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182306902245625856/FGMF7EV1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/604990177/1570724030",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to announce that I have been re-writing the Pulse SMS web app! Today, it is being released for anyone to start testing and using. It is also open source :)\n\nDetails: https://t.co/Y2OQqKSXE9\nTry it: https://t.co/daNiRzUigX\nSource: https://t.co/rfz096JkEu https://t.co/26nhLFpCYr"
+	},
+	{
+		"created_at": "Sat Nov 30 16:37:33 +0000 2019",
+		"id": 1200327666202755000,
+		"id_str": "1200816142421413888",
+		"full_text": "🥳 Fenix is on sale for Black Friday!\n\nGet it from the App and Play Store 👇 and spread the word!\n\nhttps://t.co/5zeSxjnket\n\nhttps://t.co/IL6V7sOnFZ https://t.co/LsruVGK5J6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5zeSxjnket",
+					"expanded_url": "https://play.google.com/store/apps/details?id=it.mvilla.android.fenix2&hl=en",
+					"display_url": "play.google.com/store/apps/det…",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/IL6V7sOnFZ",
+					"expanded_url": "https://apps.apple.com/us/app/fenix-for-twitter/id1437821840",
+					"display_url": "apps.apple.com/us/app/fenix-f…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200327654265806800,
+					"id_str": "1200327654265806853",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKhrpFaXYAUU2j2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKhrpFaXYAUU2j2.jpg",
+					"url": "https://t.co/LsruVGK5J6",
+					"display_url": "pic.twitter.com/LsruVGK5J6",
+					"expanded_url": "https://twitter.com/fenix_app/status/1200327666202755072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 314,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200327654265806800,
+					"id_str": "1200327654265806853",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKhrpFaXYAUU2j2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKhrpFaXYAUU2j2.jpg",
+					"url": "https://t.co/LsruVGK5J6",
+					"display_url": "pic.twitter.com/LsruVGK5J6",
+					"expanded_url": "https://twitter.com/fenix_app/status/1200327666202755072/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 314,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							210,
+							157
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EKhrpFaXYAUU2j2.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2326966093,
+			"id_str": "2326966093",
+			"name": "Fenix",
+			"screen_name": "fenix_app",
+			"location": "",
+			"description": "I'm a new Twitter client for Android, iPhone and iPad. \nBrought to you by @mttvll",
+			"url": "http://t.co/TYfFPtNPIn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TYfFPtNPIn",
+							"expanded_url": "http://mvilla.it/fenix",
+							"display_url": "mvilla.it/fenix",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25791,
+			"friends_count": 7,
+			"listed_count": 311,
+			"created_at": "Tue Feb 04 11:31:28 +0000 2014",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2326966093/1391514163",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🥳 Fenix is on sale for Black Friday!\n\nGet it from the App and Play Store 👇 and spread the word!\n\nhttps://t.co/5zeSxjnket\n\nhttps://t.co/IL6V7sOnFZ https://t.co/LsruVGK5J6"
+	},
+	{
+		"created_at": "Sat Nov 30 16:37:26 +0000 2019",
+		"id": 1200816113665183700,
+		"id_str": "1200816113665183746",
+		"full_text": "제가 쓰는 트위터 써드파티 앱입니다. 리스트 기능도 좋고 멀티 계정도 좋아요. 유료지만 블랙프라이데이 세일하니 지금이 기회입니다. https://t.co/x72qnws2kU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x72qnws2kU",
+					"expanded_url": "https://twitter.com/fenix_app/status/1200327666202755072",
+					"display_url": "twitter.com/fenix_app/stat…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200327666202755000,
+		"quoted_status_id_str": "1200327666202755072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x72qnws2kU",
+			"expanded": "https://twitter.com/fenix_app/status/1200327666202755072",
+			"display": "twitter.com/fenix_app/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 29 08:16:31 +0000 2019",
+			"id": 1200327666202755000,
+			"id_str": "1200327666202755072",
+			"full_text": "🥳 Fenix is on sale for Black Friday!\n\nGet it from the App and Play Store 👇 and spread the word!\n\nhttps://t.co/5zeSxjnket\n\nhttps://t.co/IL6V7sOnFZ https://t.co/LsruVGK5J6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5zeSxjnket",
+						"expanded_url": "https://play.google.com/store/apps/details?id=it.mvilla.android.fenix2&hl=en",
+						"display_url": "play.google.com/store/apps/det…",
+						"indices": [
+							97,
+							120
+						]
+					},
+					{
+						"url": "https://t.co/IL6V7sOnFZ",
+						"expanded_url": "https://apps.apple.com/us/app/fenix-for-twitter/id1437821840",
+						"display_url": "apps.apple.com/us/app/fenix-f…",
+						"indices": [
+							122,
+							145
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1200327654265806800,
+						"id_str": "1200327654265806853",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKhrpFaXYAUU2j2.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKhrpFaXYAUU2j2.jpg",
+						"url": "https://t.co/LsruVGK5J6",
+						"display_url": "pic.twitter.com/LsruVGK5J6",
+						"expanded_url": "https://twitter.com/fenix_app/status/1200327666202755072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 420,
+								"h": 314,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 314,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 314,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1200327654265806800,
+						"id_str": "1200327654265806853",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKhrpFaXYAUU2j2.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKhrpFaXYAUU2j2.jpg",
+						"url": "https://t.co/LsruVGK5J6",
+						"display_url": "pic.twitter.com/LsruVGK5J6",
+						"expanded_url": "https://twitter.com/fenix_app/status/1200327666202755072/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 420,
+								"h": 314,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 314,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 314,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								210,
+								157
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EKhrpFaXYAUU2j2.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2326966093,
+				"id_str": "2326966093",
+				"name": "Fenix",
+				"screen_name": "fenix_app",
+				"location": "",
+				"description": "I'm a new Twitter client for Android, iPhone and iPad. \nBrought to you by @mttvll",
+				"url": "http://t.co/TYfFPtNPIn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TYfFPtNPIn",
+								"expanded_url": "http://mvilla.it/fenix",
+								"display_url": "mvilla.it/fenix",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25791,
+				"friends_count": 7,
+				"listed_count": 311,
+				"created_at": "Tue Feb 04 11:31:28 +0000 2014",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2576,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2326966093/1391514163",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제가 쓰는 트위터 써드파티 앱입니다. 리스트 기능도 좋고 멀티 계정도 좋아요. 유료지만 블랙프라이데이 세일하니 지금이 기회입니다. https://t.co/x72qnws2kU"
+	},
+	{
+		"created_at": "Sat Nov 30 16:35:57 +0000 2019",
+		"id": 1200815740074348500,
+		"id_str": "1200815740074348544",
+		"full_text": "베스트 발라드상 태연 👏👏👏\nhttps://t.co/Pxogtpafqg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pxogtpafqg",
+					"expanded_url": "https://twitter.com/1theK/status/1200792856560119808",
+					"display_url": "twitter.com/1theK/status/1…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200792856560119800,
+		"quoted_status_id_str": "1200792856560119808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pxogtpafqg",
+			"expanded": "https://twitter.com/1theK/status/1200792856560119808",
+			"display": "twitter.com/1theK/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 30 15:05:01 +0000 2019",
+			"id": 1200792856560119800,
+			"id_str": "1200792856560119808",
+			"full_text": "MMA 2019 Winners! 2019 멜론뮤직어워드 수상 결과!\n수상한 아티스트들 모두 축하드려요👏\n\nThanks for watching &amp; Congratulations for all the artists! #MMA2019 https://t.co/xSfm4cwXrr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MMA2019",
+						"indices": [
+							122,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1200792836255314000,
+						"id_str": "1200792836255313922",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/EKoSuPXU8AIeSiV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKoSuPXU8AIeSiV.jpg",
+						"url": "https://t.co/xSfm4cwXrr",
+						"display_url": "pic.twitter.com/xSfm4cwXrr",
+						"expanded_url": "https://twitter.com/1theK/status/1200792856560119808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1398,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 464,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 819,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1200792836255314000,
+						"id_str": "1200792836255313922",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/EKoSuPXU8AIeSiV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKoSuPXU8AIeSiV.jpg",
+						"url": "https://t.co/xSfm4cwXrr",
+						"display_url": "pic.twitter.com/xSfm4cwXrr",
+						"expanded_url": "https://twitter.com/1theK/status/1200792856560119808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1398,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 464,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 819,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1200792836330770400,
+						"id_str": "1200792836330770439",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/EKoSuPpUUAckToS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKoSuPpUUAckToS.jpg",
+						"url": "https://t.co/xSfm4cwXrr",
+						"display_url": "pic.twitter.com/xSfm4cwXrr",
+						"expanded_url": "https://twitter.com/1theK/status/1200792856560119808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1392,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 816,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1200792836758618000,
+						"id_str": "1200792836758618112",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/EKoSuRPUwAAYWp9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKoSuRPUwAAYWp9.jpg",
+						"url": "https://t.co/xSfm4cwXrr",
+						"display_url": "pic.twitter.com/xSfm4cwXrr",
+						"expanded_url": "https://twitter.com/1theK/status/1200792856560119808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1392,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 816,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 568871711,
+				"id_str": "568871711",
+				"name": "1theK(원더케이)",
+				"screen_name": "1theK",
+				"location": "Korea",
+				"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+				"url": "https://t.co/98CRTk0YXk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/98CRTk0YXk",
+								"expanded_url": "http://www.youtube.com/1thek",
+								"display_url": "youtube.com/1thek",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1784236,
+				"friends_count": 808,
+				"listed_count": 2744,
+				"created_at": "Wed May 02 07:04:27 +0000 2012",
+				"favourites_count": 15290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20898,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4914,
+			"favorite_count": 8867,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "베스트 발라드상 태연 👏👏👏\nhttps://t.co/Pxogtpafqg"
+	},
+	{
+		"created_at": "Sat Nov 30 16:33:07 +0000 2019",
+		"id": 1200792856560119800,
+		"id_str": "1200815027428528128",
+		"full_text": "MMA 2019 Winners! 2019 멜론뮤직어워드 수상 결과!\n수상한 아티스트들 모두 축하드려요👏\n\nThanks for watching &amp; Congratulations for all the artists! #MMA2019 https://t.co/xSfm4cwXrr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MMA2019",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200792836255314000,
+					"id_str": "1200792836255313922",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EKoSuPXU8AIeSiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKoSuPXU8AIeSiV.jpg",
+					"url": "https://t.co/xSfm4cwXrr",
+					"display_url": "pic.twitter.com/xSfm4cwXrr",
+					"expanded_url": "https://twitter.com/1theK/status/1200792856560119808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1398,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200792836255314000,
+					"id_str": "1200792836255313922",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EKoSuPXU8AIeSiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKoSuPXU8AIeSiV.jpg",
+					"url": "https://t.co/xSfm4cwXrr",
+					"display_url": "pic.twitter.com/xSfm4cwXrr",
+					"expanded_url": "https://twitter.com/1theK/status/1200792856560119808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1398,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1200792836330770400,
+					"id_str": "1200792836330770439",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EKoSuPpUUAckToS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKoSuPpUUAckToS.jpg",
+					"url": "https://t.co/xSfm4cwXrr",
+					"display_url": "pic.twitter.com/xSfm4cwXrr",
+					"expanded_url": "https://twitter.com/1theK/status/1200792856560119808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1200792836758618000,
+					"id_str": "1200792836758618112",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EKoSuRPUwAAYWp9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKoSuRPUwAAYWp9.jpg",
+					"url": "https://t.co/xSfm4cwXrr",
+					"display_url": "pic.twitter.com/xSfm4cwXrr",
+					"expanded_url": "https://twitter.com/1theK/status/1200792856560119808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1784236,
+			"friends_count": 808,
+			"listed_count": 2744,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4914,
+		"favorite_count": 8867,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MMA 2019 Winners! 2019 멜론뮤직어워드 수상 결과!\n수상한 아티스트들 모두 축하드려요👏\n\nThanks for watching &amp; Congratulations for all the artists! #MMA2019 https://t.co/xSfm4cwXrr"
+	},
+	{
 		"created_at": "Sat Nov 30 14:35:35 +0000 2019",
 		"id": 1200685900595777500,
 		"id_str": "1200785450467594240",
@@ -240,7 +2215,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "역보😷🇰🇷🇹🇼🇭🇰",
 			"screen_name": "yeokbo",
 			"location": "대한민국 경기도",
-			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️🌈🦐",
 			"url": "https://t.co/RwhrPgiKMR",
 			"entities": {
 				"url": {
