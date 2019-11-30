@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 13:58:07 +0000 2019",
+		"id": 1200766392447824000,
+		"id_str": "1200776023056490497",
+		"full_text": "今夜12/1(日)からテヨンの新曲「I Do」が配信されます♪\nこれからの季節にぴったりな楽曲です！ぜひ沢山聴いてください！\n#TAEYEON #テヨン #IDo\n \n▼配信はこちら\nhttps://t.co/ErgAWA0zlo\n※12/1(日)0:00より有効 https://t.co/PC8J1L1F1R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "IDo",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ErgAWA0zlo",
+					"expanded_url": "https://umj.lnk.to/TAEYEONIDo",
+					"display_url": "umj.lnk.to/TAEYEONIDo",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200766355311489000,
+					"id_str": "1200766355311489024",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1200766355311489024/pu/img/cTlsR6Cba-4iS0Hq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1200766355311489024/pu/img/cTlsR6Cba-4iS0Hq.jpg",
+					"url": "https://t.co/PC8J1L1F1R",
+					"display_url": "pic.twitter.com/PC8J1L1F1R",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1200766392447823873/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200766355311489000,
+					"id_str": "1200766355311489024",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1200766355311489024/pu/img/cTlsR6Cba-4iS0Hq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1200766355311489024/pu/img/cTlsR6Cba-4iS0Hq.jpg",
+					"url": "https://t.co/PC8J1L1F1R",
+					"display_url": "pic.twitter.com/PC8J1L1F1R",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1200766392447823873/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 16534,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1200766355311489024/pu/vid/480x270/Tn5b6NrNqAfOS5mx.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1200766355311489024/pu/vid/720x404/6-I-CBBni70fY_Za.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1200766355311489024/pu/pl/t-0PY9Dd-KR284Ez.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "2007年8月韓国デビュー。 2009年には韓国の音楽番組KBS MUSIC BANKで9週連続1位の新記録を樹立するなど、トップガールズグループとして君臨。 また、台湾、タイ、フィリピンの各種音楽チャートでも1位を獲得、中国などでもアジアツアーを行うなどアジア全域でNO.1グループとして活躍している。",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102957,
+			"friends_count": 0,
+			"listed_count": 564,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1041,
+		"favorite_count": 1482,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今夜12/1(日)からテヨンの新曲「I Do」が配信されます♪\nこれからの季節にぴったりな楽曲です！ぜひ沢山聴いてください！\n#TAEYEON #テヨン #IDo\n \n▼配信はこちら\nhttps://t.co/ErgAWA0zlo\n※12/1(日)0:00より有効 https://t.co/PC8J1L1F1R"
+	},
+	{
 		"created_at": "Sat Nov 30 07:19:47 +0000 2019",
 		"id": 1200589868646027300,
 		"id_str": "1200675778137972737",
