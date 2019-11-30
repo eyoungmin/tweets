@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 19:38:15 +0000 2019",
+		"id": 1200402330623066000,
+		"id_str": "1200861618835378176",
+		"full_text": "In case you missed our yesterday's tweet: we offer up to 60% off new licenses, upgrades and renewals!\n\nFind more details and get the discount here: https://t.co/IpP8jJOxeP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IpP8jJOxeP",
+					"expanded_url": "https://adguard.com/en/blog/black-friday-sale-19.html",
+					"display_url": "adguard.com/en/blog/black-…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1670053932,
+			"id_str": "1670053932",
+			"name": "AdGuard",
+			"screen_name": "AdGuard",
+			"location": "",
+			"description": "Blocks ads and protects your \npersonal data on any OS/device.",
+			"url": "https://t.co/3PKHGmwuVh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3PKHGmwuVh",
+							"expanded_url": "https://adguard.com/",
+							"display_url": "adguard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10595,
+			"friends_count": 67,
+			"listed_count": 86,
+			"created_at": "Wed Aug 14 09:52:23 +0000 2013",
+			"favourites_count": 733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953645976165801989/Cs9KgdIN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953645976165801989/Cs9KgdIN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1670053932/1522420483",
+			"profile_link_color": "68BC86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you missed our yesterday's tweet: we offer up to 60% off new licenses, upgrades and renewals!\n\nFind more details and get the discount here: https://t.co/IpP8jJOxeP"
+	},
+	{
 		"created_at": "Sat Nov 30 18:46:08 +0000 2019",
 		"id": 1200848501283991600,
 		"id_str": "1200848501283991552",
