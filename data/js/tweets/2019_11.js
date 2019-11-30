@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 17:58:17 +0000 2019",
+		"id": 1200836459789308000,
+		"id_str": "1200836459789307904",
+		"full_text": "어차피 메신저라는게 카톡이나 텔레그램 같은 메신저 앱을 대신할 수 없다고 보기에 메시지랑 MMS 편리하게 이용하는 게 좋다고 생각. 청구성 문자나 배송 정보, 인증 문자 같은 것을 컴퓨터 쓰다가 폰보다가 하기 귀찮으니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1200836014698193000,
+		"in_reply_to_status_id_str": "1200836014698192896",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어차피 메신저라는게 카톡이나 텔레그램 같은 메신저 앱을 대신할 수 없다고 보기에 메시지랑 MMS 편리하게 이용하는 게 좋다고 생각. 청구성 문자나 배송 정보, 인증 문자 같은 것을 컴퓨터 쓰다가 폰보다가 하기 귀찮으니까."
+	},
+	{
+		"created_at": "Sat Nov 30 17:56:31 +0000 2019",
+		"id": 1200836014698193000,
+		"id_str": "1200836014698192896",
+		"full_text": "요즘 국내 통신사 메신저가 채팅+ 라는 어플리케이션 만들어 가지고 대용량 파일 전송가능이랑 카톡처럼 수신확인 기능 넣었다. 자기가 원하면 기능 해지 할 수 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1200821706564096000,
+		"in_reply_to_status_id_str": "1200821706564096000",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "요즘 국내 통신사 메신저가 채팅+ 라는 어플리케이션 만들어 가지고 대용량 파일 전송가능이랑 카톡처럼 수신확인 기능 넣었다. 자기가 원하면 기능 해지 할 수 있음."
+	},
+	{
+		"created_at": "Sat Nov 30 17:16:17 +0000 2019",
+		"id": 1200580202621030400,
+		"id_str": "1200825891875483649",
+		"full_text": "지적 장애를 가진 모자를 과자 농장에서 16년간 노예처럼 일을 시킨 사업주는 처벌받았지만 정작 장애인 모자는 충분한 배상을  받지 못하고 있습니다. https://t.co/xgxwVgxbhq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200370906503106600,
+					"id_str": "1200370906503106560",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiTz81UYAAveAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiTz81UYAAveAL.jpg",
+					"url": "https://t.co/xgxwVgxbhq",
+					"display_url": "pic.twitter.com/xgxwVgxbhq",
+					"expanded_url": "https://twitter.com/mbcnews/status/1200580202621030400/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200370906503106600,
+					"id_str": "1200370906503106560",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiTz81UYAAveAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiTz81UYAAveAL.jpg",
+					"url": "https://t.co/xgxwVgxbhq",
+					"display_url": "pic.twitter.com/xgxwVgxbhq",
+					"expanded_url": "https://twitter.com/mbcnews/status/1200580202621030400/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 144208,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1200370906503106560/pl/oYsnrvNlDe8Jvf1v.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1200370906503106560/vid/480x272/dPYJOjEvQpZ8avn1.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "[당신뉴스] 장애인 월급 60%만?…법원이 '반토막' 낸 체불임금",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://imnews.imbc.com/replay/2019/nwdesk/article/5629543_24634.html?menuid=nwdesk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384098,
+			"friends_count": 151172,
+			"listed_count": 3690,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 134231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 376,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지적 장애를 가진 모자를 과자 농장에서 16년간 노예처럼 일을 시킨 사업주는 처벌받았지만 정작 장애인 모자는 충분한 배상을  받지 못하고 있습니다. https://t.co/xgxwVgxbhq"
+	},
+	{
+		"created_at": "Sat Nov 30 17:05:46 +0000 2019",
+		"id": 1196894630949736400,
+		"id_str": "1200823245013835777",
+		"full_text": "The new Enpass subscription model has started to roll out with Enpass v6.3 across all platforms gradually. \n\nWith v6.3, existing Pro users will be able to register their past purchases for the complimentary upgrade and new users will be able to subscribe to Enpass.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://social.zoho.com\" rel=\"nofollow\">Zoho Social</a>",
+		"in_reply_to_status_id": 1196894065465254000,
+		"in_reply_to_status_id_str": "1196894065465253888",
+		"in_reply_to_user_id": 3069463375,
+		"in_reply_to_user_id_str": "3069463375",
+		"in_reply_to_screen_name": "EnpassApp",
+		"user": {
+			"id": 3069463375,
+			"id_str": "3069463375",
+			"name": "Enpass",
+			"screen_name": "EnpassApp",
+			"location": "",
+			"description": "An offline password manager that securely manages all your passwords, credit cards, and other credentials. Available for iOS, Android, Windows 10, macOS, Linux.",
+			"url": "http://t.co/K7CXfUKvaQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/K7CXfUKvaQ",
+							"expanded_url": "http://www.enpass.io",
+							"display_url": "enpass.io",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4495,
+			"friends_count": 44,
+			"listed_count": 88,
+			"created_at": "Mon Mar 09 09:04:56 +0000 2015",
+			"favourites_count": 542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078609208520597504/g7cKemo7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078609208520597504/g7cKemo7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3069463375/1547698602",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The new Enpass subscription model has started to roll out with Enpass v6.3 across all platforms gradually. \n\nWith v6.3, existing Pro users will be able to register their past purchases for the complimentary upgrade and new users will be able to subscribe to Enpass."
+	},
+	{
+		"created_at": "Sat Nov 30 17:05:43 +0000 2019",
+		"id": 1200823230711230500,
+		"id_str": "1200823230711230465",
+		"full_text": "비밀번호 어플리케이션은 Enpass 추천합니다! 프로버전이 모든 플랫폼에서 무료로 풀렸습니다. 저는 유료로 산 지 한달도 안되어서 기분은 별로지만 좋은 서비스를 무료화해서 앞으로 비용 걱정 없이 쓸 수 있다니 이 얼마나 좋은 소식입니까. https://t.co/6lRbM9lDut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6lRbM9lDut",
+					"expanded_url": "https://twitter.com/EnpassApp/status/1196894630949736448",
+					"display_url": "twitter.com/EnpassApp/stat…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196894630949736400,
+		"quoted_status_id_str": "1196894630949736448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6lRbM9lDut",
+			"expanded": "https://twitter.com/EnpassApp/status/1196894630949736448",
+			"display": "twitter.com/EnpassApp/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 19 20:54:51 +0000 2019",
+			"id": 1196894630949736400,
+			"id_str": "1196894630949736448",
+			"full_text": "The new Enpass subscription model has started to roll out with Enpass v6.3 across all platforms gradually. \n\nWith v6.3, existing Pro users will be able to register their past purchases for the complimentary upgrade and new users will be able to subscribe to Enpass.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://social.zoho.com\" rel=\"nofollow\">Zoho Social</a>",
+			"in_reply_to_status_id": 1196894065465254000,
+			"in_reply_to_status_id_str": "1196894065465253888",
+			"in_reply_to_user_id": 3069463375,
+			"in_reply_to_user_id_str": "3069463375",
+			"in_reply_to_screen_name": "EnpassApp",
+			"user": {
+				"id": 3069463375,
+				"id_str": "3069463375",
+				"name": "Enpass",
+				"screen_name": "EnpassApp",
+				"location": "",
+				"description": "An offline password manager that securely manages all your passwords, credit cards, and other credentials. Available for iOS, Android, Windows 10, macOS, Linux.",
+				"url": "http://t.co/K7CXfUKvaQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/K7CXfUKvaQ",
+								"expanded_url": "http://www.enpass.io",
+								"display_url": "enpass.io",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4495,
+				"friends_count": 44,
+				"listed_count": 88,
+				"created_at": "Mon Mar 09 09:04:56 +0000 2015",
+				"favourites_count": 542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4763,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1078609208520597504/g7cKemo7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078609208520597504/g7cKemo7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3069463375/1547698602",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비밀번호 어플리케이션은 Enpass 추천합니다! 프로버전이 모든 플랫폼에서 무료로 풀렸습니다. 저는 유료로 산 지 한달도 안되어서 기분은 별로지만 좋은 서비스를 무료화해서 앞으로 비용 걱정 없이 쓸 수 있다니 이 얼마나 좋은 소식입니까. https://t.co/6lRbM9lDut"
+	},
+	{
 		"created_at": "Sat Nov 30 17:01:40 +0000 2019",
 		"id": 1200822214628503600,
 		"id_str": "1200822214628503552",
