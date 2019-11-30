@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 03:58:10 +0000 2019",
+		"id": 1200614494340206600,
+		"id_str": "1200625037042208768",
+		"full_text": "*CD 및 LP 구매자에게는 포스터 3종 중 1종을 증정합니다.(포스터 종류 선택 가능/ 1개 앨범당 택 1)\n*현금, 카드 결제 가능합니다.\n*엽서와 LP는 서울, 부산 공연장에서만 선판매됩니다.\n*공연을 예매하지 않으신 분도 공연장에서 엽서 및 CD, LP 구입이 가능합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1200614380989083600,
+		"in_reply_to_status_id_str": "1200614380989083648",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1592,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*CD 및 LP 구매자에게는 포스터 3종 중 1종을 증정합니다.(포스터 종류 선택 가능/ 1개 앨범당 택 1)\n*현금, 카드 결제 가능합니다.\n*엽서와 LP는 서울, 부산 공연장에서만 선판매됩니다.\n*공연을 예매하지 않으신 분도 공연장에서 엽서 및 CD, LP 구입이 가능합니다."
+	},
+	{
 		"created_at": "Sat Nov 30 00:58:07 +0000 2019",
 		"id": 1200574945169793000,
 		"id_str": "1200579729906130945",
