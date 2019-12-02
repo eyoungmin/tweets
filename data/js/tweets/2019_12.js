@@ -1,6 +1,947 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 08:58:14 +0000 2019",
+		"id": 1201158962940219400,
+		"id_str": "1201425329031544833",
+		"full_text": "2019년을 마무리하는 빅 이벤트! &lt;영혼의 노숙자&gt; 연말특집 공개방송이 다가오고 있어요 🥳 이번 주 토요일에 티켓예매가 시작됩니다! \n\n✅좌석: 250석\n✅티켓: 25,000원\n✅예매오픈: 12월 7일 (토) 오후 3시\n\n신청링크는 7일 3시에 제 트위터와 인스타, 팟빵 공지란을 확인해주세요! https://t.co/C1nLNLCCDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201158953817628700,
+					"id_str": "1201158953817628672",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EKtftFkUYAAYPAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKtftFkUYAAYPAv.jpg",
+					"url": "https://t.co/C1nLNLCCDV",
+					"display_url": "pic.twitter.com/C1nLNLCCDV",
+					"expanded_url": "https://twitter.com/homeless_matt/status/1201158962940219393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 398,
+									"y": 10,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 344,
+									"y": 555,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 239,
+									"y": 174,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 398,
+									"y": 10,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 344,
+									"y": 555,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 239,
+									"y": 174,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 398,
+									"y": 10,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 344,
+									"y": 555,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 239,
+									"y": 174,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 325,
+									"y": 214,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 227,
+									"y": 5,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 99,
+									"y": 236,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 196,
+									"y": 317,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 253,
+									"y": 123,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 136,
+									"y": 99,
+									"h": 78,
+									"w": 78
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201158953817628700,
+					"id_str": "1201158953817628672",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EKtftFkUYAAYPAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKtftFkUYAAYPAv.jpg",
+					"url": "https://t.co/C1nLNLCCDV",
+					"display_url": "pic.twitter.com/C1nLNLCCDV",
+					"expanded_url": "https://twitter.com/homeless_matt/status/1201158962940219393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 398,
+									"y": 10,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 344,
+									"y": 555,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 239,
+									"y": 174,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 398,
+									"y": 10,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 344,
+									"y": 555,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 239,
+									"y": 174,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 398,
+									"y": 10,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 344,
+									"y": 555,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 239,
+									"y": 174,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 325,
+									"y": 214,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 227,
+									"y": 5,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 99,
+									"y": 236,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 196,
+									"y": 317,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 253,
+									"y": 123,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 136,
+									"y": 99,
+									"h": 78,
+									"w": 78
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914580161164660700,
+			"id_str": "914580161164660736",
+			"name": "셀럽 맷",
+			"screen_name": "homeless_matt",
+			"location": "",
+			"description": "팟캐스트 “영혼의 노숙자”, “독일언니들” 네이버 오디오클립 \"시스터후드 시즌1\"",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4376,
+			"friends_count": 393,
+			"listed_count": 7,
+			"created_at": "Sun Oct 01 19:57:57 +0000 2017",
+			"favourites_count": 17096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092094084980699138/dew7tY2B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092094084980699138/dew7tY2B_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 294,
+		"favorite_count": 245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년을 마무리하는 빅 이벤트! &lt;영혼의 노숙자&gt; 연말특집 공개방송이 다가오고 있어요 🥳 이번 주 토요일에 티켓예매가 시작됩니다! \n\n✅좌석: 250석\n✅티켓: 25,000원\n✅예매오픈: 12월 7일 (토) 오후 3시\n\n신청링크는 7일 3시에 제 트위터와 인스타, 팟빵 공지란을 확인해주세요! https://t.co/C1nLNLCCDV"
+	},
+	{
+		"created_at": "Mon Dec 02 08:57:54 +0000 2019",
+		"id": 1201425243278983200,
+		"id_str": "1201425243278983168",
+		"full_text": "@January19_ 퍼블리 뉴스도 큐레이션이 좋아 생각할 수 있게 해줘 즐겨 보고 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "January19_",
+					"name": "박소령 | Soryoung Park",
+					"id": 1067401196,
+					"id_str": "1067401196",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1201088727184920600,
+		"in_reply_to_status_id_str": "1201088727184920576",
+		"in_reply_to_user_id": 1067401196,
+		"in_reply_to_user_id_str": "1067401196",
+		"in_reply_to_screen_name": "January19_",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@January19_ 퍼블리 뉴스도 큐레이션이 좋아 생각할 수 있게 해줘 즐겨 보고 있습니다."
+	},
+	{
+		"created_at": "Mon Dec 02 08:49:16 +0000 2019",
+		"id": 1201423072697495600,
+		"id_str": "1201423072697495552",
+		"full_text": "#SMTOWN #Artist_News\n선우정아, '음악당'서 CD 삼킨 라이브 공개...김희철 넋 놓고 감탄한 사연은?\nhttps://t.co/eS7bNQYxyw\n#RedVelvet #레드벨벳 https://t.co/wP2zPdQIkA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eS7bNQYxyw",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2928",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201423071657246700,
+					"id_str": "1201423071657246720",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxP6xMWwAA0hSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxP6xMWwAA0hSd.jpg",
+					"url": "https://t.co/wP2zPdQIkA",
+					"display_url": "pic.twitter.com/wP2zPdQIkA",
+					"expanded_url": "https://twitter.com/fromminn/status/1201423072697495552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 150,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 235,
+									"y": 71,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 150,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 235,
+									"y": 71,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 150,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 235,
+									"y": 71,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 150,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 235,
+									"y": 71,
+									"h": 109,
+									"w": 109
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201423071657246700,
+					"id_str": "1201423071657246720",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxP6xMWwAA0hSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxP6xMWwAA0hSd.jpg",
+					"url": "https://t.co/wP2zPdQIkA",
+					"display_url": "pic.twitter.com/wP2zPdQIkA",
+					"expanded_url": "https://twitter.com/fromminn/status/1201423072697495552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 150,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 235,
+									"y": 71,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 150,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 235,
+									"y": 71,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 150,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 235,
+									"y": 71,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 150,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 235,
+									"y": 71,
+									"h": 109,
+									"w": 109
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 836,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n선우정아, '음악당'서 CD 삼킨 라이브 공개...김희철 넋 놓고 감탄한 사연은?\nhttps://t.co/eS7bNQYxyw\n#RedVelvet #레드벨벳 https://t.co/wP2zPdQIkA"
+	},
+	{
 		"created_at": "Mon Dec 02 07:58:08 +0000 2019",
 		"id": 1201407505571565600,
 		"id_str": "1201410203499061248",
