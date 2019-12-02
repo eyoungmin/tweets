@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 14:56:12 +0000 2019",
+		"id": 1201311723208069000,
+		"id_str": "1201515413713981440",
+		"full_text": "누구라도 자기자신으로 존중받으며 존엄하게 살아갈 수 있는 환경이 필요하다는 글의 결론에는 동의하지만 그 결론에 이르기 위해 소환되는 '착하고 어리고 순수한 장애인' 이미지와 시설입소를 긍정적으로 느끼게하는 표현, 또 그런 대상화를 그다지 괘념치 않는 많은 독자들의 반응에 속이 상한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1201311721987534800,
+		"in_reply_to_status_id_str": "1201311721987534848",
+		"in_reply_to_user_id": 795883266167304200,
+		"in_reply_to_user_id_str": "795883266167304192",
+		"in_reply_to_screen_name": "Serious_Sister2",
+		"user": {
+			"id": 795883266167304200,
+			"id_str": "795883266167304192",
+			"name": "생각많은둘째언니",
+			"screen_name": "Serious_Sister2",
+			"location": "대한민국 서울",
+			"description": "도대체 이해 안 가는 세상을 그래도 이해해보고자 노력하는 둘째언니.",
+			"url": "https://t.co/zXPYYsu6DR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zXPYYsu6DR",
+							"expanded_url": "https://www.youtube.com/channel/UCGdB-lgTS2sOhJIxgP550qw",
+							"display_url": "youtube.com/channel/UCGdB-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13998,
+			"friends_count": 3473,
+			"listed_count": 40,
+			"created_at": "Tue Nov 08 06:58:52 +0000 2016",
+			"favourites_count": 3014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/795883266167304192/1478589358",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 822,
+		"favorite_count": 401,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "누구라도 자기자신으로 존중받으며 존엄하게 살아갈 수 있는 환경이 필요하다는 글의 결론에는 동의하지만 그 결론에 이르기 위해 소환되는 '착하고 어리고 순수한 장애인' 이미지와 시설입소를 긍정적으로 느끼게하는 표현, 또 그런 대상화를 그다지 괘념치 않는 많은 독자들의 반응에 속이 상한다."
+	},
+	{
+		"created_at": "Mon Dec 02 14:56:10 +0000 2019",
+		"id": 1201311721987534800,
+		"id_str": "1201515407569387521",
+		"full_text": "마음이 세살이니 이해하라는 식의 논의는 결국 발달장애인을 언제까지나 비장애인에 비해 미성숙한, '영원히 자라지 않는' 존재로 상정하고 그것을 내려다보는 비장애인의 시각에 시혜를 요청하는 셈이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1201311720683126800,
+		"in_reply_to_status_id_str": "1201311720683126784",
+		"in_reply_to_user_id": 795883266167304200,
+		"in_reply_to_user_id_str": "795883266167304192",
+		"in_reply_to_screen_name": "Serious_Sister2",
+		"user": {
+			"id": 795883266167304200,
+			"id_str": "795883266167304192",
+			"name": "생각많은둘째언니",
+			"screen_name": "Serious_Sister2",
+			"location": "대한민국 서울",
+			"description": "도대체 이해 안 가는 세상을 그래도 이해해보고자 노력하는 둘째언니.",
+			"url": "https://t.co/zXPYYsu6DR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zXPYYsu6DR",
+							"expanded_url": "https://www.youtube.com/channel/UCGdB-lgTS2sOhJIxgP550qw",
+							"display_url": "youtube.com/channel/UCGdB-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13998,
+			"friends_count": 3473,
+			"listed_count": 40,
+			"created_at": "Tue Nov 08 06:58:52 +0000 2016",
+			"favourites_count": 3014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/795883266167304192/1478589358",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 805,
+		"favorite_count": 362,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "마음이 세살이니 이해하라는 식의 논의는 결국 발달장애인을 언제까지나 비장애인에 비해 미성숙한, '영원히 자라지 않는' 존재로 상정하고 그것을 내려다보는 비장애인의 시각에 시혜를 요청하는 셈이다."
+	},
+	{
 		"created_at": "Mon Dec 02 13:38:57 +0000 2019",
 		"id": 1201365602859798500,
 		"id_str": "1201495975337938944",
@@ -607,7 +801,7 @@ Grailbird.data.tweets_2019_12 =
 		"user": {
 			"id": 54256163,
 			"id_str": "54256163",
-			"name": "DECK🏳️‍🌈😷",
+			"name": "DECK🏳️🌈😷",
 			"screen_name": "deckybi",
 			"location": "Seoul, Korea",
 			"description": "문화기획자/B",
