@@ -1,6 +1,1742 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 12:58:24 +0000 2019",
+		"id": 1201153654813708300,
+		"id_str": "1201485768558088192",
+		"full_text": "겉보기엔 아직 평온해 보이지만 속으로는 부글부글 끓고 있는 듯한 팀을 발견할 때가 있다. 인디신에서는 이미 ‘대세’ 반열에 들어섰는데 대중과는 아직 만나지 못한.4인조 인디밴드 아도이(ADOY) 역시 끓는점을 코앞에 둔 팀 중 하나다\n\nhttps://t.co/vWcha094ds\n\n#adoyband #adoy #아도이 #중앙일보 https://t.co/7D57CnUi8O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "adoyband",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "adoy",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "중앙일보",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vWcha094ds",
+					"expanded_url": "https://mnews.joins.com/article/23645984#home",
+					"display_url": "mnews.joins.com/article/236459…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201153573196714000,
+					"id_str": "1201153573196713986",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201153573196713986/pu/img/xboXyJYLPz1awENK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201153573196713986/pu/img/xboXyJYLPz1awENK.jpg",
+					"url": "https://t.co/7D57CnUi8O",
+					"display_url": "pic.twitter.com/7D57CnUi8O",
+					"expanded_url": "https://twitter.com/AdoyFan/status/1201153654813708289/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201153573196714000,
+					"id_str": "1201153573196713986",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201153573196713986/pu/img/xboXyJYLPz1awENK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201153573196713986/pu/img/xboXyJYLPz1awENK.jpg",
+					"url": "https://t.co/7D57CnUi8O",
+					"display_url": "pic.twitter.com/7D57CnUi8O",
+					"expanded_url": "https://twitter.com/AdoyFan/status/1201153654813708289/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 25020,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201153573196713986/pu/vid/320x568/R7uN943nIar0tNt2.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201153573196713986/pu/vid/720x1280/IQMrWDU3Xgpyuvh9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1201153573196713986/pu/pl/wMGSVBAH7HRTMZlt.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201153573196713986/pu/vid/360x640/VZjIHcCFkznEnYpw.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1187976092906164200,
+			"id_str": "1187976092906164224",
+			"name": "ADOY_Fan",
+			"screen_name": "AdoyFan",
+			"location": "",
+			"description": "정다영 FAN                                                                     \n                                                             \n\nADOY . website  : 👇",
+			"url": "https://t.co/VEqMeNFx3t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VEqMeNFx3t",
+							"expanded_url": "https://adoyband.tumblr.com/",
+							"display_url": "adoyband.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Sat Oct 26 06:15:55 +0000 2019",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187981879338659840/zj0w0-P4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187981879338659840/zj0w0-P4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1187976092906164224/1573213471",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "겉보기엔 아직 평온해 보이지만 속으로는 부글부글 끓고 있는 듯한 팀을 발견할 때가 있다. 인디신에서는 이미 ‘대세’ 반열에 들어섰는데 대중과는 아직 만나지 못한.4인조 인디밴드 아도이(ADOY) 역시 끓는점을 코앞에 둔 팀 중 하나다\n\nhttps://t.co/vWcha094ds\n\n#adoyband #adoy #아도이 #중앙일보 https://t.co/7D57CnUi8O"
+	},
+	{
+		"created_at": "Mon Dec 02 12:58:16 +0000 2019",
+		"id": 1200414027811131400,
+		"id_str": "1201485734370299905",
+		"full_text": "오늘은 ADOY(아도이)라고 하는 인디밴드의 음악을 들어보겠습니다.\n\n애니메이션 장면 같은 앨범 커버가 인상적이네요. \n\nhttps://t.co/OkR0kIeDBG https://t.co/kZspMYIvDy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OkR0kIeDBG",
+					"expanded_url": "https://music.apple.com/jp/album/vivid/1487777724",
+					"display_url": "music.apple.com/jp/album/vivid…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200414019263185000,
+					"id_str": "1200414019263184896",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EKi6MMGUwAAqblb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKi6MMGUwAAqblb.jpg",
+					"url": "https://t.co/kZspMYIvDy",
+					"display_url": "pic.twitter.com/kZspMYIvDy",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1200414027811131392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200414019263185000,
+					"id_str": "1200414019263184896",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EKi6MMGUwAAqblb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKi6MMGUwAAqblb.jpg",
+					"url": "https://t.co/kZspMYIvDy",
+					"display_url": "pic.twitter.com/kZspMYIvDy",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1200414027811131392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139679652,
+			"id_str": "139679652",
+			"name": "THE HANBIN",
+			"screen_name": "HANBINIZM",
+			"location": "",
+			"description": "트위터는 내가 뭐라도 된 것같은 기분으로 합니다.",
+			"url": "https://t.co/q5nOhlSHma",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q5nOhlSHma",
+							"expanded_url": "http://hanbinism.egloos.com",
+							"display_url": "hanbinism.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2431,
+			"friends_count": 401,
+			"listed_count": 39,
+			"created_at": "Mon May 03 10:35:31 +0000 2010",
+			"favourites_count": 16399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 123436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1433600561",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 ADOY(아도이)라고 하는 인디밴드의 음악을 들어보겠습니다.\n\n애니메이션 장면 같은 앨범 커버가 인상적이네요. \n\nhttps://t.co/OkR0kIeDBG https://t.co/kZspMYIvDy"
+	},
+	{
+		"created_at": "Mon Dec 02 12:58:08 +0000 2019",
+		"id": 1199275340771676200,
+		"id_str": "1201485700052475906",
+		"full_text": ".@adoyband's a band that's been on a lot of lips lately! \n\nFind out what everyone's talking about right now with their album #Vivid: https://t.co/7Nhs1qJass https://t.co/E8Z7npyXbW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Vivid",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7Nhs1qJass",
+					"expanded_url": "https://spoti.fi/ADOY-VIVID",
+					"display_url": "spoti.fi/ADOY-VIVID",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199273206063878100,
+					"id_str": "1199273206063878145",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199273206063878145/pu/img/59W91UPmjfLm8tGy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199273206063878145/pu/img/59W91UPmjfLm8tGy.jpg",
+					"url": "https://t.co/E8Z7npyXbW",
+					"display_url": "pic.twitter.com/E8Z7npyXbW",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1199275340771676160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199273206063878100,
+					"id_str": "1199273206063878145",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199273206063878145/pu/img/59W91UPmjfLm8tGy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199273206063878145/pu/img/59W91UPmjfLm8tGy.jpg",
+					"url": "https://t.co/E8Z7npyXbW",
+					"display_url": "pic.twitter.com/E8Z7npyXbW",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1199275340771676160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15167,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199273206063878145/pu/vid/1280x720/FRIUhyWNtV5Yq0Nt.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199273206063878145/pu/vid/480x270/Wb6kBC2Bz2PqBL9B.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199273206063878145/pu/vid/640x360/rrmIsKCBAsXpv9GF.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1199273206063878145/pu/pl/ZgqwUjxSZRKQXBFP.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110281,
+			"friends_count": 188,
+			"listed_count": 184,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108279680006709248/m7AM6Gyg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108279680006709248/m7AM6Gyg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1526972671",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@adoyband's a band that's been on a lot of lips lately! \n\nFind out what everyone's talking about right now with their album #Vivid: https://t.co/7Nhs1qJass https://t.co/E8Z7npyXbW"
+	},
+	{
+		"created_at": "Mon Dec 02 12:21:24 +0000 2019",
+		"id": 1201380631646621700,
+		"id_str": "1201476455978242048",
+		"full_text": "新曲 \"I Do\" をリリースした #テヨン からビデオメッセージが到着💫\n\n彼女からファンの方へ向けた「今、目の前にいない人に対しての想い」を歌詞にした、この季節にぴったりの楽曲🎧\nここからCHECK👉https://t.co/zYOe4dqGNu\n\n#TAEYEON @gg_official_jp https://t.co/Yeo8sXBZRQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						136,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zYOe4dqGNu",
+					"expanded_url": "https://spoti.fi/37Wp8zM",
+					"display_url": "spoti.fi/37Wp8zM",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201376393138847700,
+					"id_str": "1201376393138847744",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1201376393138847744/img/v_IkrtTb83oIMBrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1201376393138847744/img/v_IkrtTb83oIMBrE.jpg",
+					"url": "https://t.co/Yeo8sXBZRQ",
+					"display_url": "pic.twitter.com/Yeo8sXBZRQ",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1201380631646621696/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201376393138847700,
+					"id_str": "1201376393138847744",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1201376393138847744/img/v_IkrtTb83oIMBrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1201376393138847744/img/v_IkrtTb83oIMBrE.jpg",
+					"url": "https://t.co/Yeo8sXBZRQ",
+					"display_url": "pic.twitter.com/Yeo8sXBZRQ",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1201380631646621696/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25133,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1201376393138847744/vid/1280x720/KOiPzIvTkOWlC2f-.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1201376393138847744/pl/6Fls8bMODPuFQB1a.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1201376393138847744/vid/480x270/7_sZD3mgKuseLUAl.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1201376393138847744/vid/640x360/uOelDWGD6yern-3I.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "🎧いつでも、どこでも、音楽を🎧 世界で2億4800万人以上の音楽ファンに選ばれている、無料でも聴ける公式音楽アプリSpotify (スポティファイ)。 カスタマーサポート: @SpotifyCaresJP",
+			"url": "https://t.co/KwyTrhDr0X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KwyTrhDr0X",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136733,
+			"friends_count": 1500,
+			"listed_count": 823,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 7450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 88487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111315413680283648/MLlPJIkb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111315413680283648/MLlPJIkb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1553793250",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 574,
+		"favorite_count": 914,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "新曲 \"I Do\" をリリースした #テヨン からビデオメッセージが到着💫\n\n彼女からファンの方へ向けた「今、目の前にいない人に対しての想い」を歌詞にした、この季節にぴったりの楽曲🎧\nここからCHECK👉https://t.co/zYOe4dqGNu\n\n#TAEYEON @gg_official_jp https://t.co/Yeo8sXBZRQ"
+	},
+	{
+		"created_at": "Mon Dec 02 12:20:52 +0000 2019",
+		"id": 1201395869364306000,
+		"id_str": "1201476325099233280",
+		"full_text": "TAEYEON - Purpose GRIP TOK🔥\n\n태연 홀로그램 그립톡을 SMTOWN &amp;STORE에서 만나보세요! 💕\n항상 엉키고 잃어버렸던 이어폰을 그립톡에 감아 편리하게 보관할 수 있고, 거치대 기능으로 편하게 영상을 감상할 수 있답니다! \n\nhttps://t.co/FWg9270uii https://t.co/YoX93ro8Bk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FWg9270uii",
+					"expanded_url": "https://bit.ly/34RqJ80",
+					"display_url": "bit.ly/34RqJ80",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201395858052272000,
+					"id_str": "1201395858052272130",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EKw3KunU0AI4doL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKw3KunU0AI4doL.jpg",
+					"url": "https://t.co/YoX93ro8Bk",
+					"display_url": "pic.twitter.com/YoX93ro8Bk",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1201395869364305920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 365,
+									"y": 334,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 344,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 344,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 344,
+									"h": 90,
+									"w": 90
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201395858052272000,
+					"id_str": "1201395858052272130",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EKw3KunU0AI4doL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKw3KunU0AI4doL.jpg",
+					"url": "https://t.co/YoX93ro8Bk",
+					"display_url": "pic.twitter.com/YoX93ro8Bk",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1201395869364305920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 365,
+									"y": 334,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 344,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 344,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 344,
+									"h": 90,
+									"w": 90
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25277,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 494,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON - Purpose GRIP TOK🔥\n\n태연 홀로그램 그립톡을 SMTOWN &amp;STORE에서 만나보세요! 💕\n항상 엉키고 잃어버렸던 이어폰을 그립톡에 감아 편리하게 보관할 수 있고, 거치대 기능으로 편하게 영상을 감상할 수 있답니다! \n\nhttps://t.co/FWg9270uii https://t.co/YoX93ro8Bk"
+	},
+	{
+		"created_at": "Mon Dec 02 12:20:50 +0000 2019",
+		"id": 1200316699183988700,
+		"id_str": "1201476316693876736",
+		"full_text": "Red Velvet - ORGANIZER PACKAGE ♥️\n\n레드벨벳 오거나이저 패키지를 SMTOWN &amp;STORE에서 만나보세요! 😊\n\n✔ 구성품 : ORGANIZER / KEYRING / PHOTO CARD / MEMO PAD &amp; STICKER / ACCORDION BOOK\n\n🔸SMTOWNandSTORE ONLINE : 예약판매 진행중\n🔸SMTOWNandSTORE OFFLINE 출시 : 01. 10 (FRI) https://t.co/ulZCTUaOGE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200316695518171100,
+					"id_str": "1200316695518171136",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EKhhrM5U0AAcsze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKhhrM5U0AAcsze.jpg",
+					"url": "https://t.co/ulZCTUaOGE",
+					"display_url": "pic.twitter.com/ulZCTUaOGE",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1200316699183988737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200316695518171100,
+					"id_str": "1200316695518171136",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EKhhrM5U0AAcsze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKhhrM5U0AAcsze.jpg",
+					"url": "https://t.co/ulZCTUaOGE",
+					"display_url": "pic.twitter.com/ulZCTUaOGE",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1200316699183988737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25277,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 341,
+		"favorite_count": 821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - ORGANIZER PACKAGE ♥️\n\n레드벨벳 오거나이저 패키지를 SMTOWN &amp;STORE에서 만나보세요! 😊\n\n✔ 구성품 : ORGANIZER / KEYRING / PHOTO CARD / MEMO PAD &amp; STICKER / ACCORDION BOOK\n\n🔸SMTOWNandSTORE ONLINE : 예약판매 진행중\n🔸SMTOWNandSTORE OFFLINE 출시 : 01. 10 (FRI) https://t.co/ulZCTUaOGE"
+	},
+	{
+		"created_at": "Mon Dec 02 12:20:46 +0000 2019",
+		"id": 1200316359529250800,
+		"id_str": "1201476299937550337",
+		"full_text": "Red Velvet - PUZZLE PACKAGE💖\n\n레드벨벳의 퍼즐 패키지를 SMTOWN &amp;STORE에서 만나보세요 😊\n1000 피스의 퍼즐 조각으로 맞춰진 해맑은 레드벨벳의 모습을 간직할 수 있는 기회🌹\n\n🔸SMTOWNandSTORE ONLINE : 예약판매 진행중\n🔸SMTOWNandSTORE OFFLINE 출시 : 01. 03 (FRI)\n\nhttps://t.co/Q04WRRD2Of https://t.co/p7umTfWvfC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q04WRRD2Of",
+					"expanded_url": "https://bit.ly/2DtyuoW",
+					"display_url": "bit.ly/2DtyuoW",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200316355775365000,
+					"id_str": "1200316355775365120",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EKhhXbQVAAAOy4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKhhXbQVAAAOy4I.jpg",
+					"url": "https://t.co/p7umTfWvfC",
+					"display_url": "pic.twitter.com/p7umTfWvfC",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1200316359529250816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200316355775365000,
+					"id_str": "1200316355775365120",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EKhhXbQVAAAOy4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKhhXbQVAAAOy4I.jpg",
+					"url": "https://t.co/p7umTfWvfC",
+					"display_url": "pic.twitter.com/p7umTfWvfC",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1200316359529250816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1200316355775357000,
+					"id_str": "1200316355775356928",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EKhhXbQU4AAIv0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKhhXbQU4AAIv0j.jpg",
+					"url": "https://t.co/p7umTfWvfC",
+					"display_url": "pic.twitter.com/p7umTfWvfC",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1200316359529250816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1200316355779555300,
+					"id_str": "1200316355779555328",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EKhhXbRU8AAPhvE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKhhXbRU8AAPhvE.jpg",
+					"url": "https://t.co/p7umTfWvfC",
+					"display_url": "pic.twitter.com/p7umTfWvfC",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1200316359529250816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1200316276721119200,
+		"in_reply_to_status_id_str": "1200316276721119232",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25277,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet - PUZZLE PACKAGE💖\n\n레드벨벳의 퍼즐 패키지를 SMTOWN &amp;STORE에서 만나보세요 😊\n1000 피스의 퍼즐 조각으로 맞춰진 해맑은 레드벨벳의 모습을 간직할 수 있는 기회🌹\n\n🔸SMTOWNandSTORE ONLINE : 예약판매 진행중\n🔸SMTOWNandSTORE OFFLINE 출시 : 01. 03 (FRI)\n\nhttps://t.co/Q04WRRD2Of https://t.co/p7umTfWvfC"
+	},
+	{
 		"created_at": "Mon Dec 02 10:31:37 +0000 2019",
 		"id": 1201448830266478600,
 		"id_str": "1201448830266478592",
