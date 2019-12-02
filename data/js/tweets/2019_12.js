@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 16:34:45 +0000 2019",
+		"id": 1201510473708920800,
+		"id_str": "1201540213970878464",
+		"full_text": "“한 해외 조사업체의 결과에 따르면 주요 인터넷 사이트 5곳의 딥 페이크 영상은 96%가 성인음란물이었고, 이 동영상 속 여성 얼굴의 25%가 한국 연예인인 것으로 나타났습니다.”\n\n왜 여성 연예인, 특히 아이돌 소속사는 해당 이슈에 적극적으로 나서지 않는지 모르겠습니다.\nhttps://t.co/NWUsSla3ER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NWUsSla3ER",
+					"expanded_url": "https://news.v.daum.net/v/20191202203405883",
+					"display_url": "news.v.daum.net/v/201912022034…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4168404494,
+			"id_str": "4168404494",
+			"name": "[DSO] 디지털 성범죄 아웃",
+			"screen_name": "soraeliminate",
+			"location": "서울시 강동구 길동 334-5 보성빌딩 209호",
+			"description": "soraeliminate@gmail.com / 구 소라넷 고발 프로젝트 / 국민은행 591501-04-056324 / 월-금 10am-5pm / instagram digitalsexualcrimeout / facebook stopsoranet / 02-474-0400",
+			"url": "https://t.co/FeiPGTfJiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FeiPGTfJiH",
+							"expanded_url": "http://dsoonline.org",
+							"display_url": "dsoonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17637,
+			"friends_count": 117,
+			"listed_count": 95,
+			"created_at": "Sun Nov 08 13:08:29 +0000 2015",
+			"favourites_count": 5379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4168404494/1448877523",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1046,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“한 해외 조사업체의 결과에 따르면 주요 인터넷 사이트 5곳의 딥 페이크 영상은 96%가 성인음란물이었고, 이 동영상 속 여성 얼굴의 25%가 한국 연예인인 것으로 나타났습니다.”\n\n왜 여성 연예인, 특히 아이돌 소속사는 해당 이슈에 적극적으로 나서지 않는지 모르겠습니다.\nhttps://t.co/NWUsSla3ER"
+	},
+	{
+		"created_at": "Mon Dec 02 16:34:26 +0000 2019",
+		"id": 1201474178433478700,
+		"id_str": "1201540137085210624",
+		"full_text": "사과드립니다.\n\n오늘 국회에서 \n박능후 보건복지부 장관의 발언으로 \n마음의 상처를 받은 피해 아동과 부모님, 그리고 안타까운 마음으로 지켜보고 계시는 국민 여러분께 진심으로 사과드립니다 https://t.co/LOvd5PIyDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201474064126136300,
+					"id_str": "1201474064126136320",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EKx-S68VUAAOU29.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKx-S68VUAAOU29.png",
+					"url": "https://t.co/LOvd5PIyDU",
+					"display_url": "pic.twitter.com/LOvd5PIyDU",
+					"expanded_url": "https://twitter.com/mohwpr/status/1201474178433478657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 628,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201474064126136300,
+					"id_str": "1201474064126136320",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EKx-S68VUAAOU29.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKx-S68VUAAOU29.png",
+					"url": "https://t.co/LOvd5PIyDU",
+					"display_url": "pic.twitter.com/LOvd5PIyDU",
+					"expanded_url": "https://twitter.com/mohwpr/status/1201474178433478657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 628,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90584054,
+			"id_str": "90584054",
+			"name": "보건복지부(따스아리)",
+			"screen_name": "mohwpr",
+			"location": "seoul, korea",
+			"description": "보건복지부가 트위터를 통해 국민께 다가가고자 합니다. 여러분 요구에 대해 따뜻한 응답을 드리겠습니다.mohw.go.kr",
+			"url": "https://t.co/za73A2zuEa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/za73A2zuEa",
+							"expanded_url": "http://blog.naver.com/mohw2016",
+							"display_url": "blog.naver.com/mohw2016",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67720,
+			"friends_count": 65673,
+			"listed_count": 1321,
+			"created_at": "Tue Nov 17 07:38:43 +0000 2009",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103575806696026112/Y5Tg6aur_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103575806696026112/Y5Tg6aur_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90584054/1567588577",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6014,
+		"favorite_count": 655,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사과드립니다.\n\n오늘 국회에서 \n박능후 보건복지부 장관의 발언으로 \n마음의 상처를 받은 피해 아동과 부모님, 그리고 안타까운 마음으로 지켜보고 계시는 국민 여러분께 진심으로 사과드립니다 https://t.co/LOvd5PIyDU"
+	},
+	{
+		"created_at": "Mon Dec 02 16:34:07 +0000 2019",
+		"id": 1201509854008840200,
+		"id_str": "1201540057091330052",
+		"full_text": "성폭력은 결코 아동발달의 자연스러운 모습이 될 수 없습니다. 성폭력과 발달에 대한 박능후 보건복지부 장관의 잘못된 인식에 심각한 우려를 표합니다. 부적절한 언행에 대해 피해자와 국민께 사과하고 깨끗이 사퇴하시기 바랍니다.\n#박능후_보건복지부장관_사퇴해\nhttps://t.co/rcmREUiLix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박능후_보건복지부장관_사퇴해",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rcmREUiLix",
+					"expanded_url": "http://m.news1.kr/articles/?3783525",
+					"display_url": "m.news1.kr/articles/?3783…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 795883266167304200,
+			"id_str": "795883266167304192",
+			"name": "생각많은둘째언니",
+			"screen_name": "Serious_Sister2",
+			"location": "대한민국 서울",
+			"description": "도대체 이해 안 가는 세상을 그래도 이해해보고자 노력하는 둘째언니.",
+			"url": "https://t.co/zXPYYsu6DR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zXPYYsu6DR",
+							"expanded_url": "https://www.youtube.com/channel/UCGdB-lgTS2sOhJIxgP550qw",
+							"display_url": "youtube.com/channel/UCGdB-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14009,
+			"friends_count": 3473,
+			"listed_count": 41,
+			"created_at": "Tue Nov 08 06:58:52 +0000 2016",
+			"favourites_count": 3014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/795883266167304192/1478589358",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성폭력은 결코 아동발달의 자연스러운 모습이 될 수 없습니다. 성폭력과 발달에 대한 박능후 보건복지부 장관의 잘못된 인식에 심각한 우려를 표합니다. 부적절한 언행에 대해 피해자와 국민께 사과하고 깨끗이 사퇴하시기 바랍니다.\n#박능후_보건복지부장관_사퇴해\nhttps://t.co/rcmREUiLix"
+	},
+	{
 		"created_at": "Mon Dec 02 15:18:08 +0000 2019",
 		"id": 1201520934340968400,
 		"id_str": "1201520934340968448",
