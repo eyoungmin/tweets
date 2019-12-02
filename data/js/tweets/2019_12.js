@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 07:58:08 +0000 2019",
+		"id": 1201407505571565600,
+		"id_str": "1201410203499061248",
+		"full_text": "레드벨벳의 ‘Bad Boy’가 스포티파이에서 1억 스트리밍을 달성했습니다!\n감사합니다 여러분! ❤\n\nRed Velvet’s ‘Bad Boy’ has recorded 100M streams on Spotify!\nThank you for all your support! ❤\n\n🎧https://t.co/I4j6yTa6qn\n\n#RedVelvet #레드벨벳 #BadBoy https://t.co/zEGpXwgO2e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						178,
+						188
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "BadBoy",
+					"indices": [
+						195,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I4j6yTa6qn",
+					"expanded_url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc",
+					"display_url": "open.spotify.com/track/5GKwq4sO…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201407477469724700,
+					"id_str": "1201407477469724672",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxBvEUUwAA5O90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxBvEUUwAA5O90.jpg",
+					"url": "https://t.co/zEGpXwgO2e",
+					"display_url": "pic.twitter.com/zEGpXwgO2e",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1201407505571565569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201407477469724700,
+					"id_str": "1201407477469724672",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxBvEUUwAA5O90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxBvEUUwAA5O90.jpg",
+					"url": "https://t.co/zEGpXwgO2e",
+					"display_url": "pic.twitter.com/zEGpXwgO2e",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1201407505571565569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1948378,
+			"friends_count": 2,
+			"listed_count": 5858,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3274,
+		"favorite_count": 5905,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳의 ‘Bad Boy’가 스포티파이에서 1억 스트리밍을 달성했습니다!\n감사합니다 여러분! ❤\n\nRed Velvet’s ‘Bad Boy’ has recorded 100M streams on Spotify!\nThank you for all your support! ❤\n\n🎧https://t.co/I4j6yTa6qn\n\n#RedVelvet #레드벨벳 #BadBoy https://t.co/zEGpXwgO2e"
+	},
+	{
 		"created_at": "Mon Dec 02 06:58:07 +0000 2019",
 		"id": 1201388165182869500,
 		"id_str": "1201395102033334272",
