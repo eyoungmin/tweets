@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 13:38:57 +0000 2019",
+		"id": 1201365602859798500,
+		"id_str": "1201495975337938944",
+		"full_text": "이거 계속 탐라에 들어오는데 저는 자폐인이고요. 이런 글 정말 불쾌합니다. 짜증나요. 활동보조 일 하는 입장에서도 이런 인식 가지고 일하는 사람들 적지 않은 거 알고 있는데, 그렇다고 이걸 글로 써서 당당히 전시할 거라곤 생각도 못했네요. https://t.co/rJ9TDZr1v7 https://t.co/Eq3usUKpfc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rJ9TDZr1v7",
+					"expanded_url": "https://twitter.com/KOUSEKISEIBOY/status/1201019888187273217",
+					"display_url": "twitter.com/KOUSEKISEIBOY/…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201365564729331700,
+					"id_str": "1201365564729331714",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EKwbnbMUEAIgpQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKwbnbMUEAIgpQI.jpg",
+					"url": "https://t.co/Eq3usUKpfc",
+					"display_url": "pic.twitter.com/Eq3usUKpfc",
+					"expanded_url": "https://twitter.com/GGam_oc/status/1201365602859798531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201365564729331700,
+					"id_str": "1201365564729331714",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EKwbnbMUEAIgpQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKwbnbMUEAIgpQI.jpg",
+					"url": "https://t.co/Eq3usUKpfc",
+					"display_url": "pic.twitter.com/Eq3usUKpfc",
+					"expanded_url": "https://twitter.com/GGam_oc/status/1201365602859798531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1201365581749842000,
+					"id_str": "1201365581749841920",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EKwboamUcAA0YlF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKwboamUcAA0YlF.jpg",
+					"url": "https://t.co/Eq3usUKpfc",
+					"display_url": "pic.twitter.com/Eq3usUKpfc",
+					"expanded_url": "https://twitter.com/GGam_oc/status/1201365602859798531/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1019,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1155427392430588000,
+			"id_str": "1155427392430587909",
+			"name": "🌹🌺이안도령이 귀여워 깨미🌺🌹😷",
+			"screen_name": "GGam_oc",
+			"location": "",
+			"description": "트젠임 가랑이 사이에 달린건 알아서 생각하세요 / 스유 자캐 위주 잡덕",
+			"url": "https://t.co/Q3QZ4TkNU6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q3QZ4TkNU6",
+							"expanded_url": "https://ask.fm/GGami_?utm_source=copy_link&utm_medium=android",
+							"display_url": "ask.fm/GGami_?utm_sou…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233,
+			"friends_count": 287,
+			"listed_count": 0,
+			"created_at": "Sun Jul 28 10:38:51 +0000 2019",
+			"favourites_count": 3256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176049943028494336/OrrRAPLh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176049943028494336/OrrRAPLh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1155427392430587909/1572962509",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201019888187273200,
+		"quoted_status_id_str": "1201019888187273217",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rJ9TDZr1v7",
+			"expanded": "https://twitter.com/KOUSEKISEIBOY/status/1201019888187273217",
+			"display": "twitter.com/KOUSEKISEIBOY/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 01 06:07:09 +0000 2019",
+			"id": 1201019888187273200,
+			"id_str": "1201019888187273217",
+			"full_text": "펭수는 자폐아를 닮았다. https://t.co/RPj3JFaIRj #브런치\n\n너무 좋은 글을 읽어버렸다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "브런치",
+						"indices": [
+							38,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RPj3JFaIRj",
+						"expanded_url": "https://brunch.co.kr/@happyloser77p/60",
+						"display_url": "brunch.co.kr/@happyloser77p…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 839403014892867600,
+				"id_str": "839403014892867584",
+				"name": "슈기",
+				"screen_name": "KOUSEKISEIBOY",
+				"location": "Vietnam",
+				"description": "당신이 빛이라면 나는 그림자여도 좋아",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 285,
+				"friends_count": 90,
+				"listed_count": 3,
+				"created_at": "Wed Mar 08 09:10:48 +0000 2017",
+				"favourites_count": 7467,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57243,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1096271387344269312/N84GSUYV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096271387344269312/N84GSUYV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/839403014892867584/1550463772",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 339,
+			"favorite_count": 230,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3111,
+		"favorite_count": 419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 계속 탐라에 들어오는데 저는 자폐인이고요. 이런 글 정말 불쾌합니다. 짜증나요. 활동보조 일 하는 입장에서도 이런 인식 가지고 일하는 사람들 적지 않은 거 알고 있는데, 그렇다고 이걸 글로 써서 당당히 전시할 거라곤 생각도 못했네요. https://t.co/rJ9TDZr1v7 https://t.co/Eq3usUKpfc"
+	},
+	{
+		"created_at": "Mon Dec 02 13:38:50 +0000 2019",
+		"id": 1201019888187273200,
+		"id_str": "1201495945029931009",
+		"full_text": "펭수는 자폐아를 닮았다. https://t.co/RPj3JFaIRj #브런치\n\n너무 좋은 글을 읽어버렸다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브런치",
+					"indices": [
+						38,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RPj3JFaIRj",
+					"expanded_url": "https://brunch.co.kr/@happyloser77p/60",
+					"display_url": "brunch.co.kr/@happyloser77p…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839403014892867600,
+			"id_str": "839403014892867584",
+			"name": "슈기",
+			"screen_name": "KOUSEKISEIBOY",
+			"location": "Vietnam",
+			"description": "당신이 빛이라면 나는 그림자여도 좋아",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 90,
+			"listed_count": 3,
+			"created_at": "Wed Mar 08 09:10:48 +0000 2017",
+			"favourites_count": 7467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096271387344269312/N84GSUYV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096271387344269312/N84GSUYV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/839403014892867584/1550463772",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 339,
+		"favorite_count": 230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "펭수는 자폐아를 닮았다. https://t.co/RPj3JFaIRj #브런치\n\n너무 좋은 글을 읽어버렸다."
+	},
+	{
+		"created_at": "Mon Dec 02 13:38:23 +0000 2019",
+		"id": 1201409471848673300,
+		"id_str": "1201495832345710592",
+		"full_text": "A : 너는 좋겠다\nB : 뭐가?\nA : 부모님이 집 얻어 주실 테니까\nB : 나는 니가 부럽다\nA : 왜?\nB : 부모님 힘 안빌려도 되니까\n\n광고 만든 새끼랑 컨펌한 새끼 전부 나와서 대가리 박아라 https://t.co/czaSsryGl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201409462751264800,
+					"id_str": "1201409462751264768",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxDioEVAAAtuaE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxDioEVAAAtuaE.jpg",
+					"url": "https://t.co/czaSsryGl4",
+					"display_url": "pic.twitter.com/czaSsryGl4",
+					"expanded_url": "https://twitter.com/deckybi/status/1201409471848673281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 940,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 940,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201409462751264800,
+					"id_str": "1201409462751264768",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxDioEVAAAtuaE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxDioEVAAAtuaE.jpg",
+					"url": "https://t.co/czaSsryGl4",
+					"display_url": "pic.twitter.com/czaSsryGl4",
+					"expanded_url": "https://twitter.com/deckybi/status/1201409471848673281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 940,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 940,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54256163,
+			"id_str": "54256163",
+			"name": "DECK🏳️‍🌈😷",
+			"screen_name": "deckybi",
+			"location": "Seoul, Korea",
+			"description": "문화기획자/B",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3320,
+			"friends_count": 432,
+			"listed_count": 76,
+			"created_at": "Mon Jul 06 16:37:25 +0000 2009",
+			"favourites_count": 2321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2A2A2A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112496366180163584/ksW4KytO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112496366180163584/ksW4KytO_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE7700",
+			"profile_text_color": "1A1A1A",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9740,
+		"favorite_count": 1682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "A : 너는 좋겠다\nB : 뭐가?\nA : 부모님이 집 얻어 주실 테니까\nB : 나는 니가 부럽다\nA : 왜?\nB : 부모님 힘 안빌려도 되니까\n\n광고 만든 새끼랑 컨펌한 새끼 전부 나와서 대가리 박아라 https://t.co/czaSsryGl4"
+	},
+	{
+		"created_at": "Mon Dec 02 13:32:29 +0000 2019",
+		"id": 1201303950881738800,
+		"id_str": "1201494345053925377",
+		"full_text": "원 가사인 boy를 girl로 바꿔 부른 웬디\n\nooh girl come and light me up\n캄캄한 세상을 밝혀 줘 https://t.co/A33YZbsdna",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201303229809643500,
+					"id_str": "1201303229809643520",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201303229809643520/pu/img/QIty00HrF6a3UccI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201303229809643520/pu/img/QIty00HrF6a3UccI.jpg",
+					"url": "https://t.co/A33YZbsdna",
+					"display_url": "pic.twitter.com/A33YZbsdna",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1201303950881738753/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1264,
+							"h": 708,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201303229809643500,
+					"id_str": "1201303229809643520",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201303229809643520/pu/img/QIty00HrF6a3UccI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201303229809643520/pu/img/QIty00HrF6a3UccI.jpg",
+					"url": "https://t.co/A33YZbsdna",
+					"display_url": "pic.twitter.com/A33YZbsdna",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1201303950881738753/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1264,
+							"h": 708,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							316,
+							177
+						],
+						"duration_millis": 35334,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201303229809643520/pu/vid/642x360/FN3PRlTGu6mrKMZF.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1201303229809643520/pu/pl/QNf3Qvwizp7I8pay.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201303229809643520/pu/vid/482x270/cPOOrBW83CtfC2o3.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201303229809643520/pu/vid/1264x708/uMhW_FGV4929A_FP.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180291928031514600,
+			"id_str": "1180291928031514624",
+			"name": "좋아하는여자영상",
+			"screen_name": "zmfflq1234",
+			"location": "여자만/모멘트에 정리",
+			"description": "여자얘기뿐",
+			"url": "https://t.co/QZoFnUuklR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZoFnUuklR",
+							"expanded_url": "http://asked.kr/zmfflq1234",
+							"display_url": "asked.kr/zmfflq1234",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39406,
+			"friends_count": 0,
+			"listed_count": 77,
+			"created_at": "Sat Oct 05 01:21:50 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3488,
+		"favorite_count": 2773,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원 가사인 boy를 girl로 바꿔 부른 웬디\n\nooh girl come and light me up\n캄캄한 세상을 밝혀 줘 https://t.co/A33YZbsdna"
+	},
+	{
 		"created_at": "Mon Dec 02 12:58:24 +0000 2019",
 		"id": 1201153654813708300,
 		"id_str": "1201485768558088192",
