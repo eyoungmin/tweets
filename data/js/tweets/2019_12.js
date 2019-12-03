@@ -1,6 +1,1535 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 12:31:37 +0000 2019",
+		"id": 1201694879069429800,
+		"id_str": "1201841416642514944",
+		"full_text": "11월 28일 방송된 MBC스페셜 ‘바다의 경고 – 사라지는 고래들’ 편에서 구강암에 걸린 제주 남방큰돌고래의 충격적인 모습이 방영되었습니다. 이 돌고래는 악성종양(암)이 생겨 턱 모양이 완전히 바뀌었고 심한 변형을 일으켰습니다. 해양생태계가 발암 독성물질로 오염되고 있다는 증거입니다. https://t.co/jJUbcqUck6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201694866016587800,
+					"id_str": "1201694866016587776",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1HHSFUUAAcCil.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1HHSFUUAAcCil.jpg",
+					"url": "https://t.co/jJUbcqUck6",
+					"display_url": "pic.twitter.com/jJUbcqUck6",
+					"expanded_url": "https://twitter.com/hotpinkdolphins/status/1201694879069429760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201694866016587800,
+					"id_str": "1201694866016587776",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1HHSFUUAAcCil.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1HHSFUUAAcCil.jpg",
+					"url": "https://t.co/jJUbcqUck6",
+					"display_url": "pic.twitter.com/jJUbcqUck6",
+					"expanded_url": "https://twitter.com/hotpinkdolphins/status/1201694879069429760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1201694866020823000,
+					"id_str": "1201694866020823040",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1HHSGU8AAk-s4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1HHSGU8AAk-s4.jpg",
+					"url": "https://t.co/jJUbcqUck6",
+					"display_url": "pic.twitter.com/jJUbcqUck6",
+					"expanded_url": "https://twitter.com/hotpinkdolphins/status/1201694879069429760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 715,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1201694866025005000,
+					"id_str": "1201694866025005056",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1HHSHUwAATboN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1HHSHUwAATboN.jpg",
+					"url": "https://t.co/jJUbcqUck6",
+					"display_url": "pic.twitter.com/jJUbcqUck6",
+					"expanded_url": "https://twitter.com/hotpinkdolphins/status/1201694879069429760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1276,
+							"h": 714,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1118,
+									"y": 99,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1118,
+									"y": 99,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 595,
+									"y": 52,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1051,
+									"y": 93,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 419540427,
+			"id_str": "419540427",
+			"name": "핫핑크돌핀스",
+			"screen_name": "hotpinkdolphins",
+			"location": "지구별★",
+			"description": "쇼동물 해방운동과 해양생태계 보전 활동을 합니다. 고래 - 바다 - 사람의 평화로운 공존을 꿈꾸는 작은 환경단체입니다. \n\n후원: 국민 067501-04-045234 핫핑크돌핀스 https://t.co/NjZI5lZlIG",
+			"url": "http://t.co/IfHkKA5i9w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IfHkKA5i9w",
+							"expanded_url": "http://hotpinkdolphins.org",
+							"display_url": "hotpinkdolphins.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NjZI5lZlIG",
+							"expanded_url": "http://www.facebook.com/hotpinkdolphins",
+							"display_url": "facebook.com/hotpinkdolphins",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2720,
+			"friends_count": 850,
+			"listed_count": 26,
+			"created_at": "Wed Nov 23 13:39:46 +0000 2011",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853132032037109760/hVSO1kNc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853132032037109760/hVSO1kNc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/419540427/1488344508",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11월 28일 방송된 MBC스페셜 ‘바다의 경고 – 사라지는 고래들’ 편에서 구강암에 걸린 제주 남방큰돌고래의 충격적인 모습이 방영되었습니다. 이 돌고래는 악성종양(암)이 생겨 턱 모양이 완전히 바뀌었고 심한 변형을 일으켰습니다. 해양생태계가 발암 독성물질로 오염되고 있다는 증거입니다. https://t.co/jJUbcqUck6"
+	},
+	{
+		"created_at": "Tue Dec 03 12:31:04 +0000 2019",
+		"id": 1201773167976411100,
+		"id_str": "1201841278368927744",
+		"full_text": "‘연을 날리는 마음으로’\n\n한 해를 마무리 할 때가 되면 연를 날리러 가곤 했습니다. 연이 까만 점으로 보일 만큼 높이 날면 실을 끊어 보내고 물레만 들고 집으로 돌아오기도 했습니다. 12월의 마지막 주 연을 날리는 마음으로 2019년 마지막 공연을 준비합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1201773165082333200,
+		"in_reply_to_status_id_str": "1201773165082333184",
+		"in_reply_to_user_id": 2572167788,
+		"in_reply_to_user_id_str": "2572167788",
+		"in_reply_to_screen_name": "KwonNamoo",
+		"user": {
+			"id": 2572167788,
+			"id_str": "2572167788",
+			"name": "권나무 KwonTree",
+			"screen_name": "KwonNamoo",
+			"location": "",
+			"description": "3집 ‘새로운 날’ 발매되었습니다. (2019.1.1)",
+			"url": "https://t.co/7TbcbHFff2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7TbcbHFff2",
+							"expanded_url": "https://Instagram.com/kwontree_",
+							"display_url": "Instagram.com/kwontree_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1900,
+			"friends_count": 314,
+			"listed_count": 15,
+			"created_at": "Tue Jun 17 04:00:39 +0000 2014",
+			"favourites_count": 2065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572167788/1546317944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fcb24e582ac6ed",
+			"url": "https://api.twitter.com/1.1/geo/id/01fcb24e582ac6ed.json",
+			"place_type": "city",
+			"name": "당진시",
+			"full_name": "대한민국 당진시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.410213776341,
+							36.7499882979662
+						],
+						[
+							126.857639050729,
+							36.7499882979662
+						],
+						[
+							126.857639050729,
+							37.114268019242
+						],
+						[
+							126.410213776341,
+							37.114268019242
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘연을 날리는 마음으로’\n\n한 해를 마무리 할 때가 되면 연를 날리러 가곤 했습니다. 연이 까만 점으로 보일 만큼 높이 날면 실을 끊어 보내고 물레만 들고 집으로 돌아오기도 했습니다. 12월의 마지막 주 연을 날리는 마음으로 2019년 마지막 공연을 준비합니다."
+	},
+	{
+		"created_at": "Tue Dec 03 12:31:00 +0000 2019",
+		"id": 1201773165082333200,
+		"id_str": "1201841259360292866",
+		"full_text": "🧰예매시작\n\n🪁2019 권나무 연말콘서트\n\n‘연을 날리는 마음으로’\n멜론티켓 https://t.co/z5rdNkYHnW\n\n- 일시: 12.28.(토)-29.(일) (양일간) pm7:00\n- 장소: 파랑새극장 /대학로 https://t.co/uDW1eWQQbK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z5rdNkYHnW",
+					"expanded_url": "http://bit.ly/2019ByeByTree",
+					"display_url": "bit.ly/2019ByeByTree",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201773156232384500,
+					"id_str": "1201773156232384517",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2OUX3U0AUuYRU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2OUX3U0AUuYRU.jpg",
+					"url": "https://t.co/uDW1eWQQbK",
+					"display_url": "pic.twitter.com/uDW1eWQQbK",
+					"expanded_url": "https://twitter.com/KwonNamoo/status/1201773165082333184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 157,
+									"y": 640,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 104,
+									"y": 425,
+									"h": 59,
+									"w": 59
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201773156232384500,
+					"id_str": "1201773156232384517",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2OUX3U0AUuYRU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2OUX3U0AUuYRU.jpg",
+					"url": "https://t.co/uDW1eWQQbK",
+					"display_url": "pic.twitter.com/uDW1eWQQbK",
+					"expanded_url": "https://twitter.com/KwonNamoo/status/1201773165082333184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 157,
+									"y": 640,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 104,
+									"y": 425,
+									"h": 59,
+									"w": 59
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2572167788,
+			"id_str": "2572167788",
+			"name": "권나무 KwonTree",
+			"screen_name": "KwonNamoo",
+			"location": "",
+			"description": "3집 ‘새로운 날’ 발매되었습니다. (2019.1.1)",
+			"url": "https://t.co/7TbcbHFff2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7TbcbHFff2",
+							"expanded_url": "https://Instagram.com/kwontree_",
+							"display_url": "Instagram.com/kwontree_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1900,
+			"friends_count": 314,
+			"listed_count": 15,
+			"created_at": "Tue Jun 17 04:00:39 +0000 2014",
+			"favourites_count": 2065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572167788/1546317944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fcb24e582ac6ed",
+			"url": "https://api.twitter.com/1.1/geo/id/01fcb24e582ac6ed.json",
+			"place_type": "city",
+			"name": "당진시",
+			"full_name": "대한민국 당진시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.410213776341,
+							36.7499882979662
+						],
+						[
+							126.857639050729,
+							36.7499882979662
+						],
+						[
+							126.857639050729,
+							37.114268019242
+						],
+						[
+							126.410213776341,
+							37.114268019242
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧰예매시작\n\n🪁2019 권나무 연말콘서트\n\n‘연을 날리는 마음으로’\n멜론티켓 https://t.co/z5rdNkYHnW\n\n- 일시: 12.28.(토)-29.(일) (양일간) pm7:00\n- 장소: 파랑새극장 /대학로 https://t.co/uDW1eWQQbK"
+	},
+	{
+		"created_at": "Tue Dec 03 12:27:39 +0000 2019",
+		"id": 1201838076638552000,
+		"id_str": "1201840417131683853",
+		"full_text": "[2020/NEON : MD 및 사인회 공지]\n이번 주 토요일로 다가온 새소년 단독 콘서트 “2020/NEON”에서 진행될 MD 판매 및 사인회 관련한 내용을 알려드립니다.\n⠀\nMD의 이미지는 내일부터 차례로 공개합니다.\n⠀\n#새소년 #SESONEON #단독 #콘서트 #2020NEON #MD #사인회 https://t.co/4ARQBmcwZn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "단독",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "2020NEON",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "MD",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "사인회",
+					"indices": [
+						164,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201838069210476500,
+					"id_str": "1201838069210476544",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EK3JWzjU8AAvZpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK3JWzjU8AAvZpy.jpg",
+					"url": "https://t.co/4ARQBmcwZn",
+					"display_url": "pic.twitter.com/4ARQBmcwZn",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1201838076638552064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 871,
+									"y": 162,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 159,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 129,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 300,
+									"y": 127,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 871,
+									"y": 162,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 159,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 394,
+									"y": 73,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 170,
+									"y": 72,
+									"h": 33,
+									"w": 33
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201838069210476500,
+					"id_str": "1201838069210476544",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EK3JWzjU8AAvZpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK3JWzjU8AAvZpy.jpg",
+					"url": "https://t.co/4ARQBmcwZn",
+					"display_url": "pic.twitter.com/4ARQBmcwZn",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1201838076638552064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 871,
+									"y": 162,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 159,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 129,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 300,
+									"y": 127,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 871,
+									"y": 162,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 159,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 394,
+									"y": 73,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 170,
+									"y": 72,
+									"h": 33,
+									"w": 33
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1201838069646651400,
+					"id_str": "1201838069646651393",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EK3JW1LUcAEbKdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK3JW1LUcAEbKdK.jpg",
+					"url": "https://t.co/4ARQBmcwZn",
+					"display_url": "pic.twitter.com/4ARQBmcwZn",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1201838076638552064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 374,
+									"y": 310,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 108,
+									"y": 166,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 422,
+									"y": 307,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 38,
+									"y": 204,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 253,
+									"y": 252,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 827,
+									"y": 685,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 240,
+									"y": 367,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 931,
+									"y": 679,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 84,
+									"y": 452,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 559,
+									"y": 556,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 827,
+									"y": 685,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 240,
+									"y": 367,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 931,
+									"y": 679,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 84,
+									"y": 452,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 559,
+									"y": 556,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 661,
+									"y": 548,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 192,
+									"y": 293,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 744,
+									"y": 543,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 67,
+									"y": 361,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 447,
+									"y": 444,
+									"h": 98,
+									"w": 98
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1201838069910921200,
+					"id_str": "1201838069910921216",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EK3JW2KU4AAHZ7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK3JW2KU4AAHZ7U.jpg",
+					"url": "https://t.co/4ARQBmcwZn",
+					"display_url": "pic.twitter.com/4ARQBmcwZn",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1201838076638552064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 498,
+									"y": 136,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 918,
+									"y": 45,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 937,
+									"y": 996,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 401,
+									"y": 540,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 659,
+									"y": 752,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 498,
+									"y": 136,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 918,
+									"y": 45,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 937,
+									"y": 996,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 401,
+									"y": 540,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 659,
+									"y": 752,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 225,
+									"y": 61,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 416,
+									"y": 20,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 424,
+									"y": 451,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 181,
+									"y": 244,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 298,
+									"y": 340,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 398,
+									"y": 108,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 734,
+									"y": 36,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 749,
+									"y": 796,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 320,
+									"y": 432,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 527,
+									"y": 601,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1201838064135311400,
+		"in_reply_to_status_id_str": "1201838064135311360",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7005,
+			"friends_count": 527,
+			"listed_count": 41,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020/NEON : MD 및 사인회 공지]\n이번 주 토요일로 다가온 새소년 단독 콘서트 “2020/NEON”에서 진행될 MD 판매 및 사인회 관련한 내용을 알려드립니다.\n⠀\nMD의 이미지는 내일부터 차례로 공개합니다.\n⠀\n#새소년 #SESONEON #단독 #콘서트 #2020NEON #MD #사인회 https://t.co/4ARQBmcwZn"
+	},
+	{
 		"created_at": "Tue Dec 03 11:46:32 +0000 2019",
 		"id": 1201830070454608000,
 		"id_str": "1201830070454607875",
