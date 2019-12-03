@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 09:27:42 +0000 2019",
+		"id": 1201793114534318000,
+		"id_str": "1201795131902513152",
+		"full_text": "[STAR GARDEN2] 레드벨벳(Red Velvet) 웬디&amp;조이 #01 천상계 비주얼 케미(ft. 김희철)\n\n👉https://t.co/vHc8Cdcyg7\n👉https://t.co/7fnIe3emZE\n\n#웬디 #WENDY #조이 #JOY #레드벨벳 #RedVelvet #STARGARDEN2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "STARGARDEN2",
+					"indices": [
+						155,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vHc8Cdcyg7",
+					"expanded_url": "https://www.vlive.tv/video/163683",
+					"display_url": "vlive.tv/video/163683",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/7fnIe3emZE",
+					"expanded_url": "https://youtu.be/MEsTQwCg4vs",
+					"display_url": "youtu.be/MEsTQwCg4vs",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1950192,
+			"friends_count": 2,
+			"listed_count": 5875,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160568809201078272/KA3NhR4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2118,
+		"favorite_count": 4017,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STAR GARDEN2] 레드벨벳(Red Velvet) 웬디&amp;조이 #01 천상계 비주얼 케미(ft. 김희철)\n\n👉https://t.co/vHc8Cdcyg7\n👉https://t.co/7fnIe3emZE\n\n#웬디 #WENDY #조이 #JOY #레드벨벳 #RedVelvet #STARGARDEN2"
+	},
+	{
+		"created_at": "Tue Dec 03 09:27:38 +0000 2019",
+		"id": 1201789062148837400,
+		"id_str": "1201795114592550915",
+		"full_text": "Yerin Baek 1st Full-Length Album\n[𝐄𝐯𝐞𝐫𝐲 𝐥𝐞𝐭𝐭𝐞𝐫𝐬 𝐈 𝐬𝐞𝐧𝐭 𝐲𝐨𝐮.] Tracklist\n⠀\n2019.12.10. TUE. 6PM (KST) Release\n\n#백예린 #yerinbaek https://t.co/rJumiZcouq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201789053147836400,
+					"id_str": "1201789053147836418",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2cxsfUcAIIIJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2cxsfUcAIIIJX.jpg",
+					"url": "https://t.co/rJumiZcouq",
+					"display_url": "pic.twitter.com/rJumiZcouq",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1201789062148837376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 1006,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 506,
+									"y": 805,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 368,
+									"y": 570,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 287,
+									"y": 456,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 678,
+									"y": 1048,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 528,
+									"y": 839,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 678,
+									"y": 1048,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 528,
+									"y": 839,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201789053147836400,
+					"id_str": "1201789053147836418",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2cxsfUcAIIIJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2cxsfUcAIIIJX.jpg",
+					"url": "https://t.co/rJumiZcouq",
+					"display_url": "pic.twitter.com/rJumiZcouq",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1201789062148837376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 1006,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 506,
+									"y": 805,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 368,
+									"y": 570,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 287,
+									"y": 456,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 678,
+									"y": 1048,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 528,
+									"y": 839,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 678,
+									"y": 1048,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 528,
+									"y": 839,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2709,
+			"friends_count": 0,
+			"listed_count": 27,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 950,
+		"favorite_count": 568,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yerin Baek 1st Full-Length Album\n[𝐄𝐯𝐞𝐫𝐲 𝐥𝐞𝐭𝐭𝐞𝐫𝐬 𝐈 𝐬𝐞𝐧𝐭 𝐲𝐨𝐮.] Tracklist\n⠀\n2019.12.10. TUE. 6PM (KST) Release\n\n#백예린 #yerinbaek https://t.co/rJumiZcouq"
+	},
+	{
 		"created_at": "Tue Dec 03 08:50:09 +0000 2019",
 		"id": 1201785683968483300,
 		"id_str": "1201785683968483328",
