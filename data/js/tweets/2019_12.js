@@ -1,6 +1,1441 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 05:01:57 +0000 2019",
+		"id": 1201654801777356800,
+		"id_str": "1201728252408020995",
+		"full_text": "‘시간의 바깥’\n긴긴 서사를 거쳐 비로소 첫 줄로 적혀\n나 두려움 따윈 없어\n\n과거의 노래들이 쌓이고 쌓여 그의 역사가 된 이 지금, 아이유는 비로소 다가올 시간 속의 자신을 말한다. 지나온 시간이 아니라 바로 지금의 나, 과거에 대한 이해 대신 아무것도 적혀 있지 않은 세상에서 첫 줄을 적는 나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1201654324335562800,
+		"in_reply_to_status_id_str": "1201654324335562752",
+		"in_reply_to_user_id": 1447965822,
+		"in_reply_to_user_id_str": "1447965822",
+		"in_reply_to_screen_name": "izemag",
+		"user": {
+			"id": 1447965822,
+			"id_str": "1447965822",
+			"name": "ize magazine",
+			"screen_name": "izemag",
+			"location": "",
+			"description": "웹 매거진 [아이즈]입니다.",
+			"url": "https://t.co/SGz4w9fK0U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SGz4w9fK0U",
+							"expanded_url": "http://www.ize.co.kr",
+							"display_url": "ize.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248836,
+			"friends_count": 0,
+			"listed_count": 391,
+			"created_at": "Wed May 22 04:54:50 +0000 2013",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447965822/1469609488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘시간의 바깥’\n긴긴 서사를 거쳐 비로소 첫 줄로 적혀\n나 두려움 따윈 없어\n\n과거의 노래들이 쌓이고 쌓여 그의 역사가 된 이 지금, 아이유는 비로소 다가올 시간 속의 자신을 말한다. 지나온 시간이 아니라 바로 지금의 나, 과거에 대한 이해 대신 아무것도 적혀 있지 않은 세상에서 첫 줄을 적는 나."
+	},
+	{
+		"created_at": "Tue Dec 03 05:01:55 +0000 2019",
+		"id": 1201654324335562800,
+		"id_str": "1201728245005049861",
+		"full_text": "‘싫은 날’\n한 겨울보다 차가운 내 방 손 끝까지 시린 공기 봄이 오지 않으면 그게 차라리 나을까\n\n턱 끝까지 올라오는 외로움과 서러움을 삼키며 무릎을 끌어안는 추운 겨울. 영원히 끝나지 않을 것 같은 추위에 차라리 익숙해지는 날들. 누구에게나 있는 ‘싫은 날’을 아이유는 정확하게 포착한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1201653789746315300,
+		"in_reply_to_status_id_str": "1201653789746315266",
+		"in_reply_to_user_id": 1447965822,
+		"in_reply_to_user_id_str": "1447965822",
+		"in_reply_to_screen_name": "izemag",
+		"user": {
+			"id": 1447965822,
+			"id_str": "1447965822",
+			"name": "ize magazine",
+			"screen_name": "izemag",
+			"location": "",
+			"description": "웹 매거진 [아이즈]입니다.",
+			"url": "https://t.co/SGz4w9fK0U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SGz4w9fK0U",
+							"expanded_url": "http://www.ize.co.kr",
+							"display_url": "ize.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248836,
+			"friends_count": 0,
+			"listed_count": 391,
+			"created_at": "Wed May 22 04:54:50 +0000 2013",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447965822/1469609488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘싫은 날’\n한 겨울보다 차가운 내 방 손 끝까지 시린 공기 봄이 오지 않으면 그게 차라리 나을까\n\n턱 끝까지 올라오는 외로움과 서러움을 삼키며 무릎을 끌어안는 추운 겨울. 영원히 끝나지 않을 것 같은 추위에 차라리 익숙해지는 날들. 누구에게나 있는 ‘싫은 날’을 아이유는 정확하게 포착한다."
+	},
+	{
+		"created_at": "Tue Dec 03 05:01:52 +0000 2019",
+		"id": 1201653789746315300,
+		"id_str": "1201728231780446208",
+		"full_text": "아이유│② 지은이 이지은의 시 다섯\nby 글 김겨울, 김소미, 임현경, 전연주, 강명석, 디자인 전유림\n\n아이유의 노래를 듣는다면 반드시 그의 가사가 떠오르는 순간이 있다. 인생의 한 시점에서 자신에게 깊은 기억을 남긴 아이유의 가사 다섯.\n\nhttps://t.co/mN6BmbzBt8\n\n#아이유 #Lovepoem https://t.co/FqEvBQPAnt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "Lovepoem",
+					"indices": [
+						166,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mN6BmbzBt8",
+					"expanded_url": "http://www.ize.co.kr/articleView.html?no=2019120307057251872",
+					"display_url": "ize.co.kr/articleView.ht…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201653782125269000,
+					"id_str": "1201653782125268993",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EK0hv4qU0AE4ave.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK0hv4qU0AE4ave.jpg",
+					"url": "https://t.co/FqEvBQPAnt",
+					"display_url": "pic.twitter.com/FqEvBQPAnt",
+					"expanded_url": "https://twitter.com/izemag/status/1201653789746315266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 866,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 866,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 32,
+									"y": 100,
+									"h": 341,
+									"w": 341
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 128,
+									"h": 434,
+									"w": 434
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 128,
+									"h": 434,
+									"w": 434
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 128,
+									"h": 434,
+									"w": 434
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201653782125269000,
+					"id_str": "1201653782125268993",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EK0hv4qU0AE4ave.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK0hv4qU0AE4ave.jpg",
+					"url": "https://t.co/FqEvBQPAnt",
+					"display_url": "pic.twitter.com/FqEvBQPAnt",
+					"expanded_url": "https://twitter.com/izemag/status/1201653789746315266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 866,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 866,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 32,
+									"y": 100,
+									"h": 341,
+									"w": 341
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 128,
+									"h": 434,
+									"w": 434
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 128,
+									"h": 434,
+									"w": 434
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 128,
+									"h": 434,
+									"w": 434
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1447965822,
+			"id_str": "1447965822",
+			"name": "ize magazine",
+			"screen_name": "izemag",
+			"location": "",
+			"description": "웹 매거진 [아이즈]입니다.",
+			"url": "https://t.co/SGz4w9fK0U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SGz4w9fK0U",
+							"expanded_url": "http://www.ize.co.kr",
+							"display_url": "ize.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248836,
+			"friends_count": 0,
+			"listed_count": 391,
+			"created_at": "Wed May 22 04:54:50 +0000 2013",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447965822/1469609488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 332,
+		"favorite_count": 370,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유│② 지은이 이지은의 시 다섯\nby 글 김겨울, 김소미, 임현경, 전연주, 강명석, 디자인 전유림\n\n아이유의 노래를 듣는다면 반드시 그의 가사가 떠오르는 순간이 있다. 인생의 한 시점에서 자신에게 깊은 기억을 남긴 아이유의 가사 다섯.\n\nhttps://t.co/mN6BmbzBt8\n\n#아이유 #Lovepoem https://t.co/FqEvBQPAnt"
+	},
+	{
+		"created_at": "Tue Dec 03 05:01:50 +0000 2019",
+		"id": 1201653107890876400,
+		"id_str": "1201728222796234752",
+		"full_text": "‘Love poem’의 노래들은 곡마다 다른 목소리로 사랑에 대한 가사의 내용을 그대로 반영한다. 아직은 사랑에 대해 이야기하기 조심스러운 한 사람의 내면을 음악으로써 표현하고, 그런 사랑의 형태가 음악이 되는 것 역시 아티스트가 보여줄 수 있는 새로운 발자취다. 이것이야말로 ‘시적 허용’이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1201652537729831000,
+		"in_reply_to_status_id_str": "1201652537729830912",
+		"in_reply_to_user_id": 1447965822,
+		"in_reply_to_user_id_str": "1447965822",
+		"in_reply_to_screen_name": "izemag",
+		"user": {
+			"id": 1447965822,
+			"id_str": "1447965822",
+			"name": "ize magazine",
+			"screen_name": "izemag",
+			"location": "",
+			"description": "웹 매거진 [아이즈]입니다.",
+			"url": "https://t.co/SGz4w9fK0U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SGz4w9fK0U",
+							"expanded_url": "http://www.ize.co.kr",
+							"display_url": "ize.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248836,
+			"friends_count": 0,
+			"listed_count": 391,
+			"created_at": "Wed May 22 04:54:50 +0000 2013",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447965822/1469609488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘Love poem’의 노래들은 곡마다 다른 목소리로 사랑에 대한 가사의 내용을 그대로 반영한다. 아직은 사랑에 대해 이야기하기 조심스러운 한 사람의 내면을 음악으로써 표현하고, 그런 사랑의 형태가 음악이 되는 것 역시 아티스트가 보여줄 수 있는 새로운 발자취다. 이것이야말로 ‘시적 허용’이다."
+	},
+	{
+		"created_at": "Tue Dec 03 05:01:48 +0000 2019",
+		"id": 1201652537729831000,
+		"id_str": "1201728216047636482",
+		"full_text": "감정의 절제, 혹은 개인적인 감정의 추상화는 그 자체로 ‘Love poem’이 내세우는 ‘사랑시’의 형식이다. 앨범과 동명의 타이틀곡 ‘Love poem’에서 아이유의 목소리는 울리는 소리로 표현되며 상대를 위해 멀리서 노래하는 상태를 형상화하고, 기교를 최소화한 창법은 담담하게 가사를 전달한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1201652070463336400,
+		"in_reply_to_status_id_str": "1201652070463336448",
+		"in_reply_to_user_id": 1447965822,
+		"in_reply_to_user_id_str": "1447965822",
+		"in_reply_to_screen_name": "izemag",
+		"user": {
+			"id": 1447965822,
+			"id_str": "1447965822",
+			"name": "ize magazine",
+			"screen_name": "izemag",
+			"location": "",
+			"description": "웹 매거진 [아이즈]입니다.",
+			"url": "https://t.co/SGz4w9fK0U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SGz4w9fK0U",
+							"expanded_url": "http://www.ize.co.kr",
+							"display_url": "ize.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248836,
+			"friends_count": 0,
+			"listed_count": 391,
+			"created_at": "Wed May 22 04:54:50 +0000 2013",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447965822/1469609488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "감정의 절제, 혹은 개인적인 감정의 추상화는 그 자체로 ‘Love poem’이 내세우는 ‘사랑시’의 형식이다. 앨범과 동명의 타이틀곡 ‘Love poem’에서 아이유의 목소리는 울리는 소리로 표현되며 상대를 위해 멀리서 노래하는 상태를 형상화하고, 기교를 최소화한 창법은 담담하게 가사를 전달한다."
+	},
+	{
+		"created_at": "Tue Dec 03 05:01:43 +0000 2019",
+		"id": 1201652070463336400,
+		"id_str": "1201728194883145728",
+		"full_text": "아이유│① 사랑의 형태 by 글 김리은, 디자인 전유림\n\n아이유는 ‘Love poem’에서 ‘사랑’이라는 단어만으로 설명할 수 없는 다양한 사랑의 면모들을 시의 형식에 담았다.\n\nhttps://t.co/T3ji3Inpzy\n\n#아이유 #Lovepoem #사랑시 #시간의바깥 #지은이 #이지은 https://t.co/D4gjpzeqSU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "Lovepoem",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "사랑시",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "시간의바깥",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "지은이",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T3ji3Inpzy",
+					"expanded_url": "http://www.ize.co.kr/articleView.html?no=2019120307087285224",
+					"display_url": "ize.co.kr/articleView.ht…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201652060170666000,
+					"id_str": "1201652060170665989",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EK0gLp4WwAUIp9l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK0gLp4WwAUIp9l.jpg",
+					"url": "https://t.co/D4gjpzeqSU",
+					"display_url": "pic.twitter.com/D4gjpzeqSU",
+					"expanded_url": "https://twitter.com/izemag/status/1201652070463336448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 610,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 610,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201652060170666000,
+					"id_str": "1201652060170665989",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EK0gLp4WwAUIp9l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK0gLp4WwAUIp9l.jpg",
+					"url": "https://t.co/D4gjpzeqSU",
+					"display_url": "pic.twitter.com/D4gjpzeqSU",
+					"expanded_url": "https://twitter.com/izemag/status/1201652070463336448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 610,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 610,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1447965822,
+			"id_str": "1447965822",
+			"name": "ize magazine",
+			"screen_name": "izemag",
+			"location": "",
+			"description": "웹 매거진 [아이즈]입니다.",
+			"url": "https://t.co/SGz4w9fK0U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SGz4w9fK0U",
+							"expanded_url": "http://www.ize.co.kr",
+							"display_url": "ize.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248836,
+			"friends_count": 0,
+			"listed_count": 391,
+			"created_at": "Wed May 22 04:54:50 +0000 2013",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447965822/1469609488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유│① 사랑의 형태 by 글 김리은, 디자인 전유림\n\n아이유는 ‘Love poem’에서 ‘사랑’이라는 단어만으로 설명할 수 없는 다양한 사랑의 면모들을 시의 형식에 담았다.\n\nhttps://t.co/T3ji3Inpzy\n\n#아이유 #Lovepoem #사랑시 #시간의바깥 #지은이 #이지은 https://t.co/D4gjpzeqSU"
+	},
+	{
+		"created_at": "Tue Dec 03 05:01:28 +0000 2019",
+		"id": 1201586847664738300,
+		"id_str": "1201728133851836416",
+		"full_text": "음악이 없이는 하루를 견디기 어려웠던 시절도 있었는데 방금은 내 마음을 위로해줄 노래를 한 곡도 찾지 못했다. 전에 사랑했던 것들로부터 아무런 감정을 느낄 수 없고 앞으로도 아무것도 사랑하지 못할 것 같다. 음악이 아니라 내 문제다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5009,
+			"friends_count": 1157,
+			"listed_count": 94,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 6302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "음악이 없이는 하루를 견디기 어려웠던 시절도 있었는데 방금은 내 마음을 위로해줄 노래를 한 곡도 찾지 못했다. 전에 사랑했던 것들로부터 아무런 감정을 느낄 수 없고 앞으로도 아무것도 사랑하지 못할 것 같다. 음악이 아니라 내 문제다."
+	},
+	{
+		"created_at": "Tue Dec 03 05:00:16 +0000 2019",
+		"id": 1201727831329259500,
+		"id_str": "1201727831329259521",
+		"full_text": "와**는 손 털어서 비싸게 옷파는거나 중국 제품 떼다가 파는 거나 관리를 안하니까 아주 판침. 알려진 자체제작 업체가 판매하는 경우도 있지만 이 경우에도 환불/교환 어려워서 업체가 퀄리티 만족 못시켜도 뭔가 할 수 있는 창구가 없음. 항의해서 받아내는 것 밖에는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 839,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "와**는 손 털어서 비싸게 옷파는거나 중국 제품 떼다가 파는 거나 관리를 안하니까 아주 판침. 알려진 자체제작 업체가 판매하는 경우도 있지만 이 경우에도 환불/교환 어려워서 업체가 퀄리티 만족 못시켜도 뭔가 할 수 있는 창구가 없음. 항의해서 받아내는 것 밖에는."
+	},
+	{
+		"created_at": "Tue Dec 03 04:51:43 +0000 2019",
+		"id": 1201725679563231200,
+		"id_str": "1201725679563231232",
+		"full_text": "와디즈가 와디즈 했다. 공연 관람 때 쓰면 좋은 아이템이다 싶어서 샀다가 한 번도 못 쓰고 고장났다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 839,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "와디즈가 와디즈 했다. 공연 관람 때 쓰면 좋은 아이템이다 싶어서 샀다가 한 번도 못 쓰고 고장났다."
+	},
+	{
+		"created_at": "Tue Dec 03 04:50:12 +0000 2019",
+		"id": 1201637870093488000,
+		"id_str": "1201725297264975872",
+		"full_text": "Billie’s video for “xanny” comes out on Thursday. https://t.co/rCB5hDYpZj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201637865014382600,
+					"id_str": "1201637865014382593",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EK0TRYzXUAEWziN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK0TRYzXUAEWziN.jpg",
+					"url": "https://t.co/rCB5hDYpZj",
+					"display_url": "pic.twitter.com/rCB5hDYpZj",
+					"expanded_url": "https://twitter.com/billieeilish/status/1201637870093488128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201637865014382600,
+					"id_str": "1201637865014382593",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EK0TRYzXUAEWziN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK0TRYzXUAEWziN.jpg",
+					"url": "https://t.co/rCB5hDYpZj",
+					"display_url": "pic.twitter.com/rCB5hDYpZj",
+					"expanded_url": "https://twitter.com/billieeilish/status/1201637870093488128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3006224,
+			"friends_count": 0,
+			"listed_count": 2490,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7192,
+		"favorite_count": 45122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie’s video for “xanny” comes out on Thursday. https://t.co/rCB5hDYpZj"
+	},
+	{
 		"created_at": "Tue Dec 03 03:58:08 +0000 2019",
 		"id": 1201702099530027000,
 		"id_str": "1201712193676414979",
