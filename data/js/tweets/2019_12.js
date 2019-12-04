@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 13:54:53 +0000 2019",
+		"id": 1202214613787406300,
+		"id_str": "1202224758219268098",
+		"full_text": "[2020/NEON MD : 슬로건 타올]\n₩ 10,000\n\n#새소년 #SESONEON #단독 #콘서트 #2020NEON #MD #슬로건타올 https://t.co/DvUQcKrFYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"text": "단독",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "2020NEON",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "MD",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "슬로건타올",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202214599832899600,
+					"id_str": "1202214599832899586",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EK8fzxbUEAIroHT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK8fzxbUEAIroHT.jpg",
+					"url": "https://t.co/DvUQcKrFYe",
+					"display_url": "pic.twitter.com/DvUQcKrFYe",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202214613787406336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 604,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 88,
+									"y": 430,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 68,
+									"y": 410,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 59,
+									"y": 292,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 604,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 88,
+									"y": 430,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 604,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 88,
+									"y": 430,
+									"h": 101,
+									"w": 101
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202214599832899600,
+					"id_str": "1202214599832899586",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EK8fzxbUEAIroHT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK8fzxbUEAIroHT.jpg",
+					"url": "https://t.co/DvUQcKrFYe",
+					"display_url": "pic.twitter.com/DvUQcKrFYe",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202214613787406336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 604,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 88,
+									"y": 430,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 68,
+									"y": 410,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 59,
+									"y": 292,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 604,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 88,
+									"y": 430,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 604,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 88,
+									"y": 430,
+									"h": 101,
+									"w": 101
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202214599837094000,
+					"id_str": "1202214599837093888",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EK8fzxcUEAAnUsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK8fzxcUEAAnUsM.jpg",
+					"url": "https://t.co/DvUQcKrFYe",
+					"display_url": "pic.twitter.com/DvUQcKrFYe",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202214613787406336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1202214599824568300,
+					"id_str": "1202214599824568321",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EK8fzxZU8AEvs9j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK8fzxZU8AEvs9j.jpg",
+					"url": "https://t.co/DvUQcKrFYe",
+					"display_url": "pic.twitter.com/DvUQcKrFYe",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202214613787406336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1202214599828705300,
+					"id_str": "1202214599828705280",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EK8fzxaUEAAehtP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK8fzxaUEAAehtP.jpg",
+					"url": "https://t.co/DvUQcKrFYe",
+					"display_url": "pic.twitter.com/DvUQcKrFYe",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202214613787406336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7032,
+			"friends_count": 527,
+			"listed_count": 41,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020/NEON MD : 슬로건 타올]\n₩ 10,000\n\n#새소년 #SESONEON #단독 #콘서트 #2020NEON #MD #슬로건타올 https://t.co/DvUQcKrFYe"
+	},
+	{
 		"created_at": "Wed Dec 04 10:12:07 +0000 2019",
 		"id": 1202165466682163200,
 		"id_str": "1202168698741506051",
