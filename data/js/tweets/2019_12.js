@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 08:27:34 +0000 2019",
+		"id": 1202134363594322000,
+		"id_str": "1202142386207498240",
+		"full_text": "배우 임윤아가 중국의 권위 있는 시상식 중 하나인 ‘2019 COSMO GLAM NIGHT’에서  ‘올해의 인물상’을 수상했습니다! \n\n#임윤아 #LIMYOONA #윤아 #YOONA #소녀시대 #GirlsGeneration #2019_COSMO_GLAM_NIGHT https://t.co/BfiKzXrKHo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"text": "2019_COSMO_GLAM_NIGHT",
+					"indices": [
+						125,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202134286985359400,
+					"id_str": "1202134286985359361",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7Ww8wUcAExZA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7Ww8wUcAExZA4.jpg",
+					"url": "https://t.co/BfiKzXrKHo",
+					"display_url": "pic.twitter.com/BfiKzXrKHo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1202134363594321921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 134,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1001,
+									"y": 431,
+									"h": 495,
+									"w": 495
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 177,
+									"y": 76,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 533,
+									"y": 229,
+									"h": 263,
+									"w": 263
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202134286985359400,
+					"id_str": "1202134286985359361",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7Ww8wUcAExZA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7Ww8wUcAExZA4.jpg",
+					"url": "https://t.co/BfiKzXrKHo",
+					"display_url": "pic.twitter.com/BfiKzXrKHo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1202134363594321921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 134,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1001,
+									"y": 431,
+									"h": 495,
+									"w": 495
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 177,
+									"y": 76,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 533,
+									"y": 229,
+									"h": 263,
+									"w": 263
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202134286981202000,
+					"id_str": "1202134286981201920",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7Ww8vVAAAEWCG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7Ww8vVAAAEWCG.jpg",
+					"url": "https://t.co/BfiKzXrKHo",
+					"display_url": "pic.twitter.com/BfiKzXrKHo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1202134363594321921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1363,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1235,
+									"y": 1505,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 1197,
+									"y": 1256,
+									"h": 193,
+									"w": 193
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 419,
+									"y": 511,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 406,
+									"y": 426,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 289,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 230,
+									"y": 241,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 715,
+									"y": 871,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 693,
+									"y": 727,
+									"h": 111,
+									"w": 111
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3517198,
+			"friends_count": 4,
+			"listed_count": 5914,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3409,
+		"favorite_count": 6218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "배우 임윤아가 중국의 권위 있는 시상식 중 하나인 ‘2019 COSMO GLAM NIGHT’에서  ‘올해의 인물상’을 수상했습니다! \n\n#임윤아 #LIMYOONA #윤아 #YOONA #소녀시대 #GirlsGeneration #2019_COSMO_GLAM_NIGHT https://t.co/BfiKzXrKHo"
+	},
+	{
 		"created_at": "Wed Dec 04 06:52:16 +0000 2019",
 		"id": 1202118403923857400,
 		"id_str": "1202118403923857408",
