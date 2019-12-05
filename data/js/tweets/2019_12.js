@@ -1,6 +1,2480 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 12:01:22 +0000 2019",
+		"id": 1202422818790445000,
+		"id_str": "1202558580831862785",
+		"full_text": "[V ORIGINAL] 제로와 함께라면 어디든 행복한 울 탱구❣️ 바쁜 일상 탓에 자주 함께하지 못한 제로를 위해‼️ 비행기를 타구 슝 날아간대요✈️😘 어디루⁉️ In to the LA~😉 소울메이트 탱구와 제로의 LA여행기, 함께 해주실거죠⁉️\n\n▶ https://t.co/qL4slN8Ntc\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						190,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qL4slN8Ntc",
+					"expanded_url": "https://www.vlive.tv/video/163686",
+					"display_url": "vlive.tv/video/163686",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3374726,
+			"friends_count": 169,
+			"listed_count": 1879,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 619,
+		"favorite_count": 1323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 제로와 함께라면 어디든 행복한 울 탱구❣️ 바쁜 일상 탓에 자주 함께하지 못한 제로를 위해‼️ 비행기를 타구 슝 날아간대요✈️😘 어디루⁉️ In to the LA~😉 소울메이트 탱구와 제로의 LA여행기, 함께 해주실거죠⁉️\n\n▶ https://t.co/qL4slN8Ntc\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Thu Dec 05 12:01:20 +0000 2019",
+		"id": 1202133761351016400,
+		"id_str": "1202558572757803012",
+		"full_text": "#펫셔니스타탱구 #태연 #VLIVE https://t.co/Sf3GNmXTSu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202133753184714800,
+					"id_str": "1202133753184714753",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7WR4MVAAE_jUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7WR4MVAAE_jUo.jpg",
+					"url": "https://t.co/Sf3GNmXTSu",
+					"display_url": "pic.twitter.com/Sf3GNmXTSu",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1202133761351016449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202133753184714800,
+					"id_str": "1202133753184714753",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7WR4MVAAE_jUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7WR4MVAAE_jUo.jpg",
+					"url": "https://t.co/Sf3GNmXTSu",
+					"display_url": "pic.twitter.com/Sf3GNmXTSu",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1202133761351016449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202083442646769700,
+		"in_reply_to_status_id_str": "1202083442646769665",
+		"in_reply_to_user_id": 1459223742,
+		"in_reply_to_user_id_str": "1459223742",
+		"in_reply_to_screen_name": "Vliveofficial",
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3374726,
+			"friends_count": 169,
+			"listed_count": 1879,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 327,
+		"favorite_count": 1549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#펫셔니스타탱구 #태연 #VLIVE https://t.co/Sf3GNmXTSu"
+	},
+	{
+		"created_at": "Thu Dec 05 12:01:19 +0000 2019",
+		"id": 1202083442646769700,
+		"id_str": "1202558565136789504",
+		"full_text": "[V LIVE+] 띠링🎊 많은 분들이 기다렸던 펫셔니스타 탱구의 V LIVE+가 드디어 출시됐습니다💖 다음주 방송 미리 보기와 미공개 비하인드 만나보기~✌️ 요 두가지 선택지를 패키지로 가입하면 100코인이 할인된다고 하니‼️ 놓치지 말아요🥰\n \n▶️ https://t.co/duq4orLve6\n \n#펫셔니스타탱구 #태연 #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						180,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/duq4orLve6",
+					"expanded_url": "https://bit.ly/383VnNH",
+					"display_url": "bit.ly/383VnNH",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3374726,
+			"friends_count": 169,
+			"listed_count": 1879,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 291,
+		"favorite_count": 1643,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V LIVE+] 띠링🎊 많은 분들이 기다렸던 펫셔니스타 탱구의 V LIVE+가 드디어 출시됐습니다💖 다음주 방송 미리 보기와 미공개 비하인드 만나보기~✌️ 요 두가지 선택지를 패키지로 가입하면 100코인이 할인된다고 하니‼️ 놓치지 말아요🥰\n \n▶️ https://t.co/duq4orLve6\n \n#펫셔니스타탱구 #태연 #VLIVE"
+	},
+	{
+		"created_at": "Thu Dec 05 12:01:16 +0000 2019",
+		"id": 1193828211504713700,
+		"id_str": "1202558555703914496",
+		"full_text": "[V LIVE] 울 탱구만 있어두 귀욤 100% 충전인데‼️ 제로까지 함께하니 내 심장 하이브리드 됐잖아요😍💖 하나의 심장으론 감당하기 어려운 큐티뽀쨕이니까요🐶💓💞 아직 펫셔니스타를 못 보셨다면 지금바로 함께해요~🥰\n\n▶️ https://t.co/sR92cTgRF3\n▶️ https://t.co/RLbEmh6Dmq\n\n#태연 #제로 #VLIVE https://t.co/wJ1Kn838tp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "제로",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						185,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sR92cTgRF3",
+					"expanded_url": "https://www.vlive.tv/video/159574/playlist/157709",
+					"display_url": "vlive.tv/video/159574/p…",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/RLbEmh6Dmq",
+					"expanded_url": "https://channels.vlive.tv/CDF627/home",
+					"display_url": "channels.vlive.tv/CDF627/home",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1193828205737599000,
+					"id_str": "1193828205737598976",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EJFUbY3U4AAQ4eJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJFUbY3U4AAQ4eJ.jpg",
+					"url": "https://t.co/wJ1Kn838tp",
+					"display_url": "pic.twitter.com/wJ1Kn838tp",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1193828211504713728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 875,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 875,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 145,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 145,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 145,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 112,
+									"h": 70,
+									"w": 70
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193828205737599000,
+					"id_str": "1193828205737598976",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EJFUbY3U4AAQ4eJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJFUbY3U4AAQ4eJ.jpg",
+					"url": "https://t.co/wJ1Kn838tp",
+					"display_url": "pic.twitter.com/wJ1Kn838tp",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1193828211504713728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 875,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 875,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 145,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 145,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 145,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 112,
+									"h": 70,
+									"w": 70
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1193828205746016300,
+					"id_str": "1193828205746016256",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EJFUbY5VUAA_kuW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJFUbY5VUAA_kuW.jpg",
+					"url": "https://t.co/wJ1Kn838tp",
+					"display_url": "pic.twitter.com/wJ1Kn838tp",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1193828211504713728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 875,
+							"h": 441,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 875,
+							"h": 441,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 386,
+									"y": 111,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 299,
+									"y": 86,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 386,
+									"y": 111,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 386,
+									"y": 111,
+									"h": 129,
+									"w": 129
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1193828205733376000,
+					"id_str": "1193828205733376001",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EJFUbY2UcAEM01T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJFUbY2UcAEM01T.jpg",
+					"url": "https://t.co/wJ1Kn838tp",
+					"display_url": "pic.twitter.com/wJ1Kn838tp",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1193828211504713728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 875,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 875,
+							"h": 441,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 343,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 335,
+									"y": 90,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 335,
+									"y": 90,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 335,
+									"y": 90,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 69,
+									"h": 111,
+									"w": 111
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1193828205745954800,
+					"id_str": "1193828205745954816",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EJFUbY5UYAASozq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJFUbY5UYAASozq.jpg",
+					"url": "https://t.co/wJ1Kn838tp",
+					"display_url": "pic.twitter.com/wJ1Kn838tp",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1193828211504713728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 873,
+							"h": 438,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 438,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 38,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 50,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 50,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 50,
+									"h": 162,
+									"w": 162
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3374726,
+			"friends_count": 169,
+			"listed_count": 1879,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 972,
+		"favorite_count": 3122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V LIVE] 울 탱구만 있어두 귀욤 100% 충전인데‼️ 제로까지 함께하니 내 심장 하이브리드 됐잖아요😍💖 하나의 심장으론 감당하기 어려운 큐티뽀쨕이니까요🐶💓💞 아직 펫셔니스타를 못 보셨다면 지금바로 함께해요~🥰\n\n▶️ https://t.co/sR92cTgRF3\n▶️ https://t.co/RLbEmh6Dmq\n\n#태연 #제로 #VLIVE https://t.co/wJ1Kn838tp"
+	},
+	{
+		"created_at": "Thu Dec 05 12:01:14 +0000 2019",
+		"id": 1190149462401810400,
+		"id_str": "1202558546589544448",
+		"full_text": "[V ORIGINAL] 김제로 보고싶어서 어떻게 기다리나 싶었다면 여기로 모이세요‼️💘 그럴 줄 알고 11월 26일 공개되는 ep.1에 앞서 스페셜한 ep.0을 준비했습니다🐶💖 견생 2년차 울 제로... 주사도 잘 맞구,,다 컸다 흡🤣💦💖\n\nep.0▶ https://t.co/0gS2ZrGM6a\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						190,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0gS2ZrGM6a",
+					"expanded_url": "https://www.vlive.tv/video/157693/playlist/157709",
+					"display_url": "vlive.tv/video/157693/p…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3374726,
+			"friends_count": 169,
+			"listed_count": 1879,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 535,
+		"favorite_count": 1744,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 김제로 보고싶어서 어떻게 기다리나 싶었다면 여기로 모이세요‼️💘 그럴 줄 알고 11월 26일 공개되는 ep.1에 앞서 스페셜한 ep.0을 준비했습니다🐶💖 견생 2년차 울 제로... 주사도 잘 맞구,,다 컸다 흡🤣💦💖\n\nep.0▶ https://t.co/0gS2ZrGM6a\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Thu Dec 05 12:01:12 +0000 2019",
+		"id": 1189377090111467500,
+		"id_str": "1202558538922389504",
+		"full_text": "[V ORIGINAL] 집순이 탱구와 그의 영원한 단짝 제로의 우정어린 리얼리티가 11월 26일에 찾아옵니다😍🐶 울 탱구 이런 모습 처음이야💗💕 팔불출 제로누나와 견생 2년차 제로의 소소해서 더 특별한 일상을 함께해요🥰💘\n\n티저▶ https://t.co/gqGWnoPu0l\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gqGWnoPu0l",
+					"expanded_url": "https://www.vlive.tv/video/157652",
+					"display_url": "vlive.tv/video/157652",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3374726,
+			"friends_count": 169,
+			"listed_count": 1879,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1385,
+		"favorite_count": 3154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 집순이 탱구와 그의 영원한 단짝 제로의 우정어린 리얼리티가 11월 26일에 찾아옵니다😍🐶 울 탱구 이런 모습 처음이야💗💕 팔불출 제로누나와 견생 2년차 제로의 소소해서 더 특별한 일상을 함께해요🥰💘\n\n티저▶ https://t.co/gqGWnoPu0l\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Thu Dec 05 11:52:17 +0000 2019",
+		"id": 1197655999554834400,
+		"id_str": "1202556292205699072",
+		"full_text": "last night in phoenix 😍😍\nThank you \n#magneticmoonPHX https://t.co/Jttnj7hNcR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "magneticmoonPHX",
+					"indices": [
+						36,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jttnj7hNcR",
+					"expanded_url": "https://twitter.com/Rai17_/status/1197425281461407744",
+					"display_url": "twitter.com/Rai17_/status/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329976,
+			"friends_count": 173,
+			"listed_count": 986,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197425281461407700,
+		"quoted_status_id_str": "1197425281461407744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Jttnj7hNcR",
+			"expanded": "https://twitter.com/Rai17_/status/1197425281461407744",
+			"display": "twitter.com/Rai17_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 21 08:03:28 +0000 2019",
+			"id": 1197425281461407700,
+			"id_str": "1197425281461407744",
+			"full_text": "Yoooooo @tiffanyyoung was beyond comparison. #MagneticMoonPHX https://t.co/aVXnK1iB3l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MagneticMoonPHX",
+						"indices": [
+							45,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffanyyoung",
+						"name": "TIFFANY YOUNG",
+						"id": 971130819518476300,
+						"id_str": "971130819518476289",
+						"indices": [
+							8,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1197425158010503200,
+						"id_str": "1197425158010503168",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1197425158010503168/pu/img/E5PwR2sIdd4bieIg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1197425158010503168/pu/img/E5PwR2sIdd4bieIg.jpg",
+						"url": "https://t.co/aVXnK1iB3l",
+						"display_url": "pic.twitter.com/aVXnK1iB3l",
+						"expanded_url": "https://twitter.com/Rai17_/status/1197425281461407744/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1197425158010503200,
+						"id_str": "1197425158010503168",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1197425158010503168/pu/img/E5PwR2sIdd4bieIg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1197425158010503168/pu/img/E5PwR2sIdd4bieIg.jpg",
+						"url": "https://t.co/aVXnK1iB3l",
+						"display_url": "pic.twitter.com/aVXnK1iB3l",
+						"expanded_url": "https://twitter.com/Rai17_/status/1197425281461407744/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 87502,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1197425158010503168/pu/vid/640x360/AkUxmVnQvK7kLeTl.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1197425158010503168/pu/vid/1280x720/PC96X27ihcfJK57j.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1197425158010503168/pu/pl/UjDzoCduUuXQv3Fd.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1197425158010503168/pu/vid/480x270/NkXCZxu6haCv6Zox.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47258553,
+				"id_str": "47258553",
+				"name": "RomanCity™️",
+				"screen_name": "Rai17_",
+				"location": "𝕞𝕠𝕠𝕟𝕤𝕚𝕕𝕖",
+				"description": "𝚠𝚊𝚕𝚔𝚒𝚗𝚐 𝚒𝚗 𝚊 𝚋𝚕𝚞𝚛",
+				"url": "https://t.co/R3LX8Thbvv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R3LX8Thbvv",
+								"expanded_url": "http://leftovers-of-a-genius.tumblr.com",
+								"display_url": "leftovers-of-a-genius.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284,
+				"friends_count": 277,
+				"listed_count": 6,
+				"created_at": "Mon Jun 15 04:25:42 +0000 2009",
+				"favourites_count": 18671,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7789,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962911253432696833/Om3d7S_D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962911253432696833/Om3d7S_D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47258553/1568965951",
+				"profile_link_color": "700970",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9d57133885000",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9d57133885000.json",
+				"place_type": "poi",
+				"name": "Crescent Ballroom",
+				"full_name": "Crescent Ballroom",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-112.076813,
+								33.451657
+							],
+							[
+								-112.076813,
+								33.451657
+							],
+							[
+								-112.076813,
+								33.451657
+							],
+							[
+								-112.076813,
+								33.451657
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 216,
+			"favorite_count": 526,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1025,
+		"favorite_count": 2960,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "last night in phoenix 😍😍\nThank you \n#magneticmoonPHX https://t.co/Jttnj7hNcR"
+	},
+	{
+		"created_at": "Thu Dec 05 11:51:14 +0000 2019",
+		"id": 1200719793071915000,
+		"id_str": "1202556028925071362",
+		"full_text": "12/25発売、テヨンの映像作品「The Signal Gift＜完全限定生産BOX ”Gift Box”＞」に収録されている“TAEYEON JAPAN TOUR 2019 ～Signal～” ツアー密着ドキュメント映像ダイジェスト映像を公開しました！\n\n▼詳細はこちら\nhttps://t.co/5JfKLwquPA\n▼ご予約はこちら\nhttps://t.co/GaRnVHc3vB https://t.co/3Lf7Kcj8hC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5JfKLwquPA",
+					"expanded_url": "https://youtu.be/O0Ad5SWz4hY",
+					"display_url": "youtu.be/O0Ad5SWz4hY",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/GaRnVHc3vB",
+					"expanded_url": "https://umj.lnk.to/TheSignalGift",
+					"display_url": "umj.lnk.to/TheSignalGift",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200719631398264800,
+					"id_str": "1200719631398264833",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1200719631398264833/pu/img/NXw79Del5lTGb_sE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1200719631398264833/pu/img/NXw79Del5lTGb_sE.jpg",
+					"url": "https://t.co/3Lf7Kcj8hC",
+					"display_url": "pic.twitter.com/3Lf7Kcj8hC",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1200719793071915008/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200719631398264800,
+					"id_str": "1200719631398264833",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1200719631398264833/pu/img/NXw79Del5lTGb_sE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1200719631398264833/pu/img/NXw79Del5lTGb_sE.jpg",
+					"url": "https://t.co/3Lf7Kcj8hC",
+					"display_url": "pic.twitter.com/3Lf7Kcj8hC",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1200719793071915008/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 76243,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1200719631398264833/pu/vid/640x360/aCWI5OA_Z01wXAd4.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1200719631398264833/pu/vid/480x270/CGWxJuj8__OypP-K.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1200719631398264833/pu/pl/1u9pbPv52dnlBJRW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1200719631398264833/pu/vid/1280x720/KYa5WgvZAPn411L4.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "2007年8月韓国デビュー。 2009年には韓国の音楽番組KBS MUSIC BANKで9週連続1位の新記録を樹立するなど、トップガールズグループとして君臨。 また、台湾、タイ、フィリピンの各種音楽チャートでも1位を獲得、中国などでもアジアツアーを行うなどアジア全域でNO.1グループとして活躍している。",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103084,
+			"friends_count": 0,
+			"listed_count": 565,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1439,
+		"favorite_count": 2449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "12/25発売、テヨンの映像作品「The Signal Gift＜完全限定生産BOX ”Gift Box”＞」に収録されている“TAEYEON JAPAN TOUR 2019 ～Signal～” ツアー密着ドキュメント映像ダイジェスト映像を公開しました！\n\n▼詳細はこちら\nhttps://t.co/5JfKLwquPA\n▼ご予約はこちら\nhttps://t.co/GaRnVHc3vB https://t.co/3Lf7Kcj8hC"
+	},
+	{
+		"created_at": "Thu Dec 05 11:50:15 +0000 2019",
+		"id": 1200347475095064600,
+		"id_str": "1202555782899724289",
+		"full_text": "잠깐의 여유😚 https://t.co/bnPix5kKCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bnPix5kKCH",
+					"expanded_url": "https://www.instagram.com/p/B5ccsavgwEi/?igshid=jyz9cokwzaws",
+					"display_url": "instagram.com/p/B5ccsavgwEi/…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1394753,
+			"friends_count": 31,
+			"listed_count": 3363,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 512,
+		"favorite_count": 1388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠깐의 여유😚 https://t.co/bnPix5kKCH"
+	},
+	{
+		"created_at": "Thu Dec 05 11:46:25 +0000 2019",
+		"id": 1202397316088385500,
+		"id_str": "1202554818348240896",
+		"full_text": "교보문고에서 소설가 50인이 뽑은 올해의 소설을 발표했는데 역시 1위는 황정은의 '디디의 우산'. 공동 2위는 올해를 자신들의 해로 만든 박상영의 '대도시의 사랑법'과 김초엽의 '우리가 빛의 속도로 갈 수 없다면'. 해외작가는 엘리자베스 스트라우트, 델리아 오언스, 애나 번스, 테드 창 뿐. https://t.co/xkjLwflMae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202397310224715800,
+					"id_str": "1202397310224715777",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EK_F-6rUUAELi0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK_F-6rUUAELi0x.jpg",
+					"url": "https://t.co/xkjLwflMae",
+					"display_url": "pic.twitter.com/xkjLwflMae",
+					"expanded_url": "https://twitter.com/Poison_Tree/status/1202397316088385537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 923,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 923,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202397310224715800,
+					"id_str": "1202397310224715777",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EK_F-6rUUAELi0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK_F-6rUUAELi0x.jpg",
+					"url": "https://t.co/xkjLwflMae",
+					"display_url": "pic.twitter.com/xkjLwflMae",
+					"expanded_url": "https://twitter.com/Poison_Tree/status/1202397316088385537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 923,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 923,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111770930,
+			"id_str": "111770930",
+			"name": "김슬기",
+			"screen_name": "Poison_Tree",
+			"location": "",
+			"description": "매일경제 문화부 기자/ 페이스북 페이지 [한 주에 한 책]",
+			"url": "https://t.co/2DpSLHgZFt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2DpSLHgZFt",
+							"expanded_url": "https://m.facebook.com/bookbyweek/",
+							"display_url": "m.facebook.com/bookbyweek/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6311,
+			"friends_count": 831,
+			"listed_count": 166,
+			"created_at": "Sat Feb 06 02:50:32 +0000 2010",
+			"favourites_count": 3626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476020242280235008/pIhBA1DT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476020242280235008/pIhBA1DT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111770930/1360298308",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1441,
+		"favorite_count": 1174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "교보문고에서 소설가 50인이 뽑은 올해의 소설을 발표했는데 역시 1위는 황정은의 '디디의 우산'. 공동 2위는 올해를 자신들의 해로 만든 박상영의 '대도시의 사랑법'과 김초엽의 '우리가 빛의 속도로 갈 수 없다면'. 해외작가는 엘리자베스 스트라우트, 델리아 오언스, 애나 번스, 테드 창 뿐. https://t.co/xkjLwflMae"
+	},
+	{
+		"created_at": "Thu Dec 05 11:35:55 +0000 2019",
+		"id": 1202467638636667000,
+		"id_str": "1202552173583716352",
+		"full_text": "또 한번 레전드를 남기고 간 #아이유 스페셜클립 의상 비하인드💙 \n스텝들이 애정을 담아 직접 만든 옷 입고 부르는 블루밍 안 좋을 수가 없잖아😭 @_IUofficial\n\nWatch! #SpecialClip #IU - #Blueming 👉 https://t.co/QtwLdEwQju https://t.co/LGpc56VTec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "SpecialClip",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "Blueming",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_IUofficial",
+					"name": "아이유(IU) 공식 트위터",
+					"id": 1024486566096326700,
+					"id_str": "1024486566096326656",
+					"indices": [
+						81,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QtwLdEwQju",
+					"expanded_url": "http://bit.ly/2XTiZjs",
+					"display_url": "bit.ly/2XTiZjs",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202457136996876300,
+					"id_str": "1202457136996876290",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202457136996876290/img/U5pfewGyAF4r4M1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202457136996876290/img/U5pfewGyAF4r4M1K.jpg",
+					"url": "https://t.co/LGpc56VTec",
+					"display_url": "pic.twitter.com/LGpc56VTec",
+					"expanded_url": "https://twitter.com/1theK/status/1202467638636666881/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202457136996876300,
+					"id_str": "1202457136996876290",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202457136996876290/img/U5pfewGyAF4r4M1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202457136996876290/img/U5pfewGyAF4r4M1K.jpg",
+					"url": "https://t.co/LGpc56VTec",
+					"display_url": "pic.twitter.com/LGpc56VTec",
+					"expanded_url": "https://twitter.com/1theK/status/1202467638636666881/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42643,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202457136996876290/vid/640x360/ELJkXEB5_YBmw1Y9.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202457136996876290/vid/1280x720/KhuM4mVqsTwit8Xi.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1202457136996876290/pl/-Y6m1uVML9PYm5kl.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202457136996876290/vid/480x270/qCPpxgMAMgHKp4w7.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1788619,
+			"friends_count": 802,
+			"listed_count": 2748,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2266,
+		"favorite_count": 5400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 한번 레전드를 남기고 간 #아이유 스페셜클립 의상 비하인드💙 \n스텝들이 애정을 담아 직접 만든 옷 입고 부르는 블루밍 안 좋을 수가 없잖아😭 @_IUofficial\n\nWatch! #SpecialClip #IU - #Blueming 👉 https://t.co/QtwLdEwQju https://t.co/LGpc56VTec"
+	},
+	{
 		"created_at": "Thu Dec 05 10:54:59 +0000 2019",
 		"id": 1202530014702366700,
 		"id_str": "1202541873472114689",
