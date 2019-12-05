@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 12:18:04 +0000 2019",
+		"id": 1202179996334223400,
+		"id_str": "1202562782891167752",
+		"full_text": "[ #단독 ] 성추행 신고를 한 다음날. 한 남자 소대장이, 피해 여성 장교 후보생이 성추행 피해 의혹을 적은 훈련 일지를 몰래 촬영해 가해자로 지목된 대령에게 넘겼습니다. \nhttps://t.co/y9S23yJlHK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "단독",
+					"indices": [
+						2,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y9S23yJlHK",
+					"expanded_url": "http://imnews.imbc.com/replay/2019/nwdesk/article/5634301_24634.html",
+					"display_url": "imnews.imbc.com/replay/2019/nw…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384430,
+			"friends_count": 151109,
+			"listed_count": 3687,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 134522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1168,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ #단독 ] 성추행 신고를 한 다음날. 한 남자 소대장이, 피해 여성 장교 후보생이 성추행 피해 의혹을 적은 훈련 일지를 몰래 촬영해 가해자로 지목된 대령에게 넘겼습니다. \nhttps://t.co/y9S23yJlHK"
+	},
+	{
 		"created_at": "Thu Dec 05 12:01:22 +0000 2019",
 		"id": 1202422818790445000,
 		"id_str": "1202558580831862785",
