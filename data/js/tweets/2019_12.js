@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 13:21:34 +0000 2019",
+		"id": 1202564020512772000,
+		"id_str": "1202578762069446656",
+		"full_text": "스타감독 3인에게 묻는다! PMI (Please More Information) 설문지에 참여하셔서 감독님들께 궁금한 점을 남겨주세요! (TMI 환영🥰) 질문의 답은 공개방송에서 들으실 수 있습니다. \n\nhttps://t.co/PKeatieWjN https://t.co/rffY9jczay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PKeatieWjN",
+					"expanded_url": "http://bitly.kr/ivXvdj5",
+					"display_url": "bitly.kr/ivXvdj5",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202564007388860400,
+					"id_str": "1202564007388860419",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ELBdl-AVUAM7oGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELBdl-AVUAM7oGR.jpg",
+					"url": "https://t.co/rffY9jczay",
+					"display_url": "pic.twitter.com/rffY9jczay",
+					"expanded_url": "https://twitter.com/homeless_matt/status/1202564020512772096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 325,
+									"y": 214,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 228,
+									"y": 4,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 99,
+									"y": 236,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 197,
+									"y": 317,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 253,
+									"y": 123,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 135,
+									"y": 98,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 400,
+									"y": 8,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 345,
+									"y": 555,
+									"h": 147,
+									"w": 147
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 237,
+									"y": 173,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 400,
+									"y": 8,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 345,
+									"y": 555,
+									"h": 147,
+									"w": 147
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 237,
+									"y": 173,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 400,
+									"y": 8,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 345,
+									"y": 555,
+									"h": 147,
+									"w": 147
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 237,
+									"y": 173,
+									"h": 140,
+									"w": 140
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202564007388860400,
+					"id_str": "1202564007388860419",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ELBdl-AVUAM7oGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELBdl-AVUAM7oGR.jpg",
+					"url": "https://t.co/rffY9jczay",
+					"display_url": "pic.twitter.com/rffY9jczay",
+					"expanded_url": "https://twitter.com/homeless_matt/status/1202564020512772096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1191,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 325,
+									"y": 214,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 228,
+									"y": 4,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 99,
+									"y": 236,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 197,
+									"y": 317,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 253,
+									"y": 123,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 135,
+									"y": 98,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 400,
+									"y": 8,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 345,
+									"y": 555,
+									"h": 147,
+									"w": 147
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 237,
+									"y": 173,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 400,
+									"y": 8,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 345,
+									"y": 555,
+									"h": 147,
+									"w": 147
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 237,
+									"y": 173,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 375,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 400,
+									"y": 8,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 175,
+									"y": 414,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 345,
+									"y": 555,
+									"h": 147,
+									"w": 147
+								},
+								{
+									"x": 443,
+									"y": 217,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 237,
+									"y": 173,
+									"h": 140,
+									"w": 140
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914580161164660700,
+			"id_str": "914580161164660736",
+			"name": "셀럽 맷",
+			"screen_name": "homeless_matt",
+			"location": "",
+			"description": "팟캐스트 “영혼의 노숙자”, “독일언니들” 네이버 오디오클립 \"시스터후드 시즌1\"",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4405,
+			"friends_count": 396,
+			"listed_count": 8,
+			"created_at": "Sun Oct 01 19:57:57 +0000 2017",
+			"favourites_count": 17213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092094084980699138/dew7tY2B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092094084980699138/dew7tY2B_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스타감독 3인에게 묻는다! PMI (Please More Information) 설문지에 참여하셔서 감독님들께 궁금한 점을 남겨주세요! (TMI 환영🥰) 질문의 답은 공개방송에서 들으실 수 있습니다. \n\nhttps://t.co/PKeatieWjN https://t.co/rffY9jczay"
+	},
+	{
+		"created_at": "Thu Dec 05 13:21:15 +0000 2019",
+		"id": 1202577600763375600,
+		"id_str": "1202578682067308544",
+		"full_text": "밤하늘 수놓는 화려한 불꽃…미세먼지 수치도 '펑펑' https://t.co/I4QdRevEke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I4QdRevEke",
+					"expanded_url": "http://news.jtbc.joins.com/html/690/NB11920690.html",
+					"display_url": "news.jtbc.joins.com/html/690/NB119…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613844,
+			"friends_count": 46023,
+			"listed_count": 2366,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 68949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1551367952",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "밤하늘 수놓는 화려한 불꽃…미세먼지 수치도 '펑펑' https://t.co/I4QdRevEke"
+	},
+	{
 		"created_at": "Thu Dec 05 12:18:04 +0000 2019",
 		"id": 1202179996334223400,
 		"id_str": "1202562782891167752",
