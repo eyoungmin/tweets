@@ -1,6 +1,826 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 10:54:59 +0000 2019",
+		"id": 1202530014702366700,
+		"id_str": "1202541873472114689",
+		"full_text": "▪️ID Photo Set 증명사진 세트 ₩5,000\n- 새소년의 새 프로필을 컨셉트 그대로 소장할 수 있는 사진 세트\n- 사진관에서 막 받은 것 같은 느낌의 봉투를 함께 제공\n- 반명함판. 무광 인화. 소윤, 현진, 유수 3장 1세트 https://t.co/JEdhaR7o22",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202530008373186600,
+					"id_str": "1202530008373186560",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/ELA-q9zU0AARu1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELA-q9zU0AARu1G.jpg",
+					"url": "https://t.co/JEdhaR7o22",
+					"display_url": "pic.twitter.com/JEdhaR7o22",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202530014702366723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 34,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 314,
+									"y": 415,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 138,
+									"y": 567,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 34,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 314,
+									"y": 415,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 138,
+									"y": 567,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 63,
+									"y": 23,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 213,
+									"y": 282,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 93,
+									"y": 385,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 34,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 314,
+									"y": 415,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 138,
+									"y": 567,
+									"h": 85,
+									"w": 85
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202530008373186600,
+					"id_str": "1202530008373186560",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/ELA-q9zU0AARu1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELA-q9zU0AARu1G.jpg",
+					"url": "https://t.co/JEdhaR7o22",
+					"display_url": "pic.twitter.com/JEdhaR7o22",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202530014702366723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 34,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 314,
+									"y": 415,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 138,
+									"y": 567,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 34,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 314,
+									"y": 415,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 138,
+									"y": 567,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 63,
+									"y": 23,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 213,
+									"y": 282,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 93,
+									"y": 385,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 34,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 314,
+									"y": 415,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 138,
+									"y": 567,
+									"h": 85,
+									"w": 85
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202530008608100400,
+					"id_str": "1202530008608100352",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/ELA-q-rVUAAbu28.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELA-q-rVUAAbu28.jpg",
+					"url": "https://t.co/JEdhaR7o22",
+					"display_url": "pic.twitter.com/JEdhaR7o22",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202530014702366723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 259,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 532,
+									"y": 258,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 304,
+									"y": 250,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 119,
+									"y": 381,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 783,
+									"y": 380,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 448,
+									"y": 369,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 119,
+									"y": 381,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 783,
+									"y": 380,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 448,
+									"y": 369,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 119,
+									"y": 381,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 783,
+									"y": 380,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 448,
+									"y": 369,
+									"h": 109,
+									"w": 109
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202530004921282600,
+		"in_reply_to_status_id_str": "1202530004921282561",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7048,
+			"friends_count": 526,
+			"listed_count": 41,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▪️ID Photo Set 증명사진 세트 ₩5,000\n- 새소년의 새 프로필을 컨셉트 그대로 소장할 수 있는 사진 세트\n- 사진관에서 막 받은 것 같은 느낌의 봉투를 함께 제공\n- 반명함판. 무광 인화. 소윤, 현진, 유수 3장 1세트 https://t.co/JEdhaR7o22"
+	},
+	{
+		"created_at": "Thu Dec 05 10:54:56 +0000 2019",
+		"id": 1202530004921282600,
+		"id_str": "1202541860314664966",
+		"full_text": "▪️Guitar Pick Set 기타 피크 세트 ₩7,000\n- 요청이 많았던 기타 피크 세트를 황소윤이 직접 그린 일러스트와 함께 새로운 디자인으로 제작\n- 물방울 1.0mm (소윤) + 물방울 1.14mm (현진) + 삼각 0.73mm (유수) 3개 1세트 https://t.co/J7Wubx1Ux9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202529997975502800,
+					"id_str": "1202529997975502848",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/ELA-qXEUwAAFK1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELA-qXEUwAAFK1h.jpg",
+					"url": "https://t.co/J7Wubx1Ux9",
+					"display_url": "pic.twitter.com/J7Wubx1Ux9",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202530004921282561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 274,
+									"h": 298,
+									"w": 298
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 186,
+									"h": 202,
+									"w": 202
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 274,
+									"h": 298,
+									"w": 298
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 274,
+									"h": 298,
+									"w": 298
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202529997975502800,
+					"id_str": "1202529997975502848",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/ELA-qXEUwAAFK1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELA-qXEUwAAFK1h.jpg",
+					"url": "https://t.co/J7Wubx1Ux9",
+					"display_url": "pic.twitter.com/J7Wubx1Ux9",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202530004921282561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 274,
+									"h": 298,
+									"w": 298
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 186,
+									"h": 202,
+									"w": 202
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 274,
+									"h": 298,
+									"w": 298
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 274,
+									"h": 298,
+									"w": 298
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202529997761572900,
+					"id_str": "1202529997761572865",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/ELA-qWRUcAE5BVI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELA-qWRUcAE5BVI.jpg",
+					"url": "https://t.co/J7Wubx1Ux9",
+					"display_url": "pic.twitter.com/J7Wubx1Ux9",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1202530004921282561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 85,
+									"y": 472,
+									"h": 192,
+									"w": 192
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 85,
+									"y": 472,
+									"h": 192,
+									"w": 192
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 320,
+									"h": 130,
+									"w": 130
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 85,
+									"y": 472,
+									"h": 192,
+									"w": 192
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202529993328169000,
+		"in_reply_to_status_id_str": "1202529993328168960",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7048,
+			"friends_count": 526,
+			"listed_count": 41,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▪️Guitar Pick Set 기타 피크 세트 ₩7,000\n- 요청이 많았던 기타 피크 세트를 황소윤이 직접 그린 일러스트와 함께 새로운 디자인으로 제작\n- 물방울 1.0mm (소윤) + 물방울 1.14mm (현진) + 삼각 0.73mm (유수) 3개 1세트 https://t.co/J7Wubx1Ux9"
+	},
+	{
 		"created_at": "Thu Dec 05 09:54:53 +0000 2019",
 		"id": 1202512950499479600,
 		"id_str": "1202526748505759744",
