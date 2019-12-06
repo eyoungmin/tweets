@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 16:05:30 +0000 2019",
+		"id": 1202880354186477600,
+		"id_str": "1202982407743213569",
+		"full_text": "[우효] \n\n우효(OOHYO) New Single '뻔한 치킨 Butter Chicken' MV Teaser\n🎧2019.12.11 Wed 6PM Release\n\n#우효 #OOHYO #뻔한치킨 #ButterChicken #teaser https://t.co/TcHoDSuemp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우효",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "OOHYO",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "뻔한치킨",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "ButterChicken",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"text": "teaser",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202880282145116200,
+					"id_str": "1202880282145116160",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202880282145116160/pu/img/y9eSaq5dVOf0PmdS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202880282145116160/pu/img/y9eSaq5dVOf0PmdS.jpg",
+					"url": "https://t.co/TcHoDSuemp",
+					"display_url": "pic.twitter.com/TcHoDSuemp",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1202880354186477569/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202880282145116200,
+					"id_str": "1202880282145116160",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202880282145116160/pu/img/y9eSaq5dVOf0PmdS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202880282145116160/pu/img/y9eSaq5dVOf0PmdS.jpg",
+					"url": "https://t.co/TcHoDSuemp",
+					"display_url": "pic.twitter.com/TcHoDSuemp",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1202880354186477569/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 34792,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1202880282145116160/pu/pl/SViyRwKIBsSVT5Pu.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202880282145116160/pu/vid/720x404/1NSvvio0muxpSNqk.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202880282145116160/pu/vid/480x270/tacQ2fI79J4sCgzo.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/윤현상/유라/크래커/서교동의밤/앤츠/알레프/헤이맨/에버루아/로지/한음파/아일",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 634,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[우효] \n\n우효(OOHYO) New Single '뻔한 치킨 Butter Chicken' MV Teaser\n🎧2019.12.11 Wed 6PM Release\n\n#우효 #OOHYO #뻔한치킨 #ButterChicken #teaser https://t.co/TcHoDSuemp"
+	},
+	{
 		"created_at": "Fri Dec 06 13:01:03 +0000 2019",
 		"id": 1202935985987829800,
 		"id_str": "1202935985987829760",
