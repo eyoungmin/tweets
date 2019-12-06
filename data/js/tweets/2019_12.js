@@ -1,6 +1,1792 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 19:14:00 +0000 2019",
+		"id": 1202863237546438700,
+		"id_str": "1203029841726996480",
+		"full_text": "블로그를 하다가 이웃 블로거분의 아주 놀라운 사연을 듣게 됐다. 이 분은 평소 짜장면 맛집들을 올리는 분인데, 단골로 다니는 부천의 한 중국집의 사장님이 많이 편찮으셔서 가게 문을 두 달간 닫았음. 그런데 이 블로거가 하던 일을 모두 접고 이 사장님의 제자가 되어 식당 운영을 하고 계시다고!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3915197533,
+			"id_str": "3915197533",
+			"name": "언뜻(완두콩)",
+			"screen_name": "Vegabond_er",
+			"location": "",
+			"description": "먹고 마시고 글 쓰는 사람",
+			"url": "https://t.co/ObiN3NopLa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ObiN3NopLa",
+							"expanded_url": "https://blog.naver.com/dnr6578",
+							"display_url": "blog.naver.com/dnr6578",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19834,
+			"friends_count": 212,
+			"listed_count": 158,
+			"created_at": "Fri Oct 16 15:33:12 +0000 2015",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187937718669438976/lxME37u-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187937718669438976/lxME37u-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3915197533/1556537801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3988,
+		"favorite_count": 1832,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "블로그를 하다가 이웃 블로거분의 아주 놀라운 사연을 듣게 됐다. 이 분은 평소 짜장면 맛집들을 올리는 분인데, 단골로 다니는 부천의 한 중국집의 사장님이 많이 편찮으셔서 가게 문을 두 달간 닫았음. 그런데 이 블로거가 하던 일을 모두 접고 이 사장님의 제자가 되어 식당 운영을 하고 계시다고!!"
+	},
+	{
+		"created_at": "Fri Dec 06 19:13:53 +0000 2019",
+		"id": 1203029814623400000,
+		"id_str": "1203029814623399936",
+		"full_text": "엔터테인먼트에서 굿즈 스토어를 기본적으로 구비하고 편하게 인터넷으로 살 수 있게 되다니 세월 참 많이 흘렀다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 855,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "엔터테인먼트에서 굿즈 스토어를 기본적으로 구비하고 편하게 인터넷으로 살 수 있게 되다니 세월 참 많이 흘렀다."
+	},
+	{
+		"created_at": "Fri Dec 06 19:10:34 +0000 2019",
+		"id": 1194181730086707200,
+		"id_str": "1203028977847160833",
+		"full_text": "TAEYEON PUZZLE PACKAGE 💥\n\n태연의 퍼즐 패키지를 SMTOWN &amp;STORE에서 만나 보세요! 1000 피스의 퍼즐 조각으로 맞춰진 아름다운 태연의 모습을 간직할 수 있는 기회, 놓치지 마세요~!😊\n\nhttps://t.co/e4BRlJlJDN https://t.co/WWnPmdgZAV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4BRlJlJDN",
+					"expanded_url": "https://bit.ly/2X6GXHF",
+					"display_url": "bit.ly/2X6GXHF",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194181725372350500,
+					"id_str": "1194181725372350464",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EJKV88IVAAAZXWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJKV88IVAAAZXWl.jpg",
+					"url": "https://t.co/WWnPmdgZAV",
+					"display_url": "pic.twitter.com/WWnPmdgZAV",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1194181730086707200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194181725372350500,
+					"id_str": "1194181725372350464",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EJKV88IVAAAZXWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJKV88IVAAAZXWl.jpg",
+					"url": "https://t.co/WWnPmdgZAV",
+					"display_url": "pic.twitter.com/WWnPmdgZAV",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1194181730086707200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25416,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 248,
+		"favorite_count": 465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON PUZZLE PACKAGE 💥\n\n태연의 퍼즐 패키지를 SMTOWN &amp;STORE에서 만나 보세요! 1000 피스의 퍼즐 조각으로 맞춰진 아름다운 태연의 모습을 간직할 수 있는 기회, 놓치지 마세요~!😊\n\nhttps://t.co/e4BRlJlJDN https://t.co/WWnPmdgZAV"
+	},
+	{
+		"created_at": "Fri Dec 06 19:10:13 +0000 2019",
+		"id": 1194181012269326300,
+		"id_str": "1203028892723769344",
+		"full_text": "TAEYEON WALL SCROLL POSTER 💕\n\n&lt;Purpose&gt;로 돌아온 태연의 성숙한 모습을 월 스크롤 페이퍼로 만나 보세요.💥 분위기 있는 태연의 월 스크롤 포스터가 여러분의 공간을 더욱 멋지게 만들어줄 거예요.\n\nhttps://t.co/wwJR2z0d06 https://t.co/x4MTMhGm6U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wwJR2z0d06",
+					"expanded_url": "https://bit.ly/2QbQLhN",
+					"display_url": "bit.ly/2QbQLhN",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194181008616149000,
+					"id_str": "1194181008616148992",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EJKVTOAVUAAcjEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJKVTOAVUAAcjEd.jpg",
+					"url": "https://t.co/x4MTMhGm6U",
+					"display_url": "pic.twitter.com/x4MTMhGm6U",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1194181012269326336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194181008616149000,
+					"id_str": "1194181008616148992",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EJKVTOAVUAAcjEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJKVTOAVUAAcjEd.jpg",
+					"url": "https://t.co/x4MTMhGm6U",
+					"display_url": "pic.twitter.com/x4MTMhGm6U",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1194181012269326336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25416,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON WALL SCROLL POSTER 💕\n\n&lt;Purpose&gt;로 돌아온 태연의 성숙한 모습을 월 스크롤 페이퍼로 만나 보세요.💥 분위기 있는 태연의 월 스크롤 포스터가 여러분의 공간을 더욱 멋지게 만들어줄 거예요.\n\nhttps://t.co/wwJR2z0d06 https://t.co/x4MTMhGm6U"
+	},
+	{
+		"created_at": "Fri Dec 06 19:10:04 +0000 2019",
+		"id": 1197751032723280000,
+		"id_str": "1203028855297957888",
+		"full_text": "TAEYEON ARTIST CASE 🥀\n\n태연 PURPOSE 앨범의 무드를 느낄 수 있는 매력적인 커스텀 아티스트 케이스 2종이 SMTOWN &amp;STORE 온오프라인에서 여러분을 기다립니다!\n\n🔸상품 출시일 : 2019. 11. 23.\n\n(*온라인 신규 기종 추가 : #iPhone11 #iPhone11pro #iPhone11proMAX #note10) https://t.co/e12VouzYTZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iPhone11",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "iPhone11pro",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"text": "iPhone11proMAX",
+					"indices": [
+						176,
+						191
+					]
+				},
+				{
+					"text": "note10",
+					"indices": [
+						192,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197751024326344700,
+					"id_str": "1197751024326344704",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ9ENe5VAAAQzFR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ9ENe5VAAAQzFR.jpg",
+					"url": "https://t.co/e12VouzYTZ",
+					"display_url": "pic.twitter.com/e12VouzYTZ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1197751032723279872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1446,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 342,
+									"y": 639,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 536,
+									"y": 899,
+									"h": 268,
+									"w": 268
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 413,
+									"y": 771,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 646,
+									"y": 1084,
+									"h": 324,
+									"w": 324
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 413,
+									"y": 771,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 646,
+									"y": 1084,
+									"h": 324,
+									"w": 324
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 194,
+									"y": 362,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 303,
+									"y": 509,
+									"h": 152,
+									"w": 152
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197751024326344700,
+					"id_str": "1197751024326344704",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ9ENe5VAAAQzFR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ9ENe5VAAAQzFR.jpg",
+					"url": "https://t.co/e12VouzYTZ",
+					"display_url": "pic.twitter.com/e12VouzYTZ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1197751032723279872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1446,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 342,
+									"y": 639,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 536,
+									"y": 899,
+									"h": 268,
+									"w": 268
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 413,
+									"y": 771,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 646,
+									"y": 1084,
+									"h": 324,
+									"w": 324
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 413,
+									"y": 771,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 646,
+									"y": 1084,
+									"h": 324,
+									"w": 324
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 194,
+									"y": 362,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 303,
+									"y": 509,
+									"h": 152,
+									"w": 152
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25416,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 846,
+		"favorite_count": 1049,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON ARTIST CASE 🥀\n\n태연 PURPOSE 앨범의 무드를 느낄 수 있는 매력적인 커스텀 아티스트 케이스 2종이 SMTOWN &amp;STORE 온오프라인에서 여러분을 기다립니다!\n\n🔸상품 출시일 : 2019. 11. 23.\n\n(*온라인 신규 기종 추가 : #iPhone11 #iPhone11pro #iPhone11proMAX #note10) https://t.co/e12VouzYTZ"
+	},
+	{
+		"created_at": "Fri Dec 06 19:09:13 +0000 2019",
+		"id": 1202961394393469000,
+		"id_str": "1203028639085780993",
+		"full_text": "TAEYEON - Purpose 💖\n\n태연의 Purpose MD를 지금 SMTOWN &amp;STORE에서 만나보세요. 😊\n\n✔️TAEYEON A4 PHOTO – Purpose\nhttps://t.co/bS8r27UAHw\n✔️ TAEYEON 4X6 PHOTO SET – Purpose\nhttps://t.co/kYOZ1wy1t1\n✔️ TAEYEON ECO BAG – Purpose\nhttps://t.co/iaswhPLw69 https://t.co/pq1KTdHzfw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bS8r27UAHw",
+					"expanded_url": "https://bit.ly/2YjP5oL",
+					"display_url": "bit.ly/2YjP5oL",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/kYOZ1wy1t1",
+					"expanded_url": "https://bit.ly/2Lswl1c",
+					"display_url": "bit.ly/2Lswl1c",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/iaswhPLw69",
+					"expanded_url": "https://bit.ly/366Po92",
+					"display_url": "bit.ly/366Po92",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202961385681932300,
+					"id_str": "1202961385681932289",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHHAbgVUAEGW7z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHHAbgVUAEGW7z.jpg",
+					"url": "https://t.co/pq1KTdHzfw",
+					"display_url": "pic.twitter.com/pq1KTdHzfw",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1202961394393468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202961385681932300,
+					"id_str": "1202961385681932289",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHHAbgVUAEGW7z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHHAbgVUAEGW7z.jpg",
+					"url": "https://t.co/pq1KTdHzfw",
+					"display_url": "pic.twitter.com/pq1KTdHzfw",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1202961394393468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1202961385681866800,
+					"id_str": "1202961385681866753",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHHAbgUUAEp9nk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHHAbgUUAEp9nk.jpg",
+					"url": "https://t.co/pq1KTdHzfw",
+					"display_url": "pic.twitter.com/pq1KTdHzfw",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1202961394393468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1202961385841291300,
+					"id_str": "1202961385841291265",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHHAcGU8AEvISt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHHAcGU8AEvISt.jpg",
+					"url": "https://t.co/pq1KTdHzfw",
+					"display_url": "pic.twitter.com/pq1KTdHzfw",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1202961394393468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202961127597957000,
+		"in_reply_to_status_id_str": "1202961127597957121",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25416,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON - Purpose 💖\n\n태연의 Purpose MD를 지금 SMTOWN &amp;STORE에서 만나보세요. 😊\n\n✔️TAEYEON A4 PHOTO – Purpose\nhttps://t.co/bS8r27UAHw\n✔️ TAEYEON 4X6 PHOTO SET – Purpose\nhttps://t.co/kYOZ1wy1t1\n✔️ TAEYEON ECO BAG – Purpose\nhttps://t.co/iaswhPLw69 https://t.co/pq1KTdHzfw"
+	},
+	{
+		"created_at": "Fri Dec 06 19:09:09 +0000 2019",
+		"id": 1202961127597957000,
+		"id_str": "1203028623088701441",
+		"full_text": "TAEYEON - Purpose 💖\n\n태연의 Purpose MD를 지금 SMTOWN &amp;STORE에서 만나보세요. 😊\n\n✔️TAEYEON BADGE – Purpose\nhttps://t.co/jzkEkp5XBP\n✔️TAEYEON CHARM – Purpose\nhttps://t.co/uouliAzhvO https://t.co/mRDsqe5QUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jzkEkp5XBP",
+					"expanded_url": "https://bit.ly/34XDC0G",
+					"display_url": "bit.ly/34XDC0G",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/uouliAzhvO",
+					"expanded_url": "https://bit.ly/2Rliq0B",
+					"display_url": "bit.ly/2Rliq0B",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202961119486169000,
+					"id_str": "1202961119486169089",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHGw72UUAE_WW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHGw72UUAE_WW-.jpg",
+					"url": "https://t.co/mRDsqe5QUN",
+					"display_url": "pic.twitter.com/mRDsqe5QUN",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1202961127597957121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202961119486169000,
+					"id_str": "1202961119486169089",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHGw72UUAE_WW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHGw72UUAE_WW-.jpg",
+					"url": "https://t.co/mRDsqe5QUN",
+					"display_url": "pic.twitter.com/mRDsqe5QUN",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1202961127597957121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1202961119502946300,
+					"id_str": "1202961119502946304",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHGw76UUAAWttR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHGw76UUAAWttR.jpg",
+					"url": "https://t.co/mRDsqe5QUN",
+					"display_url": "pic.twitter.com/mRDsqe5QUN",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1202961127597957121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 243,
+									"y": 378,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 390,
+									"h": 114,
+									"w": 114
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 390,
+									"h": 114,
+									"w": 114
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 390,
+									"h": 114,
+									"w": 114
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25416,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON - Purpose 💖\n\n태연의 Purpose MD를 지금 SMTOWN &amp;STORE에서 만나보세요. 😊\n\n✔️TAEYEON BADGE – Purpose\nhttps://t.co/jzkEkp5XBP\n✔️TAEYEON CHARM – Purpose\nhttps://t.co/uouliAzhvO https://t.co/mRDsqe5QUN"
+	},
+	{
+		"created_at": "Fri Dec 06 19:05:44 +0000 2019",
+		"id": 1203027764044918800,
+		"id_str": "1203027764044918785",
+		"full_text": "안 입던 니트도 아닌데 피부가 날이 추워서 그런가 예민해져서 트러블이 올라왔다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 855,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "안 입던 니트도 아닌데 피부가 날이 추워서 그런가 예민해져서 트러블이 올라왔다..."
+	},
+	{
+		"created_at": "Fri Dec 06 19:04:16 +0000 2019",
+		"id": 1203027392156987400,
+		"id_str": "1203027392156987392",
+		"full_text": "라이브를 통해 답변한 내용의 영상은 끝났으면 LIVE 지워 올리거나 국민청원 LIVE 라고 띄어 써야 검색에 유리하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203027390215020500,
+		"in_reply_to_status_id_str": "1203027390215020545",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 855,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "라이브를 통해 답변한 내용의 영상은 끝났으면 LIVE 지워 올리거나 국민청원 LIVE 라고 띄어 써야 검색에 유리하다."
+	},
+	{
 		"created_at": "Fri Dec 06 19:00:36 +0000 2019",
 		"id": 1203026470714531800,
 		"id_str": "1203026470714531840",
