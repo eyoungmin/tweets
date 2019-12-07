@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 18:36:11 +0000 2019",
+		"id": 1202903655998869500,
+		"id_str": "1203382714075738113",
+		"full_text": "&lt;그것이 알고싶다&gt;에서는\n지난 11월 28일 목요일 오후 6시 35분,\n'2015년 음원 사재기'와 관련하여 익명으로 제보를 주신 \n모 엔터테인먼트 전 직원분의 연락을 기다립니다.\n제보자 분의 신원은 철저하게 보호하겠습니다.\n그러니 다시 연락을 부탁드리겠습니다.\n\n02-2113-5500\nsbs21135500@gmail.com",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2158216256,
+			"id_str": "2158216256",
+			"name": "그것이 알고싶다 공식계정",
+			"screen_name": "SBSunanswered",
+			"location": "서울시",
+			"description": "매주 토요일 밤 11시 10분 본 방송 | 제보 : 02-2113-5500 / sbs21135500@gmail.com",
+			"url": "https://t.co/j2QMWocfJg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2QMWocfJg",
+							"expanded_url": "http://tv.sbs.co.kr/docu/",
+							"display_url": "tv.sbs.co.kr/docu/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42167,
+			"friends_count": 272,
+			"listed_count": 160,
+			"created_at": "Sun Oct 27 06:16:47 +0000 2013",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128591894135488512/GcNwQSN1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128591894135488512/GcNwQSN1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2158216256/1557821351",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1602,
+		"favorite_count": 403,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;그것이 알고싶다&gt;에서는\n지난 11월 28일 목요일 오후 6시 35분,\n'2015년 음원 사재기'와 관련하여 익명으로 제보를 주신 \n모 엔터테인먼트 전 직원분의 연락을 기다립니다.\n제보자 분의 신원은 철저하게 보호하겠습니다.\n그러니 다시 연락을 부탁드리겠습니다.\n\n02-2113-5500\nsbs21135500@gmail.com"
+	},
+	{
 		"created_at": "Sat Dec 07 16:55:13 +0000 2019",
 		"id": 1203357304176795600,
 		"id_str": "1203357304176795648",
