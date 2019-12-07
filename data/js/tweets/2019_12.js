@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 02:54:59 +0000 2019",
+		"id": 1203139027030818800,
+		"id_str": "1203145852782600192",
+		"full_text": "'Inside-TAEYEON with S♡NE' 😍\n\n#191123 \n내 전부가 되어줘서 고마워♡\n함께 해줘서 고마워♡\n\n소원과 행복한 시간💕\n\n#TAEYEON #GirlsGeneration @GirlsGeneration #Inside_TAEYEON https://t.co/snImNnGCT7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						90,
+						106
+					]
+				},
+				{
+					"text": "Inside_TAEYEON",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203139004511617000,
+					"id_str": "1203139004511617025",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ELJojNNVAAECmte.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELJojNNVAAECmte.jpg",
+					"url": "https://t.co/snImNnGCT7",
+					"display_url": "pic.twitter.com/snImNnGCT7",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1203139027030818816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1119,
+									"y": 421,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 666,
+									"y": 282,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 528,
+									"y": 198,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 314,
+									"y": 133,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1119,
+									"y": 421,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 666,
+									"y": 282,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 932,
+									"y": 350,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 555,
+									"y": 235,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203139004511617000,
+					"id_str": "1203139004511617025",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ELJojNNVAAECmte.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELJojNNVAAECmte.jpg",
+					"url": "https://t.co/snImNnGCT7",
+					"display_url": "pic.twitter.com/snImNnGCT7",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1203139027030818816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1119,
+									"y": 421,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 666,
+									"y": 282,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 528,
+									"y": 198,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 314,
+									"y": 133,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1119,
+									"y": 421,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 666,
+									"y": 282,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 932,
+									"y": 350,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 555,
+									"y": 235,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203139015806877700,
+					"id_str": "1203139015806877696",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ELJoj3SVAAAfISO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELJoj3SVAAAfISO.jpg",
+					"url": "https://t.co/snImNnGCT7",
+					"display_url": "pic.twitter.com/snImNnGCT7",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1203139027030818816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 585,
+									"y": 455,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 955,
+									"y": 113,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 862,
+									"y": 589,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 703,
+									"y": 547,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 1147,
+									"y": 136,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 1035,
+									"y": 707,
+									"h": 191,
+									"w": 191
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 331,
+									"y": 258,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 541,
+									"y": 64,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 488,
+									"y": 333,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 703,
+									"y": 547,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 1147,
+									"y": 136,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 1035,
+									"y": 707,
+									"h": 191,
+									"w": 191
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3518137,
+			"friends_count": 4,
+			"listed_count": 5913,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2606,
+		"favorite_count": 4454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'Inside-TAEYEON with S♡NE' 😍\n\n#191123 \n내 전부가 되어줘서 고마워♡\n함께 해줘서 고마워♡\n\n소원과 행복한 시간💕\n\n#TAEYEON #GirlsGeneration @GirlsGeneration #Inside_TAEYEON https://t.co/snImNnGCT7"
+	},
+	{
+		"created_at": "Sat Dec 07 02:54:57 +0000 2019",
+		"id": 1203132065127882800,
+		"id_str": "1203145843840303109",
+		"full_text": "*공연의 사진 및 동영상 촬영, 녹음을 금지합니다.(적발시 강제퇴장)\n*공연장 내 생수 외 식음료 반입을 금지합니다.\n\n*공연장 내 물품보관소에서 주차할인권을 구매하셔야 할인 혜택을 받으실 수 있습니다.\n*가급적 대중교통을 이용해주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203131893425664000,
+		"in_reply_to_status_id_str": "1203131893425664003",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*공연의 사진 및 동영상 촬영, 녹음을 금지합니다.(적발시 강제퇴장)\n*공연장 내 생수 외 식음료 반입을 금지합니다.\n\n*공연장 내 물품보관소에서 주차할인권을 구매하셔야 할인 혜택을 받으실 수 있습니다.\n*가급적 대중교통을 이용해주세요."
+	},
+	{
 		"created_at": "Sat Dec 07 00:54:53 +0000 2019",
 		"id": 1203101649490739200,
 		"id_str": "1203115627361292296",
