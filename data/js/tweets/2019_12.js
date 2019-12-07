@@ -1,6 +1,3668 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 16:55:13 +0000 2019",
+		"id": 1203357304176795600,
+		"id_str": "1203357304176795648",
+		"full_text": "체크, 미니멀, 셋업\n\n3박자!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203357120902512600,
+		"in_reply_to_status_id_str": "1203357120902512640",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 855,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "체크, 미니멀, 셋업\n\n3박자!"
+	},
+	{
+		"created_at": "Sat Dec 07 16:54:29 +0000 2019",
+		"id": 1203357120902512600,
+		"id_str": "1203357120902512640",
+		"full_text": "보아 패션은 시즌 아이템 잘 맞춰서 갔다고 생각하는데 다만 과했을 뿐이고 그리고 대중적으로 너무 인기가 많았던 것은 또 안했으니... 체크가 인기니까 셋업 입고 나온 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 855,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "보아 패션은 시즌 아이템 잘 맞춰서 갔다고 생각하는데 다만 과했을 뿐이고 그리고 대중적으로 너무 인기가 많았던 것은 또 안했으니... 체크가 인기니까 셋업 입고 나온 듯."
+	},
+	{
+		"created_at": "Sat Dec 07 16:51:00 +0000 2019",
+		"id": 1203328617951854600,
+		"id_str": "1203356242799804418",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night']\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/qzZ5XxYAGK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxHYMG",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203144961186652200,
+					"id_str": "1203144961186652165",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ELJt97jU4AUrYtX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELJt97jU4AUrYtX.jpg",
+					"url": "https://t.co/qzZ5XxYAGK",
+					"display_url": "pic.twitter.com/qzZ5XxYAGK",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203328617951854592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1067,
+									"y": 243,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 359,
+									"y": 256,
+									"h": 379,
+									"w": 379
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 625,
+									"y": 142,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 210,
+									"y": 150,
+									"h": 222,
+									"w": 222
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1564,
+									"y": 357,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 527,
+									"y": 375,
+									"h": 556,
+									"w": 556
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 80,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 119,
+									"y": 85,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203144961186652200,
+					"id_str": "1203144961186652165",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ELJt97jU4AUrYtX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELJt97jU4AUrYtX.jpg",
+					"url": "https://t.co/qzZ5XxYAGK",
+					"display_url": "pic.twitter.com/qzZ5XxYAGK",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203328617951854592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1067,
+									"y": 243,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 359,
+									"y": 256,
+									"h": 379,
+									"w": 379
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 625,
+									"y": 142,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 210,
+									"y": 150,
+									"h": 222,
+									"w": 222
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1564,
+									"y": 357,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 527,
+									"y": 375,
+									"h": 556,
+									"w": 556
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 80,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 119,
+									"y": 85,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 512,
+		"favorite_count": 1995,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night']\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/qzZ5XxYAGK"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:55 +0000 2019",
+		"id": 1203328598758715400,
+		"id_str": "1203356224562978816",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night']\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/8V7CGaSOEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxHYMG",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203144893792522200,
+					"id_str": "1203144893792522241",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ELJt6AfUEAECaN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELJt6AfUEAECaN8.jpg",
+					"url": "https://t.co/8V7CGaSOEb",
+					"display_url": "pic.twitter.com/8V7CGaSOEb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203328598758715393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1177,
+									"y": 1711,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 567,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 690,
+									"y": 1002,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1725,
+									"y": 2507,
+									"h": 208,
+									"w": 208
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203144893792522200,
+					"id_str": "1203144893792522241",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ELJt6AfUEAECaN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELJt6AfUEAECaN8.jpg",
+					"url": "https://t.co/8V7CGaSOEb",
+					"display_url": "pic.twitter.com/8V7CGaSOEb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203328598758715393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1177,
+									"y": 1711,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 567,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 690,
+									"y": 1002,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1725,
+									"y": 2507,
+									"h": 208,
+									"w": 208
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 429,
+		"favorite_count": 1563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night']\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/8V7CGaSOEb"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:53 +0000 2019",
+		"id": 1203328534132867000,
+		"id_str": "1203356213779394560",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night']\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/KIye2l6avM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxHYMG",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203144822183252000,
+					"id_str": "1203144822183251968",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ELJt11uVUAA5aF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELJt11uVUAA5aF2.jpg",
+					"url": "https://t.co/KIye2l6avM",
+					"display_url": "pic.twitter.com/KIye2l6avM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203328534132867074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 170,
+									"y": 881,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 284,
+									"y": 487,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 272,
+									"y": 673,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 498,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 161,
+									"y": 275,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 154,
+									"y": 381,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 2203,
+									"h": 158,
+									"w": 158
+								},
+								{
+									"x": 711,
+									"y": 1218,
+									"h": 266,
+									"w": 266
+								},
+								{
+									"x": 682,
+									"y": 1684,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 291,
+									"y": 1503,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 485,
+									"y": 831,
+									"h": 181,
+									"w": 181
+								},
+								{
+									"x": 465,
+									"y": 1149,
+									"h": 209,
+									"w": 209
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203144822183252000,
+					"id_str": "1203144822183251968",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ELJt11uVUAA5aF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELJt11uVUAA5aF2.jpg",
+					"url": "https://t.co/KIye2l6avM",
+					"display_url": "pic.twitter.com/KIye2l6avM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203328534132867074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 170,
+									"y": 881,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 284,
+									"y": 487,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 272,
+									"y": 673,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 498,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 161,
+									"y": 275,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 154,
+									"y": 381,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 2203,
+									"h": 158,
+									"w": 158
+								},
+								{
+									"x": 711,
+									"y": 1218,
+									"h": 266,
+									"w": 266
+								},
+								{
+									"x": 682,
+									"y": 1684,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 291,
+									"y": 1503,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 485,
+									"y": 831,
+									"h": 181,
+									"w": 181
+								},
+								{
+									"x": 465,
+									"y": 1149,
+									"h": 209,
+									"w": 209
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 564,
+		"favorite_count": 2097,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night']\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/KIye2l6avM"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:49 +0000 2019",
+		"id": 1203328313428545500,
+		"id_str": "1203356196679192578",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night'] Highlight Clip - ‘말린 장미 (Dry Flower)' \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight #말린장미 #DryFlower https://t.co/JokYD9ppOG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "말린장미",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "DryFlower",
+					"indices": [
+						162,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxHYMG",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203316684494237700,
+					"id_str": "1203316684494237698",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1203316684494237698/img/MJmQhLyF0f7pllV4.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1203316684494237698/img/MJmQhLyF0f7pllV4.jpg",
+					"url": "https://t.co/JokYD9ppOG",
+					"display_url": "pic.twitter.com/JokYD9ppOG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203328313428545536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203316684494237700,
+					"id_str": "1203316684494237698",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1203316684494237698/img/MJmQhLyF0f7pllV4.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1203316684494237698/img/MJmQhLyF0f7pllV4.jpg",
+					"url": "https://t.co/JokYD9ppOG",
+					"display_url": "pic.twitter.com/JokYD9ppOG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203328313428545536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22956,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1203316684494237698/vid/720x720/CjJyFeA3U6z01Cit.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1203316684494237698/vid/320x320/hjKIWavXlxXVJSU_.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1203316684494237698/vid/480x480/-NhXDDVulhL_1Lrm.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1203316684494237698/pl/ujBR4Z43v5PJAb_Y.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 732,
+		"favorite_count": 2293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night'] Highlight Clip - ‘말린 장미 (Dry Flower)' \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight #말린장미 #DryFlower https://t.co/JokYD9ppOG"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:45 +0000 2019",
+		"id": 1203147117092585500,
+		"id_str": "1203356180690558981",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night'] Highlight Clip - ‘I Don't Mind'\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxqnV8\n\n#BoA #보아 #StarryNight #IDontMind https://t.co/o9aQDaIEFq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "IDontMind",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxqnV8",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203138028211863600,
+					"id_str": "1203138028211863554",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1203138028211863554/img/FsaZvHe15tXtQmNs.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1203138028211863554/img/FsaZvHe15tXtQmNs.jpg",
+					"url": "https://t.co/o9aQDaIEFq",
+					"display_url": "pic.twitter.com/o9aQDaIEFq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203147117092585473/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203138028211863600,
+					"id_str": "1203138028211863554",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1203138028211863554/img/FsaZvHe15tXtQmNs.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1203138028211863554/img/FsaZvHe15tXtQmNs.jpg",
+					"url": "https://t.co/o9aQDaIEFq",
+					"display_url": "pic.twitter.com/o9aQDaIEFq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203147117092585473/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22723,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1203138028211863554/vid/320x320/rd7-AObsvhpI-Qcd.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1203138028211863554/pl/Mf-lFBS0o0sfL8SR.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1203138028211863554/vid/480x480/8U6F7GOlNO6ejuki.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1203138028211863554/vid/720x720/N2hPWUOmduCaaCdr.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1195,
+		"favorite_count": 5327,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night'] Highlight Clip - ‘I Don't Mind'\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxqnV8\n\n#BoA #보아 #StarryNight #IDontMind https://t.co/o9aQDaIEFq"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:42 +0000 2019",
+		"id": 1202966073626124300,
+		"id_str": "1203356169487568902",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night'] \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/yPaJJKavf0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxHYMG",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202881809186353200,
+					"id_str": "1202881809186353154",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ELF-od9U8AI-xGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELF-od9U8AI-xGj.jpg",
+					"url": "https://t.co/yPaJJKavf0",
+					"display_url": "pic.twitter.com/yPaJJKavf0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202966073626124294/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 149,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 540,
+									"y": 264,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1350,
+									"y": 661,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 921,
+									"y": 451,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202881809186353200,
+					"id_str": "1202881809186353154",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ELF-od9U8AI-xGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELF-od9U8AI-xGj.jpg",
+					"url": "https://t.co/yPaJJKavf0",
+					"display_url": "pic.twitter.com/yPaJJKavf0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202966073626124294/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 149,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 540,
+									"y": 264,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1350,
+									"y": 661,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 921,
+									"y": 451,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 858,
+		"favorite_count": 4020,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night'] \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/yPaJJKavf0"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:40 +0000 2019",
+		"id": 1202966050419036200,
+		"id_str": "1203356160029380608",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night'] \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/OngfnXquVR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxHYMG",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202881609541673000,
+					"id_str": "1202881609541672960",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ELF-c2OU4AAgDov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELF-c2OU4AAgDov.jpg",
+					"url": "https://t.co/OngfnXquVR",
+					"display_url": "pic.twitter.com/OngfnXquVR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202966050419036160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202881609541673000,
+					"id_str": "1202881609541672960",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ELF-c2OU4AAgDov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELF-c2OU4AAgDov.jpg",
+					"url": "https://t.co/OngfnXquVR",
+					"display_url": "pic.twitter.com/OngfnXquVR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202966050419036160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1020,
+		"favorite_count": 4464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night'] \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/OngfnXquVR"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:37 +0000 2019",
+		"id": 1202966012410265600,
+		"id_str": "1203356147769413632",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night'] \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/8UUNycLJTI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxHYMG",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202881553065365500,
+					"id_str": "1202881553065365504",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ELF-Zj1U0AA-ATU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELF-Zj1U0AA-ATU.jpg",
+					"url": "https://t.co/8UUNycLJTI",
+					"display_url": "pic.twitter.com/8UUNycLJTI",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202966012410265600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202881553065365500,
+					"id_str": "1202881553065365504",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ELF-Zj1U0AA-ATU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELF-Zj1U0AA-ATU.jpg",
+					"url": "https://t.co/8UUNycLJTI",
+					"display_url": "pic.twitter.com/8UUNycLJTI",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202966012410265600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1006,
+		"favorite_count": 4465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night'] \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight https://t.co/8UUNycLJTI"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:35 +0000 2019",
+		"id": 1202965922727780400,
+		"id_str": "1203356137858330627",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night'] Highlight Clip - ‘Black' \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxqnV8\n\n#BoA #보아 #StarryNight #Black https://t.co/kKhIxsvaHd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"text": "Black",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxqnV8",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202941377215991800,
+					"id_str": "1202941377215991808",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202941377215991808/img/MVsgWeUnmVK3sI2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202941377215991808/img/MVsgWeUnmVK3sI2v.jpg",
+					"url": "https://t.co/kKhIxsvaHd",
+					"display_url": "pic.twitter.com/kKhIxsvaHd",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202965922727780352/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202941377215991800,
+					"id_str": "1202941377215991808",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202941377215991808/img/MVsgWeUnmVK3sI2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202941377215991808/img/MVsgWeUnmVK3sI2v.jpg",
+					"url": "https://t.co/kKhIxsvaHd",
+					"display_url": "pic.twitter.com/kKhIxsvaHd",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202965922727780352/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22723,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202941377215991808/vid/320x320/CmiN0UiVxw9O-45Z.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1202941377215991808/pl/YHslGsf8GQ45Vhg2.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202941377215991808/vid/720x720/Ns6nUJvdTPDZMgLM.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202941377215991808/vid/480x480/vCA-APF6NG-IHouN.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1506,
+		"favorite_count": 5607,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night'] Highlight Clip - ‘Black' \n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxqnV8\n\n#BoA #보아 #StarryNight #Black https://t.co/kKhIxsvaHd"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:27 +0000 2019",
+		"id": 1202830126318178300,
+		"id_str": "1203356103855112192",
+		"full_text": "[EVENT] 보아와 함께하는 겨울, 'Starry Night' 이벤트★\n\n👉https://t.co/MIFbyPdRwK\n\n#BoA #보아 #StarryNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						77,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MIFbyPdRwK",
+					"expanded_url": "http://naver.me/GIjWNLmV",
+					"display_url": "naver.me/GIjWNLmV",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 3006,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT] 보아와 함께하는 겨울, 'Starry Night' 이벤트★\n\n👉https://t.co/MIFbyPdRwK\n\n#BoA #보아 #StarryNight"
+	},
+	{
+		"created_at": "Sat Dec 07 16:50:21 +0000 2019",
+		"id": 1202788000448446500,
+		"id_str": "1203356079414894592",
+		"full_text": "BoA 보아 The 2nd Mini Album ['Starry Night'] Highlight Clip - ‘보여 (Think About You)’\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight #보여 #ThinkAboutYou https://t.co/kCnvOz3w5C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "보여",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "ThinkAboutYou",
+					"indices": [
+						161,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wl4LxHYMG",
+					"expanded_url": "http://boa.smtown.com",
+					"display_url": "boa.smtown.com",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202787460033310700,
+					"id_str": "1202787460033310726",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202787460033310726/img/-Kpbw2DAeFbACDf6.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202787460033310726/img/-Kpbw2DAeFbACDf6.jpg",
+					"url": "https://t.co/kCnvOz3w5C",
+					"display_url": "pic.twitter.com/kCnvOz3w5C",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202788000448446465/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202787460033310700,
+					"id_str": "1202787460033310726",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202787460033310726/img/-Kpbw2DAeFbACDf6.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202787460033310726/img/-Kpbw2DAeFbACDf6.jpg",
+					"url": "https://t.co/kCnvOz3w5C",
+					"display_url": "pic.twitter.com/kCnvOz3w5C",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202788000448446465/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22489,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202787460033310726/vid/480x480/NdSfW-FKVJIsl7kS.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202787460033310726/vid/320x320/3N7WDx55ky1mWmbT.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1202787460033310726/pl/QVFAn-UZPsJurfpE.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202787460033310726/vid/720x720/G5lhOgO9nkJFLcNo.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1809,
+		"favorite_count": 6898,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album ['Starry Night'] Highlight Clip - ‘보여 (Think About You)’\n\n🎧 2019.12.11. 6PM (KST)\n👉 https://t.co/2wl4LxHYMG\n\n#BoA #보아 #StarryNight #보여 #ThinkAboutYou https://t.co/kCnvOz3w5C"
+	},
+	{
+		"created_at": "Sat Dec 07 16:49:29 +0000 2019",
+		"id": 1202755435486298000,
+		"id_str": "1203355862892310528",
+		"full_text": "The tracklist of #BoA's new album 'Starry Night' has been unveiled! Check out the total of 6 tracks that are perfect for winter on DEC 11 at 6PM KST, including the title song 'Starry Night (feat. Crush) depicting a couple sharing warm feelings as they watch the starry night sky! https://t.co/fMa9zY4B0n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202755355240874000,
+					"id_str": "1202755355240873984",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELELn4TUwAAZ9hh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELELn4TUwAAZ9hh.jpg",
+					"url": "https://t.co/fMa9zY4B0n",
+					"display_url": "pic.twitter.com/fMa9zY4B0n",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202755435486298112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1344,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "169927844",
+									"screen_name": "BoAkwon",
+									"name": "BoA"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 214,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 226,
+									"y": 159,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 378,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 401,
+									"y": 282,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 646,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 684,
+									"y": 482,
+									"h": 158,
+									"w": 158
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 646,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 684,
+									"y": 482,
+									"h": 158,
+									"w": 158
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202755355240874000,
+					"id_str": "1202755355240873984",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELELn4TUwAAZ9hh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELELn4TUwAAZ9hh.jpg",
+					"url": "https://t.co/fMa9zY4B0n",
+					"display_url": "pic.twitter.com/fMa9zY4B0n",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202755435486298112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1344,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "169927844",
+									"screen_name": "BoAkwon",
+									"name": "BoA"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 214,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 226,
+									"y": 159,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 378,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 401,
+									"y": 282,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 646,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 684,
+									"y": 482,
+									"h": 158,
+									"w": 158
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 646,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 684,
+									"y": 482,
+									"h": 158,
+									"w": 158
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202755390674366500,
+					"id_str": "1202755390674366465",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELELp8TU8AEVURA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELELp8TU8AEVURA.jpg",
+					"url": "https://t.co/fMa9zY4B0n",
+					"display_url": "pic.twitter.com/fMa9zY4B0n",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202755435486298112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "169927844",
+									"screen_name": "BoAkwon",
+									"name": "BoA"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 676,
+									"y": 322,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 224,
+									"y": 106,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 188,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 676,
+									"y": 322,
+									"h": 312,
+									"w": 312
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202755417924755500,
+					"id_str": "1202755417924755456",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELELrh0U4AALoxQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELELrh0U4AALoxQ.jpg",
+					"url": "https://t.co/fMa9zY4B0n",
+					"display_url": "pic.twitter.com/fMa9zY4B0n",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1202755435486298112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "169927844",
+									"screen_name": "BoAkwon",
+									"name": "BoA"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 972,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 510,
+									"y": 386,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 42,
+									"y": 323,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 169,
+									"y": 128,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 972,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 510,
+									"y": 386,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 74,
+									"y": 569,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 298,
+									"y": 226,
+									"h": 135,
+									"w": 135
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982887,
+			"friends_count": 49,
+			"listed_count": 9662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1220,
+		"favorite_count": 5663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The tracklist of #BoA's new album 'Starry Night' has been unveiled! Check out the total of 6 tracks that are perfect for winter on DEC 11 at 6PM KST, including the title song 'Starry Night (feat. Crush) depicting a couple sharing warm feelings as they watch the starry night sky! https://t.co/fMa9zY4B0n"
+	},
+	{
 		"created_at": "Sat Dec 07 14:54:53 +0000 2019",
 		"id": 1203323675883102200,
 		"id_str": "1203327024183549952",
