@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 22:19:58 +0000 2019",
+		"id": 1202993727020494800,
+		"id_str": "1203439031255584769",
+		"full_text": "2019 시티페스타 : 느슨한 연결\n\n- 전시 l 시간과 공간의 연결 : 오래된 미래\n\n- 강연 l 사람과 사람의 연결 : 다다르다\n#은유 #박준 \n\n- 공연 l 취향의 연결 : 점, 선 - 면\n#혹시몰라 #이랑 #권나무 #완태 #김사월 #이상은 \n\n#시티페스타 #도시여행자 https://t.co/l2gDoMPhwB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "은유",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "박준",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "혹시몰라",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "권나무",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "완태",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "이상은",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "시티페스타",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "도시여행자",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202993669915021300,
+					"id_str": "1202993669915021313",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHkXnpUEAEDNy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHkXnpUEAEDNy1.jpg",
+					"url": "https://t.co/l2gDoMPhwB",
+					"display_url": "pic.twitter.com/l2gDoMPhwB",
+					"expanded_url": "https://twitter.com/city_traveller/status/1202993727020494848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1450,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 65,
+									"y": 487,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 832,
+									"h": 180,
+									"w": 180
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 37,
+									"y": 275,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 832,
+									"h": 180,
+									"w": 180
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202993669915021300,
+					"id_str": "1202993669915021313",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHkXnpUEAEDNy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHkXnpUEAEDNy1.jpg",
+					"url": "https://t.co/l2gDoMPhwB",
+					"display_url": "pic.twitter.com/l2gDoMPhwB",
+					"expanded_url": "https://twitter.com/city_traveller/status/1202993727020494848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1450,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 65,
+									"y": 487,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 832,
+									"h": 180,
+									"w": 180
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 37,
+									"y": 275,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 832,
+									"h": 180,
+									"w": 180
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 467097966,
+			"id_str": "467097966",
+			"name": "도시여행자",
+			"screen_name": "city_traveller",
+			"location": "대전광역시 중구 중교로73번길6",
+			"description": "로컬 콘텐츠 만드는 사람들 l 삶의 다양한 방식을 제안하는 라이프스타일 서점 다다르다 l 여행 페스티벌 시티페스타 l 라이프스타일 풋볼 매치데이",
+			"url": "https://t.co/UydvIhj5Et",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UydvIhj5Et",
+							"expanded_url": "http://citytraveller.co.kr/",
+							"display_url": "citytraveller.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 694,
+			"friends_count": 399,
+			"listed_count": 16,
+			"created_at": "Wed Jan 18 03:37:06 +0000 2012",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201884572889354241/UkIWRBH-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201884572889354241/UkIWRBH-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/467097966/1561701720",
+			"profile_link_color": "5AB1E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01c3612e52c29948",
+			"url": "https://api.twitter.com/1.1/geo/id/01c3612e52c29948.json",
+			"place_type": "city",
+			"name": "중구",
+			"full_name": "대한민국 중구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.370376496479,
+							36.2203202414269
+						],
+						[
+							127.461068455548,
+							36.2203202414269
+						],
+						[
+							127.461068455548,
+							36.3679070720341
+						],
+						[
+							127.370376496479,
+							36.3679070720341
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 시티페스타 : 느슨한 연결\n\n- 전시 l 시간과 공간의 연결 : 오래된 미래\n\n- 강연 l 사람과 사람의 연결 : 다다르다\n#은유 #박준 \n\n- 공연 l 취향의 연결 : 점, 선 - 면\n#혹시몰라 #이랑 #권나무 #완태 #김사월 #이상은 \n\n#시티페스타 #도시여행자 https://t.co/l2gDoMPhwB"
+	},
+	{
 		"created_at": "Sat Dec 07 21:03:37 +0000 2019",
 		"id": 1203419815320227800,
 		"id_str": "1203419815320227840",
