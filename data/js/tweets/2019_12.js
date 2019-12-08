@@ -1,6 +1,746 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 13:45:46 +0000 2019",
+		"id": 1203497190540247000,
+		"id_str": "1203672018350067712",
+		"full_text": "읽으면서 뭐라하기 어려운 감정이.. 리벤지포르노 희생자가 된 미국 하원의원 케이티힐. 사진이 공개되고 그녀와 가족들에게까지 공격과 미행. 자살시도. 결국 하원의원직을 사임함. 그녀의 잘못이 아닌데 지지자들을 실망시켰다는 죄책감은 왜 그녀의 몫이 되어야하는가. https://t.co/jTZRltRJS4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jTZRltRJS4",
+					"expanded_url": "https://www.nytimes.com/2019/12/07/opinion/sunday/katie-hill-resignation.html",
+					"display_url": "nytimes.com/2019/12/07/opi…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 849504162073149400,
+			"id_str": "849504162073149440",
+			"name": "미루",
+			"screen_name": "myroommyspace",
+			"location": "In my room, in my space",
+			"description": "적응장애. 공황 불안 우울과 함께 살며 관리하는 방법을 배우고 치료받고 즐겁게 살아가려고함. 막례편. 운동좋아. 고양이좋아.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36,
+			"friends_count": 121,
+			"listed_count": 0,
+			"created_at": "Wed Apr 05 06:09:10 +0000 2017",
+			"favourites_count": 729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135176593674985472/kQ9Z7-L4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135176593674985472/kQ9Z7-L4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/849504162073149440/1559482166",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 862,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "읽으면서 뭐라하기 어려운 감정이.. 리벤지포르노 희생자가 된 미국 하원의원 케이티힐. 사진이 공개되고 그녀와 가족들에게까지 공격과 미행. 자살시도. 결국 하원의원직을 사임함. 그녀의 잘못이 아닌데 지지자들을 실망시켰다는 죄책감은 왜 그녀의 몫이 되어야하는가. https://t.co/jTZRltRJS4"
+	},
+	{
+		"created_at": "Sun Dec 08 13:36:07 +0000 2019",
+		"id": 1203652665063833600,
+		"id_str": "1203669586756829189",
+		"full_text": "유투의 마지막 메세지 https://t.co/3rV0ATjqEV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203652603223011300,
+					"id_str": "1203652603223011329",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ7qlgU8AEjWmd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ7qlgU8AEjWmd.jpg",
+					"url": "https://t.co/3rV0ATjqEV",
+					"display_url": "pic.twitter.com/3rV0ATjqEV",
+					"expanded_url": "https://twitter.com/A_Y_U_V/status/1203652665063833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 928,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203652603223011300,
+					"id_str": "1203652603223011329",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ7qlgU8AEjWmd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ7qlgU8AEjWmd.jpg",
+					"url": "https://t.co/3rV0ATjqEV",
+					"display_url": "pic.twitter.com/3rV0ATjqEV",
+					"expanded_url": "https://twitter.com/A_Y_U_V/status/1203652665063833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 928,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1203652603281698800,
+					"id_str": "1203652603281698817",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ7qluUcAEm5xL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ7qluUcAEm5xL.jpg",
+					"url": "https://t.co/3rV0ATjqEV",
+					"display_url": "pic.twitter.com/3rV0ATjqEV",
+					"expanded_url": "https://twitter.com/A_Y_U_V/status/1203652665063833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1203652603382395000,
+					"id_str": "1203652603382394880",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ7qmGU8AAIXQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ7qmGU8AAIXQv.jpg",
+					"url": "https://t.co/3rV0ATjqEV",
+					"display_url": "pic.twitter.com/3rV0ATjqEV",
+					"expanded_url": "https://twitter.com/A_Y_U_V/status/1203652665063833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1203652603411746800,
+					"id_str": "1203652603411746816",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ7qmNU0AAeCb8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ7qmNU0AAeCb8.jpg",
+					"url": "https://t.co/3rV0ATjqEV",
+					"display_url": "pic.twitter.com/3rV0ATjqEV",
+					"expanded_url": "https://twitter.com/A_Y_U_V/status/1203652665063833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 37,
+									"y": 201,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 209,
+									"y": 189,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 428,
+									"y": 180,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 608,
+									"h": 314,
+									"w": 314
+								},
+								{
+									"x": 630,
+									"y": 570,
+									"h": 316,
+									"w": 316
+								},
+								{
+									"x": 1292,
+									"y": 544,
+									"h": 374,
+									"w": 374
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 608,
+									"h": 314,
+									"w": 314
+								},
+								{
+									"x": 630,
+									"y": 570,
+									"h": 316,
+									"w": 316
+								},
+								{
+									"x": 1292,
+									"y": 544,
+									"h": 374,
+									"w": 374
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 65,
+									"y": 356,
+									"h": 183,
+									"w": 183
+								},
+								{
+									"x": 369,
+									"y": 333,
+									"h": 185,
+									"w": 185
+								},
+								{
+									"x": 757,
+									"y": 318,
+									"h": 219,
+									"w": 219
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2263321454,
+			"id_str": "2263321454",
+			"name": "아따흐흙유브",
+			"screen_name": "A_Y_U_V",
+			"location": "",
+			"description": "에릭찰스에 인생 죠짐당한 불상한 늙은이/욕쟁이/리버스가 스치기만 해도 디져보림/전방위RT폭격(RT꺼주세요ㅠ)/전우애, 형제애, 파트너십에 찐심 1863%",
+			"url": "https://t.co/09Vw2xHxrA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/09Vw2xHxrA",
+							"expanded_url": "http://ayuv.postype.com/",
+							"display_url": "ayuv.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 351,
+			"listed_count": 7,
+			"created_at": "Thu Dec 26 20:56:04 +0000 2013",
+			"favourites_count": 70578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 131795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/774076182383828992/7D3KNiew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/774076182383828992/7D3KNiew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2263321454/1407171827",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1393,
+		"favorite_count": 584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유투의 마지막 메세지 https://t.co/3rV0ATjqEV"
+	},
+	{
+		"created_at": "Sun Dec 08 13:35:42 +0000 2019",
+		"id": 1203656429619400700,
+		"id_str": "1203669485032361984",
+		"full_text": "Jeffrey Gundlach의 12월 4일 48분짜리 인터뷰. 아마도 매크로에 대해서는 미국 금융계에서 가장 많은 사람들이 귀기울이는 인물일 것으로 생각. 내년 미국 경제의 리세션 가능성, 미국 대선 전망, 마이너스 금리 정책, 통화정책 전망 등 많은 이슈에 대해 거침없이 언급.  https://t.co/3JAF3jFokp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3JAF3jFokp",
+					"expanded_url": "https://youtu.be/szjJn7iQA_c",
+					"display_url": "youtu.be/szjJn7iQA_c",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 459811305,
+			"id_str": "459811305",
+			"name": "김동조",
+			"screen_name": "hubris2020",
+			"location": "",
+			"description": "Hubris would anger the Genie _Barton Biggs",
+			"url": "http://t.co/ubRDvpXNLl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ubRDvpXNLl",
+							"expanded_url": "http://kimdongjo.com",
+							"display_url": "kimdongjo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148187,
+			"friends_count": 0,
+			"listed_count": 629,
+			"created_at": "Tue Jan 10 02:37:56 +0000 2012",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583514319691751424/gMf9A2sh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583514319691751424/gMf9A2sh_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Jeffrey Gundlach의 12월 4일 48분짜리 인터뷰. 아마도 매크로에 대해서는 미국 금융계에서 가장 많은 사람들이 귀기울이는 인물일 것으로 생각. 내년 미국 경제의 리세션 가능성, 미국 대선 전망, 마이너스 금리 정책, 통화정책 전망 등 많은 이슈에 대해 거침없이 언급.  https://t.co/3JAF3jFokp"
+	},
+	{
+		"created_at": "Sun Dec 08 13:34:28 +0000 2019",
+		"id": 1203669174439956500,
+		"id_str": "1203669174439956481",
+		"full_text": "@discordapp 디스코드야 힘을내.... 🙏",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "discordapp",
+					"name": "Discord",
+					"id": 3065618342,
+					"id_str": "3065618342",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203665642194448400,
+		"in_reply_to_status_id_str": "1203665642194448390",
+		"in_reply_to_user_id": 3065618342,
+		"in_reply_to_user_id_str": "3065618342",
+		"in_reply_to_screen_name": "discordapp",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 856,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@discordapp 디스코드야 힘을내.... 🙏"
+	},
+	{
 		"created_at": "Sun Dec 08 09:54:53 +0000 2019",
 		"id": 1203603191905972200,
 		"id_str": "1203613910903017472",
