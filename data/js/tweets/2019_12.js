@@ -1,6 +1,1138 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 08:23:04 +0000 2019",
+		"id": 1203573280755478500,
+		"id_str": "1203590805153173506",
+		"full_text": "KRYSTAL showed her global presence with her explosive local popularity by attending the famous Chinese fashion awards ‘MADAME FIGARO FASHION GALA’ and winning the 'Asia Style Award'!👏🏻\n\n#크리스탈 #KRYSTAL https://t.co/OMrObeMlE0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크리스탈",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "KRYSTAL",
+					"indices": [
+						192,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203573264737427500,
+					"id_str": "1203573264737427461",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/ELPzgenU4AUIGKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELPzgenU4AUIGKN.jpg",
+					"url": "https://t.co/OMrObeMlE0",
+					"display_url": "pic.twitter.com/OMrObeMlE0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203573280755478528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 131,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 565,
+									"y": 395,
+									"h": 299,
+									"w": 299
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 331,
+									"y": 232,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 621,
+									"y": 435,
+									"h": 329,
+									"w": 329
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203573264737427500,
+					"id_str": "1203573264737427461",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/ELPzgenU4AUIGKN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELPzgenU4AUIGKN.jpg",
+					"url": "https://t.co/OMrObeMlE0",
+					"display_url": "pic.twitter.com/OMrObeMlE0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203573280755478528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 131,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 565,
+									"y": 395,
+									"h": 299,
+									"w": 299
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 331,
+									"y": 232,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 621,
+									"y": 435,
+									"h": 329,
+									"w": 329
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203573264745787400,
+					"id_str": "1203573264745787392",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/ELPzgepUcAA_zOk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELPzgepUcAA_zOk.jpg",
+					"url": "https://t.co/OMrObeMlE0",
+					"display_url": "pic.twitter.com/OMrObeMlE0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203573280755478528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 611,
+									"y": 607,
+									"h": 173,
+									"w": 173
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1004,
+									"y": 997,
+									"h": 285,
+									"w": 285
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 358,
+									"y": 356,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 203,
+									"y": 201,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203573264750018600,
+					"id_str": "1203573264750018561",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/ELPzgeqVAAELH6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELPzgeqVAAELH6C.jpg",
+					"url": "https://t.co/OMrObeMlE0",
+					"display_url": "pic.twitter.com/OMrObeMlE0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1203573280755478528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 939,
+									"y": 473,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 1095,
+									"y": 413,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 157,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 363,
+									"y": 137,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 550,
+									"y": 277,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 642,
+									"y": 242,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1542,
+									"y": 777,
+									"h": 127,
+									"w": 127
+								},
+								{
+									"x": 1798,
+									"y": 679,
+									"h": 170,
+									"w": 170
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7984061,
+			"friends_count": 49,
+			"listed_count": 9660,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3560,
+		"favorite_count": 7866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KRYSTAL showed her global presence with her explosive local popularity by attending the famous Chinese fashion awards ‘MADAME FIGARO FASHION GALA’ and winning the 'Asia Style Award'!👏🏻\n\n#크리스탈 #KRYSTAL https://t.co/OMrObeMlE0"
+	},
+	{
+		"created_at": "Sun Dec 08 08:22:37 +0000 2019",
+		"id": 1203166037136400400,
+		"id_str": "1203590694306107392",
+		"full_text": "우울증인 언니가 낙으로 여기는 것들 https://t.co/cEKwHXFUgB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203166022531874800,
+					"id_str": "1203166022531874816",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKBH3LVAAAFQdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKBH3LVAAAFQdu.jpg",
+					"url": "https://t.co/cEKwHXFUgB",
+					"display_url": "pic.twitter.com/cEKwHXFUgB",
+					"expanded_url": "https://twitter.com/WkfxjfrP/status/1203166037136400387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1094,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203166022531874800,
+					"id_str": "1203166022531874816",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKBH3LVAAAFQdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKBH3LVAAAFQdu.jpg",
+					"url": "https://t.co/cEKwHXFUgB",
+					"display_url": "pic.twitter.com/cEKwHXFUgB",
+					"expanded_url": "https://twitter.com/WkfxjfrP/status/1203166037136400387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1094,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 945314922065305600,
+			"id_str": "945314922065305600",
+			"name": "짤주워오는계정",
+			"screen_name": "WkfxjfrP",
+			"location": "",
+			"description": "재밌어보이는거 or 사람들이 봐줬으면하는거 저장용",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33156,
+			"friends_count": 0,
+			"listed_count": 81,
+			"created_at": "Mon Dec 25 15:26:55 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169070430583283712/oTJrXisj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169070430583283712/oTJrXisj_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4849,
+		"favorite_count": 3621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우울증인 언니가 낙으로 여기는 것들 https://t.co/cEKwHXFUgB"
+	},
+	{
+		"created_at": "Sun Dec 08 08:21:56 +0000 2019",
+		"id": 1203427272398491600,
+		"id_str": "1203590521299456000",
+		"full_text": "어릴때부터 남자같지 않은 사람이 이상형이라 나는 내가 헤테로가 아닌줄 알았음. 페미니즘을 접하고 나서야 알았지. 내가 싫어한건 남성이 아니라 한국에서 “남성답다” 가 의미한 천박함,무례,폭력,공격성과 섬세한 구석이라곤 없는 무센스함임을 https://t.co/dpzc6TxB4r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dpzc6TxB4r",
+					"expanded_url": "https://twitter.com/fish_globe/status/1203301531732197376",
+					"display_url": "twitter.com/fish_globe/sta…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217696263,
+			"id_str": "217696263",
+			"name": "Mio",
+			"screen_name": "affective_neuro",
+			"location": "in my old book",
+			"description": "Brain Scientist. want to be an artist. My life is full of brain science, music, and some engineering.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2643,
+			"friends_count": 2364,
+			"listed_count": 58,
+			"created_at": "Sat Nov 20 07:30:54 +0000 2010",
+			"favourites_count": 2491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 150528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201153122309046272/c68seWdi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201153122309046272/c68seWdi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217696263/1510470258",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1203301531732197400,
+		"quoted_status_id_str": "1203301531732197376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dpzc6TxB4r",
+			"expanded": "https://twitter.com/fish_globe/status/1203301531732197376",
+			"display": "twitter.com/fish_globe/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 07 13:13:36 +0000 2019",
+			"id": 1203301531732197400,
+			"id_str": "1203301531732197376",
+			"full_text": "양준일씨 첫인상이 ‘남자같지 않다’였는데 너무나 많은 것을 설명한다...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 449860542,
+				"id_str": "449860542",
+				"name": "pongdang",
+				"screen_name": "fish_globe",
+				"location": "",
+				"description": "마켓컬리 추천코드 pongdang 이번주의 추천 상품은 리얼군밤 iHERB 추천코드 RVB124",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4589,
+				"friends_count": 710,
+				"listed_count": 47,
+				"created_at": "Thu Dec 29 15:49:37 +0000 2011",
+				"favourites_count": 6697,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 118590,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202772491308920832/4hRWKsSw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202772491308920832/4hRWKsSw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/449860542/1571649548",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91,
+			"favorite_count": 124,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1365,
+		"favorite_count": 890,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어릴때부터 남자같지 않은 사람이 이상형이라 나는 내가 헤테로가 아닌줄 알았음. 페미니즘을 접하고 나서야 알았지. 내가 싫어한건 남성이 아니라 한국에서 “남성답다” 가 의미한 천박함,무례,폭력,공격성과 섬세한 구석이라곤 없는 무센스함임을 https://t.co/dpzc6TxB4r"
+	},
+	{
+		"created_at": "Sun Dec 08 08:21:07 +0000 2019",
+		"id": 1203389339079569400,
+		"id_str": "1203590316701310976",
+		"full_text": "이 때 취미로 하는 활동이 연차가 쌓이고 인정을 받아 메인잡처럼 수입원으로 바뀌게 되면 더욱 좋으나 그렇지 않은 경우에도 다양한 시각을 보게 하고 환기를 하게되어 이와 같이 안정적인 직업+취미 활동으로 투잡, 또는 스리잡을 하는 경우 효용이 크다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203388783573422000,
+		"in_reply_to_status_id_str": "1203388783573422080",
+		"in_reply_to_user_id": 3308496509,
+		"in_reply_to_user_id_str": "3308496509",
+		"in_reply_to_screen_name": "DataNCuriosity",
+		"user": {
+			"id": 3308496509,
+			"id_str": "3308496509",
+			"name": "Data+Curiosity @ NeurIPS",
+			"screen_name": "DataNCuriosity",
+			"location": "",
+			"description": "endlessly curious & persistent 궁금한게 많고 끈질깁니다 / 스쳐가는 생각 가볍게 메모하는 곳",
+			"url": "https://t.co/KeKS6FVtd1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KeKS6FVtd1",
+							"expanded_url": "http://curiosity-map.tistory.com",
+							"display_url": "curiosity-map.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6542,
+			"friends_count": 4891,
+			"listed_count": 50,
+			"created_at": "Thu Jun 04 18:04:04 +0000 2015",
+			"favourites_count": 25592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203528081354280960/9K7npwTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203528081354280960/9K7npwTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308496509/1575778430",
+			"profile_link_color": "C21A19",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 때 취미로 하는 활동이 연차가 쌓이고 인정을 받아 메인잡처럼 수입원으로 바뀌게 되면 더욱 좋으나 그렇지 않은 경우에도 다양한 시각을 보게 하고 환기를 하게되어 이와 같이 안정적인 직업+취미 활동으로 투잡, 또는 스리잡을 하는 경우 효용이 크다."
+	},
+	{
+		"created_at": "Sun Dec 08 08:21:06 +0000 2019",
+		"id": 1203388783573422000,
+		"id_str": "1203590310476926976",
+		"full_text": "실제로 안정적인 직업을 메인으로 추구하면서 사이드로 관심있는 분야를 탐색할 경우, 지속적인 수입원을 갖춘 상태에서 하고 싶을 일을 하며 삶의 만족도를 높일 수 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203387192766165000,
+		"in_reply_to_status_id_str": "1203387192766164993",
+		"in_reply_to_user_id": 3308496509,
+		"in_reply_to_user_id_str": "3308496509",
+		"in_reply_to_screen_name": "DataNCuriosity",
+		"user": {
+			"id": 3308496509,
+			"id_str": "3308496509",
+			"name": "Data+Curiosity @ NeurIPS",
+			"screen_name": "DataNCuriosity",
+			"location": "",
+			"description": "endlessly curious & persistent 궁금한게 많고 끈질깁니다 / 스쳐가는 생각 가볍게 메모하는 곳",
+			"url": "https://t.co/KeKS6FVtd1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KeKS6FVtd1",
+							"expanded_url": "http://curiosity-map.tistory.com",
+							"display_url": "curiosity-map.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6542,
+			"friends_count": 4891,
+			"listed_count": 50,
+			"created_at": "Thu Jun 04 18:04:04 +0000 2015",
+			"favourites_count": 25592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203528081354280960/9K7npwTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203528081354280960/9K7npwTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308496509/1575778430",
+			"profile_link_color": "C21A19",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "실제로 안정적인 직업을 메인으로 추구하면서 사이드로 관심있는 분야를 탐색할 경우, 지속적인 수입원을 갖춘 상태에서 하고 싶을 일을 하며 삶의 만족도를 높일 수 있다."
+	},
+	{
+		"created_at": "Sun Dec 08 08:20:44 +0000 2019",
+		"id": 1203387192766165000,
+		"id_str": "1203590219594747905",
+		"full_text": "Whether to pursue your passion or a job that pays the bills -- why not both? \n돈을 벌기 위한 직업과 취미 활동을 병행할 때:\n- 호환가능한 스킬을 개발하고,\n- 다양한 사람들과 네트워크 형성 가능,\n- 새로운 기회 포착으로 시너지 효과를 낼 수 있는 내용을 다룬 기사\n\nhttps://t.co/jgtfR0VGri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jgtfR0VGri",
+					"expanded_url": "https://hbr.org/2017/04/why-you-should-have-at-least-two-careers?utm_campaign=hbr&utm_source=twitter&utm_medium=social",
+					"display_url": "hbr.org/2017/04/why-yo…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3308496509,
+			"id_str": "3308496509",
+			"name": "Data+Curiosity @ NeurIPS",
+			"screen_name": "DataNCuriosity",
+			"location": "",
+			"description": "endlessly curious & persistent 궁금한게 많고 끈질깁니다 / 스쳐가는 생각 가볍게 메모하는 곳",
+			"url": "https://t.co/KeKS6FVtd1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KeKS6FVtd1",
+							"expanded_url": "http://curiosity-map.tistory.com",
+							"display_url": "curiosity-map.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6542,
+			"friends_count": 4891,
+			"listed_count": 50,
+			"created_at": "Thu Jun 04 18:04:04 +0000 2015",
+			"favourites_count": 25592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203528081354280960/9K7npwTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203528081354280960/9K7npwTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308496509/1575778430",
+			"profile_link_color": "C21A19",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 534,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Whether to pursue your passion or a job that pays the bills -- why not both? \n돈을 벌기 위한 직업과 취미 활동을 병행할 때:\n- 호환가능한 스킬을 개발하고,\n- 다양한 사람들과 네트워크 형성 가능,\n- 새로운 기회 포착으로 시너지 효과를 낼 수 있는 내용을 다룬 기사\n\nhttps://t.co/jgtfR0VGri"
+	},
+	{
 		"created_at": "Sat Dec 07 22:19:58 +0000 2019",
 		"id": 1202993727020494800,
 		"id_str": "1203439031255584769",
