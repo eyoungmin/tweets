@@ -1,6 +1,136 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 09:56:22 +0000 2019",
+		"id": 1203889207854293000,
+		"id_str": "1203976674037002241",
+		"full_text": "[V LIVE+] Tring🎊 Petionista Taengoo's V LIVE+ has   been released. Meet the preview of next week's broadcast and unreleased behind-the-scenes. If you join the two options as a package, 100 coins will be discounted‼️\n\n▶️ https://t.co/duq4os365E\n\n#PetionistaTaengoo #Taeyeon #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PetionistaTaengoo",
+					"indices": [
+						245,
+						263
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						264,
+						272
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						273,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/duq4os365E",
+					"expanded_url": "https://bit.ly/383VnNH",
+					"display_url": "bit.ly/383VnNH",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202083442646769700,
+		"in_reply_to_status_id_str": "1202083442646769665",
+		"in_reply_to_user_id": 1459223742,
+		"in_reply_to_user_id_str": "1459223742",
+		"in_reply_to_screen_name": "Vliveofficial",
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3381511,
+			"friends_count": 169,
+			"listed_count": 1877,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 625,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[V LIVE+] Tring🎊 Petionista Taengoo's V LIVE+ has   been released. Meet the preview of next week's broadcast and unreleased behind-the-scenes. If you join the two options as a package, 100 coins will be discounted‼️\n\n▶️ https://t.co/duq4os365E\n\n#PetionistaTaengoo #Taeyeon #VLIVE"
+	},
+	{
 		"created_at": "Mon Dec 09 09:00:52 +0000 2019",
 		"id": 1203962708414128000,
 		"id_str": "1203962708414128128",
