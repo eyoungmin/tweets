@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 02:54:53 +0000 2019",
+		"id": 1203857463197331500,
+		"id_str": "1203870602890825728",
+		"full_text": "#권유리(소녀시대 유리)가 연탄은행 공익 광고에 재능 기부로 참여해 올겨울, 따뜻함을 전했습니다! \n\n#유리 #YURI #KWONYURI #소녀시대 #GirlsGeneration https://t.co/Hzt8iqEOq3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						83,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203857452124344300,
+					"id_str": "1203857452124344320",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ELT1-XIUEAAtaUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELT1-XIUEAAtaUc.jpg",
+					"url": "https://t.co/Hzt8iqEOq3",
+					"display_url": "pic.twitter.com/Hzt8iqEOq3",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1203857463197331456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 461,
+									"y": 113,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 192,
+									"y": 478,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 278,
+									"y": 394,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 50,
+									"y": 54,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1019,
+									"y": 250,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 424,
+									"y": 1056,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 615,
+									"y": 871,
+									"h": 169,
+									"w": 169
+								},
+								{
+									"x": 111,
+									"y": 120,
+									"h": 291,
+									"w": 291
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1019,
+									"y": 250,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 424,
+									"y": 1056,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 615,
+									"y": 871,
+									"h": 169,
+									"w": 169
+								},
+								{
+									"x": 111,
+									"y": 120,
+									"h": 291,
+									"w": 291
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 815,
+									"y": 200,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 339,
+									"y": 844,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 492,
+									"y": 696,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 88,
+									"y": 96,
+									"h": 232,
+									"w": 232
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203857452124344300,
+					"id_str": "1203857452124344320",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ELT1-XIUEAAtaUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELT1-XIUEAAtaUc.jpg",
+					"url": "https://t.co/Hzt8iqEOq3",
+					"display_url": "pic.twitter.com/Hzt8iqEOq3",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1203857463197331456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 461,
+									"y": 113,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 192,
+									"y": 478,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 278,
+									"y": 394,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 50,
+									"y": 54,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1019,
+									"y": 250,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 424,
+									"y": 1056,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 615,
+									"y": 871,
+									"h": 169,
+									"w": 169
+								},
+								{
+									"x": 111,
+									"y": 120,
+									"h": 291,
+									"w": 291
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1019,
+									"y": 250,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 424,
+									"y": 1056,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 615,
+									"y": 871,
+									"h": 169,
+									"w": 169
+								},
+								{
+									"x": 111,
+									"y": 120,
+									"h": 291,
+									"w": 291
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 815,
+									"y": 200,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 339,
+									"y": 844,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 492,
+									"y": 696,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 88,
+									"y": 96,
+									"h": 232,
+									"w": 232
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3518886,
+			"friends_count": 4,
+			"listed_count": 5909,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1881,
+		"favorite_count": 5110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#권유리(소녀시대 유리)가 연탄은행 공익 광고에 재능 기부로 참여해 올겨울, 따뜻함을 전했습니다! \n\n#유리 #YURI #KWONYURI #소녀시대 #GirlsGeneration https://t.co/Hzt8iqEOq3"
+	},
+	{
 		"created_at": "Mon Dec 09 00:54:53 +0000 2019",
 		"id": 1203826585700143000,
 		"id_str": "1203840403046195201",
