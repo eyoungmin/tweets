@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 10:33:37 +0000 2019",
+		"id": 1203950738868777000,
+		"id_str": "1203986047782121472",
+		"full_text": "@MarkMaker36 It isn't just you. The team is aware that search is still broken from the outages we've had and we're looking to fix it ASAP. Apologies for the trouble in the meantime!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMaker36",
+					"name": "❄️Mark Maker❄️ (Commissions Open)",
+					"id": 3410470693,
+					"id_str": "3410470693",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.sparkcentral.com\" rel=\"nofollow\">Sparkcentral.com</a>",
+		"in_reply_to_status_id": 1203950445691097000,
+		"in_reply_to_status_id_str": "1203950445691097088",
+		"in_reply_to_user_id": 3410470693,
+		"in_reply_to_user_id_str": "3410470693",
+		"in_reply_to_screen_name": "MarkMaker36",
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discordapp",
+			"location": "San Francisco, CA",
+			"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+			"url": "https://t.co/vBo0wJuUlu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBo0wJuUlu",
+							"expanded_url": "http://dis.gd/website",
+							"display_url": "dis.gd/website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1568317,
+			"friends_count": 1130,
+			"listed_count": 2254,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 33233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 410024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201576207239860226/D21Zw4l7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201576207239860226/D21Zw4l7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1575313127",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@MarkMaker36 It isn't just you. The team is aware that search is still broken from the outages we've had and we're looking to fix it ASAP. Apologies for the trouble in the meantime!"
+	},
+	{
+		"created_at": "Mon Dec 09 10:33:18 +0000 2019",
+		"id": 1203948399994777600,
+		"id_str": "1203985966437826562",
+		"full_text": "@srnorris21 @ElieAdor Apologies for all the trouble regarding the search function! Our team is very aware of this problem since the outage and we're actively trying to resolve the problem. We don't have an ETA on a resolution yet, but we're hoping soon.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srnorris21",
+					"name": "S",
+					"id": 1657752074,
+					"id_str": "1657752074",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ElieAdor",
+					"name": "Elie",
+					"id": 41310970,
+					"id_str": "41310970",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.sparkcentral.com\" rel=\"nofollow\">Sparkcentral.com</a>",
+		"in_reply_to_status_id": 1203947957424394200,
+		"in_reply_to_status_id_str": "1203947957424394241",
+		"in_reply_to_user_id": 1657752074,
+		"in_reply_to_user_id_str": "1657752074",
+		"in_reply_to_screen_name": "srnorris21",
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discordapp",
+			"location": "San Francisco, CA",
+			"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+			"url": "https://t.co/vBo0wJuUlu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBo0wJuUlu",
+							"expanded_url": "http://dis.gd/website",
+							"display_url": "dis.gd/website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1568317,
+			"friends_count": 1130,
+			"listed_count": 2254,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 33233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 410024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201576207239860226/D21Zw4l7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201576207239860226/D21Zw4l7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1575313127",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@srnorris21 @ElieAdor Apologies for all the trouble regarding the search function! Our team is very aware of this problem since the outage and we're actively trying to resolve the problem. We don't have an ETA on a resolution yet, but we're hoping soon."
+	},
+	{
 		"created_at": "Mon Dec 09 09:56:22 +0000 2019",
 		"id": 1203889207854293000,
 		"id_str": "1203976674037002241",
