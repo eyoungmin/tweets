@@ -1,6 +1,129 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 12:23:41 +0000 2019",
+		"id": 1204008323327987700,
+		"id_str": "1204013746785402882",
+		"full_text": "#YerinBaek #백예린 1st Full-Length Album [Every letter I sent you.] Highlight Medley https://t.co/WyVB6RHc9C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YerinBaek",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						11,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WyVB6RHc9C",
+					"expanded_url": "https://youtu.be/7zHqmKOx9UA",
+					"display_url": "youtu.be/7zHqmKOx9UA",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807143251744436200,
+			"id_str": "807143251744436225",
+			"name": "CAKE POP",
+			"screen_name": "CAKEPOP_twt",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/ewWUDdC6eA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ewWUDdC6eA",
+							"expanded_url": "http://youtube.com/cakepop",
+							"display_url": "youtube.com/cakepop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90316,
+			"friends_count": 0,
+			"listed_count": 166,
+			"created_at": "Fri Dec 09 08:42:02 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149249494967472129/4k-o0Gru_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149249494967472129/4k-o0Gru_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807143251744436225/1562837422",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#YerinBaek #백예린 1st Full-Length Album [Every letter I sent you.] Highlight Medley https://t.co/WyVB6RHc9C"
+	},
+	{
 		"created_at": "Mon Dec 09 11:51:47 +0000 2019",
 		"id": 1204005718455505000,
 		"id_str": "1204005718455504896",
