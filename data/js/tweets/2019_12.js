@@ -1,6 +1,2856 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 20:50:37 +0000 2019",
+		"id": 1203272090075324400,
+		"id_str": "1204503710971203584",
+		"full_text": "🖤💎 https://t.co/IaYi86Gf9l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203272079593730000,
+					"id_str": "1203272079593730048",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLhlMhUcAA4g_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLhlMhUcAA4g_h.jpg",
+					"url": "https://t.co/IaYi86Gf9l",
+					"display_url": "pic.twitter.com/IaYi86Gf9l",
+					"expanded_url": "https://twitter.com/KissSoo_KSCN/status/1203272090075324416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 349,
+									"y": 588,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1052,
+									"y": 1772,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1052,
+									"y": 1772,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 1037,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203272079593730000,
+					"id_str": "1203272079593730048",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLhlMhUcAA4g_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLhlMhUcAA4g_h.jpg",
+					"url": "https://t.co/IaYi86Gf9l",
+					"display_url": "pic.twitter.com/IaYi86Gf9l",
+					"expanded_url": "https://twitter.com/KissSoo_KSCN/status/1203272090075324416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 349,
+									"y": 588,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1052,
+									"y": 1772,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1052,
+									"y": 1772,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 1037,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203272079593705500,
+					"id_str": "1203272079593705472",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLhlMhUEAA_b0a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLhlMhUEAA_b0a.jpg",
+					"url": "https://t.co/IaYi86Gf9l",
+					"display_url": "pic.twitter.com/IaYi86Gf9l",
+					"expanded_url": "https://twitter.com/KissSoo_KSCN/status/1203272090075324416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203270429957226500,
+		"in_reply_to_status_id_str": "1203270429957226496",
+		"in_reply_to_user_id": 701266278,
+		"in_reply_to_user_id_str": "701266278",
+		"in_reply_to_screen_name": "KissSoo_KSCN",
+		"user": {
+			"id": 701266278,
+			"id_str": "701266278",
+			"name": "Kiss Soo",
+			"screen_name": "KissSoo_KSCN",
+			"location": "China",
+			"description": "郑秀晶中文站 키스수 KRYSTAL / JUNG SOO JUNG CHINA FANSITE -2012.7.7- 끝까지 정수정을 응원합니다. 수정아, 우리가 더 행복하게 해줄게! weibo: https://t.co/rHHbk0u9Gd ig: kisssoocn",
+			"url": "https://t.co/rHHbk0u9Gd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rHHbk0u9Gd",
+							"expanded_url": "http://weibo.com/kisssoo1024",
+							"display_url": "weibo.com/kisssoo1024",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rHHbk0u9Gd",
+							"expanded_url": "http://weibo.com/kisssoo1024",
+							"display_url": "weibo.com/kisssoo1024",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16566,
+			"friends_count": 16,
+			"listed_count": 493,
+			"created_at": "Tue Jul 17 15:39:54 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965098331943862273/Rt9Y9vnb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965098331943862273/Rt9Y9vnb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701266278/1472527716",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 943,
+		"favorite_count": 702,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🖤💎 https://t.co/IaYi86Gf9l"
+	},
+	{
+		"created_at": "Tue Dec 10 20:50:36 +0000 2019",
+		"id": 1203270429957226500,
+		"id_str": "1204503704646238208",
+		"full_text": "여기 계시면 천국은 누가 지켜요? ✨\n\n#Krystal #정수정 #크리스탈 #郑秀晶 #费加罗风尚盛典 https://t.co/804nUmSIxB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Krystal",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "郑秀晶",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "费加罗风尚盛典",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203270418250862600,
+					"id_str": "1203270418250862593",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLgEfiUEAEPYXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLgEfiUEAEPYXI.jpg",
+					"url": "https://t.co/804nUmSIxB",
+					"display_url": "pic.twitter.com/804nUmSIxB",
+					"expanded_url": "https://twitter.com/KissSoo_KSCN/status/1203270429957226496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 1296,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 46,
+									"y": 759,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 1296,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 26,
+									"y": 430,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203270418250862600,
+					"id_str": "1203270418250862593",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLgEfiUEAEPYXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLgEfiUEAEPYXI.jpg",
+					"url": "https://t.co/804nUmSIxB",
+					"display_url": "pic.twitter.com/804nUmSIxB",
+					"expanded_url": "https://twitter.com/KissSoo_KSCN/status/1203270429957226496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 1296,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 46,
+									"y": 759,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 1296,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 26,
+									"y": 430,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203270418276049000,
+					"id_str": "1203270418276048897",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLgEfoUYAES7qW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLgEfoUYAES7qW.jpg",
+					"url": "https://t.co/804nUmSIxB",
+					"display_url": "pic.twitter.com/804nUmSIxB",
+					"expanded_url": "https://twitter.com/KissSoo_KSCN/status/1203270429957226496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 98,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 298,
+									"h": 290,
+									"w": 290
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 292,
+									"y": 174,
+									"h": 169,
+									"w": 169
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 298,
+									"h": 290,
+									"w": 290
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203270418259251200,
+					"id_str": "1203270418259251200",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLgEfkUEAA-963.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLgEfkUEAA-963.jpg",
+					"url": "https://t.co/804nUmSIxB",
+					"display_url": "pic.twitter.com/804nUmSIxB",
+					"expanded_url": "https://twitter.com/KissSoo_KSCN/status/1203270429957226496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 528,
+									"y": 292,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 344,
+									"y": 672,
+									"h": 594,
+									"w": 594
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 309,
+									"y": 171,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 201,
+									"y": 393,
+									"h": 347,
+									"w": 347
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 528,
+									"y": 292,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 344,
+									"y": 672,
+									"h": 594,
+									"w": 594
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 96,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 114,
+									"y": 223,
+									"h": 197,
+									"w": 197
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203270418263490600,
+					"id_str": "1203270418263490562",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLgEflUwAIgU_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLgEflUwAIgU_B.jpg",
+					"url": "https://t.co/804nUmSIxB",
+					"display_url": "pic.twitter.com/804nUmSIxB",
+					"expanded_url": "https://twitter.com/KissSoo_KSCN/status/1203270429957226496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 850,
+									"y": 106,
+									"h": 202,
+									"w": 202
+								},
+								{
+									"x": 578,
+									"y": 284,
+									"h": 260,
+									"w": 260
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 35,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 191,
+									"y": 94,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 850,
+									"y": 106,
+									"h": 202,
+									"w": 202
+								},
+								{
+									"x": 578,
+									"y": 284,
+									"h": 260,
+									"w": 260
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 497,
+									"y": 62,
+									"h": 118,
+									"w": 118
+								},
+								{
+									"x": 338,
+									"y": 166,
+									"h": 152,
+									"w": 152
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701266278,
+			"id_str": "701266278",
+			"name": "Kiss Soo",
+			"screen_name": "KissSoo_KSCN",
+			"location": "China",
+			"description": "郑秀晶中文站 키스수 KRYSTAL / JUNG SOO JUNG CHINA FANSITE -2012.7.7- 끝까지 정수정을 응원합니다. 수정아, 우리가 더 행복하게 해줄게! weibo: https://t.co/rHHbk0u9Gd ig: kisssoocn",
+			"url": "https://t.co/rHHbk0u9Gd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rHHbk0u9Gd",
+							"expanded_url": "http://weibo.com/kisssoo1024",
+							"display_url": "weibo.com/kisssoo1024",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rHHbk0u9Gd",
+							"expanded_url": "http://weibo.com/kisssoo1024",
+							"display_url": "weibo.com/kisssoo1024",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16566,
+			"friends_count": 16,
+			"listed_count": 493,
+			"created_at": "Tue Jul 17 15:39:54 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965098331943862273/Rt9Y9vnb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965098331943862273/Rt9Y9vnb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701266278/1472527716",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3095,
+		"favorite_count": 2605,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여기 계시면 천국은 누가 지켜요? ✨\n\n#Krystal #정수정 #크리스탈 #郑秀晶 #费加罗风尚盛典 https://t.co/804nUmSIxB"
+	},
+	{
+		"created_at": "Tue Dec 10 20:37:25 +0000 2019",
+		"id": 1204376742565048300,
+		"id_str": "1204500389199933440",
+		"full_text": "크리스탈 One &amp; Only\n#오보이 #ohboymagazine #크리스탈 #krystal #오보이매거진 *현재 네이버 스마트스토어에 업로드 됐습니다. 나머지 과월호와 오보이!에서 추천하는 다양한 생활용품도 곧 업로드할 예정입니다. 본 계정 프로필에 네이버 스마트 스토어 링크 https://t.co/7w6T52aigR https://t.co/ySuvl5Hsdl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오보이",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "ohboymagazine",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "krystal",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "오보이매거진",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7w6T52aigR",
+					"expanded_url": "http://smartstore.naver.com/ohboy",
+					"display_url": "smartstore.naver.com/ohboy",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204376691725889500,
+					"id_str": "1204376691725889538",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbOOFYU8AIZ1dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbOOFYU8AIZ1dq.jpg",
+					"url": "https://t.co/ySuvl5Hsdl",
+					"display_url": "pic.twitter.com/ySuvl5Hsdl",
+					"expanded_url": "https://twitter.com/ohboyzine/status/1204376742565048321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1077,
+							"h": 1616,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 138,
+									"y": 301,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 531,
+									"h": 217,
+									"w": 217
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 329,
+									"y": 716,
+									"h": 293,
+									"w": 293
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 329,
+									"y": 716,
+									"h": 293,
+									"w": 293
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204376691725889500,
+					"id_str": "1204376691725889538",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbOOFYU8AIZ1dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbOOFYU8AIZ1dq.jpg",
+					"url": "https://t.co/ySuvl5Hsdl",
+					"display_url": "pic.twitter.com/ySuvl5Hsdl",
+					"expanded_url": "https://twitter.com/ohboyzine/status/1204376742565048321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1077,
+							"h": 1616,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 138,
+									"y": 301,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 531,
+									"h": 217,
+									"w": 217
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 329,
+									"y": 716,
+									"h": 293,
+									"w": 293
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 329,
+									"y": 716,
+									"h": 293,
+									"w": 293
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204376691721658400,
+					"id_str": "1204376691721658368",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbOOFXUYAAMjUw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbOOFXUYAAMjUw.jpg",
+					"url": "https://t.co/ySuvl5Hsdl",
+					"display_url": "pic.twitter.com/ySuvl5Hsdl",
+					"expanded_url": "https://twitter.com/ohboyzine/status/1204376742565048321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1077,
+							"h": 1616,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 722,
+									"y": 1112,
+									"h": 230,
+									"w": 230
+								},
+								{
+									"x": 186,
+									"y": 361,
+									"h": 367,
+									"w": 367
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 722,
+									"y": 1112,
+									"h": 230,
+									"w": 230
+								},
+								{
+									"x": 186,
+									"y": 361,
+									"h": 367,
+									"w": 367
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 536,
+									"y": 825,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 138,
+									"y": 268,
+									"h": 272,
+									"w": 272
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 303,
+									"y": 467,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 78,
+									"y": 151,
+									"h": 154,
+									"w": 154
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204376691717525500,
+					"id_str": "1204376691717525504",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbOOFWVUAANgtG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbOOFWVUAANgtG.jpg",
+					"url": "https://t.co/ySuvl5Hsdl",
+					"display_url": "pic.twitter.com/ySuvl5Hsdl",
+					"expanded_url": "https://twitter.com/ohboyzine/status/1204376742565048321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1077,
+							"h": 1616,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 566,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 238,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 353,
+									"y": 420,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 566,
+									"h": 113,
+									"w": 113
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204376691725889500,
+					"id_str": "1204376691725889536",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbOOFYU8AA2-7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbOOFYU8AA2-7Z.jpg",
+					"url": "https://t.co/ySuvl5Hsdl",
+					"display_url": "pic.twitter.com/ySuvl5Hsdl",
+					"expanded_url": "https://twitter.com/ohboyzine/status/1204376742565048321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1077,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 365,
+									"y": 151,
+									"h": 185,
+									"w": 185
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 440,
+									"y": 182,
+									"h": 223,
+									"w": 223
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 440,
+									"y": 182,
+									"h": 223,
+									"w": 223
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 206,
+									"y": 85,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152330496,
+			"id_str": "152330496",
+			"name": "OhBoy! magazine",
+			"screen_name": "ohboyzine",
+			"location": "Seoul, Korea",
+			"description": "OhBoy!는 지구와 환경, 동물복지를 생각하는 패션,문화 잡지입니다. \r\n\r\n\r\nNature Conservation, Animal Rights, Wise Consumption.\r\n\r\n\r\n ohboymagazine@gmail.com\r\nhttp://t.co/PfRROt55ab",
+			"url": "https://t.co/PQefhuad1X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PQefhuad1X",
+							"expanded_url": "http://instagram.com/ohboymagazine",
+							"display_url": "instagram.com/ohboymagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/PfRROt55ab",
+							"expanded_url": "http://facebook.com/ohboyseoul",
+							"display_url": "facebook.com/ohboyseoul",
+							"indices": [
+								131,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 85020,
+			"friends_count": 273,
+			"listed_count": 309,
+			"created_at": "Sat Jun 05 17:08:26 +0000 2010",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C3D9D8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/497892112935817216/1-5ZBNCR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/497892112935817216/1-5ZBNCR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152330496/1396976718",
+			"profile_link_color": "31732D",
+			"profile_sidebar_border_color": "BDBFBF",
+			"profile_sidebar_fill_color": "BDBFBF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 449,
+		"favorite_count": 428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "크리스탈 One &amp; Only\n#오보이 #ohboymagazine #크리스탈 #krystal #오보이매거진 *현재 네이버 스마트스토어에 업로드 됐습니다. 나머지 과월호와 오보이!에서 추천하는 다양한 생활용품도 곧 업로드할 예정입니다. 본 계정 프로필에 네이버 스마트 스토어 링크 https://t.co/7w6T52aigR https://t.co/ySuvl5Hsdl"
+	},
+	{
+		"created_at": "Tue Dec 10 20:31:18 +0000 2019",
+		"id": 1204184328751599600,
+		"id_str": "1204498847352836096",
+		"full_text": "텀블러에 담긴 음료를 한 모금이라도 마신 상태에서 상온에 놔둘 경우, 3시간 만에 2만~3만 마리 이상의 세균이 번식합니다. 환경을 생각하려다 자칫 세균이 득실대는 음료를 마실 수 있다는 의미죠. 텀블러 관리의 핵심은 세척입니다. https://t.co/nQLQEExxnS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nQLQEExxnS",
+					"expanded_url": "https://mnews.joins.com/article/23652876",
+					"display_url": "mnews.joins.com/article/236528…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.joongang.co.kr\" rel=\"nofollow\">joongangilbo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213591116,
+			"id_str": "213591116",
+			"name": "중앙일보",
+			"screen_name": "joongangilbo",
+			"location": "Seoul",
+			"description": "JoongAng Group is Korea's only comprehensive content group. / Facebook: https://t.co/1TuEOM6mwy",
+			"url": "http://t.co/tglh3q22E5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tglh3q22E5",
+							"expanded_url": "http://www.joongang.co.kr",
+							"display_url": "joongang.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1TuEOM6mwy",
+							"expanded_url": "https://www.facebook.com/joongang",
+							"display_url": "facebook.com/joongang",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 292746,
+			"friends_count": 44137,
+			"listed_count": 1669,
+			"created_at": "Tue Nov 09 09:18:31 +0000 2010",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FA9A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213591116/1553672899",
+			"profile_link_color": "88847F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3381,
+		"favorite_count": 758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "텀블러에 담긴 음료를 한 모금이라도 마신 상태에서 상온에 놔둘 경우, 3시간 만에 2만~3만 마리 이상의 세균이 번식합니다. 환경을 생각하려다 자칫 세균이 득실대는 음료를 마실 수 있다는 의미죠. 텀블러 관리의 핵심은 세척입니다. https://t.co/nQLQEExxnS"
+	},
+	{
+		"created_at": "Tue Dec 10 20:30:58 +0000 2019",
+		"id": 1204332411967787000,
+		"id_str": "1204498765811306497",
+		"full_text": "[#청하] My ears are cozy🧸Ilovu❤\n\n#CHUNGHA #백예린 https://t.co/tm42ihZ1jW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						40,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204332403923157000,
+					"id_str": "1204332403923156992",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/ELal8MdVAAABPNi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELal8MdVAAABPNi.jpg",
+					"url": "https://t.co/tm42ihZ1jW",
+					"display_url": "pic.twitter.com/tm42ihZ1jW",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1204332411967787008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 695,
+							"h": 684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 684,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 460,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 388,
+									"y": 438,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 391,
+									"y": 345,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 471,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 397,
+									"y": 448,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 400,
+									"y": 353,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 471,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 397,
+									"y": 448,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 400,
+									"y": 353,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 471,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 397,
+									"y": 448,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 400,
+									"y": 353,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204332403923157000,
+					"id_str": "1204332403923156992",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/ELal8MdVAAABPNi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELal8MdVAAABPNi.jpg",
+					"url": "https://t.co/tm42ihZ1jW",
+					"display_url": "pic.twitter.com/tm42ihZ1jW",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1204332411967787008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 695,
+							"h": 684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 684,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 460,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 388,
+									"y": 438,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 391,
+									"y": 345,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 471,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 397,
+									"y": 448,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 400,
+									"y": 353,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 471,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 397,
+									"y": 448,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 400,
+									"y": 353,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 471,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 397,
+									"y": 448,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 400,
+									"y": 353,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187325,
+			"friends_count": 0,
+			"listed_count": 1441,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2484,
+		"favorite_count": 12172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#청하] My ears are cozy🧸Ilovu❤\n\n#CHUNGHA #백예린 https://t.co/tm42ihZ1jW"
+	},
+	{
+		"created_at": "Tue Dec 10 20:30:51 +0000 2019",
+		"id": 1204237497762345000,
+		"id_str": "1204498734500855808",
+		"full_text": "[새소년 - \"고양이\"]\n디지털싱글 / 2019.12.10. 정오 발매\n온스테이지 디깅클럽서울 2019\n⠀\n원곡 시인과촌장 2집 [푸른 돛](1986)\n작사/작곡 하덕규\n⠀\n편곡 새소년, 지윤해\n연주 새소년\n황소윤 (보컬/베이스)\n박현진 (기타/백업보컬)\n유수 (드럼/백업보컬)\n\n풀버젼은 유튜브 https://t.co/Fg55krfJS6 https://t.co/LQIDBpd17N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fg55krfJS6",
+					"expanded_url": "https://www.youtube.com/watch?v=iSGTqCTCGxE",
+					"display_url": "youtube.com/watch?v=iSGTqC…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204237381844398000,
+					"id_str": "1204237381844398083",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204237381844398083/pu/img/9fyTaxYYs7GJ1pE1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204237381844398083/pu/img/9fyTaxYYs7GJ1pE1.jpg",
+					"url": "https://t.co/LQIDBpd17N",
+					"display_url": "pic.twitter.com/LQIDBpd17N",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1204237497762344961/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204237381844398000,
+					"id_str": "1204237381844398083",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204237381844398083/pu/img/9fyTaxYYs7GJ1pE1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204237381844398083/pu/img/9fyTaxYYs7GJ1pE1.jpg",
+					"url": "https://t.co/LQIDBpd17N",
+					"display_url": "pic.twitter.com/LQIDBpd17N",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1204237497762344961/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 58792,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1204237381844398083/pu/pl/Dv6mmOmv-sgTgYLk.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204237381844398083/pu/vid/640x360/tpbI5Z-iGdEoh4a5.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204237381844398083/pu/vid/854x480/oIw8nOplgF8RQcWP.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204237381844398083/pu/vid/480x270/RFhk8hvVfpsdqv1-.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7191,
+			"friends_count": 526,
+			"listed_count": 43,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 657,
+		"favorite_count": 548,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[새소년 - \"고양이\"]\n디지털싱글 / 2019.12.10. 정오 발매\n온스테이지 디깅클럽서울 2019\n⠀\n원곡 시인과촌장 2집 [푸른 돛](1986)\n작사/작곡 하덕규\n⠀\n편곡 새소년, 지윤해\n연주 새소년\n황소윤 (보컬/베이스)\n박현진 (기타/백업보컬)\n유수 (드럼/백업보컬)\n\n풀버젼은 유튜브 https://t.co/Fg55krfJS6 https://t.co/LQIDBpd17N"
+	},
+	{
+		"created_at": "Tue Dec 10 20:30:31 +0000 2019",
+		"id": 1204383658540322800,
+		"id_str": "1204498649910149120",
+		"full_text": "💌 Cover for swja 3rd album [Serenade]:대부분의 제 노래들이 낮보다 밤에 더 어울린다고 생각해왔고, 모양은 다르지만 모두 사랑을 뿌리로 두고 자란 노래들이라 ‘Serenade’라는 제목을 지었습니다. 저녁에 여러분들의 귓가에 이 16개의 사랑 노래들을 들려드리는 마음으로 정규 3집을 발매합니다. https://t.co/ujADlMK94L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204383648566235100,
+					"id_str": "1204383648566235136",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbUjBoUUAATflv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbUjBoUUAATflv.jpg",
+					"url": "https://t.co/ujADlMK94L",
+					"display_url": "pic.twitter.com/ujADlMK94L",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1204383658540322822/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204383648566235100,
+					"id_str": "1204383648566235136",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbUjBoUUAATflv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbUjBoUUAATflv.jpg",
+					"url": "https://t.co/ujADlMK94L",
+					"display_url": "pic.twitter.com/ujADlMK94L",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1204383658540322822/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13232,
+			"friends_count": 131,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1575982490",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 Cover for swja 3rd album [Serenade]:대부분의 제 노래들이 낮보다 밤에 더 어울린다고 생각해왔고, 모양은 다르지만 모두 사랑을 뿌리로 두고 자란 노래들이라 ‘Serenade’라는 제목을 지었습니다. 저녁에 여러분들의 귓가에 이 16개의 사랑 노래들을 들려드리는 마음으로 정규 3집을 발매합니다. https://t.co/ujADlMK94L"
+	},
+	{
+		"created_at": "Tue Dec 10 20:30:29 +0000 2019",
+		"id": 1204011912058425300,
+		"id_str": "1204498642259701760",
+		"full_text": "9. Ready\n10. 배신이 기다리고 있다 (Betrayal Awaits)\n11. My Birthday Song\n12. Fall Fall Fall\n13. 생애 (LIFE)\n14. Invisible Treasure\n15. to Zero\n16. CLASSIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204011864838946800,
+		"in_reply_to_status_id_str": "1204011864838946816",
+		"in_reply_to_user_id": 253607159,
+		"in_reply_to_user_id_str": "253607159",
+		"in_reply_to_screen_name": "sunwooJeongA",
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13232,
+			"friends_count": 131,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1575982490",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "9. Ready\n10. 배신이 기다리고 있다 (Betrayal Awaits)\n11. My Birthday Song\n12. Fall Fall Fall\n13. 생애 (LIFE)\n14. Invisible Treasure\n15. to Zero\n16. CLASSIC"
+	},
+	{
+		"created_at": "Tue Dec 10 20:30:27 +0000 2019",
+		"id": 1204011864838946800,
+		"id_str": "1204498634416328704",
+		"full_text": "[Tracklist]\n1. 인터뷰 (Interview)\n2. 도망가자 (Run With Me) ✔️\n3. Serenade ✔️\n4. 멀티 플레이어 (Multi Player)\n5. 욕의 여행 (Bad Word’s Travel)\n6. SHUTHEFXXKUP\n7. 쌤쌤 (SAM SAM)\n8. 수퍼히어로 (Superhero)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204011727571964000,
+		"in_reply_to_status_id_str": "1204011727571963905",
+		"in_reply_to_user_id": 253607159,
+		"in_reply_to_user_id_str": "253607159",
+		"in_reply_to_screen_name": "sunwooJeongA",
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13232,
+			"friends_count": 131,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1575982490",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[Tracklist]\n1. 인터뷰 (Interview)\n2. 도망가자 (Run With Me) ✔️\n3. Serenade ✔️\n4. 멀티 플레이어 (Multi Player)\n5. 욕의 여행 (Bad Word’s Travel)\n6. SHUTHEFXXKUP\n7. 쌤쌤 (SAM SAM)\n8. 수퍼히어로 (Superhero)"
+	},
+	{
+		"created_at": "Tue Dec 10 20:30:24 +0000 2019",
+		"id": 1204011727571964000,
+		"id_str": "1204498620755496960",
+		"full_text": "Audio teaser for '도망가자 (Run With Me)'\nD-3 : 3집 [Serenade]의 타이틀곡 '도망가자 (Run With Me)'의 오디오 티저를 공개합니다.\n⠀\n#선우정아 #sunwoojunga #Serenade https://t.co/N4WEop0GUI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "sunwoojunga",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "Serenade",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204011604297179100,
+					"id_str": "1204011604297179137",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204011604297179137/pu/img/Cc8vmbUCAzTB_RqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204011604297179137/pu/img/Cc8vmbUCAzTB_RqE.jpg",
+					"url": "https://t.co/N4WEop0GUI",
+					"display_url": "pic.twitter.com/N4WEop0GUI",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1204011727571963905/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204011604297179100,
+					"id_str": "1204011604297179137",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204011604297179137/pu/img/Cc8vmbUCAzTB_RqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204011604297179137/pu/img/Cc8vmbUCAzTB_RqE.jpg",
+					"url": "https://t.co/N4WEop0GUI",
+					"display_url": "pic.twitter.com/N4WEop0GUI",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1204011727571963905/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 62625,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204011604297179137/pu/vid/854x480/_LgSF8dcb1jcGJQn.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204011604297179137/pu/vid/480x270/nQUKjmcjDlofJnM_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1204011604297179137/pu/pl/pH0SvF0ez3nP5d5-.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204011604297179137/pu/vid/640x360/FnLHTLHL-YmNP9r5.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13232,
+			"friends_count": 131,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1575982490",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Audio teaser for '도망가자 (Run With Me)'\nD-3 : 3집 [Serenade]의 타이틀곡 '도망가자 (Run With Me)'의 오디오 티저를 공개합니다.\n⠀\n#선우정아 #sunwoojunga #Serenade https://t.co/N4WEop0GUI"
+	},
+	{
 		"created_at": "Tue Dec 10 19:58:15 +0000 2019",
 		"id": 1204490529221726200,
 		"id_str": "1204490529221726209",
