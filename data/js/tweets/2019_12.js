@@ -1,6 +1,2221 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 21:46:12 +0000 2019",
+		"id": 1204324080373002200,
+		"id_str": "1204517696424960002",
+		"full_text": "지메일에 드디어 ‘이메일을 첨부파일로’ 보낼 수 있는 기능이 생겼다. 회사 지메일 계정에서 확인해보니 이미 적용되어 있다. 만세! https://t.co/h0CC5ShwIt https://t.co/4yw9MwIOrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h0CC5ShwIt",
+					"expanded_url": "https://gsuiteupdates.googleblog.com/2019/12/forward-emails-as-attachments.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+GoogleAppsUpdates+%28G+Suite+Updates+Blog%29",
+					"display_url": "gsuiteupdates.googleblog.com/2019/12/forwar…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204324029424758800,
+					"id_str": "1204324029424758784",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELaeUvBUcAAShzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELaeUvBUcAAShzD.jpg",
+					"url": "https://t.co/4yw9MwIOrT",
+					"display_url": "pic.twitter.com/4yw9MwIOrT",
+					"expanded_url": "https://twitter.com/pengdo/status/1204324080373002241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204324029424758800,
+					"id_str": "1204324029424758784",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELaeUvBUcAAShzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELaeUvBUcAAShzD.jpg",
+					"url": "https://t.co/4yw9MwIOrT",
+					"display_url": "pic.twitter.com/4yw9MwIOrT",
+					"expanded_url": "https://twitter.com/pengdo/status/1204324080373002241/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELaeUvBUcAAShzD.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 693613,
+			"id_str": "693613",
+			"name": "펭도 💌",
+			"screen_name": "pengdo",
+			"location": "Seoul",
+			"description": "어디에도 없는 🐧 #emailgeeks",
+			"url": "https://t.co/Wfoq7DxFLt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wfoq7DxFLt",
+							"expanded_url": "http://medium.com/@pengdo",
+							"display_url": "medium.com/@pengdo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2981,
+			"friends_count": 702,
+			"listed_count": 174,
+			"created_at": "Wed Jan 24 13:47:41 +0000 2007",
+			"favourites_count": 17187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/842318380241625089/pO-RspWF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/842318380241625089/pO-RspWF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/693613/1490537630",
+			"profile_link_color": "CCCCCC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFC602",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지메일에 드디어 ‘이메일을 첨부파일로’ 보낼 수 있는 기능이 생겼다. 회사 지메일 계정에서 확인해보니 이미 적용되어 있다. 만세! https://t.co/h0CC5ShwIt https://t.co/4yw9MwIOrT"
+	},
+	{
+		"created_at": "Tue Dec 10 21:42:06 +0000 2019",
+		"id": 1204503692361244700,
+		"id_str": "1204516663757963264",
+		"full_text": "@LimeOverwatch 안녕하세요, 검색 기능을 사용하실 수 없는 문제로 불편을 드려 죄송합니다. 검색 기능과 관련된 문제는 현재 해결된 상태입니다.기기를 재부팅하신 후 디스코드 앱을 최신 클라이언트 버전으로 업데이트 해 주시겠어요? 만약 업데이트 후에도 여전히 검색 기능을 사용하실 수 없다 저희 1/2",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LimeOverwatch",
+					"name": "Gen.G Lime",
+					"id": 741422089576415200,
+					"id_str": "741422089576415233",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.sparkcentral.com\" rel=\"nofollow\">Sparkcentral.com</a>",
+		"in_reply_to_status_id": 1204248894579724300,
+		"in_reply_to_status_id_str": "1204248894579724288",
+		"in_reply_to_user_id": 741422089576415200,
+		"in_reply_to_user_id_str": "741422089576415233",
+		"in_reply_to_screen_name": "LimeOverwatch",
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discordapp",
+			"location": "San Francisco, CA",
+			"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+			"url": "https://t.co/vBo0wJuUlu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBo0wJuUlu",
+							"expanded_url": "http://dis.gd/website",
+							"display_url": "dis.gd/website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1571118,
+			"friends_count": 1129,
+			"listed_count": 2263,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 33231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 410469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201576207239860226/D21Zw4l7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201576207239860226/D21Zw4l7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1575313127",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@LimeOverwatch 안녕하세요, 검색 기능을 사용하실 수 없는 문제로 불편을 드려 죄송합니다. 검색 기능과 관련된 문제는 현재 해결된 상태입니다.기기를 재부팅하신 후 디스코드 앱을 최신 클라이언트 버전으로 업데이트 해 주시겠어요? 만약 업데이트 후에도 여전히 검색 기능을 사용하실 수 없다 저희 1/2"
+	},
+	{
+		"created_at": "Tue Dec 10 21:36:15 +0000 2019",
+		"id": 1204515192572280800,
+		"id_str": "1204515192572280832",
+		"full_text": "누르는 것도 귀찮으면 화상키보드 꺼내서 이모지 입력할 때도 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 857,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "누르는 것도 귀찮으면 화상키보드 꺼내서 이모지 입력할 때도 있음."
+	},
+	{
+		"created_at": "Tue Dec 10 21:35:03 +0000 2019",
+		"id": 1204514892897644500,
+		"id_str": "1204514892897644544",
+		"full_text": "특수문자판보다 더 많이 열어서 쓰는 것 같은데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 857,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "특수문자판보다 더 많이 열어서 쓰는 것 같은데..."
+	},
+	{
+		"created_at": "Tue Dec 10 21:34:27 +0000 2019",
+		"id": 1204253660865106000,
+		"id_str": "1204514738702389248",
+		"full_text": "PC 윈도우에서 윈도우키 田 + ; 를 누르면 이모티콘 입력이 된다는 것을 이제서야 알았다. https://t.co/tirUpUuu0h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204253650480054300,
+					"id_str": "1204253650480054272",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/ELZeUJBUwAAYm5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELZeUJBUwAAYm5K.jpg",
+					"url": "https://t.co/tirUpUuu0h",
+					"display_url": "pic.twitter.com/tirUpUuu0h",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1204253660865105920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 555,
+							"h": 621,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 621,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 621,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204253650480054300,
+					"id_str": "1204253650480054272",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/ELZeUJBUwAAYm5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELZeUJBUwAAYm5K.jpg",
+					"url": "https://t.co/tirUpUuu0h",
+					"display_url": "pic.twitter.com/tirUpUuu0h",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1204253660865105920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 555,
+							"h": 621,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 621,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 621,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139679652,
+			"id_str": "139679652",
+			"name": "THE HANBIN",
+			"screen_name": "HANBINIZM",
+			"location": "",
+			"description": "트위터는 내가 뭐라도 된 것같은 기분으로 합니다.",
+			"url": "https://t.co/q5nOhlSHma",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q5nOhlSHma",
+							"expanded_url": "http://hanbinism.egloos.com",
+							"display_url": "hanbinism.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2500,
+			"friends_count": 402,
+			"listed_count": 40,
+			"created_at": "Mon May 03 10:35:31 +0000 2010",
+			"favourites_count": 16616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 123698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1433600561",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3010,
+		"favorite_count": 1455,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "PC 윈도우에서 윈도우키 田 + ; 를 누르면 이모티콘 입력이 된다는 것을 이제서야 알았다. https://t.co/tirUpUuu0h"
+	},
+	{
+		"created_at": "Tue Dec 10 21:33:35 +0000 2019",
+		"id": 1204514520950902800,
+		"id_str": "1204514520950902784",
+		"full_text": "빅히트 \"방탄소년단과 수익배분 갈등 사실무근..JTBC 보도 유감\"(공식입장 전문)\nhttps://t.co/1IVzxzfoPI\n#뮤직비지니스 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						79,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1IVzxzfoPI",
+					"expanded_url": "https://n.news.naver.com/entertain/article/108/0002829056",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 857,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빅히트 \"방탄소년단과 수익배분 갈등 사실무근..JTBC 보도 유감\"(공식입장 전문)\nhttps://t.co/1IVzxzfoPI\n#뮤직비지니스 #minfav"
+	},
+	{
+		"created_at": "Tue Dec 10 21:27:18 +0000 2019",
+		"id": 1204400827768508400,
+		"id_str": "1204512940256182272",
+		"full_text": "어제는 무얼 만드는지 잘 모르겠다가 오늘은 그래도 좀 흥미로운 것 같고, 어제는 할 수 있는 만큼하면 된다 다독이다가 오늘은 잘 하고 있다고 칭찬해준다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115895688,
+			"id_str": "115895688",
+			"name": "한희정 Han Heejung",
+			"screen_name": "dawnyboom",
+			"location": "",
+			"description": "만들고 연주합니다",
+			"url": "https://t.co/JN3uCNz916",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JN3uCNz916",
+							"expanded_url": "https://www.instagram.com/dawnyboom",
+							"display_url": "instagram.com/dawnyboom",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12983,
+			"friends_count": 130,
+			"listed_count": 552,
+			"created_at": "Sat Feb 20 10:21:58 +0000 2010",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F2F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115895688/1570692306",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C4C4C4",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "363636",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어제는 무얼 만드는지 잘 모르겠다가 오늘은 그래도 좀 흥미로운 것 같고, 어제는 할 수 있는 만큼하면 된다 다독이다가 오늘은 잘 하고 있다고 칭찬해준다"
+	},
+	{
+		"created_at": "Tue Dec 10 21:25:17 +0000 2019",
+		"id": 1204408802738499600,
+		"id_str": "1204512433374515200",
+		"full_text": "오늘자로 해당 배우에 대한 하차 공지가 뜸. 다행스러운 결정이지만 \"이전에 물의를 빚은 사실\"이라고 쓰지 말고 해당 배우의 미성년자 대상 성범죄 전과가 작품의 품위를 해치고 아동 청소년 및 가족 관객들에게 불쾌감을 준다는 식으로 하차 이유를 명확히 쓸 순 없었던 걸까. https://t.co/GEQqwQyWZ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204408790356914200,
+					"id_str": "1204408790356914178",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbraeGU8AICva1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbraeGU8AICva1.jpg",
+					"url": "https://t.co/GEQqwQyWZ7",
+					"display_url": "pic.twitter.com/GEQqwQyWZ7",
+					"expanded_url": "https://twitter.com/forblossom/status/1204408802738499596/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1852,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204408790356914200,
+					"id_str": "1204408790356914178",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbraeGU8AICva1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbraeGU8AICva1.jpg",
+					"url": "https://t.co/GEQqwQyWZ7",
+					"display_url": "pic.twitter.com/GEQqwQyWZ7",
+					"expanded_url": "https://twitter.com/forblossom/status/1204408802738499596/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1852,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1204165320971153400,
+		"in_reply_to_status_id_str": "1204165320971153409",
+		"in_reply_to_user_id": 109889622,
+		"in_reply_to_user_id_str": "109889622",
+		"in_reply_to_screen_name": "forblossom",
+		"user": {
+			"id": 109889622,
+			"id_str": "109889622",
+			"name": "윤단우 Danwoo Yun",
+			"screen_name": "forblossom",
+			"location": "Seoul",
+			"description": "천천히 다시 일어서는 중.",
+			"url": "https://t.co/8lFsFc5T5C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8lFsFc5T5C",
+							"expanded_url": "http://hersight.blog.me",
+							"display_url": "hersight.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10448,
+			"friends_count": 1403,
+			"listed_count": 91,
+			"created_at": "Sat Jan 30 16:09:20 +0000 2010",
+			"favourites_count": 14427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117967894598471680/gW5vX6yP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117967894598471680/gW5vX6yP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109889622/1552639823",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘자로 해당 배우에 대한 하차 공지가 뜸. 다행스러운 결정이지만 \"이전에 물의를 빚은 사실\"이라고 쓰지 말고 해당 배우의 미성년자 대상 성범죄 전과가 작품의 품위를 해치고 아동 청소년 및 가족 관객들에게 불쾌감을 준다는 식으로 하차 이유를 명확히 쓸 순 없었던 걸까. https://t.co/GEQqwQyWZ7"
+	},
+	{
+		"created_at": "Tue Dec 10 21:25:14 +0000 2019",
+		"id": 1204165320971153400,
+		"id_str": "1204512419675963392",
+		"full_text": "어제도 기사 리트윗했지만 캐스팅보드 명단과 같이 많이들 보시라고 기사 링크 걸어둠.\nhttps://t.co/v7Koll9Egq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v7Koll9Egq",
+					"expanded_url": "https://news.v.daum.net/v/20150711084310708",
+					"display_url": "news.v.daum.net/v/201507110843…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1204163921315152000,
+		"in_reply_to_status_id_str": "1204163921315151873",
+		"in_reply_to_user_id": 109889622,
+		"in_reply_to_user_id_str": "109889622",
+		"in_reply_to_screen_name": "forblossom",
+		"user": {
+			"id": 109889622,
+			"id_str": "109889622",
+			"name": "윤단우 Danwoo Yun",
+			"screen_name": "forblossom",
+			"location": "Seoul",
+			"description": "천천히 다시 일어서는 중.",
+			"url": "https://t.co/8lFsFc5T5C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8lFsFc5T5C",
+							"expanded_url": "http://hersight.blog.me",
+							"display_url": "hersight.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10448,
+			"friends_count": 1403,
+			"listed_count": 91,
+			"created_at": "Sat Jan 30 16:09:20 +0000 2010",
+			"favourites_count": 14427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117967894598471680/gW5vX6yP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117967894598471680/gW5vX6yP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109889622/1552639823",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제도 기사 리트윗했지만 캐스팅보드 명단과 같이 많이들 보시라고 기사 링크 걸어둠.\nhttps://t.co/v7Koll9Egq"
+	},
+	{
+		"created_at": "Tue Dec 10 21:24:54 +0000 2019",
+		"id": 1204161371555815400,
+		"id_str": "1204512336779694080",
+		"full_text": "안산문화재단에서 제작하는 창작뮤지컬 &lt;신의 손을 빌린 남자&gt;에는 입시생인 미성년자를 실기지도를 명목으로 성추행한 배우가 캐스팅되었다. 기사에 따르면 정모씨. 캐스팅 명단을 보면 정씨는 두 명. 설마 이것도 사실적시의 명예훼손이라 할 텐가.\nhttps://t.co/vm3s6xtKI5 https://t.co/jPMgKeRXKO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vm3s6xtKI5",
+					"expanded_url": "https://m.news.naver.com/read.nhn?mode=LSD&sid1=001&oid=448&aid=0000117491",
+					"display_url": "m.news.naver.com/read.nhn?mode=…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204161347082047500,
+					"id_str": "1204161347082047489",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYKXYEU0AE2WRJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYKXYEU0AE2WRJ.jpg",
+					"url": "https://t.co/jPMgKeRXKO",
+					"display_url": "pic.twitter.com/jPMgKeRXKO",
+					"expanded_url": "https://twitter.com/forblossom/status/1204161371555815424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 860,
+							"h": 1231,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204161347082047500,
+					"id_str": "1204161347082047489",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYKXYEU0AE2WRJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYKXYEU0AE2WRJ.jpg",
+					"url": "https://t.co/jPMgKeRXKO",
+					"display_url": "pic.twitter.com/jPMgKeRXKO",
+					"expanded_url": "https://twitter.com/forblossom/status/1204161371555815424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 860,
+							"h": 1231,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204161356003344400,
+					"id_str": "1204161356003344384",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYKX5TVAAAuGI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYKX5TVAAAuGI0.jpg",
+					"url": "https://t.co/jPMgKeRXKO",
+					"display_url": "pic.twitter.com/jPMgKeRXKO",
+					"expanded_url": "https://twitter.com/forblossom/status/1204161371555815424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 859,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 859,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 330,
+									"y": 475,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 545,
+									"y": 427,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 188,
+									"y": 423,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 330,
+									"y": 475,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 545,
+									"y": 427,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 188,
+									"y": 423,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 261,
+									"y": 376,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 431,
+									"y": 338,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 148,
+									"y": 334,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 330,
+									"y": 475,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 545,
+									"y": 427,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 188,
+									"y": 423,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204161361988604000,
+					"id_str": "1204161361988603904",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYKYPmU0AA7Vxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYKYPmU0AA7Vxl.jpg",
+					"url": "https://t.co/jPMgKeRXKO",
+					"display_url": "pic.twitter.com/jPMgKeRXKO",
+					"expanded_url": "https://twitter.com/forblossom/status/1204161371555815424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 860,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 860,
+							"h": 623,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 706,
+									"y": 68,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 89,
+									"y": 75,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 288,
+									"y": 75,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 302,
+									"y": 388,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 501,
+									"y": 72,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 89,
+									"y": 381,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 508,
+									"y": 383,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 696,
+									"y": 386,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 706,
+									"y": 68,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 89,
+									"y": 75,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 288,
+									"y": 75,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 302,
+									"y": 388,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 501,
+									"y": 72,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 89,
+									"y": 381,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 508,
+									"y": 383,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 696,
+									"y": 386,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 706,
+									"y": 68,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 89,
+									"y": 75,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 288,
+									"y": 75,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 302,
+									"y": 388,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 501,
+									"y": 72,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 89,
+									"y": 381,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 508,
+									"y": 383,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 696,
+									"y": 386,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 558,
+									"y": 53,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 70,
+									"y": 59,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 227,
+									"y": 59,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 238,
+									"y": 306,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 396,
+									"y": 56,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 70,
+									"y": 301,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 401,
+									"y": 302,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 550,
+									"y": 305,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204161367005003800,
+					"id_str": "1204161367005003777",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYKYiSVAAE0opI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYKYiSVAAE0opI.jpg",
+					"url": "https://t.co/jPMgKeRXKO",
+					"display_url": "pic.twitter.com/jPMgKeRXKO",
+					"expanded_url": "https://twitter.com/forblossom/status/1204161371555815424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 858,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 858,
+							"h": 524,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 157,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 300,
+									"y": 158,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 418,
+									"y": 346,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 639,
+									"y": 348,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 411,
+									"y": 152,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 528,
+									"y": 157,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 640,
+									"y": 156,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 753,
+									"y": 155,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 753,
+									"y": 342,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 532,
+									"y": 344,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 299,
+									"y": 345,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 67,
+									"y": 160,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 74,
+									"y": 346,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 185,
+									"y": 344,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 157,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 300,
+									"y": 158,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 418,
+									"y": 346,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 639,
+									"y": 348,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 411,
+									"y": 152,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 528,
+									"y": 157,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 640,
+									"y": 156,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 753,
+									"y": 155,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 753,
+									"y": 342,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 532,
+									"y": 344,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 299,
+									"y": 345,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 67,
+									"y": 160,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 74,
+									"y": 346,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 185,
+									"y": 344,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 124,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 237,
+									"y": 125,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 331,
+									"y": 274,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 506,
+									"y": 275,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 325,
+									"y": 120,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 418,
+									"y": 124,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 507,
+									"y": 123,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 596,
+									"y": 122,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 596,
+									"y": 271,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 421,
+									"y": 272,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 236,
+									"y": 273,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 53,
+									"y": 126,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 58,
+									"y": 274,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 146,
+									"y": 272,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 157,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 300,
+									"y": 158,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 418,
+									"y": 346,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 639,
+									"y": 348,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 411,
+									"y": 152,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 528,
+									"y": 157,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 640,
+									"y": 156,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 753,
+									"y": 155,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 753,
+									"y": 342,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 532,
+									"y": 344,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 299,
+									"y": 345,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 67,
+									"y": 160,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 74,
+									"y": 346,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 185,
+									"y": 344,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109889622,
+			"id_str": "109889622",
+			"name": "윤단우 Danwoo Yun",
+			"screen_name": "forblossom",
+			"location": "Seoul",
+			"description": "천천히 다시 일어서는 중.",
+			"url": "https://t.co/8lFsFc5T5C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8lFsFc5T5C",
+							"expanded_url": "http://hersight.blog.me",
+							"display_url": "hersight.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10448,
+			"friends_count": 1403,
+			"listed_count": 91,
+			"created_at": "Sat Jan 30 16:09:20 +0000 2010",
+			"favourites_count": 14427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117967894598471680/gW5vX6yP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117967894598471680/gW5vX6yP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109889622/1552639823",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 476,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안산문화재단에서 제작하는 창작뮤지컬 &lt;신의 손을 빌린 남자&gt;에는 입시생인 미성년자를 실기지도를 명목으로 성추행한 배우가 캐스팅되었다. 기사에 따르면 정모씨. 캐스팅 명단을 보면 정씨는 두 명. 설마 이것도 사실적시의 명예훼손이라 할 텐가.\nhttps://t.co/vm3s6xtKI5 https://t.co/jPMgKeRXKO"
+	},
+	{
 		"created_at": "Tue Dec 10 20:50:37 +0000 2019",
 		"id": 1203272090075324400,
 		"id_str": "1204503710971203584",
