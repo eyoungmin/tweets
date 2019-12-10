@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 13:54:53 +0000 2019",
+		"id": 1204385442373623800,
+		"id_str": "1204399084435582978",
+		"full_text": "[Every letter I sent you.]\n백예린 정규 앨범이 발매되었습니다. 모든 음원사이트에서 감상하실 수 있습니다.\n\n#백예린 #yerinbaek https://t.co/gGLG0eiZg4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204385431690735600,
+					"id_str": "1204385431690735617",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbWK0SU8AETBFP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbWK0SU8AETBFP.jpg",
+					"url": "https://t.co/gGLG0eiZg4",
+					"display_url": "pic.twitter.com/gGLG0eiZg4",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1204385442373623809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 1386,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1174,
+									"y": 1038,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 397,
+									"y": 460,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 389,
+									"y": 344,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 812,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 687,
+									"y": 608,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 1386,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1174,
+									"y": 1038,
+									"h": 162,
+									"w": 162
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204385431690735600,
+					"id_str": "1204385431690735617",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbWK0SU8AETBFP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbWK0SU8AETBFP.jpg",
+					"url": "https://t.co/gGLG0eiZg4",
+					"display_url": "pic.twitter.com/gGLG0eiZg4",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1204385442373623809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 1386,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1174,
+									"y": 1038,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 397,
+									"y": 460,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 389,
+									"y": 344,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 812,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 687,
+									"y": 608,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 1386,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1174,
+									"y": 1038,
+									"h": 162,
+									"w": 162
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3793,
+			"friends_count": 0,
+			"listed_count": 35,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 404,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Every letter I sent you.]\n백예린 정규 앨범이 발매되었습니다. 모든 음원사이트에서 감상하실 수 있습니다.\n\n#백예린 #yerinbaek https://t.co/gGLG0eiZg4"
+	},
+	{
 		"created_at": "Tue Dec 10 12:11:05 +0000 2019",
 		"id": 1204372962574512000,
 		"id_str": "1204372962574512129",
