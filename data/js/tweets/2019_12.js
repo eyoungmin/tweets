@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 00:54:53 +0000 2019",
+		"id": 1204201978093396000,
+		"id_str": "1204202791583014913",
+		"full_text": "Thank you for this year, BLINK! https://t.co/E53cMZymUu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204201969331490800,
+					"id_str": "1204201969331490817",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYvT5vUUAEaaiM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYvT5vUUAEaaiM.jpg",
+					"url": "https://t.co/E53cMZymUu",
+					"display_url": "pic.twitter.com/E53cMZymUu",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1204201978093395969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 274,
+									"y": 208,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 98,
+									"y": 211,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 363,
+									"y": 215,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 166,
+									"y": 215,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 314,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 148,
+									"y": 319,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 547,
+									"y": 325,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 250,
+									"y": 325,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 314,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 148,
+									"y": 319,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 547,
+									"y": 325,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 250,
+									"y": 325,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 314,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 148,
+									"y": 319,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 547,
+									"y": 325,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 250,
+									"y": 325,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204201969331490800,
+					"id_str": "1204201969331490817",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYvT5vUUAEaaiM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYvT5vUUAEaaiM.jpg",
+					"url": "https://t.co/E53cMZymUu",
+					"display_url": "pic.twitter.com/E53cMZymUu",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1204201978093395969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 274,
+									"y": 208,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 98,
+									"y": 211,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 363,
+									"y": 215,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 166,
+									"y": 215,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 314,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 148,
+									"y": 319,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 547,
+									"y": 325,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 250,
+									"y": 325,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 314,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 148,
+									"y": 319,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 547,
+									"y": 325,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 250,
+									"y": 325,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 314,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 148,
+									"y": 319,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 547,
+									"y": 325,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 250,
+									"y": 325,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3131405,
+			"friends_count": 1,
+			"listed_count": 3967,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1565762484",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3132,
+		"favorite_count": 9416,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for this year, BLINK! https://t.co/E53cMZymUu"
+	},
+	{
 		"created_at": "Mon Dec 09 19:58:30 +0000 2019",
 		"id": 1204128203855597600,
 		"id_str": "1204128203855597569",
