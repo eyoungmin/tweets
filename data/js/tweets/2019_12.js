@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 22:35:42 +0000 2019",
+		"id": 1204370643191390200,
+		"id_str": "1204892541356634112",
+		"full_text": "[#2019MAMAxM2] #청하 - BLUE HAZE + 벌써 12시(Gotta Go)\n\n▶ https://t.co/tAqyiNNPe0\n\n#CHUNGHA @CHUNGHA_MNHent\n#2019MAMA #MPD직캠",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2019MAMAxM2",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "2019MAMA",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "MPD직캠",
+					"indices": [
+						113,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						87,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tAqyiNNPe0",
+					"expanded_url": "https://youtu.be/20k4Krsur_M",
+					"display_url": "youtu.be/20k4Krsur_M",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 956948,
+			"friends_count": 321,
+			"listed_count": 1616,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 1152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#2019MAMAxM2] #청하 - BLUE HAZE + 벌써 12시(Gotta Go)\n\n▶ https://t.co/tAqyiNNPe0\n\n#CHUNGHA @CHUNGHA_MNHent\n#2019MAMA #MPD직캠"
+	},
+	{
+		"created_at": "Wed Dec 11 22:33:22 +0000 2019",
+		"id": 1204690162988355600,
+		"id_str": "1204891953453621248",
+		"full_text": "BoA 보아 The 2nd Mini Album [‘Starry Night’]\n\nListen now on your favorite platform\n🎧https://t.co/7PouotciB7\n\n#BoA #보아 #StarryNight #보아StarryNight들어라잇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"text": "보아StarryNight들어라잇",
+					"indices": [
+						129,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7PouotciB7",
+					"expanded_url": "https://smarturl.it/BoA_StarryNight",
+					"display_url": "smarturl.it/BoA_StarryNight",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7991957,
+			"friends_count": 49,
+			"listed_count": 9666,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 484,
+		"favorite_count": 2298,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album [‘Starry Night’]\n\nListen now on your favorite platform\n🎧https://t.co/7PouotciB7\n\n#BoA #보아 #StarryNight #보아StarryNight들어라잇"
+	},
+	{
+		"created_at": "Wed Dec 11 22:33:17 +0000 2019",
+		"id": 1204688966567387100,
+		"id_str": "1204891931857129472",
+		"full_text": "BoA 보아 The 2nd Mini Album [‘Starry Night’]\n\n🎧Melon: https://t.co/L6xmqeiheP\n🎧FLO: https://t.co/0Qq1pgVz1z\n🎧genie: https://t.co/G0fyz7V7G3\n🎧NAVER MUSIC: https://t.co/zNsa54MOwN\n\n#BoA #보아 #StarryNight #보아StarryNight들어라잇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "보아StarryNight들어라잇",
+					"indices": [
+						199,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L6xmqeiheP",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10363277",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/0Qq1pgVz1z",
+					"expanded_url": "http://flomuz.io/s/a.Bwvt1",
+					"display_url": "flomuz.io/s/a.Bwvt1",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/G0fyz7V7G3",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81329631",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/zNsa54MOwN",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=3749963",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7991957,
+			"friends_count": 49,
+			"listed_count": 9666,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 575,
+		"favorite_count": 2449,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 2nd Mini Album [‘Starry Night’]\n\n🎧Melon: https://t.co/L6xmqeiheP\n🎧FLO: https://t.co/0Qq1pgVz1z\n🎧genie: https://t.co/G0fyz7V7G3\n🎧NAVER MUSIC: https://t.co/zNsa54MOwN\n\n#BoA #보아 #StarryNight #보아StarryNight들어라잇"
+	},
+	{
+		"created_at": "Wed Dec 11 22:25:24 +0000 2019",
+		"id": 1204687417531199500,
+		"id_str": "1204889951109730304",
+		"full_text": "BoA 보아 'Starry Night (Feat. Crush)' MV\n\n🎬https://t.co/8GUrzJlz0b\n\n#BoA #보아 #StarryNight #보아StarryNight들어라잇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"text": "보아StarryNight들어라잇",
+					"indices": [
+						88,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8GUrzJlz0b",
+					"expanded_url": "https://youtu.be/u3ZYUsd1vRU",
+					"display_url": "youtu.be/u3ZYUsd1vRU",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7991957,
+			"friends_count": 49,
+			"listed_count": 9666,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1247,
+		"favorite_count": 3138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 'Starry Night (Feat. Crush)' MV\n\n🎬https://t.co/8GUrzJlz0b\n\n#BoA #보아 #StarryNight #보아StarryNight들어라잇"
+	},
+	{
+		"created_at": "Wed Dec 11 22:24:24 +0000 2019",
+		"id": 1204889698776297500,
+		"id_str": "1204889698776297472",
+		"full_text": "Feel like makin’ love\nhttps://t.co/FMoZaifM5B\n#강이채 #EchaeKang",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강이채",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "EchaeKang",
+					"indices": [
+						51,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FMoZaifM5B",
+					"expanded_url": "https://youtu.be/zNGHcivHr1s",
+					"display_url": "youtu.be/zNGHcivHr1s",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 858,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Feel like makin’ love\nhttps://t.co/FMoZaifM5B\n#강이채 #EchaeKang"
+	},
+	{
+		"created_at": "Wed Dec 11 22:23:22 +0000 2019",
+		"id": 1204757841602474000,
+		"id_str": "1204889436699234304",
+		"full_text": "Music by 선우정아\nWords by 선우정아 곽은정\nArranged by 선우정아 권영찬\n⠀\n🎥 M/V Starring 서영화\n🎥 M/V Directed by HOBIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204757695175123000,
+		"in_reply_to_status_id_str": "1204757695175122946",
+		"in_reply_to_user_id": 253607159,
+		"in_reply_to_user_id_str": "253607159",
+		"in_reply_to_screen_name": "sunwooJeongA",
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13231,
+			"friends_count": 131,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1575982490",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Music by 선우정아\nWords by 선우정아 곽은정\nArranged by 선우정아 권영찬\n⠀\n🎥 M/V Starring 서영화\n🎥 M/V Directed by HOBIN"
+	},
+	{
 		"created_at": "Wed Dec 11 19:39:24 +0000 2019",
 		"id": 1204848174701142000,
 		"id_str": "1204848174701142017",
