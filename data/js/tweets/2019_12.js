@@ -1,6 +1,934 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 13:58:35 +0000 2019",
+		"id": 1204597540752154600,
+		"id_str": "1204762404694839298",
+		"full_text": "여러분 이거 아시는 분들 많을거 같지만 공황발작 올 때나 일상적 심신안정에 도움이 될 거 같은 앱이라 소개합니다. Be Okay라고 하는데요 스타트 버튼을 누르면 카운트가 시작되고 그거 따라서 천천히 심호흡하면 돼요. 4초간 들이마시고 잠깐 멈췄다가 8초간 내뱉고. 시간간격은 조절할 수 있어요 https://t.co/9Ww6k47FI6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204597525958803500,
+					"id_str": "1204597525958803458",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ELeXEVAWwAIO_0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELeXEVAWwAIO_0h.jpg",
+					"url": "https://t.co/9Ww6k47FI6",
+					"display_url": "pic.twitter.com/9Ww6k47FI6",
+					"expanded_url": "https://twitter.com/imaum0217/status/1204597540752154624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1431,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204597525958803500,
+					"id_str": "1204597525958803458",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ELeXEVAWwAIO_0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELeXEVAWwAIO_0h.jpg",
+					"url": "https://t.co/9Ww6k47FI6",
+					"display_url": "pic.twitter.com/9Ww6k47FI6",
+					"expanded_url": "https://twitter.com/imaum0217/status/1204597540752154624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1431,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204597525958811600,
+					"id_str": "1204597525958811651",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ELeXEVAW4AMPn3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELeXEVAW4AMPn3m.jpg",
+					"url": "https://t.co/9Ww6k47FI6",
+					"display_url": "pic.twitter.com/9Ww6k47FI6",
+					"expanded_url": "https://twitter.com/imaum0217/status/1204597540752154624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1431,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204597526118174700,
+					"id_str": "1204597526118174720",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ELeXEVmWkAAof60.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELeXEVmWkAAof60.jpg",
+					"url": "https://t.co/9Ww6k47FI6",
+					"display_url": "pic.twitter.com/9Ww6k47FI6",
+					"expanded_url": "https://twitter.com/imaum0217/status/1204597540752154624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1431,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204597526076305400,
+					"id_str": "1204597526076305425",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ELeXEVcXsBEG0QC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELeXEVcXsBEG0QC.jpg",
+					"url": "https://t.co/9Ww6k47FI6",
+					"display_url": "pic.twitter.com/9Ww6k47FI6",
+					"expanded_url": "https://twitter.com/imaum0217/status/1204597540752154624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1431,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75139,
+			"friends_count": 206,
+			"listed_count": 584,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204471981254426624/8z-QAPEL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204471981254426624/8z-QAPEL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 366,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 이거 아시는 분들 많을거 같지만 공황발작 올 때나 일상적 심신안정에 도움이 될 거 같은 앱이라 소개합니다. Be Okay라고 하는데요 스타트 버튼을 누르면 카운트가 시작되고 그거 따라서 천천히 심호흡하면 돼요. 4초간 들이마시고 잠깐 멈췄다가 8초간 내뱉고. 시간간격은 조절할 수 있어요 https://t.co/9Ww6k47FI6"
+	},
+	{
+		"created_at": "Wed Dec 11 13:57:28 +0000 2019",
+		"id": 1204659613548695600,
+		"id_str": "1204762125035397120",
+		"full_text": "현장에서 폭력이 발생할 수 있는 가능성은 전혀 없다고 말 하는 것 자체가 폭력적이네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110061901,
+			"id_str": "110061901",
+			"name": "윤희",
+			"screen_name": "sk00kk",
+			"location": "ssk00kk@gmail.com",
+			"description": "actor.",
+			"url": "https://t.co/hCg8aeNg9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hCg8aeNg9X",
+							"expanded_url": "https://www.instagram.com/sk00kk",
+							"display_url": "instagram.com/sk00kk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 765,
+			"friends_count": 4183,
+			"listed_count": 13,
+			"created_at": "Sun Jan 31 05:57:49 +0000 2010",
+			"favourites_count": 130220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068521962140397569/dhCPQKu5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068521962140397569/dhCPQKu5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110061901/1436371973",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1940,
+		"favorite_count": 516,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "현장에서 폭력이 발생할 수 있는 가능성은 전혀 없다고 말 하는 것 자체가 폭력적이네."
+	},
+	{
+		"created_at": "Wed Dec 11 13:57:19 +0000 2019",
+		"id": 1204690790502420500,
+		"id_str": "1204762086728847360",
+		"full_text": "보니하니말이야 때리는 것도 문제지만 때리는 시늉조차 하면 안되는게 어린이 프로그램 아니야? 지금 EBS에서 오해의 소지가 있다고 하는데 오해의 소지조차 만들면 안되는게 어린이 프로그램인것같은데 왜 중요한걸 모르지;;;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112326751995068400,
+			"id_str": "1112326751995068416",
+			"name": "결국 씤",
+			"screen_name": "_SSIC_",
+			"location": "",
+			"description": "성인코스어 사이퍼즈 판소 이것저것 다 봐요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 131,
+			"friends_count": 151,
+			"listed_count": 0,
+			"created_at": "Sun Mar 31 12:12:18 +0000 2019",
+			"favourites_count": 4394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199323099453255680/pePCA0r5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199323099453255680/pePCA0r5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112326751995068416/1575937332",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8033,
+		"favorite_count": 1630,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "보니하니말이야 때리는 것도 문제지만 때리는 시늉조차 하면 안되는게 어린이 프로그램 아니야? 지금 EBS에서 오해의 소지가 있다고 하는데 오해의 소지조차 만들면 안되는게 어린이 프로그램인것같은데 왜 중요한걸 모르지;;;"
+	},
+	{
+		"created_at": "Wed Dec 11 13:57:05 +0000 2019",
+		"id": 1204669324625006600,
+		"id_str": "1204762029011005440",
+		"full_text": "30대 후반 남성이 15살 여자 아이를 주먹으로 때리고, 목 조르고, '년'자 붙여가며 룸싸롱 단어로 성희롱하고, 과자 먹여주는 척 입에 손 욱여넣는 것이 방송되었음에도 EBS는 가해남성을 감싸고 있다는건 EBS가 미성년자 여성이 가학적인 콘텐츠로 소비되는걸 묵과하고 있다고 봐도 무방한거 아닌가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 881149050161999900,
+			"id_str": "881149050161999873",
+			"name": "페페",
+			"screen_name": "pepelemoko_",
+			"location": "멘션삭제잦음",
+			"description": "이구역 알티편집샵",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733,
+			"friends_count": 77,
+			"listed_count": 5,
+			"created_at": "Sat Jul 01 13:54:39 +0000 2017",
+			"favourites_count": 1735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114818552781893633/ZmdoPyMV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114818552781893633/ZmdoPyMV_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2969,
+		"favorite_count": 644,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "30대 후반 남성이 15살 여자 아이를 주먹으로 때리고, 목 조르고, '년'자 붙여가며 룸싸롱 단어로 성희롱하고, 과자 먹여주는 척 입에 손 욱여넣는 것이 방송되었음에도 EBS는 가해남성을 감싸고 있다는건 EBS가 미성년자 여성이 가학적인 콘텐츠로 소비되는걸 묵과하고 있다고 봐도 무방한거 아닌가."
+	},
+	{
+		"created_at": "Wed Dec 11 13:49:25 +0000 2019",
+		"id": 1204646285074030600,
+		"id_str": "1204760099178176512",
+		"full_text": "두 번째 사과문도 별로인 가장 큰 이유는  역시 재발방지 대책에 대한 구체성이 결여되어 있다는 건데, 그 외에도 첫 해명문을 그따위로 쓴 다음에 내는 사과라면 자신들이 어떤 부분에서 맥락을 못 짚고 단순 오해로 치부하려 했는지 그게 왜 문제였는지 반성하는 내용까지 포함되는 게 맞음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1204645554128449500,
+		"in_reply_to_status_id_str": "1204645554128449541",
+		"in_reply_to_user_id": 171901847,
+		"in_reply_to_user_id_str": "171901847",
+		"in_reply_to_screen_name": "guevara_99",
+		"user": {
+			"id": 171901847,
+			"id_str": "171901847",
+			"name": "위근우",
+			"screen_name": "guevara_99",
+			"location": "",
+			"description": "아무 것도 기대하지 마세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36425,
+			"friends_count": 45,
+			"listed_count": 269,
+			"created_at": "Wed Jul 28 13:05:26 +0000 2010",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 700,
+		"favorite_count": 190,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "두 번째 사과문도 별로인 가장 큰 이유는  역시 재발방지 대책에 대한 구체성이 결여되어 있다는 건데, 그 외에도 첫 해명문을 그따위로 쓴 다음에 내는 사과라면 자신들이 어떤 부분에서 맥락을 못 짚고 단순 오해로 치부하려 했는지 그게 왜 문제였는지 반성하는 내용까지 포함되는 게 맞음"
+	},
+	{
+		"created_at": "Wed Dec 11 13:49:22 +0000 2019",
+		"id": 1204645554128449500,
+		"id_str": "1204760086448496640",
+		"full_text": "해당 사태에 대한 첫 해명과 두 번째 사과문. 약 3시간 차로 나왔는데, 두 번째 사과문도 마음에 안 들지만, 이것조차 한 번에 내지 못하고 첫 번째 해명처럼 맥락 못 짚고 우선 뻣대고 보다가 나중에야 살짝 눈치보고 태세 전환하는 거, 그것도 엄청 문제임 https://t.co/441ygdlh61",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204645529944113200,
+					"id_str": "1204645529944113154",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ELfCuhyUwAIizOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELfCuhyUwAIizOs.jpg",
+					"url": "https://t.co/441ygdlh61",
+					"display_url": "pic.twitter.com/441ygdlh61",
+					"expanded_url": "https://twitter.com/guevara_99/status/1204645554128449541/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1217,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1109,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204645529944113200,
+					"id_str": "1204645529944113154",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ELfCuhyUwAIizOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELfCuhyUwAIizOs.jpg",
+					"url": "https://t.co/441ygdlh61",
+					"display_url": "pic.twitter.com/441ygdlh61",
+					"expanded_url": "https://twitter.com/guevara_99/status/1204645554128449541/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1217,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1109,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204645542216659000,
+					"id_str": "1204645542216658944",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ELfCvPgU8AAKBzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELfCvPgU8AAKBzA.jpg",
+					"url": "https://t.co/441ygdlh61",
+					"display_url": "pic.twitter.com/441ygdlh61",
+					"expanded_url": "https://twitter.com/guevara_99/status/1204645554128449541/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 785,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1652,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171901847,
+			"id_str": "171901847",
+			"name": "위근우",
+			"screen_name": "guevara_99",
+			"location": "",
+			"description": "아무 것도 기대하지 마세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36425,
+			"friends_count": 45,
+			"listed_count": 269,
+			"created_at": "Wed Jul 28 13:05:26 +0000 2010",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3496,
+		"favorite_count": 500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해당 사태에 대한 첫 해명과 두 번째 사과문. 약 3시간 차로 나왔는데, 두 번째 사과문도 마음에 안 들지만, 이것조차 한 번에 내지 못하고 첫 번째 해명처럼 맥락 못 짚고 우선 뻣대고 보다가 나중에야 살짝 눈치보고 태세 전환하는 거, 그것도 엄청 문제임 https://t.co/441ygdlh61"
+	},
+	{
 		"created_at": "Wed Dec 11 12:41:11 +0000 2019",
 		"id": 1204742925923602400,
 		"id_str": "1204742925923602432",
