@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 00:49:15 +0000 2019",
+		"id": 1204563764042961000,
+		"id_str": "1204563764042960896",
+		"full_text": "#프롬 #Fromm\n프롬, 1415 콘서트 (2020.01.19 ~ 2020.01.19) at 롤링홀\nhttps://t.co/7LoI0MWYGB\n#플레이DB #PlayDB https://t.co/PWrtcDEibl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "PlayDB",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7LoI0MWYGB",
+					"expanded_url": "http://www.playdb.co.kr/playdb/playdbDetail.asp?sReqPlayno=153212",
+					"display_url": "playdb.co.kr/playdb/playdbD…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204563763141206000,
+					"id_str": "1204563763141206016",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ELd4XEtW4AAiFMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELd4XEtW4AAiFMZ.jpg",
+					"url": "https://t.co/PWrtcDEibl",
+					"display_url": "pic.twitter.com/PWrtcDEibl",
+					"expanded_url": "https://twitter.com/fromminn/status/1204563764042960896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 114,
+									"y": 144,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 23,
+									"y": 150,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 75,
+									"y": 58,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 114,
+									"y": 144,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 23,
+									"y": 150,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 75,
+									"y": 58,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 114,
+									"y": 144,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 23,
+									"y": 150,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 75,
+									"y": 58,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 114,
+									"y": 144,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 23,
+									"y": 150,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 75,
+									"y": 58,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204563763141206000,
+					"id_str": "1204563763141206016",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ELd4XEtW4AAiFMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELd4XEtW4AAiFMZ.jpg",
+					"url": "https://t.co/PWrtcDEibl",
+					"display_url": "pic.twitter.com/PWrtcDEibl",
+					"expanded_url": "https://twitter.com/fromminn/status/1204563764042960896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 114,
+									"y": 144,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 23,
+									"y": 150,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 75,
+									"y": 58,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 114,
+									"y": 144,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 23,
+									"y": 150,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 75,
+									"y": 58,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 114,
+									"y": 144,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 23,
+									"y": 150,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 75,
+									"y": 58,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 114,
+									"y": 144,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 23,
+									"y": 150,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 75,
+									"y": 58,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 857,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#프롬 #Fromm\n프롬, 1415 콘서트 (2020.01.19 ~ 2020.01.19) at 롤링홀\nhttps://t.co/7LoI0MWYGB\n#플레이DB #PlayDB https://t.co/PWrtcDEibl"
+	},
+	{
 		"created_at": "Tue Dec 10 21:46:12 +0000 2019",
 		"id": 1204324080373002200,
 		"id_str": "1204517696424960002",
