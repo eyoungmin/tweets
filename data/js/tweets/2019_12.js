@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 18:54:52 +0000 2019",
+		"id": 1204823280915374000,
+		"id_str": "1204836969513193475",
+		"full_text": "2019년 12월 6일 7일 8일 오존죠지아도이 존죠아 https://t.co/ZnKbXPkDed",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204823214142054400,
+					"id_str": "1204823214142054400",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/ELhkVHAU4AAiC0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELhkVHAU4AAiC0P.jpg",
+					"url": "https://t.co/ZnKbXPkDed",
+					"display_url": "pic.twitter.com/ZnKbXPkDed",
+					"expanded_url": "https://twitter.com/adoyband/status/1204823280915374080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 378,
+									"y": 366,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 527,
+									"y": 407,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 885,
+									"y": 631,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 214,
+									"y": 207,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 298,
+									"y": 231,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 502,
+									"y": 357,
+									"h": 26,
+									"w": 26
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 626,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 900,
+									"y": 696,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 1512,
+									"y": 1078,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 626,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 900,
+									"y": 696,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 1512,
+									"y": 1078,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204823214142054400,
+					"id_str": "1204823214142054400",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/ELhkVHAU4AAiC0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELhkVHAU4AAiC0P.jpg",
+					"url": "https://t.co/ZnKbXPkDed",
+					"display_url": "pic.twitter.com/ZnKbXPkDed",
+					"expanded_url": "https://twitter.com/adoyband/status/1204823280915374080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 378,
+									"y": 366,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 527,
+									"y": 407,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 885,
+									"y": 631,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 214,
+									"y": 207,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 298,
+									"y": 231,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 502,
+									"y": 357,
+									"h": 26,
+									"w": 26
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 626,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 900,
+									"y": 696,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 1512,
+									"y": 1078,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 626,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 900,
+									"y": 696,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 1512,
+									"y": 1078,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204823232596983800,
+					"id_str": "1204823232596983808",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/ELhkWLwUwAAuw_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELhkWLwUwAAuw_f.jpg",
+					"url": "https://t.co/ZnKbXPkDed",
+					"display_url": "pic.twitter.com/ZnKbXPkDed",
+					"expanded_url": "https://twitter.com/adoyband/status/1204823280915374080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204823251408416800,
+					"id_str": "1204823251408416769",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/ELhkXR1UcAE83gt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELhkXR1UcAE83gt.jpg",
+					"url": "https://t.co/ZnKbXPkDed",
+					"display_url": "pic.twitter.com/ZnKbXPkDed",
+					"expanded_url": "https://twitter.com/adoyband/status/1204823280915374080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204823265916571600,
+					"id_str": "1204823265916571649",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/ELhkYH4VUAEf3w_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELhkYH4VUAEf3w_.jpg",
+					"url": "https://t.co/ZnKbXPkDed",
+					"display_url": "pic.twitter.com/ZnKbXPkDed",
+					"expanded_url": "https://twitter.com/adoyband/status/1204823280915374080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 801,
+									"y": 271,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1368,
+									"y": 464,
+									"h": 156,
+									"w": 156
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 454,
+									"y": 154,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1368,
+									"y": 464,
+									"h": 156,
+									"w": 156
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3494,
+			"friends_count": 551,
+			"listed_count": 32,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년 12월 6일 7일 8일 오존죠지아도이 존죠아 https://t.co/ZnKbXPkDed"
+	},
+	{
 		"created_at": "Wed Dec 11 17:41:27 +0000 2019",
 		"id": 1204818492467417000,
 		"id_str": "1204818492467417090",
