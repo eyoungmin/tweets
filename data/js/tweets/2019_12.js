@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 10:02:00 +0000 2019",
+		"id": 1204702867904323600,
+		"id_str": "1204702867904323585",
+		"full_text": "#더수토리 #the_sootory\n[The SOOTORY #6] 캥거루는 없고 돌고래는 있는 멜버른🐬\nhttps://t.co/ykVT0lV6gr\n#수영 #SOOYOUNG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더수토리",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "the_sootory",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ykVT0lV6gr",
+					"expanded_url": "https://youtu.be/xfROH-rYWm4",
+					"display_url": "youtu.be/xfROH-rYWm4",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 857,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#더수토리 #the_sootory\n[The SOOTORY #6] 캥거루는 없고 돌고래는 있는 멜버른🐬\nhttps://t.co/ykVT0lV6gr\n#수영 #SOOYOUNG"
+	},
+	{
+		"created_at": "Wed Dec 11 10:00:18 +0000 2019",
+		"id": 1204584256585883600,
+		"id_str": "1204702440945176577",
+		"full_text": "‘Queen of Asia’ LIM YOONA is gathering attention as the ‘actress of the year’, attending the closing ceremony of the Macau International Film Festival and winning the ‘The Asian Stars Up Next Awards’! 🏆\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration https://t.co/RzBw4V9W04",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						214,
+						218
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						225,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204584240370700300,
+					"id_str": "1204584240370700294",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/ELeK_AVUUAYI2gZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELeK_AVUUAYI2gZ.jpg",
+					"url": "https://t.co/RzBw4V9W04",
+					"display_url": "pic.twitter.com/RzBw4V9W04",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1204584256585883648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1925,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 96,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 225,
+									"y": 170,
+									"h": 222,
+									"w": 222
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 362,
+									"y": 274,
+									"h": 357,
+									"w": 357
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 362,
+									"y": 274,
+									"h": 357,
+									"w": 357
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204584240370700300,
+					"id_str": "1204584240370700294",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/ELeK_AVUUAYI2gZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELeK_AVUUAYI2gZ.jpg",
+					"url": "https://t.co/RzBw4V9W04",
+					"display_url": "pic.twitter.com/RzBw4V9W04",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1204584256585883648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1925,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 96,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 225,
+									"y": 170,
+									"h": 222,
+									"w": 222
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 362,
+									"y": 274,
+									"h": 357,
+									"w": 357
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 362,
+									"y": 274,
+									"h": 357,
+									"w": 357
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204584240379089000,
+					"id_str": "1204584240379088898",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/ELeK_AXUUAITD8N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELeK_AXUUAITD8N.jpg",
+					"url": "https://t.co/RzBw4V9W04",
+					"display_url": "pic.twitter.com/RzBw4V9W04",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1204584256585883648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 304,
+									"y": 147,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 520,
+									"y": 252,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 520,
+									"y": 252,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 83,
+									"h": 54,
+									"w": 54
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7991021,
+			"friends_count": 49,
+			"listed_count": 9667,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5395,
+		"favorite_count": 14506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Queen of Asia’ LIM YOONA is gathering attention as the ‘actress of the year’, attending the closing ceremony of the Macau International Film Festival and winning the ‘The Asian Stars Up Next Awards’! 🏆\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration https://t.co/RzBw4V9W04"
+	},
+	{
 		"created_at": "Wed Dec 11 09:00:38 +0000 2019",
 		"id": 1204687424963694600,
 		"id_str": "1204687424963694592",
