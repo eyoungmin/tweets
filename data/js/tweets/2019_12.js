@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 09:57:28 +0000 2019",
+		"id": 1205064114881609700,
+		"id_str": "1205064114881609729",
+		"full_text": "어느 발달장애인의 출근 준비\nhttps://t.co/OjYPpz60dc\n#닷페이스 #Dotface #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "닷페이스",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "Dotface",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OjYPpz60dc",
+					"expanded_url": "https://youtu.be/CoSzShdsy60",
+					"display_url": "youtu.be/CoSzShdsy60",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 858,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어느 발달장애인의 출근 준비\nhttps://t.co/OjYPpz60dc\n#닷페이스 #Dotface #minfav"
+	},
+	{
+		"created_at": "Thu Dec 12 09:54:52 +0000 2019",
+		"id": 1205059433987854300,
+		"id_str": "1205063461459365888",
+		"full_text": "김재환 'MOMENT' Released!\nhttps://t.co/BjxoeQuZLD https://t.co/nPvPoMsDhw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BjxoeQuZLD",
+					"expanded_url": "https://www.facebook.com/monotreemusic/posts/3166859913329088",
+					"display_url": "facebook.com/monotreemusic/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205059424659726300,
+					"id_str": "1205059424659726336",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/ELk7KXwUYAA5m3O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELk7KXwUYAA5m3O.jpg",
+					"url": "https://t.co/nPvPoMsDhw",
+					"display_url": "pic.twitter.com/nPvPoMsDhw",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1205059433987854336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 642,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 856,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 628,
+									"y": 374,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 436,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 352,
+									"y": 582,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 427,
+									"y": 254,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 642,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 856,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 628,
+									"y": 374,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 642,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 856,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 628,
+									"y": 374,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205059424659726300,
+					"id_str": "1205059424659726336",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/ELk7KXwUYAA5m3O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELk7KXwUYAA5m3O.jpg",
+					"url": "https://t.co/nPvPoMsDhw",
+					"display_url": "pic.twitter.com/nPvPoMsDhw",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1205059433987854336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 642,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 856,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 628,
+									"y": 374,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 436,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 352,
+									"y": 582,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 427,
+									"y": 254,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 642,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 856,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 628,
+									"y": 374,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 642,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 856,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 628,
+									"y": 374,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6077,
+			"friends_count": 0,
+			"listed_count": 46,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김재환 'MOMENT' Released!\nhttps://t.co/BjxoeQuZLD https://t.co/nPvPoMsDhw"
+	},
+	{
+		"created_at": "Thu Dec 12 09:15:13 +0000 2019",
+		"id": 1205053479972200400,
+		"id_str": "1205053479972200448",
+		"full_text": "[펫셔니스타 탱구│Petionista Taengoo] EP.04 Preview\nhttps://t.co/zhRlmPSV2t\n#SMTOWN #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						82,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zhRlmPSV2t",
+					"expanded_url": "https://youtu.be/GZlMuiEDRiA",
+					"display_url": "youtu.be/GZlMuiEDRiA",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 858,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[펫셔니스타 탱구│Petionista Taengoo] EP.04 Preview\nhttps://t.co/zhRlmPSV2t\n#SMTOWN #소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Thu Dec 12 09:00:53 +0000 2019",
 		"id": 1205049873051144200,
 		"id_str": "1205049873051144193",
