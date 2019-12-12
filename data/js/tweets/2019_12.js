@@ -1,6 +1,1034 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 19:00:01 +0000 2019",
+		"id": 1204899180533018600,
+		"id_str": "1205200651535273984",
+		"full_text": "대한항공 관계자는 \"동성애를 인정하는 미주·캐나다에서 사실혼 상태를 입증하는 공식 서류가 있으면 가족으로 인정해주고 있다\"고 설명했다.\n\nhttps://t.co/1euFC3aFGV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1euFC3aFGV",
+					"expanded_url": "https://news.v.daum.net/v/20191212071108432",
+					"display_url": "news.v.daum.net/v/201912120711…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 29세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈\nhttps://t.co/UQLphlZemV",
+			"url": "https://t.co/qZBZURmSGw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZBZURmSGw",
+							"expanded_url": "https://peing.net/ko/kyugenius",
+							"display_url": "peing.net/ko/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12037,
+			"friends_count": 34,
+			"listed_count": 28,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7055,
+		"favorite_count": 2420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대한항공 관계자는 \"동성애를 인정하는 미주·캐나다에서 사실혼 상태를 입증하는 공식 서류가 있으면 가족으로 인정해주고 있다\"고 설명했다.\n\nhttps://t.co/1euFC3aFGV"
+	},
+	{
+		"created_at": "Thu Dec 12 18:59:44 +0000 2019",
+		"id": 1205049496574419000,
+		"id_str": "1205200578155962368",
+		"full_text": "저의 첫 에세이 『나는 내가 잘 살았으면 좋겠다』가 드디어 출간되었습니다!\n우울증의 경험을 바탕으로 어둠에서 빛으로 나아가는 여정을 담았습니다. 제가 디딘 걸음들이 빛과 어둠이 교차하는 인생길에서 힘겨워하는 이에게 작은 안식으로 되길 바랍니다.\n\n예스24 \nhttps://t.co/D5LCNoQubw https://t.co/mqkh2mTwN5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D5LCNoQubw",
+					"expanded_url": "http://m.yes24.com/Goods/Detail/84928465",
+					"display_url": "m.yes24.com/Goods/Detail/8…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205049487187562500,
+					"id_str": "1205049487187562497",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkyH7yU0AEZdUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkyH7yU0AEZdUB.jpg",
+					"url": "https://t.co/mqkh2mTwN5",
+					"display_url": "pic.twitter.com/mqkh2mTwN5",
+					"expanded_url": "https://twitter.com/deambuler_blue/status/1205049496574418947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 381,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 381,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 381,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 269,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205049487187562500,
+					"id_str": "1205049487187562497",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkyH7yU0AEZdUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkyH7yU0AEZdUB.jpg",
+					"url": "https://t.co/mqkh2mTwN5",
+					"display_url": "pic.twitter.com/mqkh2mTwN5",
+					"expanded_url": "https://twitter.com/deambuler_blue/status/1205049496574418947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 381,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 381,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 381,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 269,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 949684872842395600,
+			"id_str": "949684872842395648",
+			"name": "soo",
+			"screen_name": "deambuler_blue",
+			"location": "",
+			"description": "10년 넘게 우울증, 사회불안장애를 앓고 있습니다. \n은둔형 외톨이. 살기 위해 치열하게 싸우고 있습니다.\n제 글은 개인소장 및 외부공유를 금지합니다.\n디엠, 멘션 답하지 않습니다.",
+			"url": "https://t.co/ym0kQA4Ilz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ym0kQA4Ilz",
+							"expanded_url": "https://blog.naver.com/singpsh2008",
+							"display_url": "blog.naver.com/singpsh2008",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11683,
+			"friends_count": 43,
+			"listed_count": 32,
+			"created_at": "Sat Jan 06 16:51:32 +0000 2018",
+			"favourites_count": 15705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/949689599181316096/ATuQpWV7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/949689599181316096/ATuQpWV7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/949684872842395648/1515258291",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 344,
+		"favorite_count": 482,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저의 첫 에세이 『나는 내가 잘 살았으면 좋겠다』가 드디어 출간되었습니다!\n우울증의 경험을 바탕으로 어둠에서 빛으로 나아가는 여정을 담았습니다. 제가 디딘 걸음들이 빛과 어둠이 교차하는 인생길에서 힘겨워하는 이에게 작은 안식으로 되길 바랍니다.\n\n예스24 \nhttps://t.co/D5LCNoQubw https://t.co/mqkh2mTwN5"
+	},
+	{
+		"created_at": "Thu Dec 12 18:59:25 +0000 2019",
+		"id": 1205079908126482400,
+		"id_str": "1205200499454050305",
+		"full_text": "[ANNONCE]\nLes nouveaux noms de #LollaParis 2020 sont arrivés ! On vous laisse découvrir et on vous donne rendez-vous les 18 et 19 juillet à l’Hippodrome ParisLongchamp avec Pearl Jam, Billie Eilish, Khalid, Vampire Weekend... et bien plus !\nBilletterie 👉 https://t.co/0PQzGrWJpE https://t.co/zlTqS2M1gg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LollaParis",
+					"indices": [
+						31,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0PQzGrWJpE",
+					"expanded_url": "http://ow.ly/3zYi50xydOg",
+					"display_url": "ow.ly/3zYi50xydOg",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205079895010885600,
+					"id_str": "1205079895010885633",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlNx5wWwAE_Mle.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlNx5wWwAE_Mle.jpg",
+					"url": "https://t.co/zlTqS2M1gg",
+					"display_url": "pic.twitter.com/zlTqS2M1gg",
+					"expanded_url": "https://twitter.com/lollapaloozafr/status/1205079908126482432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1393,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "15155074",
+									"screen_name": "PearlJam",
+									"name": "Pearl Jam"
+								},
+								{
+									"type": "user",
+									"user_id": "2150327072",
+									"screen_name": "billieeilish",
+									"name": "billie eilish"
+								},
+								{
+									"type": "user",
+									"user_id": "1852644804",
+									"screen_name": "thegreatkhalid",
+									"name": "Khalid"
+								},
+								{
+									"type": "user",
+									"user_id": "1897918765",
+									"screen_name": "vinivicimusic",
+									"name": "Vini Vici"
+								},
+								{
+									"type": "user",
+									"user_id": "143474328",
+									"screen_name": "TheStruts",
+									"name": "The Struts"
+								},
+								{
+									"type": "user",
+									"user_id": "1573265498",
+									"screen_name": "finneas",
+									"name": "FINNEAS"
+								},
+								{
+									"type": "user",
+									"user_id": "36008570",
+									"screen_name": "JessieJ",
+									"name": "Jessie J"
+								},
+								{
+									"type": "user",
+									"user_id": "965161371112534016",
+									"screen_name": "JoeDwetFile",
+									"name": "JOÉ DWET FILÉ"
+								},
+								{
+									"type": "user",
+									"user_id": "880552945430831104",
+									"screen_name": "fever333",
+									"name": "FEVER 333"
+								},
+								{
+									"type": "user",
+									"user_id": "215052012",
+									"screen_name": "burnaboy",
+									"name": "Burna Boy"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 482,
+									"y": 630,
+									"h": 302,
+									"w": 302
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 273,
+									"y": 356,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 823,
+									"y": 1075,
+									"h": 515,
+									"w": 515
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1433,
+									"y": 1871,
+									"h": 897,
+									"w": 897
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205079895010885600,
+					"id_str": "1205079895010885633",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlNx5wWwAE_Mle.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlNx5wWwAE_Mle.jpg",
+					"url": "https://t.co/zlTqS2M1gg",
+					"display_url": "pic.twitter.com/zlTqS2M1gg",
+					"expanded_url": "https://twitter.com/lollapaloozafr/status/1205079908126482432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1393,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "15155074",
+									"screen_name": "PearlJam",
+									"name": "Pearl Jam"
+								},
+								{
+									"type": "user",
+									"user_id": "2150327072",
+									"screen_name": "billieeilish",
+									"name": "billie eilish"
+								},
+								{
+									"type": "user",
+									"user_id": "1852644804",
+									"screen_name": "thegreatkhalid",
+									"name": "Khalid"
+								},
+								{
+									"type": "user",
+									"user_id": "1897918765",
+									"screen_name": "vinivicimusic",
+									"name": "Vini Vici"
+								},
+								{
+									"type": "user",
+									"user_id": "143474328",
+									"screen_name": "TheStruts",
+									"name": "The Struts"
+								},
+								{
+									"type": "user",
+									"user_id": "1573265498",
+									"screen_name": "finneas",
+									"name": "FINNEAS"
+								},
+								{
+									"type": "user",
+									"user_id": "36008570",
+									"screen_name": "JessieJ",
+									"name": "Jessie J"
+								},
+								{
+									"type": "user",
+									"user_id": "965161371112534016",
+									"screen_name": "JoeDwetFile",
+									"name": "JOÉ DWET FILÉ"
+								},
+								{
+									"type": "user",
+									"user_id": "880552945430831104",
+									"screen_name": "fever333",
+									"name": "FEVER 333"
+								},
+								{
+									"type": "user",
+									"user_id": "215052012",
+									"screen_name": "burnaboy",
+									"name": "Burna Boy"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 482,
+									"y": 630,
+									"h": 302,
+									"w": 302
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 273,
+									"y": 356,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 823,
+									"y": 1075,
+									"h": 515,
+									"w": 515
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1433,
+									"y": 1871,
+									"h": 897,
+									"w": 897
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776175414985142300,
+			"id_str": "776175414985142272",
+			"name": "Lollapalooza Paris",
+			"screen_name": "lollapaloozafr",
+			"location": "Paris, France",
+			"description": "Facebook : @lollapaloozafr Instagram : @lollapallozafr Snapchat : lollapaloozafr",
+			"url": "https://t.co/b7pNMprt7J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b7pNMprt7J",
+							"expanded_url": "http://www.lollaparis.com",
+							"display_url": "lollaparis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9542,
+			"friends_count": 149,
+			"listed_count": 79,
+			"created_at": "Wed Sep 14 21:46:54 +0000 2016",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205122175100997632/3GJ-YrBC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205122175100997632/3GJ-YrBC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776175414985142272/1576158886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 2199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "[ANNONCE]\nLes nouveaux noms de #LollaParis 2020 sont arrivés ! On vous laisse découvrir et on vous donne rendez-vous les 18 et 19 juillet à l’Hippodrome ParisLongchamp avec Pearl Jam, Billie Eilish, Khalid, Vampire Weekend... et bien plus !\nBilletterie 👉 https://t.co/0PQzGrWJpE https://t.co/zlTqS2M1gg"
+	},
+	{
+		"created_at": "Thu Dec 12 18:38:44 +0000 2019",
+		"id": 1205195295618846700,
+		"id_str": "1205195295618846725",
+		"full_text": "이분 레알 성덕... 😊 아이린 교통카드 뭔데 ㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1205194663193280500,
+		"in_reply_to_status_id_str": "1205194663193280512",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 865,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이분 레알 성덕... 😊 아이린 교통카드 뭔데 ㅋㅋㅋㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Thu Dec 12 18:36:13 +0000 2019",
+		"id": 1205194663193280500,
+		"id_str": "1205194663193280512",
+		"full_text": "G마켓 잘됨파티 광고촬영 비하인드(feat. 레드벨벳)\nhttps://t.co/gGnol3Iy4F\n#레드벨벳 #RedVelvet #지마켓 #G마켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "지마켓",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "G마켓",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gGnol3Iy4F",
+					"expanded_url": "https://youtu.be/OLBrKQF7Wy4",
+					"display_url": "youtu.be/OLBrKQF7Wy4",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 865,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "G마켓 잘됨파티 광고촬영 비하인드(feat. 레드벨벳)\nhttps://t.co/gGnol3Iy4F\n#레드벨벳 #RedVelvet #지마켓 #G마켓"
+	},
+	{
 		"created_at": "Thu Dec 12 17:09:11 +0000 2019",
 		"id": 1205172760529526800,
 		"id_str": "1205172760529526784",
