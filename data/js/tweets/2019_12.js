@@ -1,6 +1,1128 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 12:25:24 +0000 2019",
+		"id": 1205100547373535200,
+		"id_str": "1205101342051536896",
+		"full_text": "\"힙합 형식 빌렸을 뿐, 성희롱\"…'여가수 모욕' 래퍼 유죄https://t.co/hFBaYR2RTL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hFBaYR2RTL",
+					"expanded_url": "http://news.jtbc.joins.com/html/131/NB11923131.html",
+					"display_url": "news.jtbc.joins.com/html/131/NB119…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613240,
+			"friends_count": 45990,
+			"listed_count": 2370,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1551367952",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"힙합 형식 빌렸을 뿐, 성희롱\"…'여가수 모욕' 래퍼 유죄https://t.co/hFBaYR2RTL"
+	},
+	{
+		"created_at": "Thu Dec 12 12:19:19 +0000 2019",
+		"id": 1205099813718691800,
+		"id_str": "1205099813718691840",
+		"full_text": "#SMTOWN #Artist_News\n김희철 X 이수근 조합의 ‘우주 쪼꼬미’, 신곡 ‘하얀 겨울’ 12월 15일 오후 6시 공개!\nhttps://t.co/sYNQ56Dnjh\n#STATION #SMSTATION #스테이션 https://t.co/gX6F9L6J7L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						118,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sYNQ56Dnjh",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2987",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205099811625742300,
+					"id_str": "1205099811625742338",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlf5M7XsAINzPK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlf5M7XsAINzPK.jpg",
+					"url": "https://t.co/gX6F9L6J7L",
+					"display_url": "pic.twitter.com/gX6F9L6J7L",
+					"expanded_url": "https://twitter.com/fromminn/status/1205099813718691840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205099811625742300,
+					"id_str": "1205099811625742338",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlf5M7XsAINzPK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlf5M7XsAINzPK.jpg",
+					"url": "https://t.co/gX6F9L6J7L",
+					"display_url": "pic.twitter.com/gX6F9L6J7L",
+					"expanded_url": "https://twitter.com/fromminn/status/1205099813718691840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 858,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n김희철 X 이수근 조합의 ‘우주 쪼꼬미’, 신곡 ‘하얀 겨울’ 12월 15일 오후 6시 공개!\nhttps://t.co/sYNQ56Dnjh\n#STATION #SMSTATION #스테이션 https://t.co/gX6F9L6J7L"
+	},
+	{
+		"created_at": "Thu Dec 12 12:18:14 +0000 2019",
+		"id": 1197062746258280400,
+		"id_str": "1205099540489080833",
+		"full_text": "📢[REPORT] 후추스(Hoochus), 더욱 다채로운 사운드로 채워진 정규 2집 [너의 일부] 앨범 제작기\n\n오랜만에 고급진 팝음반으로 돌아온 후추스의 앨범에 대한 담백한 인터뷰와 앨범 제작과정을\n지금 바로 #지니매거진 에서 만나보세요!\n-\n✚ 지니매거진 바로가기 : https://t.co/p0PnUxyWz9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지니매거진",
+					"indices": [
+						118,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p0PnUxyWz9",
+					"expanded_url": "https://bit.ly/35jPpWS",
+					"display_url": "bit.ly/35jPpWS",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9784,
+			"friends_count": 2993,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢[REPORT] 후추스(Hoochus), 더욱 다채로운 사운드로 채워진 정규 2집 [너의 일부] 앨범 제작기\n\n오랜만에 고급진 팝음반으로 돌아온 후추스의 앨범에 대한 담백한 인터뷰와 앨범 제작과정을\n지금 바로 #지니매거진 에서 만나보세요!\n-\n✚ 지니매거진 바로가기 : https://t.co/p0PnUxyWz9"
+	},
+	{
+		"created_at": "Thu Dec 12 12:18:03 +0000 2019",
+		"id": 1196672236347777000,
+		"id_str": "1205099491583389696",
+		"full_text": "[Listen here]\nApple Music - \nMelon - https://t.co/9dyXAMvLlV\nGenie - https://t.co/OtYNPamxgi\nBugs - https://t.co/JwiGG2nrk0\nVibe - https://t.co/cRoOB6Xqsx\n\nhttps://t.co/GsW5JCAuoc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9dyXAMvLlV",
+					"expanded_url": "https://bit.ly/2pvZXCZ",
+					"display_url": "bit.ly/2pvZXCZ",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/OtYNPamxgi",
+					"expanded_url": "https://bit.ly/2XySEHi",
+					"display_url": "bit.ly/2XySEHi",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/JwiGG2nrk0",
+					"expanded_url": "https://bit.ly/2QtiSJH",
+					"display_url": "bit.ly/2QtiSJH",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/cRoOB6Xqsx",
+					"expanded_url": "https://bit.ly/2Qz3GL4",
+					"display_url": "bit.ly/2Qz3GL4",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/GsW5JCAuoc",
+					"expanded_url": "https://youtu.be/0PQo4PoXgVA",
+					"display_url": "youtu.be/0PQo4PoXgVA",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1196672232983953400,
+		"in_reply_to_status_id_str": "1196672232983953409",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9784,
+			"friends_count": 2993,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Listen here]\nApple Music - \nMelon - https://t.co/9dyXAMvLlV\nGenie - https://t.co/OtYNPamxgi\nBugs - https://t.co/JwiGG2nrk0\nVibe - https://t.co/cRoOB6Xqsx\n\nhttps://t.co/GsW5JCAuoc"
+	},
+	{
+		"created_at": "Thu Dec 12 12:18:01 +0000 2019",
+		"id": 1196672232983953400,
+		"id_str": "1205099483249274882",
+		"full_text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n​\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UVTaXJC02B",
+					"expanded_url": "https://bit.ly/35e0loQ",
+					"display_url": "bit.ly/35e0loQ",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1196672225492922400,
+					"id_str": "1196672225492922368",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EJtvDIEU8AA-pff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJtvDIEU8AA-pff.jpg",
+					"url": "https://t.co/CWemuYWqLT",
+					"display_url": "pic.twitter.com/CWemuYWqLT",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1196672232983953409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196672225492922400,
+					"id_str": "1196672225492922368",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EJtvDIEU8AA-pff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJtvDIEU8AA-pff.jpg",
+					"url": "https://t.co/CWemuYWqLT",
+					"display_url": "pic.twitter.com/CWemuYWqLT",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1196672232983953409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9784,
+			"friends_count": 2993,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n​\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT"
+	},
+	{
+		"created_at": "Thu Dec 12 12:17:53 +0000 2019",
+		"id": 1195347030794817500,
+		"id_str": "1205099453029351424",
+		"full_text": "정규 2집 &lt;너의 일부&gt; 트랙 리스트 https://t.co/CbHTD4CFwg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195347022875775000,
+					"id_str": "1195347022875774977",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EJa5yLnU0AEU1eD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJa5yLnU0AEU1eD.jpg",
+					"url": "https://t.co/CbHTD4CFwg",
+					"display_url": "pic.twitter.com/CbHTD4CFwg",
+					"expanded_url": "https://twitter.com/bandhoochus/status/1195347030794817536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 940,
+							"h": 888,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 356,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 356,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 356,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 257,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195347022875775000,
+					"id_str": "1195347022875774977",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EJa5yLnU0AEU1eD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJa5yLnU0AEU1eD.jpg",
+					"url": "https://t.co/CbHTD4CFwg",
+					"display_url": "pic.twitter.com/CbHTD4CFwg",
+					"expanded_url": "https://twitter.com/bandhoochus/status/1195347030794817536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 940,
+							"h": 888,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 356,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 356,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 356,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 257,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1437288451,
+			"id_str": "1437288451",
+			"name": "후추스",
+			"screen_name": "bandhoochus",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/MLPf0TYHM5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MLPf0TYHM5",
+							"expanded_url": "http://facebook.com/hoochus",
+							"display_url": "facebook.com/hoochus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 144,
+			"listed_count": 6,
+			"created_at": "Sat May 18 03:08:41 +0000 2013",
+			"favourites_count": 312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201862308776931328/hX5uC9qM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201862308776931328/hX5uC9qM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1437288451/1573377091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정규 2집 &lt;너의 일부&gt; 트랙 리스트 https://t.co/CbHTD4CFwg"
+	},
+	{
 		"created_at": "Thu Dec 12 11:50:01 +0000 2019",
 		"id": 1205041560414376000,
 		"id_str": "1205092436831195136",
