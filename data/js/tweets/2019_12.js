@@ -1,6 +1,1418 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 21:33:29 +0000 2019",
+		"id": 1203922045425180700,
+		"id_str": "1205239272762044416",
+		"full_text": "아 덧붙이자면, 결국 사장 마인드가 구려서, 자동화 코드는 사용 금지되었고 다시 종전처럼 아침 6시 45분에 사람이 와서 데이터 모아 정리하는 걸로 바뀌었다고 한다. 그리고 저 분은 해고당함;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203905344356765700,
+		"in_reply_to_status_id_str": "1203905344356765696",
+		"in_reply_to_user_id": 125874465,
+		"in_reply_to_user_id_str": "125874465",
+		"in_reply_to_screen_name": "xxroamxx",
+		"user": {
+			"id": 125874465,
+			"id_str": "125874465",
+			"name": "Roam😷",
+			"screen_name": "xxroamxx",
+			"location": "Tokyo",
+			"description": "도쿄 모처 출판사 잡부. 본업은 디자이너. 東京と埼玉を往復している出版社デザイナー。20↑。進撃、松、赤安。腐女。安室の女になってしまった…。何でも好き。아무로 팡인. 요즘은 내스급 송성송. KinKiKidsファン歴1〇年目 페미니스트. 알티되면 대부분 뮤트합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5036,
+			"friends_count": 555,
+			"listed_count": 74,
+			"created_at": "Wed Mar 24 04:00:07 +0000 2010",
+			"favourites_count": 41343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 242414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "14A894",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125874465/1531801840",
+			"profile_link_color": "1FADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6BC6F",
+			"profile_text_color": "CFC88A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 740,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아 덧붙이자면, 결국 사장 마인드가 구려서, 자동화 코드는 사용 금지되었고 다시 종전처럼 아침 6시 45분에 사람이 와서 데이터 모아 정리하는 걸로 바뀌었다고 한다. 그리고 저 분은 해고당함;"
+	},
+	{
+		"created_at": "Thu Dec 12 21:33:27 +0000 2019",
+		"id": 1203905344356765700,
+		"id_str": "1205239264268578816",
+		"full_text": "같은 소릴 듣고 회사 그만두란 소리 들었대... 와 이거 정말 일본이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203905282843103200,
+		"in_reply_to_status_id_str": "1203905282843103233",
+		"in_reply_to_user_id": 125874465,
+		"in_reply_to_user_id_str": "125874465",
+		"in_reply_to_screen_name": "xxroamxx",
+		"user": {
+			"id": 125874465,
+			"id_str": "125874465",
+			"name": "Roam😷",
+			"screen_name": "xxroamxx",
+			"location": "Tokyo",
+			"description": "도쿄 모처 출판사 잡부. 본업은 디자이너. 東京と埼玉を往復している出版社デザイナー。20↑。進撃、松、赤安。腐女。安室の女になってしまった…。何でも好き。아무로 팡인. 요즘은 내스급 송성송. KinKiKidsファン歴1〇年目 페미니스트. 알티되면 대부분 뮤트합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5036,
+			"friends_count": 555,
+			"listed_count": 74,
+			"created_at": "Wed Mar 24 04:00:07 +0000 2010",
+			"favourites_count": 41343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 242414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "14A894",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125874465/1531801840",
+			"profile_link_color": "1FADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6BC6F",
+			"profile_text_color": "CFC88A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 569,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "같은 소릴 듣고 회사 그만두란 소리 들었대... 와 이거 정말 일본이다."
+	},
+	{
+		"created_at": "Thu Dec 12 21:33:25 +0000 2019",
+		"id": 1203905282843103200,
+		"id_str": "1205239256811110400",
+		"full_text": "업무효율이 올라간 건 평가하겠으나 그러나 / 데이터를 전부 컴퓨터에게 맡기는 건 좀 그렇지(뭔 소릴 하는거야;)/아침 일찍 와서 햇빛을 받으며 감사하면서 일하는 데 의미가 있어/너는 **(책)와 **(잡지)를 읽고 뭘 느낀 거냐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203904909357117400,
+		"in_reply_to_status_id_str": "1203904909357117440",
+		"in_reply_to_user_id": 125874465,
+		"in_reply_to_user_id_str": "125874465",
+		"in_reply_to_screen_name": "xxroamxx",
+		"user": {
+			"id": 125874465,
+			"id_str": "125874465",
+			"name": "Roam😷",
+			"screen_name": "xxroamxx",
+			"location": "Tokyo",
+			"description": "도쿄 모처 출판사 잡부. 본업은 디자이너. 東京と埼玉を往復している出版社デザイナー。20↑。進撃、松、赤安。腐女。安室の女になってしまった…。何でも好き。아무로 팡인. 요즘은 내스급 송성송. KinKiKidsファン歴1〇年目 페미니스트. 알티되면 대부분 뮤트합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5036,
+			"friends_count": 555,
+			"listed_count": 74,
+			"created_at": "Wed Mar 24 04:00:07 +0000 2010",
+			"favourites_count": 41343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 242414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "14A894",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125874465/1531801840",
+			"profile_link_color": "1FADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6BC6F",
+			"profile_text_color": "CFC88A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 755,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "업무효율이 올라간 건 평가하겠으나 그러나 / 데이터를 전부 컴퓨터에게 맡기는 건 좀 그렇지(뭔 소릴 하는거야;)/아침 일찍 와서 햇빛을 받으며 감사하면서 일하는 데 의미가 있어/너는 **(책)와 **(잡지)를 읽고 뭘 느낀 거냐"
+	},
+	{
+		"created_at": "Thu Dec 12 21:33:23 +0000 2019",
+		"id": 1203904909357117400,
+		"id_str": "1205239248200167424",
+		"full_text": "더 자동화할 수 있는 업무는 없냐고 물어보기 시작 -&gt; 기껏 만든 메뉴얼이 없어지고, 상사가 시키는 대로 안 하는 직원이 양성될 것을 겁냄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203904674467704800,
+		"in_reply_to_status_id_str": "1203904674467704832",
+		"in_reply_to_user_id": 125874465,
+		"in_reply_to_user_id_str": "125874465",
+		"in_reply_to_screen_name": "xxroamxx",
+		"user": {
+			"id": 125874465,
+			"id_str": "125874465",
+			"name": "Roam😷",
+			"screen_name": "xxroamxx",
+			"location": "Tokyo",
+			"description": "도쿄 모처 출판사 잡부. 본업은 디자이너. 東京と埼玉を往復している出版社デザイナー。20↑。進撃、松、赤安。腐女。安室の女になってしまった…。何でも好き。아무로 팡인. 요즘은 내스급 송성송. KinKiKidsファン歴1〇年目 페미니스트. 알티되면 대부분 뮤트합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5036,
+			"friends_count": 555,
+			"listed_count": 74,
+			"created_at": "Wed Mar 24 04:00:07 +0000 2010",
+			"favourites_count": 41343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 242414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "14A894",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125874465/1531801840",
+			"profile_link_color": "1FADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6BC6F",
+			"profile_text_color": "CFC88A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 588,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "더 자동화할 수 있는 업무는 없냐고 물어보기 시작 -&gt; 기껏 만든 메뉴얼이 없어지고, 상사가 시키는 대로 안 하는 직원이 양성될 것을 겁냄"
+	},
+	{
+		"created_at": "Thu Dec 12 21:33:21 +0000 2019",
+		"id": 1203904674467704800,
+		"id_str": "1205239240814026753",
+		"full_text": "지방의 작은 도시라, 업무시간을 덜어낸 직원가족들에게도 호평, 뫄뫄가 일 잘한다고 입소문이 나자 -&gt; 상사의 권위를 부숴버린 게 됨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203904432741634000,
+		"in_reply_to_status_id_str": "1203904432741634048",
+		"in_reply_to_user_id": 125874465,
+		"in_reply_to_user_id_str": "125874465",
+		"in_reply_to_screen_name": "xxroamxx",
+		"user": {
+			"id": 125874465,
+			"id_str": "125874465",
+			"name": "Roam😷",
+			"screen_name": "xxroamxx",
+			"location": "Tokyo",
+			"description": "도쿄 모처 출판사 잡부. 본업은 디자이너. 東京と埼玉を往復している出版社デザイナー。20↑。進撃、松、赤安。腐女。安室の女になってしまった…。何でも好き。아무로 팡인. 요즘은 내스급 송성송. KinKiKidsファン歴1〇年目 페미니스트. 알티되면 대부분 뮤트합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5036,
+			"friends_count": 555,
+			"listed_count": 74,
+			"created_at": "Wed Mar 24 04:00:07 +0000 2010",
+			"favourites_count": 41343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 242414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "14A894",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125874465/1531801840",
+			"profile_link_color": "1FADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6BC6F",
+			"profile_text_color": "CFC88A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 808,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지방의 작은 도시라, 업무시간을 덜어낸 직원가족들에게도 호평, 뫄뫄가 일 잘한다고 입소문이 나자 -&gt; 상사의 권위를 부숴버린 게 됨"
+	},
+	{
+		"created_at": "Thu Dec 12 21:33:20 +0000 2019",
+		"id": 1203904432741634000,
+		"id_str": "1205239235655036928",
+		"full_text": "여직원들에게만 강요되었던 '아침 당번'이 없어져서 직원들은 기뻐했으나 -&gt;직원을 아침 일찍부터 부려먹을 수 있던 경영자들은 화냄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203904132119089200,
+		"in_reply_to_status_id_str": "1203904132119089152",
+		"in_reply_to_user_id": 125874465,
+		"in_reply_to_user_id_str": "125874465",
+		"in_reply_to_screen_name": "xxroamxx",
+		"user": {
+			"id": 125874465,
+			"id_str": "125874465",
+			"name": "Roam😷",
+			"screen_name": "xxroamxx",
+			"location": "Tokyo",
+			"description": "도쿄 모처 출판사 잡부. 본업은 디자이너. 東京と埼玉を往復している出版社デザイナー。20↑。進撃、松、赤安。腐女。安室の女になってしまった…。何でも好き。아무로 팡인. 요즘은 내스급 송성송. KinKiKidsファン歴1〇年目 페미니스트. 알티되면 대부분 뮤트합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5036,
+			"friends_count": 555,
+			"listed_count": 74,
+			"created_at": "Wed Mar 24 04:00:07 +0000 2010",
+			"favourites_count": 41343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 242414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "14A894",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125874465/1531801840",
+			"profile_link_color": "1FADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6BC6F",
+			"profile_text_color": "CFC88A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1115,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여직원들에게만 강요되었던 '아침 당번'이 없어져서 직원들은 기뻐했으나 -&gt;직원을 아침 일찍부터 부려먹을 수 있던 경영자들은 화냄"
+	},
+	{
+		"created_at": "Thu Dec 12 21:32:19 +0000 2019",
+		"id": 1203904132119089200,
+		"id_str": "1205238978372222976",
+		"full_text": "일본 지방 중소기업 사내 SE가, 당번제로 아침 6시 반에 출근해서 주문/발주 데이터를 처리해왔던 귀찮은 업무를, 파이썬 30줄 정도의 코드로 자동화하자 간부에게 불려서 그만두란 소리 들었다고. https://t.co/mFMa7Zy2ax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mFMa7Zy2ax",
+					"expanded_url": "https://note.com/hrfr84/n/nfe02c7abac5e",
+					"display_url": "note.com/hrfr84/n/nfe02…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125874465,
+			"id_str": "125874465",
+			"name": "Roam😷",
+			"screen_name": "xxroamxx",
+			"location": "Tokyo",
+			"description": "도쿄 모처 출판사 잡부. 본업은 디자이너. 東京と埼玉を往復している出版社デザイナー。20↑。進撃、松、赤安。腐女。安室の女になってしまった…。何でも好き。아무로 팡인. 요즘은 내스급 송성송. KinKiKidsファン歴1〇年目 페미니스트. 알티되면 대부분 뮤트합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5036,
+			"friends_count": 555,
+			"listed_count": 74,
+			"created_at": "Wed Mar 24 04:00:07 +0000 2010",
+			"favourites_count": 41343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 242414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "14A894",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194780074207133697/Neqa1lKa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125874465/1531801840",
+			"profile_link_color": "1FADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6BC6F",
+			"profile_text_color": "CFC88A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3519,
+		"favorite_count": 552,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본 지방 중소기업 사내 SE가, 당번제로 아침 6시 반에 출근해서 주문/발주 데이터를 처리해왔던 귀찮은 업무를, 파이썬 30줄 정도의 코드로 자동화하자 간부에게 불려서 그만두란 소리 들었다고. https://t.co/mFMa7Zy2ax"
+	},
+	{
+		"created_at": "Thu Dec 12 21:31:10 +0000 2019",
+		"id": 1190961534584799200,
+		"id_str": "1205238690475171840",
+		"full_text": "연신내 청어람. 사장님 어머님이 소곱창만 30년 했고 망원점이 언니분이 하시는 곳이라며 자부심이 대단하셨다. 근데 진짜 싱싱하고 난리나는 맛.. 전골도 자극적이지 않고 담백한 맛이었다. 다음에 또 가야겠어. https://t.co/pkFj5NDykU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190961293995466800,
+					"id_str": "1190961293995466752",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EIck_KXW4AAJs0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIck_KXW4AAJs0t.jpg",
+					"url": "https://t.co/pkFj5NDykU",
+					"display_url": "pic.twitter.com/pkFj5NDykU",
+					"expanded_url": "https://twitter.com/jisooo_kwon/status/1190961534584799235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190961293995466800,
+					"id_str": "1190961293995466752",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EIck_KXW4AAJs0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIck_KXW4AAJs0t.jpg",
+					"url": "https://t.co/pkFj5NDykU",
+					"display_url": "pic.twitter.com/pkFj5NDykU",
+					"expanded_url": "https://twitter.com/jisooo_kwon/status/1190961534584799235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1190961388237262800,
+					"id_str": "1190961388237262849",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EIclEpcWkAEy95V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIclEpcWkAEy95V.jpg",
+					"url": "https://t.co/pkFj5NDykU",
+					"display_url": "pic.twitter.com/pkFj5NDykU",
+					"expanded_url": "https://twitter.com/jisooo_kwon/status/1190961534584799235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1192,
+									"y": 1578,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 358,
+									"y": 864,
+									"h": 328,
+									"w": 328
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1192,
+									"y": 1578,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 358,
+									"y": 864,
+									"h": 328,
+									"w": 328
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 523,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 118,
+									"y": 286,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 698,
+									"y": 924,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 209,
+									"y": 506,
+									"h": 192,
+									"w": 192
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1190961423595266000,
+					"id_str": "1190961423595266048",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EIclGtKW4AAuO_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIclGtKW4AAuO_j.jpg",
+					"url": "https://t.co/pkFj5NDykU",
+					"display_url": "pic.twitter.com/pkFj5NDykU",
+					"expanded_url": "https://twitter.com/jisooo_kwon/status/1190961534584799235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 286,
+									"y": 87,
+									"h": 215,
+									"w": 215
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 862,
+									"y": 264,
+									"h": 648,
+									"w": 648
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 862,
+									"y": 264,
+									"h": 648,
+									"w": 648
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 505,
+									"y": 154,
+									"h": 379,
+									"w": 379
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1190961478695837700,
+					"id_str": "1190961478695837696",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EIclJ6bW4AAyJ9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIclJ6bW4AAyJ9e.jpg",
+					"url": "https://t.co/pkFj5NDykU",
+					"display_url": "pic.twitter.com/pkFj5NDykU",
+					"expanded_url": "https://twitter.com/jisooo_kwon/status/1190961534584799235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 996,
+									"y": 302,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 996,
+									"y": 302,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 330,
+									"y": 100,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 583,
+									"y": 176,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1146702948153487400,
+			"id_str": "1146702948153487360",
+			"name": "지수퀀",
+			"screen_name": "jisooo_kwon",
+			"location": "",
+			"description": "통대생이었는데요, 직장인이 되었습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 69,
+			"listed_count": 2,
+			"created_at": "Thu Jul 04 08:51:02 +0000 2019",
+			"favourites_count": 1435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146703134124756992/kpQRGHm-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146703134124756992/kpQRGHm-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146702948153487360/1562230953",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1395,
+		"favorite_count": 954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연신내 청어람. 사장님 어머님이 소곱창만 30년 했고 망원점이 언니분이 하시는 곳이라며 자부심이 대단하셨다. 근데 진짜 싱싱하고 난리나는 맛.. 전골도 자극적이지 않고 담백한 맛이었다. 다음에 또 가야겠어. https://t.co/pkFj5NDykU"
+	},
+	{
+		"created_at": "Thu Dec 12 21:29:20 +0000 2019",
+		"id": 1204521129068650500,
+		"id_str": "1205238230112555008",
+		"full_text": "2020 is just around the corner 👀\n\nWe added a bunch of new templates to help you plan and hit your goals: https://t.co/guGB8MKxzH\n- 2019 year in review\n- 2020 bucket list\n- Habit tracker\n- Simple resolutions\n- Budget planning\n- Reading list https://t.co/WYK0mgxUlt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/guGB8MKxzH",
+					"expanded_url": "https://notion.so/notion/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d#32d21741ea63411890471b5af3434cdf",
+					"display_url": "notion.so/notion/Notion-…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204521123628691500,
+					"id_str": "1204521123628691456",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/ELdRlIJXsAASXTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELdRlIJXsAASXTi.jpg",
+					"url": "https://t.co/WYK0mgxUlt",
+					"display_url": "pic.twitter.com/WYK0mgxUlt",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1204521129068650496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204521123628691500,
+					"id_str": "1204521123628691456",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/ELdRlIJXsAASXTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELdRlIJXsAASXTi.jpg",
+					"url": "https://t.co/WYK0mgxUlt",
+					"display_url": "pic.twitter.com/WYK0mgxUlt",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1204521129068650496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204521123628667000,
+					"id_str": "1204521123628666882",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/ELdRlIJXUAIqqSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELdRlIJXUAIqqSN.jpg",
+					"url": "https://t.co/WYK0mgxUlt",
+					"display_url": "pic.twitter.com/WYK0mgxUlt",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1204521129068650496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204521123637072000,
+					"id_str": "1204521123637071872",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/ELdRlILXkAAwp8O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELdRlILXkAAwp8O.jpg",
+					"url": "https://t.co/WYK0mgxUlt",
+					"display_url": "pic.twitter.com/WYK0mgxUlt",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1204521129068650496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1269,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204521123628630000,
+					"id_str": "1204521123628630016",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/ELdRlIJWwAARXMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELdRlIJWwAARXMq.jpg",
+					"url": "https://t.co/WYK0mgxUlt",
+					"display_url": "pic.twitter.com/WYK0mgxUlt",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1204521129068650496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 708915428454576100,
+			"id_str": "708915428454576128",
+			"name": "Notion",
+			"screen_name": "NotionHQ",
+			"location": "San Francisco, CA",
+			"description": "The all-in-one workspace — for notes, tasks, wikis, and databases.",
+			"url": "https://t.co/WJIHwuS7Sr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WJIHwuS7Sr",
+							"expanded_url": "https://notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58220,
+			"friends_count": 2882,
+			"listed_count": 781,
+			"created_at": "Sun Mar 13 07:19:43 +0000 2016",
+			"favourites_count": 19734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/708915428454576128/1548448610",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2020 is just around the corner 👀\n\nWe added a bunch of new templates to help you plan and hit your goals: https://t.co/guGB8MKxzH\n- 2019 year in review\n- 2020 bucket list\n- Habit tracker\n- Simple resolutions\n- Budget planning\n- Reading list https://t.co/WYK0mgxUlt"
+	},
+	{
 		"created_at": "Thu Dec 12 20:24:37 +0000 2019",
 		"id": 1205221940937535500,
 		"id_str": "1205221940937535488",
