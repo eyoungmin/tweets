@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 10:37:26 +0000 2019",
+		"id": 1205074171019038700,
+		"id_str": "1205074171019038721",
+		"full_text": "#내한공연 #내한\n루폴드랙레이스 내한공연 (2020.02.25 ~ 2020.02.25) at 예스24 라이브홀 (구 악스코리아)\nhttps://t.co/aJxCTblx5r\n#플레이DB #PlayDB https://t.co/ZVs07yUm19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "내한공연",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "PlayDB",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aJxCTblx5r",
+					"expanded_url": "http://www.playdb.co.kr/playdb/playdbDetail.asp?sReqPlayno=153218",
+					"display_url": "playdb.co.kr/playdb/playdbD…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205074169970466800,
+					"id_str": "1205074169970466816",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlIkqUWoAAbcxP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlIkqUWoAAbcxP.jpg",
+					"url": "https://t.co/ZVs07yUm19",
+					"display_url": "pic.twitter.com/ZVs07yUm19",
+					"expanded_url": "https://twitter.com/fromminn/status/1205074171019038721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205074169970466800,
+					"id_str": "1205074169970466816",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlIkqUWoAAbcxP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlIkqUWoAAbcxP.jpg",
+					"url": "https://t.co/ZVs07yUm19",
+					"display_url": "pic.twitter.com/ZVs07yUm19",
+					"expanded_url": "https://twitter.com/fromminn/status/1205074171019038721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 858,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#내한공연 #내한\n루폴드랙레이스 내한공연 (2020.02.25 ~ 2020.02.25) at 예스24 라이브홀 (구 악스코리아)\nhttps://t.co/aJxCTblx5r\n#플레이DB #PlayDB https://t.co/ZVs07yUm19"
+	},
+	{
 		"created_at": "Thu Dec 12 09:57:28 +0000 2019",
 		"id": 1205064114881609700,
 		"id_str": "1205064114881609729",
