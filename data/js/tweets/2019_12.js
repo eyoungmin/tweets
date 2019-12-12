@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 11:50:01 +0000 2019",
+		"id": 1205041560414376000,
+		"id_str": "1205092436831195136",
+		"full_text": "A cold night, a warm blanket, a good cup of tea, and a little @BoAkwon.\n\nThe queen of K-Pop is bringing winter vibes with #StarryNight featuring #Crush 🌌https://t.co/JFtnWxwsQY https://t.co/gWIVdgstw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StarryNight",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "Crush",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoAkwon",
+					"name": "BoA",
+					"id": 169927844,
+					"id_str": "169927844",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JFtnWxwsQY",
+					"expanded_url": "http://spoti.fi/BoA-StarryNight",
+					"display_url": "spoti.fi/BoA-StarryNight",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205041368260694000,
+					"id_str": "1205041368260694018",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205041368260694018/pu/img/DHbVYBhIQcB7Chx9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205041368260694018/pu/img/DHbVYBhIQcB7Chx9.jpg",
+					"url": "https://t.co/gWIVdgstw5",
+					"display_url": "pic.twitter.com/gWIVdgstw5",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1205041560414375942/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205041368260694000,
+					"id_str": "1205041368260694018",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205041368260694018/pu/img/DHbVYBhIQcB7Chx9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205041368260694018/pu/img/DHbVYBhIQcB7Chx9.jpg",
+					"url": "https://t.co/gWIVdgstw5",
+					"display_url": "pic.twitter.com/gWIVdgstw5",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1205041560414375942/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14147,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205041368260694018/pu/vid/640x360/oH33ui-4pVSx6VzT.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1205041368260694018/pu/pl/3vvWRMCwC8fbEohR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205041368260694018/pu/vid/480x270/Lp5y654wGc0XYBEA.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205041368260694018/pu/vid/1280x720/d1zqD62IxxiSsbMz.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112334,
+			"friends_count": 189,
+			"listed_count": 184,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108279680006709248/m7AM6Gyg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108279680006709248/m7AM6Gyg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1526972671",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 1170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A cold night, a warm blanket, a good cup of tea, and a little @BoAkwon.\n\nThe queen of K-Pop is bringing winter vibes with #StarryNight featuring #Crush 🌌https://t.co/JFtnWxwsQY https://t.co/gWIVdgstw5"
+	},
+	{
 		"created_at": "Thu Dec 12 10:37:26 +0000 2019",
 		"id": 1205074171019038700,
 		"id_str": "1205074171019038721",
