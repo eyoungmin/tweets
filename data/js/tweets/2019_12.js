@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 00:54:58 +0000 2019",
+		"id": 1204898745231368200,
+		"id_str": "1204927588545765378",
+		"full_text": "#JENNIE 'SOLO' M/V HITS 400 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n🎥 https://t.co/rAxtSggqOe\n\n#BLACKPINK #블랙핑크 #제니 #SOLO #MV #400MILLION #YOUTUBE #YG https://t.co/2cEPhDCPU4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JENNIE",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "SOLO",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "400MILLION",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						168,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rAxtSggqOe",
+					"expanded_url": "https://youtu.be/b73BI9eUkjM",
+					"display_url": "youtu.be/b73BI9eUkjM",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204898731830608000,
+					"id_str": "1204898731830607874",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ELipA0UVAAIu8cF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELipA0UVAAIu8cF.jpg",
+					"url": "https://t.co/2cEPhDCPU4",
+					"display_url": "pic.twitter.com/2cEPhDCPU4",
+					"expanded_url": "https://twitter.com/ygent_official/status/1204898745231368192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 745,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 422,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 1007,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 1007,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204898731830608000,
+					"id_str": "1204898731830607874",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ELipA0UVAAIu8cF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELipA0UVAAIu8cF.jpg",
+					"url": "https://t.co/2cEPhDCPU4",
+					"display_url": "pic.twitter.com/2cEPhDCPU4",
+					"expanded_url": "https://twitter.com/ygent_official/status/1204898745231368192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 745,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 422,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 1007,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 1007,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #LEEHI #TREASURE13",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5591482,
+			"friends_count": 42,
+			"listed_count": 7627,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6464,
+		"favorite_count": 16646,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JENNIE 'SOLO' M/V HITS 400 MILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n🎥 https://t.co/rAxtSggqOe\n\n#BLACKPINK #블랙핑크 #제니 #SOLO #MV #400MILLION #YOUTUBE #YG https://t.co/2cEPhDCPU4"
+	},
+	{
+		"created_at": "Thu Dec 12 00:54:53 +0000 2019",
+		"id": 1204920421998420000,
+		"id_str": "1204927567108755457",
+		"full_text": "레드벨벳이 2019년 음악 축제 화려한 피날레로 ‘‘The ReVe Festival’ Finale’를 12월 23일에 발매합니다!\n올 한 해 펼쳐진 음악 퍼레이드의 ‘클라이맥스’인 이번 앨범, 기대 많이 해주세요! ❤️\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						146,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1966380,
+			"friends_count": 2,
+			"listed_count": 5938,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3733,
+		"favorite_count": 7787,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "레드벨벳이 2019년 음악 축제 화려한 피날레로 ‘‘The ReVe Festival’ Finale’를 12월 23일에 발매합니다!\n올 한 해 펼쳐진 음악 퍼레이드의 ‘클라이맥스’인 이번 앨범, 기대 많이 해주세요! ❤️\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale"
+	},
+	{
 		"created_at": "Wed Dec 11 22:35:42 +0000 2019",
 		"id": 1204370643191390200,
 		"id_str": "1204892541356634112",
