@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 13:33:40 +0000 2019",
+		"id": 1205118522331824000,
+		"id_str": "1205118522331824128",
+		"full_text": "알라딘 RSS 연말에 없앤다고 함. 오류나서 안되는 저자 있어서 문의 넣었는데 없앨꺼니까 신간알리미(이메일, 전화) 구독해서 쓰라고 함. 로그인 하고 개인정보 넣고 받는 거랑 공개된 거랑 다른 건데 ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 865,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "알라딘 RSS 연말에 없앤다고 함. 오류나서 안되는 저자 있어서 문의 넣었는데 없앨꺼니까 신간알리미(이메일, 전화) 구독해서 쓰라고 함. 로그인 하고 개인정보 넣고 받는 거랑 공개된 거랑 다른 건데 ..."
+	},
+	{
 		"created_at": "Thu Dec 12 12:25:24 +0000 2019",
 		"id": 1205100547373535200,
 		"id_str": "1205101342051536896",
@@ -642,7 +739,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Thu Dec 12 12:18:01 +0000 2019",
 		"id": 1196672232983953400,
 		"id_str": "1205099483249274882",
-		"full_text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n​\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT",
+		"full_text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -860,7 +957,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n​\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT"
+		"text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT"
 	},
 	{
 		"created_at": "Thu Dec 12 12:17:53 +0000 2019",
