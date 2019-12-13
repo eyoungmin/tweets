@@ -1,6 +1,1087 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 15:23:53 +0000 2019",
+		"id": 1205259944573825000,
+		"id_str": "1205508646131486720",
+		"full_text": "Billie is @Google’s top trending pop artist of 2019. https://t.co/qfcsZlwAT0 #YearInSearch https://t.co/YmyG6aXMGH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YearInSearch",
+					"indices": [
+						77,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Google",
+					"name": "Google",
+					"id": 20536157,
+					"id_str": "20536157",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qfcsZlwAT0",
+					"expanded_url": "https://goo.gle/MusicandSports",
+					"display_url": "goo.gle/MusicandSports",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205259937955213300,
+					"id_str": "1205259937955213312",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ELnxhx_UcAAEE3E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELnxhx_UcAAEE3E.jpg",
+					"url": "https://t.co/YmyG6aXMGH",
+					"display_url": "pic.twitter.com/YmyG6aXMGH",
+					"expanded_url": "https://twitter.com/billieeilish/status/1205259944573825024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205259937955213300,
+					"id_str": "1205259937955213312",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ELnxhx_UcAAEE3E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELnxhx_UcAAEE3E.jpg",
+					"url": "https://t.co/YmyG6aXMGH",
+					"display_url": "pic.twitter.com/YmyG6aXMGH",
+					"expanded_url": "https://twitter.com/billieeilish/status/1205259944573825024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3082275,
+			"friends_count": 0,
+			"listed_count": 2546,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1499,
+		"favorite_count": 14947,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie is @Google’s top trending pop artist of 2019. https://t.co/qfcsZlwAT0 #YearInSearch https://t.co/YmyG6aXMGH"
+	},
+	{
+		"created_at": "Fri Dec 13 15:23:07 +0000 2019",
+		"id": 1205276146113249300,
+		"id_str": "1205508456116961280",
+		"full_text": "핀란드는 1907년 전체 의원 200명 가운데 19명을 ‘세계 최초의 여성 국회의원’으로 선출한 역사를 가지고 있다. ‘세계 최연소 여성 총리’는 여성과 청년이 리더로 성장할 수 있는 토양이 갖춰졌기 때문에 가능한 것이다.\nhttps://t.co/iU5vVbUooy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iU5vVbUooy",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912122102005&code=970205",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 749456,
+			"friends_count": 81160,
+			"listed_count": 6473,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "핀란드는 1907년 전체 의원 200명 가운데 19명을 ‘세계 최초의 여성 국회의원’으로 선출한 역사를 가지고 있다. ‘세계 최연소 여성 총리’는 여성과 청년이 리더로 성장할 수 있는 토양이 갖춰졌기 때문에 가능한 것이다.\nhttps://t.co/iU5vVbUooy"
+	},
+	{
+		"created_at": "Fri Dec 13 15:22:35 +0000 2019",
+		"id": 1204968725692080000,
+		"id_str": "1205508322327007232",
+		"full_text": "이런 식으로 일처리 할거면 걍 엔터 사업 접는게 낫다 인권 의식 바닥인데 무슨 사업을 해 휠체어 탄 사람들은 오지 말란거지 안그래? @STARSHIPent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STARSHIPent",
+					"name": "STARSHIP Ent.",
+					"id": 274935134,
+					"id_str": "274935134",
+					"indices": [
+						74,
+						86
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204968424163537000,
+		"in_reply_to_status_id_str": "1204968424163536898",
+		"in_reply_to_user_id": 1190180996978598000,
+		"in_reply_to_user_id_str": "1190180996978597894",
+		"in_reply_to_screen_name": "I___like__U",
+		"user": {
+			"id": 1190180996978598000,
+			"id_str": "1190180996978597894",
+			"name": "럽몽🎗",
+			"screen_name": "I___like__U",
+			"location": "몬베베",
+			"description": "2N MBB 7MX 최애 자주 바껴요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Fri Nov 01 08:17:23 +0000 2019",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1190180996978597894/1574735792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 374,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이런 식으로 일처리 할거면 걍 엔터 사업 접는게 낫다 인권 의식 바닥인데 무슨 사업을 해 휠체어 탄 사람들은 오지 말란거지 안그래? @STARSHIPent"
+	},
+	{
+		"created_at": "Fri Dec 13 15:22:32 +0000 2019",
+		"id": 1204968424163537000,
+		"id_str": "1205508307231764482",
+		"full_text": "이거는 휠체어 타고 공연 보러오지 말라는거지. 타 기획사들이 어떻게 일처리를 하는지 좀 보세요. 이렇게 주먹구구 식으로 안하니까. 휠체어석은 전화예매라고 생각하지 누가 일반 좌석 예매하고 휠체어 타고 가서 휠체어 구역으로 간다고 생각해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204968043190747100,
+		"in_reply_to_status_id_str": "1204968043190747136",
+		"in_reply_to_user_id": 1190180996978598000,
+		"in_reply_to_user_id_str": "1190180996978597894",
+		"in_reply_to_screen_name": "I___like__U",
+		"user": {
+			"id": 1190180996978598000,
+			"id_str": "1190180996978597894",
+			"name": "럽몽🎗",
+			"screen_name": "I___like__U",
+			"location": "몬베베",
+			"description": "2N MBB 7MX 최애 자주 바껴요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Fri Nov 01 08:17:23 +0000 2019",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1190180996978597894/1574735792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이거는 휠체어 타고 공연 보러오지 말라는거지. 타 기획사들이 어떻게 일처리를 하는지 좀 보세요. 이렇게 주먹구구 식으로 안하니까. 휠체어석은 전화예매라고 생각하지 누가 일반 좌석 예매하고 휠체어 타고 가서 휠체어 구역으로 간다고 생각해"
+	},
+	{
+		"created_at": "Fri Dec 13 15:22:29 +0000 2019",
+		"id": 1204968043190747100,
+		"id_str": "1205508293256339456",
+		"full_text": "그럼 일반 예매 기간 전에 미리 공지를 해줘야지. 내가 선예매 하루 전부터 계속 전화를 했는데, 멜론 티켓 쪽에선 전달 받은게 없다 했잖아 계속. 그래놓고 일반 예매 끝나고 나서 좌석은 매진인데 일반 좌석을 예매하고 휠체어를 타고 오면 휠체어 구역으로 보낸다는게 말이 된다고 생각?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204967634246066200,
+		"in_reply_to_status_id_str": "1204967634246066181",
+		"in_reply_to_user_id": 1190180996978598000,
+		"in_reply_to_user_id_str": "1190180996978597894",
+		"in_reply_to_screen_name": "I___like__U",
+		"user": {
+			"id": 1190180996978598000,
+			"id_str": "1190180996978597894",
+			"name": "럽몽🎗",
+			"screen_name": "I___like__U",
+			"location": "몬베베",
+			"description": "2N MBB 7MX 최애 자주 바껴요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Fri Nov 01 08:17:23 +0000 2019",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1190180996978597894/1574735792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그럼 일반 예매 기간 전에 미리 공지를 해줘야지. 내가 선예매 하루 전부터 계속 전화를 했는데, 멜론 티켓 쪽에선 전달 받은게 없다 했잖아 계속. 그래놓고 일반 예매 끝나고 나서 좌석은 매진인데 일반 좌석을 예매하고 휠체어를 타고 오면 휠체어 구역으로 보낸다는게 말이 된다고 생각?"
+	},
+	{
+		"created_at": "Fri Dec 13 15:22:17 +0000 2019",
+		"id": 1204967634246066200,
+		"id_str": "1205508244090716162",
+		"full_text": "그리고 오늘 전화를 했더니 기획사랑 연락을 해보고 다시 연락을 준다했다. 그리고 연락이 왔는데, 휠체어석은 전화 예매가 안된대. 일반 예매 때 좌석 예매를 하고 휠체어를 타고 오면 휠체어 구역으로 보내준대 이걸 지금 말이라고 하나?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204967183840727000,
+		"in_reply_to_status_id_str": "1204967183840727040",
+		"in_reply_to_user_id": 1190180996978598000,
+		"in_reply_to_user_id_str": "1190180996978597894",
+		"in_reply_to_screen_name": "I___like__U",
+		"user": {
+			"id": 1190180996978598000,
+			"id_str": "1190180996978597894",
+			"name": "럽몽🎗",
+			"screen_name": "I___like__U",
+			"location": "몬베베",
+			"description": "2N MBB 7MX 최애 자주 바껴요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Fri Nov 01 08:17:23 +0000 2019",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1190180996978597894/1574735792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 오늘 전화를 했더니 기획사랑 연락을 해보고 다시 연락을 준다했다. 그리고 연락이 왔는데, 휠체어석은 전화 예매가 안된대. 일반 예매 때 좌석 예매를 하고 휠체어를 타고 오면 휠체어 구역으로 보내준대 이걸 지금 말이라고 하나?"
+	},
+	{
+		"created_at": "Fri Dec 13 15:22:03 +0000 2019",
+		"id": 1204967183840727000,
+		"id_str": "1205508184623865857",
+		"full_text": "그런데 고객센터에서는 아직 지침이 내려온 것이 없다 했다. 선예매날에도 전화를 했고, 선예매 다음날에도 전화를 했는데 계속 기획사에서 내려온 말이 없다 했다. 그리고 어제인 일반 예매날에도 전화를 했더니 역시 기획사에서 지침 받은게 없대.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204966658692903000,
+		"in_reply_to_status_id_str": "1204966658692902913",
+		"in_reply_to_user_id": 1190180996978598000,
+		"in_reply_to_user_id_str": "1190180996978597894",
+		"in_reply_to_screen_name": "I___like__U",
+		"user": {
+			"id": 1190180996978598000,
+			"id_str": "1190180996978597894",
+			"name": "럽몽🎗",
+			"screen_name": "I___like__U",
+			"location": "몬베베",
+			"description": "2N MBB 7MX 최애 자주 바껴요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Fri Nov 01 08:17:23 +0000 2019",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1190180996978597894/1574735792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런데 고객센터에서는 아직 지침이 내려온 것이 없다 했다. 선예매날에도 전화를 했고, 선예매 다음날에도 전화를 했는데 계속 기획사에서 내려온 말이 없다 했다. 그리고 어제인 일반 예매날에도 전화를 했더니 역시 기획사에서 지침 받은게 없대."
+	},
+	{
+		"created_at": "Fri Dec 13 15:21:42 +0000 2019",
+		"id": 1204966658692903000,
+		"id_str": "1205508096493142017",
+		"full_text": "스타쉽에 너무 화가 나고 분해서 이 글을 적는다. 난 휠체어를 타고 다닌다 그래서 콘서트를 가거나 뮤지컬 관람을 할 때 항상 휠체어석을 이용해야 한다. 이번 팬콘 상세페이지를 보니 휠체어석 이용 안내는 고객센터에서 해준다 해서 선예매 전날부터 전화를 넣었다. https://t.co/rBA7gXJnPL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204966651495497700,
+					"id_str": "1204966651495497729",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ELjmyQyUwAE_4vA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELjmyQyUwAE_4vA.jpg",
+					"url": "https://t.co/rBA7gXJnPL",
+					"display_url": "pic.twitter.com/rBA7gXJnPL",
+					"expanded_url": "https://twitter.com/I___like__U/status/1204966658692902913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204966651495497700,
+					"id_str": "1204966651495497729",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ELjmyQyUwAE_4vA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELjmyQyUwAE_4vA.jpg",
+					"url": "https://t.co/rBA7gXJnPL",
+					"display_url": "pic.twitter.com/rBA7gXJnPL",
+					"expanded_url": "https://twitter.com/I___like__U/status/1204966658692902913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1190180996978598000,
+			"id_str": "1190180996978597894",
+			"name": "럽몽🎗",
+			"screen_name": "I___like__U",
+			"location": "몬베베",
+			"description": "2N MBB 7MX 최애 자주 바껴요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Fri Nov 01 08:17:23 +0000 2019",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205325823420461056/2bCEZ9ze_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1190180996978597894/1574735792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3886,
+		"favorite_count": 732,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "스타쉽에 너무 화가 나고 분해서 이 글을 적는다. 난 휠체어를 타고 다닌다 그래서 콘서트를 가거나 뮤지컬 관람을 할 때 항상 휠체어석을 이용해야 한다. 이번 팬콘 상세페이지를 보니 휠체어석 이용 안내는 고객센터에서 해준다 해서 선예매 전날부터 전화를 넣었다. https://t.co/rBA7gXJnPL"
+	},
+	{
+		"created_at": "Fri Dec 13 15:21:31 +0000 2019",
+		"id": 1204762762615722000,
+		"id_str": "1205508049940598784",
+		"full_text": "“나한테 성매매만 있었던 게 아니에요. 성추행, 성폭력 다 있었어요. 미투에 동참하고 싶었지만 성매매 여성들이 발언하면 운동이 꺾이게 될까 우려 됐어요. 하지만 열일곱의 나를 강간했던 가해자를 마주친 후 트라우마에 시달렸어요. 발언을 해야겠다고 생각습니다.” \nhttps://t.co/qFV0VS88cl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qFV0VS88cl",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111825001&code=960205",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 749456,
+			"friends_count": 81160,
+			"listed_count": 6473,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2069,
+		"favorite_count": 556,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“나한테 성매매만 있었던 게 아니에요. 성추행, 성폭력 다 있었어요. 미투에 동참하고 싶었지만 성매매 여성들이 발언하면 운동이 꺾이게 될까 우려 됐어요. 하지만 열일곱의 나를 강간했던 가해자를 마주친 후 트라우마에 시달렸어요. 발언을 해야겠다고 생각습니다.” \nhttps://t.co/qFV0VS88cl"
+	},
+	{
 		"created_at": "Fri Dec 13 15:19:45 +0000 2019",
 		"id": 1205443530295890000,
 		"id_str": "1205507609307959297",
@@ -1328,7 +2409,7 @@ Grailbird.data.tweets_2019_12 =
 			"user": {
 				"id": 1149739784069251100,
 				"id_str": "1149739784069251072",
-				"name": "‎(〃•ω•〃)",
+				"name": "(〃•ω•〃)",
 				"screen_name": "escapethenorth",
 				"location": "",
 				"description": "개잡덕",
@@ -2152,7 +3233,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
