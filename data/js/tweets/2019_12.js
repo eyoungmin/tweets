@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 20:41:17 +0000 2019",
+		"id": 1205396966496034800,
+		"id_str": "1205588522997927968",
+		"full_text": "[미리🎬예리크리스마스] 🎁🌲 보고만 있어도 힐링되는 #예리 의 크리스마스트리 꾸미기 인터뷰! 가장 기억에 남았던 크리스마스는 언제일까요?:)\n\n[#Interview] #Yeri #Christmas \n_\n#하이컷 #HIGHCUT #HIGHCUTSTAR #레드벨벳 #RedVelvet #김예림 #YERI #레드벨벳예리 #뉴발란스 #newbalance @RVsmtown https://t.co/4O56R8BTfb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "Interview",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "Yeri",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "Christmas",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "하이컷",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "HIGHCUT",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "HIGHCUTSTAR",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "레드벨벳예리",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "뉴발란스",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "newbalance",
+					"indices": [
+						182,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						194,
+						203
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205385475940159500,
+					"id_str": "1205385475940159488",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpl_OSU4AAVR18.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpl_OSU4AAVR18.jpg",
+					"url": "https://t.co/4O56R8BTfb",
+					"display_url": "pic.twitter.com/4O56R8BTfb",
+					"expanded_url": "https://twitter.com/highcutstar/status/1205396966496034816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205385475940159500,
+					"id_str": "1205385475940159488",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpl_OSU4AAVR18.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpl_OSU4AAVR18.jpg",
+					"url": "https://t.co/4O56R8BTfb",
+					"display_url": "pic.twitter.com/4O56R8BTfb",
+					"expanded_url": "https://twitter.com/highcutstar/status/1205396966496034816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 264931,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1205385475940159488/pl/GlKb9QesSEKJNi6C.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1205385475940159488/vid/1280x720/pUiXKzNtwQ1BSig9.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1205385475940159488/vid/640x360/_7Y8LcqX3ZGSC4kt.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1205385475940159488/vid/480x270/SnPRLZWPQl_ElAFf.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "253_yeri_interview",
+						"description": "하이컷 253호 레드벨벳 예리 인터뷰 영상",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 238020608,
+			"id_str": "238020608",
+			"name": "HIGHCUT",
+			"screen_name": "highcutstar",
+			"location": "",
+			"description": "HIGH CUT Official twitter 화보 현장의 비하인드 영상을 보고 싶다면 하이컷 유튜브에서 확인하세요.😉\nhttps://t.co/N3dmIqmyQz",
+			"url": "https://t.co/uAum4qOnQi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAum4qOnQi",
+							"expanded_url": "https://highcut.co.kr",
+							"display_url": "highcut.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/N3dmIqmyQz",
+							"expanded_url": "http://www.youtube.com/c/HIGHCUTV",
+							"display_url": "youtube.com/c/HIGHCUTV",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 127954,
+			"friends_count": 1397,
+			"listed_count": 254,
+			"created_at": "Fri Jan 14 05:06:36 +0000 2011",
+			"favourites_count": 132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDEDFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/460952387729899521/sN_VEZbl_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/460952387729899521/sN_VEZbl_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/238020608/1575415461",
+			"profile_link_color": "3A9AC7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2327,
+		"favorite_count": 3006,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[미리🎬예리크리스마스] 🎁🌲 보고만 있어도 힐링되는 #예리 의 크리스마스트리 꾸미기 인터뷰! 가장 기억에 남았던 크리스마스는 언제일까요?:)\n\n[#Interview] #Yeri #Christmas \n_\n#하이컷 #HIGHCUT #HIGHCUTSTAR #레드벨벳 #RedVelvet #김예림 #YERI #레드벨벳예리 #뉴발란스 #newbalance @RVsmtown https://t.co/4O56R8BTfb"
+	},
+	{
+		"created_at": "Fri Dec 13 20:10:20 +0000 2019",
+		"id": 1204754748869619700,
+		"id_str": "1205580736926892032",
+		"full_text": "\"이 정도는 장난이지\", \"거봐 쟤도 괜찮다잖아~\"라는 말들이 공중파 방송에서도 폭력이 용인되는 사회를 만드는 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204754151751790600,
+		"in_reply_to_status_id_str": "1204754151751790592",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75187,
+			"friends_count": 205,
+			"listed_count": 581,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204471981254426624/8z-QAPEL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204471981254426624/8z-QAPEL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 521,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"이 정도는 장난이지\", \"거봐 쟤도 괜찮다잖아~\"라는 말들이 공중파 방송에서도 폭력이 용인되는 사회를 만드는 것"
+	},
+	{
+		"created_at": "Fri Dec 13 20:10:15 +0000 2019",
+		"id": 1204754151751790600,
+		"id_str": "1205580713434595328",
+		"full_text": "아이들은 장난과 잘못을 구분하기 어렵거나 또래집단의 압력 때문에 문제 제기가 어려울 때가 많다. 그래서 아이들에게 폭력에 대한 민감성을 높이는 교육을 하고 상황이 어려울 경우 교사나 양육자 같은 어른에게 상담하도록 하는데 어른들이 엄연한 폭력에 대해 저건 장난이지~ 하고 있으면 안되는것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204752411434328000,
+		"in_reply_to_status_id_str": "1204752411434328064",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75187,
+			"friends_count": 205,
+			"listed_count": 581,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204471981254426624/8z-QAPEL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204471981254426624/8z-QAPEL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 557,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아이들은 장난과 잘못을 구분하기 어렵거나 또래집단의 압력 때문에 문제 제기가 어려울 때가 많다. 그래서 아이들에게 폭력에 대한 민감성을 높이는 교육을 하고 상황이 어려울 경우 교사나 양육자 같은 어른에게 상담하도록 하는데 어른들이 엄연한 폭력에 대해 저건 장난이지~ 하고 있으면 안되는것"
+	},
+	{
+		"created_at": "Fri Dec 13 20:10:12 +0000 2019",
+		"id": 1204752411434328000,
+		"id_str": "1205580702902673408",
+		"full_text": "또 성적 괴롭힘을 당한 십대들(특히 여학생)의 다수가 매우 괴로웠다고 응답하면서도 \"장난이었을 것. 별 뜻 없었을 것\"이라고 넘기려 애쓰는 모습을 보이는데. 엄연한 폭력을 장난이라며 피해자를 예민하다 내모는 사회가 여기에 일조한 것이겠고, 이런 현상이 폭력을 계속해서 정당화함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204751189163815000,
+		"in_reply_to_status_id_str": "1204751189163814912",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75187,
+			"friends_count": 205,
+			"listed_count": 581,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204471981254426624/8z-QAPEL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204471981254426624/8z-QAPEL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 809,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "또 성적 괴롭힘을 당한 십대들(특히 여학생)의 다수가 매우 괴로웠다고 응답하면서도 \"장난이었을 것. 별 뜻 없었을 것\"이라고 넘기려 애쓰는 모습을 보이는데. 엄연한 폭력을 장난이라며 피해자를 예민하다 내모는 사회가 여기에 일조한 것이겠고, 이런 현상이 폭력을 계속해서 정당화함"
+	},
+	{
 		"created_at": "Fri Dec 13 19:34:14 +0000 2019",
 		"id": 1205571649992454100,
 		"id_str": "1205571649992454144",
