@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 17:54:53 +0000 2019",
+		"id": 1205086768141226000,
+		"id_str": "1205546645980614658",
+		"full_text": "【ADOY】\n韓国のドリーミングシンセポップバンド「ADOY」1stアルバム\"VIVID\"パッケージ　本日入荷しました！！！\nPool⇒　https://t.co/Q5UAvdYKbN\nLemon⇒https://t.co/L0wk0ev0S3\n\n#ADOY \n#タワ渋kpop \n@ADOYband https://t.co/FbYbXLYyJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "タワ渋kpop",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q5UAvdYKbN",
+					"expanded_url": "https://youtube.com/watch?v=p4wOzD5JkG8#action=share",
+					"display_url": "youtube.com/watch?v=p4wOzD…",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/L0wk0ev0S3",
+					"expanded_url": "https://youtube.com/watch?v=kjEzYfT3iic",
+					"display_url": "youtube.com/watch?v=kjEzYf…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205086763422601200,
+					"id_str": "1205086763422601217",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlUBslUUAEwOAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlUBslUUAEwOAE.jpg",
+					"url": "https://t.co/FbYbXLYyJZ",
+					"display_url": "pic.twitter.com/FbYbXLYyJZ",
+					"expanded_url": "https://twitter.com/TOWER_Shibuya/status/1205086768141225989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 96,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 96,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 96,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 96,
+									"h": 117,
+									"w": 117
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205086763422601200,
+					"id_str": "1205086763422601217",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlUBslUUAEwOAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlUBslUUAEwOAE.jpg",
+					"url": "https://t.co/FbYbXLYyJZ",
+					"display_url": "pic.twitter.com/FbYbXLYyJZ",
+					"expanded_url": "https://twitter.com/TOWER_Shibuya/status/1205086768141225989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 96,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 96,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 96,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 96,
+									"h": 117,
+									"w": 117
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118922920,
+			"id_str": "118922920",
+			"name": "タワーレコード渋谷店",
+			"screen_name": "TOWER_Shibuya",
+			"location": "東京都渋谷区神南1-22-14",
+			"description": "「360°エンターテイメント・ストア」をテーマに、毎日何かが起きている渋谷店の「イマ」をつぶやきます！\n☆営業時間：10:00～23:00  ☆instagram⇒https://t.co/34qi133noR",
+			"url": "https://t.co/r2TPQpde9o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r2TPQpde9o",
+							"expanded_url": "http://towershibuya.jp/",
+							"display_url": "towershibuya.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/34qi133noR",
+							"expanded_url": "https://www.instagram.com/tower_shibuya/",
+							"display_url": "instagram.com/tower_shibuya/",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 221433,
+			"friends_count": 43321,
+			"listed_count": 2959,
+			"created_at": "Tue Mar 02 03:34:41 +0000 2010",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 204922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFDB0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197700464487231488/1fMntL1o_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197700464487231488/1fMntL1o_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118922920/1569896482",
+			"profile_link_color": "CD0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "676767",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【ADOY】\n韓国のドリーミングシンセポップバンド「ADOY」1stアルバム\"VIVID\"パッケージ　本日入荷しました！！！\nPool⇒　https://t.co/Q5UAvdYKbN\nLemon⇒https://t.co/L0wk0ev0S3\n\n#ADOY \n#タワ渋kpop \n@ADOYband https://t.co/FbYbXLYyJZ"
+	},
+	{
 		"created_at": "Fri Dec 13 16:11:25 +0000 2019",
 		"id": 1205520611092521000,
 		"id_str": "1205520611092520960",
