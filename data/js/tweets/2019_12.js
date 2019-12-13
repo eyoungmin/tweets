@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 18:32:10 +0000 2019",
+		"id": 1205024485360853000,
+		"id_str": "1205556029640986624",
+		"full_text": "5·18 관련 단체들이 12일 쇠창살 안에 갇힌 채 포승줄에 묶인 전두환의 동상을 서울 종로구 광화문 광장에 설치했습니다. \n\nhttps://t.co/d7LgKzh2fi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7LgKzh2fi",
+					"expanded_url": "http://www.hankookilbo.com/News/Npath/201912121453764592?did=tw",
+					"display_url": "hankookilbo.com/News/Npath/201…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134371459,
+			"id_str": "134371459",
+			"name": "한국일보",
+			"screen_name": "hankookilbo",
+			"location": "Seoul,KOREA",
+			"description": "세상을 보는 균형, 한국일보 공식 트위터입니다. 한국일보가 여러분에게 눈과 귀를 열고 있습니다. 제보 02)724-2114 \nhkilbo@hankookilbo.com  https://t.co/bUvgBdr41j",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bUvgBdr41j",
+							"expanded_url": "http://www.facebook.com/hkilbo",
+							"display_url": "facebook.com/hkilbo",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 171947,
+			"friends_count": 44682,
+			"listed_count": 2582,
+			"created_at": "Sun Apr 18 06:43:33 +0000 2010",
+			"favourites_count": 856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134371459/1439279203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1550,
+		"favorite_count": 419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5·18 관련 단체들이 12일 쇠창살 안에 갇힌 채 포승줄에 묶인 전두환의 동상을 서울 종로구 광화문 광장에 설치했습니다. \n\nhttps://t.co/d7LgKzh2fi"
+	},
+	{
+		"created_at": "Fri Dec 13 18:32:02 +0000 2019",
+		"id": 1205381841445769200,
+		"id_str": "1205555997621665792",
+		"full_text": "미국과 영국은 임신·출산으로 인한 학업중단 상황을 질병으로 인한 학업중단 상황과 동일하게 취급해 출석으로 인정하거나 휴학이 가능하도록 한다. 대만도 2007년 9월부터 학생에게 출산 휴가제를 시행하고 있다.\n\nhttps://t.co/6tdc7pU1IL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6tdc7pU1IL",
+					"expanded_url": "https://news.khan.kr/rvzm",
+					"display_url": "news.khan.kr/rvzm",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 749456,
+			"friends_count": 81161,
+			"listed_count": 6472,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 421,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국과 영국은 임신·출산으로 인한 학업중단 상황을 질병으로 인한 학업중단 상황과 동일하게 취급해 출석으로 인정하거나 휴학이 가능하도록 한다. 대만도 2007년 9월부터 학생에게 출산 휴가제를 시행하고 있다.\n\nhttps://t.co/6tdc7pU1IL"
+	},
+	{
+		"created_at": "Fri Dec 13 18:31:56 +0000 2019",
+		"id": 1204898843361300500,
+		"id_str": "1205555969939234817",
+		"full_text": "유튜브가 타인을 모욕하는 콘텐츠 게시를 금지하기로 했습니다. #KBS뉴스 #KBS https://t.co/PlgPgoefom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS뉴스",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						41,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PlgPgoefom",
+					"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=4341544",
+					"display_url": "news.kbs.co.kr/news/view.do?n…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 410742,
+			"friends_count": 111039,
+			"listed_count": 4878,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1574642003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4794,
+		"favorite_count": 2074,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유튜브가 타인을 모욕하는 콘텐츠 게시를 금지하기로 했습니다. #KBS뉴스 #KBS https://t.co/PlgPgoefom"
+	},
+	{
+		"created_at": "Fri Dec 13 18:31:51 +0000 2019",
+		"id": 1205306342761783300,
+		"id_str": "1205555950779654144",
+		"full_text": "핀란드에서 여성 의원 산나 마린이 역대 최연소 총리로 선출됐습니다. 한국엔 언제쯤 이런 날이 올 수 있을까요.\n\nhttps://t.co/KaUDzCMYiP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KaUDzCMYiP",
+					"expanded_url": "http://www.hankookilbo.com/News/Npath/201912121876320064?did=tw",
+					"display_url": "hankookilbo.com/News/Npath/201…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134371459,
+			"id_str": "134371459",
+			"name": "한국일보",
+			"screen_name": "hankookilbo",
+			"location": "Seoul,KOREA",
+			"description": "세상을 보는 균형, 한국일보 공식 트위터입니다. 한국일보가 여러분에게 눈과 귀를 열고 있습니다. 제보 02)724-2114 \nhkilbo@hankookilbo.com  https://t.co/bUvgBdr41j",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bUvgBdr41j",
+							"expanded_url": "http://www.facebook.com/hkilbo",
+							"display_url": "facebook.com/hkilbo",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 171947,
+			"friends_count": 44682,
+			"listed_count": 2582,
+			"created_at": "Sun Apr 18 06:43:33 +0000 2010",
+			"favourites_count": 856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134371459/1439279203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "핀란드에서 여성 의원 산나 마린이 역대 최연소 총리로 선출됐습니다. 한국엔 언제쯤 이런 날이 올 수 있을까요.\n\nhttps://t.co/KaUDzCMYiP"
+	},
+	{
 		"created_at": "Fri Dec 13 17:54:53 +0000 2019",
 		"id": 1205086768141226000,
 		"id_str": "1205546645980614658",
