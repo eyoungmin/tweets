@@ -1,6 +1,2431 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 15:19:45 +0000 2019",
+		"id": 1205443530295890000,
+		"id_str": "1205507609307959297",
+		"full_text": "한 20대 여성이 석 달 동안 밤마다 창문으로 자신을 훔쳐본 남자를 경찰에 신고했지만 '죄가 없다'는 답변만 돌아왔습니다. https://t.co/7IhyRdub3q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205441044751405000,
+					"id_str": "1205441044751405056",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqX-xuUUAAMI8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqX-xuUUAAMI8i.jpg",
+					"url": "https://t.co/7IhyRdub3q",
+					"display_url": "pic.twitter.com/7IhyRdub3q",
+					"expanded_url": "https://twitter.com/mbcnews/status/1205443530295889920/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205441044751405000,
+					"id_str": "1205441044751405056",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqX-xuUUAAMI8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqX-xuUUAAMI8i.jpg",
+					"url": "https://t.co/7IhyRdub3q",
+					"display_url": "pic.twitter.com/7IhyRdub3q",
+					"expanded_url": "https://twitter.com/mbcnews/status/1205443530295889920/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 122250,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1205441044751405056/pl/vNNNt5IE-PPzSWFU.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1205441044751405056/vid/480x272/XTtYt0qYFevIskD6.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "3달간 훔쳐본 '창 밖의 남자'…문 안 열었으니 무죄?",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://imnews.imbc.com/replay/2019/nwdesk/article/5639831_24634.html?menuid=nwdesk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384986,
+			"friends_count": 151037,
+			"listed_count": 3687,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4485,
+		"favorite_count": 589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 20대 여성이 석 달 동안 밤마다 창문으로 자신을 훔쳐본 남자를 경찰에 신고했지만 '죄가 없다'는 답변만 돌아왔습니다. https://t.co/7IhyRdub3q"
+	},
+	{
+		"created_at": "Fri Dec 13 15:18:51 +0000 2019",
+		"id": 1205507379543937000,
+		"id_str": "1205507379543937025",
+		"full_text": "브런치는 카카오 로그인으로 방식 바뀐다고 함. 로그인 채널 합치면 좋다고 홍보하지만 사실 불편함이 더 많은 방식이다. 글쓰기 플랫폼이지만 다른 면에서 매력적이지 못한 서비스.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 866,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "브런치는 카카오 로그인으로 방식 바뀐다고 함. 로그인 채널 합치면 좋다고 홍보하지만 사실 불편함이 더 많은 방식이다. 글쓰기 플랫폼이지만 다른 면에서 매력적이지 못한 서비스."
+	},
+	{
+		"created_at": "Fri Dec 13 15:14:06 +0000 2019",
+		"id": 1205333105831108600,
+		"id_str": "1205506186130276352",
+		"full_text": "\"수정이만큼 착하고 겸손하고 인간적이고 건강한 친구가 없다.\" https://t.co/7ukOQLsJmw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205333095043362800,
+					"id_str": "1205333095043362816",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/ELo0EFYU8AAC8ni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELo0EFYU8AAC8ni.jpg",
+					"url": "https://t.co/7ukOQLsJmw",
+					"display_url": "pic.twitter.com/7ukOQLsJmw",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1205333105831108608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 731,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 809,
+							"h": 731,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205333095043362800,
+					"id_str": "1205333095043362816",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/ELo0EFYU8AAC8ni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELo0EFYU8AAC8ni.jpg",
+					"url": "https://t.co/7ukOQLsJmw",
+					"display_url": "pic.twitter.com/7ukOQLsJmw",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1205333105831108608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 731,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 809,
+							"h": 731,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205333095039156200,
+					"id_str": "1205333095039156224",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/ELo0EFXUwAA52jc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELo0EFXUwAA52jc.jpg",
+					"url": "https://t.co/7ukOQLsJmw",
+					"display_url": "pic.twitter.com/7ukOQLsJmw",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1205333105831108608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1106,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3308936688,
+			"id_str": "3308936688",
+			"name": "수정이 저장소",
+			"screen_name": "saveKRYSTAL",
+			"location": "",
+			"description": "𝐦𝐲 𝐨𝐧𝐞 𝐚𝐧𝐝 𝐨𝐧𝐥𝐲 𝐣𝐮𝐧𝐠𝐬𝐨𝐨𝐣𝐮𝐧𝐠",
+			"url": "https://t.co/cLkBsX6961",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cLkBsX6961",
+							"expanded_url": "http://Instagram.com/vousmevoyez",
+							"display_url": "Instagram.com/vousmevoyez",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43937,
+			"friends_count": 0,
+			"listed_count": 1158,
+			"created_at": "Fri Aug 07 18:18:52 +0000 2015",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195285000741982209/EcxBmLRE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195285000741982209/EcxBmLRE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308936688/1570248590",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 206,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"수정이만큼 착하고 겸손하고 인간적이고 건강한 친구가 없다.\" https://t.co/7ukOQLsJmw"
+	},
+	{
+		"created_at": "Fri Dec 13 15:13:13 +0000 2019",
+		"id": 1205125286137716700,
+		"id_str": "1205505964301934592",
+		"full_text": "어제 라스인데,\n전진: 남자는 아기예요.\n\n아… 남자나 여자나 똑같이 나이 먹는데 왜 남자는 아기예요? 아기면 유치원 가야지, 왜 회사 다녀요? 왜 딸 같다는 소리를 하면서 성범죄 해요? 손발눈귀 다 똑같이 있고 같은 성인인데 성인으로서 의무를 져야지, 왜 자기 가정에서 엄마를 찾아요? https://t.co/UoxOhJ6qyd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205125277505863700,
+					"id_str": "1205125277505863682",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ELl3DguUwAIgW_V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELl3DguUwAIgW_V.jpg",
+					"url": "https://t.co/UoxOhJ6qyd",
+					"display_url": "pic.twitter.com/UoxOhJ6qyd",
+					"expanded_url": "https://twitter.com/milmilmilk_/status/1205125286137716736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 477,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 633,
+									"y": 176,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 915,
+									"y": 185,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 401,
+									"y": 155,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 477,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 633,
+									"y": 176,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 915,
+									"y": 185,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 401,
+									"y": 155,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 285,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 378,
+									"y": 105,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 547,
+									"y": 110,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 240,
+									"y": 92,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 477,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 633,
+									"y": 176,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 915,
+									"y": 185,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 401,
+									"y": 155,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205125277505863700,
+					"id_str": "1205125277505863682",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ELl3DguUwAIgW_V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELl3DguUwAIgW_V.jpg",
+					"url": "https://t.co/UoxOhJ6qyd",
+					"display_url": "pic.twitter.com/UoxOhJ6qyd",
+					"expanded_url": "https://twitter.com/milmilmilk_/status/1205125286137716736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 477,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 633,
+									"y": 176,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 915,
+									"y": 185,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 401,
+									"y": 155,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 477,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 633,
+									"y": 176,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 915,
+									"y": 185,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 401,
+									"y": 155,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 285,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 378,
+									"y": 105,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 547,
+									"y": 110,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 240,
+									"y": 92,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 477,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 633,
+									"y": 176,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 915,
+									"y": 185,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 401,
+									"y": 155,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133664120,
+			"id_str": "133664120",
+			"name": "@J",
+			"screen_name": "milmilmilk_",
+			"location": "어디로 갈까요…",
+			"description": "☀, 🌒,⭐ , 보노보노카드캡터 스펀지송,🍦,🍫, 냉면, 키위, 🍅🍑🍊🍋. -들을 참 좋아합니다~📌여혐 혹은 약자 조롱시 차단합니다. 체인블락 미사용.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1641,
+			"friends_count": 5000,
+			"listed_count": 36,
+			"created_at": "Fri Apr 16 09:56:39 +0000 2010",
+			"favourites_count": 13953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775720146627211265/NP101K6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775720146627211265/NP101K6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133664120/1569733699",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FAE8B1",
+			"profile_sidebar_fill_color": "EDECDF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4545,
+		"favorite_count": 1394,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제 라스인데,\n전진: 남자는 아기예요.\n\n아… 남자나 여자나 똑같이 나이 먹는데 왜 남자는 아기예요? 아기면 유치원 가야지, 왜 회사 다녀요? 왜 딸 같다는 소리를 하면서 성범죄 해요? 손발눈귀 다 똑같이 있고 같은 성인인데 성인으로서 의무를 져야지, 왜 자기 가정에서 엄마를 찾아요? https://t.co/UoxOhJ6qyd"
+	},
+	{
+		"created_at": "Fri Dec 13 15:11:57 +0000 2019",
+		"id": 1205125497098604500,
+		"id_str": "1205505643576098816",
+		"full_text": "경찰 조사에선 팔을 이렇게 휘둘렀다고 하는데 왜 지금은 팔이 왜 이만큼 갔냐, 왼손으로 만졌다 하지만 이 자세라면 왼손을 쓰기 힘들 텐데 의심스럽다부터 기억이 또렷하면 또렷한 대로 흐릿하면 흐릿한 대로 공격받습니다. 대다수 성폭력에서 증거불충분 불기소나 무죄가 나오는 것도 이 때문이죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1205124126555299800,
+		"in_reply_to_status_id_str": "1205124126555299840",
+		"in_reply_to_user_id": 979315994500857900,
+		"in_reply_to_user_id_str": "979315994500857856",
+		"in_reply_to_screen_name": "csc_2019",
+		"user": {
+			"id": 979315994500857900,
+			"id_str": "979315994500857856",
+			"name": "만화계성폭력대책위원회",
+			"screen_name": "csc_2019",
+			"location": "",
+			"description": "만화계 성폭력·성차별 근절에 행동합니다.\n문의 및 도움이 필요하시면 언제든지 DM 주세요.\n▼사건 제보 및 상담 오픈채팅\nhttps://t.co/tZJeDge8CW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tZJeDge8CW",
+							"expanded_url": "http://open.kakao.com/o/sgPbhCIb",
+							"display_url": "open.kakao.com/o/sgPbhCIb",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 798,
+			"friends_count": 38,
+			"listed_count": 4,
+			"created_at": "Thu Mar 29 11:15:02 +0000 2018",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979315994500857856/1573397777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 575,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "경찰 조사에선 팔을 이렇게 휘둘렀다고 하는데 왜 지금은 팔이 왜 이만큼 갔냐, 왼손으로 만졌다 하지만 이 자세라면 왼손을 쓰기 힘들 텐데 의심스럽다부터 기억이 또렷하면 또렷한 대로 흐릿하면 흐릿한 대로 공격받습니다. 대다수 성폭력에서 증거불충분 불기소나 무죄가 나오는 것도 이 때문이죠."
+	},
+	{
+		"created_at": "Fri Dec 13 15:11:52 +0000 2019",
+		"id": 1205124126555299800,
+		"id_str": "1205505622617116672",
+		"full_text": "피해자가 '당했어요'하면 유죄받는 줄 아는 멍청한 인간들이 아직도 있군요.\n\n피해자는 법원에서까지 진술조사를 수십번 반복합니다. 약간의 상식적 틈이라도 보이면 전문 변호사에게 맹공격을 받죠. 폭행이 있었을 경우는 맞은 숫자와 때리는 속도ㆍ몇분 몇초인지도 물어보는 경우가 있습니다. https://t.co/mXrbD4iCRj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mXrbD4iCRj",
+					"expanded_url": "https://twitter.com/escapethenorth/status/1204976135764709376",
+					"display_url": "twitter.com/escapethenorth…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 979315994500857900,
+			"id_str": "979315994500857856",
+			"name": "만화계성폭력대책위원회",
+			"screen_name": "csc_2019",
+			"location": "",
+			"description": "만화계 성폭력·성차별 근절에 행동합니다.\n문의 및 도움이 필요하시면 언제든지 DM 주세요.\n▼사건 제보 및 상담 오픈채팅\nhttps://t.co/tZJeDge8CW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tZJeDge8CW",
+							"expanded_url": "http://open.kakao.com/o/sgPbhCIb",
+							"display_url": "open.kakao.com/o/sgPbhCIb",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 798,
+			"friends_count": 38,
+			"listed_count": 4,
+			"created_at": "Thu Mar 29 11:15:02 +0000 2018",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979315994500857856/1573397777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204976135764709400,
+		"quoted_status_id_str": "1204976135764709376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mXrbD4iCRj",
+			"expanded": "https://twitter.com/escapethenorth/status/1204976135764709376",
+			"display": "twitter.com/escapethenorth…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 12 04:07:52 +0000 2019",
+			"id": 1204976135764709400,
+			"id_str": "1204976135764709376",
+			"full_text": "성추행에 폭행까지 당하게생김 ㄷ ㄷ https://t.co/dp9fuN9RTt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				19
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1204976117787947000,
+						"id_str": "1204976117787947008",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/ELjvZReUcAA4MKY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELjvZReUcAA4MKY.jpg",
+						"url": "https://t.co/dp9fuN9RTt",
+						"display_url": "pic.twitter.com/dp9fuN9RTt",
+						"expanded_url": "https://twitter.com/escapethenorth/status/1204976135764709376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 583,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 551,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 583,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1204976117787947000,
+						"id_str": "1204976117787947008",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/ELjvZReUcAA4MKY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELjvZReUcAA4MKY.jpg",
+						"url": "https://t.co/dp9fuN9RTt",
+						"display_url": "pic.twitter.com/dp9fuN9RTt",
+						"expanded_url": "https://twitter.com/escapethenorth/status/1204976135764709376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 583,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 551,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 583,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1204976117787967500,
+						"id_str": "1204976117787967488",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/ELjvZReUwAAMK_Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELjvZReUwAAMK_Y.jpg",
+						"url": "https://t.co/dp9fuN9RTt",
+						"display_url": "pic.twitter.com/dp9fuN9RTt",
+						"expanded_url": "https://twitter.com/escapethenorth/status/1204976135764709376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 144,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 152,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 152,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1149739784069251100,
+				"id_str": "1149739784069251072",
+				"name": "‎(〃•ω•〃)",
+				"screen_name": "escapethenorth",
+				"location": "",
+				"description": "개잡덕",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6,
+				"friends_count": 79,
+				"listed_count": 0,
+				"created_at": "Fri Jul 12 17:58:20 +0000 2019",
+				"favourites_count": 617,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4859,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1181416835498921985/JXU19wya_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181416835498921985/JXU19wya_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 119,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2668,
+		"favorite_count": 510,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "피해자가 '당했어요'하면 유죄받는 줄 아는 멍청한 인간들이 아직도 있군요.\n\n피해자는 법원에서까지 진술조사를 수십번 반복합니다. 약간의 상식적 틈이라도 보이면 전문 변호사에게 맹공격을 받죠. 폭행이 있었을 경우는 맞은 숫자와 때리는 속도ㆍ몇분 몇초인지도 물어보는 경우가 있습니다. https://t.co/mXrbD4iCRj"
+	},
+	{
+		"created_at": "Fri Dec 13 15:10:54 +0000 2019",
+		"id": 1205350470924951600,
+		"id_str": "1205505379271970822",
+		"full_text": "정말이지 실망스럽다. 흥행 이전에 인권이 먼저다. 자폐인에 대한 '착한' 낙인을 강화하는 콘텐츠를 유통해서 우리가 마주하는 것은 그만큼 더 공고해진 대상화와 차별의 세계다. https://t.co/v5ODhxlRNi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v5ODhxlRNi",
+					"expanded_url": "https://twitter.com/kujimiedao_/status/1205271879113568256",
+					"display_url": "twitter.com/kujimiedao_/st…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 795883266167304200,
+			"id_str": "795883266167304192",
+			"name": "생각많은둘째언니",
+			"screen_name": "Serious_Sister2",
+			"location": "대한민국 서울",
+			"description": "도대체 이해 안 가는 세상을 그래도 이해해보고자 노력하는 둘째언니.",
+			"url": "https://t.co/zXPYYsu6DR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zXPYYsu6DR",
+							"expanded_url": "https://www.youtube.com/channel/UCGdB-lgTS2sOhJIxgP550qw",
+							"display_url": "youtube.com/channel/UCGdB-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14182,
+			"friends_count": 3468,
+			"listed_count": 39,
+			"created_at": "Tue Nov 08 06:58:52 +0000 2016",
+			"favourites_count": 3037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/795883266167304192/1478589358",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1205271879113568300,
+		"quoted_status_id_str": "1205271879113568256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v5ODhxlRNi",
+			"expanded": "https://twitter.com/kujimiedao_/status/1205271879113568256",
+			"display": "twitter.com/kujimiedao_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 12 23:43:03 +0000 2019",
+			"id": 1205271879113568300,
+			"id_str": "1205271879113568256",
+			"full_text": "이미 여러 사람에 의해, 펭수가 자폐아를 닮았다는 논지의 이 글은 그 부적절함을 지적받은 적 있다. 그러나 브런치는 오늘 아침 카카오톡을 통해 해당 글을 대대적으로 홍보했다. 게시글이 불러온 논란과 논의의 흐름을 전혀 고려하지 않는 부주의함과 무례함의 결과이지 싶다. https://t.co/UdkkGQTp5e",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1205271873895850000,
+						"id_str": "1205271873895849985",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/ELn8Yi1U4AEAeWZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELn8Yi1U4AEAeWZ.jpg",
+						"url": "https://t.co/UdkkGQTp5e",
+						"display_url": "pic.twitter.com/UdkkGQTp5e",
+						"expanded_url": "https://twitter.com/kujimiedao_/status/1205271879113568256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 394,
+								"h": 852,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 394,
+								"h": 852,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 8,
+										"y": 612,
+										"h": 30,
+										"w": 30
+									},
+									{
+										"x": 46,
+										"y": 279,
+										"h": 45,
+										"w": 45
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 11,
+										"y": 768,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 58,
+										"y": 351,
+										"h": 57,
+										"w": 57
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 11,
+										"y": 768,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 58,
+										"y": 351,
+										"h": 57,
+										"w": 57
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 11,
+										"y": 768,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 58,
+										"y": 351,
+										"h": 57,
+										"w": 57
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1205271873895850000,
+						"id_str": "1205271873895849985",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/ELn8Yi1U4AEAeWZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELn8Yi1U4AEAeWZ.jpg",
+						"url": "https://t.co/UdkkGQTp5e",
+						"display_url": "pic.twitter.com/UdkkGQTp5e",
+						"expanded_url": "https://twitter.com/kujimiedao_/status/1205271879113568256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 394,
+								"h": 852,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 394,
+								"h": 852,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 8,
+										"y": 612,
+										"h": 30,
+										"w": 30
+									},
+									{
+										"x": 46,
+										"y": 279,
+										"h": 45,
+										"w": 45
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 11,
+										"y": 768,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 58,
+										"y": 351,
+										"h": 57,
+										"w": 57
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 11,
+										"y": 768,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 58,
+										"y": 351,
+										"h": 57,
+										"w": 57
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 11,
+										"y": 768,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 58,
+										"y": 351,
+										"h": 57,
+										"w": 57
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1578009662,
+				"id_str": "1578009662",
+				"name": "무무🇭🇰😷",
+				"screen_name": "kujimiedao_",
+				"location": "행간",
+				"description": "길을 잃은 N년차 편집자",
+				"url": "https://t.co/ZESM5E2Y9a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZESM5E2Y9a",
+								"expanded_url": "https://ask.fm/",
+								"display_url": "ask.fm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 376,
+				"friends_count": 356,
+				"listed_count": 5,
+				"created_at": "Mon Jul 08 15:59:12 +0000 2013",
+				"favourites_count": 270,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 589,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171564332779331584/171Jz6vI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171564332779331584/171Jz6vI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1578009662/1455892367",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 443,
+			"favorite_count": 106,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1529,
+		"favorite_count": 494,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정말이지 실망스럽다. 흥행 이전에 인권이 먼저다. 자폐인에 대한 '착한' 낙인을 강화하는 콘텐츠를 유통해서 우리가 마주하는 것은 그만큼 더 공고해진 대상화와 차별의 세계다. https://t.co/v5ODhxlRNi"
+	},
+	{
+		"created_at": "Fri Dec 13 15:10:43 +0000 2019",
+		"id": 1205271879113568300,
+		"id_str": "1205505333411471360",
+		"full_text": "이미 여러 사람에 의해, 펭수가 자폐아를 닮았다는 논지의 이 글은 그 부적절함을 지적받은 적 있다. 그러나 브런치는 오늘 아침 카카오톡을 통해 해당 글을 대대적으로 홍보했다. 게시글이 불러온 논란과 논의의 흐름을 전혀 고려하지 않는 부주의함과 무례함의 결과이지 싶다. https://t.co/UdkkGQTp5e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205271873895850000,
+					"id_str": "1205271873895849985",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ELn8Yi1U4AEAeWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELn8Yi1U4AEAeWZ.jpg",
+					"url": "https://t.co/UdkkGQTp5e",
+					"display_url": "pic.twitter.com/UdkkGQTp5e",
+					"expanded_url": "https://twitter.com/kujimiedao_/status/1205271879113568256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 394,
+							"h": 852,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 8,
+									"y": 612,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 46,
+									"y": 279,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 768,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 58,
+									"y": 351,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 768,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 58,
+									"y": 351,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 768,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 58,
+									"y": 351,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205271873895850000,
+					"id_str": "1205271873895849985",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ELn8Yi1U4AEAeWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELn8Yi1U4AEAeWZ.jpg",
+					"url": "https://t.co/UdkkGQTp5e",
+					"display_url": "pic.twitter.com/UdkkGQTp5e",
+					"expanded_url": "https://twitter.com/kujimiedao_/status/1205271879113568256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 394,
+							"h": 852,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 8,
+									"y": 612,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 46,
+									"y": 279,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 768,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 58,
+									"y": 351,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 768,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 58,
+									"y": 351,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 768,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 58,
+									"y": 351,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1578009662,
+			"id_str": "1578009662",
+			"name": "무무🇭🇰😷",
+			"screen_name": "kujimiedao_",
+			"location": "행간",
+			"description": "길을 잃은 N년차 편집자",
+			"url": "https://t.co/ZESM5E2Y9a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZESM5E2Y9a",
+							"expanded_url": "https://ask.fm/",
+							"display_url": "ask.fm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376,
+			"friends_count": 356,
+			"listed_count": 5,
+			"created_at": "Mon Jul 08 15:59:12 +0000 2013",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171564332779331584/171Jz6vI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171564332779331584/171Jz6vI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1578009662/1455892367",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 443,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이미 여러 사람에 의해, 펭수가 자폐아를 닮았다는 논지의 이 글은 그 부적절함을 지적받은 적 있다. 그러나 브런치는 오늘 아침 카카오톡을 통해 해당 글을 대대적으로 홍보했다. 게시글이 불러온 논란과 논의의 흐름을 전혀 고려하지 않는 부주의함과 무례함의 결과이지 싶다. https://t.co/UdkkGQTp5e"
+	},
+	{
+		"created_at": "Fri Dec 13 15:09:42 +0000 2019",
+		"id": 1205443524369375200,
+		"id_str": "1205505076984348677",
+		"full_text": "rt) 지금이야 양준일을 받아 들이지 못한 시대를 욕하지만 그 시대에 트위터가 있었다면 똑같이 양준일을 불링하고 있었을 것. 다르고 튀는 것에 대한 혐오 표현은 오히려 그때보다 지금이 더 노골적이고 심한 것 같다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5025,
+			"friends_count": 1156,
+			"listed_count": 94,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 6317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "rt) 지금이야 양준일을 받아 들이지 못한 시대를 욕하지만 그 시대에 트위터가 있었다면 똑같이 양준일을 불링하고 있었을 것. 다르고 튀는 것에 대한 혐오 표현은 오히려 그때보다 지금이 더 노골적이고 심한 것 같다."
+	},
+	{
+		"created_at": "Fri Dec 13 15:08:31 +0000 2019",
+		"id": 1205442189989335000,
+		"id_str": "1205504779977289728",
+		"full_text": "인터뷰를 제안한 잡지사에 인터뷰 페이를 요청했더니 이런 메세지와 인터뷰 제안을 철회하겠다는 대답을 들었다. 인터뷰 노동에 페이가 없는데 어째서 무료노동이 아닌지? 게다가 본인은 같은 노동에 참여하면서 돈을 받는(월급받는) 기자가 아닌지?? https://t.co/m5BdQKWP7T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205442179532914700,
+					"id_str": "1205442179532914688",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqXRoxVAAAm7RA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqXRoxVAAAm7RA.jpg",
+					"url": "https://t.co/m5BdQKWP7T",
+					"display_url": "pic.twitter.com/m5BdQKWP7T",
+					"expanded_url": "https://twitter.com/2lang2/status/1205442189989335043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 211,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 211,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205442179532914700,
+					"id_str": "1205442179532914688",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqXRoxVAAAm7RA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqXRoxVAAAm7RA.jpg",
+					"url": "https://t.co/m5BdQKWP7T",
+					"display_url": "pic.twitter.com/m5BdQKWP7T",
+					"expanded_url": "https://twitter.com/2lang2/status/1205442189989335043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 211,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 211,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜ Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "돈 받고 일합니다. 의뢰|문의 📧 info.langlee@gmail.com 📧 日本の仕事は info.sweetdreams@gmail.comでお願いします. STAFF @info_langlee",
+			"url": "https://t.co/bUYoYg3RHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUYoYg3RHg",
+							"expanded_url": "http://www.youtube.com/user/langleeschool",
+							"display_url": "youtube.com/user/langleesc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30304,
+			"friends_count": 869,
+			"listed_count": 228,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1575387914",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2537,
+		"favorite_count": 831,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인터뷰를 제안한 잡지사에 인터뷰 페이를 요청했더니 이런 메세지와 인터뷰 제안을 철회하겠다는 대답을 들었다. 인터뷰 노동에 페이가 없는데 어째서 무료노동이 아닌지? 게다가 본인은 같은 노동에 참여하면서 돈을 받는(월급받는) 기자가 아닌지?? https://t.co/m5BdQKWP7T"
+	},
+	{
 		"created_at": "Fri Dec 13 14:57:12 +0000 2019",
 		"id": 1205501931940130800,
 		"id_str": "1205501931940130816",
