@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 21:20:46 +0000 2019",
+		"id": 1205130461959213000,
+		"id_str": "1205598461929746433",
+		"full_text": "왜 한국에 이런 불상 없는지 알거 같아 한국인은 불상이라도 이렇게 자신만만한 자세였으면 잘난척한다고 불링했을것 https://t.co/EfZ13cTSpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205130454581440500,
+					"id_str": "1205130454581440513",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/ELl7w21U8AEJy1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELl7w21U8AEJy1Q.jpg",
+					"url": "https://t.co/EfZ13cTSpm",
+					"display_url": "pic.twitter.com/EfZ13cTSpm",
+					"expanded_url": "https://twitter.com/karljung2085/status/1205130461959213056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 701,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 87,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 224,
+									"y": 580,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 87,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 224,
+									"y": 580,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 243,
+									"y": 84,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 217,
+									"y": 562,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 87,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 224,
+									"y": 580,
+									"h": 86,
+									"w": 86
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205130454581440500,
+					"id_str": "1205130454581440513",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/ELl7w21U8AEJy1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELl7w21U8AEJy1Q.jpg",
+					"url": "https://t.co/EfZ13cTSpm",
+					"display_url": "pic.twitter.com/EfZ13cTSpm",
+					"expanded_url": "https://twitter.com/karljung2085/status/1205130461959213056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 701,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 87,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 224,
+									"y": 580,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 87,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 224,
+									"y": 580,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 243,
+									"y": 84,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 217,
+									"y": 562,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 87,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 224,
+									"y": 580,
+									"h": 86,
+									"w": 86
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1173797942,
+			"id_str": "1173797942",
+			"name": "karljung",
+			"screen_name": "karljung2085",
+			"location": "모로가도 모르도르",
+			"description": "신테의 단곡",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6225,
+			"friends_count": 98,
+			"listed_count": 59,
+			"created_at": "Wed Feb 13 03:41:25 +0000 2013",
+			"favourites_count": 24074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191741508908568576/Of1Iwtd9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191741508908568576/Of1Iwtd9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1173797942/1449840027",
+			"profile_link_color": "4400FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 593,
+		"favorite_count": 442,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜 한국에 이런 불상 없는지 알거 같아 한국인은 불상이라도 이렇게 자신만만한 자세였으면 잘난척한다고 불링했을것 https://t.co/EfZ13cTSpm"
+	},
+	{
 		"created_at": "Fri Dec 13 20:41:17 +0000 2019",
 		"id": 1205396966496034800,
 		"id_str": "1205588522997927968",
