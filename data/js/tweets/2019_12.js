@@ -1,6 +1,913 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 09:54:53 +0000 2019",
+		"id": 1205777009386778600,
+		"id_str": "1205788239837179905",
+		"full_text": "【ADOY】\n韓国のドリーミングシンセポップバンド「ADOY」1stアルバム\"VIVID\"　3F/5F/6Fにて展開中！\nADOYを知ってほしい！！！！聴いて欲しい！\n\nPool⇒　https://t.co/Q5UAvdYKbN\nLemon⇒https://t.co/L0wk0ev0S3\n\n#ADOY \n#タワ渋kpop \n@ADOYband https://t.co/fAS7si4ee1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "タワ渋kpop",
+					"indices": [
+						153,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						163,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q5UAvdYKbN",
+					"expanded_url": "https://youtube.com/watch?v=p4wOzD5JkG8#action=share",
+					"display_url": "youtube.com/watch?v=p4wOzD…",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/L0wk0ev0S3",
+					"expanded_url": "https://youtube.com/watch?v=kjEzYfT3iic",
+					"display_url": "youtube.com/watch?v=kjEzYf…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205777001514029000,
+					"id_str": "1205777001514029056",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvHy12UUAAEq78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvHy12UUAAEq78.jpg",
+					"url": "https://t.co/fAS7si4ee1",
+					"display_url": "pic.twitter.com/fAS7si4ee1",
+					"expanded_url": "https://twitter.com/TOWER_Shibuya/status/1205777009386778624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205777001514029000,
+					"id_str": "1205777001514029056",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvHy12UUAAEq78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvHy12UUAAEq78.jpg",
+					"url": "https://t.co/fAS7si4ee1",
+					"display_url": "pic.twitter.com/fAS7si4ee1",
+					"expanded_url": "https://twitter.com/TOWER_Shibuya/status/1205777009386778624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118922920,
+			"id_str": "118922920",
+			"name": "タワーレコード渋谷店",
+			"screen_name": "TOWER_Shibuya",
+			"location": "東京都渋谷区神南1-22-14",
+			"description": "「360°エンターテイメント・ストア」をテーマに、毎日何かが起きている渋谷店の「イマ」をつぶやきます！\n☆営業時間：10:00～23:00  ☆instagram⇒https://t.co/34qi133noR",
+			"url": "https://t.co/r2TPQpde9o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r2TPQpde9o",
+							"expanded_url": "http://towershibuya.jp/",
+							"display_url": "towershibuya.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/34qi133noR",
+							"expanded_url": "https://www.instagram.com/tower_shibuya/",
+							"display_url": "instagram.com/tower_shibuya/",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 221408,
+			"friends_count": 43326,
+			"listed_count": 2958,
+			"created_at": "Tue Mar 02 03:34:41 +0000 2010",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 205045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFDB0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197700464487231488/1fMntL1o_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197700464487231488/1fMntL1o_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118922920/1569896482",
+			"profile_link_color": "CD0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "676767",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【ADOY】\n韓国のドリーミングシンセポップバンド「ADOY」1stアルバム\"VIVID\"　3F/5F/6Fにて展開中！\nADOYを知ってほしい！！！！聴いて欲しい！\n\nPool⇒　https://t.co/Q5UAvdYKbN\nLemon⇒https://t.co/L0wk0ev0S3\n\n#ADOY \n#タワ渋kpop \n@ADOYband https://t.co/fAS7si4ee1"
+	},
+	{
+		"created_at": "Sat Dec 14 09:04:46 +0000 2019",
+		"id": 1205744228384424000,
+		"id_str": "1205775629452369920",
+		"full_text": "BoA 보아 'Starry Night' Photoshoot Behind #2 | NY Following Cam ✨💜\n\n#BoA #보아 #StarryNight #NY_Following_Cam https://t.co/AT4m4aVbGa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"text": "NY_Following_Cam",
+					"indices": [
+						88,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205490828468093000,
+					"id_str": "1205490828468092928",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ELtCgP-UUAAGr7Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELtCgP-UUAAGr7Y.jpg",
+					"url": "https://t.co/AT4m4aVbGa",
+					"display_url": "pic.twitter.com/AT4m4aVbGa",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1205744228384423936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205490828468093000,
+					"id_str": "1205490828468092928",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ELtCgP-UUAAGr7Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELtCgP-UUAAGr7Y.jpg",
+					"url": "https://t.co/AT4m4aVbGa",
+					"display_url": "pic.twitter.com/AT4m4aVbGa",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1205744228384423936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28462,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1205490828468092928/pl/p08d_VrH8fa2sPKS.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1205490828468092928/vid/1280x720/MQzBSRKGcHYTQMle.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1205490828468092928/vid/480x270/13fHjo9hee36Ks2r.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1205490828468092928/vid/640x360/WtBZjU8nu-slLvdH.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7997344,
+			"friends_count": 49,
+			"listed_count": 9665,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 396,
+		"favorite_count": 2925,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 'Starry Night' Photoshoot Behind #2 | NY Following Cam ✨💜\n\n#BoA #보아 #StarryNight #NY_Following_Cam https://t.co/AT4m4aVbGa"
+	},
+	{
+		"created_at": "Sat Dec 14 09:04:36 +0000 2019",
+		"id": 1205483844662509600,
+		"id_str": "1205775587719012353",
+		"full_text": "보아의 &lt;메리크리(#メリクリ)&gt;가 2019년 일본 LINE MUSIC 차트에서 1위를 했다고. 이로써 메리크리는 4년 연속 1위라는 기록을 세우게 되었다. https://t.co/8Olacymy1A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "メリクリ",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205483833170129000,
+					"id_str": "1205483833170128896",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/ELq9KMqU8AAoo1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELq9KMqU8AAoo1a.jpg",
+					"url": "https://t.co/8Olacymy1A",
+					"display_url": "pic.twitter.com/8Olacymy1A",
+					"expanded_url": "https://twitter.com/BoA_useless/status/1205483844662509574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 796,
+							"h": 877,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 796,
+							"h": 877,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205483833170129000,
+					"id_str": "1205483833170128896",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/ELq9KMqU8AAoo1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELq9KMqU8AAoo1a.jpg",
+					"url": "https://t.co/8Olacymy1A",
+					"display_url": "pic.twitter.com/8Olacymy1A",
+					"expanded_url": "https://twitter.com/BoA_useless/status/1205483844662509574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 796,
+							"h": 877,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 796,
+							"h": 877,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205483833174347800,
+					"id_str": "1205483833174347776",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/ELq9KMrVUAAQQF9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELq9KMrVUAAQQF9.jpg",
+					"url": "https://t.co/8Olacymy1A",
+					"display_url": "pic.twitter.com/8Olacymy1A",
+					"expanded_url": "https://twitter.com/BoA_useless/status/1205483844662509574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 638,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1411,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 361,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205483833178542000,
+					"id_str": "1205483833178542081",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/ELq9KMsVUAE8MJU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELq9KMsVUAE8MJU.jpg",
+					"url": "https://t.co/8Olacymy1A",
+					"display_url": "pic.twitter.com/8Olacymy1A",
+					"expanded_url": "https://twitter.com/BoA_useless/status/1205483844662509574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 287,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1495,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 854329657046343700,
+			"id_str": "854329657046343681",
+			"name": "보아 쓸데없는 정보봇",
+			"screen_name": "BoA_useless",
+			"location": "1986년 11월 5일",
+			"description": "보아의 쓸데없지만 쓸데있는 정보를 마음대로 올립니다. 제보와 문의는 DM으로 받습니다. 잘못된 정보가 있다면 제보해 주세요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5271,
+			"friends_count": 16,
+			"listed_count": 35,
+			"created_at": "Tue Apr 18 13:43:57 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194244591492329472/LA9YRXzK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194244591492329472/LA9YRXzK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/854329657046343681/1521785573",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 457,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보아의 &lt;메리크리(#メリクリ)&gt;가 2019년 일본 LINE MUSIC 차트에서 1위를 했다고. 이로써 메리크리는 4년 연속 1위라는 기록을 세우게 되었다. https://t.co/8Olacymy1A"
+	},
+	{
+		"created_at": "Sat Dec 14 09:04:06 +0000 2019",
+		"id": 1205682438850039800,
+		"id_str": "1205775461604716546",
+		"full_text": "퍼블리 프로젝트 매니저 최해솔 님의 “6개월 일해보니” 회고를 담은 팀 미팅 발표자료. -:) 우리 팀만 보기에 아까워서 슬라이드 쉐어로도 공유. 많이 봐 주세요 🙏\n\nhttps://t.co/vk47zkhAKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vk47zkhAKY",
+					"expanded_url": "https://www.slideshare.net/Publy-co/6-205319501",
+					"display_url": "slideshare.net/Publy-co/6-205…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067401196,
+			"id_str": "1067401196",
+			"name": "박소령 | Soryoung Park",
+			"screen_name": "January19_",
+			"location": "",
+			"description": "일하는 사람들의 콘텐츠 플랫폼, 퍼블리를 만듭니다. 트위터에서는 일하는 사람들과 일하는 마인드에 대한 이야기를 주로 소개합니다. 그리고 재밌는 콘텐츠 추천도. -:) CEO of PUBLY @publy_",
+			"url": "https://t.co/BPqHYGGmHS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BPqHYGGmHS",
+							"expanded_url": "http://publy.co",
+							"display_url": "publy.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15920,
+			"friends_count": 30,
+			"listed_count": 147,
+			"created_at": "Mon Jan 07 04:10:56 +0000 2013",
+			"favourites_count": 6789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196820870049619969/hWZXFH_x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196820870049619969/hWZXFH_x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067401196/1558450583",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "퍼블리 프로젝트 매니저 최해솔 님의 “6개월 일해보니” 회고를 담은 팀 미팅 발표자료. -:) 우리 팀만 보기에 아까워서 슬라이드 쉐어로도 공유. 많이 봐 주세요 🙏\n\nhttps://t.co/vk47zkhAKY"
+	},
+	{
 		"created_at": "Sat Dec 14 09:00:35 +0000 2019",
 		"id": 1205774575579156500,
 		"id_str": "1205774575579156480",
