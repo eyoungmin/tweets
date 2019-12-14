@@ -1,6 +1,809 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 13:54:52 +0000 2019",
+		"id": 1205839753305702400,
+		"id_str": "1205848635143065600",
+		"full_text": "오늘 하루를 함께한 #이달의소녀 LOOПΔ Premier Greeting - [Meet &amp; Up]😆\n오빛들의 응원과 사랑이 있었기에 이달의 소녀가 여기까지 올 수 있었어요💕\n앞으로도 우리 항상 함께해요,사랑해요 오빛😍\n\n#LOONA https://t.co/8BDAs71SWH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205839737505767400,
+					"id_str": "1205839737505767424",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwA2joU4AAhKQg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwA2joU4AAhKQg.jpg",
+					"url": "https://t.co/8BDAs71SWH",
+					"display_url": "pic.twitter.com/8BDAs71SWH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1205839753305702401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1192,
+									"y": 98,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 1356,
+									"y": 710,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 500,
+									"y": 102,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 774,
+									"y": 112,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 998,
+									"y": 150,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 246,
+									"y": 44,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 1480,
+									"y": 94,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 1684,
+									"y": 88,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 826,
+									"y": 564,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 454,
+									"y": 576,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 1432,
+									"y": 586,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 246,
+									"y": 556,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 698,
+									"y": 57,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 794,
+									"y": 416,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 292,
+									"y": 59,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 453,
+									"y": 65,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 584,
+									"y": 87,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 144,
+									"y": 25,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 867,
+									"y": 55,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 986,
+									"y": 51,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 483,
+									"y": 330,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 266,
+									"y": 337,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 839,
+									"y": 343,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 144,
+									"y": 325,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1192,
+									"y": 98,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 1356,
+									"y": 710,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 500,
+									"y": 102,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 774,
+									"y": 112,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 998,
+									"y": 150,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 246,
+									"y": 44,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 1480,
+									"y": 94,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 1684,
+									"y": 88,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 826,
+									"y": 564,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 454,
+									"y": 576,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 1432,
+									"y": 586,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 246,
+									"y": 556,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 32,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 450,
+									"y": 235,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 166,
+									"y": 33,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 256,
+									"y": 37,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 331,
+									"y": 49,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 81,
+									"y": 14,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 491,
+									"y": 31,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 559,
+									"y": 29,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 274,
+									"y": 187,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 150,
+									"y": 191,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 475,
+									"y": 194,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 81,
+									"y": 184,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205839737505767400,
+					"id_str": "1205839737505767424",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwA2joU4AAhKQg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwA2joU4AAhKQg.jpg",
+					"url": "https://t.co/8BDAs71SWH",
+					"display_url": "pic.twitter.com/8BDAs71SWH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1205839753305702401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1192,
+									"y": 98,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 1356,
+									"y": 710,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 500,
+									"y": 102,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 774,
+									"y": 112,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 998,
+									"y": 150,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 246,
+									"y": 44,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 1480,
+									"y": 94,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 1684,
+									"y": 88,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 826,
+									"y": 564,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 454,
+									"y": 576,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 1432,
+									"y": 586,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 246,
+									"y": 556,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 698,
+									"y": 57,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 794,
+									"y": 416,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 292,
+									"y": 59,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 453,
+									"y": 65,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 584,
+									"y": 87,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 144,
+									"y": 25,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 867,
+									"y": 55,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 986,
+									"y": 51,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 483,
+									"y": 330,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 266,
+									"y": 337,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 839,
+									"y": 343,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 144,
+									"y": 325,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1192,
+									"y": 98,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 1356,
+									"y": 710,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 500,
+									"y": 102,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 774,
+									"y": 112,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 998,
+									"y": 150,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 246,
+									"y": 44,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 1480,
+									"y": 94,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 1684,
+									"y": 88,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 826,
+									"y": 564,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 454,
+									"y": 576,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 1432,
+									"y": 586,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 246,
+									"y": 556,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 32,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 450,
+									"y": 235,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 166,
+									"y": 33,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 256,
+									"y": 37,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 331,
+									"y": 49,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 81,
+									"y": 14,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 491,
+									"y": 31,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 559,
+									"y": 29,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 274,
+									"y": 187,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 150,
+									"y": 191,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 475,
+									"y": 194,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 81,
+									"y": 184,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372139,
+			"friends_count": 0,
+			"listed_count": 5283,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5260,
+		"favorite_count": 10054,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 하루를 함께한 #이달의소녀 LOOПΔ Premier Greeting - [Meet &amp; Up]😆\n오빛들의 응원과 사랑이 있었기에 이달의 소녀가 여기까지 올 수 있었어요💕\n앞으로도 우리 항상 함께해요,사랑해요 오빛😍\n\n#LOONA https://t.co/8BDAs71SWH"
+	},
+	{
 		"created_at": "Sat Dec 14 10:35:59 +0000 2019",
 		"id": 1205798582806184000,
 		"id_str": "1205798582806183936",
