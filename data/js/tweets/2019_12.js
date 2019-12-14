@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 15:54:54 +0000 2019",
+		"id": 1205865043503403000,
+		"id_str": "1205878842503696384",
+		"full_text": "“#1”\n⠀⠀⠀⠀⠀⠀⠀\n#이달의소녀 #LOONA\n\n▶  https://t.co/QjW6t6O6Sm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						20,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QjW6t6O6Sm",
+					"expanded_url": "https://youtu.be/kqQVO5d460k",
+					"display_url": "youtu.be/kqQVO5d460k",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372467,
+			"friends_count": 0,
+			"listed_count": 5293,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12116,
+		"favorite_count": 18112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "“#1”\n⠀⠀⠀⠀⠀⠀⠀\n#이달의소녀 #LOONA\n\n▶  https://t.co/QjW6t6O6Sm"
+	},
+	{
+		"created_at": "Sat Dec 14 15:54:52 +0000 2019",
+		"id": 1205865028462600200,
+		"id_str": "1205878833683013633",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale]\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/YUzuTm57q6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						119,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205853998776901600,
+					"id_str": "1205853998776901637",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwN0rAU4AUK07G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwN0rAU4AUK07G.jpg",
+					"url": "https://t.co/YUzuTm57q6",
+					"display_url": "pic.twitter.com/YUzuTm57q6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1205865028462600192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 548,
+									"y": 879,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1079,
+									"y": 1732,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 498,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 935,
+									"y": 1501,
+									"h": 123,
+									"w": 123
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205853998776901600,
+					"id_str": "1205853998776901637",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwN0rAU4AUK07G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwN0rAU4AUK07G.jpg",
+					"url": "https://t.co/YUzuTm57q6",
+					"display_url": "pic.twitter.com/YUzuTm57q6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1205865028462600192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 548,
+									"y": 879,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1079,
+									"y": 1732,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 498,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 935,
+									"y": 1501,
+									"h": 123,
+									"w": 123
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971849,
+			"friends_count": 2,
+			"listed_count": 5958,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15488,
+		"favorite_count": 22306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale]\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/YUzuTm57q6"
+	},
+	{
 		"created_at": "Sat Dec 14 13:54:52 +0000 2019",
 		"id": 1205839753305702400,
 		"id_str": "1205848635143065600",
