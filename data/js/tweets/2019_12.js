@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 04:54:53 +0000 2019",
+		"id": 1205712204286189600,
+		"id_str": "1205712740507168768",
+		"full_text": "#이달의소녀 LOOПΔ Premier Greeting - [Meet &amp; Up]이 드디어 오늘😆\n떨리는 마음 간직하며 달려온 시간만큼 즐거운 시간 보내요💕\n오빛! 조금만 기다려😍\n\n#LOONA https://t.co/kBdL4g2wHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205712193162899500,
+					"id_str": "1205712193162899457",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ELuM2f7U8AEyJGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELuM2f7U8AEyJGI.jpg",
+					"url": "https://t.co/kBdL4g2wHP",
+					"display_url": "pic.twitter.com/kBdL4g2wHP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1205712204286189568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 307,
+									"y": 417,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 652,
+									"y": 885,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 543,
+									"y": 737,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 652,
+									"y": 885,
+									"h": 67,
+									"w": 67
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205712193162899500,
+					"id_str": "1205712193162899457",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ELuM2f7U8AEyJGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELuM2f7U8AEyJGI.jpg",
+					"url": "https://t.co/kBdL4g2wHP",
+					"display_url": "pic.twitter.com/kBdL4g2wHP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1205712204286189568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 307,
+									"y": 417,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 652,
+									"y": 885,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 543,
+									"y": 737,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 652,
+									"y": 885,
+									"h": 67,
+									"w": 67
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371944,
+			"friends_count": 0,
+			"listed_count": 5281,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3449,
+		"favorite_count": 6416,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 LOOПΔ Premier Greeting - [Meet &amp; Up]이 드디어 오늘😆\n떨리는 마음 간직하며 달려온 시간만큼 즐거운 시간 보내요💕\n오빛! 조금만 기다려😍\n\n#LOONA https://t.co/kBdL4g2wHP"
+	},
+	{
 		"created_at": "Sat Dec 14 03:28:47 +0000 2019",
 		"id": 1205684075635368000,
 		"id_str": "1205691073030447104",
