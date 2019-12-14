@@ -1,6 +1,1274 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 21:49:26 +0000 2019",
+		"id": 1203689994071621600,
+		"id_str": "1205968060403732480",
+		"full_text": "슈화 ㄹㅇ 갓 띵언..... 개인적으로 이 말 너무 좋아서 매일매일 새기는중입니ㄷㅏ... https://t.co/51cAYvvicD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203689943878393900,
+					"id_str": "1203689943878393863",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELRdoGSU4Ac7vn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELRdoGSU4Ac7vn_.jpg",
+					"url": "https://t.co/51cAYvvicD",
+					"display_url": "pic.twitter.com/51cAYvvicD",
+					"expanded_url": "https://twitter.com/wannabea_good/status/1203689994071621632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 444,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203689943878393900,
+					"id_str": "1203689943878393863",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELRdoGSU4Ac7vn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELRdoGSU4Ac7vn_.jpg",
+					"url": "https://t.co/51cAYvvicD",
+					"display_url": "pic.twitter.com/51cAYvvicD",
+					"expanded_url": "https://twitter.com/wannabea_good/status/1203689994071621632/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 444,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							111
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELRdoGSU4Ac7vn_.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106259342896959500,
+			"id_str": "1106259342896959488",
+			"name": "G-아이들의 대유잼 파티",
+			"screen_name": "Gidle_jamparty",
+			"location": "",
+			"description": "❗보고있으면 유용하고 삶이 행복해지는 G-IDLE❗",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Thu Mar 14 18:22:35 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204411603069747201/hSDF9I6h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204411603069747201/hSDF9I6h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106259342896959488/1575989368",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슈화 ㄹㅇ 갓 띵언..... 개인적으로 이 말 너무 좋아서 매일매일 새기는중입니ㄷㅏ... https://t.co/51cAYvvicD"
+	},
+	{
+		"created_at": "Sat Dec 14 21:47:46 +0000 2019",
+		"id": 1205883322192121900,
+		"id_str": "1205967641237549056",
+		"full_text": "와 이걸 이렇게 연결시킨다고? 이 커튼은 Day 1 인 짐살라빔 MV 끝날 때의 장면인데 La Rouge에서도 커튼이 걷히며 레드벨벳이 등장했었던. https://t.co/gDYTESyePp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205883315053457400,
+					"id_str": "1205883315053457409",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwofGpU8AE7Jy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwofGpU8AE7Jy1.jpg",
+					"url": "https://t.co/gDYTESyePp",
+					"display_url": "pic.twitter.com/gDYTESyePp",
+					"expanded_url": "https://twitter.com/Raun_v/status/1205883322192121856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 416,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205883315053457400,
+					"id_str": "1205883315053457409",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwofGpU8AE7Jy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwofGpU8AE7Jy1.jpg",
+					"url": "https://t.co/gDYTESyePp",
+					"display_url": "pic.twitter.com/gDYTESyePp",
+					"expanded_url": "https://twitter.com/Raun_v/status/1205883322192121856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 416,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205883315066065000,
+					"id_str": "1205883315066064897",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwofGsVUAES7vv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwofGsVUAES7vv.jpg",
+					"url": "https://t.co/gDYTESyePp",
+					"display_url": "pic.twitter.com/gDYTESyePp",
+					"expanded_url": "https://twitter.com/Raun_v/status/1205883322192121856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 149,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 480,
+									"y": 148,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 370,
+									"y": 151,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 284,
+									"y": 138,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 692,
+									"y": 147,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 457,
+									"y": 222,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 149,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 480,
+									"y": 148,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 370,
+									"y": 151,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 284,
+									"y": 138,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 692,
+									"y": 147,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 457,
+									"y": 222,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 149,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 480,
+									"y": 148,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 370,
+									"y": 151,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 284,
+									"y": 138,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 692,
+									"y": 147,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 457,
+									"y": 222,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 93,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 302,
+									"y": 93,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 232,
+									"y": 95,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 178,
+									"y": 86,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 435,
+									"y": 92,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 287,
+									"y": 139,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205873020138451000,
+		"in_reply_to_status_id_str": "1205873020138450946",
+		"in_reply_to_user_id": 999195672933945300,
+		"in_reply_to_user_id_str": "999195672933945344",
+		"in_reply_to_screen_name": "Raun_v",
+		"user": {
+			"id": 999195672933945300,
+			"id_str": "999195672933945344",
+			"name": "라운",
+			"screen_name": "Raun_v",
+			"location": "",
+			"description": "좋아한다고 말할 수 있는, 지금.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 671,
+			"friends_count": 70,
+			"listed_count": 4,
+			"created_at": "Wed May 23 07:49:47 +0000 2018",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199691097741463552/5guvfwy9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199691097741463552/5guvfwy9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/999195672933945344/1574937578",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와 이걸 이렇게 연결시킨다고? 이 커튼은 Day 1 인 짐살라빔 MV 끝날 때의 장면인데 La Rouge에서도 커튼이 걷히며 레드벨벳이 등장했었던. https://t.co/gDYTESyePp"
+	},
+	{
+		"created_at": "Sat Dec 14 21:47:44 +0000 2019",
+		"id": 1205873020138451000,
+		"id_str": "1205967632983158785",
+		"full_text": "역순으로 따져야하는 게 맞으면, 결국 그 시발점은 불꽃 놀이라는거네? 포스터에도 불꽃놀이가 있고. 때마침 마지막 Special Track 인 Ra Louge 의 가사에도 \"밤을 수놓은 불꽃보다 더 붉게 타올라\" 도 있으니. https://t.co/7jL2UUHbLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205873005257035800,
+					"id_str": "1205873005257035778",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwfG_qUEAI5tiC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwfG_qUEAI5tiC.jpg",
+					"url": "https://t.co/7jL2UUHbLI",
+					"display_url": "pic.twitter.com/7jL2UUHbLI",
+					"expanded_url": "https://twitter.com/Raun_v/status/1205873020138450946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 534,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205873005257035800,
+					"id_str": "1205873005257035778",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwfG_qUEAI5tiC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwfG_qUEAI5tiC.jpg",
+					"url": "https://t.co/7jL2UUHbLI",
+					"display_url": "pic.twitter.com/7jL2UUHbLI",
+					"expanded_url": "https://twitter.com/Raun_v/status/1205873020138450946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 534,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205873005261254700,
+					"id_str": "1205873005261254658",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ELwfG_rUcAIl1du.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELwfG_rUcAIl1du.jpg",
+					"url": "https://t.co/7jL2UUHbLI",
+					"display_url": "pic.twitter.com/7jL2UUHbLI",
+					"expanded_url": "https://twitter.com/Raun_v/status/1205873020138450946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 787,
+							"h": 787,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 787,
+							"h": 787,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 999195672933945300,
+			"id_str": "999195672933945344",
+			"name": "라운",
+			"screen_name": "Raun_v",
+			"location": "",
+			"description": "좋아한다고 말할 수 있는, 지금.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 671,
+			"friends_count": 70,
+			"listed_count": 4,
+			"created_at": "Wed May 23 07:49:47 +0000 2018",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199691097741463552/5guvfwy9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199691097741463552/5guvfwy9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/999195672933945344/1574937578",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역순으로 따져야하는 게 맞으면, 결국 그 시발점은 불꽃 놀이라는거네? 포스터에도 불꽃놀이가 있고. 때마침 마지막 Special Track 인 Ra Louge 의 가사에도 \"밤을 수놓은 불꽃보다 더 붉게 타올라\" 도 있으니. https://t.co/7jL2UUHbLI"
+	},
+	{
+		"created_at": "Sat Dec 14 21:46:55 +0000 2019",
+		"id": 1205800240097267700,
+		"id_str": "1205967429014147072",
+		"full_text": "그 다음은 가구..이케아처엄 싸구려 가구들이 사람 목숨과 불법 벌목으로 숲을 망친다는 이야기. 이케아 서랍장에 깔려 죽은 아동이 1년에 몇십명이 존재한다니..🤦🏻‍♀️ https://t.co/ClcWWUNd3t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205800235148038100,
+					"id_str": "1205800235148038144",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvc7N4U0AAlZi0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvc7N4U0AAlZi0.jpg",
+					"url": "https://t.co/ClcWWUNd3t",
+					"display_url": "pic.twitter.com/ClcWWUNd3t",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1205800240097267712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1125,
+							"h": 914,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 914,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205800235148038100,
+					"id_str": "1205800235148038144",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvc7N4U0AAlZi0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvc7N4U0AAlZi0.jpg",
+					"url": "https://t.co/ClcWWUNd3t",
+					"display_url": "pic.twitter.com/ClcWWUNd3t",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1205800240097267712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1125,
+							"h": 914,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 914,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205800232778207200,
+		"in_reply_to_status_id_str": "1205800232778207234",
+		"in_reply_to_user_id": 1114251007,
+		"in_reply_to_user_id_str": "1114251007",
+		"in_reply_to_screen_name": "lessislessxx",
+		"user": {
+			"id": 1114251007,
+			"id_str": "1114251007",
+			"name": "𝐿𝑒𝑠𝑠 𝑖𝑠 𝐿𝑒𝑠𝑠",
+			"screen_name": "lessislessxx",
+			"location": "남이미워죽겠으면죽으렴",
+			"description": "無人島 | 너의 생각 궁금하지 않습니다 | 미술과 패션일을 하던 (旧)외노자 | #소비생활백과 해시주인 | 체인미러블락사용중 |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4197,
+			"friends_count": 1004,
+			"listed_count": 19,
+			"created_at": "Wed Jan 23 12:20:24 +0000 2013",
+			"favourites_count": 16873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186686150041198593/M6Aw2C4H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186686150041198593/M6Aw2C4H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114251007/1576123358",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 다음은 가구..이케아처엄 싸구려 가구들이 사람 목숨과 불법 벌목으로 숲을 망친다는 이야기. 이케아 서랍장에 깔려 죽은 아동이 1년에 몇십명이 존재한다니..🤦🏻‍♀️ https://t.co/ClcWWUNd3t"
+	},
+	{
+		"created_at": "Sat Dec 14 21:46:54 +0000 2019",
+		"id": 1205800232778207200,
+		"id_str": "1205967422957572096",
+		"full_text": "넷플릭스에서 브로큰 시리즈 보고있는데 위조 화장품..정말 노답이고 구하는 사람이 있기에 없어지지 않음.위조품은 이익이 정말 많이 남고 뒤엔 조직폭력단이 있고 또 대부분 중국에서 만들어짐.말도안되는 더러운 환경에서..분뇨,독성의 화학물 등 절대 피부에 닿으면 안되는 성분으로 만듬.. https://t.co/TtKImp1B1X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205800220895744000,
+					"id_str": "1205800220895744000",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvc6YyUEAA5f7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvc6YyUEAA5f7_.jpg",
+					"url": "https://t.co/TtKImp1B1X",
+					"display_url": "pic.twitter.com/TtKImp1B1X",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1205800232778207234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205800220895744000,
+					"id_str": "1205800220895744000",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvc6YyUEAA5f7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvc6YyUEAA5f7_.jpg",
+					"url": "https://t.co/TtKImp1B1X",
+					"display_url": "pic.twitter.com/TtKImp1B1X",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1205800232778207234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205800220899963000,
+					"id_str": "1205800220899962880",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvc6YzUcAAD-by.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvc6YzUcAAD-by.jpg",
+					"url": "https://t.co/TtKImp1B1X",
+					"display_url": "pic.twitter.com/TtKImp1B1X",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1205800232778207234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 344,
+									"y": 361,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 344,
+									"y": 361,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 297,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 160,
+									"y": 168,
+									"h": 27,
+									"w": 27
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114251007,
+			"id_str": "1114251007",
+			"name": "𝐿𝑒𝑠𝑠 𝑖𝑠 𝐿𝑒𝑠𝑠",
+			"screen_name": "lessislessxx",
+			"location": "남이미워죽겠으면죽으렴",
+			"description": "無人島 | 너의 생각 궁금하지 않습니다 | 미술과 패션일을 하던 (旧)외노자 | #소비생활백과 해시주인 | 체인미러블락사용중 |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4197,
+			"friends_count": 1004,
+			"listed_count": 19,
+			"created_at": "Wed Jan 23 12:20:24 +0000 2013",
+			"favourites_count": 16873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186686150041198593/M6Aw2C4H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186686150041198593/M6Aw2C4H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114251007/1576123358",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1835,
+		"favorite_count": 756,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스에서 브로큰 시리즈 보고있는데 위조 화장품..정말 노답이고 구하는 사람이 있기에 없어지지 않음.위조품은 이익이 정말 많이 남고 뒤엔 조직폭력단이 있고 또 대부분 중국에서 만들어짐.말도안되는 더러운 환경에서..분뇨,독성의 화학물 등 절대 피부에 닿으면 안되는 성분으로 만듬.. https://t.co/TtKImp1B1X"
+	},
+	{
 		"created_at": "Sat Dec 14 19:26:04 +0000 2019",
 		"id": 1205931983446012000,
 		"id_str": "1205931983446011904",
