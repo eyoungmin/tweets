@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 02:45:29 +0000 2019",
+		"id": 1206016735993720800,
+		"id_str": "1206042567273435136",
+		"full_text": "블쉐에게 사과를 요구합니다. 여성 장애당사자의 탈시설과 그 자매 조력자의 삶을 '커리어쌓기'로 '이용했다' 조롱하고 장애인에 대한 돌봄을 여성 가족구성원에게 '떠맡기는' 파렴치한 발언을 당장 철회하고 진심으로 사과하기 바랍니다. 많이 리트윗해주세요. #블쉐사과해 https://t.co/HPpU8yfO1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블쉐사과해",
+					"indices": [
+						140,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206016727550582800,
+					"id_str": "1206016727550582784",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ELyh0u7U4AARCad.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELyh0u7U4AARCad.jpg",
+					"url": "https://t.co/HPpU8yfO1Z",
+					"display_url": "pic.twitter.com/HPpU8yfO1Z",
+					"expanded_url": "https://twitter.com/Serious_Sister2/status/1206016735993720832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 236,
+									"y": 244,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 623,
+									"y": 644,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 623,
+									"y": 644,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 416,
+									"y": 430,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206016727550582800,
+					"id_str": "1206016727550582784",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ELyh0u7U4AARCad.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELyh0u7U4AARCad.jpg",
+					"url": "https://t.co/HPpU8yfO1Z",
+					"display_url": "pic.twitter.com/HPpU8yfO1Z",
+					"expanded_url": "https://twitter.com/Serious_Sister2/status/1206016735993720832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 236,
+									"y": 244,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 623,
+									"y": 644,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 623,
+									"y": 644,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 416,
+									"y": 430,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 795883266167304200,
+			"id_str": "795883266167304192",
+			"name": "생각많은둘째언니",
+			"screen_name": "Serious_Sister2",
+			"location": "대한민국 서울",
+			"description": "도대체 이해 안 가는 세상을 그래도 이해해보고자 노력하는 둘째언니.",
+			"url": "https://t.co/zXPYYsu6DR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zXPYYsu6DR",
+							"expanded_url": "https://www.youtube.com/channel/UCGdB-lgTS2sOhJIxgP550qw",
+							"display_url": "youtube.com/channel/UCGdB-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14217,
+			"friends_count": 3468,
+			"listed_count": 41,
+			"created_at": "Tue Nov 08 06:58:52 +0000 2016",
+			"favourites_count": 3042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/795883266167304192/1478589358",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1068,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블쉐에게 사과를 요구합니다. 여성 장애당사자의 탈시설과 그 자매 조력자의 삶을 '커리어쌓기'로 '이용했다' 조롱하고 장애인에 대한 돌봄을 여성 가족구성원에게 '떠맡기는' 파렴치한 발언을 당장 철회하고 진심으로 사과하기 바랍니다. 많이 리트윗해주세요. #블쉐사과해 https://t.co/HPpU8yfO1Z"
+	},
+	{
 		"created_at": "Sat Dec 14 21:49:26 +0000 2019",
 		"id": 1203689994071621600,
 		"id_str": "1205968060403732480",
@@ -812,7 +1080,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Sat Dec 14 21:46:55 +0000 2019",
 		"id": 1205800240097267700,
 		"id_str": "1205967429014147072",
-		"full_text": "그 다음은 가구..이케아처엄 싸구려 가구들이 사람 목숨과 불법 벌목으로 숲을 망친다는 이야기. 이케아 서랍장에 깔려 죽은 아동이 1년에 몇십명이 존재한다니..🤦🏻‍♀️ https://t.co/ClcWWUNd3t",
+		"full_text": "그 다음은 가구..이케아처엄 싸구려 가구들이 사람 목숨과 불법 벌목으로 숲을 망친다는 이야기. 이케아 서랍장에 깔려 죽은 아동이 1년에 몇십명이 존재한다니..🤦🏻♀️ https://t.co/ClcWWUNd3t",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -997,7 +1265,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "그 다음은 가구..이케아처엄 싸구려 가구들이 사람 목숨과 불법 벌목으로 숲을 망친다는 이야기. 이케아 서랍장에 깔려 죽은 아동이 1년에 몇십명이 존재한다니..🤦🏻‍♀️ https://t.co/ClcWWUNd3t"
+		"text": "그 다음은 가구..이케아처엄 싸구려 가구들이 사람 목숨과 불법 벌목으로 숲을 망친다는 이야기. 이케아 서랍장에 깔려 죽은 아동이 1년에 몇십명이 존재한다니..🤦🏻♀️ https://t.co/ClcWWUNd3t"
 	},
 	{
 		"created_at": "Sat Dec 14 21:46:54 +0000 2019",
