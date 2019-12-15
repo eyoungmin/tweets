@@ -1,6 +1,1097 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 12:00:25 +0000 2019",
+		"id": 1206182218542006300,
+		"id_str": "1206182218542006273",
+		"full_text": "[STATION X] 24시간안에 100만뷰가 넘지 않으면.. 우주 쪼꼬미 ‘하얀 겨울’ 비하인더스테이션\nhttps://t.co/fM9m0Ngafq\n#SM_STATION #STATION #스테이션",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_STATION",
+					"indices": [
+						83,
+						94
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fM9m0Ngafq",
+					"expanded_url": "https://youtu.be/RVmTsTWmSNA",
+					"display_url": "youtu.be/RVmTsTWmSNA",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 867,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION X] 24시간안에 100만뷰가 넘지 않으면.. 우주 쪼꼬미 ‘하얀 겨울’ 비하인더스테이션\nhttps://t.co/fM9m0Ngafq\n#SM_STATION #STATION #스테이션"
+	},
+	{
+		"created_at": "Sun Dec 15 11:38:58 +0000 2019",
+		"id": 1206176822267768800,
+		"id_str": "1206176822267768833",
+		"full_text": "이메일 매너라는 걸 아예 모르는 사람이 너무 많은 것 같다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 867,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이메일 매너라는 걸 아예 모르는 사람이 너무 많은 것 같다."
+	},
+	{
+		"created_at": "Sun Dec 15 11:37:06 +0000 2019",
+		"id": 1206167365227929600,
+		"id_str": "1206176352321171456",
+		"full_text": "문제의식을 느낀 뮤지션이 무례한 답신의 본문 일부를 공개한 것만이 부적절한 일일까. ‘라떼이즈~’라고 대놓고 쓰지는 않았으나 인용된 메일은 내려다보고 가르치려는 느낌이 다분하다. / 그리고 당사자 간 감정과 무관하게, 제보나 공익 성격이 아닌 인터뷰의 비용지급 문제는 논의해볼 이슈이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206166206060753000,
+		"in_reply_to_status_id_str": "1206166206060752896",
+		"in_reply_to_user_id": 68886467,
+		"in_reply_to_user_id_str": "68886467",
+		"in_reply_to_screen_name": "mind_mansion",
+		"user": {
+			"id": 68886467,
+			"id_str": "68886467",
+			"name": "연결감🔗🧶",
+			"screen_name": "mind_mansion",
+			"location": "대한민국 서울",
+			"description": "#연결감",
+			"url": "https://t.co/VhMR4dQIUn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VhMR4dQIUn",
+							"expanded_url": "http://mindmansion.kr",
+							"display_url": "mindmansion.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64266,
+			"friends_count": 6833,
+			"listed_count": 572,
+			"created_at": "Wed Aug 26 03:07:12 +0000 2009",
+			"favourites_count": 30117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 267392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8DA4B0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069110785421467648/59c_TBGw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069110785421467648/59c_TBGw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68886467/1483626718",
+			"profile_link_color": "D66528",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "문제의식을 느낀 뮤지션이 무례한 답신의 본문 일부를 공개한 것만이 부적절한 일일까. ‘라떼이즈~’라고 대놓고 쓰지는 않았으나 인용된 메일은 내려다보고 가르치려는 느낌이 다분하다. / 그리고 당사자 간 감정과 무관하게, 제보나 공익 성격이 아닌 인터뷰의 비용지급 문제는 논의해볼 이슈이다."
+	},
+	{
+		"created_at": "Sun Dec 15 11:36:59 +0000 2019",
+		"id": 1206166206060753000,
+		"id_str": "1206176323376300032",
+		"full_text": "뮤지션이 이름, 회사명 없이 인용한 짧은 메일 구절에서도 ‘인터뷰란 그런 것이 아니다. 나도 인터뷰하기 싫다’는 시혜적 태도와 맨스플레인이 묻어난다. 인터뷰를 요청했다가 ‘무료노동’이라는 표현에 기분이 상했다고 해서 요청자가 이런 답신을 보내는 것은 감정적이고 공격적이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206163852758405000,
+		"in_reply_to_status_id_str": "1206163852758405121",
+		"in_reply_to_user_id": 68886467,
+		"in_reply_to_user_id_str": "68886467",
+		"in_reply_to_screen_name": "mind_mansion",
+		"user": {
+			"id": 68886467,
+			"id_str": "68886467",
+			"name": "연결감🔗🧶",
+			"screen_name": "mind_mansion",
+			"location": "대한민국 서울",
+			"description": "#연결감",
+			"url": "https://t.co/VhMR4dQIUn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VhMR4dQIUn",
+							"expanded_url": "http://mindmansion.kr",
+							"display_url": "mindmansion.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64266,
+			"friends_count": 6833,
+			"listed_count": 572,
+			"created_at": "Wed Aug 26 03:07:12 +0000 2009",
+			"favourites_count": 30117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 267392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8DA4B0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069110785421467648/59c_TBGw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069110785421467648/59c_TBGw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68886467/1483626718",
+			"profile_link_color": "D66528",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뮤지션이 이름, 회사명 없이 인용한 짧은 메일 구절에서도 ‘인터뷰란 그런 것이 아니다. 나도 인터뷰하기 싫다’는 시혜적 태도와 맨스플레인이 묻어난다. 인터뷰를 요청했다가 ‘무료노동’이라는 표현에 기분이 상했다고 해서 요청자가 이런 답신을 보내는 것은 감정적이고 공격적이다."
+	},
+	{
+		"created_at": "Sun Dec 15 11:36:58 +0000 2019",
+		"id": 1206163852758405000,
+		"id_str": "1206176316682194947",
+		"full_text": "대화에는 톤 앤 매너라는 것이 있다. 인터뷰이의 인터뷰 비용 요청이 자사 방침과 맞지 않으면 “우리회사가 인터뷰 비용을 따로 지급하지 않는 정책의 취지는 이것입니다. 인터뷰이 님의 생각과 달라 아쉽게 되었습니다. 향후 좋은 기회에 뵙기를 바랍니다.“정도로 답신했다면 지금같은 상황이 왔을까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68886467,
+			"id_str": "68886467",
+			"name": "연결감🔗🧶",
+			"screen_name": "mind_mansion",
+			"location": "대한민국 서울",
+			"description": "#연결감",
+			"url": "https://t.co/VhMR4dQIUn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VhMR4dQIUn",
+							"expanded_url": "http://mindmansion.kr",
+							"display_url": "mindmansion.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64266,
+			"friends_count": 6833,
+			"listed_count": 572,
+			"created_at": "Wed Aug 26 03:07:12 +0000 2009",
+			"favourites_count": 30117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 267392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8DA4B0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069110785421467648/59c_TBGw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069110785421467648/59c_TBGw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68886467/1483626718",
+			"profile_link_color": "D66528",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 174,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대화에는 톤 앤 매너라는 것이 있다. 인터뷰이의 인터뷰 비용 요청이 자사 방침과 맞지 않으면 “우리회사가 인터뷰 비용을 따로 지급하지 않는 정책의 취지는 이것입니다. 인터뷰이 님의 생각과 달라 아쉽게 되었습니다. 향후 좋은 기회에 뵙기를 바랍니다.“정도로 답신했다면 지금같은 상황이 왔을까."
+	},
+	{
+		"created_at": "Sun Dec 15 11:36:29 +0000 2019",
+		"id": 1206176013002006500,
+		"id_str": "1206176195139604480",
+		"full_text": "악마같은 사람들 빼고, 그냥 모두 다 평온했으면 좋겠습니다. 내가 싫어하는 걔도, 나를 싫어하는 쟤도, 왜 저렇게 사나 도저히 이해가 안 가는 사람들도. 그냥 다 잠도 잘 자고, 조금씩 덜 아팠으면. 다들 보다 더 건강하고 평온하다면 서로 상처가 될 일도 줄어들거라 믿어요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206175967573471200,
+		"in_reply_to_status_id_str": "1206175967573471232",
+		"in_reply_to_user_id": 253607159,
+		"in_reply_to_user_id_str": "253607159",
+		"in_reply_to_screen_name": "sunwooJeongA",
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13307,
+			"friends_count": 131,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1575982490",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "악마같은 사람들 빼고, 그냥 모두 다 평온했으면 좋겠습니다. 내가 싫어하는 걔도, 나를 싫어하는 쟤도, 왜 저렇게 사나 도저히 이해가 안 가는 사람들도. 그냥 다 잠도 잘 자고, 조금씩 덜 아팠으면. 다들 보다 더 건강하고 평온하다면 서로 상처가 될 일도 줄어들거라 믿어요."
+	},
+	{
+		"created_at": "Sun Dec 15 11:36:27 +0000 2019",
+		"id": 1206175967573471200,
+		"id_str": "1206176187921207297",
+		"full_text": "밤마다 잠기는 상념의 주제는 대부분 저 자신이 주제이지만 언젠가부터 한 질문이 생각에 울림을 만듭니다.\n나 혼자만 잘 살아서 뭐하지? 내 가족들도, 친구들도, 지인들도, 지인의 가족과 친구들도, 그 가족과 친구의 가족의 친구의… 모두 다 잘 살아야 되는데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206175841840816000,
+		"in_reply_to_status_id_str": "1206175841840816128",
+		"in_reply_to_user_id": 253607159,
+		"in_reply_to_user_id_str": "253607159",
+		"in_reply_to_screen_name": "sunwooJeongA",
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13307,
+			"friends_count": 131,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1575982490",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "밤마다 잠기는 상념의 주제는 대부분 저 자신이 주제이지만 언젠가부터 한 질문이 생각에 울림을 만듭니다.\n나 혼자만 잘 살아서 뭐하지? 내 가족들도, 친구들도, 지인들도, 지인의 가족과 친구들도, 그 가족과 친구의 가족의 친구의… 모두 다 잘 살아야 되는데."
+	},
+	{
+		"created_at": "Sun Dec 15 11:36:26 +0000 2019",
+		"id": 1206175841840816000,
+		"id_str": "1206176182896484355",
+		"full_text": "모두의 평온한 밤을 비는 춤을 추었습니다. \n💓'Serenade' video out now.\n\nhttps://t.co/7lK2lE4B0E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7lK2lE4B0E",
+					"expanded_url": "https://youtu.be/wq-zSNGbPHY",
+					"display_url": "youtu.be/wq-zSNGbPHY",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13307,
+			"friends_count": 131,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1575982490",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모두의 평온한 밤을 비는 춤을 추었습니다. \n💓'Serenade' video out now.\n\nhttps://t.co/7lK2lE4B0E"
+	},
+	{
+		"created_at": "Sun Dec 15 11:22:27 +0000 2019",
+		"id": 1206172664873865200,
+		"id_str": "1206172664873865216",
+		"full_text": "보아의 빛나는 명곡 Playlist✨｜BoA's Starry Night Playlist\nhttps://t.co/4PmqDoH5ow\n#보아 #BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4PmqDoH5ow",
+					"expanded_url": "https://youtu.be/dFaEYfVodRc",
+					"display_url": "youtu.be/dFaEYfVodRc",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 867,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보아의 빛나는 명곡 Playlist✨｜BoA's Starry Night Playlist\nhttps://t.co/4PmqDoH5ow\n#보아 #BoA"
+	},
+	{
+		"created_at": "Sun Dec 15 11:09:33 +0000 2019",
+		"id": 1206167204863066000,
+		"id_str": "1206169417152790528",
+		"full_text": "보아의 빛나는 명곡 Playlist✨｜BoA's Starry Night Playlist\n\n👉 https://t.co/bjWeTeAeZs\n\n#BoA #보아 #StarryNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "StarryNight",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bjWeTeAeZs",
+					"expanded_url": "https://youtu.be/dFaEYfVodRc",
+					"display_url": "youtu.be/dFaEYfVodRc",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8000528,
+			"friends_count": 49,
+			"listed_count": 9668,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 245,
+		"favorite_count": 1263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보아의 빛나는 명곡 Playlist✨｜BoA's Starry Night Playlist\n\n👉 https://t.co/bjWeTeAeZs\n\n#BoA #보아 #StarryNight"
+	},
+	{
 		"created_at": "Sun Dec 15 10:40:32 +0000 2019",
 		"id": 1206162116106969000,
 		"id_str": "1206162116106969088",
