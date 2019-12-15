@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 09:59:53 +0000 2019",
+		"id": 1206036726331789300,
+		"id_str": "1206151885389852672",
+		"full_text": "다르다. 가사노동은 사라질 수 없는 일이고, 반드시 우리가 해야 하는 일이다. 그런데 이 가사노동이 “쓸데없는 허드렛일”로 남는 이상, 그 노동을 담당하는 사람이 엄마든 청소도우미든 그들이 사회에서 소외되고 폄하되는 문제는 해결되지 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206035831204405200,
+		"in_reply_to_status_id_str": "1206035831204405248",
+		"in_reply_to_user_id": 1964937763,
+		"in_reply_to_user_id_str": "1964937763",
+		"in_reply_to_screen_name": "indianbayleaves",
+		"user": {
+			"id": 1964937763,
+			"id_str": "1964937763",
+			"name": "월계수잎😷🏳️‍🌈",
+			"screen_name": "indianbayleaves",
+			"location": "",
+			"description": "a poor unfortunate soul",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9961,
+			"friends_count": 461,
+			"listed_count": 75,
+			"created_at": "Wed Oct 16 14:35:56 +0000 2013",
+			"favourites_count": 4739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147041424384245760/3SxNSsRP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147041424384245760/3SxNSsRP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1964937763/1562311216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 391,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다르다. 가사노동은 사라질 수 없는 일이고, 반드시 우리가 해야 하는 일이다. 그런데 이 가사노동이 “쓸데없는 허드렛일”로 남는 이상, 그 노동을 담당하는 사람이 엄마든 청소도우미든 그들이 사회에서 소외되고 폄하되는 문제는 해결되지 않는다."
+	},
+	{
+		"created_at": "Sun Dec 15 09:59:51 +0000 2019",
+		"id": 1206035831204405200,
+		"id_str": "1206151879668850688",
+		"full_text": "숭고한 가사노동 어쩌구 하면서 엄마/아내/딸/누나/여동생/며느리에게 공짜 가사노동을 떠넘기는 논리와, 가사노동은 삶에서 가장 필수적이고 자신을 위해 중요한 일이기 때문에 국가와 기업도 당연히 가사노동 시간의 필요성을 인정해야 하고, 남자도 집에서는 당연히 가사노동을 해야 한다는 논리는 https://t.co/NNhsS9iA6a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206035824703230000,
+					"id_str": "1206035824703229953",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ELyzMVXU0AEHawR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELyzMVXU0AEHawR.jpg",
+					"url": "https://t.co/NNhsS9iA6a",
+					"display_url": "pic.twitter.com/NNhsS9iA6a",
+					"expanded_url": "https://twitter.com/indianbayleaves/status/1206035831204405248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206035824703230000,
+					"id_str": "1206035824703229953",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ELyzMVXU0AEHawR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELyzMVXU0AEHawR.jpg",
+					"url": "https://t.co/NNhsS9iA6a",
+					"display_url": "pic.twitter.com/NNhsS9iA6a",
+					"expanded_url": "https://twitter.com/indianbayleaves/status/1206035831204405248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206034403215863800,
+		"in_reply_to_status_id_str": "1206034403215863809",
+		"in_reply_to_user_id": 1964937763,
+		"in_reply_to_user_id_str": "1964937763",
+		"in_reply_to_screen_name": "indianbayleaves",
+		"user": {
+			"id": 1964937763,
+			"id_str": "1964937763",
+			"name": "월계수잎😷🏳️‍🌈",
+			"screen_name": "indianbayleaves",
+			"location": "",
+			"description": "a poor unfortunate soul",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9961,
+			"friends_count": 461,
+			"listed_count": 75,
+			"created_at": "Wed Oct 16 14:35:56 +0000 2013",
+			"favourites_count": 4739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147041424384245760/3SxNSsRP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147041424384245760/3SxNSsRP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1964937763/1562311216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 338,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "숭고한 가사노동 어쩌구 하면서 엄마/아내/딸/누나/여동생/며느리에게 공짜 가사노동을 떠넘기는 논리와, 가사노동은 삶에서 가장 필수적이고 자신을 위해 중요한 일이기 때문에 국가와 기업도 당연히 가사노동 시간의 필요성을 인정해야 하고, 남자도 집에서는 당연히 가사노동을 해야 한다는 논리는 https://t.co/NNhsS9iA6a"
+	},
+	{
 		"created_at": "Sun Dec 15 08:49:16 +0000 2019",
 		"id": 1206134115268870100,
 		"id_str": "1206134115268870145",
