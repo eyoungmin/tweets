@@ -1,6 +1,1558 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 21:58:26 +0000 2019",
+		"id": 1206695101210087400,
+		"id_str": "1206695101210087424",
+		"full_text": "\"지금까지 인터뷰 요청하며 페이 요구 받은 적 없고,\" 적어도 이런 말을 굳이 붙이진 않을 것이다. 메일에서도 훈계하는 듯한 투로 \"제가 적어도 기자로 일을 하면서, 인터뷰는 그렇게 플러스, 마이너스를 계산하는 자리는 아닙니다...\"라는 굳이 메일에 적을 필요 없는 이야기도 하지 않을 것이다. https://t.co/fnLuLL0p40",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fnLuLL0p40",
+					"expanded_url": "https://twitter.com/monoresque/status/1206688604916813824",
+					"display_url": "twitter.com/monoresque/sta…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1205773512687808500,
+		"quoted_status_id_str": "1205773512687808512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fnLuLL0p40",
+			"expanded": "https://twitter.com/monoresque/status/1206688604916813824",
+			"display": "twitter.com/monoresque/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 14 08:56:22 +0000 2019",
+			"id": 1205773512687808500,
+			"id_str": "1205773512687808512",
+			"full_text": "지금까지 인터뷰 요청하며 페이 요구 받은 적 없고, 회신 중 '무료 노동 요구'란 부분이 맘에 걸려 회신했더니, 일부가 무단 캡쳐돼 나돌며 조리돌림 당하고 있다. 내게 최소한 인터뷰는 관심있는 사람에게 말 거는, 조금 공식적인 인사이고, 이런 모욕감은 처음이다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 126888890,
+				"id_str": "126888890",
+				"name": "JAEHYUK JUNG",
+				"screen_name": "monoresque",
+				"location": "SEOUL, KOREA",
+				"description": "音楽、映画、東京、人が一番むずい。",
+				"url": "https://t.co/QqpAHZKwz6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QqpAHZKwz6",
+								"expanded_url": "https://brunch.co.kr/@jaehyukjung",
+								"display_url": "brunch.co.kr/@jaehyukjung",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1731,
+				"friends_count": 296,
+				"listed_count": 16,
+				"created_at": "Sat Mar 27 09:20:19 +0000 2010",
+				"favourites_count": 3212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13004,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "090A0A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/126888890/1547190715",
+				"profile_link_color": "141617",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DFE4E6",
+				"profile_text_color": "0F0D0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 330,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"지금까지 인터뷰 요청하며 페이 요구 받은 적 없고,\" 적어도 이런 말을 굳이 붙이진 않을 것이다. 메일에서도 훈계하는 듯한 투로 \"제가 적어도 기자로 일을 하면서, 인터뷰는 그렇게 플러스, 마이너스를 계산하는 자리는 아닙니다...\"라는 굳이 메일에 적을 필요 없는 이야기도 하지 않을 것이다. https://t.co/fnLuLL0p40"
+	},
+	{
+		"created_at": "Mon Dec 16 21:37:11 +0000 2019",
+		"id": 1206689753371836400,
+		"id_str": "1206689753371836416",
+		"full_text": "@YOUNGGIFTEDWACK 플플달 👏🏻👏🏻👏🏻👏🏻👏🏻",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YOUNGGIFTEDWACK",
+					"name": "영기획YOUNG,GIFTED&WACK",
+					"id": 602961088,
+					"id_str": "602961088",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1206488540697284600,
+		"in_reply_to_status_id_str": "1206488540697284608",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@YOUNGGIFTEDWACK 플플달 👏🏻👏🏻👏🏻👏🏻👏🏻"
+	},
+	{
+		"created_at": "Mon Dec 16 21:36:24 +0000 2019",
+		"id": 1206488540697284600,
+		"id_str": "1206689556780552192",
+		"full_text": "Flash Flood Darlings의 “We'll Dance On”이 @AppleMusic #2019년최고의음악100선 에 선정되었습니다! 👯‍♂️👯‍♂️\nhttps://t.co/xGGFzmZc1P\n\nFlash Flood Darlings’s song “We'll Dance On” was added to the #The100BestSongsof2019 on @AppleMusic. Give it a listen now!👯‍♂️👯‍♂️ https://t.co/vORGGbphhG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2019년최고의음악100선",
+					"indices": [
+						52,
+						67
+					]
+				},
+				{
+					"text": "The100BestSongsof2019",
+					"indices": [
+						175,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						201,
+						212
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xGGFzmZc1P",
+					"expanded_url": "https://apple.co/36ECL5s",
+					"display_url": "apple.co/36ECL5s",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206488531872280600,
+					"id_str": "1206488531872280578",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EL5O7W_UcAIhwAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL5O7W_UcAIhwAV.jpg",
+					"url": "https://t.co/vORGGbphhG",
+					"display_url": "pic.twitter.com/vORGGbphhG",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1206488540697284608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206488531872280600,
+					"id_str": "1206488531872280578",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EL5O7W_UcAIhwAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL5O7W_UcAIhwAV.jpg",
+					"url": "https://t.co/vORGGbphhG",
+					"display_url": "pic.twitter.com/vORGGbphhG",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1206488540697284608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3755,
+			"friends_count": 1288,
+			"listed_count": 62,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Flash Flood Darlings의 “We'll Dance On”이 @AppleMusic #2019년최고의음악100선 에 선정되었습니다! 👯‍♂️👯‍♂️\nhttps://t.co/xGGFzmZc1P\n\nFlash Flood Darlings’s song “We'll Dance On” was added to the #The100BestSongsof2019 on @AppleMusic. Give it a listen now!👯‍♂️👯‍♂️ https://t.co/vORGGbphhG"
+	},
+	{
+		"created_at": "Mon Dec 16 21:35:59 +0000 2019",
+		"id": 1205721451669491700,
+		"id_str": "1206689452761837568",
+		"full_text": "저는 인터뷰 요청을 받으면 무조건 페이를 받는 것으로 확답을 받고 시작합니다. 해당 언론사는 제가 나오는 기사로 광고 수입 등 수입을 얻게 되고, 저는 인터뷰로 그들의 소득 활동에 기여하기 때문입니다. \n\n이제껏 몇 년 간 예외를 적용해야하는 경우는 한두 건 정도로 극히 드물었음을 알립니다. https://t.co/T4rA8UMi0Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T4rA8UMi0Y",
+					"expanded_url": "https://twitter.com/2lang2/status/1205442189989335043",
+					"display_url": "twitter.com/2lang2/status/…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 894907142343237600,
+			"id_str": "894907142343237632",
+			"name": "도도😷",
+			"screen_name": "dodo_visdomljus",
+			"location": "",
+			"description": "KBS 성폭력 피해자. 바로잡기 위한 싸움 8년차. 위즈덤캔들 도도. 공식계정: @wisdomcandle 해시태그: #wisdomcandle",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 9,
+			"listed_count": 7,
+			"created_at": "Tue Aug 08 13:04:24 +0000 2017",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/906593864722423808/8rxUt9lz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/906593864722423808/8rxUt9lz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/894907142343237632/1502200615",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1205442189989335000,
+		"quoted_status_id_str": "1205442189989335043",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T4rA8UMi0Y",
+			"expanded": "https://twitter.com/2lang2/status/1205442189989335043",
+			"display": "twitter.com/2lang2/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 13 10:59:48 +0000 2019",
+			"id": 1205442189989335000,
+			"id_str": "1205442189989335043",
+			"full_text": "인터뷰를 제안한 잡지사에 인터뷰 페이를 요청했더니 이런 메세지와 인터뷰 제안을 철회하겠다는 대답을 들었다. 인터뷰 노동에 페이가 없는데 어째서 무료노동이 아닌지? 게다가 본인은 같은 노동에 참여하면서 돈을 받는(월급받는) 기자가 아닌지?? https://t.co/m5BdQKWP7T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1205442179532914700,
+						"id_str": "1205442179532914688",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/ELqXRoxVAAAm7RA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELqXRoxVAAAm7RA.jpg",
+						"url": "https://t.co/m5BdQKWP7T",
+						"display_url": "pic.twitter.com/m5BdQKWP7T",
+						"expanded_url": "https://twitter.com/2lang2/status/1205442189989335043/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 211,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 211,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1205442179532914700,
+						"id_str": "1205442179532914688",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/ELqXRoxVAAAm7RA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELqXRoxVAAAm7RA.jpg",
+						"url": "https://t.co/m5BdQKWP7T",
+						"display_url": "pic.twitter.com/m5BdQKWP7T",
+						"expanded_url": "https://twitter.com/2lang2/status/1205442189989335043/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 211,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 211,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 213091891,
+				"id_str": "213091891",
+				"name": "이랑｜ Lang Lee｜イ・ラン",
+				"screen_name": "2lang2",
+				"location": "Seoul, Korea",
+				"description": "돈 받고 일합니다. 의뢰|문의 📧 info.langlee@gmail.com 📧 日本の仕事は info.sweetdreams@gmail.comでお願いします. STAFF @info_langlee",
+				"url": "https://t.co/bUYoYg3RHg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bUYoYg3RHg",
+								"expanded_url": "http://www.youtube.com/user/langleeschool",
+								"display_url": "youtube.com/user/langleesc…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30536,
+				"friends_count": 869,
+				"listed_count": 230,
+				"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+				"favourites_count": 4358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2111,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFF66",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1575387914",
+				"profile_link_color": "800000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6990,
+			"favorite_count": 2175,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 654,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저는 인터뷰 요청을 받으면 무조건 페이를 받는 것으로 확답을 받고 시작합니다. 해당 언론사는 제가 나오는 기사로 광고 수입 등 수입을 얻게 되고, 저는 인터뷰로 그들의 소득 활동에 기여하기 때문입니다. \n\n이제껏 몇 년 간 예외를 적용해야하는 경우는 한두 건 정도로 극히 드물었음을 알립니다. https://t.co/T4rA8UMi0Y"
+	},
+	{
+		"created_at": "Mon Dec 16 21:34:38 +0000 2019",
+		"id": 1206131154866204700,
+		"id_str": "1206689111458766848",
+		"full_text": "정말 너무한다. 내가 좋은 기자분들을 만난 덕도 있겠지만, 최소한 90년대 중반의 일간지 문화부 기자분들은 \"원래는 인터뷰비를 드려야 하는데 우리나라가 그 면에서는 많이 후진적이죠.\" 하며 미안한 기색이라도 보이셨다. 방송국에서는 적으나마 페이를 주었다. 어느 쪽이 모욕감을 느껴야 하나? https://t.co/7l6FUbNmqD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7l6FUbNmqD",
+					"expanded_url": "https://twitter.com/monoresque/status/1205773512687808512",
+					"display_url": "twitter.com/monoresque/sta…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 894385849,
+			"id_str": "894385849",
+			"name": "내가 제일 행복한 고양이",
+			"screen_name": "happiest_cat",
+			"location": "",
+			"description": "A fan of Dethklok",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 486,
+			"friends_count": 319,
+			"listed_count": 8,
+			"created_at": "Sun Oct 21 01:26:43 +0000 2012",
+			"favourites_count": 15632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2743618170/dc0e00395cd2aa99207f0241ef475a6a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2743618170/dc0e00395cd2aa99207f0241ef475a6a_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1205773512687808500,
+		"quoted_status_id_str": "1205773512687808512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7l6FUbNmqD",
+			"expanded": "https://twitter.com/monoresque/status/1205773512687808512",
+			"display": "twitter.com/monoresque/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 14 08:56:22 +0000 2019",
+			"id": 1205773512687808500,
+			"id_str": "1205773512687808512",
+			"full_text": "지금까지 인터뷰 요청하며 페이 요구 받은 적 없고, 회신 중 '무료 노동 요구'란 부분이 맘에 걸려 회신했더니, 일부가 무단 캡쳐돼 나돌며 조리돌림 당하고 있다. 내게 최소한 인터뷰는 관심있는 사람에게 말 거는, 조금 공식적인 인사이고, 이런 모욕감은 처음이다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 126888890,
+				"id_str": "126888890",
+				"name": "JAEHYUK JUNG",
+				"screen_name": "monoresque",
+				"location": "SEOUL, KOREA",
+				"description": "音楽、映画、東京、人が一番むずい。",
+				"url": "https://t.co/QqpAHZKwz6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QqpAHZKwz6",
+								"expanded_url": "https://brunch.co.kr/@jaehyukjung",
+								"display_url": "brunch.co.kr/@jaehyukjung",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1731,
+				"friends_count": 296,
+				"listed_count": 16,
+				"created_at": "Sat Mar 27 09:20:19 +0000 2010",
+				"favourites_count": 3212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13004,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "090A0A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/126888890/1547190715",
+				"profile_link_color": "141617",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DFE4E6",
+				"profile_text_color": "0F0D0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 330,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1173,
+		"favorite_count": 334,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정말 너무한다. 내가 좋은 기자분들을 만난 덕도 있겠지만, 최소한 90년대 중반의 일간지 문화부 기자분들은 \"원래는 인터뷰비를 드려야 하는데 우리나라가 그 면에서는 많이 후진적이죠.\" 하며 미안한 기색이라도 보이셨다. 방송국에서는 적으나마 페이를 주었다. 어느 쪽이 모욕감을 느껴야 하나? https://t.co/7l6FUbNmqD"
+	},
+	{
+		"created_at": "Mon Dec 16 21:34:27 +0000 2019",
+		"id": 1206246576307327000,
+		"id_str": "1206689066877509632",
+		"full_text": "@nifekind 전체 메일 보시고 말씀하시는지요? 제가 보낸 메일은 캡쳐된 부분이 전부가 아닙니다. 그리고 왜 익명의 수 만명에게 제가 이런저런 소리 들어야 합니까. 어디까지나 저와 그 분의 문제이고, 그 외 누가 뭐라 할 얘기 아닙니다. 수 만 팔로워 있으면서, 이런 트윗 올린 건 아무렇지 않은신가보네요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nifekind",
+					"name": "니페💍🌈",
+					"id": 897915645790109700,
+					"id_str": "897915645790109696",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1206198264090873900,
+		"in_reply_to_status_id_str": "1206198264090873857",
+		"in_reply_to_user_id": 897915645790109700,
+		"in_reply_to_user_id_str": "897915645790109696",
+		"in_reply_to_screen_name": "nifekind",
+		"user": {
+			"id": 126888890,
+			"id_str": "126888890",
+			"name": "JAEHYUK JUNG",
+			"screen_name": "monoresque",
+			"location": "SEOUL, KOREA",
+			"description": "音楽、映画、東京、人が一番むずい。",
+			"url": "https://t.co/QqpAHZKwz6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QqpAHZKwz6",
+							"expanded_url": "https://brunch.co.kr/@jaehyukjung",
+							"display_url": "brunch.co.kr/@jaehyukjung",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1731,
+			"friends_count": 296,
+			"listed_count": 16,
+			"created_at": "Sat Mar 27 09:20:19 +0000 2010",
+			"favourites_count": 3212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "090A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126888890/1547190715",
+			"profile_link_color": "141617",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFE4E6",
+			"profile_text_color": "0F0D0F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@nifekind 전체 메일 보시고 말씀하시는지요? 제가 보낸 메일은 캡쳐된 부분이 전부가 아닙니다. 그리고 왜 익명의 수 만명에게 제가 이런저런 소리 들어야 합니까. 어디까지나 저와 그 분의 문제이고, 그 외 누가 뭐라 할 얘기 아닙니다. 수 만 팔로워 있으면서, 이런 트윗 올린 건 아무렇지 않은신가보네요."
+	},
+	{
+		"created_at": "Mon Dec 16 21:32:52 +0000 2019",
+		"id": 1205774580352045000,
+		"id_str": "1206688668934529025",
+		"full_text": "애초 그 메일은 OO에게 보낸 답이었고, 그걸 무단 트윗할 권리는 OO에게 없고, 인터뷰를 장사처럼 생각했으면 이 일은 진작에 그만뒀다. 그런 셈으로 돌아가는 시대가 그저 팍팍하다. 인터뷰엔 돈보다 사람이란 게 묻어있고, 싫으면 그저 안하면 되는 일. 차라리 모르고 살면 좋은 게 점점 늘어간다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1205773512687808500,
+		"in_reply_to_status_id_str": "1205773512687808512",
+		"in_reply_to_user_id": 126888890,
+		"in_reply_to_user_id_str": "126888890",
+		"in_reply_to_screen_name": "monoresque",
+		"user": {
+			"id": 126888890,
+			"id_str": "126888890",
+			"name": "JAEHYUK JUNG",
+			"screen_name": "monoresque",
+			"location": "SEOUL, KOREA",
+			"description": "音楽、映画、東京、人が一番むずい。",
+			"url": "https://t.co/QqpAHZKwz6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QqpAHZKwz6",
+							"expanded_url": "https://brunch.co.kr/@jaehyukjung",
+							"display_url": "brunch.co.kr/@jaehyukjung",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1731,
+			"friends_count": 296,
+			"listed_count": 16,
+			"created_at": "Sat Mar 27 09:20:19 +0000 2010",
+			"favourites_count": 3212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "090A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126888890/1547190715",
+			"profile_link_color": "141617",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFE4E6",
+			"profile_text_color": "0F0D0F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "애초 그 메일은 OO에게 보낸 답이었고, 그걸 무단 트윗할 권리는 OO에게 없고, 인터뷰를 장사처럼 생각했으면 이 일은 진작에 그만뒀다. 그런 셈으로 돌아가는 시대가 그저 팍팍하다. 인터뷰엔 돈보다 사람이란 게 묻어있고, 싫으면 그저 안하면 되는 일. 차라리 모르고 살면 좋은 게 점점 늘어간다."
+	},
+	{
+		"created_at": "Mon Dec 16 21:32:37 +0000 2019",
+		"id": 1205773512687808500,
+		"id_str": "1206688604916813824",
+		"full_text": "지금까지 인터뷰 요청하며 페이 요구 받은 적 없고, 회신 중 '무료 노동 요구'란 부분이 맘에 걸려 회신했더니, 일부가 무단 캡쳐돼 나돌며 조리돌림 당하고 있다. 내게 최소한 인터뷰는 관심있는 사람에게 말 거는, 조금 공식적인 인사이고, 이런 모욕감은 처음이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126888890,
+			"id_str": "126888890",
+			"name": "JAEHYUK JUNG",
+			"screen_name": "monoresque",
+			"location": "SEOUL, KOREA",
+			"description": "音楽、映画、東京、人が一番むずい。",
+			"url": "https://t.co/QqpAHZKwz6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QqpAHZKwz6",
+							"expanded_url": "https://brunch.co.kr/@jaehyukjung",
+							"display_url": "brunch.co.kr/@jaehyukjung",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1731,
+			"friends_count": 296,
+			"listed_count": 16,
+			"created_at": "Sat Mar 27 09:20:19 +0000 2010",
+			"favourites_count": 3212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "090A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083622510048890880/KcVWigJ4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126888890/1547190715",
+			"profile_link_color": "141617",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFE4E6",
+			"profile_text_color": "0F0D0F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 330,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금까지 인터뷰 요청하며 페이 요구 받은 적 없고, 회신 중 '무료 노동 요구'란 부분이 맘에 걸려 회신했더니, 일부가 무단 캡쳐돼 나돌며 조리돌림 당하고 있다. 내게 최소한 인터뷰는 관심있는 사람에게 말 거는, 조금 공식적인 인사이고, 이런 모욕감은 처음이다."
+	},
+	{
+		"created_at": "Mon Dec 16 21:31:59 +0000 2019",
+		"id": 1206078615462400000,
+		"id_str": "1206688445755617280",
+		"full_text": "인터뷰 페이 다들 어떻게 생각하나 궁금해서 검색해보니, 문제의 메일을 보낸 본인이 트윗에서 분개를 하고 있네... 요청받은 분은 일부러 어디서 받은 메일인지 밝히지 않은 모양인데, 본인이 나서서 조리돌림당한다고 분개해버리면 이제 누구인지 다 알게 되잖아요... 😑",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49904623,
+			"id_str": "49904623",
+			"name": "인간지네퀴저씨",
+			"screen_name": "k_aquinas",
+			"location": "",
+			"description": "orzorzorz💩",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9465,
+			"friends_count": 1604,
+			"listed_count": 122,
+			"created_at": "Tue Jun 23 06:19:16 +0000 2009",
+			"favourites_count": 26917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 243061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDCEAB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182335991031316480/zcBtRgmf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182335991031316480/zcBtRgmf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49904623/1570725927",
+			"profile_link_color": "ADB89D",
+			"profile_sidebar_border_color": "DD6238",
+			"profile_sidebar_fill_color": "453D34",
+			"profile_text_color": "C1931F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 460,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "인터뷰 페이 다들 어떻게 생각하나 궁금해서 검색해보니, 문제의 메일을 보낸 본인이 트윗에서 분개를 하고 있네... 요청받은 분은 일부러 어디서 받은 메일인지 밝히지 않은 모양인데, 본인이 나서서 조리돌림당한다고 분개해버리면 이제 누구인지 다 알게 되잖아요... 😑"
+	},
+	{
+		"created_at": "Mon Dec 16 21:30:01 +0000 2019",
+		"id": 1206358508205154300,
+		"id_str": "1206687953491152896",
+		"full_text": "악플의 심리학 “우선 댓글의 익명성에 따라 언어 폭력이 증가하거나 감소하는 현상은 나타나지 않았다. 그보다 자신과 비슷한 사람들이 쓴 기존의 댓글들이 얼마나 온건하거나 온건하지 않은지에 더 큰 영향을 받는 것으로 나타났다.” https://t.co/X9UCQiQE2r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X9UCQiQE2r",
+					"expanded_url": "http://m.dongascience.donga.com/news.php?idx=32941",
+					"display_url": "m.dongascience.donga.com/news.php?idx=3…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75245,
+			"friends_count": 205,
+			"listed_count": 582,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 413,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "악플의 심리학 “우선 댓글의 익명성에 따라 언어 폭력이 증가하거나 감소하는 현상은 나타나지 않았다. 그보다 자신과 비슷한 사람들이 쓴 기존의 댓글들이 얼마나 온건하거나 온건하지 않은지에 더 큰 영향을 받는 것으로 나타났다.” https://t.co/X9UCQiQE2r"
+	},
+	{
 		"created_at": "Mon Dec 16 18:06:33 +0000 2019",
 		"id": 1206636748597448700,
 		"id_str": "1206636748597448704",
