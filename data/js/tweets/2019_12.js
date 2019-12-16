@@ -1,6 +1,1018 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 07:54:52 +0000 2019",
+		"id": 1206477619362848800,
+		"id_str": "1206482813685551105",
+		"full_text": "https://t.co/WeIkC11RuT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206477603973894100,
+					"id_str": "1206477603973894144",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EL5E_RZUEAAm_Sb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL5E_RZUEAAm_Sb.jpg",
+					"url": "https://t.co/WeIkC11RuT",
+					"display_url": "pic.twitter.com/WeIkC11RuT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1206477619362848770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1832,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 684,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 120,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 325,
+									"h": 127,
+									"w": 127
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 212,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 325,
+									"h": 127,
+									"w": 127
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206477603973894100,
+					"id_str": "1206477603973894144",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EL5E_RZUEAAm_Sb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL5E_RZUEAAm_Sb.jpg",
+					"url": "https://t.co/WeIkC11RuT",
+					"display_url": "pic.twitter.com/WeIkC11RuT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1206477619362848770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1832,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 684,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 120,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 325,
+									"h": 127,
+									"w": 127
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 212,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 325,
+									"h": 127,
+									"w": 127
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #LEEHI #TREASURE13",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5593973,
+			"friends_count": 42,
+			"listed_count": 7629,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7105,
+		"favorite_count": 13287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/WeIkC11RuT"
+	},
+	{
+		"created_at": "Mon Dec 16 07:52:17 +0000 2019",
+		"id": 1206482163992055800,
+		"id_str": "1206482163992055808",
+		"full_text": "#SMTOWN #Artist_News\n레드벨벳, 쿨&amp;스윗 러브송 ‘Psycho’로 업그레이드된 음악 세계 펼친다!\nhttps://t.co/8Cm5S8oSnV\n#레드벨벳 #RedVelvet https://t.co/yImSOOV56U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Cm5S8oSnV",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3001",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206482162654044200,
+					"id_str": "1206482162654044161",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EL5JInzW4AE5Etk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL5JInzW4AE5Etk.jpg",
+					"url": "https://t.co/yImSOOV56U",
+					"display_url": "pic.twitter.com/yImSOOV56U",
+					"expanded_url": "https://twitter.com/fromminn/status/1206482163992055808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 31,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 31,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 31,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 31,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206482162654044200,
+					"id_str": "1206482162654044161",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EL5JInzW4AE5Etk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL5JInzW4AE5Etk.jpg",
+					"url": "https://t.co/yImSOOV56U",
+					"display_url": "pic.twitter.com/yImSOOV56U",
+					"expanded_url": "https://twitter.com/fromminn/status/1206482163992055808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 31,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 31,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 31,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 31,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 867,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n레드벨벳, 쿨&amp;스윗 러브송 ‘Psycho’로 업그레이드된 음악 세계 펼친다!\nhttps://t.co/8Cm5S8oSnV\n#레드벨벳 #RedVelvet https://t.co/yImSOOV56U"
+	},
+	{
+		"created_at": "Mon Dec 16 07:52:16 +0000 2019",
+		"id": 1206482156681388000,
+		"id_str": "1206482156681388033",
+		"full_text": "#SMTOWN #Artist_News\n‘우주 쪼꼬미’ 신곡 ‘하얀 겨울’, 15일 오후 6시 대공개!\nhttps://t.co/uWgpwxGCfk\n#레드벨벳 #RedVelvet https://t.co/aTRStKglxE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uWgpwxGCfk",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/2996",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206482155142033400,
+					"id_str": "1206482155142033408",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EL5JIL0WsAAPfy_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL5JIL0WsAAPfy_.jpg",
+					"url": "https://t.co/aTRStKglxE",
+					"display_url": "pic.twitter.com/aTRStKglxE",
+					"expanded_url": "https://twitter.com/fromminn/status/1206482156681388033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 24,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 236,
+									"y": 29,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 368,
+									"y": 125,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 276,
+									"y": 147,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 24,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 236,
+									"y": 29,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 368,
+									"y": 125,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 276,
+									"y": 147,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 24,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 236,
+									"y": 29,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 368,
+									"y": 125,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 276,
+									"y": 147,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 24,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 236,
+									"y": 29,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 368,
+									"y": 125,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 276,
+									"y": 147,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206482155142033400,
+					"id_str": "1206482155142033408",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EL5JIL0WsAAPfy_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL5JIL0WsAAPfy_.jpg",
+					"url": "https://t.co/aTRStKglxE",
+					"display_url": "pic.twitter.com/aTRStKglxE",
+					"expanded_url": "https://twitter.com/fromminn/status/1206482156681388033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 24,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 236,
+									"y": 29,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 368,
+									"y": 125,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 276,
+									"y": 147,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 24,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 236,
+									"y": 29,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 368,
+									"y": 125,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 276,
+									"y": 147,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 24,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 236,
+									"y": 29,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 368,
+									"y": 125,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 276,
+									"y": 147,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 24,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 236,
+									"y": 29,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 368,
+									"y": 125,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 276,
+									"y": 147,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 867,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘우주 쪼꼬미’ 신곡 ‘하얀 겨울’, 15일 오후 6시 대공개!\nhttps://t.co/uWgpwxGCfk\n#레드벨벳 #RedVelvet https://t.co/aTRStKglxE"
+	},
+	{
 		"created_at": "Mon Dec 16 05:34:24 +0000 2019",
 		"id": 1206409075900108800,
 		"id_str": "1206447462740709376",
