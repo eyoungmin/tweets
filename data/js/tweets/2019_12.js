@@ -1,6 +1,1242 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 22:31:43 +0000 2019",
+		"id": 1206703480460595200,
+		"id_str": "1206703480460595202",
+		"full_text": "그리고 에프엑스 멤버는 에프엑스로는 분류 안되고 소녀시대 멤버는 소녀시대로 분류됨. 소녀시대랑 태연에 같은 뉴스가 두 개 있는 것. 그러나 에프엑스와 크리스탈에는 같을수도 있고 다를 수도 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1206702719664193500,
+		"in_reply_to_status_id_str": "1206702719664193536",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그리고 에프엑스 멤버는 에프엑스로는 분류 안되고 소녀시대 멤버는 소녀시대로 분류됨. 소녀시대랑 태연에 같은 뉴스가 두 개 있는 것. 그러나 에프엑스와 크리스탈에는 같을수도 있고 다를 수도 있음."
+	},
+	{
+		"created_at": "Mon Dec 16 22:28:42 +0000 2019",
+		"id": 1206702719664193500,
+		"id_str": "1206702719664193536",
+		"full_text": "레드벨벳 아티스트 뉴스에 왜 올라가 있는 건지. 태깅을 했으면 적힌 해시태그 방식으로 분류가 되게 만들어놔야지 그냥 키워드가 들어가 있으면 분류되게 만들어져있다. 내 생각에는 해시태그가 뭔지 잘 모르는 것 같다. https://t.co/OEa1BvwmCi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OEa1BvwmCi",
+					"expanded_url": "https://twitter.com/fromminn/status/1206482156681388033",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1206482156681388000,
+		"quoted_status_id_str": "1206482156681388033",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OEa1BvwmCi",
+			"expanded": "https://twitter.com/fromminn/status/1206482156681388033",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 16 07:52:16 +0000 2019",
+			"id": 1206482156681388000,
+			"id_str": "1206482156681388033",
+			"full_text": "#SMTOWN #Artist_News\n‘우주 쪼꼬미’ 신곡 ‘하얀 겨울’, 15일 오후 6시 대공개!\nhttps://t.co/uWgpwxGCfk\n#레드벨벳 #RedVelvet https://t.co/aTRStKglxE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SMTOWN",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "Artist_News",
+						"indices": [
+							8,
+							20
+						]
+					},
+					{
+						"text": "레드벨벳",
+						"indices": [
+							81,
+							86
+						]
+					},
+					{
+						"text": "RedVelvet",
+						"indices": [
+							87,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uWgpwxGCfk",
+						"expanded_url": "https://www.smtown.com/artist/newsDetail/2996",
+						"display_url": "smtown.com/artist/newsDet…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1206482155142033400,
+						"id_str": "1206482155142033408",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/EL5JIL0WsAAPfy_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EL5JIL0WsAAPfy_.jpg",
+						"url": "https://t.co/aTRStKglxE",
+						"display_url": "pic.twitter.com/aTRStKglxE",
+						"expanded_url": "https://twitter.com/fromminn/status/1206482156681388033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 541,
+								"h": 295,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 541,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 541,
+								"h": 295,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 24,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 236,
+										"y": 29,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 368,
+										"y": 125,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 276,
+										"y": 147,
+										"h": 34,
+										"w": 34
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 24,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 236,
+										"y": 29,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 368,
+										"y": 125,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 276,
+										"y": 147,
+										"h": 34,
+										"w": 34
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 24,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 236,
+										"y": 29,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 368,
+										"y": 125,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 276,
+										"y": 147,
+										"h": 34,
+										"w": 34
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 24,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 236,
+										"y": 29,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 368,
+										"y": 125,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 276,
+										"y": 147,
+										"h": 34,
+										"w": 34
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1206482155142033400,
+						"id_str": "1206482155142033408",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/EL5JIL0WsAAPfy_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EL5JIL0WsAAPfy_.jpg",
+						"url": "https://t.co/aTRStKglxE",
+						"display_url": "pic.twitter.com/aTRStKglxE",
+						"expanded_url": "https://twitter.com/fromminn/status/1206482156681388033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 541,
+								"h": 295,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 541,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 541,
+								"h": 295,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 24,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 236,
+										"y": 29,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 368,
+										"y": 125,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 276,
+										"y": 147,
+										"h": 34,
+										"w": 34
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 24,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 236,
+										"y": 29,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 368,
+										"y": 125,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 276,
+										"y": 147,
+										"h": 34,
+										"w": 34
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 24,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 236,
+										"y": 29,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 368,
+										"y": 125,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 276,
+										"y": 147,
+										"h": 34,
+										"w": 34
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 24,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 236,
+										"y": 29,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 368,
+										"y": 125,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 276,
+										"y": 147,
+										"h": 34,
+										"w": 34
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "Founder @solplparty",
+				"url": "https://t.co/pEO2Gdl415",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEO2Gdl415",
+								"expanded_url": "http://about.solplparty.com",
+								"display_url": "about.solplparty.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 290,
+				"friends_count": 868,
+				"listed_count": 8,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 36273,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52002,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 아티스트 뉴스에 왜 올라가 있는 건지. 태깅을 했으면 적힌 해시태그 방식으로 분류가 되게 만들어놔야지 그냥 키워드가 들어가 있으면 분류되게 만들어져있다. 내 생각에는 해시태그가 뭔지 잘 모르는 것 같다. https://t.co/OEa1BvwmCi"
+	},
+	{
+		"created_at": "Mon Dec 16 22:20:16 +0000 2019",
+		"id": 1205281269480751000,
+		"id_str": "1206700596008370176",
+		"full_text": "Huginn - 나대신 모니터링하고 행동하는 오픈소스 에이전트 https://t.co/hVIIrvK3ko \n내 서버에서 동작하는 Hackable한 버전의 IFTTT 또는 Zapier. \n날씨알림,트위터 키워드 모니터링,웹사이트 스크래핑하여 변화 감지,\nJIRA/MQTT/RSS/Slack 등 연동. \n다양한 에이전트의 내용들을 모아서 Dige...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hVIIrvK3ko",
+					"expanded_url": "http://j.mp/35hvGY3",
+					"display_url": "j.mp/35hvGY3",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다.",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1548,
+			"friends_count": 0,
+			"listed_count": 27,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 56,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Huginn - 나대신 모니터링하고 행동하는 오픈소스 에이전트 https://t.co/hVIIrvK3ko \n내 서버에서 동작하는 Hackable한 버전의 IFTTT 또는 Zapier. \n날씨알림,트위터 키워드 모니터링,웹사이트 스크래핑하여 변화 감지,\nJIRA/MQTT/RSS/Slack 등 연동. \n다양한 에이전트의 내용들을 모아서 Dige..."
+	},
+	{
+		"created_at": "Mon Dec 16 22:19:52 +0000 2019",
+		"id": 1205299983773102000,
+		"id_str": "1206700497463173120",
+		"full_text": "Public APIs - 무료 API 리스트 https://t.co/pnma9kUm33 \n800개 이상의 무료 API를 모아놓은 리파지토리. \n분야별로 API 제목,간단한 설명,인증필요 여부,HTTPS / CORS 지원여부를 깔끔히 테이블로 정리. \n이 API 리스트를 보는 API도 따로 존재 함 ( Public API for Public APIs )",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pnma9kUm33",
+					"expanded_url": "http://j.mp/2LNVQdt",
+					"display_url": "j.mp/2LNVQdt",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다.",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1548,
+			"friends_count": 0,
+			"listed_count": 27,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Public APIs - 무료 API 리스트 https://t.co/pnma9kUm33 \n800개 이상의 무료 API를 모아놓은 리파지토리. \n분야별로 API 제목,간단한 설명,인증필요 여부,HTTPS / CORS 지원여부를 깔끔히 테이블로 정리. \n이 API 리스트를 보는 API도 따로 존재 함 ( Public API for Public APIs )"
+	},
+	{
+		"created_at": "Mon Dec 16 22:14:29 +0000 2019",
+		"id": 1206369688382427100,
+		"id_str": "1206699141868314625",
+		"full_text": "우리나라 여성들의 우울, 분노 등 울분 지수가 남성에 비해 더 높은 것으로 나타났습니다. 그 결과 10명 중 8명의 여성이 한국을 떠나고 싶다고 생각하는 것으로 조사됐습니다.\nhttps://t.co/cNOlH96wEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cNOlH96wEL",
+					"expanded_url": "http://imnews.imbc.com/news/snsNews/5640641_22345.html",
+					"display_url": "imnews.imbc.com/news/snsNews/5…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385167,
+			"friends_count": 150990,
+			"listed_count": 3687,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5866,
+		"favorite_count": 1602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리나라 여성들의 우울, 분노 등 울분 지수가 남성에 비해 더 높은 것으로 나타났습니다. 그 결과 10명 중 8명의 여성이 한국을 떠나고 싶다고 생각하는 것으로 조사됐습니다.\nhttps://t.co/cNOlH96wEL"
+	},
+	{
+		"created_at": "Mon Dec 16 22:10:21 +0000 2019",
+		"id": 1206698099995005000,
+		"id_str": "1206698099995004933",
+		"full_text": "#Songkick #내한공연 #내한\nJELLVAKO and MOON YIRANG at Cakeshop (December 19, 2019)\nhttps://t.co/fEJmUi2pSI\n\n출연 : JELLVAKO and MOON YIRANG\n날짜 : 2019-12-19\n장소 : Cakeshop\n지역 : Seoul, Korea, Republic Of",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Songkick",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						16,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fEJmUi2pSI",
+					"expanded_url": "http://www.songkick.com/concerts/39347301-jellvako-at-cakeshop?utm_source=45522&utm_medium=partner",
+					"display_url": "songkick.com/concerts/39347…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "#Songkick #내한공연 #내한\nJELLVAKO and MOON YIRANG at Cakeshop (December 19, 2019)\nhttps://t.co/fEJmUi2pSI\n\n출연 : JELLVAKO and MOON YIRANG\n날짜 : 2019-12-19\n장소 : Cakeshop\n지역 : Seoul, Korea, Republic Of"
+	},
+	{
+		"created_at": "Mon Dec 16 22:10:17 +0000 2019",
+		"id": 1206698083066744800,
+		"id_str": "1206698083066744832",
+		"full_text": "#Songkick #내한공연 #내한\nDidi Han, L-Like, BRLLNT, and Q the trumpet at Soap Seoul (December 20, 2019)\nhttps://t.co/iZXG0OIjWB\n\n출연 : Didi Han, L-Like, BRLLNT, Q the trumpet and more\n날짜 : 2019-12-20\n장소 : Soap",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Songkick",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						16,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iZXG0OIjWB",
+					"expanded_url": "http://www.songkick.com/concerts/39347284-didi-han-at-soap-seoul?utm_source=45522&utm_medium=partner",
+					"display_url": "songkick.com/concerts/39347…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Songkick #내한공연 #내한\nDidi Han, L-Like, BRLLNT, and Q the trumpet at Soap Seoul (December 20, 2019)\nhttps://t.co/iZXG0OIjWB\n\n출연 : Didi Han, L-Like, BRLLNT, Q the trumpet and more\n날짜 : 2019-12-20\n장소 : Soap"
+	},
+	{
 		"created_at": "Mon Dec 16 21:58:26 +0000 2019",
 		"id": 1206695101210087400,
 		"id_str": "1206695101210087424",
@@ -323,7 +1559,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Mon Dec 16 21:36:24 +0000 2019",
 		"id": 1206488540697284600,
 		"id_str": "1206689556780552192",
-		"full_text": "Flash Flood Darlings의 “We'll Dance On”이 @AppleMusic #2019년최고의음악100선 에 선정되었습니다! 👯‍♂️👯‍♂️\nhttps://t.co/xGGFzmZc1P\n\nFlash Flood Darlings’s song “We'll Dance On” was added to the #The100BestSongsof2019 on @AppleMusic. Give it a listen now!👯‍♂️👯‍♂️ https://t.co/vORGGbphhG",
+		"full_text": "Flash Flood Darlings의 “We'll Dance On”이 @AppleMusic #2019년최고의음악100선 에 선정되었습니다! 👯♂️👯♂️\nhttps://t.co/xGGFzmZc1P\n\nFlash Flood Darlings’s song “We'll Dance On” was added to the #The100BestSongsof2019 on @AppleMusic. Give it a listen now!👯♂️👯♂️ https://t.co/vORGGbphhG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -567,7 +1803,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Flash Flood Darlings의 “We'll Dance On”이 @AppleMusic #2019년최고의음악100선 에 선정되었습니다! 👯‍♂️👯‍♂️\nhttps://t.co/xGGFzmZc1P\n\nFlash Flood Darlings’s song “We'll Dance On” was added to the #The100BestSongsof2019 on @AppleMusic. Give it a listen now!👯‍♂️👯‍♂️ https://t.co/vORGGbphhG"
+		"text": "Flash Flood Darlings의 “We'll Dance On”이 @AppleMusic #2019년최고의음악100선 에 선정되었습니다! 👯♂️👯♂️\nhttps://t.co/xGGFzmZc1P\n\nFlash Flood Darlings’s song “We'll Dance On” was added to the #The100BestSongsof2019 on @AppleMusic. Give it a listen now!👯♂️👯♂️ https://t.co/vORGGbphhG"
 	},
 	{
 		"created_at": "Mon Dec 16 21:35:59 +0000 2019",
