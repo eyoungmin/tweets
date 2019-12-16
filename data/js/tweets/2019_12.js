@@ -1,6 +1,2172 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 18:06:33 +0000 2019",
+		"id": 1206636748597448700,
+		"id_str": "1206636748597448704",
+		"full_text": "트위터 봇으로 돌리는 계정이 갑자기 잠겼는데 푸는 방법을 몰랐다. 잠겼다고 안내 메일도 오지 않았다. 설정 아무리 찾아도 못 찾았는데 트윗을 작성 하려고 하니 봇인지 인간인지 물어본다. 풀었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 봇으로 돌리는 계정이 갑자기 잠겼는데 푸는 방법을 몰랐다. 잠겼다고 안내 메일도 오지 않았다. 설정 아무리 찾아도 못 찾았는데 트윗을 작성 하려고 하니 봇인지 인간인지 물어본다. 풀었다."
+	},
+	{
+		"created_at": "Mon Dec 16 18:03:41 +0000 2019",
+		"id": 1205456543438606300,
+		"id_str": "1206636027189723136",
+		"full_text": "충북대 단톡방 성폭력 공론화글 공유합니다 https://t.co/jQ8I4Hq67A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205456531421925400,
+					"id_str": "1205456531421925376",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqkVBuUEAABcFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqkVBuUEAABcFH.jpg",
+					"url": "https://t.co/jQ8I4Hq67A",
+					"display_url": "pic.twitter.com/jQ8I4Hq67A",
+					"expanded_url": "https://twitter.com/Androgynie_/status/1205456543438606336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 178,
+									"y": 1221,
+									"h": 213,
+									"w": 213
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 119,
+									"y": 816,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 178,
+									"y": 1221,
+									"h": 213,
+									"w": 213
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 463,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205456531421925400,
+					"id_str": "1205456531421925376",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqkVBuUEAABcFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqkVBuUEAABcFH.jpg",
+					"url": "https://t.co/jQ8I4Hq67A",
+					"display_url": "pic.twitter.com/jQ8I4Hq67A",
+					"expanded_url": "https://twitter.com/Androgynie_/status/1205456543438606336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 178,
+									"y": 1221,
+									"h": 213,
+									"w": 213
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 119,
+									"y": 816,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 178,
+									"y": 1221,
+									"h": 213,
+									"w": 213
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 463,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205456531426201600,
+					"id_str": "1205456531426201600",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqkVBvVUAABzfV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqkVBvVUAABzfV.jpg",
+					"url": "https://t.co/jQ8I4Hq67A",
+					"display_url": "pic.twitter.com/jQ8I4Hq67A",
+					"expanded_url": "https://twitter.com/Androgynie_/status/1205456543438606336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205456531421986800,
+					"id_str": "1205456531421986816",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqkVBuVAAAAbAp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqkVBuVAAAAbAp.jpg",
+					"url": "https://t.co/jQ8I4Hq67A",
+					"display_url": "pic.twitter.com/jQ8I4Hq67A",
+					"expanded_url": "https://twitter.com/Androgynie_/status/1205456543438606336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205456531417780200,
+					"id_str": "1205456531417780224",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqkVBtU0AA5ufJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqkVBtU0AA5ufJ.jpg",
+					"url": "https://t.co/jQ8I4Hq67A",
+					"display_url": "pic.twitter.com/jQ8I4Hq67A",
+					"expanded_url": "https://twitter.com/Androgynie_/status/1205456543438606336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3280034912,
+			"id_str": "3280034912",
+			"name": "지니🌈",
+			"screen_name": "Androgynie_",
+			"location": "",
+			"description": "페미니즘 공부중, 논바이너리 젠더퀴어, 에이로맨틱-에이섹슈얼 #Girlscandoanything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1672,
+			"friends_count": 390,
+			"listed_count": 26,
+			"created_at": "Tue Jul 14 23:24:17 +0000 2015",
+			"favourites_count": 17860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998389343289917440/H8XXAxiy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998389343289917440/H8XXAxiy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3280034912/1522594155",
+			"profile_link_color": "C9DFC0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4981,
+		"favorite_count": 455,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "충북대 단톡방 성폭력 공론화글 공유합니다 https://t.co/jQ8I4Hq67A"
+	},
+	{
+		"created_at": "Mon Dec 16 18:03:26 +0000 2019",
+		"id": 1204782098415943700,
+		"id_str": "1206635963822133250",
+		"full_text": "이거 불꽃 터지는거 엘베 올라가면서야? ㅋㅋ큐ㅠㅠ아 불꽃놀이 너무 기대돼 대박적 ㅠㅠㅠㅠㅋㅋㅋㅋㅋㅋ https://t.co/pCTsh9vLBN https://t.co/4g00sftBgT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pCTsh9vLBN",
+					"expanded_url": "https://twitter.com/lifeisshonwendy/status/1204779268070227968",
+					"display_url": "twitter.com/lifeisshonwend…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204782008129314800,
+					"id_str": "1204782008129314816",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204782008129314816/pu/img/MLT0CHR6Jzb6gNQq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204782008129314816/pu/img/MLT0CHR6Jzb6gNQq.jpg",
+					"url": "https://t.co/4g00sftBgT",
+					"display_url": "pic.twitter.com/4g00sftBgT",
+					"expanded_url": "https://twitter.com/lifeisshonwendy/status/1204782098415943680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204782008129314800,
+					"id_str": "1204782008129314816",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204782008129314816/pu/img/MLT0CHR6Jzb6gNQq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204782008129314816/pu/img/MLT0CHR6Jzb6gNQq.jpg",
+					"url": "https://t.co/4g00sftBgT",
+					"display_url": "pic.twitter.com/4g00sftBgT",
+					"expanded_url": "https://twitter.com/lifeisshonwendy/status/1204782098415943680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 7557,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1204782008129314816/pu/pl/Ouazuum2btiVlqfu.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204782008129314816/pu/vid/640x360/wJajviRqaL7Dwsri.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204782008129314816/pu/vid/480x270/WU8-f0EjO8IYDyUq.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204782008129314816/pu/vid/1280x720/IDHz1CucvgegZlFm.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1057156402701955100,
+			"id_str": "1057156402701955072",
+			"name": "라손",
+			"screen_name": "lifeisshonwendy",
+			"location": "190630/190707/190819/191206",
+			"description": "승완아 널 심장으로 사랑해 내 가장 확실한 행복",
+			"url": "https://t.co/55hlcGXaiE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/55hlcGXaiE",
+							"expanded_url": "http://redvelvet.smtown.com",
+							"display_url": "redvelvet.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3163,
+			"friends_count": 399,
+			"listed_count": 41,
+			"created_at": "Tue Oct 30 06:25:02 +0000 2018",
+			"favourites_count": 15285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206593191819923456/-DgZ_3E-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206593191819923456/-DgZ_3E-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057156402701955072/1574672466",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204779268070228000,
+		"quoted_status_id_str": "1204779268070227968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pCTsh9vLBN",
+			"expanded": "https://twitter.com/lifeisshonwendy/status/1204779268070227968",
+			"display": "twitter.com/lifeisshonwend…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 11 15:05:35 +0000 2019",
+			"id": 1204779268070228000,
+			"id_str": "1204779268070227968",
+			"full_text": "와 어두워진 후에도 그대로 마법 속에 있어라..불꽃놀이가 시작된다..? 이게 ㅋㅋㅋㅋ 무슨 ㅋㅋㅋㅋㅋㅋㅋ 그래놓고 부활의 신부같은 모습이라고..? 소름돋아 진짜 대작이겠다... https://t.co/6UWPopRGFP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1204779241704845300,
+						"id_str": "1204779241704845312",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/ELg8Vk6U8AAhr10.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELg8Vk6U8AAhr10.jpg",
+						"url": "https://t.co/6UWPopRGFP",
+						"display_url": "pic.twitter.com/6UWPopRGFP",
+						"expanded_url": "https://twitter.com/lifeisshonwendy/status/1204779268070227968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 619,
+										"y": 119,
+										"h": 423,
+										"w": 423
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1058,
+										"y": 204,
+										"h": 722,
+										"w": 722
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1058,
+										"y": 204,
+										"h": 722,
+										"w": 722
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 351,
+										"y": 67,
+										"h": 239,
+										"w": 239
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1204779241704845300,
+						"id_str": "1204779241704845312",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/ELg8Vk6U8AAhr10.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELg8Vk6U8AAhr10.jpg",
+						"url": "https://t.co/6UWPopRGFP",
+						"display_url": "pic.twitter.com/6UWPopRGFP",
+						"expanded_url": "https://twitter.com/lifeisshonwendy/status/1204779268070227968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 619,
+										"y": 119,
+										"h": 423,
+										"w": 423
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1058,
+										"y": 204,
+										"h": 722,
+										"w": 722
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1058,
+										"y": 204,
+										"h": 722,
+										"w": 722
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 351,
+										"y": 67,
+										"h": 239,
+										"w": 239
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1204779241721626600,
+						"id_str": "1204779241721626624",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/ELg8Vk-VAAA_nk6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELg8Vk-VAAA_nk6.jpg",
+						"url": "https://t.co/6UWPopRGFP",
+						"display_url": "pic.twitter.com/6UWPopRGFP",
+						"expanded_url": "https://twitter.com/lifeisshonwendy/status/1204779268070227968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1057156402701955100,
+				"id_str": "1057156402701955072",
+				"name": "라손",
+				"screen_name": "lifeisshonwendy",
+				"location": "190630/190707/190819/191206",
+				"description": "승완아 널 심장으로 사랑해 내 가장 확실한 행복",
+				"url": "https://t.co/55hlcGXaiE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/55hlcGXaiE",
+								"expanded_url": "http://redvelvet.smtown.com",
+								"display_url": "redvelvet.smtown.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3163,
+				"friends_count": 399,
+				"listed_count": 41,
+				"created_at": "Tue Oct 30 06:25:02 +0000 2018",
+				"favourites_count": 15285,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24731,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1206593191819923456/-DgZ_3E-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206593191819923456/-DgZ_3E-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057156402701955072/1574672466",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 475,
+			"favorite_count": 391,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 657,
+		"favorite_count": 450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 불꽃 터지는거 엘베 올라가면서야? ㅋㅋ큐ㅠㅠ아 불꽃놀이 너무 기대돼 대박적 ㅠㅠㅠㅠㅋㅋㅋㅋㅋㅋ https://t.co/pCTsh9vLBN https://t.co/4g00sftBgT"
+	},
+	{
+		"created_at": "Mon Dec 16 18:03:19 +0000 2019",
+		"id": 1204779268070228000,
+		"id_str": "1206635932289396737",
+		"full_text": "와 어두워진 후에도 그대로 마법 속에 있어라..불꽃놀이가 시작된다..? 이게 ㅋㅋㅋㅋ 무슨 ㅋㅋㅋㅋㅋㅋㅋ 그래놓고 부활의 신부같은 모습이라고..? 소름돋아 진짜 대작이겠다... https://t.co/6UWPopRGFP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204779241704845300,
+					"id_str": "1204779241704845312",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/ELg8Vk6U8AAhr10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELg8Vk6U8AAhr10.jpg",
+					"url": "https://t.co/6UWPopRGFP",
+					"display_url": "pic.twitter.com/6UWPopRGFP",
+					"expanded_url": "https://twitter.com/lifeisshonwendy/status/1204779268070227968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 619,
+									"y": 119,
+									"h": 423,
+									"w": 423
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1058,
+									"y": 204,
+									"h": 722,
+									"w": 722
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1058,
+									"y": 204,
+									"h": 722,
+									"w": 722
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 67,
+									"h": 239,
+									"w": 239
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204779241704845300,
+					"id_str": "1204779241704845312",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/ELg8Vk6U8AAhr10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELg8Vk6U8AAhr10.jpg",
+					"url": "https://t.co/6UWPopRGFP",
+					"display_url": "pic.twitter.com/6UWPopRGFP",
+					"expanded_url": "https://twitter.com/lifeisshonwendy/status/1204779268070227968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 619,
+									"y": 119,
+									"h": 423,
+									"w": 423
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1058,
+									"y": 204,
+									"h": 722,
+									"w": 722
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1058,
+									"y": 204,
+									"h": 722,
+									"w": 722
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 67,
+									"h": 239,
+									"w": 239
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204779241721626600,
+					"id_str": "1204779241721626624",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/ELg8Vk-VAAA_nk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELg8Vk-VAAA_nk6.jpg",
+					"url": "https://t.co/6UWPopRGFP",
+					"display_url": "pic.twitter.com/6UWPopRGFP",
+					"expanded_url": "https://twitter.com/lifeisshonwendy/status/1204779268070227968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1057156402701955100,
+			"id_str": "1057156402701955072",
+			"name": "라손",
+			"screen_name": "lifeisshonwendy",
+			"location": "190630/190707/190819/191206",
+			"description": "승완아 널 심장으로 사랑해 내 가장 확실한 행복",
+			"url": "https://t.co/55hlcGXaiE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/55hlcGXaiE",
+							"expanded_url": "http://redvelvet.smtown.com",
+							"display_url": "redvelvet.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3163,
+			"friends_count": 399,
+			"listed_count": 41,
+			"created_at": "Tue Oct 30 06:25:02 +0000 2018",
+			"favourites_count": 15285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206593191819923456/-DgZ_3E-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206593191819923456/-DgZ_3E-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057156402701955072/1574672466",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 475,
+		"favorite_count": 391,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와 어두워진 후에도 그대로 마법 속에 있어라..불꽃놀이가 시작된다..? 이게 ㅋㅋㅋㅋ 무슨 ㅋㅋㅋㅋㅋㅋㅋ 그래놓고 부활의 신부같은 모습이라고..? 소름돋아 진짜 대작이겠다... https://t.co/6UWPopRGFP"
+	},
+	{
+		"created_at": "Mon Dec 16 18:02:54 +0000 2019",
+		"id": 1206599212718153700,
+		"id_str": "1206635827675062272",
+		"full_text": "나이트버전은 처음 공개한 티저에서 입은 옷인데, 웬디를 제외하고 전부 흰 드레스. 어제 낮에 공개된 예리의 데이버전이 검은 드레스인것으로 미루어 봤을때 다른 멤버들도 데이버전은 검은 드레스일것으로 추측되는데, 그렇다면 웬디만 또 반대로 데이버전에 흰 드레스를 입는다면.. 좀 소름일듯. https://t.co/1V8TlMbr2E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206599153746231300,
+					"id_str": "1206599153746231296",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6ziZlUwAA_NoO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6ziZlUwAA_NoO.jpg",
+					"url": "https://t.co/1V8TlMbr2E",
+					"display_url": "pic.twitter.com/1V8TlMbr2E",
+					"expanded_url": "https://twitter.com/pirohansaram/status/1206599212718153728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 901,
+							"h": 453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 572,
+									"y": 105,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 328,
+									"y": 126,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 572,
+									"y": 105,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 328,
+									"y": 126,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 572,
+									"y": 105,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 328,
+									"y": 126,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 79,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 247,
+									"y": 95,
+									"h": 27,
+									"w": 27
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206599153746231300,
+					"id_str": "1206599153746231296",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6ziZlUwAA_NoO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6ziZlUwAA_NoO.jpg",
+					"url": "https://t.co/1V8TlMbr2E",
+					"display_url": "pic.twitter.com/1V8TlMbr2E",
+					"expanded_url": "https://twitter.com/pirohansaram/status/1206599212718153728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 901,
+							"h": 453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 572,
+									"y": 105,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 328,
+									"y": 126,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 572,
+									"y": 105,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 328,
+									"y": 126,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 572,
+									"y": 105,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 328,
+									"y": 126,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 79,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 247,
+									"y": 95,
+									"h": 27,
+									"w": 27
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1206599164735316000,
+					"id_str": "1206599164735315970",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6zjChU4AIfWov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6zjChU4AIfWov.jpg",
+					"url": "https://t.co/1V8TlMbr2E",
+					"display_url": "pic.twitter.com/1V8TlMbr2E",
+					"expanded_url": "https://twitter.com/pirohansaram/status/1206599212718153728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 546,
+									"y": 560,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 944,
+									"y": 420,
+									"h": 232,
+									"w": 232
+								},
+								{
+									"x": 222,
+									"y": 928,
+									"h": 980,
+									"w": 980
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 546,
+									"y": 560,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 944,
+									"y": 420,
+									"h": 232,
+									"w": 232
+								},
+								{
+									"x": 222,
+									"y": 928,
+									"h": 980,
+									"w": 980
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 186,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 313,
+									"y": 139,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 73,
+									"y": 308,
+									"h": 325,
+									"w": 325
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 319,
+									"y": 327,
+									"h": 137,
+									"w": 137
+								},
+								{
+									"x": 552,
+									"y": 245,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 130,
+									"y": 543,
+									"h": 573,
+									"w": 573
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1206599180568813600,
+					"id_str": "1206599180568813569",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6zj9gU4AE4HPg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6zj9gU4AE4HPg.jpg",
+					"url": "https://t.co/1V8TlMbr2E",
+					"display_url": "pic.twitter.com/1V8TlMbr2E",
+					"expanded_url": "https://twitter.com/pirohansaram/status/1206599212718153728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 332,
+									"y": 443,
+									"h": 171,
+									"w": 171
+								},
+								{
+									"x": 128,
+									"y": 461,
+									"h": 559,
+									"w": 559
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 568,
+									"y": 758,
+									"h": 292,
+									"w": 292
+								},
+								{
+									"x": 220,
+									"y": 788,
+									"h": 956,
+									"w": 956
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 188,
+									"y": 251,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 73,
+									"y": 261,
+									"h": 317,
+									"w": 317
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 568,
+									"y": 758,
+									"h": 292,
+									"w": 292
+								},
+								{
+									"x": 220,
+									"y": 788,
+									"h": 956,
+									"w": 956
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1206599193717903400,
+					"id_str": "1206599193717903361",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6zkufUEAEBrf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6zkufUEAEBrf_.jpg",
+					"url": "https://t.co/1V8TlMbr2E",
+					"display_url": "pic.twitter.com/1V8TlMbr2E",
+					"expanded_url": "https://twitter.com/pirohansaram/status/1206599212718153728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968761920126890000,
+			"id_str": "968761920126889984",
+			"name": "피로하다",
+			"screen_name": "pirohansaram",
+			"location": "",
+			"description": "사람이 과즙일 수가 있나 @_vanell0pe",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 514,
+			"friends_count": 81,
+			"listed_count": 13,
+			"created_at": "Wed Feb 28 08:16:55 +0000 2018",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203421052312834048/bxs43mkt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203421052312834048/bxs43mkt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968761920126889984/1575726924",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나이트버전은 처음 공개한 티저에서 입은 옷인데, 웬디를 제외하고 전부 흰 드레스. 어제 낮에 공개된 예리의 데이버전이 검은 드레스인것으로 미루어 봤을때 다른 멤버들도 데이버전은 검은 드레스일것으로 추측되는데, 그렇다면 웬디만 또 반대로 데이버전에 흰 드레스를 입는다면.. 좀 소름일듯. https://t.co/1V8TlMbr2E"
+	},
+	{
+		"created_at": "Mon Dec 16 18:02:45 +0000 2019",
+		"id": 1206598924011634700,
+		"id_str": "1206635789813084160",
+		"full_text": "반대로 예리는 진실을 몰라. 빨간 장미꽃은 열렬한 사랑만을 의미해. 사이코가 사랑에 관한 노래라고 했으니 다 사랑에 빠져있지만 진실을 아는건 웬디 혼자라는거 https://t.co/Amiv6W8uze",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206598912464707600,
+					"id_str": "1206598912464707589",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6zUWvU4AU1dXL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6zUWvU4AU1dXL.jpg",
+					"url": "https://t.co/Amiv6W8uze",
+					"display_url": "pic.twitter.com/Amiv6W8uze",
+					"expanded_url": "https://twitter.com/rhea_darlim/status/1206598924011634688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206598912464707600,
+					"id_str": "1206598912464707589",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6zUWvU4AU1dXL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6zUWvU4AU1dXL.jpg",
+					"url": "https://t.co/Amiv6W8uze",
+					"display_url": "pic.twitter.com/Amiv6W8uze",
+					"expanded_url": "https://twitter.com/rhea_darlim/status/1206598924011634688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1206598912603091000,
+					"id_str": "1206598912603090947",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6zUXQUcAMnFBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6zUXQUcAMnFBL.jpg",
+					"url": "https://t.co/Amiv6W8uze",
+					"display_url": "pic.twitter.com/Amiv6W8uze",
+					"expanded_url": "https://twitter.com/rhea_darlim/status/1206598924011634688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1604,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206597155894390800,
+		"in_reply_to_status_id_str": "1206597155894390784",
+		"in_reply_to_user_id": 1050757362376564700,
+		"in_reply_to_user_id_str": "1050757362376564737",
+		"in_reply_to_screen_name": "rhea_darlim",
+		"user": {
+			"id": 1050757362376564700,
+			"id_str": "1050757362376564737",
+			"name": "ᵖˢʸᶜʰᵒ 센토레아림🦄",
+			"screen_name": "rhea_darlim",
+			"location": "",
+			"description": "인장을 누르신분들 소식 듣고가세요 12/23 레드벨벳컴백 [싸이코] // 우리 하루 끝은 언제나 항상 함께라는거 ◡̈",
+			"url": "https://t.co/YGifq2Qojp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YGifq2Qojp",
+							"expanded_url": "https://asked.kr/rheadarlim",
+							"display_url": "asked.kr/rheadarlim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 837,
+			"friends_count": 329,
+			"listed_count": 2,
+			"created_at": "Fri Oct 12 14:37:32 +0000 2018",
+			"favourites_count": 7223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203648459716231168/19JxIzvV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203648459716231168/19JxIzvV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050757362376564737/1575271776",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "반대로 예리는 진실을 몰라. 빨간 장미꽃은 열렬한 사랑만을 의미해. 사이코가 사랑에 관한 노래라고 했으니 다 사랑에 빠져있지만 진실을 아는건 웬디 혼자라는거 https://t.co/Amiv6W8uze"
+	},
+	{
 		"created_at": "Mon Dec 16 15:55:16 +0000 2019",
 		"id": 1206603394829279200,
 		"id_str": "1206603707246415879",
