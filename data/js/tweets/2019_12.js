@@ -1,6 +1,2477 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 14:54:59 +0000 2019",
+		"id": 1206944834017083400,
+		"id_str": "1206950926784892928",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] -Teaser Image (Night Ver.) #SEULGI\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/RzC67C2FYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEULGI",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						154,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206932020871327700,
+					"id_str": "1206932020871327744",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EL_iR0QUcAAEJ_K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL_iR0QUcAAEJ_K.jpg",
+					"url": "https://t.co/RzC67C2FYm",
+					"display_url": "pic.twitter.com/RzC67C2FYm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1206944834017083392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1042,
+									"y": 1501,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 720,
+									"h": 49,
+									"w": 49
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 853,
+									"y": 1229,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 407,
+									"h": 28,
+									"w": 28
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206932020871327700,
+					"id_str": "1206932020871327744",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EL_iR0QUcAAEJ_K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL_iR0QUcAAEJ_K.jpg",
+					"url": "https://t.co/RzC67C2FYm",
+					"display_url": "pic.twitter.com/RzC67C2FYm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1206944834017083392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1042,
+									"y": 1501,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 720,
+									"h": 49,
+									"w": 49
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 853,
+									"y": 1229,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 407,
+									"h": 28,
+									"w": 28
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1991469,
+			"friends_count": 2,
+			"listed_count": 6022,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18090,
+		"favorite_count": 26764,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] -Teaser Image (Night Ver.) #SEULGI\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/RzC67C2FYm"
+	},
+	{
+		"created_at": "Tue Dec 17 14:54:57 +0000 2019",
+		"id": 1206944801653846000,
+		"id_str": "1206950917691576321",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] -Teaser Image (Night Ver.) #SEULGI\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/W0Oma7ZZAk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEULGI",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						154,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206931964441186300,
+					"id_str": "1206931964441186306",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EL_iOiCU0AICsO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL_iOiCU0AICsO2.jpg",
+					"url": "https://t.co/W0Oma7ZZAk",
+					"display_url": "pic.twitter.com/W0Oma7ZZAk",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1206944801653846017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206931964441186300,
+					"id_str": "1206931964441186306",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EL_iOiCU0AICsO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL_iOiCU0AICsO2.jpg",
+					"url": "https://t.co/W0Oma7ZZAk",
+					"display_url": "pic.twitter.com/W0Oma7ZZAk",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1206944801653846017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1991469,
+			"friends_count": 2,
+			"listed_count": 6022,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17651,
+		"favorite_count": 25221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] -Teaser Image (Night Ver.) #SEULGI\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/W0Oma7ZZAk"
+	},
+	{
+		"created_at": "Tue Dec 17 14:54:53 +0000 2019",
+		"id": 1206944771651977200,
+		"id_str": "1206950900138463233",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] -Teaser Image (Night Ver.) #SEULGI\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/88cKwJZx8L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEULGI",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						154,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206931899173572600,
+					"id_str": "1206931899173572609",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EL_iKu5UEAE88Dj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL_iKu5UEAE88Dj.jpg",
+					"url": "https://t.co/88cKwJZx8L",
+					"display_url": "pic.twitter.com/88cKwJZx8L",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1206944771651977216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 447,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 454,
+									"y": 669,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 720,
+									"y": 932,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 947,
+									"y": 1396,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 195,
+									"y": 253,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 257,
+									"y": 379,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 589,
+									"y": 763,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 776,
+									"y": 1143,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206931899173572600,
+					"id_str": "1206931899173572609",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EL_iKu5UEAE88Dj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL_iKu5UEAE88Dj.jpg",
+					"url": "https://t.co/88cKwJZx8L",
+					"display_url": "pic.twitter.com/88cKwJZx8L",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1206944771651977216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 447,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 454,
+									"y": 669,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 720,
+									"y": 932,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 947,
+									"y": 1396,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 195,
+									"y": 253,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 257,
+									"y": 379,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 589,
+									"y": 763,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 776,
+									"y": 1143,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1991469,
+			"friends_count": 2,
+			"listed_count": 6022,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19760,
+		"favorite_count": 28531,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] -Teaser Image (Night Ver.) #SEULGI\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/88cKwJZx8L"
+	},
+	{
+		"created_at": "Tue Dec 17 14:53:58 +0000 2019",
+		"id": 1205777465714458600,
+		"id_str": "1206950669246246912",
+		"full_text": "홍대 인디 씬을 보고 꿈을 키웠고, 그 안에서 성장하여 현재까지 활동하고 있는 5명의 이야기를 에세이와 인터뷰로 엮은 ‘씬의 아이들 / 재미공작소’ 책방과 온라인에서 만나실 수 있습니다.\n\n김윤하, 몬구, 연진, 전자양, 하박국\n\nhttps://t.co/T1lEDhP0AN https://t.co/Swr50CLcBV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T1lEDhP0AN",
+					"expanded_url": "https://m.smartstore.naver.com/justorage/products/4760288856",
+					"display_url": "m.smartstore.naver.com/justorage/prod…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205777440687001600,
+					"id_str": "1205777440687001602",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvIMZ5UEAIUuvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvIMZ5UEAIUuvD.jpg",
+					"url": "https://t.co/Swr50CLcBV",
+					"display_url": "pic.twitter.com/Swr50CLcBV",
+					"expanded_url": "https://twitter.com/camera_storage/status/1205777465714458624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 538,
+									"y": 926,
+									"h": 192,
+									"w": 192
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 538,
+									"y": 926,
+									"h": 192,
+									"w": 192
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 315,
+									"y": 542,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 178,
+									"y": 307,
+									"h": 63,
+									"w": 63
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205777440687001600,
+					"id_str": "1205777440687001602",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvIMZ5UEAIUuvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvIMZ5UEAIUuvD.jpg",
+					"url": "https://t.co/Swr50CLcBV",
+					"display_url": "pic.twitter.com/Swr50CLcBV",
+					"expanded_url": "https://twitter.com/camera_storage/status/1205777465714458624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 538,
+									"y": 926,
+									"h": 192,
+									"w": 192
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 538,
+									"y": 926,
+									"h": 192,
+									"w": 192
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 315,
+									"y": 542,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 178,
+									"y": 307,
+									"h": 63,
+									"w": 63
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205777440691245000,
+					"id_str": "1205777440691245057",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvIMZ6U0AEAMS2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvIMZ6U0AEAMS2.jpg",
+					"url": "https://t.co/Swr50CLcBV",
+					"display_url": "pic.twitter.com/Swr50CLcBV",
+					"expanded_url": "https://twitter.com/camera_storage/status/1205777465714458624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 44,
+									"y": 1846,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 14,
+									"y": 612,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 25,
+									"y": 1081,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 44,
+									"y": 1846,
+									"h": 116,
+									"w": 116
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205777440695447600,
+					"id_str": "1205777440695447552",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvIMZ7U8AAXoT_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvIMZ7U8AAXoT_.jpg",
+					"url": "https://t.co/Swr50CLcBV",
+					"display_url": "pic.twitter.com/Swr50CLcBV",
+					"expanded_url": "https://twitter.com/camera_storage/status/1205777465714458624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 592,
+									"y": 850,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 282,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 592,
+									"y": 850,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 346,
+									"y": 498,
+									"h": 83,
+									"w": 83
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205777440703799300,
+					"id_str": "1205777440703799298",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvIMZ9UYAI3Tli.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvIMZ9UYAI3Tli.jpg",
+					"url": "https://t.co/Swr50CLcBV",
+					"display_url": "pic.twitter.com/Swr50CLcBV",
+					"expanded_url": "https://twitter.com/camera_storage/status/1205777465714458624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996544345,
+			"id_str": "996544345",
+			"name": "스토리지북앤필름",
+			"screen_name": "camera_storage",
+			"location": "서울 용산구 용산동2가 1-701, 1F",
+			"description": "Independent book shop in Seoul / 07051039975",
+			"url": "https://t.co/feqPTWZnir",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feqPTWZnir",
+							"expanded_url": "http://www.storagebookandfilm.com",
+							"display_url": "storagebookandfilm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10530,
+			"friends_count": 505,
+			"listed_count": 118,
+			"created_at": "Sat Dec 08 06:09:59 +0000 2012",
+			"favourites_count": 5235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156787643503398912/eGimGfBn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156787643503398912/eGimGfBn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996544345/1407895195",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍대 인디 씬을 보고 꿈을 키웠고, 그 안에서 성장하여 현재까지 활동하고 있는 5명의 이야기를 에세이와 인터뷰로 엮은 ‘씬의 아이들 / 재미공작소’ 책방과 온라인에서 만나실 수 있습니다.\n\n김윤하, 몬구, 연진, 전자양, 하박국\n\nhttps://t.co/T1lEDhP0AN https://t.co/Swr50CLcBV"
+	},
+	{
+		"created_at": "Tue Dec 17 14:53:46 +0000 2019",
+		"id": 1206944198676500500,
+		"id_str": "1206950618356748288",
+		"full_text": "‘두리번거리다’ 배민라이브 촬영했습니다 오늘 그 영상이 공개되었어요 🎬 https://t.co/gtdC7odFux",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gtdC7odFux",
+					"expanded_url": "http://youtu.be/ItsQqtHFQWA",
+					"display_url": "youtu.be/ItsQqtHFQWA",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116421374,
+			"id_str": "116421374",
+			"name": "시와 🏳️‍🌈",
+			"screen_name": "withsiwa",
+			"location": "우리집",
+			"description": "2019년 10월 9일 4집 ‘다녀왔습니다’ 발매 그리고 섭외는 withsiwa@hanmail.net",
+			"url": "https://t.co/VlYZXa9Sf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VlYZXa9Sf7",
+							"expanded_url": "http://linktr.ee/withsiwa",
+							"display_url": "linktr.ee/withsiwa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8707,
+			"friends_count": 429,
+			"listed_count": 355,
+			"created_at": "Mon Feb 22 11:29:47 +0000 2010",
+			"favourites_count": 1552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930242998444572672/hfM41xrE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930242998444572672/hfM41xrE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116421374/1495071753",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘두리번거리다’ 배민라이브 촬영했습니다 오늘 그 영상이 공개되었어요 🎬 https://t.co/gtdC7odFux"
+	},
+	{
+		"created_at": "Tue Dec 17 14:53:37 +0000 2019",
+		"id": 1206761071958052900,
+		"id_str": "1206950580540858370",
+		"full_text": "포스터 상태 왜이럼?\n지하철에 이런게 있길래 도대체 뭔데 이딴식으로 비주얼을 뽑았나 해서 봤더니🤦🏻‍♀️🤦🏻‍♀️\n범죄 피해자 전문심리치료서비스 ‘스마일센터’ 소개라네？포스터 때문에 피해자 트라우마 더 깊어질듯. https://t.co/XBlbfFiPQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206761062294409200,
+					"id_str": "1206761062294409216",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EL9Gyt7U0AAvzWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL9Gyt7U0AAvzWN.jpg",
+					"url": "https://t.co/XBlbfFiPQO",
+					"display_url": "pic.twitter.com/XBlbfFiPQO",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1206761071958052865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 81,
+									"h": 138,
+									"w": 138
+								},
+								{
+									"x": 86,
+									"y": 80,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 81,
+									"h": 138,
+									"w": 138
+								},
+								{
+									"x": 86,
+									"y": 80,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 81,
+									"h": 138,
+									"w": 138
+								},
+								{
+									"x": 86,
+									"y": 80,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 81,
+									"h": 138,
+									"w": 138
+								},
+								{
+									"x": 86,
+									"y": 80,
+									"h": 146,
+									"w": 146
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206761062294409200,
+					"id_str": "1206761062294409216",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EL9Gyt7U0AAvzWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL9Gyt7U0AAvzWN.jpg",
+					"url": "https://t.co/XBlbfFiPQO",
+					"display_url": "pic.twitter.com/XBlbfFiPQO",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1206761071958052865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 81,
+									"h": 138,
+									"w": 138
+								},
+								{
+									"x": 86,
+									"y": 80,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 81,
+									"h": 138,
+									"w": 138
+								},
+								{
+									"x": 86,
+									"y": 80,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 81,
+									"h": 138,
+									"w": 138
+								},
+								{
+									"x": 86,
+									"y": 80,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 81,
+									"h": 138,
+									"w": 138
+								},
+								{
+									"x": 86,
+									"y": 80,
+									"h": 146,
+									"w": 146
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1206761062290182100,
+					"id_str": "1206761062290182145",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EL9Gyt6UUAExUMs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL9Gyt6UUAExUMs.jpg",
+					"url": "https://t.co/XBlbfFiPQO",
+					"display_url": "pic.twitter.com/XBlbfFiPQO",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1206761071958052865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1777,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 590,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1041,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1234,
+									"y": 778,
+									"h": 218,
+									"w": 218
+								},
+								{
+									"x": 790,
+									"y": 782,
+									"h": 220,
+									"w": 220
+								},
+								{
+									"x": 102,
+									"y": 434,
+									"h": 256,
+									"w": 256
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1234,
+									"y": 778,
+									"h": 218,
+									"w": 218
+								},
+								{
+									"x": 790,
+									"y": 782,
+									"h": 220,
+									"w": 220
+								},
+								{
+									"x": 102,
+									"y": 434,
+									"h": 256,
+									"w": 256
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 409,
+									"y": 258,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 262,
+									"y": 259,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 33,
+									"y": 144,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 723,
+									"y": 455,
+									"h": 127,
+									"w": 127
+								},
+								{
+									"x": 462,
+									"y": 458,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 59,
+									"y": 254,
+									"h": 150,
+									"w": 150
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114251007,
+			"id_str": "1114251007",
+			"name": "𝐿𝑒𝑠𝑠 𝑖𝑠 𝐿𝑒𝑠𝑠",
+			"screen_name": "lessislessxx",
+			"location": "남이미워죽겠으면죽으렴",
+			"description": "無人島 | 너의 생각 궁금하지 않습니다 | 미술과 패션일을 하던 (旧)외노자 | #소비생활백과 해시주인 | 체인미러블락사용중 |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4256,
+			"friends_count": 1005,
+			"listed_count": 19,
+			"created_at": "Wed Jan 23 12:20:24 +0000 2013",
+			"favourites_count": 17089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186686150041198593/M6Aw2C4H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186686150041198593/M6Aw2C4H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114251007/1576123358",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4887,
+		"favorite_count": 878,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포스터 상태 왜이럼?\n지하철에 이런게 있길래 도대체 뭔데 이딴식으로 비주얼을 뽑았나 해서 봤더니🤦🏻‍♀️🤦🏻‍♀️\n범죄 피해자 전문심리치료서비스 ‘스마일센터’ 소개라네？포스터 때문에 피해자 트라우마 더 깊어질듯. https://t.co/XBlbfFiPQO"
+	},
+	{
+		"created_at": "Tue Dec 17 14:51:39 +0000 2019",
+		"id": 1206950087315902500,
+		"id_str": "1206950087315902467",
+		"full_text": "Integomat의 장점은 멀티 레시피를 만들 수 있음. RSS를 트위터에 보내고 구글 스프레드시트에 저장해라가 무료버전에서도 가능. RSS를 트위터에 보내고 트위터에 보낸 내용을 다시 텔레그램에 보내라 가능. 게다가 직관적인 UI을 제공해주는 것이 강점. Zapier는 유료. #Automation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Automation",
+					"indices": [
+						156,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1206947793228779500,
+		"in_reply_to_status_id_str": "1206947793228779520",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Integomat의 장점은 멀티 레시피를 만들 수 있음. RSS를 트위터에 보내고 구글 스프레드시트에 저장해라가 무료버전에서도 가능. RSS를 트위터에 보내고 트위터에 보낸 내용을 다시 텔레그램에 보내라 가능. 게다가 직관적인 UI을 제공해주는 것이 강점. Zapier는 유료. #Automation"
+	},
+	{
+		"created_at": "Tue Dec 17 14:47:51 +0000 2019",
+		"id": 1206888725289980000,
+		"id_str": "1206949131299807244",
+		"full_text": "잘못된 뇌 상식: 평소 뇌의 10%만 쓴다-&gt;뇌만큼 에너지효율 높은 장기도 없다; 좌뇌형 우뇌형 인간 따로 있다-&gt;모든 창의적 사고에 양쪽 다 사용한다; 감정은 이성적 사고 방해한다-&gt;서로 공조; 사람마다 학습법 다르다-&gt;학습법마다 얻는 게 다를 뿐, 누구나 다양하게 배우길. https://t.co/Bw3H8P85XB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bw3H8P85XB",
+					"expanded_url": "https://www.fastcompany.com/90443201/4-common-but-harmful-myths-about-how-your-brain-works?utm_campaign=eem524%3A524%3As00%3A20191216_fc&utm_medium=Compass&utm_source=newsletter",
+					"display_url": "fastcompany.com/90443201/4-com…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102982,
+			"friends_count": 2438,
+			"listed_count": 397,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 218,
+		"favorite_count": 163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잘못된 뇌 상식: 평소 뇌의 10%만 쓴다-&gt;뇌만큼 에너지효율 높은 장기도 없다; 좌뇌형 우뇌형 인간 따로 있다-&gt;모든 창의적 사고에 양쪽 다 사용한다; 감정은 이성적 사고 방해한다-&gt;서로 공조; 사람마다 학습법 다르다-&gt;학습법마다 얻는 게 다를 뿐, 누구나 다양하게 배우길. https://t.co/Bw3H8P85XB"
+	},
+	{
+		"created_at": "Tue Dec 17 14:45:15 +0000 2019",
+		"id": 1206948477986623500,
+		"id_str": "1206948477986623488",
+		"full_text": "듣똑라 mp3 파일URL 제공에 id값이 제공되는데 팟티 퍼머링크 게시물URL이다. mp3 바로듣기와 팟티 주소를 함께 공유할 수 있다.\nhttps://t.co/GFeaUL34R1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GFeaUL34R1",
+					"expanded_url": "https://twitter.com/fromminn/status/1206947326859907075",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1206947793228779500,
+		"in_reply_to_status_id_str": "1206947793228779520",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1206947326859907000,
+		"quoted_status_id_str": "1206947326859907075",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GFeaUL34R1",
+			"expanded": "https://twitter.com/fromminn/status/1206947326859907075",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 17 14:40:41 +0000 2019",
+			"id": 1206947326859907000,
+			"id_str": "1206947326859907075",
+			"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n211]10분시사/'보니하니' 논란이 보여준 아역 출연자 인권 문제\nhttps://t.co/DHFcHxhUsJ\n팟티: https://t.co/z3EyVTJ1y9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "듣다보면똑똑해지는라디오",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"text": "듣똑라",
+						"indices": [
+							14,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DHFcHxhUsJ",
+						"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1576485466549.mp3",
+						"display_url": "cdn-cf.podty.me/meta/episode_a…",
+						"indices": [
+							57,
+							80
+						]
+					},
+					{
+						"url": "https://t.co/z3EyVTJ1y9",
+						"expanded_url": "https://www.podty.me/episode/12684316",
+						"display_url": "podty.me/episode/126843…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "Founder @solplparty",
+				"url": "https://t.co/pEO2Gdl415",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEO2Gdl415",
+								"expanded_url": "http://about.solplparty.com",
+								"display_url": "about.solplparty.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 290,
+				"friends_count": 868,
+				"listed_count": 8,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 36271,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52042,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "듣똑라 mp3 파일URL 제공에 id값이 제공되는데 팟티 퍼머링크 게시물URL이다. mp3 바로듣기와 팟티 주소를 함께 공유할 수 있다.\nhttps://t.co/GFeaUL34R1"
+	},
+	{
+		"created_at": "Tue Dec 17 14:42:32 +0000 2019",
+		"id": 1206947793228779500,
+		"id_str": "1206947793228779520",
+		"full_text": "팟캐스트 RSS를 Zapier에 연결하면 Guid값을 가져올 수 있다. 보통 Guid값이 mp3파일 주소인 경우가 많다. IFTTT는 불가능하고 Integromat은 무료 제공량이 한정적이라 보름넘으면 멈춘다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "팟캐스트 RSS를 Zapier에 연결하면 Guid값을 가져올 수 있다. 보통 Guid값이 mp3파일 주소인 경우가 많다. IFTTT는 불가능하고 Integromat은 무료 제공량이 한정적이라 보름넘으면 멈춘다."
+	},
+	{
 		"created_at": "Tue Dec 17 11:02:10 +0000 2019",
 		"id": 1206892334928973800,
 		"id_str": "1206892334928973825",
