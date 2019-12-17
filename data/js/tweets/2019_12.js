@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 18:55:56 +0000 2019",
+		"id": 1169124424575881200,
+		"id_str": "1207011561715318784",
+		"full_text": "과거 김예림의 질문에\n현재 림킴이 새롭게 답하다\n \n#버드와이저 #BUDXBEATS #버드엑스비츠\n#림킴 #LIMKIM https://t.co/Xq3WYv0gP6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "버드와이저",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "BUDXBEATS",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "버드엑스비츠",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"text": "림킴",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "LIMKIM",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169124243524604000,
+					"id_str": "1169124243524603904",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169124243524603904/pu/img/t3oJWNOIbO9jpd0R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169124243524603904/pu/img/t3oJWNOIbO9jpd0R.jpg",
+					"url": "https://t.co/Xq3WYv0gP6",
+					"display_url": "pic.twitter.com/Xq3WYv0gP6",
+					"expanded_url": "https://twitter.com/budweiserkorea/status/1169124424575881216/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169124243524604000,
+					"id_str": "1169124243524603904",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169124243524603904/pu/img/t3oJWNOIbO9jpd0R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169124243524603904/pu/img/t3oJWNOIbO9jpd0R.jpg",
+					"url": "https://t.co/Xq3WYv0gP6",
+					"display_url": "pic.twitter.com/Xq3WYv0gP6",
+					"expanded_url": "https://twitter.com/budweiserkorea/status/1169124424575881216/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31114,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169124243524603904/pu/vid/320x320/EEXGprlWK1UpJcwD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1169124243524603904/pu/pl/R0PTPnrD8Vy0zNoz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169124243524603904/pu/vid/720x720/RNbYAUakxz_-QPfK.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169124243524603904/pu/vid/480x480/a8gSCpqjbnJmEWNt.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1717682436,
+			"id_str": "1717682436",
+			"name": "버드와이저 코리아",
+			"screen_name": "budweiserkorea",
+			"location": "seoul Korea",
+			"description": "King Of Beers #BeAKing 만 19세 이상 이용 및 공유 * 경고: 지나친 음주는 뇌졸중, 기억력 손상이나 치매를 유발합니다. 임신 중 음주는 기형아 출생 위험을 높입니다.",
+			"url": "https://t.co/AtN2dY7yEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AtN2dY7yEH",
+							"expanded_url": "http://budweiser.com",
+							"display_url": "budweiser.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Sun Sep 01 04:39:49 +0000 2013",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206855216840077314/adRkCAjn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206855216840077314/adRkCAjn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1717682436/1552008012",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "과거 김예림의 질문에\n현재 림킴이 새롭게 답하다\n \n#버드와이저 #BUDXBEATS #버드엑스비츠\n#림킴 #LIMKIM https://t.co/Xq3WYv0gP6"
+	},
+	{
+		"created_at": "Tue Dec 17 18:55:48 +0000 2019",
+		"id": 1183665569070862300,
+		"id_str": "1207011528714543104",
+		"full_text": "김예림이 아닌 림킴으로\n새 앨범 &lt;GENERASIAN&gt; 10/15 공개 🎧\n\n#버드와이저 #버드엑스비츠 #BUDXBEATS\n#림킴 #LIMKIM https://t.co/UsaZ8Sq8ID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "버드와이저",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "버드엑스비츠",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "BUDXBEATS",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "림킴",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "LIMKIM",
+					"indices": [
+						79,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183664783683252200,
+					"id_str": "1183664783683252224",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183664783683252224/pu/img/x57hu4CmxhOFgLAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183664783683252224/pu/img/x57hu4CmxhOFgLAn.jpg",
+					"url": "https://t.co/UsaZ8Sq8ID",
+					"display_url": "pic.twitter.com/UsaZ8Sq8ID",
+					"expanded_url": "https://twitter.com/budweiserkorea/status/1183665569070862337/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183664783683252200,
+					"id_str": "1183664783683252224",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183664783683252224/pu/img/x57hu4CmxhOFgLAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183664783683252224/pu/img/x57hu4CmxhOFgLAn.jpg",
+					"url": "https://t.co/UsaZ8Sq8ID",
+					"display_url": "pic.twitter.com/UsaZ8Sq8ID",
+					"expanded_url": "https://twitter.com/budweiserkorea/status/1183665569070862337/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 133008,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183664783683252224/pu/vid/480x270/GkeTIUNacFGEs4h8.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183664783683252224/pu/vid/1280x720/ia_QZ86M0662POjm.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183664783683252224/pu/vid/640x360/iLysnrfDsV2dr2XY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1183664783683252224/pu/pl/0fEw3YieRYSB7gp8.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1717682436,
+			"id_str": "1717682436",
+			"name": "버드와이저 코리아",
+			"screen_name": "budweiserkorea",
+			"location": "seoul Korea",
+			"description": "King Of Beers #BeAKing 만 19세 이상 이용 및 공유 * 경고: 지나친 음주는 뇌졸중, 기억력 손상이나 치매를 유발합니다. 임신 중 음주는 기형아 출생 위험을 높입니다.",
+			"url": "https://t.co/AtN2dY7yEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AtN2dY7yEH",
+							"expanded_url": "http://budweiser.com",
+							"display_url": "budweiser.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Sun Sep 01 04:39:49 +0000 2013",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206855216840077314/adRkCAjn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206855216840077314/adRkCAjn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1717682436/1552008012",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김예림이 아닌 림킴으로\n새 앨범 &lt;GENERASIAN&gt; 10/15 공개 🎧\n\n#버드와이저 #버드엑스비츠 #BUDXBEATS\n#림킴 #LIMKIM https://t.co/UsaZ8Sq8ID"
+	},
+	{
 		"created_at": "Tue Dec 17 17:42:32 +0000 2019",
 		"id": 1206993089669345300,
 		"id_str": "1206993089669345280",
