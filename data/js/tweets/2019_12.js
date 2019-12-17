@@ -1,6 +1,712 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 09:54:53 +0000 2019",
+		"id": 1206864228709060600,
+		"id_str": "1206875401752129536",
+		"full_text": "[STAR GARDEN2] 레드벨벳(Redvelvet) 웬디&amp;조이#03 멤버 폭로전? '무한긍정' 웬디 멘붕사건\n\n👉https://t.co/zrgkz2jvUE\n👉https://t.co/fxKENEzxKD\n\n#웬디 #WENDY #조이 #JOY #레드벨벳 #RedVelvet #STARGARDEN2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "STARGARDEN2",
+					"indices": [
+						156,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zrgkz2jvUE",
+					"expanded_url": "https://www.vlive.tv/video/165942",
+					"display_url": "vlive.tv/video/165942",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/fxKENEzxKD",
+					"expanded_url": "https://youtu.be/ArwNNpkLsOo",
+					"display_url": "youtu.be/ArwNNpkLsOo",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1989472,
+			"friends_count": 2,
+			"listed_count": 6025,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1899,
+		"favorite_count": 4192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STAR GARDEN2] 레드벨벳(Redvelvet) 웬디&amp;조이#03 멤버 폭로전? '무한긍정' 웬디 멘붕사건\n\n👉https://t.co/zrgkz2jvUE\n👉https://t.co/fxKENEzxKD\n\n#웬디 #WENDY #조이 #JOY #레드벨벳 #RedVelvet #STARGARDEN2"
+	},
+	{
+		"created_at": "Tue Dec 17 09:21:33 +0000 2019",
+		"id": 1136547375810355200,
+		"id_str": "1206867015270420480",
+		"full_text": "#TAEYEON made a special playlist so everyone can experience a little part of her Japan tour! \n https://t.co/K3HQc5tZP9\n\nWhich would be your favourite song to hear live?\n\n@GirlsGeneration #소원 #TAEYEON_JAPAN_TOUR_2019_Signal https://t.co/6aGeQEexsU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "소원",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "TAEYEON_JAPAN_TOUR_2019_Signal",
+					"indices": [
+						191,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						170,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K3HQc5tZP9",
+					"expanded_url": "http://spoti.fi/TAEYEON-JPTour",
+					"display_url": "spoti.fi/TAEYEON-JPTour",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136546756290760700,
+					"id_str": "1136546756290760704",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136546756290760704/pu/img/7iNmaweCgsMPnr8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136546756290760704/pu/img/7iNmaweCgsMPnr8l.jpg",
+					"url": "https://t.co/6aGeQEexsU",
+					"display_url": "pic.twitter.com/6aGeQEexsU",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1136547375810355200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136546756290760700,
+					"id_str": "1136546756290760704",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136546756290760704/pu/img/7iNmaweCgsMPnr8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136546756290760704/pu/img/7iNmaweCgsMPnr8l.jpg",
+					"url": "https://t.co/6aGeQEexsU",
+					"display_url": "pic.twitter.com/6aGeQEexsU",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1136547375810355200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 17084,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136546756290760704/pu/vid/480x480/3FI-Cig_r4fbIeuM.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136546756290760704/pu/vid/320x320/rQWhJ909DezCb_Co.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136546756290760704/pu/vid/720x720/es0NjsYrdzX27XdD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1136546756290760704/pu/pl/I8gqJue_bM7J4Ef3.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114141,
+			"friends_count": 189,
+			"listed_count": 185,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108279680006709248/m7AM6Gyg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108279680006709248/m7AM6Gyg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1526972671",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1014,
+		"favorite_count": 1993,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TAEYEON made a special playlist so everyone can experience a little part of her Japan tour! \n https://t.co/K3HQc5tZP9\n\nWhich would be your favourite song to hear live?\n\n@GirlsGeneration #소원 #TAEYEON_JAPAN_TOUR_2019_Signal https://t.co/6aGeQEexsU"
+	},
+	{
+		"created_at": "Tue Dec 17 09:19:54 +0000 2019",
+		"id": 1188994102135672800,
+		"id_str": "1206866599052886016",
+		"full_text": "Get ready! Because #TAEYEON is bringing back her powerful #Spark through her 2nd Album, “Purpose”!💕💥 https://t.co/d7sMHLcvz9\n\n@GirlsGeneration #태연 #소녀시대 #GirlsGeneration #Purpose #불티 #Spark https://t.co/Gd0WIFrwQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "Spark",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						153,
+						169
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "불티",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "Spark",
+					"indices": [
+						183,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						126,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d7sMHLcvz9",
+					"expanded_url": "https://spoti.fi/TAEYEON-Purpose",
+					"display_url": "spoti.fi/TAEYEON-Purpose",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1188994047572004900,
+					"id_str": "1188994047572004864",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1188994047572004864/pu/img/fYscpoJZWzmXn8vc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1188994047572004864/pu/img/fYscpoJZWzmXn8vc.jpg",
+					"url": "https://t.co/Gd0WIFrwQO",
+					"display_url": "pic.twitter.com/Gd0WIFrwQO",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1188994102135672832/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188994047572004900,
+					"id_str": "1188994047572004864",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1188994047572004864/pu/img/fYscpoJZWzmXn8vc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1188994047572004864/pu/img/fYscpoJZWzmXn8vc.jpg",
+					"url": "https://t.co/Gd0WIFrwQO",
+					"display_url": "pic.twitter.com/Gd0WIFrwQO",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1188994102135672832/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24920,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1188994047572004864/pu/vid/480x270/2YTlFmBrnBzjG7lS.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1188994047572004864/pu/vid/1280x720/oCS2y126Wj_TmLhX.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1188994047572004864/pu/pl/rFa_6FPXg_Twdqmg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1188994047572004864/pu/vid/640x360/8Jd784ZtugfkN4Kl.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114141,
+			"friends_count": 189,
+			"listed_count": 185,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108279680006709248/m7AM6Gyg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108279680006709248/m7AM6Gyg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1526972671",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4617,
+		"favorite_count": 9901,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get ready! Because #TAEYEON is bringing back her powerful #Spark through her 2nd Album, “Purpose”!💕💥 https://t.co/d7sMHLcvz9\n\n@GirlsGeneration #태연 #소녀시대 #GirlsGeneration #Purpose #불티 #Spark https://t.co/Gd0WIFrwQO"
+	},
+	{
 		"created_at": "Tue Dec 17 08:31:17 +0000 2019",
 		"id": 1206854366705209300,
 		"id_str": "1206854366705209344",
