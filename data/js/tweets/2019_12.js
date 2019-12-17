@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 15:33:28 +0000 2019",
+		"id": 1206960609033625600,
+		"id_str": "1206960609033625606",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n[♠크리스마스 특집 인터뷰 1-2] 재재\nhttps://t.co/tCAESeWV7F\n팟티: https://t.co/dYW0jBv3i8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tCAESeWV7F",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1576593798431.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/dYW0jBv3i8",
+					"expanded_url": "https://www.podty.me/episode/12688730",
+					"display_url": "podty.me/episode/126887…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n[♠크리스마스 특집 인터뷰 1-2] 재재\nhttps://t.co/tCAESeWV7F\n팟티: https://t.co/dYW0jBv3i8"
+	},
+	{
 		"created_at": "Tue Dec 17 14:54:59 +0000 2019",
 		"id": 1206944834017083400,
 		"id_str": "1206950926784892928",
@@ -1421,7 +1553,7 @@ Grailbird.data.tweets_2019_12 =
 		"user": {
 			"id": 116421374,
 			"id_str": "116421374",
-			"name": "시와 🏳️‍🌈",
+			"name": "시와 🏳️🌈",
 			"screen_name": "withsiwa",
 			"location": "우리집",
 			"description": "2019년 10월 9일 4집 ‘다녀왔습니다’ 발매 그리고 섭외는 withsiwa@hanmail.net",
@@ -1498,7 +1630,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Tue Dec 17 14:53:37 +0000 2019",
 		"id": 1206761071958052900,
 		"id_str": "1206950580540858370",
-		"full_text": "포스터 상태 왜이럼?\n지하철에 이런게 있길래 도대체 뭔데 이딴식으로 비주얼을 뽑았나 해서 봤더니🤦🏻‍♀️🤦🏻‍♀️\n범죄 피해자 전문심리치료서비스 ‘스마일센터’ 소개라네？포스터 때문에 피해자 트라우마 더 깊어질듯. https://t.co/XBlbfFiPQO",
+		"full_text": "포스터 상태 왜이럼?\n지하철에 이런게 있길래 도대체 뭔데 이딴식으로 비주얼을 뽑았나 해서 봤더니🤦🏻♀️🤦🏻♀️\n범죄 피해자 전문심리치료서비스 ‘스마일센터’ 소개라네？포스터 때문에 피해자 트라우마 더 깊어질듯. https://t.co/XBlbfFiPQO",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1913,7 +2045,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "포스터 상태 왜이럼?\n지하철에 이런게 있길래 도대체 뭔데 이딴식으로 비주얼을 뽑았나 해서 봤더니🤦🏻‍♀️🤦🏻‍♀️\n범죄 피해자 전문심리치료서비스 ‘스마일센터’ 소개라네？포스터 때문에 피해자 트라우마 더 깊어질듯. https://t.co/XBlbfFiPQO"
+		"text": "포스터 상태 왜이럼?\n지하철에 이런게 있길래 도대체 뭔데 이딴식으로 비주얼을 뽑았나 해서 봤더니🤦🏻♀️🤦🏻♀️\n범죄 피해자 전문심리치료서비스 ‘스마일센터’ 소개라네？포스터 때문에 피해자 트라우마 더 깊어질듯. https://t.co/XBlbfFiPQO"
 	},
 	{
 		"created_at": "Tue Dec 17 14:51:39 +0000 2019",
