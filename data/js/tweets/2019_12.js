@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 20:03:57 +0000 2019",
+		"id": 1206756226991710200,
+		"id_str": "1207028678510596096",
+		"full_text": "해명해서 끝나지도 않고 무대응으로 일관한다고 끝나지도 않는다. 우르르 몰려와 \"블쉐의 말에 따르면 네가 이런 일을 했다는데 해명하라\"는 말을 계속 계속 들어야 하는 피로감이 사람을 좀먹는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1206755276289798100,
+		"in_reply_to_status_id_str": "1206755276289798144",
+		"in_reply_to_user_id": 108900861,
+		"in_reply_to_user_id_str": "108900861",
+		"in_reply_to_screen_name": "hoho_beakbal",
+		"user": {
+			"id": 108900861,
+			"id_str": "108900861",
+			"name": "호호할머니😷 #FreeHongKong",
+			"screen_name": "hoho_beakbal",
+			"location": "공기 중 균사 속",
+			"description": "함께 식사하실 인공지능 구합니다 /\n목표: 나이 든 사람 되기 /\n핀치클럽 추천인 7C77S",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3360,
+			"friends_count": 837,
+			"listed_count": 62,
+			"created_at": "Wed Jan 27 10:43:51 +0000 2010",
+			"favourites_count": 11094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164181413265989632/RSZM6wGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164181413265989632/RSZM6wGO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108900861/1571559837",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "해명해서 끝나지도 않고 무대응으로 일관한다고 끝나지도 않는다. 우르르 몰려와 \"블쉐의 말에 따르면 네가 이런 일을 했다는데 해명하라\"는 말을 계속 계속 들어야 하는 피로감이 사람을 좀먹는다."
+	},
+	{
+		"created_at": "Tue Dec 17 20:03:53 +0000 2019",
+		"id": 1206755276289798100,
+		"id_str": "1207028664090513410",
+		"full_text": "이런 식이다. 블쉐가 A라는 사람이 한 적이 없는 말을 만들어 \"~~라고 말한 A\", \"~~를 옹호한 A\"라고 트윗하면, 블쉐의 주변인들이 A에게 가서 '이것을 해명하라'고 요구한다. A는 몇십 명의 사람들에게 자기가 한 적이 없는 말을 해명해야 한다. https://t.co/W9gJCcW2PG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W9gJCcW2PG",
+					"expanded_url": "https://twitter.com/Gotherego_o/status/1206740421105176576",
+					"display_url": "twitter.com/Gotherego_o/st…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108900861,
+			"id_str": "108900861",
+			"name": "호호할머니😷 #FreeHongKong",
+			"screen_name": "hoho_beakbal",
+			"location": "공기 중 균사 속",
+			"description": "함께 식사하실 인공지능 구합니다 /\n목표: 나이 든 사람 되기 /\n핀치클럽 추천인 7C77S",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3360,
+			"friends_count": 837,
+			"listed_count": 62,
+			"created_at": "Wed Jan 27 10:43:51 +0000 2010",
+			"favourites_count": 11094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164181413265989632/RSZM6wGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164181413265989632/RSZM6wGO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108900861/1571559837",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1206740421105176600,
+		"quoted_status_id_str": "1206740421105176576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W9gJCcW2PG",
+			"expanded": "https://twitter.com/Gotherego_o/status/1206740421105176576",
+			"display": "twitter.com/Gotherego_o/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 17 00:58:31 +0000 2019",
+			"id": 1206740421105176600,
+			"id_str": "1206740421105176576",
+			"full_text": "@Serious_Sister2  해당 발언에 대한 해명을 요구합니다. 공적 인사라면 더욱이 발언에 신중하셨어야 하는 것 아닙니까. 자기 말이 갖는 무게감과 그에 따른 책임은 외면하시나요? https://t.co/FlvkK1URQs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Serious_Sister2",
+						"name": "생각많은둘째언니",
+						"id": 795883266167304200,
+						"id_str": "795883266167304192",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FlvkK1URQs",
+						"expanded_url": "https://twitter.com/__bluesuede/status/1206582403780599810",
+						"display_url": "twitter.com/__bluesuede/st…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 795883266167304200,
+			"in_reply_to_user_id_str": "795883266167304192",
+			"in_reply_to_screen_name": "Serious_Sister2",
+			"user": {
+				"id": 1172829365358350300,
+				"id_str": "1172829365358350338",
+				"name": "해먹/ 여러분 8시간 주무세요.",
+				"screen_name": "Gotherego_o",
+				"location": "인스타 @gotherego_o  ",
+				"description": "나를 귀빈으로 대하는 삶을 실천하는 사람. 적게 소유하며 풍족하게 살기. https://t.co/9LnvZyeToV / 멘션, 디엠 이외 알림 확인 안 합니다. 비팔 알림 껐습니다. + 내가 다해먹겠다고 하도 말하고 다녀서 \"해먹\"이란 별명을 친구가 붙여줌.",
+				"url": "https://t.co/4DbdBvm1aH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4DbdBvm1aH",
+								"expanded_url": "https://www.podbbang.com/ch/1773523",
+								"display_url": "podbbang.com/ch/1773523",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9LnvZyeToV",
+								"expanded_url": "http://worldsinus.postype.com",
+								"display_url": "worldsinus.postype.com",
+								"indices": [
+									41,
+									64
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3694,
+				"friends_count": 2738,
+				"listed_count": 19,
+				"created_at": "Sat Sep 14 11:08:13 +0000 2019",
+				"favourites_count": 1222,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 619,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1203878704411070465/XFgoaf0v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203878704411070465/XFgoaf0v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1172829365358350338/1569557313",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1206582403780599800,
+			"quoted_status_id_str": "1206582403780599810",
+			"quoted_status_permalink": {
+				"url": "https://t.co/FlvkK1URQs",
+				"expanded": "https://twitter.com/__bluesuede/status/1206582403780599810",
+				"display": "twitter.com/__bluesuede/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 770,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 식이다. 블쉐가 A라는 사람이 한 적이 없는 말을 만들어 \"~~라고 말한 A\", \"~~를 옹호한 A\"라고 트윗하면, 블쉐의 주변인들이 A에게 가서 '이것을 해명하라'고 요구한다. A는 몇십 명의 사람들에게 자기가 한 적이 없는 말을 해명해야 한다. https://t.co/W9gJCcW2PG"
+	},
+	{
 		"created_at": "Tue Dec 17 19:59:26 +0000 2019",
 		"id": 1207027543175553000,
 		"id_str": "1207027543175553031",
