@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 09:54:52 +0000 2019",
+		"id": 1207224241780736000,
+		"id_str": "1207237789097611264",
+		"full_text": "#ROSÉ 'THE CHRISTMAS SONG (Nat King Cole)' COVER\n\nTitle: 'The Christmas Song'\nCover by ROSÉ\n\nOriginal Song by Nat King Cole\n\n🎥 https://t.co/H2HRdpCgKr\n\n#BLACKPINK #블랙핑크 #로제 #THE_CHRISTMAS_SONG #COVER #커버 #ORIGINAL_SOUNDTRACK_BY #NATKINGCOLE #YOUTUBE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "THE_CHRISTMAS_SONG",
+					"indices": [
+						173,
+						192
+					]
+				},
+				{
+					"text": "COVER",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "커버",
+					"indices": [
+						200,
+						203
+					]
+				},
+				{
+					"text": "ORIGINAL_SOUNDTRACK_BY",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"text": "NATKINGCOLE",
+					"indices": [
+						228,
+						240
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						241,
+						249
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						250,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H2HRdpCgKr",
+					"expanded_url": "https://youtu.be/6Nm9GOAmZgk",
+					"display_url": "youtu.be/6Nm9GOAmZgk",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #LEEHI #TREASURE13",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5596266,
+			"friends_count": 42,
+			"listed_count": 7630,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12292,
+		"favorite_count": 18461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ROSÉ 'THE CHRISTMAS SONG (Nat King Cole)' COVER\n\nTitle: 'The Christmas Song'\nCover by ROSÉ\n\nOriginal Song by Nat King Cole\n\n🎥 https://t.co/H2HRdpCgKr\n\n#BLACKPINK #블랙핑크 #로제 #THE_CHRISTMAS_SONG #COVER #커버 #ORIGINAL_SOUNDTRACK_BY #NATKINGCOLE #YOUTUBE #YG"
+	},
+	{
 		"created_at": "Wed Dec 18 08:39:30 +0000 2019",
 		"id": 1207218819069956000,
 		"id_str": "1207218819069956101",
