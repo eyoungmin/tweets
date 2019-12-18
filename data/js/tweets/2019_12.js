@@ -1,6 +1,2174 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 12:52:44 +0000 2019",
+		"id": 1207269279604723700,
+		"id_str": "1207282550244175874",
+		"full_text": "Happy Birthday to #HotOnes alum @billieeilish 🥳💜 If you haven't watched her ep watch it HERE 👉 https://t.co/EIw7b9P9fD https://t.co/FIjen70xNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HotOnes",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EIw7b9P9fD",
+					"expanded_url": "https://youtu.be/YDr4ITrp7YI",
+					"display_url": "youtu.be/YDr4ITrp7YI",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206699327252500500,
+					"id_str": "1206699327252500480",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1206699327252500480/img/uL_45JUmiGhIfVqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1206699327252500480/img/uL_45JUmiGhIfVqj.jpg",
+					"url": "https://t.co/FIjen70xNZ",
+					"display_url": "pic.twitter.com/FIjen70xNZ",
+					"expanded_url": "https://twitter.com/firstwefeast/status/1207269279604723719/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206699327252500500,
+					"id_str": "1206699327252500480",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1206699327252500480/img/uL_45JUmiGhIfVqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1206699327252500480/img/uL_45JUmiGhIfVqj.jpg",
+					"url": "https://t.co/FIjen70xNZ",
+					"display_url": "pic.twitter.com/FIjen70xNZ",
+					"expanded_url": "https://twitter.com/firstwefeast/status/1207269279604723719/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23398,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1206699327252500480/vid/480x480/sFuFpUcstwniPm0A.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1206699327252500480/vid/720x720/5FzU57rUu3GQJbVO.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1206699327252500480/vid/320x320/GI6swA9m6e6oYBoA.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1206699327252500480/pl/p0BOsMi3LqS-a-B4.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770352762,
+			"id_str": "770352762",
+			"name": "First We Feast",
+			"screen_name": "firstwefeast",
+			"location": "New York, NY",
+			"description": "Bridging the gap between food, drinks & pop culture. #FirstWeFeast",
+			"url": "https://t.co/afhl0ZlKA2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/afhl0ZlKA2",
+							"expanded_url": "http://www.firstwefeast.com",
+							"display_url": "firstwefeast.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243072,
+			"friends_count": 1074,
+			"listed_count": 1233,
+			"created_at": "Mon Aug 20 22:38:44 +0000 2012",
+			"favourites_count": 14030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFD200",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146255202338689024/sF8oBPUL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146255202338689024/sF8oBPUL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770352762/1572974161",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 170,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Birthday to #HotOnes alum @billieeilish 🥳💜 If you haven't watched her ep watch it HERE 👉 https://t.co/EIw7b9P9fD https://t.co/FIjen70xNZ"
+	},
+	{
+		"created_at": "Wed Dec 18 12:48:04 +0000 2019",
+		"id": 1204027154691870700,
+		"id_str": "1207281374089990144",
+		"full_text": "빌리 아일리시 Billie Eilish (p: Kelia Anne), Variety, December 2019. 3/3 https://t.co/ih5q9gZDw6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204027138661183500,
+					"id_str": "1204027138661183488",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQTavUcAA68Kf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQTavUcAA68Kf.jpg",
+					"url": "https://t.co/ih5q9gZDw6",
+					"display_url": "pic.twitter.com/ih5q9gZDw6",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027154691870720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 144,
+									"y": 446,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 820,
+									"h": 297,
+									"w": 297
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 820,
+									"h": 297,
+									"w": 297
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 255,
+									"y": 787,
+									"h": 285,
+									"w": 285
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204027138661183500,
+					"id_str": "1204027138661183488",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQTavUcAA68Kf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQTavUcAA68Kf.jpg",
+					"url": "https://t.co/ih5q9gZDw6",
+					"display_url": "pic.twitter.com/ih5q9gZDw6",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027154691870720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 144,
+									"y": 446,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 820,
+									"h": 297,
+									"w": 297
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 820,
+									"h": 297,
+									"w": 297
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 255,
+									"y": 787,
+									"h": 285,
+									"w": 285
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204027138657013800,
+					"id_str": "1204027138657013761",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQTauU0AEgdZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQTauU0AEgdZe.jpg",
+					"url": "https://t.co/ih5q9gZDw6",
+					"display_url": "pic.twitter.com/ih5q9gZDw6",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027154691870720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 45,
+									"y": 643,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 404,
+									"y": 204,
+									"h": 341,
+									"w": 341
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 670,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 421,
+									"y": 213,
+									"h": 356,
+									"w": 356
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 25,
+									"y": 364,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 229,
+									"y": 115,
+									"h": 193,
+									"w": 193
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 670,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 421,
+									"y": 213,
+									"h": 356,
+									"w": 356
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204027138682130400,
+					"id_str": "1204027138682130434",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQTa0UEAI2ShN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQTa0UEAI2ShN.jpg",
+					"url": "https://t.co/ih5q9gZDw6",
+					"display_url": "pic.twitter.com/ih5q9gZDw6",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027154691870720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 311,
+									"h": 212,
+									"w": 212
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 174,
+									"y": 169,
+									"h": 115,
+									"w": 115
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 311,
+									"h": 212,
+									"w": 212
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 308,
+									"y": 298,
+									"h": 203,
+									"w": 203
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204027138690519000,
+					"id_str": "1204027138690519041",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQTa2UEAEa-j-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQTa2UEAEa-j-.jpg",
+					"url": "https://t.co/ih5q9gZDw6",
+					"display_url": "pic.twitter.com/ih5q9gZDw6",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027154691870720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 796,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 796,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 773,
+									"y": 487,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 794,
+									"y": 603,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 159,
+									"y": 553,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 141,
+									"y": 271,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 773,
+									"y": 487,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 794,
+									"y": 603,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 159,
+									"y": 553,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 141,
+									"y": 271,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 525,
+									"y": 331,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 539,
+									"y": 410,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 108,
+									"y": 376,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 95,
+									"y": 184,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 773,
+									"y": 487,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 794,
+									"y": 603,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 159,
+									"y": 553,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 141,
+									"y": 271,
+									"h": 86,
+									"w": 86
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204027134815064000,
+		"in_reply_to_status_id_str": "1204027134815064066",
+		"in_reply_to_user_id": 3641518992,
+		"in_reply_to_user_id_str": "3641518992",
+		"in_reply_to_screen_name": "jmtastexx",
+		"user": {
+			"id": 3641518992,
+			"id_str": "3641518992",
+			"name": "화보백업계정",
+			"screen_name": "jmtastexx",
+			"location": "",
+			"description": "봇 아님. 사진 올리는게 취미인 사람의 부계정. 해외 셀럽 & 모델, 캠페인/화보 가리지 않음. 최신 위주, 중복 없음, 정확한 출처표기 원칙. 고화질로 올리려고 노력은 해요. 서치 막힘이 잦으니 팔로하시고 뮤트하시는 것을 추천합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43454,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 21 21:04:13 +0000 2015",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3641518992/1481380248",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌리 아일리시 Billie Eilish (p: Kelia Anne), Variety, December 2019. 3/3 https://t.co/ih5q9gZDw6"
+	},
+	{
+		"created_at": "Wed Dec 18 12:48:01 +0000 2019",
+		"id": 1204027134815064000,
+		"id_str": "1207281361440006144",
+		"full_text": "빌리 아일리시 Billie Eilish (p: Kelia Anne), Variety, December 2019. 2/3 https://t.co/8uojrKLHrU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204027109322047500,
+					"id_str": "1204027109322047488",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQRtcUwAAI9X6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQRtcUwAAI9X6.jpg",
+					"url": "https://t.co/8uojrKLHrU",
+					"display_url": "pic.twitter.com/8uojrKLHrU",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027134815064066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 458,
+									"y": 458,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 439,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 249,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 458,
+									"y": 458,
+									"h": 75,
+									"w": 75
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204027109322047500,
+					"id_str": "1204027109322047488",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQRtcUwAAI9X6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQRtcUwAAI9X6.jpg",
+					"url": "https://t.co/8uojrKLHrU",
+					"display_url": "pic.twitter.com/8uojrKLHrU",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027134815064066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 458,
+									"y": 458,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 439,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 249,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 458,
+									"y": 458,
+									"h": 75,
+									"w": 75
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204027109334610000,
+					"id_str": "1204027109334609921",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQRtfUcAEealp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQRtfUcAEealp.jpg",
+					"url": "https://t.co/8uojrKLHrU",
+					"display_url": "pic.twitter.com/8uojrKLHrU",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027134815064066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 349,
+									"y": 411,
+									"h": 289,
+									"w": 289
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 335,
+									"y": 394,
+									"h": 277,
+									"w": 277
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 349,
+									"y": 411,
+									"h": 289,
+									"w": 289
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 223,
+									"h": 157,
+									"w": 157
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204027109347184600,
+					"id_str": "1204027109347184645",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQRtiUUAUMOhs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQRtiUUAUMOhs.jpg",
+					"url": "https://t.co/8uojrKLHrU",
+					"display_url": "pic.twitter.com/8uojrKLHrU",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027134815064066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 336,
+									"y": 608,
+									"h": 282,
+									"w": 282
+								},
+								{
+									"x": 252,
+									"y": 197,
+									"h": 269,
+									"w": 269
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 634,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 263,
+									"y": 206,
+									"h": 281,
+									"w": 281
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 634,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 263,
+									"y": 206,
+									"h": 281,
+									"w": 281
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 344,
+									"h": 159,
+									"w": 159
+								},
+								{
+									"x": 143,
+									"y": 112,
+									"h": 152,
+									"w": 152
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204027109347213300,
+					"id_str": "1204027109347213314",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQRtiUwAIPqdh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQRtiUwAIPqdh.jpg",
+					"url": "https://t.co/8uojrKLHrU",
+					"display_url": "pic.twitter.com/8uojrKLHrU",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027134815064066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 135,
+									"y": 263,
+									"h": 373,
+									"w": 373
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 73,
+									"y": 143,
+									"h": 202,
+									"w": 202
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 135,
+									"y": 263,
+									"h": 373,
+									"w": 373
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 252,
+									"h": 358,
+									"w": 358
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204027105408778200,
+		"in_reply_to_status_id_str": "1204027105408778241",
+		"in_reply_to_user_id": 3641518992,
+		"in_reply_to_user_id_str": "3641518992",
+		"in_reply_to_screen_name": "jmtastexx",
+		"user": {
+			"id": 3641518992,
+			"id_str": "3641518992",
+			"name": "화보백업계정",
+			"screen_name": "jmtastexx",
+			"location": "",
+			"description": "봇 아님. 사진 올리는게 취미인 사람의 부계정. 해외 셀럽 & 모델, 캠페인/화보 가리지 않음. 최신 위주, 중복 없음, 정확한 출처표기 원칙. 고화질로 올리려고 노력은 해요. 서치 막힘이 잦으니 팔로하시고 뮤트하시는 것을 추천합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43454,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 21 21:04:13 +0000 2015",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3641518992/1481380248",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 55,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌리 아일리시 Billie Eilish (p: Kelia Anne), Variety, December 2019. 2/3 https://t.co/8uojrKLHrU"
+	},
+	{
+		"created_at": "Wed Dec 18 12:47:59 +0000 2019",
+		"id": 1204027105408778200,
+		"id_str": "1207281353714106369",
+		"full_text": "빌리 아일리시 Billie Eilish (p: Kelia Anne), Variety, December 2019. 1/3 https://t.co/iPYcx3w8k8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204027054422773800,
+					"id_str": "1204027054422773760",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQOg7UUAAA3xo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQOg7UUAAA3xo.jpg",
+					"url": "https://t.co/iPYcx3w8k8",
+					"display_url": "pic.twitter.com/iPYcx3w8k8",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027105408778241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1293,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204027054422773800,
+					"id_str": "1204027054422773760",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQOg7UUAAA3xo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQOg7UUAAA3xo.jpg",
+					"url": "https://t.co/iPYcx3w8k8",
+					"display_url": "pic.twitter.com/iPYcx3w8k8",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027105408778241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1293,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204027054431203300,
+					"id_str": "1204027054431203329",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQOg9U8AEpsMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQOg9U8AEpsMT.jpg",
+					"url": "https://t.co/iPYcx3w8k8",
+					"display_url": "pic.twitter.com/iPYcx3w8k8",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027105408778241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204027054435360800,
+					"id_str": "1204027054435360768",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQOg-UYAAD50e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQOg-UYAAD50e.jpg",
+					"url": "https://t.co/iPYcx3w8k8",
+					"display_url": "pic.twitter.com/iPYcx3w8k8",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027105408778241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 459,
+									"y": 499,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 479,
+									"y": 520,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 479,
+									"y": 520,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 282,
+									"h": 23,
+									"w": 23
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204027054431203300,
+					"id_str": "1204027054431203328",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWQOg9U8AA0Nv_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWQOg9U8AA0Nv_.jpg",
+					"url": "https://t.co/iPYcx3w8k8",
+					"display_url": "pic.twitter.com/iPYcx3w8k8",
+					"expanded_url": "https://twitter.com/jmtastexx/status/1204027105408778241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3641518992,
+			"id_str": "3641518992",
+			"name": "화보백업계정",
+			"screen_name": "jmtastexx",
+			"location": "",
+			"description": "봇 아님. 사진 올리는게 취미인 사람의 부계정. 해외 셀럽 & 모델, 캠페인/화보 가리지 않음. 최신 위주, 중복 없음, 정확한 출처표기 원칙. 고화질로 올리려고 노력은 해요. 서치 막힘이 잦으니 팔로하시고 뮤트하시는 것을 추천합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43454,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 21 21:04:13 +0000 2015",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752438582258782209/9lcq0fd__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3641518992/1481380248",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 306,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌리 아일리시 Billie Eilish (p: Kelia Anne), Variety, December 2019. 1/3 https://t.co/iPYcx3w8k8"
+	},
+	{
+		"created_at": "Wed Dec 18 12:43:48 +0000 2019",
+		"id": 1207280298829873200,
+		"id_str": "1207280298829873153",
+		"full_text": "@billieeilish 빌리 생일 축하해 🎉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2150327072,
+		"in_reply_to_user_id_str": "2150327072",
+		"in_reply_to_screen_name": "billieeilish",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@billieeilish 빌리 생일 축하해 🎉"
+	},
+	{
+		"created_at": "Wed Dec 18 12:41:41 +0000 2019",
+		"id": 1205358249588875300,
+		"id_str": "1207279768040656897",
+		"full_text": "각기 다른 행보로 20년 동안 활동해온 다섯 명의 이야기를 엮은 &lt;씬의 아이들&gt;(김윤하, 하박국, 연진, 몬구, 전자양 | 재미공작소 | 14,000원)이 새로 들어왔습니다. https://t.co/GGBTBihnjN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205358232920707000,
+					"id_str": "1205358232920707072",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpK7TRU0AAgMH5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpK7TRU0AAgMH5.jpg",
+					"url": "https://t.co/GGBTBihnjN",
+					"display_url": "pic.twitter.com/GGBTBihnjN",
+					"expanded_url": "https://twitter.com/your_mind_com/status/1205358249588875264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 290,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 512,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 750,
+									"y": 874,
+									"h": 240,
+									"w": 240
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 750,
+									"y": 874,
+									"h": 240,
+									"w": 240
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205358232920707000,
+					"id_str": "1205358232920707072",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpK7TRU0AAgMH5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpK7TRU0AAgMH5.jpg",
+					"url": "https://t.co/GGBTBihnjN",
+					"display_url": "pic.twitter.com/GGBTBihnjN",
+					"expanded_url": "https://twitter.com/your_mind_com/status/1205358249588875264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 290,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 512,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 750,
+									"y": 874,
+									"h": 240,
+									"w": 240
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 750,
+									"y": 874,
+									"h": 240,
+									"w": 240
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120492537,
+			"id_str": "120492537",
+			"name": "유어마인드 YOUR-MIND",
+			"screen_name": "your_mind_com",
+			"location": "",
+			"description": "유어마인드 YOUR-MIND 언리미티드 에디션 Since 2009 / 연희로11라길 10-6 '은는' 2층 우측 / 2F, 10-6, Yeonhui-ro 11ra-gil / 1-8 p.m. / 매주 화요일 휴무 / 인물사진 📷❌",
+			"url": "https://t.co/NBaemscZ6y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NBaemscZ6y",
+							"expanded_url": "http://www.your-mind.com",
+							"display_url": "your-mind.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73068,
+			"friends_count": 1,
+			"listed_count": 439,
+			"created_at": "Sat Mar 06 16:03:18 +0000 2010",
+			"favourites_count": 5389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A7C0BA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966325869345042432/Bawb491Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966325869345042432/Bawb491Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120492537/1492568625",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "각기 다른 행보로 20년 동안 활동해온 다섯 명의 이야기를 엮은 &lt;씬의 아이들&gt;(김윤하, 하박국, 연진, 몬구, 전자양 | 재미공작소 | 14,000원)이 새로 들어왔습니다. https://t.co/GGBTBihnjN"
+	},
+	{
+		"created_at": "Wed Dec 18 12:40:47 +0000 2019",
+		"id": 1207279540436791300,
+		"id_str": "1207279540436791296",
+		"full_text": "@mimyo_ 그렇군요. 이달소 해외 팬덤 보니까 이미 구글 스프레드시트로 누가 다 수집해서 분석해놨더라고요.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mimyo_",
+					"name": "미묘",
+					"id": 98769028,
+					"id_str": "98769028",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1207269532017938400,
+		"in_reply_to_status_id_str": "1207269532017938434",
+		"in_reply_to_user_id": 98769028,
+		"in_reply_to_user_id_str": "98769028",
+		"in_reply_to_screen_name": "mimyo_",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@mimyo_ 그렇군요. 이달소 해외 팬덤 보니까 이미 구글 스프레드시트로 누가 다 수집해서 분석해놨더라고요."
+	},
+	{
 		"created_at": "Wed Dec 18 12:00:28 +0000 2019",
 		"id": 1207269396797739000,
 		"id_str": "1207269396797739010",
@@ -2533,7 +4701,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
