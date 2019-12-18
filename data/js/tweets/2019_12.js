@@ -1,6 +1,930 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 11:01:25 +0000 2019",
+		"id": 1207254535183327200,
+		"id_str": "1207254535183327232",
+		"full_text": "케이팝 캐롤이 아니라 그냥 캐롤느낌으로 부른 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "케이팝 캐롤이 아니라 그냥 캐롤느낌으로 부른 것."
+	},
+	{
+		"created_at": "Wed Dec 18 11:00:33 +0000 2019",
+		"id": 1207239078560723000,
+		"id_str": "1207254318853672960",
+		"full_text": "2019년 아이돌 노래 몽땅 모아서! 캐롤 분위기 낭낭하게 리믹스까지🎅\nBTS, EXO, BLACKPINK, TWICE, GOT7... 끝없는 띵곡 라인업🎶 #뮤직써클 보면서 케이팝도 복습하고 크리스마스 감성도 챙기세요🌟\n\n2019 K-POP Christmas Mashup🎄 #MusicCircle\n🎙Vocals by. 플레이엠걸즈 (@PlayMgirls) https://t.co/t2e2u4GJeq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직써클",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "MusicCircle",
+					"indices": [
+						154,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PlayMgirls",
+					"name": "PlayM GIRLS(플레이엠걸즈)",
+					"id": 874918428825485300,
+					"id_str": "874918428825485312",
+					"indices": [
+						187,
+						198
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207189980113539000,
+					"id_str": "1207189980113539072",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EMDPCFOUEAAmEk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMDPCFOUEAAmEk_.jpg",
+					"url": "https://t.co/t2e2u4GJeq",
+					"display_url": "pic.twitter.com/t2e2u4GJeq",
+					"expanded_url": "https://twitter.com/1theK/status/1207239078560722946/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207189980113539000,
+					"id_str": "1207189980113539072",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EMDPCFOUEAAmEk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMDPCFOUEAAmEk_.jpg",
+					"url": "https://t.co/t2e2u4GJeq",
+					"display_url": "pic.twitter.com/t2e2u4GJeq",
+					"expanded_url": "https://twitter.com/1theK/status/1207239078560722946/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 269542,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1207189980113539072/pl/bttoOaSgrNt1f_YX.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1207189980113539072/vid/480x270/9vUReQvj5kt4bIQn.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1207189980113539072/vid/1280x720/Tf8rcn2xrhUT6Zcv.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1207189980113539072/vid/640x360/YBFxWJTO9vTpQVMH.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "[MUSIC CIRCLE] 2019 K-POP Christmas Mashup!",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/u9x8RCzmwkE"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1796461,
+			"friends_count": 804,
+			"listed_count": 2744,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 637,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년 아이돌 노래 몽땅 모아서! 캐롤 분위기 낭낭하게 리믹스까지🎅\nBTS, EXO, BLACKPINK, TWICE, GOT7... 끝없는 띵곡 라인업🎶 #뮤직써클 보면서 케이팝도 복습하고 크리스마스 감성도 챙기세요🌟\n\n2019 K-POP Christmas Mashup🎄 #MusicCircle\n🎙Vocals by. 플레이엠걸즈 (@PlayMgirls) https://t.co/t2e2u4GJeq"
+	},
+	{
+		"created_at": "Wed Dec 18 10:59:34 +0000 2019",
+		"id": 1207254069561168000,
+		"id_str": "1207254069561167873",
+		"full_text": "고막메이트 김이나님 보려구 본다. 😊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "고막메이트 김이나님 보려구 본다. 😊"
+	},
+	{
+		"created_at": "Wed Dec 18 10:58:50 +0000 2019",
+		"id": 1207245513306722300,
+		"id_str": "1207253886051872768",
+		"full_text": "고막메이트-오늘 이 노래 Live🎤\n깜짝 게스트 '자이언티'와 함께 했습니다!\n\n싱어송라이터들의 천재적인 즉흥 환상곡🎶\n깜빡 놓치신 고막 식구들을 위해\nSeezn-tube에 풀영상 공개합니다❤\n📺https://t.co/t15t8CVWTh\n\n#Seezn오리지널 #고막메이트 #정세운 #이원석 #자이언티 #딘딘 #김이나 #방언니 https://t.co/4cAlBfa5KK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seezn오리지널",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "고막메이트",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "정세운",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "이원석",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "자이언티",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "딘딘",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "방언니",
+					"indices": [
+						177,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t15t8CVWTh",
+					"expanded_url": "http://bit.ly/gomaklive6th",
+					"display_url": "bit.ly/gomaklive6th",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207245232225415200,
+					"id_str": "1207245232225415168",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207245232225415168/pu/img/0QlfVOwcheA8fnOU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207245232225415168/pu/img/0QlfVOwcheA8fnOU.jpg",
+					"url": "https://t.co/4cAlBfa5KK",
+					"display_url": "pic.twitter.com/4cAlBfa5KK",
+					"expanded_url": "https://twitter.com/my_seezn/status/1207245513306722305/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207245232225415200,
+					"id_str": "1207245232225415168",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207245232225415168/pu/img/0QlfVOwcheA8fnOU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207245232225415168/pu/img/0QlfVOwcheA8fnOU.jpg",
+					"url": "https://t.co/4cAlBfa5KK",
+					"display_url": "pic.twitter.com/4cAlBfa5KK",
+					"expanded_url": "https://twitter.com/my_seezn/status/1207245513306722305/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53801,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207245232225415168/pu/vid/1280x720/guTaeZjDTIU872iU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1207245232225415168/pu/pl/JpYyFb0WMnVcw3jA.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207245232225415168/pu/vid/640x360/9fOz3GK58pHjzHTi.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207245232225415168/pu/vid/480x270/EKjBxJMx9AN_J8w0.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194503596139671600,
+			"id_str": "1194503596139671558",
+			"name": "Seezn(시즌)",
+			"screen_name": "my_seezn",
+			"location": "대한민국 어디서나",
+			"description": "올레 tv 모바일🔁Seezn(시즌)의 공식 계정입니다!\n👉Seezn_오리지널_라인업: #아이돌다방 #싱스테이 #NCT_LIFE #고막메이트 #히든트랙 #우웅우웅2 #고스트브로스 #연남동패밀리 #위플레이_비하인드 #7일만로맨스 #몽슈슈글로벌하우스 etc. 💌매일 콘텐츠 정보 UP!",
+			"url": "https://t.co/VKdApr6Qgk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VKdApr6Qgk",
+							"expanded_url": "http://www.myseezn.com",
+							"display_url": "myseezn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 968,
+			"friends_count": 5,
+			"listed_count": 3,
+			"created_at": "Wed Nov 13 06:34:16 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201786830271565824/Gqbc4yFM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201786830271565824/Gqbc4yFM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194503596139671558/1574764828",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고막메이트-오늘 이 노래 Live🎤\n깜짝 게스트 '자이언티'와 함께 했습니다!\n\n싱어송라이터들의 천재적인 즉흥 환상곡🎶\n깜빡 놓치신 고막 식구들을 위해\nSeezn-tube에 풀영상 공개합니다❤\n📺https://t.co/t15t8CVWTh\n\n#Seezn오리지널 #고막메이트 #정세운 #이원석 #자이언티 #딘딘 #김이나 #방언니 https://t.co/4cAlBfa5KK"
+	},
+	{
+		"created_at": "Wed Dec 18 10:58:30 +0000 2019",
+		"id": 1207078204218855400,
+		"id_str": "1207253800110526464",
+		"full_text": "'국민가수'로 불렸던 김건모에게 성폭행 피해를 입었다고 주장한 세 번째 여성까지 등장했다. 피해를 고발한 여성들이 속속 등장하고 있으나 이들에게는 #미투 라는 표현이 허락되지 않는다. 언론은 이 여성들에게 미투피싱 거짓미투 ○○녀 이름 붙인다.  https://t.co/6Vz2wJjVTN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미투",
+					"indices": [
+						82,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Vz2wJjVTN",
+					"expanded_url": "http://www.womennews.co.kr/news/195012",
+					"display_url": "womennews.co.kr/news/195012",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199635,
+			"friends_count": 3599,
+			"listed_count": 364,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1060,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'국민가수'로 불렸던 김건모에게 성폭행 피해를 입었다고 주장한 세 번째 여성까지 등장했다. 피해를 고발한 여성들이 속속 등장하고 있으나 이들에게는 #미투 라는 표현이 허락되지 않는다. 언론은 이 여성들에게 미투피싱 거짓미투 ○○녀 이름 붙인다.  https://t.co/6Vz2wJjVTN"
+	},
+	{
+		"created_at": "Wed Dec 18 10:58:19 +0000 2019",
+		"id": 1207250138462212000,
+		"id_str": "1207253754614935552",
+		"full_text": "&lt;경사났네요!&gt; \n네이버 오디오클립 연말 결산에서 '이수정 이다혜의 범죄영화 프로파일'이 문화예술 부문 1위를 차지했습니다. 모두, 여러분 덕입니다. 정말, 감사합니다!!! \n\nhttps://t.co/YX5WqtVOHq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YX5WqtVOHq",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.nhn?volumeNo=27045996&memberNo=34653588",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1102909699307921400,
+			"id_str": "1102909699307921409",
+			"name": "이수정, 이다혜의 범죄영화 프로파일",
+			"screen_name": "filmprofile2019",
+			"location": "연락 : filmprofile2019@naver.com",
+			"description": "범죄심리학자 이수정, 영화저널리스트 이다혜의 범죄 영화 프로파일 팟캐스트📢",
+			"url": "https://t.co/HEC7AzUDq9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HEC7AzUDq9",
+							"expanded_url": "https://audioclip.naver.com/channels/1846",
+							"display_url": "audioclip.naver.com/channels/1846",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7628,
+			"friends_count": 2,
+			"listed_count": 26,
+			"created_at": "Tue Mar 05 12:32:18 +0000 2019",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102910304889929728/cNeQju3S_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102910304889929728/cNeQju3S_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1102909699307921409/1555474171",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;경사났네요!&gt; \n네이버 오디오클립 연말 결산에서 '이수정 이다혜의 범죄영화 프로파일'이 문화예술 부문 1위를 차지했습니다. 모두, 여러분 덕입니다. 정말, 감사합니다!!! \n\nhttps://t.co/YX5WqtVOHq"
+	},
+	{
 		"created_at": "Wed Dec 18 09:54:52 +0000 2019",
 		"id": 1207224241780736000,
 		"id_str": "1207237789097611264",
