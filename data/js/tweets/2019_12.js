@@ -1,6 +1,698 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 05:56:49 +0000 2019",
+		"id": 1206853446667665400,
+		"id_str": "1207177879697539072",
+		"full_text": "[#서현] 여러분을 위한 깜짝 선물!\n서현 배우의 시즌그리팅 발매 소식입니다😍\n\n&lt;서현 (Seo Hyun) - 2020 SEASON'S GREETINGS&gt;\n\n👉예약판매기간 : 12월 18일 ~ 12월 25일\n👉판매처 : 나무샵 https://t.co/i8vMNynpnS https://t.co/kDF0g4uF2q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i8vMNynpnS",
+					"expanded_url": "https://bit.ly/36Ohsyt",
+					"display_url": "bit.ly/36Ohsyt",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206853437305938000,
+					"id_str": "1206853437305937920",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EL-azpqUYAAvXRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL-azpqUYAAvXRZ.jpg",
+					"url": "https://t.co/kDF0g4uF2q",
+					"display_url": "pic.twitter.com/kDF0g4uF2q",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1206853446667665408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206853437305938000,
+					"id_str": "1206853437305937920",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EL-azpqUYAAvXRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL-azpqUYAAvXRZ.jpg",
+					"url": "https://t.co/kDF0g4uF2q",
+					"display_url": "pic.twitter.com/kDF0g4uF2q",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1206853446667665408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 트위터\r\n\r\nhttp://t.co/yYyL4E7frq\r\nhttp://t.co/SbBo274lvv\r\nhttp://t.co/2P1PJW3Cwq",
+			"url": "http://t.co/Qkvc5dtQFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Qkvc5dtQFO",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/yYyL4E7frq",
+							"expanded_url": "http://www.facebook.com/namooactors",
+							"display_url": "facebook.com/namooactors",
+							"indices": [
+								22,
+								44
+							]
+						},
+						{
+							"url": "http://t.co/SbBo274lvv",
+							"expanded_url": "http://www.youtube.com/namooofficial",
+							"display_url": "youtube.com/namooofficial",
+							"indices": [
+								46,
+								68
+							]
+						},
+						{
+							"url": "http://t.co/2P1PJW3Cwq",
+							"expanded_url": "http://www.namooactors.com",
+							"display_url": "namooactors.com",
+							"indices": [
+								70,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28351,
+			"friends_count": 11,
+			"listed_count": 211,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1093,
+		"favorite_count": 1061,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서현] 여러분을 위한 깜짝 선물!\n서현 배우의 시즌그리팅 발매 소식입니다😍\n\n&lt;서현 (Seo Hyun) - 2020 SEASON'S GREETINGS&gt;\n\n👉예약판매기간 : 12월 18일 ~ 12월 25일\n👉판매처 : 나무샵 https://t.co/i8vMNynpnS https://t.co/kDF0g4uF2q"
+	},
+	{
+		"created_at": "Wed Dec 18 05:55:34 +0000 2019",
+		"id": 1207177563761791000,
+		"id_str": "1207177563761790978",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘킬 디스 러브’, 美 유력지 PAPER 선정 ‘올해의 곡’ 1위\nhttps://t.co/p8YVABdv4C\n#블랙핑크 #BLACKPINK https://t.co/9vhApqYQqH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p8YVABdv4C",
+					"expanded_url": "https://yg-life.com/archives/144518?lang=ko",
+					"display_url": "yg-life.com/archives/14451…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207177562570539000,
+					"id_str": "1207177562570539009",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EMDBmOXWwAEv21K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMDBmOXWwAEv21K.jpg",
+					"url": "https://t.co/9vhApqYQqH",
+					"display_url": "pic.twitter.com/9vhApqYQqH",
+					"expanded_url": "https://twitter.com/fromminn/status/1207177563761790978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 530,
+							"h": 722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 722,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 358,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 224,
+									"y": 362,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 174,
+									"y": 168,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 188,
+									"y": 249,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 144,
+									"y": 337,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 210,
+									"y": 340,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 163,
+									"y": 158,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 177,
+									"y": 234,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 358,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 224,
+									"y": 362,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 174,
+									"y": 168,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 188,
+									"y": 249,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 358,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 224,
+									"y": 362,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 174,
+									"y": 168,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 188,
+									"y": 249,
+									"h": 105,
+									"w": 105
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207177562570539000,
+					"id_str": "1207177562570539009",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EMDBmOXWwAEv21K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMDBmOXWwAEv21K.jpg",
+					"url": "https://t.co/9vhApqYQqH",
+					"display_url": "pic.twitter.com/9vhApqYQqH",
+					"expanded_url": "https://twitter.com/fromminn/status/1207177563761790978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 530,
+							"h": 722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 722,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 358,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 224,
+									"y": 362,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 174,
+									"y": 168,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 188,
+									"y": 249,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 144,
+									"y": 337,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 210,
+									"y": 340,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 163,
+									"y": 158,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 177,
+									"y": 234,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 358,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 224,
+									"y": 362,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 174,
+									"y": 168,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 188,
+									"y": 249,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 358,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 224,
+									"y": 362,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 174,
+									"y": 168,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 188,
+									"y": 249,
+									"h": 105,
+									"w": 105
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘킬 디스 러브’, 美 유력지 PAPER 선정 ‘올해의 곡’ 1위\nhttps://t.co/p8YVABdv4C\n#블랙핑크 #BLACKPINK https://t.co/9vhApqYQqH"
+	},
+	{
 		"created_at": "Wed Dec 18 04:55:32 +0000 2019",
 		"id": 1207162456365252600,
 		"id_str": "1207162456365252608",
