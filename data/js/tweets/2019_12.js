@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 02:25:17 +0000 2019",
+		"id": 1207124644853141500,
+		"id_str": "1207124644853141504",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 美 피치포크 선정 ‘올해의 MV’ 14위…K팝 유일 [공식입장]\nhttps://t.co/S2Xn2LIvxH\n#블랙핑크 #BLACKPINK https://t.co/dT6jedHV06",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S2Xn2LIvxH",
+					"expanded_url": "https://yg-life.com/archives/144497?lang=ko",
+					"display_url": "yg-life.com/archives/14449…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207124643494203400,
+					"id_str": "1207124643494203392",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EMCRd7cXkAA9f9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMCRd7cXkAA9f9J.jpg",
+					"url": "https://t.co/dT6jedHV06",
+					"display_url": "pic.twitter.com/dT6jedHV06",
+					"expanded_url": "https://twitter.com/fromminn/status/1207124644853141504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 736,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 736,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 365,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 198,
+									"y": 256,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 365,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 198,
+									"y": 256,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 365,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 198,
+									"y": 256,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 334,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 146,
+									"y": 337,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 211,
+									"y": 341,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 182,
+									"y": 236,
+									"h": 96,
+									"w": 96
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207124643494203400,
+					"id_str": "1207124643494203392",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EMCRd7cXkAA9f9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMCRd7cXkAA9f9J.jpg",
+					"url": "https://t.co/dT6jedHV06",
+					"display_url": "pic.twitter.com/dT6jedHV06",
+					"expanded_url": "https://twitter.com/fromminn/status/1207124644853141504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 736,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 736,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 365,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 198,
+									"y": 256,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 365,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 198,
+									"y": 256,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 365,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 198,
+									"y": 256,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 334,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 146,
+									"y": 337,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 211,
+									"y": 341,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 182,
+									"y": 236,
+									"h": 96,
+									"w": 96
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 868,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 美 피치포크 선정 ‘올해의 MV’ 14위…K팝 유일 [공식입장]\nhttps://t.co/S2Xn2LIvxH\n#블랙핑크 #BLACKPINK https://t.co/dT6jedHV06"
+	},
+	{
 		"created_at": "Wed Dec 18 00:54:52 +0000 2019",
 		"id": 1207100938856489000,
 		"id_str": "1207101893648035840",
