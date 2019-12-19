@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 01:54:52 +0000 2019",
+		"id": 1207471224399392800,
+		"id_str": "1207479380819230724",
+		"full_text": "태연이 매거진 ‘얼루어 코리아'의 새해 첫 커버를 화려하게 장식했습니다!\n‘과거와 현재를 잇는 시간 여행’을 콘셉트로\n고전 명화를 연상시키는 모습부터 현대의 감각적인 분위기까지 표현한 태연의 화보와 인터뷰를 얼루어 코리아 1월호 및 공식 사이트에서 만나보세요!\n\n#태연 #TAEYEON #소녀시대 https://t.co/k1yGD7NVY7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207471182242467800,
+					"id_str": "1207471182242467845",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHMpI4VUAUDHrw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHMpI4VUAUDHrw.jpg",
+					"url": "https://t.co/k1yGD7NVY7",
+					"display_url": "pic.twitter.com/k1yGD7NVY7",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1207471224399392768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1965,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "78262307",
+									"screen_name": "allurekorea",
+									"name": "allure korea"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 102,
+									"y": 143,
+									"h": 221,
+									"w": 221
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 416,
+									"h": 640,
+									"w": 640
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 416,
+									"h": 640,
+									"w": 640
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 254,
+									"h": 390,
+									"w": 390
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207471182242467800,
+					"id_str": "1207471182242467845",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHMpI4VUAUDHrw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHMpI4VUAUDHrw.jpg",
+					"url": "https://t.co/k1yGD7NVY7",
+					"display_url": "pic.twitter.com/k1yGD7NVY7",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1207471224399392768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1965,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "78262307",
+									"screen_name": "allurekorea",
+									"name": "allure korea"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 102,
+									"y": 143,
+									"h": 221,
+									"w": 221
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 416,
+									"h": 640,
+									"w": 640
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 416,
+									"h": 640,
+									"w": 640
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 254,
+									"h": 390,
+									"w": 390
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207471195005677600,
+					"id_str": "1207471195005677568",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHMp4bUcAAqftd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHMp4bUcAAqftd.jpg",
+					"url": "https://t.co/k1yGD7NVY7",
+					"display_url": "pic.twitter.com/k1yGD7NVY7",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1207471224399392768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2013,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "78262307",
+									"screen_name": "allurekorea",
+									"name": "allure korea"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 386,
+									"y": 65,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 648,
+									"y": 110,
+									"h": 180,
+									"w": 180
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 219,
+									"y": 37,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 648,
+									"y": 110,
+									"h": 180,
+									"w": 180
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207471208939131000,
+					"id_str": "1207471208939130880",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHMqsVUEAAw1qH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHMqsVUEAAw1qH.jpg",
+					"url": "https://t.co/k1yGD7NVY7",
+					"display_url": "pic.twitter.com/k1yGD7NVY7",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1207471224399392768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1873,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "78262307",
+									"screen_name": "allurekorea",
+									"name": "allure korea"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 219,
+									"y": 623,
+									"h": 704,
+									"w": 704
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 219,
+									"y": 623,
+									"h": 704,
+									"w": 704
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 79,
+									"y": 226,
+									"h": 255,
+									"w": 255
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 399,
+									"h": 451,
+									"w": 451
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3523723,
+			"friends_count": 4,
+			"listed_count": 5932,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2307,
+		"favorite_count": 4355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연이 매거진 ‘얼루어 코리아'의 새해 첫 커버를 화려하게 장식했습니다!\n‘과거와 현재를 잇는 시간 여행’을 콘셉트로\n고전 명화를 연상시키는 모습부터 현대의 감각적인 분위기까지 표현한 태연의 화보와 인터뷰를 얼루어 코리아 1월호 및 공식 사이트에서 만나보세요!\n\n#태연 #TAEYEON #소녀시대 https://t.co/k1yGD7NVY7"
+	},
+	{
 		"created_at": "Thu Dec 19 00:55:36 +0000 2019",
 		"id": 1207464464196485000,
 		"id_str": "1207464464196485120",
