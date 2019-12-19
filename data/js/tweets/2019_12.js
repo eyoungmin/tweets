@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 18:03:42 +0000 2019",
+		"id": 1207723192652947500,
+		"id_str": "1207723192652947457",
+		"full_text": "#트위터고급검색\n\nhttps://t.co/hfRJBwIiMN\nhttps://t.co/E9SCxZcB2t\nhttps://t.co/hNSVxAI881\nhttps://t.co/NDEekwuUSP\n\n#minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트위터고급검색",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hfRJBwIiMN",
+					"expanded_url": "https://help.twitter.com/en/using-twitter/twitter-advanced-search",
+					"display_url": "help.twitter.com/en/using-twitt…",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/E9SCxZcB2t",
+					"expanded_url": "https://www.labnol.org/internet/twitter-search-tricks/13693/",
+					"display_url": "labnol.org/internet/twitt…",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/hNSVxAI881",
+					"expanded_url": "https://digitalinspiration.com/twitter-search-examples-203",
+					"display_url": "digitalinspiration.com/twitter-search…",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/NDEekwuUSP",
+					"expanded_url": "http://www.followthehashtag.com/help/hidden-twitter-search-operators-extra-power-followthehashtag/",
+					"display_url": "followthehashtag.com/help/hidden-tw…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1207722013764112400,
+		"in_reply_to_status_id_str": "1207722013764112384",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#트위터고급검색\n\nhttps://t.co/hfRJBwIiMN\nhttps://t.co/E9SCxZcB2t\nhttps://t.co/hNSVxAI881\nhttps://t.co/NDEekwuUSP\n\n#minfav"
+	},
+	{
 		"created_at": "Thu Dec 19 17:59:01 +0000 2019",
 		"id": 1207722013764112400,
 		"id_str": "1207722013764112384",
