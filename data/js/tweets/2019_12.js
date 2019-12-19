@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 14:43:44 +0000 2019",
+		"id": 1207495782393249800,
+		"id_str": "1207672868793921537",
+		"full_text": "[V ORIGINAL] 탱구와 제로가 꿈꾸던 그 순간이 눈 앞에 펼쳐집니다♥️💗 푸른 잔디와 그 위를 폴 폴 거니는 제로🐶❣️ 여유로운 피크닉 속 싹트는 제로와 탱구의 사랑까지~🥰 오늘두 펫셔니스타 탱구와 함께 힐링하구 가세요🎄💝\n\n▶ https://t.co/rUxjTDIPMS\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						181,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rUxjTDIPMS",
+					"expanded_url": "https://www.vlive.tv/video/165751/playlist/157709",
+					"display_url": "vlive.tv/video/165751/p…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3401233,
+			"friends_count": 169,
+			"listed_count": 1891,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 477,
+		"favorite_count": 1489,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 탱구와 제로가 꿈꾸던 그 순간이 눈 앞에 펼쳐집니다♥️💗 푸른 잔디와 그 위를 폴 폴 거니는 제로🐶❣️ 여유로운 피크닉 속 싹트는 제로와 탱구의 사랑까지~🥰 오늘두 펫셔니스타 탱구와 함께 힐링하구 가세요🎄💝\n\n▶ https://t.co/rUxjTDIPMS\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Thu Dec 19 14:43:25 +0000 2019",
+		"id": 1206771012022362000,
+		"id_str": "1207672792071786496",
+		"full_text": "[V ORIGINAL] 눈 뜨자마자 비몽사몽 제로부터 챙기는 울 제로 바라기 탱구🐶❣️ 모든 준비를 끝내고 드디어 LA 산책길에 나섰다구요💖 날씨마저 두팔벌려 반기는 제로와 탱구의 첫 LA 피크닉을 지금 바로 함께해요🥳💝\n\n▶ https://t.co/z42bAYHKzM\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z42bAYHKzM",
+					"expanded_url": "https://www.vlive.tv/video/165749/playlist/157709",
+					"display_url": "vlive.tv/video/165749/p…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3401233,
+			"friends_count": 169,
+			"listed_count": 1891,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 303,
+		"favorite_count": 1386,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 눈 뜨자마자 비몽사몽 제로부터 챙기는 울 제로 바라기 탱구🐶❣️ 모든 준비를 끝내고 드디어 LA 산책길에 나섰다구요💖 날씨마저 두팔벌려 반기는 제로와 탱구의 첫 LA 피크닉을 지금 바로 함께해요🥳💝\n\n▶ https://t.co/z42bAYHKzM\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
 		"created_at": "Thu Dec 19 13:06:07 +0000 2019",
 		"id": 1207644043976405000,
 		"id_str": "1207648302923055105",
