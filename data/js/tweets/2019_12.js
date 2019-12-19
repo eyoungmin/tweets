@@ -1,6 +1,2051 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 03:55:22 +0000 2019",
+		"id": 1207496070248329200,
+		"id_str": "1207509704408207361",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Studio Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/N1GFrLoMAI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRENE",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						155,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207480950168277000,
+					"id_str": "1207480950168276992",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVhtPU0AAOy-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVhtPU0AAOy-8.jpg",
+					"url": "https://t.co/N1GFrLoMAI",
+					"display_url": "pic.twitter.com/N1GFrLoMAI",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207496070248329217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 355,
+									"y": 445,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 335,
+									"y": 304,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 252,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 189,
+									"y": 172,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 535,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 402,
+									"y": 365,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 535,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 402,
+									"y": 365,
+									"h": 160,
+									"w": 160
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207480950168277000,
+					"id_str": "1207480950168276992",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVhtPU0AAOy-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVhtPU0AAOy-8.jpg",
+					"url": "https://t.co/N1GFrLoMAI",
+					"display_url": "pic.twitter.com/N1GFrLoMAI",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207496070248329217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 355,
+									"y": 445,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 335,
+									"y": 304,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 252,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 189,
+									"y": 172,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 535,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 402,
+									"y": 365,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 535,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 402,
+									"y": 365,
+									"h": 160,
+									"w": 160
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2001786,
+			"friends_count": 2,
+			"listed_count": 6050,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15257,
+		"favorite_count": 25764,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Studio Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/N1GFrLoMAI"
+	},
+	{
+		"created_at": "Thu Dec 19 03:55:17 +0000 2019",
+		"id": 1207496030880583700,
+		"id_str": "1207509682795032577",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Studio Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/RRSJyfBNUy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRENE",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						155,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207480945919479800,
+					"id_str": "1207480945919479809",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVhdaVUAE3Yyu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVhdaVUAE3Yyu.jpg",
+					"url": "https://t.co/RRSJyfBNUy",
+					"display_url": "pic.twitter.com/RRSJyfBNUy",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207496030880583682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 145,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 309,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 309,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 300,
+									"y": 257,
+									"h": 151,
+									"w": 151
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207480945919479800,
+					"id_str": "1207480945919479809",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVhdaVUAE3Yyu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVhdaVUAE3Yyu.jpg",
+					"url": "https://t.co/RRSJyfBNUy",
+					"display_url": "pic.twitter.com/RRSJyfBNUy",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207496030880583682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 145,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 309,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 309,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 300,
+									"y": 257,
+									"h": 151,
+									"w": 151
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2001786,
+			"friends_count": 2,
+			"listed_count": 6050,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18268,
+		"favorite_count": 30889,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Studio Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/RRSJyfBNUy"
+	},
+	{
+		"created_at": "Thu Dec 19 03:55:08 +0000 2019",
+		"id": 1207495970289676300,
+		"id_str": "1207509644496834562",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Studio Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/vYwQv7eqxr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRENE",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						155,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207480934892593200,
+					"id_str": "1207480934892593152",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVg0VUYAAna_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVg0VUYAAna_9.jpg",
+					"url": "https://t.co/vYwQv7eqxr",
+					"display_url": "pic.twitter.com/vYwQv7eqxr",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207495970289676288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1441,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207480934892593200,
+					"id_str": "1207480934892593152",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVg0VUYAAna_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVg0VUYAAna_9.jpg",
+					"url": "https://t.co/vYwQv7eqxr",
+					"display_url": "pic.twitter.com/vYwQv7eqxr",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207495970289676288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1441,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2001786,
+			"friends_count": 2,
+			"listed_count": 6050,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15045,
+		"favorite_count": 24351,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Studio Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/vYwQv7eqxr"
+	},
+	{
+		"created_at": "Thu Dec 19 03:55:06 +0000 2019",
+		"id": 1207495919597318100,
+		"id_str": "1207509635621687296",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Day Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/yNIFnqagw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRENE",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						152,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207480934712262700,
+					"id_str": "1207480934712262656",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVgzqUwAAZHBi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVgzqUwAAZHBi.jpg",
+					"url": "https://t.co/yNIFnqagw8",
+					"display_url": "pic.twitter.com/yNIFnqagw8",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207495919597318144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1441,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1297,
+									"y": 869,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 448,
+									"y": 125,
+									"h": 419,
+									"w": 419
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1080,
+									"y": 723,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 373,
+									"y": 104,
+									"h": 348,
+									"w": 348
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 612,
+									"y": 410,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 211,
+									"y": 58,
+									"h": 197,
+									"w": 197
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1297,
+									"y": 869,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 448,
+									"y": 125,
+									"h": 419,
+									"w": 419
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207480934712262700,
+					"id_str": "1207480934712262656",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVgzqUwAAZHBi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVgzqUwAAZHBi.jpg",
+					"url": "https://t.co/yNIFnqagw8",
+					"display_url": "pic.twitter.com/yNIFnqagw8",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207495919597318144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1441,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1297,
+									"y": 869,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 448,
+									"y": 125,
+									"h": 419,
+									"w": 419
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1080,
+									"y": 723,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 373,
+									"y": 104,
+									"h": 348,
+									"w": 348
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 612,
+									"y": 410,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 211,
+									"y": 58,
+									"h": 197,
+									"w": 197
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1297,
+									"y": 869,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 448,
+									"y": 125,
+									"h": 419,
+									"w": 419
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2001786,
+			"friends_count": 2,
+			"listed_count": 6050,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16213,
+		"favorite_count": 25834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Day Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/yNIFnqagw8"
+	},
+	{
+		"created_at": "Thu Dec 19 03:54:59 +0000 2019",
+		"id": 1207495865058807800,
+		"id_str": "1207509609432391680",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Day Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/r6B1Pgn8Gf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRENE",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						152,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207480934506717200,
+					"id_str": "1207480934506717185",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVgy5UYAEszAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVgy5UYAEszAh.jpg",
+					"url": "https://t.co/r6B1Pgn8Gf",
+					"display_url": "pic.twitter.com/r6B1Pgn8Gf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207495865058807808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1053,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207480934506717200,
+					"id_str": "1207480934506717185",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVgy5UYAEszAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVgy5UYAEszAh.jpg",
+					"url": "https://t.co/r6B1Pgn8Gf",
+					"display_url": "pic.twitter.com/r6B1Pgn8Gf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207495865058807808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1053,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2001786,
+			"friends_count": 2,
+			"listed_count": 6050,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14441,
+		"favorite_count": 23442,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Day Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/r6B1Pgn8Gf"
+	},
+	{
+		"created_at": "Thu Dec 19 03:54:52 +0000 2019",
+		"id": 1207495775443243000,
+		"id_str": "1207509579560628224",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Day Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/4aZnsAgHqi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRENE",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						152,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207480934091505700,
+					"id_str": "1207480934091505665",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVgxWUwAEZw1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVgxWUwAEZw1K.jpg",
+					"url": "https://t.co/4aZnsAgHqi",
+					"display_url": "pic.twitter.com/4aZnsAgHqi",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207495775443243008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207480934091505700,
+					"id_str": "1207480934091505665",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EMHVgxWUwAEZw1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMHVgxWUwAEZw1K.jpg",
+					"url": "https://t.co/4aZnsAgHqi",
+					"display_url": "pic.twitter.com/4aZnsAgHqi",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207495775443243008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2001786,
+			"friends_count": 2,
+			"listed_count": 6050,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17495,
+		"favorite_count": 29165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] - Teaser Image (Day Ver.) #IRENE\n\n🎧 2019.12.23. 6PM (KST)\n👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/4aZnsAgHqi"
+	},
+	{
+		"created_at": "Thu Dec 19 03:52:18 +0000 2019",
+		"id": 1207508933977526300,
+		"id_str": "1207508933977526274",
+		"full_text": "#펫셔니스타 #탱구\n[펫셔니스타 탱구┃Petionista Taengoo] EP.06 제로야, 좋아? (Fine)\nhttps://t.co/ZiSOmoscQf\n#태연 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZiSOmoscQf",
+					"expanded_url": "http://www.vlive.tv/video/165751",
+					"display_url": "vlive.tv/video/165751",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#펫셔니스타 #탱구\n[펫셔니스타 탱구┃Petionista Taengoo] EP.06 제로야, 좋아? (Fine)\nhttps://t.co/ZiSOmoscQf\n#태연 #TAEYEON"
+	},
+	{
+		"created_at": "Thu Dec 19 03:37:10 +0000 2019",
+		"id": 1207505121980096500,
+		"id_str": "1207505121980096513",
+		"full_text": "#TED_Talks #한국어자막\nISIS 생존 여성을 위한 희망과 정의 by. Rabiaa El Garani (Nov 2019)\nhttps://t.co/MjRpZ7zPVg\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MjRpZ7zPVg",
+					"expanded_url": "https://www.ted.com/talks/rabiaa_el_garani_hope_and_justice_for_women_who_ve_survived_isis?language=ko",
+					"display_url": "ted.com/talks/rabiaa_e…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\nISIS 생존 여성을 위한 희망과 정의 by. Rabiaa El Garani (Nov 2019)\nhttps://t.co/MjRpZ7zPVg\n#TED #테드 #minfav"
+	},
+	{
 		"created_at": "Thu Dec 19 01:54:52 +0000 2019",
 		"id": 1207471224399392800,
 		"id_str": "1207479380819230724",
