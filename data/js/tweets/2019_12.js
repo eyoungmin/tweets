@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 13:06:07 +0000 2019",
+		"id": 1207644043976405000,
+		"id_str": "1207648302923055105",
+		"full_text": "오랜만에 집에 일찍 와서 맥주 마시는 김에 써 보는 올해의 ABC 결산 - 2019년 편 \n\n1. 올해의 소설: 모스크바의 신사 by 에이모 토울스 \n2. 올해의 비소설: 운과 실력의 성공방정식 by 마이클 모부신 \n3. 올해의 미드: 믿을 수 없는 이야기 (넷플릭스)\n4. 올해의 영드: 브로드 처치 (넷플릭스) &gt;&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067401196,
+			"id_str": "1067401196",
+			"name": "박소령 | Soryoung Park",
+			"screen_name": "January19_",
+			"location": "",
+			"description": "일하는 사람들의 콘텐츠 플랫폼, 퍼블리를 만듭니다. 트위터에서는 일하는 사람들과 일하는 마인드에 대한 이야기를 주로 소개합니다. 그리고 재밌는 콘텐츠 추천도. -:) CEO of PUBLY @publy_",
+			"url": "https://t.co/BPqHYGGmHS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BPqHYGGmHS",
+							"expanded_url": "http://publy.co",
+							"display_url": "publy.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15929,
+			"friends_count": 30,
+			"listed_count": 147,
+			"created_at": "Mon Jan 07 04:10:56 +0000 2013",
+			"favourites_count": 6788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196820870049619969/hWZXFH_x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196820870049619969/hWZXFH_x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067401196/1558450583",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오랜만에 집에 일찍 와서 맥주 마시는 김에 써 보는 올해의 ABC 결산 - 2019년 편 \n\n1. 올해의 소설: 모스크바의 신사 by 에이모 토울스 \n2. 올해의 비소설: 운과 실력의 성공방정식 by 마이클 모부신 \n3. 올해의 미드: 믿을 수 없는 이야기 (넷플릭스)\n4. 올해의 영드: 브로드 처치 (넷플릭스) &gt;&gt;"
+	},
+	{
 		"created_at": "Thu Dec 19 12:57:48 +0000 2019",
 		"id": 1207616707319042000,
 		"id_str": "1207646213547290624",
