@@ -1,6 +1,2704 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 11:38:57 +0000 2019",
+		"id": 1207988756982009900,
+		"id_str": "1207988756982009858",
+		"full_text": "@fenix_app Very GOOD!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fenix_app",
+					"name": "Fenix",
+					"id": 2326966093,
+					"id_str": "2326966093",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1207981901534896000,
+		"in_reply_to_status_id_str": "1207981901534896129",
+		"in_reply_to_user_id": 2326966093,
+		"in_reply_to_user_id_str": "2326966093",
+		"in_reply_to_screen_name": "fenix_app",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fenix_app Very GOOD!"
+	},
+	{
+		"created_at": "Fri Dec 20 11:38:38 +0000 2019",
+		"id": 1207981901534896000,
+		"id_str": "1207988675784495105",
+		"full_text": "📢 A new Android beta is rolling out to the Play Store.\n\nWith this release you can finally tweet videos and move the columns tabs to the bottom of the screen.\nFeedback is very welcome.\n\nEnjoy! https://t.co/LNKMK36ikT https://t.co/QY3vQXzRd3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LNKMK36ikT",
+					"expanded_url": "https://play.google.com/apps/testing/it.mvilla.android.fenix2",
+					"display_url": "play.google.com/apps/testing/i…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207981894299766800,
+					"id_str": "1207981894299766787",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMOdIfjXUAMmVUx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMOdIfjXUAMmVUx.jpg",
+					"url": "https://t.co/QY3vQXzRd3",
+					"display_url": "pic.twitter.com/QY3vQXzRd3",
+					"expanded_url": "https://twitter.com/fenix_app/status/1207981901534896129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207981894299766800,
+					"id_str": "1207981894299766787",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMOdIfjXUAMmVUx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMOdIfjXUAMmVUx.jpg",
+					"url": "https://t.co/QY3vQXzRd3",
+					"display_url": "pic.twitter.com/QY3vQXzRd3",
+					"expanded_url": "https://twitter.com/fenix_app/status/1207981901534896129/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							31
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EMOdIfjXUAMmVUx.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2326966093,
+			"id_str": "2326966093",
+			"name": "Fenix",
+			"screen_name": "fenix_app",
+			"location": "",
+			"description": "I'm a new Twitter client for Android, iPhone and iPad. \nBrought to you by @mttvll",
+			"url": "http://t.co/TYfFPtNPIn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TYfFPtNPIn",
+							"expanded_url": "http://mvilla.it/fenix",
+							"display_url": "mvilla.it/fenix",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25844,
+			"friends_count": 7,
+			"listed_count": 311,
+			"created_at": "Tue Feb 04 11:31:28 +0000 2014",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2326966093/1391514163",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 A new Android beta is rolling out to the Play Store.\n\nWith this release you can finally tweet videos and move the columns tabs to the bottom of the screen.\nFeedback is very welcome.\n\nEnjoy! https://t.co/LNKMK36ikT https://t.co/QY3vQXzRd3"
+	},
+	{
+		"created_at": "Fri Dec 20 11:38:14 +0000 2019",
+		"id": 1207969758533963800,
+		"id_str": "1207988576941568001",
+		"full_text": "(5) 마지막으로 지금까지 보내주신 지지와 신뢰에 감사드립니다. 여러분이 계셔서 여기까지 올 수 있었습니다. 활동을 마무리하는 마지막 단계를 밟는 걸음도 함께해주시길 부탁드립니다.\n\n2019. 12. 20.\nDSO 활동가 일동",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1207969663507783700,
+		"in_reply_to_status_id_str": "1207969663507783682",
+		"in_reply_to_user_id": 4168404494,
+		"in_reply_to_user_id_str": "4168404494",
+		"in_reply_to_screen_name": "soraeliminate",
+		"user": {
+			"id": 4168404494,
+			"id_str": "4168404494",
+			"name": "[DSO] 디지털 성범죄 아웃",
+			"screen_name": "soraeliminate",
+			"location": "서울시 강동구 길동 334-5 보성빌딩 209호",
+			"description": "soraeliminate@gmail.com / 구 소라넷 고발 프로젝트 / 국민은행 591501-04-056324 / 월-금 10am-5pm / instagram digitalsexualcrimeout / facebook stopsoranet / 02-474-0400",
+			"url": "https://t.co/FeiPGTfJiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FeiPGTfJiH",
+							"expanded_url": "http://dsoonline.org",
+							"display_url": "dsoonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17704,
+			"friends_count": 117,
+			"listed_count": 94,
+			"created_at": "Sun Nov 08 13:08:29 +0000 2015",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4168404494/1448877523",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(5) 마지막으로 지금까지 보내주신 지지와 신뢰에 감사드립니다. 여러분이 계셔서 여기까지 올 수 있었습니다. 활동을 마무리하는 마지막 단계를 밟는 걸음도 함께해주시길 부탁드립니다.\n\n2019. 12. 20.\nDSO 활동가 일동"
+	},
+	{
+		"created_at": "Fri Dec 20 11:38:12 +0000 2019",
+		"id": 1207969663507783700,
+		"id_str": "1207988568859148288",
+		"full_text": "(4) 갑작스러운 소식에 놀라셨을 DSO 후원자 여러분과 지지자 여러분께 죄송합니다. 또한 비록 큰 도움을 드리지 못하였으나 현재까지도 저희 단체의 연대와 지원을 받고 계신 생존자분들께 사죄의 말씀을 드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1207969489825874000,
+		"in_reply_to_status_id_str": "1207969489825873922",
+		"in_reply_to_user_id": 4168404494,
+		"in_reply_to_user_id_str": "4168404494",
+		"in_reply_to_screen_name": "soraeliminate",
+		"user": {
+			"id": 4168404494,
+			"id_str": "4168404494",
+			"name": "[DSO] 디지털 성범죄 아웃",
+			"screen_name": "soraeliminate",
+			"location": "서울시 강동구 길동 334-5 보성빌딩 209호",
+			"description": "soraeliminate@gmail.com / 구 소라넷 고발 프로젝트 / 국민은행 591501-04-056324 / 월-금 10am-5pm / instagram digitalsexualcrimeout / facebook stopsoranet / 02-474-0400",
+			"url": "https://t.co/FeiPGTfJiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FeiPGTfJiH",
+							"expanded_url": "http://dsoonline.org",
+							"display_url": "dsoonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17704,
+			"friends_count": 117,
+			"listed_count": 94,
+			"created_at": "Sun Nov 08 13:08:29 +0000 2015",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4168404494/1448877523",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(4) 갑작스러운 소식에 놀라셨을 DSO 후원자 여러분과 지지자 여러분께 죄송합니다. 또한 비록 큰 도움을 드리지 못하였으나 현재까지도 저희 단체의 연대와 지원을 받고 계신 생존자분들께 사죄의 말씀을 드립니다."
+	},
+	{
+		"created_at": "Fri Dec 20 11:38:10 +0000 2019",
+		"id": 1207969489825874000,
+		"id_str": "1207988561120645120",
+		"full_text": "(3) 또한 DSO 운영위원회의 결정에 따라 2019년 12월 31일을 기점으로 피해자지원과 언론 대응 등 외부 활동을 잠정중단하고, 내년에는 단체를 마무리하는 단계만을 밟기로 결정하였습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1207969312926945300,
+		"in_reply_to_status_id_str": "1207969312926945281",
+		"in_reply_to_user_id": 4168404494,
+		"in_reply_to_user_id_str": "4168404494",
+		"in_reply_to_screen_name": "soraeliminate",
+		"user": {
+			"id": 4168404494,
+			"id_str": "4168404494",
+			"name": "[DSO] 디지털 성범죄 아웃",
+			"screen_name": "soraeliminate",
+			"location": "서울시 강동구 길동 334-5 보성빌딩 209호",
+			"description": "soraeliminate@gmail.com / 구 소라넷 고발 프로젝트 / 국민은행 591501-04-056324 / 월-금 10am-5pm / instagram digitalsexualcrimeout / facebook stopsoranet / 02-474-0400",
+			"url": "https://t.co/FeiPGTfJiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FeiPGTfJiH",
+							"expanded_url": "http://dsoonline.org",
+							"display_url": "dsoonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17704,
+			"friends_count": 117,
+			"listed_count": 94,
+			"created_at": "Sun Nov 08 13:08:29 +0000 2015",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4168404494/1448877523",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(3) 또한 DSO 운영위원회의 결정에 따라 2019년 12월 31일을 기점으로 피해자지원과 언론 대응 등 외부 활동을 잠정중단하고, 내년에는 단체를 마무리하는 단계만을 밟기로 결정하였습니다."
+	},
+	{
+		"created_at": "Fri Dec 20 11:38:09 +0000 2019",
+		"id": 1207969312926945300,
+		"id_str": "1207988554351050752",
+		"full_text": "(2) 활동가를 소진하며 지속되는 운동은 활동가 개개인의 건강뿐만 아니라 저희 단체를 믿고 따라와 주시는 생존자분들과 지지자분들께도 누를 끼치는 것이라 생각합니다. 이에 DSO는 더이상 운영을 지속하는 것이 불가능하다는 판단을 내렸고 내년 초 총회에 단체 해산안을 올리기로 하였습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1207968859409371100,
+		"in_reply_to_status_id_str": "1207968859409371136",
+		"in_reply_to_user_id": 4168404494,
+		"in_reply_to_user_id_str": "4168404494",
+		"in_reply_to_screen_name": "soraeliminate",
+		"user": {
+			"id": 4168404494,
+			"id_str": "4168404494",
+			"name": "[DSO] 디지털 성범죄 아웃",
+			"screen_name": "soraeliminate",
+			"location": "서울시 강동구 길동 334-5 보성빌딩 209호",
+			"description": "soraeliminate@gmail.com / 구 소라넷 고발 프로젝트 / 국민은행 591501-04-056324 / 월-금 10am-5pm / instagram digitalsexualcrimeout / facebook stopsoranet / 02-474-0400",
+			"url": "https://t.co/FeiPGTfJiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FeiPGTfJiH",
+							"expanded_url": "http://dsoonline.org",
+							"display_url": "dsoonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17704,
+			"friends_count": 117,
+			"listed_count": 94,
+			"created_at": "Sun Nov 08 13:08:29 +0000 2015",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4168404494/1448877523",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(2) 활동가를 소진하며 지속되는 운동은 활동가 개개인의 건강뿐만 아니라 저희 단체를 믿고 따라와 주시는 생존자분들과 지지자분들께도 누를 끼치는 것이라 생각합니다. 이에 DSO는 더이상 운영을 지속하는 것이 불가능하다는 판단을 내렸고 내년 초 총회에 단체 해산안을 올리기로 하였습니다."
+	},
+	{
+		"created_at": "Fri Dec 20 11:38:07 +0000 2019",
+		"id": 1207968859409371100,
+		"id_str": "1207988547933724672",
+		"full_text": "(1) 안녕하십니까? DSO 디지털성범죄아웃입니다. DSO는 2015년 소라넷고발프로젝트를 시작으로 2019년 말 현재까지 디지털 성폭력을 근절하기 위한 활동을 이어왔습니다.\n하지만 단체가 하는 일에 비해 활동가 수는 너무 적었고, 인건비를 충당하기 위한 사업을 진행할 여력조차 부족하였습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1207968173732925400,
+		"in_reply_to_status_id_str": "1207968173732925440",
+		"in_reply_to_user_id": 4168404494,
+		"in_reply_to_user_id_str": "4168404494",
+		"in_reply_to_screen_name": "soraeliminate",
+		"user": {
+			"id": 4168404494,
+			"id_str": "4168404494",
+			"name": "[DSO] 디지털 성범죄 아웃",
+			"screen_name": "soraeliminate",
+			"location": "서울시 강동구 길동 334-5 보성빌딩 209호",
+			"description": "soraeliminate@gmail.com / 구 소라넷 고발 프로젝트 / 국민은행 591501-04-056324 / 월-금 10am-5pm / instagram digitalsexualcrimeout / facebook stopsoranet / 02-474-0400",
+			"url": "https://t.co/FeiPGTfJiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FeiPGTfJiH",
+							"expanded_url": "http://dsoonline.org",
+							"display_url": "dsoonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17704,
+			"friends_count": 117,
+			"listed_count": 94,
+			"created_at": "Sun Nov 08 13:08:29 +0000 2015",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4168404494/1448877523",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(1) 안녕하십니까? DSO 디지털성범죄아웃입니다. DSO는 2015년 소라넷고발프로젝트를 시작으로 2019년 말 현재까지 디지털 성폭력을 근절하기 위한 활동을 이어왔습니다.\n하지만 단체가 하는 일에 비해 활동가 수는 너무 적었고, 인건비를 충당하기 위한 사업을 진행할 여력조차 부족하였습니다."
+	},
+	{
+		"created_at": "Fri Dec 20 11:38:00 +0000 2019",
+		"id": 1207968173732925400,
+		"id_str": "1207988517793488898",
+		"full_text": "DSO가 그간 걸어온 길에 마침표를 찍으려합니다. 함께 웃어주고 울어주셔서, 늘 곁에서 연대해주셔서 감사합니다. 후원자 및 지지자 여러분, DSO와 함께 하고 있는 생존자분들께 죄송하다는 말씀을 전합니다. 추운 겨울 따뜻하게 보내시길, 한 해의 끝과 새로운 시작 힘차게 맞이하시길 바랍니다. https://t.co/27OKahm3uE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207968160634138600,
+					"id_str": "1207968160634138625",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EMOQpFqUcAElvVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMOQpFqUcAElvVz.jpg",
+					"url": "https://t.co/27OKahm3uE",
+					"display_url": "pic.twitter.com/27OKahm3uE",
+					"expanded_url": "https://twitter.com/soraeliminate/status/1207968173732925440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 729,
+							"h": 1438,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 345,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207968160634138600,
+					"id_str": "1207968160634138625",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EMOQpFqUcAElvVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMOQpFqUcAElvVz.jpg",
+					"url": "https://t.co/27OKahm3uE",
+					"display_url": "pic.twitter.com/27OKahm3uE",
+					"expanded_url": "https://twitter.com/soraeliminate/status/1207968173732925440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 729,
+							"h": 1438,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 345,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4168404494,
+			"id_str": "4168404494",
+			"name": "[DSO] 디지털 성범죄 아웃",
+			"screen_name": "soraeliminate",
+			"location": "서울시 강동구 길동 334-5 보성빌딩 209호",
+			"description": "soraeliminate@gmail.com / 구 소라넷 고발 프로젝트 / 국민은행 591501-04-056324 / 월-금 10am-5pm / instagram digitalsexualcrimeout / facebook stopsoranet / 02-474-0400",
+			"url": "https://t.co/FeiPGTfJiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FeiPGTfJiH",
+							"expanded_url": "http://dsoonline.org",
+							"display_url": "dsoonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17704,
+			"friends_count": 117,
+			"listed_count": 94,
+			"created_at": "Sun Nov 08 13:08:29 +0000 2015",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765132080037888/Cwy8TIcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4168404494/1448877523",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2058,
+		"favorite_count": 754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DSO가 그간 걸어온 길에 마침표를 찍으려합니다. 함께 웃어주고 울어주셔서, 늘 곁에서 연대해주셔서 감사합니다. 후원자 및 지지자 여러분, DSO와 함께 하고 있는 생존자분들께 죄송하다는 말씀을 전합니다. 추운 겨울 따뜻하게 보내시길, 한 해의 끝과 새로운 시작 힘차게 맞이하시길 바랍니다. https://t.co/27OKahm3uE"
+	},
+	{
+		"created_at": "Fri Dec 20 11:32:03 +0000 2019",
+		"id": 1207949353555349500,
+		"id_str": "1207987021903355905",
+		"full_text": "\"난 침대를 뒤지버놓을 준비가 돼 있는데... 이미지상 섹스 안 해본 척 해야겠죠?\" 10cm 권정열이 함께해 더 화끈해진 사상최초 19금 사연! 김이나, 이원석, 딘딘과 으른짬바 터져버린 고막메이트 10회 보러 가요! \nhttps://t.co/sVIv5gBHC1 \n#데이브레이크 #Seezn https://t.co/aLBIUJa8rc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "데이브레이크",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sVIv5gBHC1",
+					"expanded_url": "https://youtu.be/Kpox-8yyEQQ",
+					"display_url": "youtu.be/Kpox-8yyEQQ",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207949344944509000,
+					"id_str": "1207949344944508928",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EMN_h3wVUAAkovF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMN_h3wVUAAkovF.jpg",
+					"url": "https://t.co/aLBIUJa8rc",
+					"display_url": "pic.twitter.com/aLBIUJa8rc",
+					"expanded_url": "https://twitter.com/gomakmate/status/1207949353555349505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 15,
+									"y": 30,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 14,
+									"y": 28,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 15,
+									"y": 30,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 7,
+									"y": 15,
+									"h": 63,
+									"w": 63
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207949344944509000,
+					"id_str": "1207949344944508928",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EMN_h3wVUAAkovF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMN_h3wVUAAkovF.jpg",
+					"url": "https://t.co/aLBIUJa8rc",
+					"display_url": "pic.twitter.com/aLBIUJa8rc",
+					"expanded_url": "https://twitter.com/gomakmate/status/1207949353555349505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 15,
+									"y": 30,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 14,
+									"y": 28,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 15,
+									"y": 30,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 7,
+									"y": 15,
+									"h": 63,
+									"w": 63
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1175330838721876000,
+			"id_str": "1175330838721875968",
+			"name": "고막메이트",
+			"screen_name": "gomakmate",
+			"location": "",
+			"description": "“너의 이야기, 우리가 들려줄게” #고막메이트 #김이나 #딘딘 #이원석 #정세운 막둥이들의 관심과 팔로우를 구걸합니다💙 https://t.co/rqKlpGc0uo",
+			"url": "https://t.co/uthn6kjKvj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uthn6kjKvj",
+							"expanded_url": "http://www.sbs.co.kr",
+							"display_url": "sbs.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rqKlpGc0uo",
+							"expanded_url": "https://www.youtube.com/channel/UC-BqPABOl7c7rR5EoJJZ0UA",
+							"display_url": "youtube.com/channel/UC-BqP…",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Sat Sep 21 08:49:30 +0000 2019",
+			"favourites_count": 378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175331273176281088/6If36MiT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175331273176281088/6If36MiT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1175330838721875968/1575436016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"난 침대를 뒤지버놓을 준비가 돼 있는데... 이미지상 섹스 안 해본 척 해야겠죠?\" 10cm 권정열이 함께해 더 화끈해진 사상최초 19금 사연! 김이나, 이원석, 딘딘과 으른짬바 터져버린 고막메이트 10회 보러 가요! \nhttps://t.co/sVIv5gBHC1 \n#데이브레이크 #Seezn https://t.co/aLBIUJa8rc"
+	},
+	{
+		"created_at": "Fri Dec 20 11:31:27 +0000 2019",
+		"id": 1207871106624954400,
+		"id_str": "1207986867787816962",
+		"full_text": "\"사회적 동물인 인간은 누구나 상처받기 쉬운 쿠크다스이며 소심하고 멍청한 실수를 저지른다는 사실을 기억하고, 나 또한 그런 평범한 인간일 뿐이라는 사실을 받아들이자. 모든 인간이 외롭고 두렵고 상처받는다면 내가 그런 경험을 하는 것 또한 당연하고 자연스러운 일\"&lt;여전히 휘둘리는 당신에게&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. 신간 [여전히 휘둘리는 당신에게]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75395,
+			"friends_count": 206,
+			"listed_count": 581,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 550,
+		"favorite_count": 493,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"사회적 동물인 인간은 누구나 상처받기 쉬운 쿠크다스이며 소심하고 멍청한 실수를 저지른다는 사실을 기억하고, 나 또한 그런 평범한 인간일 뿐이라는 사실을 받아들이자. 모든 인간이 외롭고 두렵고 상처받는다면 내가 그런 경험을 하는 것 또한 당연하고 자연스러운 일\"&lt;여전히 휘둘리는 당신에게&gt;"
+	},
+	{
+		"created_at": "Fri Dec 20 11:31:22 +0000 2019",
+		"id": 1207948869440397300,
+		"id_str": "1207986847864905728",
+		"full_text": "📼 191220 #뮤직뱅크\n\n▪️ #치카\n🔗 https://t.co/EI0sZjrG7Y\n\n▪️ #스내핑\n🔗 https://t.co/LQVOR6jJbg\n\n#청하 #CHUNGHA #뮤뱅\n#Chica #Snapping",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "치카",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "스내핑",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "뮤뱅",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "Chica",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "Snapping",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EI0sZjrG7Y",
+					"expanded_url": "https://bit.ly/2PErZ9q",
+					"display_url": "bit.ly/2PErZ9q",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/LQVOR6jJbg",
+					"expanded_url": "https://bit.ly/34Grccu",
+					"display_url": "bit.ly/34Grccu",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189388,
+			"friends_count": 0,
+			"listed_count": 1474,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 739,
+		"favorite_count": 2500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "📼 191220 #뮤직뱅크\n\n▪️ #치카\n🔗 https://t.co/EI0sZjrG7Y\n\n▪️ #스내핑\n🔗 https://t.co/LQVOR6jJbg\n\n#청하 #CHUNGHA #뮤뱅\n#Chica #Snapping"
+	},
+	{
+		"created_at": "Fri Dec 20 11:31:17 +0000 2019",
+		"id": 1207935164887617500,
+		"id_str": "1207986828587892736",
+		"full_text": "이번주 경향 주말판엔 요즘 저를 가장 거슬리게 하는 그랜저 광고에 대해 썼습니다. 저는 이 광고 시리즈가 직관적으로도 천박하지만, 시리즈 각 회차를 뜯어볼수록 더더욱 문제가 많다는 입장입니다.\nhttps://t.co/nU260vJoAI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nU260vJoAI",
+					"expanded_url": "https://m.khan.co.kr/view.html?art_id=201912201644015",
+					"display_url": "m.khan.co.kr/view.html?art_…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171901847,
+			"id_str": "171901847",
+			"name": "위근우",
+			"screen_name": "guevara_99",
+			"location": "",
+			"description": "아무 것도 기대하지 마세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36539,
+			"friends_count": 45,
+			"listed_count": 268,
+			"created_at": "Wed Jul 28 13:05:26 +0000 2010",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 경향 주말판엔 요즘 저를 가장 거슬리게 하는 그랜저 광고에 대해 썼습니다. 저는 이 광고 시리즈가 직관적으로도 천박하지만, 시리즈 각 회차를 뜯어볼수록 더더욱 문제가 많다는 입장입니다.\nhttps://t.co/nU260vJoAI"
+	},
+	{
+		"created_at": "Fri Dec 20 11:29:49 +0000 2019",
+		"id": 1207905846878826500,
+		"id_str": "1207986458440552448",
+		"full_text": "[#서현] #EVENT 2020 시즌그리팅 예약판매 기간 동안 구매하신 분들께는 랜덤으로 폴라로이드 사진을 증정해드립니다.😊\n\n&lt;서현 (Seo Hyun) - 2020 SEASON'S GREETINGS&gt;\n👉예약판매기간 : 12월 18일 ~ 12월 25일\n👉판매처 : 나무샵 https://t.co/i8vMNynpnS https://t.co/GAasVbNsqi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "EVENT",
+					"indices": [
+						6,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i8vMNynpnS",
+					"expanded_url": "https://bit.ly/36Ohsyt",
+					"display_url": "bit.ly/36Ohsyt",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207905834878914600,
+					"id_str": "1207905834878914560",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNX9QIUUAAGIsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNX9QIUUAAGIsz.jpg",
+					"url": "https://t.co/GAasVbNsqi",
+					"display_url": "pic.twitter.com/GAasVbNsqi",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207905846878826496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1348,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 800,
+									"y": 887,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 161,
+									"y": 1277,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1121,
+									"y": 1288,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 1104,
+									"y": 1643,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 481,
+									"y": 1653,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 804,
+									"y": 1668,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 139,
+									"y": 909,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 539,
+									"y": 809,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 468,
+									"y": 520,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 94,
+									"y": 748,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 657,
+									"y": 754,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 647,
+									"y": 963,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 282,
+									"y": 969,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 471,
+									"y": 977,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 81,
+									"y": 533,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 316,
+									"y": 474,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 295,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 53,
+									"y": 424,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 372,
+									"y": 428,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 366,
+									"y": 546,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 160,
+									"y": 549,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 267,
+									"y": 554,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 46,
+									"y": 302,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 179,
+									"y": 269,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1187,
+									"y": 1317,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 240,
+									"y": 1896,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 1664,
+									"y": 1911,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 1638,
+									"y": 2439,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 715,
+									"y": 2454,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 1193,
+									"y": 2475,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 207,
+									"y": 1350,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 801,
+									"y": 1201,
+									"h": 192,
+									"w": 192
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207905834878914600,
+					"id_str": "1207905834878914560",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNX9QIUUAAGIsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNX9QIUUAAGIsz.jpg",
+					"url": "https://t.co/GAasVbNsqi",
+					"display_url": "pic.twitter.com/GAasVbNsqi",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207905846878826496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1348,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 800,
+									"y": 887,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 161,
+									"y": 1277,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1121,
+									"y": 1288,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 1104,
+									"y": 1643,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 481,
+									"y": 1653,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 804,
+									"y": 1668,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 139,
+									"y": 909,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 539,
+									"y": 809,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 468,
+									"y": 520,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 94,
+									"y": 748,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 657,
+									"y": 754,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 647,
+									"y": 963,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 282,
+									"y": 969,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 471,
+									"y": 977,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 81,
+									"y": 533,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 316,
+									"y": 474,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 295,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 53,
+									"y": 424,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 372,
+									"y": 428,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 366,
+									"y": 546,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 160,
+									"y": 549,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 267,
+									"y": 554,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 46,
+									"y": 302,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 179,
+									"y": 269,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1187,
+									"y": 1317,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 240,
+									"y": 1896,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 1664,
+									"y": 1911,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 1638,
+									"y": 2439,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 715,
+									"y": 2454,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 1193,
+									"y": 2475,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 207,
+									"y": 1350,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 801,
+									"y": 1201,
+									"h": 192,
+									"w": 192
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 트위터\r\n\r\nhttp://t.co/yYyL4E7frq\r\nhttp://t.co/SbBo274lvv\r\nhttp://t.co/2P1PJW3Cwq",
+			"url": "http://t.co/Qkvc5dtQFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Qkvc5dtQFO",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/yYyL4E7frq",
+							"expanded_url": "http://www.facebook.com/namooactors",
+							"display_url": "facebook.com/namooactors",
+							"indices": [
+								22,
+								44
+							]
+						},
+						{
+							"url": "http://t.co/SbBo274lvv",
+							"expanded_url": "http://www.youtube.com/namooofficial",
+							"display_url": "youtube.com/namooofficial",
+							"indices": [
+								46,
+								68
+							]
+						},
+						{
+							"url": "http://t.co/2P1PJW3Cwq",
+							"expanded_url": "http://www.namooactors.com",
+							"display_url": "namooactors.com",
+							"indices": [
+								70,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28378,
+			"friends_count": 11,
+			"listed_count": 211,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 297,
+		"favorite_count": 302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서현] #EVENT 2020 시즌그리팅 예약판매 기간 동안 구매하신 분들께는 랜덤으로 폴라로이드 사진을 증정해드립니다.😊\n\n&lt;서현 (Seo Hyun) - 2020 SEASON'S GREETINGS&gt;\n👉예약판매기간 : 12월 18일 ~ 12월 25일\n👉판매처 : 나무샵 https://t.co/i8vMNynpnS https://t.co/GAasVbNsqi"
+	},
+	{
+		"created_at": "Fri Dec 20 11:29:34 +0000 2019",
+		"id": 1207927511767666700,
+		"id_str": "1207986394167009281",
+		"full_text": "[#서현] 서현 \"치열하게 살았던 지난 시간, 30대는 여유 생길 것 같다\" [화보] \nhttps://t.co/RPr7g0Snfr https://t.co/CudZkMt3ca",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RPr7g0Snfr",
+					"expanded_url": "http://naver.me/FzNZlMvz",
+					"display_url": "naver.me/FzNZlMvz",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207927503949484000,
+					"id_str": "1207927503949484032",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNrqjtVUAAFd-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNrqjtVUAAFd-9.jpg",
+					"url": "https://t.co/CudZkMt3ca",
+					"display_url": "pic.twitter.com/CudZkMt3ca",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207927511767666689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207927503949484000,
+					"id_str": "1207927503949484032",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNrqjtVUAAFd-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNrqjtVUAAFd-9.jpg",
+					"url": "https://t.co/CudZkMt3ca",
+					"display_url": "pic.twitter.com/CudZkMt3ca",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207927511767666689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1207927504188498000,
+					"id_str": "1207927504188497925",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNrqkmUYAUBaMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNrqkmUYAUBaMx.jpg",
+					"url": "https://t.co/CudZkMt3ca",
+					"display_url": "pic.twitter.com/CudZkMt3ca",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207927511767666689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 79,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 346,
+									"y": 139,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 426,
+									"y": 172,
+									"h": 230,
+									"w": 230
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 426,
+									"y": 172,
+									"h": 230,
+									"w": 230
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207927503957840000,
+					"id_str": "1207927503957839874",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNrqjvU0AI2UiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNrqjvU0AI2UiJ.jpg",
+					"url": "https://t.co/CudZkMt3ca",
+					"display_url": "pic.twitter.com/CudZkMt3ca",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207927511767666689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 226,
+									"y": 554,
+									"h": 288,
+									"w": 288
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 450,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 104,
+									"y": 255,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 226,
+									"y": 554,
+									"h": 288,
+									"w": 288
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 트위터\r\n\r\nhttp://t.co/yYyL4E7frq\r\nhttp://t.co/SbBo274lvv\r\nhttp://t.co/2P1PJW3Cwq",
+			"url": "http://t.co/Qkvc5dtQFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Qkvc5dtQFO",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/yYyL4E7frq",
+							"expanded_url": "http://www.facebook.com/namooactors",
+							"display_url": "facebook.com/namooactors",
+							"indices": [
+								22,
+								44
+							]
+						},
+						{
+							"url": "http://t.co/SbBo274lvv",
+							"expanded_url": "http://www.youtube.com/namooofficial",
+							"display_url": "youtube.com/namooofficial",
+							"indices": [
+								46,
+								68
+							]
+						},
+						{
+							"url": "http://t.co/2P1PJW3Cwq",
+							"expanded_url": "http://www.namooactors.com",
+							"display_url": "namooactors.com",
+							"indices": [
+								70,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28378,
+			"friends_count": 11,
+			"listed_count": 211,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 453,
+		"favorite_count": 504,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서현] 서현 \"치열하게 살았던 지난 시간, 30대는 여유 생길 것 같다\" [화보] \nhttps://t.co/RPr7g0Snfr https://t.co/CudZkMt3ca"
+	},
+	{
 		"created_at": "Fri Dec 20 09:21:31 +0000 2019",
 		"id": 1207954169509888000,
 		"id_str": "1207954169509888000",
