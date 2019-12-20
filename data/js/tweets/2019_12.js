@@ -1,6 +1,1031 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 21:39:35 +0000 2019",
+		"id": 1207939463499767800,
+		"id_str": "1208139910248452096",
+		"full_text": "토스, LG유플러스 PG사업부 인수 https://t.co/uPEjUgNOAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPEjUgNOAB",
+					"expanded_url": "http://www.bloter.net/archives/365092",
+					"display_url": "bloter.net/archives/365092",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56329,
+			"friends_count": 9,
+			"listed_count": 2528,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "토스, LG유플러스 PG사업부 인수 https://t.co/uPEjUgNOAB"
+	},
+	{
+		"created_at": "Fri Dec 20 21:38:31 +0000 2019",
+		"id": 1207940156696588300,
+		"id_str": "1208139642114936832",
+		"full_text": "이건 창작뮤지컬이란 워딩에 대한 것이 아니라 모 영화 판권에 관한 궁금증과 연관해서 올린 트윗. 그러니까 로컬라이징 과정에서 달라지는 이야기가 포인트가 아니라 핵심 컨셉, 즉 직업윤리상 거짓말을 하면 안되는 사람이 거짓말을 정말 못하게 된다는 설정 자체가 중요하단 얘기.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1207919508607733800,
+		"in_reply_to_status_id_str": "1207919508607733760",
+		"in_reply_to_user_id": 77371404,
+		"in_reply_to_user_id_str": "77371404",
+		"in_reply_to_screen_name": "bb_SENArita",
+		"user": {
+			"id": 77371404,
+			"id_str": "77371404",
+			"name": "솜털보네 빵집",
+			"screen_name": "bb_SENArita",
+			"location": "",
+			"description": ",let it go and let me in",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 565,
+			"friends_count": 62,
+			"listed_count": 9,
+			"created_at": "Sat Sep 26 02:14:04 +0000 2009",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 120358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195576538281889792/9zjV3LCn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195576538281889792/9zjV3LCn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77371404/1573805857",
+			"profile_link_color": "AA2244",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 370,
+		"favorite_count": 209,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이건 창작뮤지컬이란 워딩에 대한 것이 아니라 모 영화 판권에 관한 궁금증과 연관해서 올린 트윗. 그러니까 로컬라이징 과정에서 달라지는 이야기가 포인트가 아니라 핵심 컨셉, 즉 직업윤리상 거짓말을 하면 안되는 사람이 거짓말을 정말 못하게 된다는 설정 자체가 중요하단 얘기."
+	},
+	{
+		"created_at": "Fri Dec 20 21:38:26 +0000 2019",
+		"id": 1207920420411719700,
+		"id_str": "1208139621990711296",
+		"full_text": "&lt;올드 보이&gt; 역시 일본만화가 원작이고 박찬욱 감독은 판권을 구입해 리메이크 했지만, 익히 알려져있다시피 내용은 상당히 다름. 자, 창작자의 권리를 존중하고 아이디어의 소중함을 아는 사람들이 만드는 작품들은 어떠한가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1207919508607733800,
+		"in_reply_to_status_id_str": "1207919508607733760",
+		"in_reply_to_user_id": 77371404,
+		"in_reply_to_user_id_str": "77371404",
+		"in_reply_to_screen_name": "bb_SENArita",
+		"user": {
+			"id": 77371404,
+			"id_str": "77371404",
+			"name": "솜털보네 빵집",
+			"screen_name": "bb_SENArita",
+			"location": "",
+			"description": ",let it go and let me in",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 565,
+			"friends_count": 62,
+			"listed_count": 9,
+			"created_at": "Sat Sep 26 02:14:04 +0000 2009",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 120358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195576538281889792/9zjV3LCn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195576538281889792/9zjV3LCn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77371404/1573805857",
+			"profile_link_color": "AA2244",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1451,
+		"favorite_count": 607,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;올드 보이&gt; 역시 일본만화가 원작이고 박찬욱 감독은 판권을 구입해 리메이크 했지만, 익히 알려져있다시피 내용은 상당히 다름. 자, 창작자의 권리를 존중하고 아이디어의 소중함을 아는 사람들이 만드는 작품들은 어떠한가."
+	},
+	{
+		"created_at": "Fri Dec 20 21:38:24 +0000 2019",
+		"id": 1207919508607733800,
+		"id_str": "1208139612612227072",
+		"full_text": "&lt;설국열차&gt; 관련 인터뷰 중에 이런 게 있었다. '설원 위를 달리는 기차'라는 컨셉을 제외하곤 전혀 다른 이야기인데 왜 고가의 판권을 구입했나'라는 취지의 질문에 대한 봉의 대답은 '설원 위를 달리는 기차'라는 발상이 위대한 것. 창작자로서 그걸 훔치면 안 된다.'였다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77371404,
+			"id_str": "77371404",
+			"name": "솜털보네 빵집",
+			"screen_name": "bb_SENArita",
+			"location": "",
+			"description": ",let it go and let me in",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 565,
+			"friends_count": 62,
+			"listed_count": 9,
+			"created_at": "Sat Sep 26 02:14:04 +0000 2009",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 120358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195576538281889792/9zjV3LCn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195576538281889792/9zjV3LCn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77371404/1573805857",
+			"profile_link_color": "AA2244",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4840,
+		"favorite_count": 1940,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;설국열차&gt; 관련 인터뷰 중에 이런 게 있었다. '설원 위를 달리는 기차'라는 컨셉을 제외하곤 전혀 다른 이야기인데 왜 고가의 판권을 구입했나'라는 취지의 질문에 대한 봉의 대답은 '설원 위를 달리는 기차'라는 발상이 위대한 것. 창작자로서 그걸 훔치면 안 된다.'였다."
+	},
+	{
+		"created_at": "Fri Dec 20 21:37:58 +0000 2019",
+		"id": 1208139502222364700,
+		"id_str": "1208139502222364672",
+		"full_text": "&gt; 주문량이 많고 라이더 수가 부족한데 날씨도 안 좋아 배달 속도도 나지 않는다면 높은 배달료를 주고, 주문량은 적고 라이더 수는 넘쳐나고 날씨도 창창하면 배달료를 낮게 지급하는 건 당연한 일 아닐까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1208138768294662100,
+		"in_reply_to_status_id_str": "1208138768294662144",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "&gt; 주문량이 많고 라이더 수가 부족한데 날씨도 안 좋아 배달 속도도 나지 않는다면 높은 배달료를 주고, 주문량은 적고 라이더 수는 넘쳐나고 날씨도 창창하면 배달료를 낮게 지급하는 건 당연한 일 아닐까?"
+	},
+	{
+		"created_at": "Fri Dec 20 21:35:03 +0000 2019",
+		"id": 1208138768294662100,
+		"id_str": "1208138768294662144",
+		"full_text": "&gt; 매일 밤 9시 배민은 라이더들이 사용하는 앱 ‘브로스’에 다음날 얼마의 배달료를 받고 일할 수 있는지를 공지한다. 기본 배달료는 3천원. 여기에 주문 건수, 라이더 수, 날씨에 따라 500원에서 2천원의 프로모션이 붙는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1208137846172745700,
+		"in_reply_to_status_id_str": "1208137846172745728",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "&gt; 매일 밤 9시 배민은 라이더들이 사용하는 앱 ‘브로스’에 다음날 얼마의 배달료를 받고 일할 수 있는지를 공지한다. 기본 배달료는 3천원. 여기에 주문 건수, 라이더 수, 날씨에 따라 500원에서 2천원의 프로모션이 붙는다."
+	},
+	{
+		"created_at": "Fri Dec 20 21:31:23 +0000 2019",
+		"id": 1208137846172745700,
+		"id_str": "1208137846172745728",
+		"full_text": "[노 땡큐!] 배민의 실험정신\nhttps://t.co/cV4AG76qxC\n#배달의민족 #배민 #배달 #OTO #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배달의민족",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "배민",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "배달",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "OTO",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cV4AG76qxC",
+					"expanded_url": "http://h21.hani.co.kr/arti/culture/culture_general/48009.html",
+					"display_url": "h21.hani.co.kr/arti/culture/c…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[노 땡큐!] 배민의 실험정신\nhttps://t.co/cV4AG76qxC\n#배달의민족 #배민 #배달 #OTO #minfav"
+	},
+	{
+		"created_at": "Fri Dec 20 21:26:37 +0000 2019",
+		"id": 1208136646538870800,
+		"id_str": "1208136646538870784",
+		"full_text": "유준상 국기함 왔는데 퀄리티 좋다. 하나 더 사고 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 869,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유준상 국기함 왔는데 퀄리티 좋다. 하나 더 사고 싶다."
+	},
+	{
+		"created_at": "Fri Dec 20 21:08:23 +0000 2019",
+		"id": 1208070274840531000,
+		"id_str": "1208132057823506432",
+		"full_text": "Watch Billie on #CarpoolKaraoke https://t.co/QQGBQRd7oM @latelateshow https://t.co/Dt6jcwIDNd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CarpoolKaraoke",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latelateshow",
+					"name": "The Late Late Show with James Corden",
+					"id": 2835962353,
+					"id_str": "2835962353",
+					"indices": [
+						56,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QQGBQRd7oM",
+					"expanded_url": "https://youtu.be/uh2qGWfmESk",
+					"display_url": "youtu.be/uh2qGWfmESk",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208070256087814100,
+					"id_str": "1208070256087814144",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMPtf03UUAAM3m1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMPtf03UUAAM3m1.jpg",
+					"url": "https://t.co/Dt6jcwIDNd",
+					"display_url": "pic.twitter.com/Dt6jcwIDNd",
+					"expanded_url": "https://twitter.com/billieeilish/status/1208070274840530944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208070256087814100,
+					"id_str": "1208070256087814144",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMPtf03UUAAM3m1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMPtf03UUAAM3m1.jpg",
+					"url": "https://t.co/Dt6jcwIDNd",
+					"display_url": "pic.twitter.com/Dt6jcwIDNd",
+					"expanded_url": "https://twitter.com/billieeilish/status/1208070274840530944/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EMPtf03UUAAM3m1.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3150361,
+			"friends_count": 0,
+			"listed_count": 2588,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3495,
+		"favorite_count": 24619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch Billie on #CarpoolKaraoke https://t.co/QQGBQRd7oM @latelateshow https://t.co/Dt6jcwIDNd"
+	},
+	{
 		"created_at": "Fri Dec 20 20:58:40 +0000 2019",
 		"id": 1207616611818983400,
 		"id_str": "1208129612942675968",
