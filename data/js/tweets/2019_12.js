@@ -1,6 +1,924 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 01:44:09 +0000 2019",
+		"id": 1207835169844908000,
+		"id_str": "1207839068098322432",
+		"full_text": "Thank you @papermagazine for including #BLACKPINK https://t.co/owDN2A42dP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "papermagazine",
+					"name": "PAPER Magazine",
+					"id": 11277292,
+					"id_str": "11277292",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/owDN2A42dP",
+					"expanded_url": "https://twitter.com/papermagazine/status/1207683414184398849",
+					"display_url": "twitter.com/papermagazine/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #LEEHI #TREASURE13",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5598213,
+			"friends_count": 42,
+			"listed_count": 7628,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1207683414184398800,
+		"quoted_status_id_str": "1207683414184398849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/owDN2A42dP",
+			"expanded": "https://twitter.com/papermagazine/status/1207683414184398849",
+			"display": "twitter.com/papermagazine/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 19 15:25:38 +0000 2019",
+			"id": 1207683414184398800,
+			"id_str": "1207683414184398849",
+			"full_text": "@carolineplz @clairo @100gecs @rosaliavt @billieeilish @whereisMUNA @lizzo @MissyElliott @Saweetie @CityGirls_QC @JheneAiko @DORIANELECTRA @theestallion @DaBabyDaBaby @charli_xcx @QueensChristine @JBALVIN @LilNasX @billyraycyrus @FKAtwigs #1 \"Kill This Love\" by @ygofficialblink #PAPERTop50 https://t.co/0bkOwLVQi7 https://t.co/FNUZcFJhSq",
+			"truncated": false,
+			"display_text_range": [
+				239,
+				314
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PAPERTop50",
+						"indices": [
+							279,
+							290
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "carolineplz",
+						"name": "Caroline Polachek",
+						"id": 500190142,
+						"id_str": "500190142",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "clairo",
+						"name": "claire cottrill",
+						"id": 1216323763,
+						"id_str": "1216323763",
+						"indices": [
+							13,
+							20
+						]
+					},
+					{
+						"screen_name": "100gecs",
+						"name": "100 gecs",
+						"id": 1135041350028501000,
+						"id_str": "1135041350028500992",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"screen_name": "rosaliavt",
+						"name": "R O S A L Í A",
+						"id": 1728956976,
+						"id_str": "1728956976",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"screen_name": "billieeilish",
+						"name": "billie eilish",
+						"id": 2150327072,
+						"id_str": "2150327072",
+						"indices": [
+							41,
+							54
+						]
+					},
+					{
+						"screen_name": "whereisMUNA",
+						"name": "MUNA",
+						"id": 2176972214,
+						"id_str": "2176972214",
+						"indices": [
+							55,
+							67
+						]
+					},
+					{
+						"screen_name": "lizzo",
+						"name": "Feelin Good As Hell",
+						"id": 323417384,
+						"id_str": "323417384",
+						"indices": [
+							68,
+							74
+						]
+					},
+					{
+						"screen_name": "MissyElliott",
+						"name": "Missy Elliott",
+						"id": 145499533,
+						"id_str": "145499533",
+						"indices": [
+							75,
+							88
+						]
+					},
+					{
+						"screen_name": "Saweetie",
+						"name": "icy",
+						"id": 292747917,
+						"id_str": "292747917",
+						"indices": [
+							89,
+							98
+						]
+					},
+					{
+						"screen_name": "CityGirls_QC",
+						"name": "City Girls",
+						"id": 1040741472255918100,
+						"id_str": "1040741472255918080",
+						"indices": [
+							99,
+							112
+						]
+					},
+					{
+						"screen_name": "JheneAiko",
+						"name": "Chilombo",
+						"id": 21247989,
+						"id_str": "21247989",
+						"indices": [
+							113,
+							123
+						]
+					},
+					{
+						"screen_name": "DORIANELECTRA",
+						"name": "DORIAN ELECTRA \"𝔞𝔡𝔞𝔪 & 𝔰𝔱𝔢𝔳𝔢\" OUT NOW⚔️🎵",
+						"id": 14720012,
+						"id_str": "14720012",
+						"indices": [
+							124,
+							138
+						]
+					},
+					{
+						"screen_name": "theestallion",
+						"name": "HOT GIRL MEG",
+						"id": 104040220,
+						"id_str": "104040220",
+						"indices": [
+							139,
+							152
+						]
+					},
+					{
+						"screen_name": "DaBabyDaBaby",
+						"name": "DaBaby",
+						"id": 3004871415,
+						"id_str": "3004871415",
+						"indices": [
+							153,
+							166
+						]
+					},
+					{
+						"screen_name": "charli_xcx",
+						"name": "Charli",
+						"id": 103012173,
+						"id_str": "103012173",
+						"indices": [
+							167,
+							178
+						]
+					},
+					{
+						"screen_name": "QueensChristine",
+						"name": "Chris",
+						"id": 254496233,
+						"id_str": "254496233",
+						"indices": [
+							179,
+							195
+						]
+					},
+					{
+						"screen_name": "JBALVIN",
+						"name": "J BALVIN",
+						"id": 44670915,
+						"id_str": "44670915",
+						"indices": [
+							196,
+							204
+						]
+					},
+					{
+						"screen_name": "LilNasX",
+						"name": "nope",
+						"id": 754006735468261400,
+						"id_str": "754006735468261376",
+						"indices": [
+							205,
+							213
+						]
+					},
+					{
+						"screen_name": "billyraycyrus",
+						"name": "Billy Ray Cyrus",
+						"id": 28380724,
+						"id_str": "28380724",
+						"indices": [
+							214,
+							228
+						]
+					},
+					{
+						"screen_name": "FKAtwigs",
+						"name": "FKA twigs",
+						"id": 748020092,
+						"id_str": "748020092",
+						"indices": [
+							229,
+							238
+						]
+					},
+					{
+						"screen_name": "ygofficialblink",
+						"name": "BLACKPINK GLOBAL BLINK",
+						"id": 878204370403250200,
+						"id_str": "878204370403250176",
+						"indices": [
+							262,
+							278
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0bkOwLVQi7",
+						"expanded_url": "http://bit.ly/2tviqkL",
+						"display_url": "bit.ly/2tviqkL",
+						"indices": [
+							291,
+							314
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1207683408761147400,
+						"id_str": "1207683408761147394",
+						"indices": [
+							315,
+							338
+						],
+						"media_url": "http://pbs.twimg.com/media/EMKNqWRXUAIg-qx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMKNqWRXUAIg-qx.jpg",
+						"url": "https://t.co/FNUZcFJhSq",
+						"display_url": "pic.twitter.com/FNUZcFJhSq",
+						"expanded_url": "https://twitter.com/papermagazine/status/1207683414184398849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1000,
+								"h": 1002,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1002,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1207683408761147400,
+						"id_str": "1207683408761147394",
+						"indices": [
+							315,
+							338
+						],
+						"media_url": "http://pbs.twimg.com/media/EMKNqWRXUAIg-qx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMKNqWRXUAIg-qx.jpg",
+						"url": "https://t.co/FNUZcFJhSq",
+						"display_url": "pic.twitter.com/FNUZcFJhSq",
+						"expanded_url": "https://twitter.com/papermagazine/status/1207683414184398849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1000,
+								"h": 1002,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1002,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1207683142934507500,
+			"in_reply_to_status_id_str": "1207683142934507522",
+			"in_reply_to_user_id": 11277292,
+			"in_reply_to_user_id_str": "11277292",
+			"in_reply_to_screen_name": "papermagazine",
+			"user": {
+				"id": 11277292,
+				"id_str": "11277292",
+				"name": "PAPER Magazine",
+				"screen_name": "papermagazine",
+				"location": "New York",
+				"description": "Where things start. edit@paperentertainment.com",
+				"url": "https://t.co/Hg450bgr2V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Hg450bgr2V",
+								"expanded_url": "http://www.papermag.com",
+								"display_url": "papermag.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 334095,
+				"friends_count": 3598,
+				"listed_count": 4202,
+				"created_at": "Tue Dec 18 02:16:01 +0000 2007",
+				"favourites_count": 11141,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 68892,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1207423547133562882/3Eo1l-_V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207423547133562882/3Eo1l-_V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11277292/1576707182",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B4BAB1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2358,
+			"favorite_count": 4498,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2514,
+		"favorite_count": 8313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @papermagazine for including #BLACKPINK https://t.co/owDN2A42dP"
+	},
+	{
+		"created_at": "Fri Dec 20 01:44:05 +0000 2019",
+		"id": 1207824659414052900,
+		"id_str": "1207839054953435136",
+		"full_text": "레드벨벳 멤버 개별 티저가 모두 공개되어 새 앨범 ‘#TheReVeFestivalFinale’ 컴백에 대한 기대감이 높아지고 있습니다! 히트메이커 유영진과 켄지(Kenzie) 등이 참여한 중독성 넘치는 훅이 돋보이는 타이틀 곡 ‘Psycho’를 23일 오후 6시에 만나보세요!🎪\n\n#RedVelvet #레드벨벳 #RVF #Psycho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						29,
+						51
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2008121,
+			"friends_count": 2,
+			"listed_count": 6074,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3275,
+		"favorite_count": 8825,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "레드벨벳 멤버 개별 티저가 모두 공개되어 새 앨범 ‘#TheReVeFestivalFinale’ 컴백에 대한 기대감이 높아지고 있습니다! 히트메이커 유영진과 켄지(Kenzie) 등이 참여한 중독성 넘치는 훅이 돋보이는 타이틀 곡 ‘Psycho’를 23일 오후 6시에 만나보세요!🎪\n\n#RedVelvet #레드벨벳 #RVF #Psycho"
+	},
+	{
+		"created_at": "Fri Dec 20 01:28:46 +0000 2019",
+		"id": 1207831697330323500,
+		"id_str": "1207835200639701001",
+		"full_text": "spending the rest of 2019 … https://t.co/ppCBcTJSdk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207831561594273800,
+					"id_str": "1207831561594273792",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207831561594273792/pu/img/sEaZLmzqEaXQUDbJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207831561594273792/pu/img/sEaZLmzqEaXQUDbJ.jpg",
+					"url": "https://t.co/ppCBcTJSdk",
+					"display_url": "pic.twitter.com/ppCBcTJSdk",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1207831697330323456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207831561594273800,
+					"id_str": "1207831561594273792",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207831561594273792/pu/img/sEaZLmzqEaXQUDbJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207831561594273792/pu/img/sEaZLmzqEaXQUDbJ.jpg",
+					"url": "https://t.co/ppCBcTJSdk",
+					"display_url": "pic.twitter.com/ppCBcTJSdk",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1207831697330323456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9008,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207831561594273792/pu/vid/1280x720/GRYkFP5OEz_Nd89m.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207831561594273792/pu/vid/640x360/JfT6zld1CXJ12STJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207831561594273792/pu/vid/480x270/lt5QY2xsOFc1ky40.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1207831561594273792/pu/pl/3Adw67ViwLBVgyet.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331261,
+			"friends_count": 176,
+			"listed_count": 996,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1910,
+		"favorite_count": 3163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "spending the rest of 2019 … https://t.co/ppCBcTJSdk"
+	},
+	{
 		"created_at": "Fri Dec 20 00:28:46 +0000 2019",
 		"id": 1207819354152128500,
 		"id_str": "1207820100818083842",
