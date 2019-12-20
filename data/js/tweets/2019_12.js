@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 00:28:46 +0000 2019",
+		"id": 1207819354152128500,
+		"id_str": "1207820100818083842",
+		"full_text": "love her 👑 https://t.co/Z3lrfqxNrw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z3lrfqxNrw",
+					"expanded_url": "https://twitter.com/lyzaborjal/status/1207721518538600449",
+					"display_url": "twitter.com/lyzaborjal/sta…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331232,
+			"friends_count": 176,
+			"listed_count": 996,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1207721518538600400,
+		"quoted_status_id_str": "1207721518538600449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z3lrfqxNrw",
+			"expanded": "https://twitter.com/lyzaborjal/status/1207721518538600449",
+			"display": "twitter.com/lyzaborjal/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 19 17:57:03 +0000 2019",
+			"id": 1207721518538600400,
+			"id_str": "1207721518538600449",
+			"full_text": "Never knew @tiffanyyoung admires @MsLeaSalonga! That Disney reference though.. From one icon to another. #Legends\n\nhttps://t.co/lCtuAFj8gW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Legends",
+						"indices": [
+							105,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffanyyoung",
+						"name": "TIFFANY YOUNG",
+						"id": 971130819518476300,
+						"id_str": "971130819518476289",
+						"indices": [
+							11,
+							24
+						]
+					},
+					{
+						"screen_name": "MsLeaSalonga",
+						"name": "Lea Salonga",
+						"id": 31685653,
+						"id_str": "31685653",
+						"indices": [
+							33,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lCtuAFj8gW",
+						"expanded_url": "https://youtu.be/SElgr8Hcj8k",
+						"display_url": "youtu.be/SElgr8Hcj8k",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116710258,
+				"id_str": "116710258",
+				"name": "f i f i",
+				"screen_name": "lyzaborjal",
+				"location": "",
+				"description": "True love waits. 💘 SNSD 190113 Taeyeon 250316 100617 110617 011218 021218 YoonTaeHyo 060418 Tiffany 200918 Yoona 280918 🇵🇭🇦🇪🇭🇰🇮🇷🇴🇲🇮🇳🇹🇭🇸🇬🇧🇭",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1115,
+				"friends_count": 800,
+				"listed_count": 38,
+				"created_at": "Tue Feb 23 10:39:22 +0000 2010",
+				"favourites_count": 11276,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 193052,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "06010A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1157685668019154945/Upe1_MRT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157685668019154945/Upe1_MRT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116710258/1559362950",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "58EBF0",
+				"profile_sidebar_fill_color": "F098F5",
+				"profile_text_color": "8A0BB8",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 115,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 487,
+		"favorite_count": 1330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "love her 👑 https://t.co/Z3lrfqxNrw"
+	},
+	{
 		"created_at": "Thu Dec 19 22:15:18 +0000 2019",
 		"id": 1207786510751285200,
 		"id_str": "1207786510751285248",
