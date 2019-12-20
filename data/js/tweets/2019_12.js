@@ -1,6 +1,1499 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 05:44:08 +0000 2019",
+		"id": 1207888611581943800,
+		"id_str": "1207899462330441728",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] Scrapbook Ver. - Album Details\n\nSee more 👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/uU0h9LhAna",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						135,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207888600060158000,
+					"id_str": "1207888600060157952",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNISDbUYAALMZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNISDbUYAALMZg.jpg",
+					"url": "https://t.co/uU0h9LhAna",
+					"display_url": "pic.twitter.com/uU0h9LhAna",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888611581943808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1392,
+									"y": 582,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 197,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 349,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1392,
+									"y": 582,
+									"h": 87,
+									"w": 87
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207888600060158000,
+					"id_str": "1207888600060157952",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNISDbUYAALMZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNISDbUYAALMZg.jpg",
+					"url": "https://t.co/uU0h9LhAna",
+					"display_url": "pic.twitter.com/uU0h9LhAna",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888611581943808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1392,
+									"y": 582,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 197,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 349,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1392,
+									"y": 582,
+									"h": 87,
+									"w": 87
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207888600060137500,
+					"id_str": "1207888600060137472",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNISDbUEAAwl30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNISDbUEAAwl30.jpg",
+					"url": "https://t.co/uU0h9LhAna",
+					"display_url": "pic.twitter.com/uU0h9LhAna",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888611581943808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 628,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 356,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1207888600064389000,
+					"id_str": "1207888600064389120",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNISDcU8AA9VM9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNISDcU8AA9VM9.jpg",
+					"url": "https://t.co/uU0h9LhAna",
+					"display_url": "pic.twitter.com/uU0h9LhAna",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888611581943808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 270,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 476,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1012,
+									"y": 1244,
+									"h": 180,
+									"w": 180
+								},
+								{
+									"x": 552,
+									"y": 1252,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 168,
+									"y": 206,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 91,
+									"y": 208,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 364,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 161,
+									"y": 366,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 506,
+									"y": 622,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 276,
+									"y": 626,
+									"h": 108,
+									"w": 108
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207888600072769500,
+					"id_str": "1207888600072769536",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNISDeU0AA_4Hp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNISDeU0AA_4Hp.jpg",
+					"url": "https://t.co/uU0h9LhAna",
+					"display_url": "pic.twitter.com/uU0h9LhAna",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888611581943808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 544,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 318,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 180,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 216,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 432,
+									"h": 364,
+									"w": 364
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 162,
+									"y": 126,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 92,
+									"y": 71,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2009381,
+			"friends_count": 2,
+			"listed_count": 6092,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8847,
+		"favorite_count": 15758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] Scrapbook Ver. - Album Details\n\nSee more 👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/uU0h9LhAna"
+	},
+	{
+		"created_at": "Fri Dec 20 05:44:05 +0000 2019",
+		"id": 1207888506191663000,
+		"id_str": "1207899453136486400",
+		"full_text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] Finale Ver. - Album Details\n\nSee more 👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/Vnbdfbbu5J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						132,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoNOJfGi1g",
+					"expanded_url": "http://redvelvet.smtown.com",
+					"display_url": "redvelvet.smtown.com",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207888496393781200,
+					"id_str": "1207888496393781248",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNIMBPVAAAQufQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNIMBPVAAAQufQ.jpg",
+					"url": "https://t.co/Vnbdfbbu5J",
+					"display_url": "pic.twitter.com/Vnbdfbbu5J",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888506191663104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 836,
+									"y": 617,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 367,
+									"y": 939,
+									"h": 214,
+									"w": 214
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1394,
+									"y": 1029,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 613,
+									"y": 1566,
+									"h": 357,
+									"w": 357
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1394,
+									"y": 1029,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 613,
+									"y": 1566,
+									"h": 357,
+									"w": 357
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 349,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 208,
+									"y": 532,
+									"h": 121,
+									"w": 121
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207888496393781200,
+					"id_str": "1207888496393781248",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNIMBPVAAAQufQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNIMBPVAAAQufQ.jpg",
+					"url": "https://t.co/Vnbdfbbu5J",
+					"display_url": "pic.twitter.com/Vnbdfbbu5J",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888506191663104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 836,
+									"y": 617,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 367,
+									"y": 939,
+									"h": 214,
+									"w": 214
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1394,
+									"y": 1029,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 613,
+									"y": 1566,
+									"h": 357,
+									"w": 357
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1394,
+									"y": 1029,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 613,
+									"y": 1566,
+									"h": 357,
+									"w": 357
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 349,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 208,
+									"y": 532,
+									"h": 121,
+									"w": 121
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207888496393769000,
+					"id_str": "1207888496393768966",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNIMBPU0AYKBtQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNIMBPU0AYKBtQ.jpg",
+					"url": "https://t.co/Vnbdfbbu5J",
+					"display_url": "pic.twitter.com/Vnbdfbbu5J",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888506191663104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 760,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 445,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 252,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 226,
+									"y": 504,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 132,
+									"y": 295,
+									"h": 194,
+									"w": 194
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 452,
+									"y": 1008,
+									"h": 664,
+									"w": 664
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 74,
+									"y": 167,
+									"h": 110,
+									"w": 110
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207888496393801700,
+					"id_str": "1207888496393801735",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNIMBPVUAc5XWH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNIMBPVUAc5XWH.jpg",
+					"url": "https://t.co/Vnbdfbbu5J",
+					"display_url": "pic.twitter.com/Vnbdfbbu5J",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888506191663104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 184,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 553,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 324,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 12,
+									"y": 70,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 38,
+									"y": 212,
+									"h": 256,
+									"w": 256
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 124,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 76,
+									"y": 424,
+									"h": 512,
+									"w": 512
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207888496393801700,
+					"id_str": "1207888496393801734",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNIMBPVUAYEBk3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNIMBPVUAYEBk3.jpg",
+					"url": "https://t.co/Vnbdfbbu5J",
+					"display_url": "pic.twitter.com/Vnbdfbbu5J",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1207888506191663104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 170,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 301,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 513,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/UmIWRCiABI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmIWRCiABI",
+							"expanded_url": "http://youtu.be/vHS9E6JFja8",
+							"display_url": "youtu.be/vHS9E6JFja8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2009381,
+			"friends_count": 2,
+			"listed_count": 6092,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1566291835",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8872,
+		"favorite_count": 16432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 [‘The ReVe Festival’ Finale] Finale Ver. - Album Details\n\nSee more 👉 https://t.co/qoNOJfGi1g\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale https://t.co/Vnbdfbbu5J"
+	},
+	{
+		"created_at": "Fri Dec 20 05:14:34 +0000 2019",
+		"id": 1207495782393249800,
+		"id_str": "1207892022670966784",
+		"full_text": "[V ORIGINAL] 탱구와 제로가 꿈꾸던 그 순간이 눈 앞에 펼쳐집니다♥️💗 푸른 잔디와 그 위를 폴 폴 거니는 제로🐶❣️ 여유로운 피크닉 속 싹트는 제로와 탱구의 사랑까지~🥰 오늘두 펫셔니스타 탱구와 함께 힐링하구 가세요🎄💝\n\n▶ https://t.co/rUxjTDIPMS\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						181,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rUxjTDIPMS",
+					"expanded_url": "https://www.vlive.tv/video/165751/playlist/157709",
+					"display_url": "vlive.tv/video/165751/p…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3401902,
+			"friends_count": 169,
+			"listed_count": 1894,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 527,
+		"favorite_count": 1724,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 탱구와 제로가 꿈꾸던 그 순간이 눈 앞에 펼쳐집니다♥️💗 푸른 잔디와 그 위를 폴 폴 거니는 제로🐶❣️ 여유로운 피크닉 속 싹트는 제로와 탱구의 사랑까지~🥰 오늘두 펫셔니스타 탱구와 함께 힐링하구 가세요🎄💝\n\n▶ https://t.co/rUxjTDIPMS\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Fri Dec 20 05:14:30 +0000 2019",
+		"id": 1206771012022362000,
+		"id_str": "1207892007516901377",
+		"full_text": "[V ORIGINAL] 눈 뜨자마자 비몽사몽 제로부터 챙기는 울 제로 바라기 탱구🐶❣️ 모든 준비를 끝내고 드디어 LA 산책길에 나섰다구요💖 날씨마저 두팔벌려 반기는 제로와 탱구의 첫 LA 피크닉을 지금 바로 함께해요🥳💝\n\n▶ https://t.co/z42bAYHKzM\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z42bAYHKzM",
+					"expanded_url": "https://www.vlive.tv/video/165749/playlist/157709",
+					"display_url": "vlive.tv/video/165749/p…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3401902,
+			"friends_count": 169,
+			"listed_count": 1894,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 303,
+		"favorite_count": 1399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 눈 뜨자마자 비몽사몽 제로부터 챙기는 울 제로 바라기 탱구🐶❣️ 모든 준비를 끝내고 드디어 LA 산책길에 나섰다구요💖 날씨마저 두팔벌려 반기는 제로와 탱구의 첫 LA 피크닉을 지금 바로 함께해요🥳💝\n\n▶ https://t.co/z42bAYHKzM\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Fri Dec 20 05:14:27 +0000 2019",
+		"id": 1204967562166988800,
+		"id_str": "1207891992266473472",
+		"full_text": "[V ORIGINAL] 경축🥳 우리의 제로‼️ 견생 최초로 무사히 LA에 발을 내딛다🐶❣️ 도착하는 그 순간에도 여전히 제로 생각뿐인 펫셔니스타 울 탱구와 제리둥절 제로🥳 두 소울메이트의 LA 여행 첫날을 함께해요💖💗\n\n▶ https://t.co/sIgsdob2mY\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sIgsdob2mY",
+					"expanded_url": "https://www.vlive.tv/video/164633/playlist/157709",
+					"display_url": "vlive.tv/video/164633/p…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3401902,
+			"friends_count": 169,
+			"listed_count": 1894,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 404,
+		"favorite_count": 1721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 경축🥳 우리의 제로‼️ 견생 최초로 무사히 LA에 발을 내딛다🐶❣️ 도착하는 그 순간에도 여전히 제로 생각뿐인 펫셔니스타 울 탱구와 제리둥절 제로🥳 두 소울메이트의 LA 여행 첫날을 함께해요💖💗\n\n▶ https://t.co/sIgsdob2mY\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
 		"created_at": "Fri Dec 20 03:44:39 +0000 2019",
 		"id": 1207858488803676200,
 		"id_str": "1207869395806171136",
