@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 20:58:40 +0000 2019",
+		"id": 1207616611818983400,
+		"id_str": "1208129612942675968",
+		"full_text": "12월 31일 (화)\n\n이승철 - 대구 엑스코 1층 20:00\n정준일, 훈스, SURL (설), 오왠, 그_냥, 안예은 - 노들섬 라이브하우스 19:00\n서울전자음악단, 트레봉봉 - 스트레인지 프룻 21:00\n김오키새턴발라드, 백현진, 까데호, 구남과여라이딩스텔라, 타이거디스코, Halla, 250 - 모래내 쌍쌍메들리 20:00",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1201070572748198000,
+		"in_reply_to_status_id_str": "1201070572748197889",
+		"in_reply_to_user_id": 1178987595788779500,
+		"in_reply_to_user_id_str": "1178987595788779520",
+		"in_reply_to_screen_name": "showdee_rocks",
+		"user": {
+			"id": 1178987595788779500,
+			"id_str": "1178987595788779520",
+			"name": "인디 공연 정보",
+			"screen_name": "showdee_rocks",
+			"location": "",
+			"description": "12/17 19일, 20일, 23일, 24일, 26일, 28일, 30일 \n12/19 21일, 31일 업데이트 / \n\n전체 일정은 메인트윗이나 하단 링크를 참조할 것",
+			"url": "https://t.co/4IA7lHU1u5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4IA7lHU1u5",
+							"expanded_url": "https://indiepost.wixsite.com/postsindie",
+							"display_url": "indiepost.wixsite.com/postsindie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Tue Oct 01 10:58:48 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179008289092145152/rYIGmNO9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179008289092145152/rYIGmNO9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1178987595788779520/1570086626",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "12월 31일 (화)\n\n이승철 - 대구 엑스코 1층 20:00\n정준일, 훈스, SURL (설), 오왠, 그_냥, 안예은 - 노들섬 라이브하우스 19:00\n서울전자음악단, 트레봉봉 - 스트레인지 프룻 21:00\n김오키새턴발라드, 백현진, 까데호, 구남과여라이딩스텔라, 타이거디스코, Halla, 250 - 모래내 쌍쌍메들리 20:00"
+	},
+	{
 		"created_at": "Fri Dec 20 16:33:12 +0000 2019",
 		"id": 1207816281124040700,
 		"id_str": "1208062807893131264",
