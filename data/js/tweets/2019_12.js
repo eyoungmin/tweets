@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 06:24:02 +0000 2019",
+		"id": 1208271893586944000,
+		"id_str": "1208271893586944002",
+		"full_text": "엘포인트 - 빅플레저 스테이지 \n빅플레저 스테이지 종료 안내   : 빅플레저 스테이지 프로그램은 종료되었습니다. \nhttps://t.co/beHwaiHm3D\n\n#롯데카드 #엘포인트 #Lpoint #문화프로그램 #문화예술",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롯데카드",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "엘포인트",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "Lpoint",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "문화프로그램",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "문화예술",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/beHwaiHm3D",
+					"expanded_url": "https://www.lpoint.com/app/event/LHEA100300.do?evnId=EVN502457",
+					"display_url": "lpoint.com/app/event/LHEA…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @solplparty",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 868,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엘포인트 - 빅플레저 스테이지 \n빅플레저 스테이지 종료 안내   : 빅플레저 스테이지 프로그램은 종료되었습니다. \nhttps://t.co/beHwaiHm3D\n\n#롯데카드 #엘포인트 #Lpoint #문화프로그램 #문화예술"
+	},
+	{
 		"created_at": "Sat Dec 21 05:50:57 +0000 2019",
 		"id": 1207634822757093400,
 		"id_str": "1208263567612399616",
