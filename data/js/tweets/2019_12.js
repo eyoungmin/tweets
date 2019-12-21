@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 05:50:57 +0000 2019",
+		"id": 1207634822757093400,
+		"id_str": "1208263567612399616",
+		"full_text": "레즈비언 된다자너\n\n차라리 레즈가 되겠다 하고도 남지 뭘 그래 \n\n아 괜차너 난 그런 편견은 읎어 https://t.co/JPWukrGPNz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207634742876627000,
+					"id_str": "1207634742876626946",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207634742876626946/pu/img/vE_aNEBhPccMm9LU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207634742876626946/pu/img/vE_aNEBhPccMm9LU.jpg",
+					"url": "https://t.co/JPWukrGPNz",
+					"display_url": "pic.twitter.com/JPWukrGPNz",
+					"expanded_url": "https://twitter.com/boxarchiving/status/1207634822757093376/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1114,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207634742876627000,
+					"id_str": "1207634742876626946",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207634742876626946/pu/img/vE_aNEBhPccMm9LU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207634742876626946/pu/img/vE_aNEBhPccMm9LU.jpg",
+					"url": "https://t.co/JPWukrGPNz",
+					"display_url": "pic.twitter.com/JPWukrGPNz",
+					"expanded_url": "https://twitter.com/boxarchiving/status/1207634822757093376/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1114,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							557,
+							360
+						],
+						"duration_millis": 20297,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207634742876626946/pu/vid/1114x720/qUInFCMXEyqi7rH9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1207634742876626946/pu/pl/gqNzHqsg7j5wLLGB.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207634742876626946/pu/vid/556x360/q_VAWyaPEZXYzTwq.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207634742876626946/pu/vid/416x270/TqJZ_WTeihybftYA.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1158623592172544000,
+			"id_str": "1158623592172544000",
+			"name": "박수오피스",
+			"screen_name": "boxarchiving",
+			"location": "",
+			"description": "📁",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7927,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Tue Aug 06 06:19:25 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180139427588272133/SCqTlIMF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180139427588272133/SCqTlIMF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1158623592172544000/1570202139",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2398,
+		"favorite_count": 1522,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레즈비언 된다자너\n\n차라리 레즈가 되겠다 하고도 남지 뭘 그래 \n\n아 괜차너 난 그런 편견은 읎어 https://t.co/JPWukrGPNz"
+	},
+	{
+		"created_at": "Sat Dec 21 05:47:11 +0000 2019",
+		"id": 1208038208707031000,
+		"id_str": "1208262621234753536",
+		"full_text": "2005년에 성별반전극을 만들고 공중파 방송에서 가모장제 사회를 외치신 쟈람님\nhttps://t.co/uWl3DaiPiA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174650481664086000,
+					"id_str": "1174650481664086016",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174650481664086016/pu/img/5ND7yR_t3lOsvEgb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174650481664086016/pu/img/5ND7yR_t3lOsvEgb.jpg",
+					"url": "https://t.co/uWl3DaiPiA",
+					"display_url": "pic.twitter.com/uWl3DaiPiA",
+					"expanded_url": "https://twitter.com/3drips/status/1174650619329576960/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1174650619329577000,
+					"source_status_id_str": "1174650619329576960",
+					"source_user_id": 21572703,
+					"source_user_id_str": "21572703",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174650481664086000,
+					"id_str": "1174650481664086016",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174650481664086016/pu/img/5ND7yR_t3lOsvEgb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174650481664086016/pu/img/5ND7yR_t3lOsvEgb.jpg",
+					"url": "https://t.co/uWl3DaiPiA",
+					"display_url": "pic.twitter.com/uWl3DaiPiA",
+					"expanded_url": "https://twitter.com/3drips/status/1174650619329576960/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1174650619329577000,
+					"source_status_id_str": "1174650619329576960",
+					"source_user_id": 21572703,
+					"source_user_id_str": "21572703",
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"duration_millis": 140006,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174650481664086016/pu/vid/404x270/KlI32nWuG6c9YpCJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174650481664086016/pu/vid/540x360/4yjVekAvffH1Ug7U.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174650481664086016/pu/vid/720x480/0pLpiM9DAKEJwmhC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1174650481664086016/pu/pl/nJh1Jp6ITXku4zns.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 21572703,
+							"id_str": "21572703",
+							"name": "임금처럼 먹는 자",
+							"screen_name": "3drips",
+							"location": "링크는 자람님 공연 일정",
+							"description": "프본",
+							"url": "https://t.co/MGrNHATwJy",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/MGrNHATwJy",
+											"expanded_url": "http://j.mp/jaramlee",
+											"display_url": "j.mp/jaramlee",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 574,
+							"friends_count": 356,
+							"listed_count": 8,
+							"created_at": "Sun Feb 22 15:43:38 +0000 2009",
+							"favourites_count": 1457,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 21272,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/999697181484331008/lBRgBtIV_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/999697181484331008/lBRgBtIV_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/21572703/1556785724",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21572703,
+			"id_str": "21572703",
+			"name": "임금처럼 먹는 자",
+			"screen_name": "3drips",
+			"location": "링크는 자람님 공연 일정",
+			"description": "프본",
+			"url": "https://t.co/MGrNHATwJy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MGrNHATwJy",
+							"expanded_url": "http://j.mp/jaramlee",
+							"display_url": "j.mp/jaramlee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 356,
+			"listed_count": 8,
+			"created_at": "Sun Feb 22 15:43:38 +0000 2009",
+			"favourites_count": 1457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999697181484331008/lBRgBtIV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999697181484331008/lBRgBtIV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21572703/1556785724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2533,
+		"favorite_count": 1425,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2005년에 성별반전극을 만들고 공중파 방송에서 가모장제 사회를 외치신 쟈람님\nhttps://t.co/uWl3DaiPiA"
+	},
+	{
 		"created_at": "Sat Dec 21 03:44:36 +0000 2019",
 		"id": 1208220948488282000,
 		"id_str": "1208231768408698880",
