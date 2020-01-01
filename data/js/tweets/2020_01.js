@@ -1,6 +1,1393 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 01 16:07:40 +0000 2020",
+		"id": 1212372907399118800,
+		"id_str": "1212405034043920386",
+		"full_text": "Is this not what 2020 vision means? From #ToyStory 4 and Aladdin to #LizzieMcGuire and WandaVision, here’s a look into our future at the blockbusters and Originals coming to #DisneyPlus this year. https://t.co/QHGMHat89n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ToyStory",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"text": "LizzieMcGuire",
+					"indices": [
+						68,
+						82
+					]
+				},
+				{
+					"text": "DisneyPlus",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212139496138932200,
+					"id_str": "1212139496138932224",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ENKYW2qU8AArej6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENKYW2qU8AArej6.jpg",
+					"url": "https://t.co/QHGMHat89n",
+					"display_url": "pic.twitter.com/QHGMHat89n",
+					"expanded_url": "https://twitter.com/disneyplus/status/1212372907399118848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212139496138932200,
+					"id_str": "1212139496138932224",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ENKYW2qU8AArej6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENKYW2qU8AArej6.jpg",
+					"url": "https://t.co/QHGMHat89n",
+					"display_url": "pic.twitter.com/QHGMHat89n",
+					"expanded_url": "https://twitter.com/disneyplus/status/1212372907399118848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60999,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1212139496138932224/vid/720x720/ZJQrZvKuhvhFFHy5.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1212139496138932224/pl/9YRaKLXSMwsoIAWm.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1212139496138932224/vid/320x320/Ild0yBgEcLEULR-t.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1212139496138932224/vid/480x480/zwLhpQr02YneM2TT.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "What’s Coming to Disney+ in 2020",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985916593065476100,
+			"id_str": "985916593065476096",
+			"name": "Disney+",
+			"screen_name": "disneyplus",
+			"location": "",
+			"description": "@Disney + @Pixar + @Marvel + @StarWars + @NatGeo = 🤯 Start Streaming #DisneyPlus Now.",
+			"url": "https://t.co/V4haG0mCB5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V4haG0mCB5",
+							"expanded_url": "http://di.sn/6005EfmR7",
+							"display_url": "di.sn/6005EfmR7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 916718,
+			"friends_count": 107,
+			"listed_count": 1373,
+			"created_at": "Mon Apr 16 16:23:28 +0000 2018",
+			"favourites_count": 388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163500173856661504/L7FiCkjY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163500173856661504/L7FiCkjY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985916593065476096/1574115926",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1821,
+		"favorite_count": 6820,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is this not what 2020 vision means? From #ToyStory 4 and Aladdin to #LizzieMcGuire and WandaVision, here’s a look into our future at the blockbusters and Originals coming to #DisneyPlus this year. https://t.co/QHGMHat89n"
+	},
+	{
+		"created_at": "Wed Jan 01 16:05:31 +0000 2020",
+		"id": 1212367306824667100,
+		"id_str": "1212404495843332096",
+		"full_text": "여행 효자템1.\n번거롭게 가방 열고 찾지 않아도 물 마시기 편리. 작은 가방만 들 경우엔 공간 세이브 되어 대만족. 간단하게 이 가방에서 저 가방으로 옮겨 달 수도. \n뭘 이런 것까지 사냐던 동생이 방콕 다녀와서 바로 대만 가면서 빌려감. https://t.co/Q7qXiQ9fSq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212367203934208000,
+					"id_str": "1212367203934208010",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxjG_VAAooDuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxjG_VAAooDuQ.jpg",
+					"url": "https://t.co/Q7qXiQ9fSq",
+					"display_url": "pic.twitter.com/Q7qXiQ9fSq",
+					"expanded_url": "https://twitter.com/lue9333/status/1212367306824667136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212367203934208000,
+					"id_str": "1212367203934208010",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxjG_VAAooDuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxjG_VAAooDuQ.jpg",
+					"url": "https://t.co/Q7qXiQ9fSq",
+					"display_url": "pic.twitter.com/Q7qXiQ9fSq",
+					"expanded_url": "https://twitter.com/lue9333/status/1212367306824667136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212367242106556400,
+					"id_str": "1212367242106556418",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxlVMU0AI3UoB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxlVMU0AI3UoB.jpg",
+					"url": "https://t.co/Q7qXiQ9fSq",
+					"display_url": "pic.twitter.com/Q7qXiQ9fSq",
+					"expanded_url": "https://twitter.com/lue9333/status/1212367306824667136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 317,
+									"y": 544,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 956,
+									"y": 1640,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 560,
+									"y": 960,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 956,
+									"y": 1640,
+									"h": 78,
+									"w": 78
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212367266274111500,
+					"id_str": "1212367266274111489",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxmvOUcAEmf4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxmvOUcAEmf4Y.jpg",
+					"url": "https://t.co/Q7qXiQ9fSq",
+					"display_url": "pic.twitter.com/Q7qXiQ9fSq",
+					"expanded_url": "https://twitter.com/lue9333/status/1212367306824667136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212367289506394000,
+					"id_str": "1212367289506394112",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxoFxU8AAPcPp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxoFxU8AAPcPp.jpg",
+					"url": "https://t.co/Q7qXiQ9fSq",
+					"display_url": "pic.twitter.com/Q7qXiQ9fSq",
+					"expanded_url": "https://twitter.com/lue9333/status/1212367306824667136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51981566,
+			"id_str": "51981566",
+			"name": "be Mellow",
+			"screen_name": "lue9333",
+			"location": "Seoul",
+			"description": "When they go low, we go high #GirlsCanDoAnything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377,
+			"friends_count": 190,
+			"listed_count": 4,
+			"created_at": "Mon Jun 29 06:24:50 +0000 2009",
+			"favourites_count": 18119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127951645415956480/ShvTu-H6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127951645415956480/ShvTu-H6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51981566/1557759685",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여행 효자템1.\n번거롭게 가방 열고 찾지 않아도 물 마시기 편리. 작은 가방만 들 경우엔 공간 세이브 되어 대만족. 간단하게 이 가방에서 저 가방으로 옮겨 달 수도. \n뭘 이런 것까지 사냐던 동생이 방콕 다녀와서 바로 대만 가면서 빌려감. https://t.co/Q7qXiQ9fSq"
+	},
+	{
+		"created_at": "Wed Jan 01 16:04:09 +0000 2020",
+		"id": 1212293995344408600,
+		"id_str": "1212404149058277377",
+		"full_text": "تلفزيون الصين المركزي: عرض مدهش للألعاب النارية من برج خليفة في #دبي مع بداية العام الجديد في دولة #الإمارات. #رأس_السنة_في_دبي \n\nمصدر الفيديو: وكالة الأنباء الفرنسية https://t.co/aA8yKLVjuQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "دبي",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "الإمارات",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "رأس_السنة_في_دبي",
+					"indices": [
+						110,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212291129867210800,
+					"id_str": "1212291129867210753",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212291129867210753/pu/img/5bd43xOY5dWZbFac.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212291129867210753/pu/img/5bd43xOY5dWZbFac.jpg",
+					"url": "https://t.co/aA8yKLVjuQ",
+					"display_url": "pic.twitter.com/aA8yKLVjuQ",
+					"expanded_url": "https://twitter.com/DXBMediaOffice/status/1212291250197581824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1212291250197581800,
+					"source_status_id_str": "1212291250197581824",
+					"source_user_id": 37599685,
+					"source_user_id_str": "37599685",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212291129867210800,
+					"id_str": "1212291129867210753",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212291129867210753/pu/img/5bd43xOY5dWZbFac.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212291129867210753/pu/img/5bd43xOY5dWZbFac.jpg",
+					"url": "https://t.co/aA8yKLVjuQ",
+					"display_url": "pic.twitter.com/aA8yKLVjuQ",
+					"expanded_url": "https://twitter.com/DXBMediaOffice/status/1212291250197581824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1212291250197581800,
+					"source_status_id_str": "1212291250197581824",
+					"source_user_id": 37599685,
+					"source_user_id_str": "37599685",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58320,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212291129867210753/pu/vid/480x270/UdbBPPRjhTIjf9Es.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212291129867210753/pu/vid/640x360/D78cX5MC7jZCEhSs.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1212291129867210753/pu/pl/ieZ9V78-T5q3DrQB.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 37599685,
+							"id_str": "37599685",
+							"name": "Dubai Media Office",
+							"screen_name": "DXBMediaOffice",
+							"location": "Dubai, United Arab Emirates",
+							"description": "The Official Twitter Feed of The Government of Dubai Media Office الحساب الرسمي للمكتب الإعلامي لحكومة دبي",
+							"url": "https://t.co/BTRpTiJjHd",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/BTRpTiJjHd",
+											"expanded_url": "http://mediaoffice.ae/",
+											"display_url": "mediaoffice.ae",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2045141,
+							"friends_count": 166,
+							"listed_count": 1652,
+							"created_at": "Mon May 04 05:05:55 +0000 2009",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 117322,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1070602133878255616/IZwAmtYI_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070602133878255616/IZwAmtYI_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/37599685/1544953766",
+							"profile_link_color": "0932AD",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DBD7DB",
+							"profile_text_color": "6B686B",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26557424,
+			"id_str": "26557424",
+			"name": "Dubai | دبي",
+			"screen_name": "DubaiTrends",
+			"location": "Dubai, United Arab Emirates",
+			"description": "What's trending #Dubai #MyDubai #KeysOfDubai",
+			"url": "https://t.co/ClIkQZ6ulG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ClIkQZ6ulG",
+							"expanded_url": "http://instagram.com/keysofdubai",
+							"display_url": "instagram.com/keysofdubai",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13353,
+			"friends_count": 1218,
+			"listed_count": 113,
+			"created_at": "Wed Mar 25 18:30:56 +0000 2009",
+			"favourites_count": 327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/619552892010106880/_Bpgs-1G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/619552892010106880/_Bpgs-1G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26557424/1488529463",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ar",
+		"text": "تلفزيون الصين المركزي: عرض مدهش للألعاب النارية من برج خليفة في #دبي مع بداية العام الجديد في دولة #الإمارات. #رأس_السنة_في_دبي \n\nمصدر الفيديو: وكالة الأنباء الفرنسية https://t.co/aA8yKLVjuQ"
+	},
+	{
+		"created_at": "Wed Jan 01 16:03:51 +0000 2020",
+		"id": 1212345417884504000,
+		"id_str": "1212404074496155656",
+		"full_text": "유명 대학 무료 온라인 철학 강의 모음. 쟁쟁한 대가들 음성/동영상 파일도 많다. 철학 고전 무료 e북 (영문) 120권 서비스 링크도 제공. https://t.co/9KcHXYZ7fu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9KcHXYZ7fu",
+					"expanded_url": "http://www.openculture.com/philosophy_free_courses",
+					"display_url": "openculture.com/philosophy_fre…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103021,
+			"friends_count": 2437,
+			"listed_count": 397,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유명 대학 무료 온라인 철학 강의 모음. 쟁쟁한 대가들 음성/동영상 파일도 많다. 철학 고전 무료 e북 (영문) 120권 서비스 링크도 제공. https://t.co/9KcHXYZ7fu"
+	},
+	{
+		"created_at": "Wed Jan 01 16:03:44 +0000 2020",
+		"id": 1212238718137856000,
+		"id_str": "1212404046541144064",
+		"full_text": "지난해부터 SNS사용을 크게 줄여왔던 이유를 배우 조셉 고든 레빗이 너무 잘 설명해준 TED 영상입니다: \"관심을 갈망하는것이 어떻게 당신을 창의적이지 않게 만드는가 (그리고 불행하게)\" https://t.co/n77NaXHSRQ @TEDTalks 님이 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TEDTalks",
+					"name": "TED Talks",
+					"id": 15492359,
+					"id_str": "15492359",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n77NaXHSRQ",
+					"expanded_url": "https://www.ted.com/talks/joseph_gordon_levitt_how_craving_attention_makes_you_less_creative?utm_source=twitter.com&utm_medium=social&utm_campaign=tedspread",
+					"display_url": "ted.com/talks/joseph_g…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3666701412,
+			"id_str": "3666701412",
+			"name": "이하윤 (Mot)",
+			"screen_name": "sidhlee",
+			"location": "대한민국 서울",
+			"description": "잘 모를땐 웃어요",
+			"url": "https://t.co/XbQ2cPCdbl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XbQ2cPCdbl",
+							"expanded_url": "http://instagram.com/sidhlee",
+							"display_url": "instagram.com/sidhlee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1225,
+			"friends_count": 22,
+			"listed_count": 6,
+			"created_at": "Thu Sep 24 04:53:57 +0000 2015",
+			"favourites_count": 586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993094384311713793/VJwcJlpK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993094384311713793/VJwcJlpK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3666701412/1455903791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 928,
+		"favorite_count": 1228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난해부터 SNS사용을 크게 줄여왔던 이유를 배우 조셉 고든 레빗이 너무 잘 설명해준 TED 영상입니다: \"관심을 갈망하는것이 어떻게 당신을 창의적이지 않게 만드는가 (그리고 불행하게)\" https://t.co/n77NaXHSRQ @TEDTalks 님이 공유"
+	},
+	{
+		"created_at": "Wed Jan 01 16:03:26 +0000 2020",
+		"id": 1212196277129117700,
+		"id_str": "1212403968770363398",
+		"full_text": "새해기원♡ https://t.co/rFiVeVIlK3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212196265804435500,
+					"id_str": "1212196265804435456",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/ENKWFM1UEAAQbOq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENKWFM1UEAAQbOq.jpg",
+					"url": "https://t.co/rFiVeVIlK3",
+					"display_url": "pic.twitter.com/rFiVeVIlK3",
+					"expanded_url": "https://twitter.com/alreadytaken0_0/status/1212196277129117696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 825,
+									"y": 520,
+									"h": 300,
+									"w": 300
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 294,
+									"h": 170,
+									"w": 170
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1408,
+									"y": 888,
+									"h": 512,
+									"w": 512
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1408,
+									"y": 888,
+									"h": 512,
+									"w": 512
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212196265804435500,
+					"id_str": "1212196265804435456",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/ENKWFM1UEAAQbOq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENKWFM1UEAAQbOq.jpg",
+					"url": "https://t.co/rFiVeVIlK3",
+					"display_url": "pic.twitter.com/rFiVeVIlK3",
+					"expanded_url": "https://twitter.com/alreadytaken0_0/status/1212196277129117696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 825,
+									"y": 520,
+									"h": 300,
+									"w": 300
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 294,
+									"h": 170,
+									"w": 170
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1408,
+									"y": 888,
+									"h": 512,
+									"w": 512
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1408,
+									"y": 888,
+									"h": 512,
+									"w": 512
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110121306,
+			"id_str": "110121306",
+			"name": "서밤",
+			"screen_name": "alreadytaken0_0",
+			"location": "",
+			"description": "'우리의 사랑은 언제 불행해질까’ 작가. 틈틈이 그림일기 그립니다, 팟캐스트 '서늘한 마음썰'. 인스타 @seobam_breeze 반말멘션과 알계는 자동차단중",
+			"url": "https://t.co/IRePmo51Dq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IRePmo51Dq",
+							"expanded_url": "https://bit.ly/38qZ0xd",
+							"display_url": "bit.ly/38qZ0xd",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30942,
+			"friends_count": 1472,
+			"listed_count": 114,
+			"created_at": "Sun Jan 31 12:11:21 +0000 2010",
+			"favourites_count": 29876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110121306/1489064492",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 477,
+		"favorite_count": 694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새해기원♡ https://t.co/rFiVeVIlK3"
+	},
+	{
 		"created_at": "Wed Jan 01 15:59:48 +0000 2020",
 		"id": 1212403056765128700,
 		"id_str": "1212403056765128704",
