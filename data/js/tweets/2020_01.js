@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 03:40:01 +0000 2020",
+		"id": 1212571052351426600,
+		"id_str": "1212579272319094784",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.3 볼빨간사춘기 'Two Five' After Party&gt;\n\n· 일시 : 2020년 1월 11일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 볼빨간사춘기 (오프닝 게스트 : 최유리, 락킷걸)\n· 예매 : 멜론티켓 2020년 1월 3일 (금) 오후 8시 예매오픈\n\nDesign by @studio.himp\n#볼빨간사춘기 #롤링홀 https://t.co/vZ6qS8LITV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						199,
+						206
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						207,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						186,
+						193
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212571044038316000,
+					"id_str": "1212571044038316033",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ENPq8KjUEAER7wo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENPq8KjUEAER7wo.jpg",
+					"url": "https://t.co/vZ6qS8LITV",
+					"display_url": "pic.twitter.com/vZ6qS8LITV",
+					"expanded_url": "https://twitter.com/rollinghall/status/1212571052351426560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1106,
+									"y": 676,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 708,
+									"y": 410,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1106,
+									"y": 676,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 708,
+									"y": 410,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 648,
+									"y": 396,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 414,
+									"y": 240,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 224,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 235,
+									"y": 136,
+									"h": 61,
+									"w": 61
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212571044038316000,
+					"id_str": "1212571044038316033",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ENPq8KjUEAER7wo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENPq8KjUEAER7wo.jpg",
+					"url": "https://t.co/vZ6qS8LITV",
+					"display_url": "pic.twitter.com/vZ6qS8LITV",
+					"expanded_url": "https://twitter.com/rollinghall/status/1212571052351426560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1106,
+									"y": 676,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 708,
+									"y": 410,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1106,
+									"y": 676,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 708,
+									"y": 410,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 648,
+									"y": 396,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 414,
+									"y": 240,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 224,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 235,
+									"y": 136,
+									"h": 61,
+									"w": 61
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3271,
+			"friends_count": 789,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.3 볼빨간사춘기 'Two Five' After Party&gt;\n\n· 일시 : 2020년 1월 11일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 볼빨간사춘기 (오프닝 게스트 : 최유리, 락킷걸)\n· 예매 : 멜론티켓 2020년 1월 3일 (금) 오후 8시 예매오픈\n\nDesign by @studio.himp\n#볼빨간사춘기 #롤링홀 https://t.co/vZ6qS8LITV"
+	},
+	{
+		"created_at": "Thu Jan 02 03:39:55 +0000 2020",
+		"id": 1212569423527047200,
+		"id_str": "1212579245395865600",
+		"full_text": "[이달의소녀탐구 #548]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/OO2dxoFIIZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212569181909999600,
+					"id_str": "1212569181909999621",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212569181909999621/pu/img/yccl-_KF_aEF73kw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212569181909999621/pu/img/yccl-_KF_aEF73kw.jpg",
+					"url": "https://t.co/OO2dxoFIIZ",
+					"display_url": "pic.twitter.com/OO2dxoFIIZ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1212569423527047168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212569181909999600,
+					"id_str": "1212569181909999621",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212569181909999621/pu/img/yccl-_KF_aEF73kw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212569181909999621/pu/img/yccl-_KF_aEF73kw.jpg",
+					"url": "https://t.co/OO2dxoFIIZ",
+					"display_url": "pic.twitter.com/OO2dxoFIIZ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1212569423527047168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59993,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212569181909999621/pu/vid/480x270/V2iifq4BTRFERVnW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1212569181909999621/pu/pl/GM1mmJ44aeMqu9Le.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212569181909999621/pu/vid/1280x720/fBdb7mjAmxQREoUK.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212569181909999621/pu/vid/640x360/uENayDqShGmwvGJS.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 379441,
+			"friends_count": 0,
+			"listed_count": 5543,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3578,
+		"favorite_count": 9281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #548]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/OO2dxoFIIZ"
+	},
+	{
+		"created_at": "Thu Jan 02 03:39:45 +0000 2020",
+		"id": 1212569206073348000,
+		"id_str": "1212579202576404486",
+		"full_text": "[V ORIGINAL] 제로와 함께하는 LA 힙스트리트에서의 쇼핑🔥✌️ 쇼핑하다가 그냥 막 찍혀두 화보 되는거 그게 바로 울 제로&amp;탱구 남매잖아요🥰 모든 순간이 화보 같았던 LA 햇살 아래 펫셔니스타 탱구를 지금 바로 만나보세요~💖\n\n▶ https://t.co/bwYVCvtrS5\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						186,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bwYVCvtrS5",
+					"expanded_url": "https://www.vlive.tv/video/167857/playlist/157709",
+					"display_url": "vlive.tv/video/167857/p…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3442972,
+			"friends_count": 169,
+			"listed_count": 1913,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 726,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 제로와 함께하는 LA 힙스트리트에서의 쇼핑🔥✌️ 쇼핑하다가 그냥 막 찍혀두 화보 되는거 그게 바로 울 제로&amp;탱구 남매잖아요🥰 모든 순간이 화보 같았던 LA 햇살 아래 펫셔니스타 탱구를 지금 바로 만나보세요~💖\n\n▶ https://t.co/bwYVCvtrS5\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
 		"created_at": "Thu Jan 02 03:01:05 +0000 2020",
 		"id": 1212569473460387800,
 		"id_str": "1212569473460387840",
