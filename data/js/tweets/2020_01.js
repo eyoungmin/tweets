@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 01:40:38 +0000 2020",
+		"id": 1212538125097955300,
+		"id_str": "1212549225202012161",
+		"full_text": "레드벨벳이 새 앨범 ‘‘The ReVe Festival’ Finale’와 타이틀 곡 'Psycho'로 각각 가온 앨범 차트와 다운로드 차트 1위를 기록, 가온 차트 2관왕에 오르며 막강한 음반 및 음원 파워를 재확인 시켜주었습니다!👑\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho https://t.co/4D6dMGSkwD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						154,
+						176
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						185,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212538114524102700,
+					"id_str": "1212538114524102656",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/ENPM_ajUwAAQngL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENPM_ajUwAAQngL.jpg",
+					"url": "https://t.co/4D6dMGSkwD",
+					"display_url": "pic.twitter.com/4D6dMGSkwD",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1212538125097955328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 614,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 204,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 240,
+									"y": 664,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 152,
+									"y": 412,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 196,
+									"y": 1308,
+									"h": 222,
+									"w": 222
+								},
+								{
+									"x": 168,
+									"y": 874,
+									"h": 290,
+									"w": 290
+								},
+								{
+									"x": 208,
+									"y": 1650,
+									"h": 354,
+									"w": 354
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 240,
+									"y": 664,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 152,
+									"y": 412,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 196,
+									"y": 1308,
+									"h": 222,
+									"w": 222
+								},
+								{
+									"x": 168,
+									"y": 874,
+									"h": 290,
+									"w": 290
+								},
+								{
+									"x": 208,
+									"y": 1650,
+									"h": 354,
+									"w": 354
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 79,
+									"y": 220,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 50,
+									"y": 136,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 65,
+									"y": 434,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 55,
+									"y": 290,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 69,
+									"y": 548,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 389,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 89,
+									"y": 241,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 114,
+									"y": 766,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 98,
+									"y": 512,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 121,
+									"y": 967,
+									"h": 207,
+									"w": 207
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212538114524102700,
+					"id_str": "1212538114524102656",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/ENPM_ajUwAAQngL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENPM_ajUwAAQngL.jpg",
+					"url": "https://t.co/4D6dMGSkwD",
+					"display_url": "pic.twitter.com/4D6dMGSkwD",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1212538125097955328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 614,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 204,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 240,
+									"y": 664,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 152,
+									"y": 412,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 196,
+									"y": 1308,
+									"h": 222,
+									"w": 222
+								},
+								{
+									"x": 168,
+									"y": 874,
+									"h": 290,
+									"w": 290
+								},
+								{
+									"x": 208,
+									"y": 1650,
+									"h": 354,
+									"w": 354
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 240,
+									"y": 664,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 152,
+									"y": 412,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 196,
+									"y": 1308,
+									"h": 222,
+									"w": 222
+								},
+								{
+									"x": 168,
+									"y": 874,
+									"h": 290,
+									"w": 290
+								},
+								{
+									"x": 208,
+									"y": 1650,
+									"h": 354,
+									"w": 354
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 79,
+									"y": 220,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 50,
+									"y": 136,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 65,
+									"y": 434,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 55,
+									"y": 290,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 69,
+									"y": 548,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 389,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 89,
+									"y": 241,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 114,
+									"y": 766,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 98,
+									"y": 512,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 121,
+									"y": 967,
+									"h": 207,
+									"w": 207
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2100778,
+			"friends_count": 2,
+			"listed_count": 6316,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5829,
+		"favorite_count": 19466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳이 새 앨범 ‘‘The ReVe Festival’ Finale’와 타이틀 곡 'Psycho'로 각각 가온 앨범 차트와 다운로드 차트 1위를 기록, 가온 차트 2관왕에 오르며 막강한 음반 및 음원 파워를 재확인 시켜주었습니다!👑\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho https://t.co/4D6dMGSkwD"
+	},
+	{
 		"created_at": "Wed Jan 01 16:07:40 +0000 2020",
 		"id": 1212372907399118800,
 		"id_str": "1212405034043920386",
