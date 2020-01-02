@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 03:01:05 +0000 2020",
+		"id": 1212569473460387800,
+		"id_str": "1212569473460387840",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jan 2) https://t.co/z5LqvZwA83",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z5LqvZwA83",
+					"expanded_url": "https://nzzl.us/Q4XuQgt",
+					"display_url": "nzzl.us/Q4XuQgt",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 877,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jan 2) https://t.co/z5LqvZwA83"
+	},
+	{
+		"created_at": "Thu Jan 02 02:34:25 +0000 2020",
+		"id": 1212210991078854700,
+		"id_str": "1212562763647606784",
+		"full_text": "절삭력이 우수하고 튼튼하며 가격도 저렴하며 많은 사람들에게 검증받은 주방용 가위를 찾는다면\n\n'오복가위' 를 추천.\n\n어디서 많이 본거 같은데? 라는 생각이 들텐데\n전국의 수많은 고깃집에서 사용하는 그 가위가 맞습니다. https://t.co/Om3CIEZ8Td",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212210988138651600,
+					"id_str": "1212210988138651649",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ENKjeJzUYAEuHEF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENKjeJzUYAEuHEF.jpg",
+					"url": "https://t.co/Om3CIEZ8Td",
+					"display_url": "pic.twitter.com/Om3CIEZ8Td",
+					"expanded_url": "https://twitter.com/Upgrade_MyLife/status/1212210991078854659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212210988138651600,
+					"id_str": "1212210988138651649",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ENKjeJzUYAEuHEF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENKjeJzUYAEuHEF.jpg",
+					"url": "https://t.co/Om3CIEZ8Td",
+					"display_url": "pic.twitter.com/Om3CIEZ8Td",
+					"expanded_url": "https://twitter.com/Upgrade_MyLife/status/1212210991078854659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1196334711229931500,
+			"id_str": "1196334711229931520",
+			"name": "삶의 질 상승",
+			"screen_name": "Upgrade_MyLife",
+			"location": "대한민국",
+			"description": "삶의 질을 상승시켜준 물건을 소개합니다.\n제보도 받습니다.\n\n삶의 질 다 같이 높여보아요.",
+			"url": "https://t.co/ZdEvCdn7La",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdEvCdn7La",
+							"expanded_url": "https://Instagram.com/upgrade_mylife",
+							"display_url": "Instagram.com/upgrade_mylife",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 0,
+			"listed_count": 7,
+			"created_at": "Mon Nov 18 07:50:08 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196335782023163905/LnNPeWBV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196335782023163905/LnNPeWBV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1196334711229931520/1576276076",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 321,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "절삭력이 우수하고 튼튼하며 가격도 저렴하며 많은 사람들에게 검증받은 주방용 가위를 찾는다면\n\n'오복가위' 를 추천.\n\n어디서 많이 본거 같은데? 라는 생각이 들텐데\n전국의 수많은 고깃집에서 사용하는 그 가위가 맞습니다. https://t.co/Om3CIEZ8Td"
+	},
+	{
 		"created_at": "Thu Jan 02 01:40:38 +0000 2020",
 		"id": 1212538125097955300,
 		"id_str": "1212549225202012161",
