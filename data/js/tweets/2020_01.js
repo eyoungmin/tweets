@@ -1,6 +1,185 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 18:49:32 +0000 2020",
+		"id": 1212678782374445000,
+		"id_str": "1212808158856372225",
+		"full_text": "🌟!t Live(잇라이브) Special🌟\n\nMAGAZINE FILM(매거진 필름) #9\n– Red Velvet 레드벨벳\n‘‘The ReVe Festival’ Finale’\n\n#RedVelvet #Psycho #레드벨벳\n#RVF #TheReVeFestival #Finale\n#itLive #잇라이브 #MagazineFilm\n#매거진필름\n\nhttps://t.co/udZ5ggHzM5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "TheReVeFestival",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"text": "Finale",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "itLive",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "잇라이브",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "MagazineFilm",
+					"indices": [
+						167,
+						180
+					]
+				},
+				{
+					"text": "매거진필름",
+					"indices": [
+						181,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/udZ5ggHzM5",
+					"expanded_url": "https://youtu.be/T-XCSj8_OGM",
+					"display_url": "youtu.be/T-XCSj8_OGM",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 981102400814563300,
+			"id_str": "981102400814563328",
+			"name": "!t Live (잇라이브)",
+			"screen_name": "SMmakesitLive",
+			"location": "",
+			"description": "에스엠 엔터테인먼트가 만드는 실시간 멀티라이브 방송 채널 / Live broadcast by SM Entertainment",
+			"url": "https://t.co/R19mkV84d7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R19mkV84d7",
+							"expanded_url": "http://youtube.com/itlive",
+							"display_url": "youtube.com/itlive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141815,
+			"friends_count": 34,
+			"listed_count": 304,
+			"created_at": "Tue Apr 03 09:33:35 +0000 2018",
+			"favourites_count": 10336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981107047440687105/-v2C4fKZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981107047440687105/-v2C4fKZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/981102400814563328/1522750140",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 992,
+		"favorite_count": 1360,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "🌟!t Live(잇라이브) Special🌟\n\nMAGAZINE FILM(매거진 필름) #9\n– Red Velvet 레드벨벳\n‘‘The ReVe Festival’ Finale’\n\n#RedVelvet #Psycho #레드벨벳\n#RVF #TheReVeFestival #Finale\n#itLive #잇라이브 #MagazineFilm\n#매거진필름\n\nhttps://t.co/udZ5ggHzM5"
+	},
+	{
 		"created_at": "Thu Jan 02 17:27:09 +0000 2020",
 		"id": 1212787424855765000,
 		"id_str": "1212787424855764995",
