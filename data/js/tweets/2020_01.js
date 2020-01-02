@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 16:48:39 +0000 2020",
+		"id": 1212565882053873700,
+		"id_str": "1212777736948727809",
+		"full_text": "아 나이 먹는 게 제일 무서운 점은 나는 어제랑 오늘이 똑같은데 이제 어디 가서 '제가 아직 어려서 뭘 잘 모릅니다' 하면 안 되는 나이로 진입하고 있다는 거임....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3032922379,
+			"id_str": "3032922379",
+			"name": "mouloud",
+			"screen_name": "mouloud_B5",
+			"location": "",
+			"description": "브릿G 「잊힌 신이 내리는 계절」 연재 중.(2018. 9~\n조아라 노블레스 「파인(波人)」 연재 중.(2019. 5~\n아니꼬운 새끼가 존나 많은 까탈스런 인간입니다. 알계 팔로 시 칼블락함.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1088,
+			"friends_count": 427,
+			"listed_count": 13,
+			"created_at": "Fri Feb 20 13:49:24 +0000 2015",
+			"favourites_count": 12483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/827408480415780864/fJm8_VG-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/827408480415780864/fJm8_VG-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3032922379/1456039332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19205,
+		"favorite_count": 6037,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아 나이 먹는 게 제일 무서운 점은 나는 어제랑 오늘이 똑같은데 이제 어디 가서 '제가 아직 어려서 뭘 잘 모릅니다' 하면 안 되는 나이로 진입하고 있다는 거임...."
+	},
+	{
+		"created_at": "Thu Jan 02 16:48:09 +0000 2020",
+		"id": 1212777609479671800,
+		"id_str": "1212777609479671808",
+		"full_text": "인터넷 쇼핑할 때도 프로젝트(Shopping)-태그(shoes)이런 식으로 지정해서 디스코드 채널에 전송시킬 수 있음. \n\n프로젝트, 태그 기능에 다른 곳으로 보내기 쉬운 서비스가 없어서 일단 투두이스트로 정착했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212777608120696800,
+		"in_reply_to_status_id_str": "1212777608120696832",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 877,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인터넷 쇼핑할 때도 프로젝트(Shopping)-태그(shoes)이런 식으로 지정해서 디스코드 채널에 전송시킬 수 있음. \n\n프로젝트, 태그 기능에 다른 곳으로 보내기 쉬운 서비스가 없어서 일단 투두이스트로 정착했다."
+	},
+	{
+		"created_at": "Thu Jan 02 16:48:08 +0000 2020",
+		"id": 1212777608120696800,
+		"id_str": "1212777608120696832",
+		"full_text": "To do 앱은 아직까지 만족스러운게 없다. Todoist가 IFTTT나 다른 Automation 서비스에서 제공해줘서 텔레그램, 디스코드, 슬랙에 전송시킬 수 있어서 쓴다. 개발관련 글 중에서 특정 주제를 프로젝트(DEV)-태그(chatbot) 이런 식으로 전송 할 수 있고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 877,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "To do 앱은 아직까지 만족스러운게 없다. Todoist가 IFTTT나 다른 Automation 서비스에서 제공해줘서 텔레그램, 디스코드, 슬랙에 전송시킬 수 있어서 쓴다. 개발관련 글 중에서 특정 주제를 프로젝트(DEV)-태그(chatbot) 이런 식으로 전송 할 수 있고"
+	},
+	{
+		"created_at": "Thu Jan 02 16:37:24 +0000 2020",
+		"id": 1212676083771826200,
+		"id_str": "1212774907152494592",
+		"full_text": "뽀모도로도 부족했고, 할일관리도 잘안됐는데, 뽀모도로랑 할일을 합쳐두니 너무 맘에 든다. 올해부터 할일관리 이걸로 간다. 너무 맘에 드네. 섭스크립션도 아니고 영구적으로 1.1만원이라 쿨하게 결제. https://t.co/X2XyWC0b6h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X2XyWC0b6h",
+					"expanded_url": "http://www.focustodo.cn/",
+					"display_url": "focustodo.cn",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130859672,
+			"id_str": "130859672",
+			"name": "minieetea👩🏻‍💻",
+			"screen_name": "minieetea",
+			"location": "Seoul, Korea",
+			"description": "서비스 기ㅎ...때려쳐! (/-_-)/~ㅕ #이상한모임 #우아한형제들",
+			"url": "https://t.co/RNdCnaC6c8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RNdCnaC6c8",
+							"expanded_url": "http://minieetea.com",
+							"display_url": "minieetea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2447,
+			"friends_count": 555,
+			"listed_count": 75,
+			"created_at": "Thu Apr 08 15:00:39 +0000 2010",
+			"favourites_count": 3194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010396562449575937/82pNjxjL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010396562449575937/82pNjxjL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130859672/1422349783",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 77,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뽀모도로도 부족했고, 할일관리도 잘안됐는데, 뽀모도로랑 할일을 합쳐두니 너무 맘에 든다. 올해부터 할일관리 이걸로 간다. 너무 맘에 드네. 섭스크립션도 아니고 영구적으로 1.1만원이라 쿨하게 결제. https://t.co/X2XyWC0b6h"
+	},
+	{
+		"created_at": "Thu Jan 02 16:35:55 +0000 2020",
+		"id": 1212774533406449700,
+		"id_str": "1212774533406449664",
+		"full_text": "노트북 백그라운드에서 돌리는 건 적당히 해야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212773437812297700,
+		"in_reply_to_status_id_str": "1212773437812297728",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 877,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "노트북 백그라운드에서 돌리는 건 적당히 해야."
+	},
+	{
 		"created_at": "Thu Jan 02 15:58:35 +0000 2020",
 		"id": 1212765136123023400,
 		"id_str": "1212765136123023360",
