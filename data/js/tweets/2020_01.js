@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 19:04:35 +0000 2020",
+		"id": 1212750427202044000,
+		"id_str": "1212811944719110145",
+		"full_text": "[#윤하]\n윤하(YOUNHA) - '먹구름' M/V Teaser\n\nYOUTUBE\n▶ https://t.co/C0eyuZRPBt\nV LIVE\n▶ https://t.co/19aWVWz1dy\n네이버 TV\n▶ https://t.co/MLxKFwArVK\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름 https://t.co/GaL1kjTuYW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "혜성은_지지않는다",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "윤하_홀릭스",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "UNSTABLEMINDSET",
+					"indices": [
+						167,
+						183
+					]
+				},
+				{
+					"text": "먹구름",
+					"indices": [
+						184,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C0eyuZRPBt",
+					"expanded_url": "https://youtu.be/yQIMcLecuKg",
+					"display_url": "youtu.be/yQIMcLecuKg",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/19aWVWz1dy",
+					"expanded_url": "https://www.vlive.tv/video/168566",
+					"display_url": "vlive.tv/video/168566",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/MLxKFwArVK",
+					"expanded_url": "https://tv.naver.com/v/11721534",
+					"display_url": "tv.naver.com/v/11721534",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212750418716975000,
+					"id_str": "1212750418716975106",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/ENSOFJTU4AIpidt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENSOFJTU4AIpidt.jpg",
+					"url": "https://t.co/GaL1kjTuYW",
+					"display_url": "pic.twitter.com/GaL1kjTuYW",
+					"expanded_url": "https://twitter.com/OfficialC9ent/status/1212750427202043904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212750418716975000,
+					"id_str": "1212750418716975106",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/ENSOFJTU4AIpidt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENSOFJTU4AIpidt.jpg",
+					"url": "https://t.co/GaL1kjTuYW",
+					"display_url": "pic.twitter.com/GaL1kjTuYW",
+					"expanded_url": "https://twitter.com/OfficialC9ent/status/1212750427202043904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606957082,
+			"id_str": "606957082",
+			"name": "C9 Entertainment",
+			"screen_name": "OfficialC9ent",
+			"location": "",
+			"description": "C9 Entertainment Official Twitter",
+			"url": "https://t.co/E7zBZFtH5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7zBZFtH5a",
+							"expanded_url": "http://www.c9ent.co.kr",
+							"display_url": "c9ent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139394,
+			"friends_count": 8,
+			"listed_count": 500,
+			"created_at": "Wed Jun 13 06:37:47 +0000 2012",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606957082/1544780003",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤하]\n윤하(YOUNHA) - '먹구름' M/V Teaser\n\nYOUTUBE\n▶ https://t.co/C0eyuZRPBt\nV LIVE\n▶ https://t.co/19aWVWz1dy\n네이버 TV\n▶ https://t.co/MLxKFwArVK\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름 https://t.co/GaL1kjTuYW"
+	},
+	{
 		"created_at": "Thu Jan 02 18:49:32 +0000 2020",
 		"id": 1212678782374445000,
 		"id_str": "1212808158856372225",
