@@ -1,6 +1,2032 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 12:57:20 +0000 2020",
+		"id": 1212716234975744000,
+		"id_str": "1212719524325126144",
+		"full_text": "CD도 크다더니 'LP' 찾는 젊은이들…'뉴트로 열풍' https://t.co/vIeA5qKKaS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vIeA5qKKaS",
+					"expanded_url": "http://news.jtbc.joins.com/html/398/NB11927398.html",
+					"display_url": "news.jtbc.joins.com/html/398/NB119…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612232,
+			"friends_count": 45903,
+			"listed_count": 2364,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1551367952",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CD도 크다더니 'LP' 찾는 젊은이들…'뉴트로 열풍' https://t.co/vIeA5qKKaS"
+	},
+	{
+		"created_at": "Thu Jan 02 12:56:17 +0000 2020",
+		"id": 1212710460589592600,
+		"id_str": "1212719258993479680",
+		"full_text": "#멜론티켓 #티켓오픈소식\n[오픈] 20.01.09(목) 백예린 단독공연 “Turn on that Blue Vinyl” 티켓 오픈 안내\nhttps://t.co/3bYvb7IMy2 https://t.co/aRQJ7Scq9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bYvb7IMy2",
+					"expanded_url": "http://bit.ly/36gqQLa",
+					"display_url": "bit.ly/36gqQLa",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212710459310301200,
+					"id_str": "1212710459310301184",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/ENRpvM6XYAABMyb.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENRpvM6XYAABMyb.png",
+					"url": "https://t.co/aRQJ7Scq9D",
+					"display_url": "pic.twitter.com/aRQJ7Scq9D",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1212710460589592576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212710459310301200,
+					"id_str": "1212710459310301184",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/ENRpvM6XYAABMyb.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENRpvM6XYAABMyb.png",
+					"url": "https://t.co/aRQJ7Scq9D",
+					"display_url": "pic.twitter.com/aRQJ7Scq9D",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1212710460589592576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2400267686,
+			"id_str": "2400267686",
+			"name": "멜론 티켓 - 티켓오픈소식",
+			"screen_name": "MelonTicketOpen",
+			"location": "",
+			"description": "#멜론티켓 #티켓오픈소식 비공식 봇",
+			"url": "https://t.co/XUApYV815i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XUApYV815i",
+							"expanded_url": "https://ticket.melon.com/csoon/index.htm",
+							"display_url": "ticket.melon.com/csoon/index.htm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Thu Mar 20 18:19:10 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400267686/1575564440",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론티켓 #티켓오픈소식\n[오픈] 20.01.09(목) 백예린 단독공연 “Turn on that Blue Vinyl” 티켓 오픈 안내\nhttps://t.co/3bYvb7IMy2 https://t.co/aRQJ7Scq9D"
+	},
+	{
+		"created_at": "Thu Jan 02 12:56:14 +0000 2020",
+		"id": 1212710426942886000,
+		"id_str": "1212719249287811072",
+		"full_text": "#멜론티켓 #티켓오픈소식\n[오픈] 20.01.03(금) 롤링 25주년 기념 공연 vol．3 볼빨간사춘기：‘Two Five’ After Party 티켓 오픈 안내\nhttps://t.co/qTQlml5L6W https://t.co/y4NLAUaNYU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qTQlml5L6W",
+					"expanded_url": "http://bit.ly/2QE4DA9",
+					"display_url": "bit.ly/2QE4DA9",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212710425705484300,
+					"id_str": "1212710425705484288",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/ENRptPuWkAAA0jE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENRptPuWkAAA0jE.jpg",
+					"url": "https://t.co/y4NLAUaNYU",
+					"display_url": "pic.twitter.com/y4NLAUaNYU",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1212710426942885888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 234,
+									"y": 191,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 112,
+									"y": 109,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 234,
+									"y": 191,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 112,
+									"y": 109,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 234,
+									"y": 191,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 112,
+									"y": 109,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 234,
+									"y": 191,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 112,
+									"y": 109,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212710425705484300,
+					"id_str": "1212710425705484288",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/ENRptPuWkAAA0jE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENRptPuWkAAA0jE.jpg",
+					"url": "https://t.co/y4NLAUaNYU",
+					"display_url": "pic.twitter.com/y4NLAUaNYU",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1212710426942885888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 234,
+									"y": 191,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 112,
+									"y": 109,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 234,
+									"y": 191,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 112,
+									"y": 109,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 234,
+									"y": 191,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 112,
+									"y": 109,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 234,
+									"y": 191,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 112,
+									"y": 109,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2400267686,
+			"id_str": "2400267686",
+			"name": "멜론 티켓 - 티켓오픈소식",
+			"screen_name": "MelonTicketOpen",
+			"location": "",
+			"description": "#멜론티켓 #티켓오픈소식 비공식 봇",
+			"url": "https://t.co/XUApYV815i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XUApYV815i",
+							"expanded_url": "https://ticket.melon.com/csoon/index.htm",
+							"display_url": "ticket.melon.com/csoon/index.htm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Thu Mar 20 18:19:10 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400267686/1575564440",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론티켓 #티켓오픈소식\n[오픈] 20.01.03(금) 롤링 25주년 기념 공연 vol．3 볼빨간사춘기：‘Two Five’ After Party 티켓 오픈 안내\nhttps://t.co/qTQlml5L6W https://t.co/y4NLAUaNYU"
+	},
+	{
+		"created_at": "Thu Jan 02 12:55:01 +0000 2020",
+		"id": 1212718940167606300,
+		"id_str": "1212718940167606272",
+		"full_text": "트위터 뮤트로 안 막아지는 건가. 왜 '팔로우합니다'랑 '마음에 들어 함' 계속 보이지...?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 877,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 뮤트로 안 막아지는 건가. 왜 '팔로우합니다'랑 '마음에 들어 함' 계속 보이지...?"
+	},
+	{
+		"created_at": "Thu Jan 02 12:53:45 +0000 2020",
+		"id": 1206713684073926700,
+		"id_str": "1212718621463441408",
+		"full_text": "암표상들 때문에 @gryffinofficial 내한 예매 계속 실패해서 직접 만든 멜론 티켓 Github Action. \n\n해당하는 공연/시간/좌석등급에 잔여석이 나오면 슬랙으로 알림을 보내준다. 덕분에 취소표 나온거 바로 예매했다. \n\n암표상들 다 망해라 https://t.co/WvGlpLvmel https://t.co/EfTrbiuMJN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gryffinofficial",
+					"name": "GRYFFIN",
+					"id": 1885133492,
+					"id_str": "1885133492",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WvGlpLvmel",
+					"expanded_url": "https://github.com/mooyoul/melon-ticket-actions",
+					"display_url": "github.com/mooyoul/melon-…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206713673873444900,
+					"id_str": "1206713673873444865",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EL8bsWTVUAE6RVc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL8bsWTVUAE6RVc.jpg",
+					"url": "https://t.co/EfTrbiuMJN",
+					"display_url": "pic.twitter.com/EfTrbiuMJN",
+					"expanded_url": "https://twitter.com/mooyoul/status/1206713684073926657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1728,
+							"h": 830,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 20,
+									"y": 29,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 20,
+									"y": 305,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 17,
+									"y": 165,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 30,
+									"y": 42,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 30,
+									"y": 440,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 25,
+									"y": 239,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 30,
+									"y": 42,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 30,
+									"y": 440,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 25,
+									"y": 239,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 16,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 11,
+									"y": 173,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 9,
+									"y": 94,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206713673873444900,
+					"id_str": "1206713673873444865",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EL8bsWTVUAE6RVc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL8bsWTVUAE6RVc.jpg",
+					"url": "https://t.co/EfTrbiuMJN",
+					"display_url": "pic.twitter.com/EfTrbiuMJN",
+					"expanded_url": "https://twitter.com/mooyoul/status/1206713684073926657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1728,
+							"h": 830,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 20,
+									"y": 29,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 20,
+									"y": 305,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 17,
+									"y": 165,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 30,
+									"y": 42,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 30,
+									"y": 440,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 25,
+									"y": 239,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 30,
+									"y": 42,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 30,
+									"y": 440,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 25,
+									"y": 239,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 16,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 11,
+									"y": 173,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 9,
+									"y": 94,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1206713673873444900,
+					"id_str": "1206713673873444864",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EL8bsWTVUAAUou1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL8bsWTVUAAUou1.jpg",
+					"url": "https://t.co/EfTrbiuMJN",
+					"display_url": "pic.twitter.com/EfTrbiuMJN",
+					"expanded_url": "https://twitter.com/mooyoul/status/1206713684073926657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 921,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112098734,
+			"id_str": "112098734",
+			"name": "열무님",
+			"screen_name": "mooyoul",
+			"location": "Seoul, Republic of Korea",
+			"description": "unmaintained account 👻 / Software Engineer @ Vingle, Inc. / https://t.co/HzncOWpSev",
+			"url": "https://t.co/4NklUgR69v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4NklUgR69v",
+							"expanded_url": "http://debug.so",
+							"display_url": "debug.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HzncOWpSev",
+							"expanded_url": "http://github.com/mooyoul",
+							"display_url": "github.com/mooyoul",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 383,
+			"friends_count": 304,
+			"listed_count": 12,
+			"created_at": "Sun Feb 07 08:00:07 +0000 2010",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074317574232367109/IMy1nGLK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074317574232367109/IMy1nGLK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1658,
+		"favorite_count": 1123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "암표상들 때문에 @gryffinofficial 내한 예매 계속 실패해서 직접 만든 멜론 티켓 Github Action. \n\n해당하는 공연/시간/좌석등급에 잔여석이 나오면 슬랙으로 알림을 보내준다. 덕분에 취소표 나온거 바로 예매했다. \n\n암표상들 다 망해라 https://t.co/WvGlpLvmel https://t.co/EfTrbiuMJN"
+	},
+	{
+		"created_at": "Thu Jan 02 12:48:09 +0000 2020",
+		"id": 1212631531761520600,
+		"id_str": "1212717211703369729",
+		"full_text": "남성중심으로 이루어져있기 때문인 것 같다. 아마 말씀 들어보니 노동조합에 가입하신 것 같기는 한데.. 씁쓸하다. 내가 할 수 있는 걸 찾아봐야겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212631317260562400,
+		"in_reply_to_status_id_str": "1212631317260562432",
+		"in_reply_to_user_id": 937032394736930800,
+		"in_reply_to_user_id_str": "937032394736930816",
+		"in_reply_to_screen_name": "_LESOGY",
+		"user": {
+			"id": 937032394736930800,
+			"id_str": "937032394736930816",
+			"name": "정선생님✌🏼",
+			"screen_name": "_LESOGY",
+			"location": "정태춘의 이야기가 있는 곳",
+			"description": "GO VEGAN, NOBODY GET HURT! 경남에서 청소년인권운동을 하고 있고요. 박은옥-정태춘과 그들의 노래를 좋아합니다.",
+			"url": "https://t.co/Spd02Ai4AO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Spd02Ai4AO",
+							"expanded_url": "https://m.blog.naver.com/PostList.nhn?blogId=gyeong669700",
+							"display_url": "m.blog.naver.com/PostList.nhn?b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 1041,
+			"listed_count": 0,
+			"created_at": "Sat Dec 02 18:55:06 +0000 2017",
+			"favourites_count": 4637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201220932565495809/pKPHacZU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201220932565495809/pKPHacZU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937032394736930816/1572700727",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2097,
+		"favorite_count": 581,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "남성중심으로 이루어져있기 때문인 것 같다. 아마 말씀 들어보니 노동조합에 가입하신 것 같기는 한데.. 씁쓸하다. 내가 할 수 있는 걸 찾아봐야겠다."
+	},
+	{
+		"created_at": "Thu Jan 02 12:48:05 +0000 2020",
+		"id": 1212631317260562400,
+		"id_str": "1212717194724855809",
+		"full_text": "이런 일을 겪는 경우가 없으니 대부분 반대를 했고 결국 사비로 구입하셨다고 한다. 막았긴 막았지만 옆자리가 다 뚫려있어서 하나마나라고, 경찰차처럼 다 막아야 한다고 하셨다. 그래도 이정도라도 막혀 있으니 훨씬 안심이 된다고.. 참 씁쓸하고.. 노동조합이 있더라도 노동인권운동의 저변이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212630793874358300,
+		"in_reply_to_status_id_str": "1212630793874358272",
+		"in_reply_to_user_id": 937032394736930800,
+		"in_reply_to_user_id_str": "937032394736930816",
+		"in_reply_to_screen_name": "_LESOGY",
+		"user": {
+			"id": 937032394736930800,
+			"id_str": "937032394736930816",
+			"name": "정선생님✌🏼",
+			"screen_name": "_LESOGY",
+			"location": "정태춘의 이야기가 있는 곳",
+			"description": "GO VEGAN, NOBODY GET HURT! 경남에서 청소년인권운동을 하고 있고요. 박은옥-정태춘과 그들의 노래를 좋아합니다.",
+			"url": "https://t.co/Spd02Ai4AO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Spd02Ai4AO",
+							"expanded_url": "https://m.blog.naver.com/PostList.nhn?blogId=gyeong669700",
+							"display_url": "m.blog.naver.com/PostList.nhn?b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 1041,
+			"listed_count": 0,
+			"created_at": "Sat Dec 02 18:55:06 +0000 2017",
+			"favourites_count": 4637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201220932565495809/pKPHacZU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201220932565495809/pKPHacZU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937032394736930816/1572700727",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3167,
+		"favorite_count": 730,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이런 일을 겪는 경우가 없으니 대부분 반대를 했고 결국 사비로 구입하셨다고 한다. 막았긴 막았지만 옆자리가 다 뚫려있어서 하나마나라고, 경찰차처럼 다 막아야 한다고 하셨다. 그래도 이정도라도 막혀 있으니 훨씬 안심이 된다고.. 참 씁쓸하고.. 노동조합이 있더라도 노동인권운동의 저변이"
+	},
+	{
+		"created_at": "Thu Jan 02 12:48:00 +0000 2020",
+		"id": 1212630793874358300,
+		"id_str": "1212717177398120448",
+		"full_text": "여성 기사님의 택시. 뒷자리 남자 승객들의 폭력 때문에 달았다고 하신다. 막무가내로 목을 조르고 때리고 발길질하는 승객도 허다하다고. 택시회사에서 배포하는 건데, 돈이 들어가니까 택시기사들에게 찬반 투표를 해서 배포 결정을 한다고 한다. 그런데 대부분의 택시기사들이 남성이고, 그들은 https://t.co/AHJJOYccsz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212630783908696000,
+					"id_str": "1212630783908696064",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQhRe6U0AAAeXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQhRe6U0AAAeXv.jpg",
+					"url": "https://t.co/AHJJOYccsz",
+					"display_url": "pic.twitter.com/AHJJOYccsz",
+					"expanded_url": "https://twitter.com/_LESOGY/status/1212630793874358272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212630783908696000,
+					"id_str": "1212630783908696064",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQhRe6U0AAAeXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQhRe6U0AAAeXv.jpg",
+					"url": "https://t.co/AHJJOYccsz",
+					"display_url": "pic.twitter.com/AHJJOYccsz",
+					"expanded_url": "https://twitter.com/_LESOGY/status/1212630793874358272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937032394736930800,
+			"id_str": "937032394736930816",
+			"name": "정선생님✌🏼",
+			"screen_name": "_LESOGY",
+			"location": "정태춘의 이야기가 있는 곳",
+			"description": "GO VEGAN, NOBODY GET HURT! 경남에서 청소년인권운동을 하고 있고요. 박은옥-정태춘과 그들의 노래를 좋아합니다.",
+			"url": "https://t.co/Spd02Ai4AO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Spd02Ai4AO",
+							"expanded_url": "https://m.blog.naver.com/PostList.nhn?blogId=gyeong669700",
+							"display_url": "m.blog.naver.com/PostList.nhn?b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 1041,
+			"listed_count": 0,
+			"created_at": "Sat Dec 02 18:55:06 +0000 2017",
+			"favourites_count": 4637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201220932565495809/pKPHacZU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201220932565495809/pKPHacZU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937032394736930816/1572700727",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14054,
+		"favorite_count": 2726,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "여성 기사님의 택시. 뒷자리 남자 승객들의 폭력 때문에 달았다고 하신다. 막무가내로 목을 조르고 때리고 발길질하는 승객도 허다하다고. 택시회사에서 배포하는 건데, 돈이 들어가니까 택시기사들에게 찬반 투표를 해서 배포 결정을 한다고 한다. 그런데 대부분의 택시기사들이 남성이고, 그들은 https://t.co/AHJJOYccsz"
+	},
+	{
+		"created_at": "Thu Jan 02 12:46:54 +0000 2020",
+		"id": 1212595136447705000,
+		"id_str": "1212716898950905858",
+		"full_text": "태연 반려견 보고 흥분한 팬\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ-ㅌㅋㅋ\nㅋㅌㅋㅋㅌ-ㅋㅋ\n진짜 댕댕이 아니냐는 추측 https://t.co/L6gMycTdh6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212594991869988900,
+					"id_str": "1212594991869988865",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212594991869988865/pu/img/KvN4AiNF5GjvEjrS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212594991869988865/pu/img/KvN4AiNF5GjvEjrS.jpg",
+					"url": "https://t.co/L6gMycTdh6",
+					"display_url": "pic.twitter.com/L6gMycTdh6",
+					"expanded_url": "https://twitter.com/everytamt/status/1212595136447705088/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212594991869988900,
+					"id_str": "1212594991869988865",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212594991869988865/pu/img/KvN4AiNF5GjvEjrS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212594991869988865/pu/img/KvN4AiNF5GjvEjrS.jpg",
+					"url": "https://t.co/L6gMycTdh6",
+					"display_url": "pic.twitter.com/L6gMycTdh6",
+					"expanded_url": "https://twitter.com/everytamt/status/1212595136447705088/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20200,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212594991869988865/pu/vid/640x640/vP4tI3GnsQjdtiPG.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212594991869988865/pu/vid/320x320/rHffv6X8h9BlQirt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1212594991869988865/pu/pl/-4Fx8RbYuZ9jUc0c.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212594991869988865/pu/vid/480x480/Z9WqYGfIaMd_6-9A.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1193368259040403500,
+			"id_str": "1193368259040403461",
+			"name": "에타레전설",
+			"screen_name": "everytamt",
+			"location": "",
+			"description": "오늘도 즐거운 에타 보실래요? \n\n(fan account) 패러디 계정임을 알려드립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32565,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Sun Nov 10 03:22:24 +0000 2019",
+			"favourites_count": 219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206575912889675777/y3Y0xsyG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206575912889675777/y3Y0xsyG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1193368259040403461/1573356870",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11374,
+		"favorite_count": 8633,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연 반려견 보고 흥분한 팬\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ-ㅌㅋㅋ\nㅋㅌㅋㅋㅌ-ㅋㅋ\n진짜 댕댕이 아니냐는 추측 https://t.co/L6gMycTdh6"
+	},
+	{
+		"created_at": "Thu Jan 02 12:46:22 +0000 2020",
+		"id": 1212550421660631000,
+		"id_str": "1212716764015890434",
+		"full_text": "걸그룹 레드벨벳이 신곡 '사이코'로 미국 빌보드 '월드 디지털 송 세일즈' 차트 정상을 차지했습니다. #레드벨벳 #사이코 #빌보드 https://t.co/chTbLEi604",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "사이코",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "빌보드",
+					"indices": [
+						68,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212511139700981800,
+					"id_str": "1212511139700981760",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/ENPW9Y3U8AAlZQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENPW9Y3U8AAlZQO.jpg",
+					"url": "https://t.co/chTbLEi604",
+					"display_url": "pic.twitter.com/chTbLEi604",
+					"expanded_url": "https://twitter.com/mbcnews/status/1212550421660631040/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212511139700981800,
+					"id_str": "1212511139700981760",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/ENPW9Y3U8AAlZQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENPW9Y3U8AAlZQO.jpg",
+					"url": "https://t.co/chTbLEi604",
+					"display_url": "pic.twitter.com/chTbLEi604",
+					"expanded_url": "https://twitter.com/mbcnews/status/1212550421660631040/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 45042,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1212511139700981760/vid/480x272/ZUPbkCP-VqguY5Fp.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1212511139700981760/pl/epB6KRUQ-NMYj2Pc.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "레드벨벳, 美 빌보드 월드 디지털 송 1위",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://imnews.imbc.com/replay/2020/nwtoday/article/5646774_32531.html"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386479,
+			"friends_count": 150702,
+			"listed_count": 3684,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 136287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2880,
+		"favorite_count": 3750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "걸그룹 레드벨벳이 신곡 '사이코'로 미국 빌보드 '월드 디지털 송 세일즈' 차트 정상을 차지했습니다. #레드벨벳 #사이코 #빌보드 https://t.co/chTbLEi604"
+	},
+	{
 		"created_at": "Thu Jan 02 11:20:33 +0000 2020",
 		"id": 1212695167452536800,
 		"id_str": "1212695167452536832",
