@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 17:27:09 +0000 2020",
+		"id": 1212787424855765000,
+		"id_str": "1212787424855764995",
+		"full_text": "OW3.004 // HAPPY\nhttps://t.co/emtTSArdrP\n#Oh_Wonder #오원더",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Oh_Wonder",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "오원더",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/emtTSArdrP",
+					"expanded_url": "https://youtu.be/bv_vcYxijuY",
+					"display_url": "youtu.be/bv_vcYxijuY",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 877,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OW3.004 // HAPPY\nhttps://t.co/emtTSArdrP\n#Oh_Wonder #오원더"
+	},
+	{
+		"created_at": "Thu Jan 02 17:24:25 +0000 2020",
+		"id": 1193802357068333000,
+		"id_str": "1212786736083824640",
+		"full_text": "나 없을 때 서울 가는 샌프란시스코 친구들을 위한 서울 투어맵 작성. 내가 좋아하는 곳과 외국애들이 좋아할 곳 중에 균형을 잡으려 노력했다. 나야 심플한 밀탑 빙수 좋아하지만 외국애들은 화려한 설빙 좋아하지않을까. https://t.co/qPLRCzmeTC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qPLRCzmeTC",
+					"expanded_url": "https://www.google.com/maps/placelists/list/BFlGjI3iRGmeTz2BtkVH6A",
+					"display_url": "google.com/maps/placelist…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47913544,
+			"id_str": "47913544",
+			"name": "AHJ",
+			"screen_name": "ahj_in_sf",
+			"location": "San Francisco, CA",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3601,
+			"friends_count": 293,
+			"listed_count": 96,
+			"created_at": "Wed Jun 17 09:58:58 +0000 2009",
+			"favourites_count": 1569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/597543648943681537/uYjTGSHP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/597543648943681537/uYjTGSHP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47913544/1388225328",
+			"profile_link_color": "64C9BC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나 없을 때 서울 가는 샌프란시스코 친구들을 위한 서울 투어맵 작성. 내가 좋아하는 곳과 외국애들이 좋아할 곳 중에 균형을 잡으려 노력했다. 나야 심플한 밀탑 빙수 좋아하지만 외국애들은 화려한 설빙 좋아하지않을까. https://t.co/qPLRCzmeTC"
+	},
+	{
+		"created_at": "Thu Jan 02 17:15:01 +0000 2020",
+		"id": 1212784370882203600,
+		"id_str": "1212784370882203649",
+		"full_text": "쇼핑몰에 아이디로 위시리스트를 넣으면 어디서 뭘 담아놨는지 나중에 까먹을수 있는데 이거는 넣어두면 크롬 애드온즈에서 눌러서 보고 바로 페이지로 이동할 수 있고 생활용품 같은건 가족 채팅방에 올려서 함께 볼 수 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212781285942296600,
+		"in_reply_to_status_id_str": "1212781285942296578",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 877,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "쇼핑몰에 아이디로 위시리스트를 넣으면 어디서 뭘 담아놨는지 나중에 까먹을수 있는데 이거는 넣어두면 크롬 애드온즈에서 눌러서 보고 바로 페이지로 이동할 수 있고 생활용품 같은건 가족 채팅방에 올려서 함께 볼 수 있음."
+	},
+	{
+		"created_at": "Thu Jan 02 17:03:37 +0000 2020",
+		"id": 1212741164249432000,
+		"id_str": "1212781504083808256",
+		"full_text": "프레드 윌슨의 지난 10년 테크월드 회고 포스팅 https://t.co/PQy7WONrFY 공감이 가는 부분이 많은데 어쨌든 인류가 스마트폰을 손에서 놓지 않게 되면서 테크기업의 영향력이 몇 배 이상으로 커진 시기라고 할 수 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PQy7WONrFY",
+					"expanded_url": "https://avc.com/2019/12/what-happened-in-the-2010s/",
+					"display_url": "avc.com/2019/12/what-h…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382747,
+			"friends_count": 2299,
+			"listed_count": 4809,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 71968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프레드 윌슨의 지난 10년 테크월드 회고 포스팅 https://t.co/PQy7WONrFY 공감이 가는 부분이 많은데 어쨌든 인류가 스마트폰을 손에서 놓지 않게 되면서 테크기업의 영향력이 몇 배 이상으로 커진 시기라고 할 수 있음."
+	},
+	{
+		"created_at": "Thu Jan 02 17:03:12 +0000 2020",
+		"id": 1212565882053873700,
+		"id_str": "1212781396978069506",
+		"full_text": "아 나이 먹는 게 제일 무서운 점은 나는 어제랑 오늘이 똑같은데 이제 어디 가서 '제가 아직 어려서 뭘 잘 모릅니다' 하면 안 되는 나이로 진입하고 있다는 거임....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3032922379,
+			"id_str": "3032922379",
+			"name": "mouloud",
+			"screen_name": "mouloud_B5",
+			"location": "",
+			"description": "브릿G 「잊힌 신이 내리는 계절」 연재 중.(2018. 9~\n조아라 노블레스 「파인(波人)」 연재 중.(2019. 5~\n아니꼬운 새끼가 존나 많은 까탈스런 인간입니다. 알계 팔로 시 칼블락함.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1090,
+			"friends_count": 427,
+			"listed_count": 13,
+			"created_at": "Fri Feb 20 13:49:24 +0000 2015",
+			"favourites_count": 12483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/827408480415780864/fJm8_VG-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/827408480415780864/fJm8_VG-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3032922379/1456039332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19560,
+		"favorite_count": 6195,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아 나이 먹는 게 제일 무서운 점은 나는 어제랑 오늘이 똑같은데 이제 어디 가서 '제가 아직 어려서 뭘 잘 모릅니다' 하면 안 되는 나이로 진입하고 있다는 거임...."
+	},
+	{
 		"created_at": "Thu Jan 02 16:48:39 +0000 2020",
 		"id": 1212565882053873700,
 		"id_str": "1212777736948727809",
@@ -313,7 +807,7 @@ Grailbird.data.tweets_2020_01 =
 		"user": {
 			"id": 130859672,
 			"id_str": "130859672",
-			"name": "minieetea👩🏻‍💻",
+			"name": "minieetea👩🏻💻",
 			"screen_name": "minieetea",
 			"location": "Seoul, Korea",
 			"description": "서비스 기ㅎ...때려쳐! (/-_-)/~ㅕ #이상한모임 #우아한형제들",
