@@ -1,6 +1,2929 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 20:40:32 +0000 2020",
+		"id": 1212877999881642000,
+		"id_str": "1213198479599656960",
+		"full_text": "서울시 공유자전거 ‘따릉이’ 앱의 문제점을 논문 수준으로 잘 풀어쓴 글.\n애용자로서 앱의 불편함은 접속할 때마다 느끼는데 이상하리만치 업데이트가 안되고 있다는. 자전거 앱만 고쳐도 200점짜리 정책.\n\nhttps://t.co/a6R7gBuH3Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a6R7gBuH3Z",
+					"expanded_url": "https://brunch.co.kr/@supernova9/180",
+					"display_url": "brunch.co.kr/@supernova9/180",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92924271,
+			"id_str": "92924271",
+			"name": "Hwang moon-gyu",
+			"screen_name": "Timbretop",
+			"location": "SEOUL ",
+			"description": "AVcolumnist. 오디토리엄과 오디오&시네마시스템을 꾸며주는 사람이고요, 주변에 좋은 영향력을 끼치며 살고자 노력합니다. 일과 여행으로 연중 한 달 이상 유럽에 있습니다. Pilates. Circuit Driving. Classic Music. Ski. Cosmopolitan.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3328,
+			"friends_count": 9,
+			"listed_count": 86,
+			"created_at": "Fri Nov 27 07:38:04 +0000 2009",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989297175476584448/4WTYnqPu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989297175476584448/4WTYnqPu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92924271/1411433397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 272,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울시 공유자전거 ‘따릉이’ 앱의 문제점을 논문 수준으로 잘 풀어쓴 글.\n애용자로서 앱의 불편함은 접속할 때마다 느끼는데 이상하리만치 업데이트가 안되고 있다는. 자전거 앱만 고쳐도 200점짜리 정책.\n\nhttps://t.co/a6R7gBuH3Z"
+	},
+	{
+		"created_at": "Fri Jan 03 20:39:56 +0000 2020",
+		"id": 1212943115608158200,
+		"id_str": "1213198329565216768",
+		"full_text": "나 이제야 백종원 게임 광고 봤는데 아니 ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ 이거 광고제작자가 백종원의 모든 밈을 다 활용하고 있잖아 ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ https://t.co/cawMFq50iI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212942268153249800,
+					"id_str": "1212942268153249792",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212942268153249792/pu/img/ilU3rod2_4tf4VTG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212942268153249792/pu/img/ilU3rod2_4tf4VTG.jpg",
+					"url": "https://t.co/cawMFq50iI",
+					"display_url": "pic.twitter.com/cawMFq50iI",
+					"expanded_url": "https://twitter.com/ImSijik/status/1212943115608158210/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212942268153249800,
+					"id_str": "1212942268153249792",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212942268153249792/pu/img/ilU3rod2_4tf4VTG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212942268153249792/pu/img/ilU3rod2_4tf4VTG.jpg",
+					"url": "https://t.co/cawMFq50iI",
+					"display_url": "pic.twitter.com/cawMFq50iI",
+					"expanded_url": "https://twitter.com/ImSijik/status/1212943115608158210/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 66173,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212942268153249792/pu/vid/582x270/961W9wK6T2hnciNs.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212942268153249792/pu/vid/1280x592/5pizpScEYNFH3pPo.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212942268153249792/pu/vid/778x360/Qr8uCAoVtVrZPQgF.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1212942268153249792/pu/pl/ADCdnCb4HN-1TAHz.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817358278132801500,
+			"id_str": "817358278132801537",
+			"name": "쵱컾상폐 2주만에 재상장 된 임시직",
+			"screen_name": "ImSijik",
+			"location": "템즈강 쓰레기통",
+			"description": "내 쵱컾이 터졌어요!",
+			"url": "https://t.co/kBSyRvdpBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kBSyRvdpBl",
+							"expanded_url": "https://imsijik.postype.com/",
+							"display_url": "imsijik.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909,
+			"friends_count": 106,
+			"listed_count": 18,
+			"created_at": "Fri Jan 06 13:12:54 +0000 2017",
+			"favourites_count": 15064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191684113058516995/OOSgrXxN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191684113058516995/OOSgrXxN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817358278132801537/1572888534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10693,
+		"favorite_count": 5044,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나 이제야 백종원 게임 광고 봤는데 아니 ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ 이거 광고제작자가 백종원의 모든 밈을 다 활용하고 있잖아 ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ㅋ⫬ https://t.co/cawMFq50iI"
+	},
+	{
+		"created_at": "Fri Jan 03 20:39:05 +0000 2020",
+		"id": 1213019407804330000,
+		"id_str": "1213198116469370880",
+		"full_text": "나는 내 핸드폰이 무슨 일을 겪어도 일단 안 망가져야 한다 → 라면 https://t.co/TrH6ZuNf6S 케이스를 추천함 안드로이드~애플 가리지 않고 수많은 기종의 케이스, 필름, 강화유리 등 주변기기 만드는 곳인데 애초에 유명해진 계기: 유튜브에 필름 붙인 아이폰에 망치질해서 안 깨지는 거 광고해서 https://t.co/zxmSn82R2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TrH6ZuNf6S",
+					"expanded_url": "http://rhinoshield.io",
+					"display_url": "rhinoshield.io",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213019398752989200,
+					"id_str": "1213019398752989184",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWCt2BUcAAS_Qb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWCt2BUcAAS_Qb.jpg",
+					"url": "https://t.co/zxmSn82R2P",
+					"display_url": "pic.twitter.com/zxmSn82R2P",
+					"expanded_url": "https://twitter.com/avocadomato/status/1213019407804329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213019398752989200,
+					"id_str": "1213019398752989184",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWCt2BUcAAS_Qb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWCt2BUcAAS_Qb.jpg",
+					"url": "https://t.co/zxmSn82R2P",
+					"display_url": "pic.twitter.com/zxmSn82R2P",
+					"expanded_url": "https://twitter.com/avocadomato/status/1213019407804329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213019398757175300,
+					"id_str": "1213019398757175297",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWCt2CUUAEKrfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWCt2CUUAEKrfC.jpg",
+					"url": "https://t.co/zxmSn82R2P",
+					"display_url": "pic.twitter.com/zxmSn82R2P",
+					"expanded_url": "https://twitter.com/avocadomato/status/1213019407804329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1104,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 367,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213019398757208000,
+					"id_str": "1213019398757208065",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWCt2CU0AEmngv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWCt2CU0AEmngv.jpg",
+					"url": "https://t.co/zxmSn82R2P",
+					"display_url": "pic.twitter.com/zxmSn82R2P",
+					"expanded_url": "https://twitter.com/avocadomato/status/1213019407804329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213019398773936000,
+					"id_str": "1213019398773936129",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWCt2GUEAEg3zs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWCt2GUEAEg3zs.jpg",
+					"url": "https://t.co/zxmSn82R2P",
+					"display_url": "pic.twitter.com/zxmSn82R2P",
+					"expanded_url": "https://twitter.com/avocadomato/status/1213019407804329984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3634449434,
+			"id_str": "3634449434",
+			"name": "🥑🍅",
+			"screen_name": "avocadomato",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4995,
+			"friends_count": 180,
+			"listed_count": 56,
+			"created_at": "Mon Sep 21 05:20:35 +0000 2015",
+			"favourites_count": 94813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109781773880180736/rd0ILh0e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109781773880180736/rd0ILh0e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3634449434/1489434833",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1492,
+		"favorite_count": 1220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나는 내 핸드폰이 무슨 일을 겪어도 일단 안 망가져야 한다 → 라면 https://t.co/TrH6ZuNf6S 케이스를 추천함 안드로이드~애플 가리지 않고 수많은 기종의 케이스, 필름, 강화유리 등 주변기기 만드는 곳인데 애초에 유명해진 계기: 유튜브에 필름 붙인 아이폰에 망치질해서 안 깨지는 거 광고해서 https://t.co/zxmSn82R2P"
+	},
+	{
+		"created_at": "Fri Jan 03 20:36:47 +0000 2020",
+		"id": 1213133327013679000,
+		"id_str": "1213197537974243328",
+		"full_text": "This cancellation only affects the Come Through shows originally scheduled in Houston, Nashville, and New Orleans at the end of February. All other remaining Bon Iver tour dates are still scheduled as planned.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1213112826589597700,
+		"in_reply_to_status_id_str": "1213112826589597698",
+		"in_reply_to_user_id": 115512512,
+		"in_reply_to_user_id_str": "115512512",
+		"in_reply_to_screen_name": "boniver",
+		"user": {
+			"id": 115512512,
+			"id_str": "115512512",
+			"name": "Bon Iver",
+			"screen_name": "boniver",
+			"location": "Eau Claire, WI",
+			"description": "i,i - out now\n#icommai",
+			"url": "https://t.co/8DHDYhUp7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8DHDYhUp7V",
+							"expanded_url": "http://boniver.org",
+							"display_url": "boniver.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 754919,
+			"friends_count": 156,
+			"listed_count": 5211,
+			"created_at": "Thu Feb 18 22:31:29 +0000 2010",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115512512/1574704917",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "990E17",
+			"profile_sidebar_fill_color": "FAFAFA",
+			"profile_text_color": "242324",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "This cancellation only affects the Come Through shows originally scheduled in Houston, Nashville, and New Orleans at the end of February. All other remaining Bon Iver tour dates are still scheduled as planned."
+	},
+	{
+		"created_at": "Fri Jan 03 20:36:46 +0000 2020",
+		"id": 1213112826589597700,
+		"id_str": "1213197531250749440",
+		"full_text": "All tickets for these shows will be refunded at point of purchase and these performances will not be rescheduled. 2/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1213112825499000800,
+		"in_reply_to_status_id_str": "1213112825499000833",
+		"in_reply_to_user_id": 115512512,
+		"in_reply_to_user_id_str": "115512512",
+		"in_reply_to_screen_name": "boniver",
+		"user": {
+			"id": 115512512,
+			"id_str": "115512512",
+			"name": "Bon Iver",
+			"screen_name": "boniver",
+			"location": "Eau Claire, WI",
+			"description": "i,i - out now\n#icommai",
+			"url": "https://t.co/8DHDYhUp7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8DHDYhUp7V",
+							"expanded_url": "http://boniver.org",
+							"display_url": "boniver.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 754919,
+			"friends_count": 156,
+			"listed_count": 5211,
+			"created_at": "Thu Feb 18 22:31:29 +0000 2010",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115512512/1574704917",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "990E17",
+			"profile_sidebar_fill_color": "FAFAFA",
+			"profile_text_color": "242324",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "All tickets for these shows will be refunded at point of purchase and these performances will not be rescheduled. 2/2"
+	},
+	{
+		"created_at": "Fri Jan 03 20:36:44 +0000 2020",
+		"id": 1213112825499000800,
+		"id_str": "1213197524707602433",
+		"full_text": "Due to circumstances outside our control, all upcoming performances of Come Through have been cancelled. These decisions are never taken lightly by the Bon Iver team; our deepest apologies to fans who’ll miss out on these performances. Bon Iver will be back to your area soon. 1/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115512512,
+			"id_str": "115512512",
+			"name": "Bon Iver",
+			"screen_name": "boniver",
+			"location": "Eau Claire, WI",
+			"description": "i,i - out now\n#icommai",
+			"url": "https://t.co/8DHDYhUp7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8DHDYhUp7V",
+							"expanded_url": "http://boniver.org",
+							"display_url": "boniver.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 754919,
+			"friends_count": 156,
+			"listed_count": 5211,
+			"created_at": "Thu Feb 18 22:31:29 +0000 2010",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115512512/1574704917",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "990E17",
+			"profile_sidebar_fill_color": "FAFAFA",
+			"profile_text_color": "242324",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 555,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Due to circumstances outside our control, all upcoming performances of Come Through have been cancelled. These decisions are never taken lightly by the Bon Iver team; our deepest apologies to fans who’ll miss out on these performances. Bon Iver will be back to your area soon. 1/2"
+	},
+	{
+		"created_at": "Fri Jan 03 20:35:51 +0000 2020",
+		"id": 1213197299909705700,
+		"id_str": "1213197299909705728",
+		"full_text": "VR 해보러 가야겠다. https://t.co/sIkzbazGqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sIkzbazGqc",
+					"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120",
+					"display_url": "twitter.com/smtownmuseum/s…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 877,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213014720602501000,
+		"quoted_status_id_str": "1213014720602501120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sIkzbazGqc",
+			"expanded": "https://twitter.com/smtownmuseum/status/1213014720602501120",
+			"display": "twitter.com/smtownmuseum/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 03 08:30:20 +0000 2020",
+			"id": 1213014720602501000,
+			"id_str": "1213014720602501120",
+			"full_text": "#SMTOWNVR\n-\nSM 아티스트의 모습을 VR로 생생하게 느끼고 체험할 수 있는 SMTOWN VR에서 아티스트와 함께 설레는 경험을 느껴보세요! 💖\n-\nEnjoy an exciting experience with SM artists at SMTOWN VR where you can feel and experience the artists realistically! 💖\n-\n#SMTOWN https://t.co/yM3kRhERbG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SMTOWNVR",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "SMTOWN",
+						"indices": [
+							210,
+							217
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1213014704873824300,
+						"id_str": "1213014704873824256",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/ENV-cn9UYAA-MQD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENV-cn9UYAA-MQD.jpg",
+						"url": "https://t.co/yM3kRhERbG",
+						"display_url": "pic.twitter.com/yM3kRhERbG",
+						"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 780,
+										"y": 272,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 233,
+										"y": 253,
+										"h": 106,
+										"w": 106
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 476,
+										"y": 166,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 142,
+										"y": 154,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 780,
+										"y": 272,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 233,
+										"y": 253,
+										"h": 106,
+										"w": 106
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 780,
+										"y": 272,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 233,
+										"y": 253,
+										"h": 106,
+										"w": 106
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1213014704873824300,
+						"id_str": "1213014704873824256",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/ENV-cn9UYAA-MQD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENV-cn9UYAA-MQD.jpg",
+						"url": "https://t.co/yM3kRhERbG",
+						"display_url": "pic.twitter.com/yM3kRhERbG",
+						"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 780,
+										"y": 272,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 233,
+										"y": 253,
+										"h": 106,
+										"w": 106
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 476,
+										"y": 166,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 142,
+										"y": 154,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 780,
+										"y": 272,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 233,
+										"y": 253,
+										"h": 106,
+										"w": 106
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 780,
+										"y": 272,
+										"h": 87,
+										"w": 87
+									},
+									{
+										"x": 233,
+										"y": 253,
+										"h": 106,
+										"w": 106
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1213014704882253800,
+						"id_str": "1213014704882253824",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/ENV-cn_VAAA60aT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENV-cn_VAAA60aT.jpg",
+						"url": "https://t.co/yM3kRhERbG",
+						"display_url": "pic.twitter.com/yM3kRhERbG",
+						"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 248,
+										"y": 305,
+										"h": 21,
+										"w": 21
+									},
+									{
+										"x": 475,
+										"y": 158,
+										"h": 50,
+										"w": 50
+									},
+									{
+										"x": 131,
+										"y": 155,
+										"h": 58,
+										"w": 58
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 406,
+										"y": 499,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 778,
+										"y": 260,
+										"h": 83,
+										"w": 83
+									},
+									{
+										"x": 215,
+										"y": 254,
+										"h": 96,
+										"w": 96
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 406,
+										"y": 499,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 778,
+										"y": 260,
+										"h": 83,
+										"w": 83
+									},
+									{
+										"x": 215,
+										"y": 254,
+										"h": 96,
+										"w": 96
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 406,
+										"y": 499,
+										"h": 35,
+										"w": 35
+									},
+									{
+										"x": 778,
+										"y": 260,
+										"h": 83,
+										"w": 83
+									},
+									{
+										"x": 215,
+										"y": 254,
+										"h": 96,
+										"w": 96
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1213014704878055400,
+						"id_str": "1213014704878055424",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/ENV-cn-U8AA3PzD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENV-cn-U8AA3PzD.jpg",
+						"url": "https://t.co/yM3kRhERbG",
+						"display_url": "pic.twitter.com/yM3kRhERbG",
+						"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 221,
+										"y": 143,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 849,
+										"y": 169,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 221,
+										"y": 143,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 849,
+										"y": 169,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 221,
+										"y": 143,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 849,
+										"y": 169,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 135,
+										"y": 87,
+										"h": 40,
+										"w": 40
+									},
+									{
+										"x": 519,
+										"y": 103,
+										"h": 48,
+										"w": 48
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1213014704873853000,
+						"id_str": "1213014704873852929",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/ENV-cn9U0AEJ-5j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENV-cn9U0AEJ-5j.jpg",
+						"url": "https://t.co/yM3kRhERbG",
+						"display_url": "pic.twitter.com/yM3kRhERbG",
+						"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1112,
+								"h": 1112,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3117705989,
+				"id_str": "3117705989",
+				"name": "SMTOWN MUSEUM",
+				"screen_name": "smtownmuseum",
+				"location": "SMTOWN@coexartium 3F",
+				"description": "2018.05.04 - OPEN RUN",
+				"url": "https://t.co/pku5W4lfLk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pku5W4lfLk",
+								"expanded_url": "http://www.smtownland.com",
+								"display_url": "smtownland.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83450,
+				"friends_count": 4,
+				"listed_count": 198,
+				"created_at": "Thu Mar 26 08:33:41 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/927456698318561281/ms0i2VXB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927456698318561281/ms0i2VXB_normal.jpg",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 815,
+			"favorite_count": 1108,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "VR 해보러 가야겠다. https://t.co/sIkzbazGqc"
+	},
+	{
+		"created_at": "Fri Jan 03 20:35:25 +0000 2020",
+		"id": 1213014720602501000,
+		"id_str": "1213197193789636609",
+		"full_text": "#SMTOWNVR\n-\nSM 아티스트의 모습을 VR로 생생하게 느끼고 체험할 수 있는 SMTOWN VR에서 아티스트와 함께 설레는 경험을 느껴보세요! 💖\n-\nEnjoy an exciting experience with SM artists at SMTOWN VR where you can feel and experience the artists realistically! 💖\n-\n#SMTOWN https://t.co/yM3kRhERbG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWNVR",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						210,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213014704873824300,
+					"id_str": "1213014704873824256",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/ENV-cn9UYAA-MQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENV-cn9UYAA-MQD.jpg",
+					"url": "https://t.co/yM3kRhERbG",
+					"display_url": "pic.twitter.com/yM3kRhERbG",
+					"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 780,
+									"y": 272,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 233,
+									"y": 253,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 166,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 142,
+									"y": 154,
+									"h": 64,
+									"w": 64
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 780,
+									"y": 272,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 233,
+									"y": 253,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 780,
+									"y": 272,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 233,
+									"y": 253,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213014704873824300,
+					"id_str": "1213014704873824256",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/ENV-cn9UYAA-MQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENV-cn9UYAA-MQD.jpg",
+					"url": "https://t.co/yM3kRhERbG",
+					"display_url": "pic.twitter.com/yM3kRhERbG",
+					"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 780,
+									"y": 272,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 233,
+									"y": 253,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 166,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 142,
+									"y": 154,
+									"h": 64,
+									"w": 64
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 780,
+									"y": 272,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 233,
+									"y": 253,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 780,
+									"y": 272,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 233,
+									"y": 253,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213014704882253800,
+					"id_str": "1213014704882253824",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/ENV-cn_VAAA60aT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENV-cn_VAAA60aT.jpg",
+					"url": "https://t.co/yM3kRhERbG",
+					"display_url": "pic.twitter.com/yM3kRhERbG",
+					"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 248,
+									"y": 305,
+									"h": 21,
+									"w": 21
+								},
+								{
+									"x": 475,
+									"y": 158,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 131,
+									"y": 155,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 406,
+									"y": 499,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 778,
+									"y": 260,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 215,
+									"y": 254,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 406,
+									"y": 499,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 778,
+									"y": 260,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 215,
+									"y": 254,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 406,
+									"y": 499,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 778,
+									"y": 260,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 215,
+									"y": 254,
+									"h": 96,
+									"w": 96
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213014704878055400,
+					"id_str": "1213014704878055424",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/ENV-cn-U8AA3PzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENV-cn-U8AA3PzD.jpg",
+					"url": "https://t.co/yM3kRhERbG",
+					"display_url": "pic.twitter.com/yM3kRhERbG",
+					"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 143,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 849,
+									"y": 169,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 143,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 849,
+									"y": 169,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 143,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 849,
+									"y": 169,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 135,
+									"y": 87,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 519,
+									"y": 103,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213014704873853000,
+					"id_str": "1213014704873852929",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/ENV-cn9U0AEJ-5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENV-cn9U0AEJ-5j.jpg",
+					"url": "https://t.co/yM3kRhERbG",
+					"display_url": "pic.twitter.com/yM3kRhERbG",
+					"expanded_url": "https://twitter.com/smtownmuseum/status/1213014720602501120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1112,
+							"h": 1112,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3117705989,
+			"id_str": "3117705989",
+			"name": "SMTOWN MUSEUM",
+			"screen_name": "smtownmuseum",
+			"location": "SMTOWN@coexartium 3F",
+			"description": "2018.05.04 - OPEN RUN",
+			"url": "https://t.co/pku5W4lfLk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pku5W4lfLk",
+							"expanded_url": "http://www.smtownland.com",
+							"display_url": "smtownland.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83450,
+			"friends_count": 4,
+			"listed_count": 198,
+			"created_at": "Thu Mar 26 08:33:41 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927456698318561281/ms0i2VXB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927456698318561281/ms0i2VXB_normal.jpg",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 815,
+		"favorite_count": 1108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWNVR\n-\nSM 아티스트의 모습을 VR로 생생하게 느끼고 체험할 수 있는 SMTOWN VR에서 아티스트와 함께 설레는 경험을 느껴보세요! 💖\n-\nEnjoy an exciting experience with SM artists at SMTOWN VR where you can feel and experience the artists realistically! 💖\n-\n#SMTOWN https://t.co/yM3kRhERbG"
+	},
+	{
+		"created_at": "Fri Jan 03 20:34:42 +0000 2020",
+		"id": 1213018271345066000,
+		"id_str": "1213197010393694208",
+		"full_text": "https://t.co/MfHeouoyC5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213018240303022000,
+					"id_str": "1213018240303022080",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBqadUwAArX9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBqadUwAArX9T.jpg",
+					"url": "https://t.co/MfHeouoyC5",
+					"display_url": "pic.twitter.com/MfHeouoyC5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018271345065984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 573,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 573,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 443,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 251,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213018240303022000,
+					"id_str": "1213018240303022080",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBqadUwAArX9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBqadUwAArX9T.jpg",
+					"url": "https://t.co/MfHeouoyC5",
+					"display_url": "pic.twitter.com/MfHeouoyC5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018271345065984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 573,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 573,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 443,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 251,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213018246309245000,
+					"id_str": "1213018246309244928",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBqw1UcAADutu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBqw1UcAADutu.jpg",
+					"url": "https://t.co/MfHeouoyC5",
+					"display_url": "pic.twitter.com/MfHeouoyC5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018271345065984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 188,
+									"y": 237,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 332,
+									"y": 417,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 429,
+									"y": 540,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 429,
+									"y": 540,
+									"h": 183,
+									"w": 183
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213018254769184800,
+					"id_str": "1213018254769184768",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBrQWU4AAbR5Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBrQWU4AAbR5Y.jpg",
+					"url": "https://t.co/MfHeouoyC5",
+					"display_url": "pic.twitter.com/MfHeouoyC5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018271345065984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 175,
+									"h": 258,
+									"w": 258
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 227,
+									"h": 334,
+									"w": 334
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 227,
+									"h": 334,
+									"w": 334
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 99,
+									"h": 146,
+									"w": 146
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31272,
+			"friends_count": 64,
+			"listed_count": 1221,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 886,
+		"favorite_count": 1298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/MfHeouoyC5"
+	},
+	{
+		"created_at": "Fri Jan 03 20:10:54 +0000 2020",
+		"id": 1213012317081755600,
+		"id_str": "1213191021997084677",
+		"full_text": "다음주 시사IN 커버 이미지는 연출이 아니다. 학령인구 감소 등의 이유로 사라지는 대학을 주제로 김동인 기자가 취재 중에 지방의 문 닫은 한 대학이 3년째 방치되고 있다는 걸 알게됐다. 동해의 한중대였다. 질문은 자연스럽게 당시 학생들은 어떻게 됐을까로 이어졌다. https://t.co/ie9MlXARc2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213012227713691600,
+					"id_str": "1213012227713691648",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ENV8Mb0UcAAVwy3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENV8Mb0UcAAVwy3.jpg",
+					"url": "https://t.co/ie9MlXARc2",
+					"display_url": "pic.twitter.com/ie9MlXARc2",
+					"expanded_url": "https://twitter.com/ilhostyle/status/1213012317081755648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 756,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 760,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 760,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 760,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 99,
+									"y": 538,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213012227713691600,
+					"id_str": "1213012227713691648",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ENV8Mb0UcAAVwy3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENV8Mb0UcAAVwy3.jpg",
+					"url": "https://t.co/ie9MlXARc2",
+					"display_url": "pic.twitter.com/ie9MlXARc2",
+					"expanded_url": "https://twitter.com/ilhostyle/status/1213012317081755648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 756,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 760,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 760,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 760,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 99,
+									"y": 538,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64358254,
+			"id_str": "64358254",
+			"name": "둥글게🎗🏳️‍🌈",
+			"screen_name": "ilhostyle",
+			"location": "",
+			"description": "'나는 항상 패배자들에 대해서는 마음이 약하다. 환자, 외국인, 반에서 뚱뚱한 남자애, 아무도 춤추자고 하지 않는 사람들. 그런 사람들을 보면 심장이 뛴다. 어떤 면에서는 나도 영원히 그들 중 한 사람이라는 사실을 항상 알고 있기 때문일 것이다.' 스밀라의 눈에 대한 감각, 71쪽.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7795,
+			"friends_count": 5477,
+			"listed_count": 224,
+			"created_at": "Mon Aug 10 08:01:04 +0000 2009",
+			"favourites_count": 12484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922059371177156608/GRWjgcXf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922059371177156608/GRWjgcXf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64358254/1567532293",
+			"profile_link_color": "241A4D",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3313,
+		"favorite_count": 1169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다음주 시사IN 커버 이미지는 연출이 아니다. 학령인구 감소 등의 이유로 사라지는 대학을 주제로 김동인 기자가 취재 중에 지방의 문 닫은 한 대학이 3년째 방치되고 있다는 걸 알게됐다. 동해의 한중대였다. 질문은 자연스럽게 당시 학생들은 어떻게 됐을까로 이어졌다. https://t.co/ie9MlXARc2"
+	},
+	{
 		"created_at": "Fri Jan 03 16:04:03 +0000 2020",
 		"id": 1213128902819930000,
 		"id_str": "1213128902819930112",
