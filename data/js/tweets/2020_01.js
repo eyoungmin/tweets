@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 06:33:52 +0000 2020",
+		"id": 1208775849941430300,
+		"id_str": "1212985408948035586",
+		"full_text": "☆ 공중캠프 커뮤니티 20주년 기념 SNC.28 - 오오야 유스케(オオヤユウスケ)\n\n1/12(sun) 18:00/19:00\n권나무, 오오야 유스케 (DJ DGURU)\n\n1/13(mon) 19:00/20:00\n빅베이비드라이버, 오오야 유스케 (DJ 곡재)\n\n@공중캠프 (마포구 와우산로 150 2층)\n3만원 / 4만원 / 5만원\n\nhttps://t.co/zfgqat49r8 https://t.co/AwAJ59CDg2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zfgqat49r8",
+					"expanded_url": "http://kuchu-camp.net/xe/82227",
+					"display_url": "kuchu-camp.net/xe/82227",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208775842764976000,
+					"id_str": "1208775842764976128",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EMZvOYEUcAAt7fL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMZvOYEUcAAt7fL.jpg",
+					"url": "https://t.co/AwAJ59CDg2",
+					"display_url": "pic.twitter.com/AwAJ59CDg2",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1208775849941430272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208775842764976000,
+					"id_str": "1208775842764976128",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EMZvOYEUcAAt7fL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMZvOYEUcAAt7fL.jpg",
+					"url": "https://t.co/AwAJ59CDg2",
+					"display_url": "pic.twitter.com/AwAJ59CDg2",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1208775849941430272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1208775842752389000,
+					"id_str": "1208775842752389121",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EMZvOYBUYAED1QO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMZvOYBUYAED1QO.jpg",
+					"url": "https://t.co/AwAJ59CDg2",
+					"display_url": "pic.twitter.com/AwAJ59CDg2",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1208775849941430272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 929,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 929,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1134022675649589200,
+			"id_str": "1134022675649589248",
+			"name": "공중캠프 | 空中キャンプ | kuchu-camp",
+			"screen_name": "kuchucamp_",
+			"location": "150, Wausan-ro, Mapo-gu, Seoul",
+			"description": "\"내 마음의 리듬을 믿고(この胸のリズムを信じて), 우리는 걷는다 단지 그뿐(ぼくらは步く ただそんだけ)\" | cafe kuchu-camp (2003.11.8~) | kuchu-camp community (2000.1.12~)",
+			"url": "https://t.co/lMb3B87RqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMb3B87RqC",
+							"expanded_url": "http://kuchu-camp.net",
+							"display_url": "kuchu-camp.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 467,
+			"listed_count": 0,
+			"created_at": "Thu May 30 09:04:09 +0000 2019",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134022675649589248/1561794116",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "☆ 공중캠프 커뮤니티 20주년 기념 SNC.28 - 오오야 유스케(オオヤユウスケ)\n\n1/12(sun) 18:00/19:00\n권나무, 오오야 유스케 (DJ DGURU)\n\n1/13(mon) 19:00/20:00\n빅베이비드라이버, 오오야 유스케 (DJ 곡재)\n\n@공중캠프 (마포구 와우산로 150 2층)\n3만원 / 4만원 / 5만원\n\nhttps://t.co/zfgqat49r8 https://t.co/AwAJ59CDg2"
+	},
+	{
 		"created_at": "Fri Jan 03 05:40:38 +0000 2020",
 		"id": 1212967659626565600,
 		"id_str": "1212972011267481601",
