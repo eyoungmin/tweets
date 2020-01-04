@@ -1,6 +1,5783 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 09:36:30 +0000 2020",
+		"id": 1212933086704308200,
+		"id_str": "1213393759674589184",
+		"full_text": "Weekend 1 is sold out 🌴 Register for Weekend 2 presale at https://t.co/x8PRTb12Eh. Presale starts Monday 1/6 at 12pm PT https://t.co/QPRYnJVe9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x8PRTb12Eh",
+					"expanded_url": "http://Coachella.com",
+					"display_url": "Coachella.com",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212933081822163000,
+					"id_str": "1212933081822162945",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+					"url": "https://t.co/QPRYnJVe9P",
+					"display_url": "pic.twitter.com/QPRYnJVe9P",
+					"expanded_url": "https://twitter.com/coachella/status/1212933086704308226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212933081822163000,
+					"id_str": "1212933081822162945",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+					"url": "https://t.co/QPRYnJVe9P",
+					"display_url": "pic.twitter.com/QPRYnJVe9P",
+					"expanded_url": "https://twitter.com/coachella/status/1212933086704308226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 688583,
+			"id_str": "688583",
+			"name": "Coachella",
+			"screen_name": "coachella",
+			"location": "Indio, CA",
+			"description": "",
+			"url": "https://t.co/k0mVrhjdYx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k0mVrhjdYx",
+							"expanded_url": "http://coachella.com",
+							"display_url": "coachella.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011077,
+			"friends_count": 4,
+			"listed_count": 7820,
+			"created_at": "Tue Jan 23 20:11:53 +0000 2007",
+			"favourites_count": 893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123709305402867715/N4Kie90__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123709305402867715/N4Kie90__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/688583/1578026299",
+			"profile_link_color": "3D75C4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFE2EB",
+			"profile_text_color": "435969",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40268,
+		"favorite_count": 133745,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Weekend 1 is sold out 🌴 Register for Weekend 2 presale at https://t.co/x8PRTb12Eh. Presale starts Monday 1/6 at 12pm PT https://t.co/QPRYnJVe9P"
+	},
+	{
+		"created_at": "Sat Jan 04 09:35:24 +0000 2020",
+		"id": 1213027414839709700,
+		"id_str": "1213393480933756929",
+		"full_text": "보건복지부가 성폭력 등으로 집행유예를 선고받은 의사에게 왕진 시범사업 참여를 허가해 논란이다. 해당 의사인 남성 A씨는 여성직원들을 강제추행하고 SNS에 환자 실명을 공개하겠다고 협박한 혐의 등으로 징역 1년6개월에 집행유예 3년을 선고받았다.\nhttps://t.co/3bxOm0paQ3 https://t.co/3k5t7jWTcR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bxOm0paQ3",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=310&aid=0000076242",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213027400239313000,
+					"id_str": "1213027400239312896",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWJ_l4UcAAi-O4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWJ_l4UcAAi-O4.jpg",
+					"url": "https://t.co/3k5t7jWTcR",
+					"display_url": "pic.twitter.com/3k5t7jWTcR",
+					"expanded_url": "https://twitter.com/wnewskr/status/1213027414839709696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 399,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 399,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213027400239313000,
+					"id_str": "1213027400239312896",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWJ_l4UcAAi-O4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWJ_l4UcAAi-O4.jpg",
+					"url": "https://t.co/3k5t7jWTcR",
+					"display_url": "pic.twitter.com/3k5t7jWTcR",
+					"expanded_url": "https://twitter.com/wnewskr/status/1213027414839709696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 399,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 399,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199605,
+			"friends_count": 3605,
+			"listed_count": 369,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보건복지부가 성폭력 등으로 집행유예를 선고받은 의사에게 왕진 시범사업 참여를 허가해 논란이다. 해당 의사인 남성 A씨는 여성직원들을 강제추행하고 SNS에 환자 실명을 공개하겠다고 협박한 혐의 등으로 징역 1년6개월에 집행유예 3년을 선고받았다.\nhttps://t.co/3bxOm0paQ3 https://t.co/3k5t7jWTcR"
+	},
+	{
+		"created_at": "Sat Jan 04 09:33:48 +0000 2020",
+		"id": 1213393078603509800,
+		"id_str": "1213393078603509762",
+		"full_text": "그플 블라인드 일단 구입했다. https://t.co/VWEQ8Ok7ht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VWEQ8Ok7ht",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1213020280060170240",
+					"display_url": "twitter.com/GREENPLUGGED/s…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 878,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213020280060170200,
+		"quoted_status_id_str": "1213020280060170240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VWEQ8Ok7ht",
+			"expanded": "https://twitter.com/GREENPLUGGED/status/1213020280060170240",
+			"display": "twitter.com/GREENPLUGGED/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 03 08:52:26 +0000 2020",
+			"id": 1213020280060170200,
+			"id_str": "1213020280060170240",
+			"full_text": "[블라인드티켓 매진]\n⠀⠀⠀\n'그린플러그드 서울 2020' 블라인드티켓이 매진되었습니다. 관심과 성원에 감사드립니다.\n\n취소표 재오픈 예정은 없으며, 개별 취소표 발생시에는 예매가 가능합니다. (1월 20일까지) 취소표 외에 티켓구매를 원하시는 분들은 1월 20일 슈퍼얼리버드티켓을 기다려주세요! https://t.co/94xnE623aw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1213020272636260400,
+						"id_str": "1213020272636260353",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/ENWDgtfU8AEDE1T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENWDgtfU8AEDE1T.jpg",
+						"url": "https://t.co/94xnE623aw",
+						"display_url": "pic.twitter.com/94xnE623aw",
+						"expanded_url": "https://twitter.com/GREENPLUGGED/status/1213020280060170240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 448,
+										"y": 74,
+										"h": 33,
+										"w": 33
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 594,
+										"y": 99,
+										"h": 44,
+										"w": 44
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 594,
+										"y": 99,
+										"h": 44,
+										"w": 44
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 594,
+										"y": 99,
+										"h": 44,
+										"w": 44
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1213020272636260400,
+						"id_str": "1213020272636260353",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/ENWDgtfU8AEDE1T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENWDgtfU8AEDE1T.jpg",
+						"url": "https://t.co/94xnE623aw",
+						"display_url": "pic.twitter.com/94xnE623aw",
+						"expanded_url": "https://twitter.com/GREENPLUGGED/status/1213020280060170240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 448,
+										"y": 74,
+										"h": 33,
+										"w": 33
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 594,
+										"y": 99,
+										"h": 44,
+										"w": 44
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 594,
+										"y": 99,
+										"h": 44,
+										"w": 44
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 594,
+										"y": 99,
+										"h": 44,
+										"w": 44
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116351905,
+				"id_str": "116351905",
+				"name": "그린플러그드 페스티벌",
+				"screen_name": "GREENPLUGGED",
+				"location": "",
+				"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12371,
+				"friends_count": 166,
+				"listed_count": 254,
+				"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+				"favourites_count": 157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10849,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "48AA43",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "259C1F",
+				"profile_sidebar_fill_color": "CCEFFF",
+				"profile_text_color": "48AA43",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그플 블라인드 일단 구입했다. https://t.co/VWEQ8Ok7ht"
+	},
+	{
+		"created_at": "Sat Jan 04 09:33:24 +0000 2020",
+		"id": 1213020280060170200,
+		"id_str": "1213392980553289730",
+		"full_text": "[블라인드티켓 매진]\n⠀⠀⠀\n'그린플러그드 서울 2020' 블라인드티켓이 매진되었습니다. 관심과 성원에 감사드립니다.\n\n취소표 재오픈 예정은 없으며, 개별 취소표 발생시에는 예매가 가능합니다. (1월 20일까지) 취소표 외에 티켓구매를 원하시는 분들은 1월 20일 슈퍼얼리버드티켓을 기다려주세요! https://t.co/94xnE623aw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213020272636260400,
+					"id_str": "1213020272636260353",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWDgtfU8AEDE1T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWDgtfU8AEDE1T.jpg",
+					"url": "https://t.co/94xnE623aw",
+					"display_url": "pic.twitter.com/94xnE623aw",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1213020280060170240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 448,
+									"y": 74,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 99,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 99,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 99,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213020272636260400,
+					"id_str": "1213020272636260353",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWDgtfU8AEDE1T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWDgtfU8AEDE1T.jpg",
+					"url": "https://t.co/94xnE623aw",
+					"display_url": "pic.twitter.com/94xnE623aw",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1213020280060170240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 448,
+									"y": 74,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 99,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 99,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 99,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12371,
+			"friends_count": 166,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[블라인드티켓 매진]\n⠀⠀⠀\n'그린플러그드 서울 2020' 블라인드티켓이 매진되었습니다. 관심과 성원에 감사드립니다.\n\n취소표 재오픈 예정은 없으며, 개별 취소표 발생시에는 예매가 가능합니다. (1월 20일까지) 취소표 외에 티켓구매를 원하시는 분들은 1월 20일 슈퍼얼리버드티켓을 기다려주세요! https://t.co/94xnE623aw"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:56 +0000 2020",
+		"id": 1213018575067238400,
+		"id_str": "1213392863108554752",
+		"full_text": "https://t.co/qEqdBJbC8F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213018536353788000,
+					"id_str": "1213018536353787904",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWB7pVU8AAM4n7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWB7pVU8AAM4n7.jpg",
+					"url": "https://t.co/qEqdBJbC8F",
+					"display_url": "pic.twitter.com/qEqdBJbC8F",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018575067238400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1550,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 334,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 334,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 308,
+									"y": 258,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 146,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213018536353788000,
+					"id_str": "1213018536353787904",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWB7pVU8AAM4n7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWB7pVU8AAM4n7.jpg",
+					"url": "https://t.co/qEqdBJbC8F",
+					"display_url": "pic.twitter.com/qEqdBJbC8F",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018575067238400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1550,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 334,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 334,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 308,
+									"y": 258,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 146,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213018548601098200,
+					"id_str": "1213018548601098240",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWB8W9UEAABBMm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWB8W9UEAABBMm.jpg",
+					"url": "https://t.co/qEqdBJbC8F",
+					"display_url": "pic.twitter.com/qEqdBJbC8F",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018575067238400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 116,
+									"y": 377,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 861,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 861,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 205,
+									"y": 666,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213018560508776400,
+					"id_str": "1213018560508776448",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWB9DUU0AAg40_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWB9DUU0AAg40_.jpg",
+					"url": "https://t.co/qEqdBJbC8F",
+					"display_url": "pic.twitter.com/qEqdBJbC8F",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018575067238400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 985,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 985,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 432,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 762,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 705,
+		"favorite_count": 1000,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/qEqdBJbC8F"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:52 +0000 2020",
+		"id": 1213018482352148500,
+		"id_str": "1213392842376114176",
+		"full_text": "https://t.co/uzLruhI8bc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213018444880199700,
+					"id_str": "1213018444880199680",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWB2UkUwAAcc5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWB2UkUwAAcc5a.jpg",
+					"url": "https://t.co/uzLruhI8bc",
+					"display_url": "pic.twitter.com/uzLruhI8bc",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018482352148480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 304,
+									"y": 917,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 406,
+									"y": 469,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 520,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 230,
+									"y": 266,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 1186,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 525,
+									"y": 606,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 1186,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 525,
+									"y": 606,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213018444880199700,
+					"id_str": "1213018444880199680",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWB2UkUwAAcc5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWB2UkUwAAcc5a.jpg",
+					"url": "https://t.co/uzLruhI8bc",
+					"display_url": "pic.twitter.com/uzLruhI8bc",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018482352148480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 304,
+									"y": 917,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 406,
+									"y": 469,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 520,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 230,
+									"y": 266,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 1186,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 525,
+									"y": 606,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 1186,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 525,
+									"y": 606,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213018455932162000,
+					"id_str": "1213018455932162048",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWB29vUUAAl8p8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWB29vUUAAl8p8.jpg",
+					"url": "https://t.co/uzLruhI8bc",
+					"display_url": "pic.twitter.com/uzLruhI8bc",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018482352148480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213018466816409600,
+					"id_str": "1213018466816409602",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWB3mSUwAIdyvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWB3mSUwAIdyvs.jpg",
+					"url": "https://t.co/uzLruhI8bc",
+					"display_url": "pic.twitter.com/uzLruhI8bc",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018482352148480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 901,
+		"favorite_count": 1370,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/uzLruhI8bc"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:48 +0000 2020",
+		"id": 1213018397274824700,
+		"id_str": "1213392827096264705",
+		"full_text": "https://t.co/OJCygR0v7X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213018364374728700,
+					"id_str": "1213018364374728704",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBxoqUwAAGbcL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBxoqUwAAGbcL.jpg",
+					"url": "https://t.co/OJCygR0v7X",
+					"display_url": "pic.twitter.com/OJCygR0v7X",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018397274824704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213018364374728700,
+					"id_str": "1213018364374728704",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBxoqUwAAGbcL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBxoqUwAAGbcL.jpg",
+					"url": "https://t.co/OJCygR0v7X",
+					"display_url": "pic.twitter.com/OJCygR0v7X",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018397274824704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213018372318744600,
+					"id_str": "1213018372318744576",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWByGQU0AA2XN_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWByGQU0AA2XN_.jpg",
+					"url": "https://t.co/OJCygR0v7X",
+					"display_url": "pic.twitter.com/OJCygR0v7X",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018397274824704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 269,
+									"y": 497,
+									"h": 254,
+									"w": 254
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 282,
+									"h": 144,
+									"w": 144
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 643,
+									"h": 329,
+									"w": 329
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 643,
+									"h": 329,
+									"w": 329
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213018380153675800,
+					"id_str": "1213018380153675777",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWByjcUYAEY5DY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWByjcUYAEY5DY.jpg",
+					"url": "https://t.co/OJCygR0v7X",
+					"display_url": "pic.twitter.com/OJCygR0v7X",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018397274824704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 151,
+									"h": 454,
+									"w": 454
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 21,
+									"y": 66,
+									"h": 199,
+									"w": 199
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 151,
+									"h": 454,
+									"w": 454
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 37,
+									"y": 116,
+									"h": 351,
+									"w": 351
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 701,
+		"favorite_count": 977,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OJCygR0v7X"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:42 +0000 2020",
+		"id": 1213018271345066000,
+		"id_str": "1213392801095802880",
+		"full_text": "https://t.co/MfHeouoyC5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213018240303022000,
+					"id_str": "1213018240303022080",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBqadUwAArX9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBqadUwAArX9T.jpg",
+					"url": "https://t.co/MfHeouoyC5",
+					"display_url": "pic.twitter.com/MfHeouoyC5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018271345065984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 573,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 573,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 443,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 251,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213018240303022000,
+					"id_str": "1213018240303022080",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBqadUwAArX9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBqadUwAArX9T.jpg",
+					"url": "https://t.co/MfHeouoyC5",
+					"display_url": "pic.twitter.com/MfHeouoyC5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018271345065984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 573,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 573,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 443,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 251,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213018246309245000,
+					"id_str": "1213018246309244928",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBqw1UcAADutu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBqw1UcAADutu.jpg",
+					"url": "https://t.co/MfHeouoyC5",
+					"display_url": "pic.twitter.com/MfHeouoyC5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018271345065984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 188,
+									"y": 237,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 332,
+									"y": 417,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 429,
+									"y": 540,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 429,
+									"y": 540,
+									"h": 183,
+									"w": 183
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213018254769184800,
+					"id_str": "1213018254769184768",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWBrQWU4AAbR5Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWBrQWU4AAbR5Y.jpg",
+					"url": "https://t.co/MfHeouoyC5",
+					"display_url": "pic.twitter.com/MfHeouoyC5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1213018271345065984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 175,
+									"h": 258,
+									"w": 258
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 227,
+									"h": 334,
+									"w": 334
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 473,
+									"y": 227,
+									"h": 334,
+									"w": 334
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 99,
+									"h": 146,
+									"w": 146
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1031,
+		"favorite_count": 1520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/MfHeouoyC5"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:36 +0000 2020",
+		"id": 1212947220313469000,
+		"id_str": "1213392777955819520",
+		"full_text": "https://t.co/8ruJHzYYF5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212947172812980200,
+					"id_str": "1212947172812980225",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVBBvbVAAErMtr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVBBvbVAAErMtr.jpg",
+					"url": "https://t.co/8ruJHzYYF5",
+					"display_url": "pic.twitter.com/8ruJHzYYF5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947220313468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212947172812980200,
+					"id_str": "1212947172812980225",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVBBvbVAAErMtr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVBBvbVAAErMtr.jpg",
+					"url": "https://t.co/8ruJHzYYF5",
+					"display_url": "pic.twitter.com/8ruJHzYYF5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947220313468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212947182912827400,
+					"id_str": "1212947182912827393",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVBCVDUcAEHTuu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVBCVDUcAEHTuu.jpg",
+					"url": "https://t.co/8ruJHzYYF5",
+					"display_url": "pic.twitter.com/8ruJHzYYF5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947220313468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212947207109787600,
+					"id_str": "1212947207109787648",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVBDvMUwAAnBjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVBDvMUwAAnBjM.jpg",
+					"url": "https://t.co/8ruJHzYYF5",
+					"display_url": "pic.twitter.com/8ruJHzYYF5",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947220313468928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 97,
+									"y": 429,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 54,
+									"y": 47,
+									"h": 188,
+									"w": 188
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 171,
+									"y": 757,
+									"h": 185,
+									"w": 185
+								},
+								{
+									"x": 95,
+									"y": 83,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 979,
+									"h": 240,
+									"w": 240
+								},
+								{
+									"x": 124,
+									"y": 108,
+									"h": 429,
+									"w": 429
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 979,
+									"h": 240,
+									"w": 240
+								},
+								{
+									"x": 124,
+									"y": 108,
+									"h": 429,
+									"w": 429
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1088,
+		"favorite_count": 1493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/8ruJHzYYF5"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:30 +0000 2020",
+		"id": 1212947149308121000,
+		"id_str": "1213392751322025984",
+		"full_text": "https://t.co/sH7XZt7Br0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212947114172354600,
+					"id_str": "1212947114172354560",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVA-U-UEAA6LWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVA-U-UEAA6LWh.jpg",
+					"url": "https://t.co/sH7XZt7Br0",
+					"display_url": "pic.twitter.com/sH7XZt7Br0",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947149308121088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 73,
+									"y": 208,
+									"h": 575,
+									"w": 575
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 118,
+									"h": 326,
+									"w": 326
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 269,
+									"h": 744,
+									"w": 744
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 269,
+									"h": 744,
+									"w": 744
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212947114172354600,
+					"id_str": "1212947114172354560",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVA-U-UEAA6LWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVA-U-UEAA6LWh.jpg",
+					"url": "https://t.co/sH7XZt7Br0",
+					"display_url": "pic.twitter.com/sH7XZt7Br0",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947149308121088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 73,
+									"y": 208,
+									"h": 575,
+									"w": 575
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 118,
+									"h": 326,
+									"w": 326
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 269,
+									"h": 744,
+									"w": 744
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 269,
+									"h": 744,
+									"w": 744
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212947125056598000,
+					"id_str": "1212947125056598016",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVA-9hUcAA9b3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVA-9hUcAA9b3T.jpg",
+					"url": "https://t.co/sH7XZt7Br0",
+					"display_url": "pic.twitter.com/sH7XZt7Br0",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947149308121088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 98,
+									"h": 740,
+									"w": 740
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 43,
+									"h": 324,
+									"w": 324
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 75,
+									"h": 572,
+									"w": 572
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 98,
+									"h": 740,
+									"w": 740
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212947136368636000,
+					"id_str": "1212947136368635905",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVA_nqUcAEtvUN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVA_nqUcAEtvUN.jpg",
+					"url": "https://t.co/sH7XZt7Br0",
+					"display_url": "pic.twitter.com/sH7XZt7Br0",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947149308121088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 762,
+									"y": 1265,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 193,
+									"y": 102,
+									"h": 703,
+									"w": 703
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 555,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 84,
+									"y": 44,
+									"h": 308,
+									"w": 308
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 762,
+									"y": 1265,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 193,
+									"y": 102,
+									"h": 703,
+									"w": 703
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 589,
+									"y": 979,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 149,
+									"y": 78,
+									"h": 544,
+									"w": 544
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1539,
+		"favorite_count": 2008,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/sH7XZt7Br0"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:25 +0000 2020",
+		"id": 1212947015136448500,
+		"id_str": "1213392730828636161",
+		"full_text": "https://t.co/PRNUmUiDtJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212946982207012900,
+					"id_str": "1212946982207012865",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVA2pXUwAEgldM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVA2pXUwAEgldM.jpg",
+					"url": "https://t.co/PRNUmUiDtJ",
+					"display_url": "pic.twitter.com/PRNUmUiDtJ",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947015136448512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212946982207012900,
+					"id_str": "1212946982207012865",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVA2pXUwAEgldM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVA2pXUwAEgldM.jpg",
+					"url": "https://t.co/PRNUmUiDtJ",
+					"display_url": "pic.twitter.com/PRNUmUiDtJ",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947015136448512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212946993988825000,
+					"id_str": "1212946993988825088",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVA3VQU8AApZcx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVA3VQU8AApZcx.jpg",
+					"url": "https://t.co/PRNUmUiDtJ",
+					"display_url": "pic.twitter.com/PRNUmUiDtJ",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947015136448512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 350,
+									"y": 146,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 179,
+									"y": 159,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 799,
+									"y": 334,
+									"h": 118,
+									"w": 118
+								},
+								{
+									"x": 408,
+									"y": 363,
+									"h": 283,
+									"w": 283
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 799,
+									"y": 334,
+									"h": 118,
+									"w": 118
+								},
+								{
+									"x": 408,
+									"y": 363,
+									"h": 283,
+									"w": 283
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 618,
+									"y": 258,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 315,
+									"y": 280,
+									"h": 219,
+									"w": 219
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212947003987988500,
+					"id_str": "1212947003987988480",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVA36gUEAAHDo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVA36gUEAAHDo-.jpg",
+					"url": "https://t.co/PRNUmUiDtJ",
+					"display_url": "pic.twitter.com/PRNUmUiDtJ",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212947015136448512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 37,
+									"y": 469,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 21,
+									"y": 266,
+									"h": 49,
+									"w": 49
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 606,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 49,
+									"y": 606,
+									"h": 112,
+									"w": 112
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 973,
+		"favorite_count": 1298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/PRNUmUiDtJ"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:21 +0000 2020",
+		"id": 1212946950221226000,
+		"id_str": "1213392712868622337",
+		"full_text": "https://t.co/t6jsS9CNVm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212946909742022700,
+					"id_str": "1212946909742022659",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAybaUwAMXprX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAybaUwAMXprX.jpg",
+					"url": "https://t.co/t6jsS9CNVm",
+					"display_url": "pic.twitter.com/t6jsS9CNVm",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946950221225985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 85,
+									"y": 36,
+									"h": 296,
+									"w": 296
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 195,
+									"y": 84,
+									"h": 676,
+									"w": 676
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 150,
+									"y": 65,
+									"h": 523,
+									"w": 523
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 195,
+									"y": 84,
+									"h": 676,
+									"w": 676
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212946909742022700,
+					"id_str": "1212946909742022659",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAybaUwAMXprX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAybaUwAMXprX.jpg",
+					"url": "https://t.co/t6jsS9CNVm",
+					"display_url": "pic.twitter.com/t6jsS9CNVm",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946950221225985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 85,
+									"y": 36,
+									"h": 296,
+									"w": 296
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 195,
+									"y": 84,
+									"h": 676,
+									"w": 676
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 150,
+									"y": 65,
+									"h": 523,
+									"w": 523
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 195,
+									"y": 84,
+									"h": 676,
+									"w": 676
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212946922584961000,
+					"id_str": "1212946922584961024",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAzLQUcAABsRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAzLQUcAABsRR.jpg",
+					"url": "https://t.co/t6jsS9CNVm",
+					"display_url": "pic.twitter.com/t6jsS9CNVm",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946950221225985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 133,
+									"h": 301,
+									"w": 301
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 235,
+									"h": 531,
+									"w": 531
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 304,
+									"h": 687,
+									"w": 687
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 304,
+									"h": 687,
+									"w": 687
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212946933712470000,
+					"id_str": "1212946933712470017",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAz0tUwAEWFPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAz0tUwAEWFPc.jpg",
+					"url": "https://t.co/t6jsS9CNVm",
+					"display_url": "pic.twitter.com/t6jsS9CNVm",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946950221225985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 242,
+									"y": 588,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 368,
+									"y": 223,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 74,
+									"y": 28,
+									"h": 278,
+									"w": 278
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 552,
+									"y": 1341,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 840,
+									"y": 510,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 169,
+									"y": 66,
+									"h": 634,
+									"w": 634
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 552,
+									"y": 1341,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 840,
+									"y": 510,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 169,
+									"y": 66,
+									"h": 634,
+									"w": 634
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 1037,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 650,
+									"y": 394,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 130,
+									"y": 51,
+									"h": 490,
+									"w": 490
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1634,
+		"favorite_count": 1836,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/t6jsS9CNVm"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:16 +0000 2020",
+		"id": 1212946821590315000,
+		"id_str": "1213392693721567234",
+		"full_text": "https://t.co/7bZliXYYu0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212946789847842800,
+					"id_str": "1212946789847842817",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVArcxUwAEDTkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVArcxUwAEDTkx.jpg",
+					"url": "https://t.co/7bZliXYYu0",
+					"display_url": "pic.twitter.com/7bZliXYYu0",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946821590315008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 167,
+									"h": 447,
+									"w": 447
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 325,
+									"y": 217,
+									"h": 578,
+									"w": 578
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 325,
+									"y": 217,
+									"h": 578,
+									"w": 578
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 95,
+									"h": 253,
+									"w": 253
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212946789847842800,
+					"id_str": "1212946789847842817",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVArcxUwAEDTkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVArcxUwAEDTkx.jpg",
+					"url": "https://t.co/7bZliXYYu0",
+					"display_url": "pic.twitter.com/7bZliXYYu0",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946821590315008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 167,
+									"h": 447,
+									"w": 447
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 325,
+									"y": 217,
+									"h": 578,
+									"w": 578
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 325,
+									"y": 217,
+									"h": 578,
+									"w": 578
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 95,
+									"h": 253,
+									"w": 253
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212946797603082200,
+					"id_str": "1212946797603082240",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAr5qUUAAsfs7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAr5qUUAAsfs7.jpg",
+					"url": "https://t.co/7bZliXYYu0",
+					"display_url": "pic.twitter.com/7bZliXYYu0",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946821590315008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 397,
+									"h": 28,
+									"w": 28
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 544,
+									"y": 906,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 421,
+									"y": 701,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 544,
+									"y": 906,
+									"h": 66,
+									"w": 66
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212946805748453400,
+					"id_str": "1212946805748453376",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAsYAU0AAylWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAsYAU0AAylWV.jpg",
+					"url": "https://t.co/7bZliXYYu0",
+					"display_url": "pic.twitter.com/7bZliXYYu0",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946821590315008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 430,
+									"h": 26,
+									"w": 26
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 800,
+									"y": 980,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 619,
+									"y": 758,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 800,
+									"y": 980,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1212946819660927000,
+		"in_reply_to_status_id_str": "1212946819660926979",
+		"in_reply_to_user_id": 4388828839,
+		"in_reply_to_user_id_str": "4388828839",
+		"in_reply_to_screen_name": "sgsgom",
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1432,
+		"favorite_count": 2042,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/7bZliXYYu0"
+	},
+	{
+		"created_at": "Sat Jan 04 09:32:13 +0000 2020",
+		"id": 1212946819660927000,
+		"id_str": "1213392679796494337",
+		"full_text": "싸이코 포카 https://t.co/2Bp6eoHcvj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212946763016851500,
+					"id_str": "1212946763016851457",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAp40UUAEAtuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAp40UUAEAtuq.jpg",
+					"url": "https://t.co/2Bp6eoHcvj",
+					"display_url": "pic.twitter.com/2Bp6eoHcvj",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946819660926979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 525,
+									"h": 507,
+									"w": 507
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 133,
+									"y": 406,
+									"h": 392,
+									"w": 392
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 525,
+									"h": 507,
+									"w": 507
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 75,
+									"y": 230,
+									"h": 222,
+									"w": 222
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212946763016851500,
+					"id_str": "1212946763016851457",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAp40UUAEAtuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAp40UUAEAtuq.jpg",
+					"url": "https://t.co/2Bp6eoHcvj",
+					"display_url": "pic.twitter.com/2Bp6eoHcvj",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946819660926979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 525,
+									"h": 507,
+									"w": 507
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 133,
+									"y": 406,
+									"h": 392,
+									"w": 392
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 525,
+									"h": 507,
+									"w": 507
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 75,
+									"y": 230,
+									"h": 222,
+									"w": 222
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212946768977023000,
+					"id_str": "1212946768977022976",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAqPBVUAAYlwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAqPBVUAAYlwn.jpg",
+					"url": "https://t.co/2Bp6eoHcvj",
+					"display_url": "pic.twitter.com/2Bp6eoHcvj",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946819660926979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212946777990500400,
+					"id_str": "1212946777990500353",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVAqwmUEAEJebZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVAqwmUEAEJebZ.jpg",
+					"url": "https://t.co/2Bp6eoHcvj",
+					"display_url": "pic.twitter.com/2Bp6eoHcvj",
+					"expanded_url": "https://twitter.com/sgsgom/status/1212946819660926979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4388828839,
+			"id_str": "4388828839",
+			"name": "슬금슬금",
+			"screen_name": "sgsgom",
+			"location": "",
+			"description": "#SeulCANNER",
+			"url": "https://t.co/29MpVfRS54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29MpVfRS54",
+							"expanded_url": "http://sgsgom.tistory.com",
+							"display_url": "sgsgom.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31464,
+			"friends_count": 64,
+			"listed_count": 1228,
+			"created_at": "Sat Nov 28 13:51:27 +0000 2015",
+			"favourites_count": 14684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948944974216753152/WUSxAluK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4388828839/1561463317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17823,
+		"favorite_count": 18227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싸이코 포카 https://t.co/2Bp6eoHcvj"
+	},
+	{
+		"created_at": "Sat Jan 04 09:31:24 +0000 2020",
+		"id": 1213016519963115500,
+		"id_str": "1213392476993552384",
+		"full_text": "[공연안내] MIKA LIVE IN SEOUL 3월 4일 추가 공연 확정!\n#미카 #MIKA #LIVEINSEOUL\n.\n화려한 퍼포먼스, 독창적인 무대연출의 팝지니어스\n미카(MIKA) 내한공연 3월 4일 추가 공연 확정!\n🔔1월 10일 금요일 낮 12시 티켓오픈🔔 https://t.co/j9nGmYJoCh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미카",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "MIKA",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "LIVEINSEOUL",
+					"indices": [
+						52,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213016445312884700,
+					"id_str": "1213016445312884738",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1213016445312884738/pu/img/A7FDWBtEQUlQ15d7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1213016445312884738/pu/img/A7FDWBtEQUlQ15d7.jpg",
+					"url": "https://t.co/j9nGmYJoCh",
+					"display_url": "pic.twitter.com/j9nGmYJoCh",
+					"expanded_url": "https://twitter.com/privatecurve/status/1213016519963115522/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213016445312884700,
+					"id_str": "1213016445312884738",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1213016445312884738/pu/img/A7FDWBtEQUlQ15d7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1213016445312884738/pu/img/A7FDWBtEQUlQ15d7.jpg",
+					"url": "https://t.co/j9nGmYJoCh",
+					"display_url": "pic.twitter.com/j9nGmYJoCh",
+					"expanded_url": "https://twitter.com/privatecurve/status/1213016519963115522/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14760,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213016445312884738/pu/vid/1280x720/GlYL797UGWVBfZ9Q.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213016445312884738/pu/vid/480x270/crp7l_z-of_pHmQ_.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213016445312884738/pu/vid/640x360/9wIsaQRSuTyZ6AOi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1213016445312884738/pu/pl/F32dbIFvbUMOe1Fi.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116748623,
+			"id_str": "116748623",
+			"name": "PRIVATE CURVE",
+			"screen_name": "privatecurve",
+			"location": "seoul, korea",
+			"description": "The Beautiful Singer-Songwriter Series / Seoul Jazz Festival / The Artiste etc. | Entertainment",
+			"url": "http://t.co/R4SwAE3Ull",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/R4SwAE3Ull",
+							"expanded_url": "http://www.privatecurve.com",
+							"display_url": "privatecurve.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2966,
+			"friends_count": 76,
+			"listed_count": 94,
+			"created_at": "Tue Feb 23 13:14:51 +0000 2010",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E011C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116748623/1576206297",
+			"profile_link_color": "180133",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0E2F5",
+			"profile_text_color": "0D031F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[공연안내] MIKA LIVE IN SEOUL 3월 4일 추가 공연 확정!\n#미카 #MIKA #LIVEINSEOUL\n.\n화려한 퍼포먼스, 독창적인 무대연출의 팝지니어스\n미카(MIKA) 내한공연 3월 4일 추가 공연 확정!\n🔔1월 10일 금요일 낮 12시 티켓오픈🔔 https://t.co/j9nGmYJoCh"
+	},
+	{
+		"created_at": "Sat Jan 04 09:31:17 +0000 2020",
+		"id": 1213016212470292500,
+		"id_str": "1213392446169608193",
+		"full_text": "#황제의_귀환 \n한국 쇼트트랙의 간판 심석희 선수가 3일 서울시청에 입단했다. 심석희 선수는 팬들에게 “끝까지 믿고 응원해주셔서 감사하다”는 마음을 전했다. \nhttps://t.co/n80BvtDkp8 https://t.co/hGOV29Sw84",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "황제의_귀환",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n80BvtDkp8",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=310&aid=0000076243",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213016196871680000,
+					"id_str": "1213016196871680000",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ENV_zeFU8AAZjN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENV_zeFU8AAZjN7.jpg",
+					"url": "https://t.co/hGOV29Sw84",
+					"display_url": "pic.twitter.com/hGOV29Sw84",
+					"expanded_url": "https://twitter.com/wnewskr/status/1213016212470292481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1701,
+							"h": 1270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 624,
+									"y": 313,
+									"h": 438,
+									"w": 438
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 624,
+									"y": 313,
+									"h": 438,
+									"w": 438
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 440,
+									"y": 220,
+									"h": 308,
+									"w": 308
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 125,
+									"h": 175,
+									"w": 175
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213016196871680000,
+					"id_str": "1213016196871680000",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ENV_zeFU8AAZjN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENV_zeFU8AAZjN7.jpg",
+					"url": "https://t.co/hGOV29Sw84",
+					"display_url": "pic.twitter.com/hGOV29Sw84",
+					"expanded_url": "https://twitter.com/wnewskr/status/1213016212470292481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1701,
+							"h": 1270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 624,
+									"y": 313,
+									"h": 438,
+									"w": 438
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 624,
+									"y": 313,
+									"h": 438,
+									"w": 438
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 440,
+									"y": 220,
+									"h": 308,
+									"w": 308
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 125,
+									"h": 175,
+									"w": 175
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199605,
+			"friends_count": 3605,
+			"listed_count": 369,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 248,
+		"favorite_count": 212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#황제의_귀환 \n한국 쇼트트랙의 간판 심석희 선수가 3일 서울시청에 입단했다. 심석희 선수는 팬들에게 “끝까지 믿고 응원해주셔서 감사하다”는 마음을 전했다. \nhttps://t.co/n80BvtDkp8 https://t.co/hGOV29Sw84"
+	},
+	{
+		"created_at": "Sat Jan 04 09:30:43 +0000 2020",
+		"id": 1213392304960000000,
+		"id_str": "1213392304960000000",
+		"full_text": "나는 Google의 국제 관계 책임자였습니다. 이것이 내가 떠난 이유입니다.\nhttps://t.co/Iwb9z0MSIt\n#Google #구글 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Google",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "구글",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						79,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iwb9z0MSIt",
+					"expanded_url": "https://editoy.com/posts/11732",
+					"display_url": "editoy.com/posts/11732",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 878,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나는 Google의 국제 관계 책임자였습니다. 이것이 내가 떠난 이유입니다.\nhttps://t.co/Iwb9z0MSIt\n#Google #구글 #minfav"
+	},
+	{
+		"created_at": "Sat Jan 04 09:28:38 +0000 2020",
+		"id": 1210120698561122300,
+		"id_str": "1213391779069739008",
+		"full_text": "T-Clock Redux https://t.co/czSE4fD5Fx\n\n윈도우 작업표시줄에 연월일 표시하기, 윈도우에서 날짜 포맷 변경해서 표시하는 방법도 있는데 아이콘 작게 하면 표시 안되더군요. 램 상주, 시작 프로그램 도스 시절 부터 최소화 하는편인데 이거 그냥 써야될듯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/czSE4fD5Fx",
+					"expanded_url": "http://bit.ly/2EvTeu9",
+					"display_url": "bit.ly/2EvTeu9",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815050,
+			"id_str": "815050",
+			"name": "lunamoth",
+			"screen_name": "lunamoth",
+			"location": "Seoul, South Korea",
+			"description": "인생은 간단하지 않더군요. 탐정 소설이 아니라서요.",
+			"url": "https://t.co/Vr6uUkEjWu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vr6uUkEjWu",
+							"expanded_url": "http://lunamoth.com",
+							"display_url": "lunamoth.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1873,
+			"friends_count": 188,
+			"listed_count": 265,
+			"created_at": "Tue Mar 06 14:38:17 +0000 2007",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 203146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "799AC3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/812980440713732097/SpO2yaD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/812980440713732097/SpO2yaD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815050/1486344431",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E7F5F3",
+			"profile_text_color": "180B26",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "T-Clock Redux https://t.co/czSE4fD5Fx\n\n윈도우 작업표시줄에 연월일 표시하기, 윈도우에서 날짜 포맷 변경해서 표시하는 방법도 있는데 아이콘 작게 하면 표시 안되더군요. 램 상주, 시작 프로그램 도스 시절 부터 최소화 하는편인데 이거 그냥 써야될듯"
+	},
+	{
 		"created_at": "Sat Jan 04 07:40:37 +0000 2020",
 		"id": 1213352470203617300,
 		"id_str": "1213364597459243008",
