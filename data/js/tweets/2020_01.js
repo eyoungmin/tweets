@@ -1,6 +1,741 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 04:40:38 +0000 2020",
+		"id": 1213677039607144400,
+		"id_str": "1213681687571369984",
+		"full_text": "#본대로말하라 #차수영 #2월1일첫방 https://t.co/VN15BKfeBs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "차수영",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "2월1일첫방",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213676985811009500,
+					"id_str": "1213676985811009536",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1213676985811009536/pu/img/FqwRaWuYFfX4d1Xy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1213676985811009536/pu/img/FqwRaWuYFfX4d1Xy.jpg",
+					"url": "https://t.co/VN15BKfeBs",
+					"display_url": "pic.twitter.com/VN15BKfeBs",
+					"expanded_url": "https://twitter.com/sychoiofficial/status/1213677039607144450/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213676985811009500,
+					"id_str": "1213676985811009536",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1213676985811009536/pu/img/FqwRaWuYFfX4d1Xy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1213676985811009536/pu/img/FqwRaWuYFfX4d1Xy.jpg",
+					"url": "https://t.co/VN15BKfeBs",
+					"display_url": "pic.twitter.com/VN15BKfeBs",
+					"expanded_url": "https://twitter.com/sychoiofficial/status/1213677039607144450/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30292,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213676985811009536/pu/vid/480x270/eNhUuh0D6aqOt_Kh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1213676985811009536/pu/pl/p87hH4ywcFsSj9bI.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213676985811009536/pu/vid/640x360/WllSoTHjPC46qaGH.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075285323016335400,
+			"id_str": "1075285323016335360",
+			"name": "sooyoung choi",
+			"screen_name": "sychoiofficial",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55974,
+			"friends_count": 4,
+			"listed_count": 234,
+			"created_at": "Wed Dec 19 07:02:53 +0000 2018",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075285465853419521/TxH_pRQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075285465853419521/TxH_pRQZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 861,
+		"favorite_count": 1147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#본대로말하라 #차수영 #2월1일첫방 https://t.co/VN15BKfeBs"
+	},
+	{
+		"created_at": "Sun Jan 05 04:16:22 +0000 2020",
+		"id": 1213558134108754000,
+		"id_str": "1213675581935505409",
+		"full_text": "NYT의 두 영화평론가가 꼽은 2020 오스카상 부문별 후보 추천작들. [기생충]의 여배우들이 매우 대단히 굉장히 마음에 든 것 같다.  https://t.co/aj0r5dEaBp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aj0r5dEaBp",
+					"expanded_url": "https://www.nytimes.com/interactive/2020/01/03/movies/critics-oscar-nominees.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37586683,
+			"id_str": "37586683",
+			"name": "Nakho Kim",
+			"screen_name": "capcold",
+			"location": "Harrisburg, PA",
+			"description": "Researches media. Reads comics. Embraces stupidity.\n기회는 공정하게, 과정은 정의롭게, 결과는 평등하게.",
+			"url": "https://t.co/jlgpmpTdEJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jlgpmpTdEJ",
+							"expanded_url": "http://capcold.net/blog",
+							"display_url": "capcold.net/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71763,
+			"friends_count": 177,
+			"listed_count": 572,
+			"created_at": "Mon May 04 03:42:08 +0000 2009",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C1C1C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1842341898/turn_capcold_vslow_bigger_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1842341898/turn_capcold_vslow_bigger_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37586683/1575052627",
+			"profile_link_color": "6B6B6B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 41,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NYT의 두 영화평론가가 꼽은 2020 오스카상 부문별 후보 추천작들. [기생충]의 여배우들이 매우 대단히 굉장히 마음에 든 것 같다.  https://t.co/aj0r5dEaBp"
+	},
+	{
+		"created_at": "Sun Jan 05 04:16:09 +0000 2020",
+		"id": 1213675527808020500,
+		"id_str": "1213675527808020480",
+		"full_text": "디스코드에도 포켓몬 관련 봇들이 여럿 있다. \n\nhttps://t.co/uqfMDtETky\n그 중 포켓코드는 데이터 정리가 정말 잘 되어 있고 포켓몬을 잡을 수 있는 게임도 만들어져 있다. \n\n#디스코드 #Discord #minfav https://t.co/TgHNT21BhY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디스코드",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "Discord",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uqfMDtETky",
+					"expanded_url": "https://top.gg/bot/pokecord",
+					"display_url": "top.gg/bot/pokecord",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/TgHNT21BhY",
+					"expanded_url": "https://twitter.com/nacyo_t/status/1213625383469248513",
+					"display_url": "twitter.com/nacyo_t/status…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 878,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213625383469248500,
+		"quoted_status_id_str": "1213625383469248513",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TgHNT21BhY",
+			"expanded": "https://twitter.com/nacyo_t/status/1213625383469248513",
+			"display": "twitter.com/nacyo_t/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 05 00:56:54 +0000 2020",
+			"id": 1213625383469248500,
+			"id_str": "1213625383469248513",
+			"full_text": "Notion Pokédex\n한참 화제가 됐던 Notion으로 만든 포켓몬 도감. 그런데 잘 생각해보면 이건 문서가 아니라 그냥 이 페이지 자체가 노션으로 만든 no-code '애플리케이션'이다.\nhttps://t.co/kdcUzXLdfm \n\n그리고 그 뒤에는 정말로 데이터베이스가 있음.\nhttps://t.co/bKQv4QEm55",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kdcUzXLdfm",
+						"expanded_url": "https://www.notion.so/Notion-Pok-dex-51870ff555ce43ef857d4c5e6b8caad6",
+						"display_url": "notion.so/Notion-Pok-dex…",
+						"indices": [
+							109,
+							132
+						]
+					},
+					{
+						"url": "https://t.co/bKQv4QEm55",
+						"expanded_url": "https://www.notion.so/2cdeed6e2db94738976746b92e3b3205?v=2e12e1c78ee1469f8c7e72bccd4379d2",
+						"display_url": "notion.so/2cdeed6e2db947…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1213620435633336300,
+			"in_reply_to_status_id_str": "1213620435633336321",
+			"in_reply_to_user_id": 3836093954,
+			"in_reply_to_user_id_str": "3836093954",
+			"in_reply_to_screen_name": "nacyo_t",
+			"user": {
+				"id": 3836093954,
+				"id_str": "3836093954",
+				"name": "Daegwon Nacyot Kim",
+				"screen_name": "nacyo_t",
+				"location": "Republic of Korea",
+				"description": "프로그래머, 클라우드 엔지니어\n\n📝 클라우드 블로그\n@fortyfourbits, https://t.co/3aLgn8VB4A 운영\n\n🎧 개발자 팟캐스트\n@stdoutfm, https://t.co/XsEKuOFM6b 참여\n\n💸 투자 이야기는 @nacyo__t",
+				"url": "https://t.co/pxkzz9EYyA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pxkzz9EYyA",
+								"expanded_url": "https://44bits.io",
+								"display_url": "44bits.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3aLgn8VB4A",
+								"expanded_url": "http://44bits.io",
+								"display_url": "44bits.io",
+								"indices": [
+									45,
+									68
+								]
+							},
+							{
+								"url": "https://t.co/XsEKuOFM6b",
+								"expanded_url": "http://stdout.fm",
+								"display_url": "stdout.fm",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 611,
+				"friends_count": 141,
+				"listed_count": 13,
+				"created_at": "Fri Oct 09 12:00:47 +0000 2015",
+				"favourites_count": 3053,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3956,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/992819582841716736/yWipjD3C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/992819582841716736/yWipjD3C_normal.jpg",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디스코드에도 포켓몬 관련 봇들이 여럿 있다. \n\nhttps://t.co/uqfMDtETky\n그 중 포켓코드는 데이터 정리가 정말 잘 되어 있고 포켓몬을 잡을 수 있는 게임도 만들어져 있다. \n\n#디스코드 #Discord #minfav https://t.co/TgHNT21BhY"
+	},
+	{
+		"created_at": "Sun Jan 05 04:08:30 +0000 2020",
+		"id": 1213625383469248500,
+		"id_str": "1213673604568600576",
+		"full_text": "Notion Pokédex\n한참 화제가 됐던 Notion으로 만든 포켓몬 도감. 그런데 잘 생각해보면 이건 문서가 아니라 그냥 이 페이지 자체가 노션으로 만든 no-code '애플리케이션'이다.\nhttps://t.co/kdcUzXLdfm \n\n그리고 그 뒤에는 정말로 데이터베이스가 있음.\nhttps://t.co/bKQv4QEm55",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kdcUzXLdfm",
+					"expanded_url": "https://www.notion.so/Notion-Pok-dex-51870ff555ce43ef857d4c5e6b8caad6",
+					"display_url": "notion.so/Notion-Pok-dex…",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/bKQv4QEm55",
+					"expanded_url": "https://www.notion.so/2cdeed6e2db94738976746b92e3b3205?v=2e12e1c78ee1469f8c7e72bccd4379d2",
+					"display_url": "notion.so/2cdeed6e2db947…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1213620435633336300,
+		"in_reply_to_status_id_str": "1213620435633336321",
+		"in_reply_to_user_id": 3836093954,
+		"in_reply_to_user_id_str": "3836093954",
+		"in_reply_to_screen_name": "nacyo_t",
+		"user": {
+			"id": 3836093954,
+			"id_str": "3836093954",
+			"name": "Daegwon Nacyot Kim",
+			"screen_name": "nacyo_t",
+			"location": "Republic of Korea",
+			"description": "프로그래머, 클라우드 엔지니어\n\n📝 클라우드 블로그\n@fortyfourbits, https://t.co/3aLgn8VB4A 운영\n\n🎧 개발자 팟캐스트\n@stdoutfm, https://t.co/XsEKuOFM6b 참여\n\n💸 투자 이야기는 @nacyo__t",
+			"url": "https://t.co/pxkzz9EYyA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pxkzz9EYyA",
+							"expanded_url": "https://44bits.io",
+							"display_url": "44bits.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3aLgn8VB4A",
+							"expanded_url": "http://44bits.io",
+							"display_url": "44bits.io",
+							"indices": [
+								45,
+								68
+							]
+						},
+						{
+							"url": "https://t.co/XsEKuOFM6b",
+							"expanded_url": "http://stdout.fm",
+							"display_url": "stdout.fm",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 611,
+			"friends_count": 141,
+			"listed_count": 13,
+			"created_at": "Fri Oct 09 12:00:47 +0000 2015",
+			"favourites_count": 3053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992819582841716736/yWipjD3C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992819582841716736/yWipjD3C_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Notion Pokédex\n한참 화제가 됐던 Notion으로 만든 포켓몬 도감. 그런데 잘 생각해보면 이건 문서가 아니라 그냥 이 페이지 자체가 노션으로 만든 no-code '애플리케이션'이다.\nhttps://t.co/kdcUzXLdfm \n\n그리고 그 뒤에는 정말로 데이터베이스가 있음.\nhttps://t.co/bKQv4QEm55"
+	},
+	{
 		"created_at": "Sun Jan 05 03:46:32 +0000 2020",
 		"id": 1213668076383694800,
 		"id_str": "1213668076383694848",
