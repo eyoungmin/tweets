@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 01:22:09 +0000 2020",
+		"id": 1213631740897583000,
+		"id_str": "1213631740897583104",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘킬 디스 러브’ 뮤비, 7억뷰 돌파…새해에도 신기록 행진은 계속\nhttps://t.co/P9XZl8RKva\n#블랙핑크 #BLACKPINK https://t.co/ycWVhpHlXc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P9XZl8RKva",
+					"expanded_url": "https://yg-life.com/archives/144977?lang=ko",
+					"display_url": "yg-life.com/archives/14497…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213631739211452400,
+					"id_str": "1213631739211452417",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ENevov_WkAE_sQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENevov_WkAE_sQj.jpg",
+					"url": "https://t.co/ycWVhpHlXc",
+					"display_url": "pic.twitter.com/ycWVhpHlXc",
+					"expanded_url": "https://twitter.com/fromminn/status/1213631740897583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 496,
+									"y": 397,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 373,
+									"y": 399,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 160,
+									"y": 403,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 252,
+									"y": 404,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 329,
+									"y": 263,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 247,
+									"y": 265,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 106,
+									"y": 267,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 167,
+									"y": 268,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 496,
+									"y": 397,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 373,
+									"y": 399,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 160,
+									"y": 403,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 252,
+									"y": 404,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 496,
+									"y": 397,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 373,
+									"y": 399,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 160,
+									"y": 403,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 252,
+									"y": 404,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213631739211452400,
+					"id_str": "1213631739211452417",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ENevov_WkAE_sQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENevov_WkAE_sQj.jpg",
+					"url": "https://t.co/ycWVhpHlXc",
+					"display_url": "pic.twitter.com/ycWVhpHlXc",
+					"expanded_url": "https://twitter.com/fromminn/status/1213631740897583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 496,
+									"y": 397,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 373,
+									"y": 399,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 160,
+									"y": 403,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 252,
+									"y": 404,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 329,
+									"y": 263,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 247,
+									"y": 265,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 106,
+									"y": 267,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 167,
+									"y": 268,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 496,
+									"y": 397,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 373,
+									"y": 399,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 160,
+									"y": 403,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 252,
+									"y": 404,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 496,
+									"y": 397,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 373,
+									"y": 399,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 160,
+									"y": 403,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 252,
+									"y": 404,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 878,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘킬 디스 러브’ 뮤비, 7억뷰 돌파…새해에도 신기록 행진은 계속\nhttps://t.co/P9XZl8RKva\n#블랙핑크 #BLACKPINK https://t.co/ycWVhpHlXc"
+	},
+	{
 		"created_at": "Sat Jan 04 19:18:01 +0000 2020",
 		"id": 1213421980373799000,
 		"id_str": "1213540102237872128",
