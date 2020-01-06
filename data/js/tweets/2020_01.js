@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 17:54:50 +0000 2020",
+		"id": 1214113426143764500,
+		"id_str": "1214243942457208832",
+		"full_text": "[#윤하]\n[영상📺]\n윤하 (YOUNHA) 먹구름 LIVE 이 정도면 ☁ ☔날씨 노래 대통령⭐ l 오아시스라이브ㅣ\n\n▶ https://t.co/y9KJcUEsEI\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "혜성은_지지않는다",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "윤하_홀릭스",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "UNSTABLEMINDSET",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "먹구름",
+					"indices": [
+						138,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y9KJcUEsEI",
+					"expanded_url": "https://youtu.be/uwbJhI1o_7E",
+					"display_url": "youtu.be/uwbJhI1o_7E",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606957082,
+			"id_str": "606957082",
+			"name": "C9 Entertainment",
+			"screen_name": "OfficialC9ent",
+			"location": "",
+			"description": "C9 Entertainment Official Twitter",
+			"url": "https://t.co/E7zBZFtH5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7zBZFtH5a",
+							"expanded_url": "http://www.c9ent.co.kr",
+							"display_url": "c9ent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139538,
+			"friends_count": 8,
+			"listed_count": 505,
+			"created_at": "Wed Jun 13 06:37:47 +0000 2012",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606957082/1544780003",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 196,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤하]\n[영상📺]\n윤하 (YOUNHA) 먹구름 LIVE 이 정도면 ☁ ☔날씨 노래 대통령⭐ l 오아시스라이브ㅣ\n\n▶ https://t.co/y9KJcUEsEI\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름"
+	},
+	{
+		"created_at": "Mon Jan 06 17:54:41 +0000 2020",
+		"id": 1214110869027618800,
+		"id_str": "1214243906021253120",
+		"full_text": "[#윤하]\n윤하(YOUNHA) - '먹구름' Music Video\n\nYOUTUBE\n▶ https://t.co/LKZjsv9GUq\nVLIVE\n▶ https://t.co/jjb8TvtRWU\n네이버TV\n▶ https://t.co/t61ElVi6yO\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET  #먹구름 https://t.co/ukVENySeKu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "혜성은_지지않는다",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "윤하_홀릭스",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"text": "UNSTABLEMINDSET",
+					"indices": [
+						166,
+						182
+					]
+				},
+				{
+					"text": "먹구름",
+					"indices": [
+						184,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LKZjsv9GUq",
+					"expanded_url": "https://youtu.be/ujDjYMNXcsw",
+					"display_url": "youtu.be/ujDjYMNXcsw",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/jjb8TvtRWU",
+					"expanded_url": "https://www.vlive.tv/video/169116",
+					"display_url": "vlive.tv/video/169116",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/t61ElVi6yO",
+					"expanded_url": "https://tv.naver.com/v/11768579",
+					"display_url": "tv.naver.com/v/11768579",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214110858143391700,
+					"id_str": "1214110858143391744",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/ENljZJGU4AA_piN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENljZJGU4AA_piN.jpg",
+					"url": "https://t.co/ukVENySeKu",
+					"display_url": "pic.twitter.com/ukVENySeKu",
+					"expanded_url": "https://twitter.com/OfficialC9ent/status/1214110869027618816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 89,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 306,
+									"y": 99,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 158,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 540,
+									"y": 175,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 253,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 864,
+									"y": 281,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 253,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 864,
+									"y": 281,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214110858143391700,
+					"id_str": "1214110858143391744",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/ENljZJGU4AA_piN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENljZJGU4AA_piN.jpg",
+					"url": "https://t.co/ukVENySeKu",
+					"display_url": "pic.twitter.com/ukVENySeKu",
+					"expanded_url": "https://twitter.com/OfficialC9ent/status/1214110869027618816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 89,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 306,
+									"y": 99,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 158,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 540,
+									"y": 175,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 253,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 864,
+									"y": 281,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 253,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 864,
+									"y": 281,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606957082,
+			"id_str": "606957082",
+			"name": "C9 Entertainment",
+			"screen_name": "OfficialC9ent",
+			"location": "",
+			"description": "C9 Entertainment Official Twitter",
+			"url": "https://t.co/E7zBZFtH5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7zBZFtH5a",
+							"expanded_url": "http://www.c9ent.co.kr",
+							"display_url": "c9ent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139538,
+			"friends_count": 8,
+			"listed_count": 505,
+			"created_at": "Wed Jun 13 06:37:47 +0000 2012",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606957082/1544780003",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 636,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤하]\n윤하(YOUNHA) - '먹구름' Music Video\n\nYOUTUBE\n▶ https://t.co/LKZjsv9GUq\nVLIVE\n▶ https://t.co/jjb8TvtRWU\n네이버TV\n▶ https://t.co/t61ElVi6yO\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET  #먹구름 https://t.co/ukVENySeKu"
+	},
+	{
 		"created_at": "Mon Jan 06 15:08:28 +0000 2020",
 		"id": 1214202074885447700,
 		"id_str": "1214202074885447685",
