@@ -1,6 +1,2089 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 08:00:27 +0000 2020",
+		"id": 1214048949964722200,
+		"id_str": "1214094361157201920",
+		"full_text": "소설가 김금희가 이상문학상 우수상을 거부했다. 소설가 최은영과 이기호도 상을 받지 않겠다는 뜻을 밝혔다\nhttps://t.co/JbDRg1tHWR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JbDRg1tHWR",
+					"expanded_url": "http://www.hani.co.kr/arti/culture/book/923300.html",
+					"display_url": "hani.co.kr/arti/culture/b…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문 한겨레 공식 트위터입니다.",
+			"url": "http://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560445,
+			"friends_count": 143488,
+			"listed_count": 7714,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소설가 김금희가 이상문학상 우수상을 거부했다. 소설가 최은영과 이기호도 상을 받지 않겠다는 뜻을 밝혔다\nhttps://t.co/JbDRg1tHWR"
+	},
+	{
+		"created_at": "Mon Jan 06 07:57:02 +0000 2020",
+		"id": 1214013912477139000,
+		"id_str": "1214093504080515072",
+		"full_text": "'고객 46만명 정보 유출' 하나투어에 벌금 1천만원\nhttps://t.co/FQGS46OWJV\n\n소홀한 관리로 대규모 고객정보 유출 사건을 일으켰던 여행 알선업체 하나투어의 개인정보 관리책임자와 법인에 벌금 1천만원씩이 선고됐습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FQGS46OWJV",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200106065600004?input=tw",
+					"display_url": "yna.co.kr/view/AKR202001…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 306888,
+			"friends_count": 72406,
+			"listed_count": 4754,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 201724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'고객 46만명 정보 유출' 하나투어에 벌금 1천만원\nhttps://t.co/FQGS46OWJV\n\n소홀한 관리로 대규모 고객정보 유출 사건을 일으켰던 여행 알선업체 하나투어의 개인정보 관리책임자와 법인에 벌금 1천만원씩이 선고됐습니다."
+	},
+	{
+		"created_at": "Mon Jan 06 07:55:39 +0000 2020",
+		"id": 1214001139294695400,
+		"id_str": "1214093154279772160",
+		"full_text": "출판사들은 이렇게 묶여진 수상 작품집을 통해 상당한 수익을 거둡니다. 작가의 이름을 건 상이 출판사의 캐쉬카우가 되는 셈이지요. 이 수익은 당연히 작가들에게 돌아가야 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1213999296309129200,
+		"in_reply_to_status_id_str": "1213999296309129216",
+		"in_reply_to_user_id": 1385060144,
+		"in_reply_to_user_id_str": "1385060144",
+		"in_reply_to_screen_name": "redink98",
+		"user": {
+			"id": 1385060144,
+			"id_str": "1385060144",
+			"name": "소이연",
+			"screen_name": "redink98",
+			"location": "",
+			"description": "뭔가 쓰려고 하는데 말을 더 많이 하게 된다...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 376,
+			"listed_count": 7,
+			"created_at": "Sat Apr 27 17:37:09 +0000 2013",
+			"favourites_count": 2404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195336938556772353/EsUGbUaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195336938556772353/EsUGbUaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1385060144/1573826236",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "출판사들은 이렇게 묶여진 수상 작품집을 통해 상당한 수익을 거둡니다. 작가의 이름을 건 상이 출판사의 캐쉬카우가 되는 셈이지요. 이 수익은 당연히 작가들에게 돌아가야 합니다."
+	},
+	{
+		"created_at": "Mon Jan 06 07:55:33 +0000 2020",
+		"id": 1213999296309129200,
+		"id_str": "1214093130409996288",
+		"full_text": "저작권 등 작가들의 노동과 권리를 애매한 관례를 거명하며 전유하는 경우가 너무 많아요. 얼마 전 신춘문예 시 수상자들이 문학세계사 수록 거부 선언한 것도 유사한 맥락입니다. \n용기있는 작가들에게 지지와 응원 전합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1213998640009580500,
+		"in_reply_to_status_id_str": "1213998640009580544",
+		"in_reply_to_user_id": 1385060144,
+		"in_reply_to_user_id_str": "1385060144",
+		"in_reply_to_screen_name": "redink98",
+		"user": {
+			"id": 1385060144,
+			"id_str": "1385060144",
+			"name": "소이연",
+			"screen_name": "redink98",
+			"location": "",
+			"description": "뭔가 쓰려고 하는데 말을 더 많이 하게 된다...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 376,
+			"listed_count": 7,
+			"created_at": "Sat Apr 27 17:37:09 +0000 2013",
+			"favourites_count": 2404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195336938556772353/EsUGbUaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195336938556772353/EsUGbUaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1385060144/1573826236",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저작권 등 작가들의 노동과 권리를 애매한 관례를 거명하며 전유하는 경우가 너무 많아요. 얼마 전 신춘문예 시 수상자들이 문학세계사 수록 거부 선언한 것도 유사한 맥락입니다. \n용기있는 작가들에게 지지와 응원 전합니다."
+	},
+	{
+		"created_at": "Mon Jan 06 07:55:26 +0000 2020",
+		"id": 1213998640009580500,
+		"id_str": "1214093099040833536",
+		"full_text": "요. 심사 과정도 불투명한 거지요. 관례를 거론하며 작가에게 정당한 대가를 지불하지 않는 관습은 사라져야 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1213998612750856200,
+		"in_reply_to_status_id_str": "1213998612750856192",
+		"in_reply_to_user_id": 1385060144,
+		"in_reply_to_user_id_str": "1385060144",
+		"in_reply_to_screen_name": "redink98",
+		"user": {
+			"id": 1385060144,
+			"id_str": "1385060144",
+			"name": "소이연",
+			"screen_name": "redink98",
+			"location": "",
+			"description": "뭔가 쓰려고 하는데 말을 더 많이 하게 된다...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 376,
+			"listed_count": 7,
+			"created_at": "Sat Apr 27 17:37:09 +0000 2013",
+			"favourites_count": 2404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195336938556772353/EsUGbUaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195336938556772353/EsUGbUaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1385060144/1573826236",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "요. 심사 과정도 불투명한 거지요. 관례를 거론하며 작가에게 정당한 대가를 지불하지 않는 관습은 사라져야 합니다."
+	},
+	{
+		"created_at": "Mon Jan 06 07:55:24 +0000 2020",
+		"id": 1213998612750856200,
+		"id_str": "1214093091755347969",
+		"full_text": "김금희 작가의 이상문학상 수상 거부 지지합니다. 문학사상은 평론가들에게 이상문학상 후보 추천 청탁 메일을 매년 보내고 있는데요, 물론 아무런 수수료도 지불하지 않고 있습니다.(다른 곳은 심사참여자를 절차대로 선정하고 당연히 그에 따른 심사비를 제공합니다) 저는 한번도 답장해본적이 없구",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1385060144,
+			"id_str": "1385060144",
+			"name": "소이연",
+			"screen_name": "redink98",
+			"location": "",
+			"description": "뭔가 쓰려고 하는데 말을 더 많이 하게 된다...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 376,
+			"listed_count": 7,
+			"created_at": "Sat Apr 27 17:37:09 +0000 2013",
+			"favourites_count": 2404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195336938556772353/EsUGbUaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195336938556772353/EsUGbUaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1385060144/1573826236",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 901,
+		"favorite_count": 445,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "김금희 작가의 이상문학상 수상 거부 지지합니다. 문학사상은 평론가들에게 이상문학상 후보 추천 청탁 메일을 매년 보내고 있는데요, 물론 아무런 수수료도 지불하지 않고 있습니다.(다른 곳은 심사참여자를 절차대로 선정하고 당연히 그에 따른 심사비를 제공합니다) 저는 한번도 답장해본적이 없구"
+	},
+	{
+		"created_at": "Mon Jan 06 07:54:28 +0000 2020",
+		"id": 1214014749605654500,
+		"id_str": "1214092856702275584",
+		"full_text": "그룹 트와이스의 맴버 지효가 팬들과 소통하던 중 '웅앵웅'이라는 단어를 사용하자 일부 남성 네티즌들이 명백한 남성혐오적 표현이라며 비판하고 나섰다. 이를 본 다른 네티즌들은 해당 단어 어디에 남성 혐오적인 의미가 있냐며 의문을 표했다.\nhttps://t.co/djfco9yl03 https://t.co/PQex7WH30D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/djfco9yl03",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=310&aid=0000076257",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214014630529360000,
+					"id_str": "1214014630529359873",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ENkL39TUYAE_XCE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENkL39TUYAE_XCE.jpg",
+					"url": "https://t.co/PQex7WH30D",
+					"display_url": "pic.twitter.com/PQex7WH30D",
+					"expanded_url": "https://twitter.com/wnewskr/status/1214014749605654528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1615,
+							"h": 1615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 186,
+									"h": 611,
+									"w": 611
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 186,
+									"h": 611,
+									"w": 611
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 205,
+									"y": 78,
+									"h": 257,
+									"w": 257
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 362,
+									"y": 138,
+									"h": 453,
+									"w": 453
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214014630529360000,
+					"id_str": "1214014630529359873",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ENkL39TUYAE_XCE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENkL39TUYAE_XCE.jpg",
+					"url": "https://t.co/PQex7WH30D",
+					"display_url": "pic.twitter.com/PQex7WH30D",
+					"expanded_url": "https://twitter.com/wnewskr/status/1214014749605654528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1615,
+							"h": 1615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 186,
+									"h": 611,
+									"w": 611
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 186,
+									"h": 611,
+									"w": 611
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 205,
+									"y": 78,
+									"h": 257,
+									"w": 257
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 362,
+									"y": 138,
+									"h": 453,
+									"w": 453
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199616,
+			"friends_count": 3606,
+			"listed_count": 368,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3135,
+		"favorite_count": 512,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그룹 트와이스의 맴버 지효가 팬들과 소통하던 중 '웅앵웅'이라는 단어를 사용하자 일부 남성 네티즌들이 명백한 남성혐오적 표현이라며 비판하고 나섰다. 이를 본 다른 네티즌들은 해당 단어 어디에 남성 혐오적인 의미가 있냐며 의문을 표했다.\nhttps://t.co/djfco9yl03 https://t.co/PQex7WH30D"
+	},
+	{
+		"created_at": "Mon Jan 06 07:53:27 +0000 2020",
+		"id": 1214065234924621800,
+		"id_str": "1214092599302082560",
+		"full_text": "#슬로워크의_일\n대관령음악제(@mpyc_kr)는 대관령 일대의 아름다운 경치와 잔잔한 분위기에서 클래식 공연을 즐기는 음악제예요. 대관령의 자연, 고품격, 휴식이라는 핵심 키워드를 반영해 이번 프로젝트를 진행했습니다. 대관령 음악제만의 특별함을 느껴보세요🙌\nhttps://t.co/qEqKCKACdN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬로워크의_일",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mpyc_kr",
+					"name": "평창대관령음악제",
+					"id": 148859929,
+					"id_str": "148859929",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qEqKCKACdN",
+					"expanded_url": "https://slowalk.tistory.com/2610",
+					"display_url": "slowalk.tistory.com/2610",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5007,
+			"friends_count": 3463,
+			"listed_count": 226,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬로워크의_일\n대관령음악제(@mpyc_kr)는 대관령 일대의 아름다운 경치와 잔잔한 분위기에서 클래식 공연을 즐기는 음악제예요. 대관령의 자연, 고품격, 휴식이라는 핵심 키워드를 반영해 이번 프로젝트를 진행했습니다. 대관령 음악제만의 특별함을 느껴보세요🙌\nhttps://t.co/qEqKCKACdN"
+	},
+	{
+		"created_at": "Mon Jan 06 07:42:39 +0000 2020",
+		"id": 1213997837270179800,
+		"id_str": "1214089883658022912",
+		"full_text": "Parasite (South Korea) - Best Motion Picture - Foreign Language. Photo by Alexi Lubomirski (@alexilubomirski). #GoldenGlobes https://t.co/rRSi89ZJBH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenGlobes",
+					"indices": [
+						111,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexiLubomirski",
+					"name": "Alexi Lubomirski",
+					"id": 92494865,
+					"id_str": "92494865",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213997831322652700,
+					"id_str": "1213997831322652673",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ENj8mHYU0AE8gQW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENj8mHYU0AE8gQW.jpg",
+					"url": "https://t.co/rRSi89ZJBH",
+					"display_url": "pic.twitter.com/rRSi89ZJBH",
+					"expanded_url": "https://twitter.com/goldenglobes/status/1213997837270179842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1292,
+									"y": 1800,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 900,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 378,
+									"y": 527,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 214,
+									"y": 298,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213997831322652700,
+					"id_str": "1213997831322652673",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ENj8mHYU0AE8gQW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENj8mHYU0AE8gQW.jpg",
+					"url": "https://t.co/rRSi89ZJBH",
+					"display_url": "pic.twitter.com/rRSi89ZJBH",
+					"expanded_url": "https://twitter.com/goldenglobes/status/1213997837270179842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1292,
+									"y": 1800,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 900,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 378,
+									"y": 527,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 214,
+									"y": 298,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18667907,
+			"id_str": "18667907",
+			"name": "Golden Globe Awards",
+			"screen_name": "goldenglobes",
+			"location": "Los Angeles, California",
+			"description": "The Official Twitter Account for the Hollywood Foreign Press Association (HFPA) and the Golden Globe® Awards.",
+			"url": "https://t.co/l079QFNhrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l079QFNhrF",
+							"expanded_url": "http://www.goldenglobes.com",
+							"display_url": "goldenglobes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1312342,
+			"friends_count": 257,
+			"listed_count": 5673,
+			"created_at": "Tue Jan 06 08:59:41 +0000 2009",
+			"favourites_count": 761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084164700378521600/K4wEiiR6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084164700378521600/K4wEiiR6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18667907/1577984635",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F0D4",
+			"profile_text_color": "444444",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13976,
+		"favorite_count": 25399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Parasite (South Korea) - Best Motion Picture - Foreign Language. Photo by Alexi Lubomirski (@alexilubomirski). #GoldenGlobes https://t.co/rRSi89ZJBH"
+	},
+	{
+		"created_at": "Mon Jan 06 07:40:37 +0000 2020",
+		"id": 1214080164956536800,
+		"id_str": "1214089373093974016",
+		"full_text": "연말 시상식 속 레드벨벳 모아보기👀👇\n\nhttps://t.co/dhG7RSaVDq\nhttps://t.co/xxLdCaeqM9\nhttps://t.co/eQW6vsnMnw\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #FinaleWithPsycho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						117,
+						139
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						140,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dhG7RSaVDq",
+					"expanded_url": "https://youtu.be/dq9lo6irIgw",
+					"display_url": "youtu.be/dq9lo6irIgw",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/xxLdCaeqM9",
+					"expanded_url": "https://youtu.be/eyFz-vDe2mA",
+					"display_url": "youtu.be/eyFz-vDe2mA",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/eQW6vsnMnw",
+					"expanded_url": "https://youtu.be/xoSQUNnDIX8",
+					"display_url": "youtu.be/xoSQUNnDIX8",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2125545,
+			"friends_count": 2,
+			"listed_count": 6347,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2866,
+		"favorite_count": 7162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연말 시상식 속 레드벨벳 모아보기👀👇\n\nhttps://t.co/dhG7RSaVDq\nhttps://t.co/xxLdCaeqM9\nhttps://t.co/eQW6vsnMnw\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #FinaleWithPsycho"
+	},
+	{
+		"created_at": "Mon Jan 06 07:40:03 +0000 2020",
+		"id": 1214089228738388000,
+		"id_str": "1214089228738387969",
+		"full_text": "그플 펀딩 금액이 어마어마 하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그플 펀딩 금액이 어마어마 하다."
+	},
+	{
+		"created_at": "Mon Jan 06 07:39:44 +0000 2020",
+		"id": 1213998276631883800,
+		"id_str": "1214089147750600704",
+		"full_text": "오늘 오후 2시! \n'그린플러그드 서울 2020' 크라우드펀딩이 오픈됩니다.\n\n공연과 더불어 다양한 혜택까지, '그린플러그드 서울 2020'을 더욱 특별하게 즐길 수 있어요! \n오후 2시, 잊지말고 함께해주세요💚\n\n-와디즈 회원가입 후 계좌 개설만 하면 투자 가능\n\n참여하기➡\nhttps://t.co/HdN0mGJ7Pw https://t.co/PggdFVPZZs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HdN0mGJ7Pw",
+					"expanded_url": "https://bit.ly/2tv4nLW",
+					"display_url": "bit.ly/2tv4nLW",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213998269853888500,
+					"id_str": "1213998269853888512",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ENj8_pCUcAAZxRU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENj8_pCUcAAZxRU.jpg",
+					"url": "https://t.co/PggdFVPZZs",
+					"display_url": "pic.twitter.com/PggdFVPZZs",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1213998276631883776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213998269853888500,
+					"id_str": "1213998269853888512",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ENj8_pCUcAAZxRU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENj8_pCUcAAZxRU.jpg",
+					"url": "https://t.co/PggdFVPZZs",
+					"display_url": "pic.twitter.com/PggdFVPZZs",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1213998276631883776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12374,
+			"friends_count": 166,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 오후 2시! \n'그린플러그드 서울 2020' 크라우드펀딩이 오픈됩니다.\n\n공연과 더불어 다양한 혜택까지, '그린플러그드 서울 2020'을 더욱 특별하게 즐길 수 있어요! \n오후 2시, 잊지말고 함께해주세요💚\n\n-와디즈 회원가입 후 계좌 개설만 하면 투자 가능\n\n참여하기➡\nhttps://t.co/HdN0mGJ7Pw https://t.co/PggdFVPZZs"
+	},
+	{
+		"created_at": "Mon Jan 06 07:38:31 +0000 2020",
+		"id": 1213990886616359000,
+		"id_str": "1214088842275221505",
+		"full_text": "롤링스톤즈의 미공개 녹음본 75개가 유튜브에 잠시 올려졌다 비공개로 전환 https://t.co/qRDEAHALUP \nEU의 저작권법상 녹음된 음악들은 기본 50년을 보호받게 되지만, 추가로 20년을 더 보호 받기 위해 12월 31일 저녁에 유튜브에 올렸다가 1월 1일에 비공개 처리. \n2013년에 \"비틀즈 부트렉...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qRDEAHALUP",
+					"expanded_url": "http://j.mp/39Hvsfz",
+					"display_url": "j.mp/39Hvsfz",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다.",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1828,
+			"friends_count": 0,
+			"listed_count": 33,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "롤링스톤즈의 미공개 녹음본 75개가 유튜브에 잠시 올려졌다 비공개로 전환 https://t.co/qRDEAHALUP \nEU의 저작권법상 녹음된 음악들은 기본 50년을 보호받게 되지만, 추가로 20년을 더 보호 받기 위해 12월 31일 저녁에 유튜브에 올렸다가 1월 1일에 비공개 처리. \n2013년에 \"비틀즈 부트렉..."
+	},
+	{
+		"created_at": "Mon Jan 06 07:31:59 +0000 2020",
+		"id": 1214087200163238000,
+		"id_str": "1214087200163237889",
+		"full_text": "불공정이용에 사용하는 것. 편법으로 누군가와의 경쟁에서 부당하게 취득하는 것. 그것이 나쁜 것이다. 예술에도 기술이 접목된다. 더 멋진 것을 만들어내는 시너지가 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1214086210584375300,
+		"in_reply_to_status_id_str": "1214086210584375296",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "불공정이용에 사용하는 것. 편법으로 누군가와의 경쟁에서 부당하게 취득하는 것. 그것이 나쁜 것이다. 예술에도 기술이 접목된다. 더 멋진 것을 만들어내는 시너지가 있다."
+	},
+	{
+		"created_at": "Mon Jan 06 07:28:03 +0000 2020",
+		"id": 1214086210584375300,
+		"id_str": "1214086210584375296",
+		"full_text": "매크로는 부정적인 인식이 자리잡았지만 매크로 자체는 나쁜 것이 아니다. 업무를 자동화하고 반복되는 행동을 편리하고 쉽게 처리한다. 어떻게 사용하냐의 문제인 것이다. 목적과 행동이 나쁜 것이지 기술 자체를 부정짓고 결론을 내리면 끝도 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "매크로는 부정적인 인식이 자리잡았지만 매크로 자체는 나쁜 것이 아니다. 업무를 자동화하고 반복되는 행동을 편리하고 쉽게 처리한다. 어떻게 사용하냐의 문제인 것이다. 목적과 행동이 나쁜 것이지 기술 자체를 부정짓고 결론을 내리면 끝도 없다."
+	},
+	{
+		"created_at": "Mon Jan 06 07:22:25 +0000 2020",
+		"id": 1214084790132985900,
+		"id_str": "1214084790132985856",
+		"full_text": "예술은 긍정적이고 기술은 부정적이란 시각은 좋지 않다고 생각한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "예술은 긍정적이고 기술은 부정적이란 시각은 좋지 않다고 생각한다."
+	},
+	{
 		"created_at": "Mon Jan 06 06:10:28 +0000 2020",
 		"id": 1214066686208479200,
 		"id_str": "1214066686208479232",
