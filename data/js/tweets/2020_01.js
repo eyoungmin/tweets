@@ -1,6 +1,1593 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 09:00:55 +0000 2020",
+		"id": 1214471965433462800,
+		"id_str": "1214471965433462785",
+		"full_text": "인스타그램은 #해시태그 로만 검색이 되기 때문에 '#해시태그 '#해시태그'나 #해시태그 키워드'가 안되어서 불편함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해시태그",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "해시태그",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "해시태그",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "해시태그",
+					"indices": [
+						43,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1214471459046748200,
+		"in_reply_to_status_id_str": "1214471459046748160",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인스타그램은 #해시태그 로만 검색이 되기 때문에 '#해시태그 '#해시태그'나 #해시태그 키워드'가 안되어서 불편함."
+	},
+	{
+		"created_at": "Tue Jan 07 08:58:54 +0000 2020",
+		"id": 1214471459046748200,
+		"id_str": "1214471459046748160",
+		"full_text": "트위터가 고급검색이 되니까 활용하기 더 좋다. 덕질 할 때도 더 유용하게 쓸 수 있다. 그러니까 엔터 담당자 분이 같은 주제의 내용에 양식을 정해 해시태그를 잘 달아주시면 나중에 검색해서 참고하기도 정리하기도 좋다는 말.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터가 고급검색이 되니까 활용하기 더 좋다. 덕질 할 때도 더 유용하게 쓸 수 있다. 그러니까 엔터 담당자 분이 같은 주제의 내용에 양식을 정해 해시태그를 잘 달아주시면 나중에 검색해서 참고하기도 정리하기도 좋다는 말."
+	},
+	{
+		"created_at": "Tue Jan 07 08:53:04 +0000 2020",
+		"id": 1214465708479930400,
+		"id_str": "1214469991384240128",
+		"full_text": "#서울재즈페스티벌 #Seoul_Jazz_Festival\n[SJF2020] 제14회 서울재즈페스티벌 1차 라인업 &amp; 얼리버드 티켓 오픈 안내\nhttps://t.co/zDTUMb1vOi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울재즈페스티벌",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "Seoul_Jazz_Festival",
+					"indices": [
+						10,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zDTUMb1vOi",
+					"expanded_url": "https://youtu.be/Uf21Pxo2k-U",
+					"display_url": "youtu.be/Uf21Pxo2k-U",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 187,
+			"friends_count": 345,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울재즈페스티벌 #Seoul_Jazz_Festival\n[SJF2020] 제14회 서울재즈페스티벌 1차 라인업 &amp; 얼리버드 티켓 오픈 안내\nhttps://t.co/zDTUMb1vOi"
+	},
+	{
+		"created_at": "Tue Jan 07 08:41:50 +0000 2020",
+		"id": 1214465456435691500,
+		"id_str": "1214467164687589376",
+		"full_text": "내 생각이 왜곡되어 있다는 걸 비춰볼 수 있는 여러 가지 거울을 가져야 해요. 외부 세계와 더 많이 소통하면서 타인을 존중하는 차원까지 나아가야죠. 그래야 내 자존이 떨어졌을 때 타인을 존중하는 마음이 돌고 돌아 나의 자존을 높여 줄 수 있으니까요. \n\n🔍기사 보기: https://t.co/s27kmJbc5w https://t.co/6VVx33HG27",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s27kmJbc5w",
+					"expanded_url": "http://m.ch.yes24.com/Article/View/40754",
+					"display_url": "m.ch.yes24.com/Article/View/4…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214465440073650200,
+					"id_str": "1214465440073650176",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ENql4huUEAA-jM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENql4huUEAA-jM5.jpg",
+					"url": "https://t.co/6VVx33HG27",
+					"display_url": "pic.twitter.com/6VVx33HG27",
+					"expanded_url": "https://twitter.com/yes24chyes/status/1214465456435691520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 829,
+									"y": 291,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 520,
+									"y": 182,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1416,
+									"y": 498,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 888,
+									"y": 312,
+									"h": 220,
+									"w": 220
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 470,
+									"y": 165,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 294,
+									"y": 103,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2832,
+									"y": 996,
+									"h": 288,
+									"w": 288
+								},
+								{
+									"x": 1776,
+									"y": 624,
+									"h": 440,
+									"w": 440
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214465440073650200,
+					"id_str": "1214465440073650176",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ENql4huUEAA-jM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENql4huUEAA-jM5.jpg",
+					"url": "https://t.co/6VVx33HG27",
+					"display_url": "pic.twitter.com/6VVx33HG27",
+					"expanded_url": "https://twitter.com/yes24chyes/status/1214465456435691520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 829,
+									"y": 291,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 520,
+									"y": 182,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1416,
+									"y": 498,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 888,
+									"y": 312,
+									"h": 220,
+									"w": 220
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 470,
+									"y": 165,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 294,
+									"y": 103,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2832,
+									"y": 996,
+									"h": 288,
+									"w": 288
+								},
+								{
+									"x": 1776,
+									"y": 624,
+									"h": 440,
+									"w": 440
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135816524,
+			"id_str": "135816524",
+			"name": "문화웹진 채널예스",
+			"screen_name": "yes24chyes",
+			"location": "대한민국 서울",
+			"description": "인터넷서점 예스24의 공감이 있는 문화웹진! 인터뷰, 작가와의만남, 칼럼 등 문화계 전반 소식을 만나보세요!",
+			"url": "http://t.co/dMg4fRHhzu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/dMg4fRHhzu",
+							"expanded_url": "http://ch.yes24.com",
+							"display_url": "ch.yes24.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3218,
+			"friends_count": 1878,
+			"listed_count": 26,
+			"created_at": "Thu Apr 22 09:05:20 +0000 2010",
+			"favourites_count": 2759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000819134166/916786ea693d24211f1d27eb8fb17602_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000819134166/916786ea693d24211f1d27eb8fb17602_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 생각이 왜곡되어 있다는 걸 비춰볼 수 있는 여러 가지 거울을 가져야 해요. 외부 세계와 더 많이 소통하면서 타인을 존중하는 차원까지 나아가야죠. 그래야 내 자존이 떨어졌을 때 타인을 존중하는 마음이 돌고 돌아 나의 자존을 높여 줄 수 있으니까요. \n\n🔍기사 보기: https://t.co/s27kmJbc5w https://t.co/6VVx33HG27"
+	},
+	{
+		"created_at": "Tue Jan 07 08:25:44 +0000 2020",
+		"id": 1214459698662928400,
+		"id_str": "1214463112423723011",
+		"full_text": "슬로워크와 한국여성인권진흥원이 함께한 프로젝트, 일본군’위안부’문제연구소 웹진 &lt;결&gt;이 한국디지털기업협회 앤어워드의 저널/미디어 분야에서 그랑프리의 영예를 안았습니다🎉👏✌️ 다른 앤어워드 수상작들도 모두 모두 축하합니다!\n\n💐 앤어워드 수상작 페이지: https://t.co/H1LC4Gxoyz https://t.co/m0u5zZp0t5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H1LC4Gxoyz",
+					"expanded_url": "http://www.naward.or.kr/Winner/WinnerByCate2019?category=34&cateType=1",
+					"display_url": "naward.or.kr/Winner/WinnerB…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214459682351239200,
+					"id_str": "1214459682351239168",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqgpYiUUAArknS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqgpYiUUAArknS.jpg",
+					"url": "https://t.co/m0u5zZp0t5",
+					"display_url": "pic.twitter.com/m0u5zZp0t5",
+					"expanded_url": "https://twitter.com/slowalk_/status/1214459698662928384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 598,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1282,
+							"h": 1128,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "738560562083205120",
+									"screen_name": "whrik2009",
+									"name": "한국여성인권진흥원"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 15,
+									"y": 6,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 3,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 7,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 7,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214459682351239200,
+					"id_str": "1214459682351239168",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqgpYiUUAArknS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqgpYiUUAArknS.jpg",
+					"url": "https://t.co/m0u5zZp0t5",
+					"display_url": "pic.twitter.com/m0u5zZp0t5",
+					"expanded_url": "https://twitter.com/slowalk_/status/1214459698662928384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 598,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1282,
+							"h": 1128,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "738560562083205120",
+									"screen_name": "whrik2009",
+									"name": "한국여성인권진흥원"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 15,
+									"y": 6,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 3,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 7,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 7,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214459682347044900,
+					"id_str": "1214459682347044865",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqgpYhUUAEDeli.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqgpYhUUAEDeli.jpg",
+					"url": "https://t.co/m0u5zZp0t5",
+					"display_url": "pic.twitter.com/m0u5zZp0t5",
+					"expanded_url": "https://twitter.com/slowalk_/status/1214459698662928384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1470,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "738560562083205120",
+									"screen_name": "whrik2009",
+									"name": "한국여성인권진흥원"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1116,
+									"y": 748,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 1072,
+									"y": 826,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 161,
+									"y": 634,
+									"h": 437,
+									"w": 437
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1116,
+									"y": 748,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 1072,
+									"y": 826,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 161,
+									"y": 634,
+									"h": 437,
+									"w": 437
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 744,
+									"y": 498,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 714,
+									"y": 550,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 107,
+									"y": 422,
+									"h": 291,
+									"w": 291
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 421,
+									"y": 282,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 404,
+									"y": 311,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 60,
+									"y": 239,
+									"h": 164,
+									"w": 164
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214459682347077600,
+					"id_str": "1214459682347077632",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqgpYhU0AAJ2bu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqgpYhU0AAJ2bu.jpg",
+					"url": "https://t.co/m0u5zZp0t5",
+					"display_url": "pic.twitter.com/m0u5zZp0t5",
+					"expanded_url": "https://twitter.com/slowalk_/status/1214459698662928384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1470,
+							"h": 882,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "738560562083205120",
+									"screen_name": "whrik2009",
+									"name": "한국여성인권진흥원"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 680,
+									"y": 351,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 680,
+									"y": 351,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 314,
+									"y": 162,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 555,
+									"y": 286,
+									"h": 140,
+									"w": 140
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214459682347053000,
+					"id_str": "1214459682347053056",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqgpYhUcAAJxfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqgpYhUcAAJxfs.jpg",
+					"url": "https://t.co/m0u5zZp0t5",
+					"display_url": "pic.twitter.com/m0u5zZp0t5",
+					"expanded_url": "https://twitter.com/slowalk_/status/1214459698662928384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1470,
+							"h": 882,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "738560562083205120",
+									"screen_name": "whrik2009",
+									"name": "한국여성인권진흥원"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 456,
+									"y": 150,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 372,
+									"y": 122,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 456,
+									"y": 150,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 210,
+									"y": 69,
+									"h": 25,
+									"w": 25
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5007,
+			"friends_count": 3463,
+			"listed_count": 226,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬로워크와 한국여성인권진흥원이 함께한 프로젝트, 일본군’위안부’문제연구소 웹진 &lt;결&gt;이 한국디지털기업협회 앤어워드의 저널/미디어 분야에서 그랑프리의 영예를 안았습니다🎉👏✌️ 다른 앤어워드 수상작들도 모두 모두 축하합니다!\n\n💐 앤어워드 수상작 페이지: https://t.co/H1LC4Gxoyz https://t.co/m0u5zZp0t5"
+	},
+	{
+		"created_at": "Tue Jan 07 08:25:40 +0000 2020",
+		"id": 1214463098255335400,
+		"id_str": "1214463098255335424",
+		"full_text": "@slowalk_ @whrik2009 멋져멋져 👍🏻 축하드립니다 👏🏻👏🏻👏🏻👏🏻👏🏻",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slowalk_",
+					"name": "슬로워크",
+					"id": 112719160,
+					"id_str": "112719160",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "whrik2009",
+					"name": "한국여성인권진흥원",
+					"id": 738560562083205100,
+					"id_str": "738560562083205120",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1214459698662928400,
+		"in_reply_to_status_id_str": "1214459698662928384",
+		"in_reply_to_user_id": 112719160,
+		"in_reply_to_user_id_str": "112719160",
+		"in_reply_to_screen_name": "slowalk_",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@slowalk_ @whrik2009 멋져멋져 👍🏻 축하드립니다 👏🏻👏🏻👏🏻👏🏻👏🏻"
+	},
+	{
+		"created_at": "Tue Jan 07 08:19:08 +0000 2020",
+		"id": 1214461450258804700,
+		"id_str": "1214461450258804739",
+		"full_text": "지진희봇 죽었나? 검색방식으로 활용한다는 점에서 신기하게 봤는데 아쉽다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "지진희봇 죽었나? 검색방식으로 활용한다는 점에서 신기하게 봤는데 아쉽다."
+	},
+	{
+		"created_at": "Tue Jan 07 08:16:30 +0000 2020",
+		"id": 1214460788175302700,
+		"id_str": "1214460788175302656",
+		"full_text": "지음갓 레이더가 나에게 있는게 분명하다. 좋아하다보니 이젠 어 맞나? 싶으면 찾아보면 맞다... 윤하 26 지음갓 노래💕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "지음갓 레이더가 나에게 있는게 분명하다. 좋아하다보니 이젠 어 맞나? 싶으면 찾아보면 맞다... 윤하 26 지음갓 노래💕"
+	},
+	{
 		"created_at": "Tue Jan 07 07:46:18 +0000 2020",
 		"id": 1214453191145906200,
 		"id_str": "1214453191145906176",
@@ -1090,7 +2677,7 @@ Grailbird.data.tweets_2020_01 =
 				"name": "하박국HAVAQQUQ",
 				"screen_name": "HAVAQQUQ",
 				"location": "트라팔마도어",
-				"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+				"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 				"url": "https://t.co/gavmddaAVg",
 				"entities": {
 					"url": {
