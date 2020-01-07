@@ -1,6 +1,804 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 09:40:45 +0000 2020",
+		"id": 1214471999474397200,
+		"id_str": "1214481991858606080",
+		"full_text": "\"졸업 축하해 준 멤버들과 오빛 너무 고맙고 사랑합니돵 💕 쪽!\" 성인이 된 사랑둥이 #최리 의 메시지를 지금 확인해 보세요!\n▶️ https://t.co/ZOLdSPpFv8\n\n#이달의소녀 #LOONA #Choerry https://t.co/vsUlOQ5H5U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최리",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						113,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZOLdSPpFv8",
+					"expanded_url": "https://bit.ly/2N1LTtr",
+					"display_url": "bit.ly/2N1LTtr",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214471986417528800,
+					"id_str": "1214471986417528833",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqr1kwUcAEU-AK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqr1kwUcAEU-AK.jpg",
+					"url": "https://t.co/vsUlOQ5H5U",
+					"display_url": "pic.twitter.com/vsUlOQ5H5U",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1214471999474397184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 329,
+									"y": 2070,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 725,
+									"y": 421,
+									"h": 1237,
+									"w": 1237
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 77,
+									"y": 488,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 171,
+									"y": 99,
+									"h": 292,
+									"w": 292
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 137,
+									"y": 862,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 302,
+									"y": 175,
+									"h": 515,
+									"w": 515
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 233,
+									"y": 1472,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 515,
+									"y": 299,
+									"h": 879,
+									"w": 879
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214471986417528800,
+					"id_str": "1214471986417528833",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqr1kwUcAEU-AK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqr1kwUcAEU-AK.jpg",
+					"url": "https://t.co/vsUlOQ5H5U",
+					"display_url": "pic.twitter.com/vsUlOQ5H5U",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1214471999474397184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 329,
+									"y": 2070,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 725,
+									"y": 421,
+									"h": 1237,
+									"w": 1237
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 77,
+									"y": 488,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 171,
+									"y": 99,
+									"h": 292,
+									"w": 292
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 137,
+									"y": 862,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 302,
+									"y": 175,
+									"h": 515,
+									"w": 515
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 233,
+									"y": 1472,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 515,
+									"y": 299,
+									"h": 879,
+									"w": 879
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214471986463686700,
+					"id_str": "1214471986463686657",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqr1k7UwAEovNk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqr1k7UwAEovNk.jpg",
+					"url": "https://t.co/vsUlOQ5H5U",
+					"display_url": "pic.twitter.com/vsUlOQ5H5U",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1214471999474397184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 419,
+									"y": 194,
+									"h": 277,
+									"w": 277
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1006,
+									"y": 466,
+									"h": 666,
+									"w": 666
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 715,
+									"y": 331,
+									"h": 473,
+									"w": 473
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 110,
+									"h": 157,
+									"w": 157
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382133,
+			"friends_count": 0,
+			"listed_count": 5534,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3672,
+		"favorite_count": 7506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"졸업 축하해 준 멤버들과 오빛 너무 고맙고 사랑합니돵 💕 쪽!\" 성인이 된 사랑둥이 #최리 의 메시지를 지금 확인해 보세요!\n▶️ https://t.co/ZOLdSPpFv8\n\n#이달의소녀 #LOONA #Choerry https://t.co/vsUlOQ5H5U"
+	},
+	{
+		"created_at": "Tue Jan 07 09:40:38 +0000 2020",
+		"id": 1214471736869171200,
+		"id_str": "1214481961336672257",
+		"full_text": "HYO in SINGAPORE\n📍 LEGACY FESTIVAL\n\nDJ HYO’s official Instagram\n👉https://t.co/xADoUioCMq\n\n#HYO #HYOYEON #효연 #GirlsGeneration #소녀시대 #Badster @Hyoyeon_djhyo https://t.co/C0Ck4zZlX1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "Badster",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						140,
+						154
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xADoUioCMq",
+					"expanded_url": "https://instagram.com/dj_hyo_x.x",
+					"display_url": "instagram.com/dj_hyo_x.x",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214439378392453000,
+					"id_str": "1214439378392453121",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqOtZoU4AAZXj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqOtZoU4AAZXj6.jpg",
+					"url": "https://t.co/C0Ck4zZlX1",
+					"display_url": "pic.twitter.com/C0Ck4zZlX1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1214471736869171200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214439378392453000,
+					"id_str": "1214439378392453121",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqOtZoU4AAZXj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqOtZoU4AAZXj6.jpg",
+					"url": "https://t.co/C0Ck4zZlX1",
+					"display_url": "pic.twitter.com/C0Ck4zZlX1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1214471736869171200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38405,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1214439378392453121/vid/1280x720/MVrCcdi3iDJ6_EGz.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1214439378392453121/pl/JusBCMxoJZAqNLn2.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1214439378392453121/vid/640x360/ZUjCFmSoFCLb4JFc.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1214439378392453121/vid/480x270/LstsPxXuNsfKVOCI.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3534013,
+			"friends_count": 4,
+			"listed_count": 5954,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1151,
+		"favorite_count": 2225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYO in SINGAPORE\n📍 LEGACY FESTIVAL\n\nDJ HYO’s official Instagram\n👉https://t.co/xADoUioCMq\n\n#HYO #HYOYEON #효연 #GirlsGeneration #소녀시대 #Badster @Hyoyeon_djhyo https://t.co/C0Ck4zZlX1"
+	},
+	{
+		"created_at": "Tue Jan 07 09:04:46 +0000 2020",
+		"id": 1214472936624537600,
+		"id_str": "1214472936624537600",
+		"full_text": "플랫폼마다 장단이 다 있고 기본으로 트위터, 페이스북, 인스타그램, 유튜브는 가져가야 되는데 플랫폼이 어쩐다 성향이 어쩐다 하며 꺼리며 기피하는 업체나 행사가 국내에는 많다는 점에서....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1214472534105608200,
+		"in_reply_to_status_id_str": "1214472534105608192",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "플랫폼마다 장단이 다 있고 기본으로 트위터, 페이스북, 인스타그램, 유튜브는 가져가야 되는데 플랫폼이 어쩐다 성향이 어쩐다 하며 꺼리며 기피하는 업체나 행사가 국내에는 많다는 점에서...."
+	},
+	{
 		"created_at": "Tue Jan 07 09:00:55 +0000 2020",
 		"id": 1214471965433462800,
 		"id_str": "1214471965433462785",
