@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 06:58:28 +0000 2020",
+		"id": 1214393874203984000,
+		"id_str": "1214441152725696515",
+		"full_text": "#인터파크티켓 #티켓오픈소식 #주요티켓오픈\n제14회 서울재즈페스티벌 2020 얼리버드 티켓 오픈 안내 및 1차 라인업 예고 안내 : 20.01.17(금) 12:00\nhttps://t.co/ifh3sLWRKM https://t.co/M46GGpUzfl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "주요티켓오픈",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ifh3sLWRKM",
+					"expanded_url": "http://bit.ly/39KZgYy",
+					"display_url": "bit.ly/39KZgYy",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214393873176449000,
+					"id_str": "1214393873176449024",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpkyyQX0AAJhr6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpkyyQX0AAJhr6.jpg",
+					"url": "https://t.co/M46GGpUzfl",
+					"display_url": "pic.twitter.com/M46GGpUzfl",
+					"expanded_url": "https://twitter.com/InterTicketOpen/status/1214393874203983872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 171,
+							"h": 207,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 171,
+							"h": 207,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 171,
+							"h": 207,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214393873176449000,
+					"id_str": "1214393873176449024",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpkyyQX0AAJhr6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpkyyQX0AAJhr6.jpg",
+					"url": "https://t.co/M46GGpUzfl",
+					"display_url": "pic.twitter.com/M46GGpUzfl",
+					"expanded_url": "https://twitter.com/InterTicketOpen/status/1214393874203983872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 171,
+							"h": 207,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 171,
+							"h": 207,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 171,
+							"h": 207,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1210277696464248800,
+			"id_str": "1210277696464248832",
+			"name": "인터파크 티켓 - 티켓오픈소식",
+			"screen_name": "InterTicketOpen",
+			"location": "",
+			"description": "#인터파크티켓 #티켓오픈소식 비공식 봇",
+			"url": "https://t.co/O3Spoldw9S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O3Spoldw9S",
+							"expanded_url": "http://ticket.interpark.com/webzine/paper/TPNoticeList.asp",
+							"display_url": "ticket.interpark.com/webzine/paper/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Thu Dec 26 19:14:33 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210277915377594368/N2kpJZh2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210277915377594368/N2kpJZh2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1210277696464248832/1577392574",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓 #티켓오픈소식 #주요티켓오픈\n제14회 서울재즈페스티벌 2020 얼리버드 티켓 오픈 안내 및 1차 라인업 예고 안내 : 20.01.17(금) 12:00\nhttps://t.co/ifh3sLWRKM https://t.co/M46GGpUzfl"
+	},
+	{
+		"created_at": "Tue Jan 07 06:37:05 +0000 2020",
+		"id": 1214435772562063400,
+		"id_str": "1214435772562063360",
+		"full_text": "#SMTOWN #News\n에스팀 뉴욕, 글로벌 오디션 ‘제 1회 에스팀 캐스팅 콜’ 개최\nhttps://t.co/m3TzeeUysx\n#SM엔터테인먼트 #minfav https://t.co/7IhYBdPXLR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						84,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m3TzeeUysx",
+					"expanded_url": "https://www.smtown.com/news/detail/212",
+					"display_url": "smtown.com/news/detail/212",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214435771622609000,
+					"id_str": "1214435771622608896",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqK5mIX0AA3D2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqK5mIX0AA3D2F.jpg",
+					"url": "https://t.co/7IhYBdPXLR",
+					"display_url": "pic.twitter.com/7IhYBdPXLR",
+					"expanded_url": "https://twitter.com/fromminn/status/1214435772562063360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214435771622609000,
+					"id_str": "1214435771622608896",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqK5mIX0AA3D2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqK5mIX0AA3D2F.jpg",
+					"url": "https://t.co/7IhYBdPXLR",
+					"display_url": "pic.twitter.com/7IhYBdPXLR",
+					"expanded_url": "https://twitter.com/fromminn/status/1214435772562063360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #News\n에스팀 뉴욕, 글로벌 오디션 ‘제 1회 에스팀 캐스팅 콜’ 개최\nhttps://t.co/m3TzeeUysx\n#SM엔터테인먼트 #minfav https://t.co/7IhYBdPXLR"
+	},
+	{
+		"created_at": "Tue Jan 07 06:21:44 +0000 2020",
+		"id": 1214072882873024500,
+		"id_str": "1214431909620547591",
+		"full_text": "스타트업이 실패하는 이유 Top 20 [PDF] https://t.co/JEznide1ZT \nCBInsight가 실패한 스타트업 323개의 이유들을 순위별로 정리하고 각 항목을 설명\n1 시장이 원하지 않음 42%\n2 자금고갈 29%\n3 부적절한 팀 23%\n4 경쟁에서 패배 19%\n5 가격 결정 실패 18%\n6 사용자 친화적이지 않은 제품 ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JEznide1ZT",
+					"expanded_url": "http://j.mp/2ttgusV",
+					"display_url": "j.mp/2ttgusV",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다.",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1842,
+			"friends_count": 0,
+			"listed_count": 33,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스타트업이 실패하는 이유 Top 20 [PDF] https://t.co/JEznide1ZT \nCBInsight가 실패한 스타트업 323개의 이유들을 순위별로 정리하고 각 항목을 설명\n1 시장이 원하지 않음 42%\n2 자금고갈 29%\n3 부적절한 팀 23%\n4 경쟁에서 패배 19%\n5 가격 결정 실패 18%\n6 사용자 친화적이지 않은 제품 ..."
+	},
+	{
 		"created_at": "Tue Jan 07 05:40:19 +0000 2020",
 		"id": 1214421486544527400,
 		"id_str": "1214421486544527362",
