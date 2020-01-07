@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 10:39:45 +0000 2020",
+		"id": 1214490295246585900,
+		"id_str": "1214496837694107649",
+		"full_text": "TAEYEON : The UNSEEN TICKET EVENT 💓\n\n믿듣탱! 태연의 4번째 단독 콘서트 ‘The UNSEEN’으로 초대합니다.\n지정 상품 포함 3만원 이상 구매 후, 응모 댓글을 남기면 추첨을 통해 태연 콘서트 티켓을 증정해 드립니다! 😍 \n\n✔ 응모 기간 및 참여 방법 보러 가기 \nhttps://t.co/aTuGZu68lr https://t.co/asXNIYABrr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aTuGZu68lr",
+					"expanded_url": "https://bit.ly/35tKORq",
+					"display_url": "bit.ly/35tKORq",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214490282445529000,
+					"id_str": "1214490282445529088",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ENq8eixUYAAoN4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENq8eixUYAAoN4D.jpg",
+					"url": "https://t.co/asXNIYABrr",
+					"display_url": "pic.twitter.com/asXNIYABrr",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1214490295246585857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 453,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214490282445529000,
+					"id_str": "1214490282445529088",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ENq8eixUYAAoN4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENq8eixUYAAoN4D.jpg",
+					"url": "https://t.co/asXNIYABrr",
+					"display_url": "pic.twitter.com/asXNIYABrr",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1214490295246585857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 453,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26645,
+			"friends_count": 0,
+			"listed_count": 96,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON : The UNSEEN TICKET EVENT 💓\n\n믿듣탱! 태연의 4번째 단독 콘서트 ‘The UNSEEN’으로 초대합니다.\n지정 상품 포함 3만원 이상 구매 후, 응모 댓글을 남기면 추첨을 통해 태연 콘서트 티켓을 증정해 드립니다! 😍 \n\n✔ 응모 기간 및 참여 방법 보러 가기 \nhttps://t.co/aTuGZu68lr https://t.co/asXNIYABrr"
+	},
+	{
+		"created_at": "Tue Jan 07 10:04:51 +0000 2020",
+		"id": 1214288678429675500,
+		"id_str": "1214488055840571392",
+		"full_text": "[이코노 서가(書架)] NYT 기자가 본 '우버 창업자의 추락' https://t.co/ez6r7Blczz NYT 마이크 아이삭 기자가 쓴 Super Pumped라는 책의 서평. 추천을 받았는데 읽을 여유가 없었던 우버에 대한 책…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ez6r7Blczz",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=023&aid=0003498545",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382648,
+			"friends_count": 2298,
+			"listed_count": 4809,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 71999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이코노 서가(書架)] NYT 기자가 본 '우버 창업자의 추락' https://t.co/ez6r7Blczz NYT 마이크 아이삭 기자가 쓴 Super Pumped라는 책의 서평. 추천을 받았는데 읽을 여유가 없었던 우버에 대한 책…"
+	},
+	{
+		"created_at": "Tue Jan 07 10:04:05 +0000 2020",
+		"id": 1214288229718823000,
+		"id_str": "1214487863238094848",
+		"full_text": "닥터AI, 뇌종양 진단도 전문의 뛰어넘었다 https://t.co/WiHe5y0LnH 최근에 의사분과 이야기해본 일이 있는데 인공지능이 의사를 대체할 리는 없고 의사들에게 좋은 진단도구가 되줄 것이라고 말씀. https://t.co/LL1bDz82ze",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WiHe5y0LnH",
+					"expanded_url": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=023&aid=0003498535",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214288225885282300,
+					"id_str": "1214288225885282304",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ENoEtTbU4AAXTYF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENoEtTbU4AAXTYF.jpg",
+					"url": "https://t.co/LL1bDz82ze",
+					"display_url": "pic.twitter.com/LL1bDz82ze",
+					"expanded_url": "https://twitter.com/estima7/status/1214288229718822912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 986,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 386,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 986,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 136,
+									"y": 491,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 136,
+									"y": 491,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 338,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 136,
+									"y": 491,
+									"h": 110,
+									"w": 110
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214288225885282300,
+					"id_str": "1214288225885282304",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ENoEtTbU4AAXTYF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENoEtTbU4AAXTYF.jpg",
+					"url": "https://t.co/LL1bDz82ze",
+					"display_url": "pic.twitter.com/LL1bDz82ze",
+					"expanded_url": "https://twitter.com/estima7/status/1214288229718822912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 986,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 386,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 986,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 136,
+									"y": 491,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 136,
+									"y": 491,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 338,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 136,
+									"y": 491,
+									"h": 110,
+									"w": 110
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382648,
+			"friends_count": 2298,
+			"listed_count": 4809,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 71999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "닥터AI, 뇌종양 진단도 전문의 뛰어넘었다 https://t.co/WiHe5y0LnH 최근에 의사분과 이야기해본 일이 있는데 인공지능이 의사를 대체할 리는 없고 의사들에게 좋은 진단도구가 되줄 것이라고 말씀. https://t.co/LL1bDz82ze"
+	},
+	{
 		"created_at": "Tue Jan 07 09:40:45 +0000 2020",
 		"id": 1214471999474397200,
 		"id_str": "1214481991858606080",
