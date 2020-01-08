@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 12:31:00 +0000 2020",
+		"id": 1214887225764089900,
+		"id_str": "1214887225764089856",
+		"full_text": "가온차트 어워드는 메이커 시상 있어서 좋다. 스타일리스트, 안무가, 작가상.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "가온차트 어워드는 메이커 시상 있어서 좋다. 스타일리스트, 안무가, 작가상."
+	},
+	{
+		"created_at": "Wed Jan 08 12:28:24 +0000 2020",
+		"id": 1214882900488814600,
+		"id_str": "1214886569988935681",
+		"full_text": "[INSTAGRAM STORY] taeyeon_ss : 나는야 행복한 사람\n\nS♡NE 센스봐라 고마워 덕분에 많이 웃고 진심으로 뿌듯했어요! \nhttps://t.co/GEW4K6mVVo\nhttps://t.co/68UBwiR6QH https://t.co/QgYJxnz1Vd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GEW4K6mVVo",
+					"expanded_url": "https://www.instagram.com/stories/taeyeon_ss/2216820486372247713",
+					"display_url": "instagram.com/stories/taeyeo…",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/68UBwiR6QH",
+					"expanded_url": "https://instagram.ftpe3-2.fna.fbcdn.net/v/t51.12442-15/e35/80593643_514935959119025_8489291416639726156_n.jpg?_nc_ht=instagram.ftpe3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=rfUjhUVi5cQAX9w10GV&se=7&oh=83fed42f9efc7ba00c16d8f5ff10471f&oe=5E1801FD&ig_cache_key=MjIxNjgyMDQ4NjM3MjI0NzcxMw%3D%3D.2",
+					"display_url": "instagram.ftpe3-2.fna.fbcdn.net/v/t51.12442-15…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214882897481486300,
+					"id_str": "1214882897481486337",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/ENwhjvwU0AE644I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENwhjvwU0AE644I.jpg",
+					"url": "https://t.co/QgYJxnz1Vd",
+					"display_url": "pic.twitter.com/QgYJxnz1Vd",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1214882900488814599/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 160,
+									"y": 172,
+									"h": 336,
+									"w": 336
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 57,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 100,
+									"h": 196,
+									"w": 196
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 215,
+									"h": 420,
+									"w": 420
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214882897481486300,
+					"id_str": "1214882897481486337",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/ENwhjvwU0AE644I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENwhjvwU0AE644I.jpg",
+					"url": "https://t.co/QgYJxnz1Vd",
+					"display_url": "pic.twitter.com/QgYJxnz1Vd",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1214882900488814599/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 160,
+									"y": 172,
+									"h": 336,
+									"w": 336
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 57,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 100,
+									"h": 196,
+									"w": 196
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 215,
+									"h": 420,
+									"w": 420
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": "I Do",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3747,
+			"friends_count": 0,
+			"listed_count": 81,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186623809538838528/Qm8uM_VZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186623809538838528/Qm8uM_VZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1571748139",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 385,
+		"favorite_count": 298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM STORY] taeyeon_ss : 나는야 행복한 사람\n\nS♡NE 센스봐라 고마워 덕분에 많이 웃고 진심으로 뿌듯했어요! \nhttps://t.co/GEW4K6mVVo\nhttps://t.co/68UBwiR6QH https://t.co/QgYJxnz1Vd"
+	},
+	{
+		"created_at": "Wed Jan 08 12:28:05 +0000 2020",
+		"id": 1214728607458713600,
+		"id_str": "1214886490842382336",
+		"full_text": "[INSTAGRAM STORY] taeyeon_ss \nhttps://t.co/BUty0tygNe\nhttps://t.co/k72dZi9wtD https://t.co/Y38jFGZy4X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BUty0tygNe",
+					"expanded_url": "https://www.instagram.com/stories/taeyeon_ss/2216511943051995265",
+					"display_url": "instagram.com/stories/taeyeo…",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/k72dZi9wtD",
+					"expanded_url": "https://instagram.ftpe3-1.fna.fbcdn.net/v/t51.12442-15/e35/81557921_2523469524596520_5281426684133822201_n.jpg?_nc_ht=instagram.ftpe3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=yiXy066-acYAX_4VPzc&se=7&oh=a51c8cbc79dc47d0c378a9235b4ebffd&oe=5E177448&ig_cache_key=MjIxNjUxMTk0MzA1MTk5NTI2NQ%3D%3D.2",
+					"display_url": "instagram.ftpe3-1.fna.fbcdn.net/v/t51.12442-15…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214728604556255200,
+					"id_str": "1214728604556255232",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ENuVOt0U4AA1AfS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENuVOt0U4AA1AfS.jpg",
+					"url": "https://t.co/Y38jFGZy4X",
+					"display_url": "pic.twitter.com/Y38jFGZy4X",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1214728607458713600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214728604556255200,
+					"id_str": "1214728604556255232",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ENuVOt0U4AA1AfS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENuVOt0U4AA1AfS.jpg",
+					"url": "https://t.co/Y38jFGZy4X",
+					"display_url": "pic.twitter.com/Y38jFGZy4X",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1214728607458713600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": "I Do",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3747,
+			"friends_count": 0,
+			"listed_count": 81,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186623809538838528/Qm8uM_VZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186623809538838528/Qm8uM_VZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1571748139",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 657,
+		"favorite_count": 772,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "[INSTAGRAM STORY] taeyeon_ss \nhttps://t.co/BUty0tygNe\nhttps://t.co/k72dZi9wtD https://t.co/Y38jFGZy4X"
+	},
+	{
 		"created_at": "Wed Jan 08 11:39:45 +0000 2020",
 		"id": 1214860514624360400,
 		"id_str": "1214874325632897024",
