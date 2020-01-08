@@ -1,6 +1,1601 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 01:25:33 +0000 2020",
+		"id": 1214719760383934500,
+		"id_str": "1214719760383934464",
+		"full_text": "넷플릭스 = 유튜브 &gt; 웨이브(공중파VOD) &gt; 올레티비(자체 콘텐츠 및 영화 구매)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "넷플릭스 = 유튜브 &gt; 웨이브(공중파VOD) &gt; 올레티비(자체 콘텐츠 및 영화 구매)"
+	},
+	{
+		"created_at": "Wed Jan 08 01:22:51 +0000 2020",
+		"id": 1214719079631638500,
+		"id_str": "1214719079631638528",
+		"full_text": "넷플릭스보다 틱톡이라니. https://t.co/R9q24jSmLL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R9q24jSmLL",
+					"expanded_url": "https://twitter.com/VentureSquare/status/1214363004978028544",
+					"display_url": "twitter.com/VentureSquare/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214363004978028500,
+		"quoted_status_id_str": "1214363004978028544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R9q24jSmLL",
+			"expanded": "https://twitter.com/VentureSquare/status/1214363004978028544",
+			"display": "twitter.com/VentureSquare/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 07 01:47:56 +0000 2020",
+			"id": 1214363004978028500,
+			"id_str": "1214363004978028544",
+			"full_text": "가장 많이 쓰는 동영상 앱, 틱톡 2위로 올라섰다 - 벤처스퀘어\n#와이즈앱 #뉴스 https://t.co/QkoSaJvXfd https://t.co/yaAEU6iQor",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "와이즈앱",
+						"indices": [
+							36,
+							41
+						]
+					},
+					{
+						"text": "뉴스",
+						"indices": [
+							42,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QkoSaJvXfd",
+						"expanded_url": "https://www.venturesquare.net/799950",
+						"display_url": "venturesquare.net/799950",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1214363003237359600,
+						"id_str": "1214363003237359618",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/ENpIt6xW4AIRr8H.png",
+						"media_url_https": "https://pbs.twimg.com/media/ENpIt6xW4AIRr8H.png",
+						"url": "https://t.co/yaAEU6iQor",
+						"display_url": "pic.twitter.com/yaAEU6iQor",
+						"expanded_url": "https://twitter.com/VentureSquare/status/1214363004978028544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 1288,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 528,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 932,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 407,
+										"y": 251,
+										"h": 54,
+										"w": 54
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 214,
+										"y": 132,
+										"h": 28,
+										"w": 28
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 407,
+										"y": 251,
+										"h": 54,
+										"w": 54
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 379,
+										"y": 233,
+										"h": 50,
+										"w": 50
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214363003237359600,
+						"id_str": "1214363003237359618",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/ENpIt6xW4AIRr8H.png",
+						"media_url_https": "https://pbs.twimg.com/media/ENpIt6xW4AIRr8H.png",
+						"url": "https://t.co/yaAEU6iQor",
+						"display_url": "pic.twitter.com/yaAEU6iQor",
+						"expanded_url": "https://twitter.com/VentureSquare/status/1214363004978028544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 1288,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 528,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 932,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 407,
+										"y": 251,
+										"h": 54,
+										"w": 54
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 214,
+										"y": 132,
+										"h": 28,
+										"w": 28
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 407,
+										"y": 251,
+										"h": 54,
+										"w": 54
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 379,
+										"y": 233,
+										"h": 50,
+										"w": 50
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109783731,
+				"id_str": "109783731",
+				"name": "VentureSquare",
+				"screen_name": "VentureSquare",
+				"location": "서울 강남구",
+				"description": "::벤처스퀘어 공식 트위터:: 벤처기업 (스타트업)과 기업가들을 위한 벤처전문 온라인 미디어입니다. 국내외의 다양한 스타트업과 관련 인물을 소개하고 비즈니스 트렌드, 경영, 마케팅, 투자, 기술 등 비즈니스 전반에 걸친 내용을 전달합니다.",
+				"url": "http://t.co/Sv72C5q8FI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Sv72C5q8FI",
+								"expanded_url": "http://www.venturesquare.net",
+								"display_url": "venturesquare.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6540,
+				"friends_count": 297,
+				"listed_count": 351,
+				"created_at": "Sat Jan 30 07:12:31 +0000 2010",
+				"favourites_count": 103,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18527,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109783731/1451867938",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스보다 틱톡이라니. https://t.co/R9q24jSmLL"
+	},
+	{
+		"created_at": "Wed Jan 08 01:22:32 +0000 2020",
+		"id": 1214363004978028500,
+		"id_str": "1214718997586800643",
+		"full_text": "가장 많이 쓰는 동영상 앱, 틱톡 2위로 올라섰다 - 벤처스퀘어\n#와이즈앱 #뉴스 https://t.co/QkoSaJvXfd https://t.co/yaAEU6iQor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "와이즈앱",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "뉴스",
+					"indices": [
+						42,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QkoSaJvXfd",
+					"expanded_url": "https://www.venturesquare.net/799950",
+					"display_url": "venturesquare.net/799950",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214363003237359600,
+					"id_str": "1214363003237359618",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpIt6xW4AIRr8H.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENpIt6xW4AIRr8H.png",
+					"url": "https://t.co/yaAEU6iQor",
+					"display_url": "pic.twitter.com/yaAEU6iQor",
+					"expanded_url": "https://twitter.com/VentureSquare/status/1214363004978028544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 932,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 407,
+									"y": 251,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 214,
+									"y": 132,
+									"h": 28,
+									"w": 28
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 407,
+									"y": 251,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 379,
+									"y": 233,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214363003237359600,
+					"id_str": "1214363003237359618",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpIt6xW4AIRr8H.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENpIt6xW4AIRr8H.png",
+					"url": "https://t.co/yaAEU6iQor",
+					"display_url": "pic.twitter.com/yaAEU6iQor",
+					"expanded_url": "https://twitter.com/VentureSquare/status/1214363004978028544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 932,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 407,
+									"y": 251,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 214,
+									"y": 132,
+									"h": 28,
+									"w": 28
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 407,
+									"y": 251,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 379,
+									"y": 233,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109783731,
+			"id_str": "109783731",
+			"name": "VentureSquare",
+			"screen_name": "VentureSquare",
+			"location": "서울 강남구",
+			"description": "::벤처스퀘어 공식 트위터:: 벤처기업 (스타트업)과 기업가들을 위한 벤처전문 온라인 미디어입니다. 국내외의 다양한 스타트업과 관련 인물을 소개하고 비즈니스 트렌드, 경영, 마케팅, 투자, 기술 등 비즈니스 전반에 걸친 내용을 전달합니다.",
+			"url": "http://t.co/Sv72C5q8FI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Sv72C5q8FI",
+							"expanded_url": "http://www.venturesquare.net",
+							"display_url": "venturesquare.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6540,
+			"friends_count": 297,
+			"listed_count": 351,
+			"created_at": "Sat Jan 30 07:12:31 +0000 2010",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109783731/1451867938",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가장 많이 쓰는 동영상 앱, 틱톡 2위로 올라섰다 - 벤처스퀘어\n#와이즈앱 #뉴스 https://t.co/QkoSaJvXfd https://t.co/yaAEU6iQor"
+	},
+	{
+		"created_at": "Wed Jan 08 01:21:52 +0000 2020",
+		"id": 1214370165745340400,
+		"id_str": "1214718830385123328",
+		"full_text": "트위터, 6초 동영상 광고 ‘스포트라이트’ 한국 적용 https://t.co/W7lZ2O7rQV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W7lZ2O7rQV",
+					"expanded_url": "http://www.bloter.net/archives/366971",
+					"display_url": "bloter.net/archives/366971",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56268,
+			"friends_count": 9,
+			"listed_count": 2529,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터, 6초 동영상 광고 ‘스포트라이트’ 한국 적용 https://t.co/W7lZ2O7rQV"
+	},
+	{
+		"created_at": "Wed Jan 08 01:18:09 +0000 2020",
+		"id": 1214717898045788200,
+		"id_str": "1214717898045788161",
+		"full_text": "무료버전 로고 만들어주는 사이트 추천.\n도메인과 호스팅으로 유명한 Namecheap 사가 만든 Logo Maker.\nhttps://t.co/5yBN7TAysn\n#Logo #LogoMaker #로고 #minfav https://t.co/MxuHIphAcG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Logo",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "LogoMaker",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "로고",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5yBN7TAysn",
+					"expanded_url": "https://www.namecheap.com/logo-maker/",
+					"display_url": "namecheap.com/logo-maker/",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/MxuHIphAcG",
+					"expanded_url": "https://twitter.com/seoulrain/status/1214382416292397056",
+					"display_url": "twitter.com/seoulrain/stat…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214382416292397000,
+		"quoted_status_id_str": "1214382416292397056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MxuHIphAcG",
+			"expanded": "https://twitter.com/seoulrain/status/1214382416292397056",
+			"display": "twitter.com/seoulrain/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 07 03:05:04 +0000 2020",
+			"id": 1214382416292397000,
+			"id_str": "1214382416292397056",
+			"full_text": "Logopony -- 로고 만들어주는 사이트. 로고명, 슬로건, 컬러 선택 가능.  https://t.co/DmYFLtcLMf #lk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lk",
+						"indices": [
+							71,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DmYFLtcLMf",
+						"expanded_url": "http://ow.ly/QR5A30q5rps",
+						"display_url": "ow.ly/QR5A30q5rps",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14941102,
+				"id_str": "14941102",
+				"name": "서울비",
+				"screen_name": "seoulrain",
+				"location": "Seoul, South Korea",
+				"description": "이것저것링크(개인취향 자료수집): https://t.co/jMvU3PjPh9 텔레그램 채널로 수시발행: https://t.co/CTT91rb0MO 페이스북: https://t.co/ZbmVFN32qE",
+				"url": "https://t.co/CmzdLuGwGe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CmzdLuGwGe",
+								"expanded_url": "http://seoulrain.net",
+								"display_url": "seoulrain.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jMvU3PjPh9",
+								"expanded_url": "http://ththlink.net",
+								"display_url": "ththlink.net",
+								"indices": [
+									19,
+									42
+								]
+							},
+							{
+								"url": "https://t.co/CTT91rb0MO",
+								"expanded_url": "http://telegram.me/ththlink",
+								"display_url": "telegram.me/ththlink",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/ZbmVFN32qE",
+								"expanded_url": "http://facebook.com/ththlink",
+								"display_url": "facebook.com/ththlink",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4238,
+				"friends_count": 4023,
+				"listed_count": 185,
+				"created_at": "Thu May 29 04:50:30 +0000 2008",
+				"favourites_count": 25918,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 48282,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ECCE74",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745020971975860224/ZR9BJxCb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745020971975860224/ZR9BJxCb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14941102/1469005647",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무료버전 로고 만들어주는 사이트 추천.\n도메인과 호스팅으로 유명한 Namecheap 사가 만든 Logo Maker.\nhttps://t.co/5yBN7TAysn\n#Logo #LogoMaker #로고 #minfav https://t.co/MxuHIphAcG"
+	},
+	{
+		"created_at": "Wed Jan 08 01:12:47 +0000 2020",
+		"id": 1214387093054509000,
+		"id_str": "1214716544283893760",
+		"full_text": "살짝 사족입니다만, 배달 노동의 현실을 실제로 총 300시간 이상 종류별로 체험하고 특히 노동 환경과 계약 조건을 검토했던 개인 연구가 저번에 오픈넷-고려대학교 미국법센터 주최로 열린 공유경제 컨퍼런스에서 발표되었습니다. 내용을 조금 다듬어 기고문으로 공유합니다.\nhttps://t.co/Ers7X5w31h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ers7X5w31h",
+					"expanded_url": "https://youtheuljiro.wixsite.com/main/post/shadow_of_innovation",
+					"display_url": "youtheuljiro.wixsite.com/main/post/shad…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1214387090701467600,
+		"in_reply_to_status_id_str": "1214387090701467648",
+		"in_reply_to_user_id": 307389351,
+		"in_reply_to_user_id_str": "307389351",
+		"in_reply_to_screen_name": "Magi_co",
+		"user": {
+			"id": 307389351,
+			"id_str": "307389351",
+			"name": "Hwanmin Kim (Pade)",
+			"screen_name": "Magi_co",
+			"location": "전뇌코어",
+			"description": "그 단체의 사무국장 및 저 단체의 분과 위원장 역을 맡고 있습니다. 자세한 것은 나무위키를 보시면 나옵니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4924,
+			"friends_count": 1247,
+			"listed_count": 105,
+			"created_at": "Sun May 29 15:07:18 +0000 2011",
+			"favourites_count": 1871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132617516897800192/cbobuonl_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132617516897800192/cbobuonl_normal.png",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "살짝 사족입니다만, 배달 노동의 현실을 실제로 총 300시간 이상 종류별로 체험하고 특히 노동 환경과 계약 조건을 검토했던 개인 연구가 저번에 오픈넷-고려대학교 미국법센터 주최로 열린 공유경제 컨퍼런스에서 발표되었습니다. 내용을 조금 다듬어 기고문으로 공유합니다.\nhttps://t.co/Ers7X5w31h"
+	},
+	{
+		"created_at": "Wed Jan 08 01:12:27 +0000 2020",
+		"id": 1214384465381744600,
+		"id_str": "1214716460393566209",
+		"full_text": "게임이 문화라는 주장의 허와 실, 그리고 현실에 대해 PNN에 기고하였습니다. 연작 기사는 아니지만 어느덧 세번째 기고로 기사가 서로 느슨하게나마 연결되고 있네요. 어쩌다 보니 시의적절하게 발행된 기고가 됐는데, 사실 저번주 사상검증 이슈 전에 탈고된 원고입니다.\nhttps://t.co/clwHtWYQuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/clwHtWYQuF",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.nhn?volumeNo=27229714&memberNo=4505449",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 307389351,
+			"id_str": "307389351",
+			"name": "Hwanmin Kim (Pade)",
+			"screen_name": "Magi_co",
+			"location": "전뇌코어",
+			"description": "그 단체의 사무국장 및 저 단체의 분과 위원장 역을 맡고 있습니다. 자세한 것은 나무위키를 보시면 나옵니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4924,
+			"friends_count": 1247,
+			"listed_count": 105,
+			"created_at": "Sun May 29 15:07:18 +0000 2011",
+			"favourites_count": 1871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132617516897800192/cbobuonl_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132617516897800192/cbobuonl_normal.png",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 450,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "게임이 문화라는 주장의 허와 실, 그리고 현실에 대해 PNN에 기고하였습니다. 연작 기사는 아니지만 어느덧 세번째 기고로 기사가 서로 느슨하게나마 연결되고 있네요. 어쩌다 보니 시의적절하게 발행된 기고가 됐는데, 사실 저번주 사상검증 이슈 전에 탈고된 원고입니다.\nhttps://t.co/clwHtWYQuF"
+	},
+	{
+		"created_at": "Wed Jan 08 01:10:50 +0000 2020",
+		"id": 1214716055144190000,
+		"id_str": "1214716055144189952",
+		"full_text": "간단한 작업: 포토스케이프\n그 다음 GIMP\n그 다음 포토샵/일러스트레이터\n\n이 순서인듯. https://t.co/DxxkrLpA63",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DxxkrLpA63",
+					"expanded_url": "https://twitter.com/ITWorldKR/status/1214430029393940480",
+					"display_url": "twitter.com/ITWorldKR/stat…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214430029393940500,
+		"quoted_status_id_str": "1214430029393940480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DxxkrLpA63",
+			"expanded": "https://twitter.com/ITWorldKR/status/1214430029393940480",
+			"display": "twitter.com/ITWorldKR/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 07 06:14:16 +0000 2020",
+			"id": 1214430029393940500,
+			"id_str": "1214430029393940480",
+			"full_text": "\"무료 Vs. 유료\" 이미지 편집 도구 GIMP와 포토샵 부문별 비교 https://t.co/c13yrM2MfP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c13yrM2MfP",
+						"expanded_url": "https://ift.tt/2Qxkf9Y",
+						"display_url": "ift.tt/2Qxkf9Y",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62671426,
+				"id_str": "62671426",
+				"name": "ITWorld Korea",
+				"screen_name": "ITWorldKR",
+				"location": "South Korea",
+				"description": "ITWorld는 한국IDG가 발행하는 글로벌 IT 정보 전문 미디어로 최신 IT 뉴스와 트렌드 및 국내외 선진 비즈니스 사례를 중점적으로 제공합니다. 더불어 한국IDG에서는 디지털마케팅, 클라우드&데이터센터 월드, 모바일 월드 등 전문적인 연례 컨퍼런스를 개최하고 있습니다.",
+				"url": "http://t.co/zHaUw7dM2J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zHaUw7dM2J",
+								"expanded_url": "http://www.itworld.co.kr",
+								"display_url": "itworld.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9199,
+				"friends_count": 6854,
+				"listed_count": 565,
+				"created_at": "Tue Aug 04 00:48:00 +0000 2009",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34968,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717607376036061184/wDTfE0XT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717607376036061184/wDTfE0XT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62671426/1487390298",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "간단한 작업: 포토스케이프\n그 다음 GIMP\n그 다음 포토샵/일러스트레이터\n\n이 순서인듯. https://t.co/DxxkrLpA63"
+	},
+	{
 		"created_at": "Wed Jan 08 01:00:37 +0000 2020",
 		"id": 1214713482265809000,
 		"id_str": "1214713482265808896",
