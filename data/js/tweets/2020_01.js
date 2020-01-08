@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 00:01:59 +0000 2020",
+		"id": 1214491234552537000,
+		"id_str": "1214698726658150400",
+		"full_text": "본 이베어 2 A Billion 캠페인. 이번주 일요일 예스24 라이브홀에서 열리는 서울 공연 패키지도 현재 경매 진행 중(1/8 마감)이며, 수익금은 한국성폭력상담소애 전달됩니다. https://t.co/AJJqnHhAh6 https://t.co/8tGd7ypxWx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AJJqnHhAh6",
+					"expanded_url": "http://2abillion.org/auction",
+					"display_url": "2abillion.org/auction",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/8tGd7ypxWx",
+					"expanded_url": "https://twitter.com/boniver/status/1214291287458930689",
+					"display_url": "twitter.com/boniver/status…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99042488,
+			"id_str": "99042488",
+			"name": "리플레이 뮤직",
+			"screen_name": "LEAPLAYMUSIC",
+			"location": "서울",
+			"description": "Secretly Distribution(Secretly Canadian, Jagjaguwar, Dead Oceans등)🇺🇸, Playground Music🇸🇪, Warp Records🇬🇧, LuckyMe🇬🇧의 앨범을 국내 배급하고 있습니다.",
+			"url": "https://t.co/pNWHTwp5al",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pNWHTwp5al",
+							"expanded_url": "http://www.instagram.com/leaplay_music",
+							"display_url": "instagram.com/leaplay_music",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1217,
+			"friends_count": 668,
+			"listed_count": 71,
+			"created_at": "Thu Dec 24 06:03:09 +0000 2009",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/639793179248619522/gQ_SqZvi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/639793179248619522/gQ_SqZvi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99042488/1576473425",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214291287458930700,
+		"quoted_status_id_str": "1214291287458930689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8tGd7ypxWx",
+			"expanded": "https://twitter.com/boniver/status/1214291287458930689",
+			"display": "twitter.com/boniver/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 06 21:02:58 +0000 2020",
+			"id": 1214291287458930700,
+			"id_str": "1214291287458930689",
+			"full_text": "Support @stoprape and win tix + signed merch now: https://t.co/gJcmAv3UG6 💚\n\nKSVRC is a women's rights movement organization that responds to sexual violence caused by gender inequality. \n\n한국성폭력상담소는 젠더불평등으로 인해 발생하는 성폭력에 대응하는 여성인권운동단체입니다. https://t.co/epmkkVBab3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stoprape",
+						"name": "한국성폭력상담소 KSVRC",
+						"id": 93385816,
+						"id_str": "93385816",
+						"indices": [
+							8,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gJcmAv3UG6",
+						"expanded_url": "http://2abillion.org/auction",
+						"display_url": "2abillion.org/auction",
+						"indices": [
+							50,
+							73
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1214291282044096500,
+						"id_str": "1214291282044096513",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/ENoHfMgXkAEW5EI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENoHfMgXkAEW5EI.jpg",
+						"url": "https://t.co/epmkkVBab3",
+						"display_url": "pic.twitter.com/epmkkVBab3",
+						"expanded_url": "https://twitter.com/boniver/status/1214291287458930689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1275,
+								"h": 1591,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 962,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 228,
+										"y": 45,
+										"h": 845,
+										"w": 845
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 97,
+										"y": 19,
+										"h": 361,
+										"w": 361
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 172,
+										"y": 33,
+										"h": 637,
+										"w": 637
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 228,
+										"y": 45,
+										"h": 845,
+										"w": 845
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214291282044096500,
+						"id_str": "1214291282044096513",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/ENoHfMgXkAEW5EI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENoHfMgXkAEW5EI.jpg",
+						"url": "https://t.co/epmkkVBab3",
+						"display_url": "pic.twitter.com/epmkkVBab3",
+						"expanded_url": "https://twitter.com/boniver/status/1214291287458930689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1275,
+								"h": 1591,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 962,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 228,
+										"y": 45,
+										"h": 845,
+										"w": 845
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 97,
+										"y": 19,
+										"h": 361,
+										"w": 361
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 172,
+										"y": 33,
+										"h": 637,
+										"w": 637
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 228,
+										"y": 45,
+										"h": 845,
+										"w": 845
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 115512512,
+				"id_str": "115512512",
+				"name": "Bon Iver",
+				"screen_name": "boniver",
+				"location": "Eau Claire, WI",
+				"description": "i,i - out now\n#icommai",
+				"url": "https://t.co/8DHDYhUp7V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8DHDYhUp7V",
+								"expanded_url": "http://boniver.org",
+								"display_url": "boniver.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 754893,
+				"friends_count": 155,
+				"listed_count": 5207,
+				"created_at": "Thu Feb 18 22:31:29 +0000 2010",
+				"favourites_count": 354,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1187,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/115512512/1574704917",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "990E17",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "242324",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "본 이베어 2 A Billion 캠페인. 이번주 일요일 예스24 라이브홀에서 열리는 서울 공연 패키지도 현재 경매 진행 중(1/8 마감)이며, 수익금은 한국성폭력상담소애 전달됩니다. https://t.co/AJJqnHhAh6 https://t.co/8tGd7ypxWx"
+	},
+	{
 		"created_at": "Tue Jan 07 15:42:40 +0000 2020",
 		"id": 1214573069819359200,
 		"id_str": "1214573069819359232",
