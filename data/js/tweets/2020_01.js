@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 13:43:31 +0000 2020",
+		"id": 1214905475923361800,
+		"id_str": "1214905475923361792",
+		"full_text": "#엠넷 #Mnet #Mnet_KPOP\n청하의 데뷔는 곧 전설의 시작,,, 데뷔부터 뒤집어 놓은 청하 연대기 모음집! 띵곡에 미친 퍼포먼스까지 얹은 갓청하 | #다시보는_MCOUNTDOWN | #Diggle\nhttps://t.co/uwUONXGtoW\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엠넷",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "Mnet_KPOP",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"text": "다시보는_MCOUNTDOWN",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "Diggle",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						143,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uwUONXGtoW",
+					"expanded_url": "https://www.youtube.com/watch?v=iFEqRb5OawI",
+					"display_url": "youtube.com/watch?v=iFEqRb…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#엠넷 #Mnet #Mnet_KPOP\n청하의 데뷔는 곧 전설의 시작,,, 데뷔부터 뒤집어 놓은 청하 연대기 모음집! 띵곡에 미친 퍼포먼스까지 얹은 갓청하 | #다시보는_MCOUNTDOWN | #Diggle\nhttps://t.co/uwUONXGtoW\n#청하 #CHUNGHA"
+	},
+	{
+		"created_at": "Wed Jan 08 13:43:31 +0000 2020",
+		"id": 1214905474015023000,
+		"id_str": "1214905474015023105",
+		"full_text": "#엠넷 #Mnet #Mnet_KPOP\n능력이 끝이 없는 지니어스돌 모음집! 전소연, 청하, 헨리, 후이까지! 프로페셔널 모먼트에 그저 앓기만,,♥ | #다시보는_MCOUNTDOWN | #Diggle\nhttps://t.co/umeF4GW4Sm\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엠넷",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "Mnet_KPOP",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"text": "다시보는_MCOUNTDOWN",
+					"indices": [
+						84,
+						100
+					]
+				},
+				{
+					"text": "Diggle",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						139,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/umeF4GW4Sm",
+					"expanded_url": "https://www.youtube.com/watch?v=O4SxQigIZGg",
+					"display_url": "youtube.com/watch?v=O4SxQi…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#엠넷 #Mnet #Mnet_KPOP\n능력이 끝이 없는 지니어스돌 모음집! 전소연, 청하, 헨리, 후이까지! 프로페셔널 모먼트에 그저 앓기만,,♥ | #다시보는_MCOUNTDOWN | #Diggle\nhttps://t.co/umeF4GW4Sm\n#청하 #CHUNGHA"
+	},
+	{
 		"created_at": "Wed Jan 08 12:31:00 +0000 2020",
 		"id": 1214887225764089900,
 		"id_str": "1214887225764089856",
