@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 07:19:29 +0000 2020",
+		"id": 1214808827536838700,
+		"id_str": "1214808827536838656",
+		"full_text": "#SMTOWN #Artist_News\n태연, 정규 2집 리패키지 앨범 ‘Purpose’ 1월 15일 공개\nhttps://t.co/wM39gvrNpg\n#소녀시대 #GirlsGeneration https://t.co/J6BbMnZlUs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						89,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wM39gvrNpg",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3070",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214808826593075200,
+					"id_str": "1214808826593075200",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ENveMQMW4AAgSCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENveMQMW4AAgSCP.jpg",
+					"url": "https://t.co/J6BbMnZlUs",
+					"display_url": "pic.twitter.com/J6BbMnZlUs",
+					"expanded_url": "https://twitter.com/fromminn/status/1214808827536838656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 5,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 5,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 5,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 5,
+									"h": 142,
+									"w": 142
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214808826593075200,
+					"id_str": "1214808826593075200",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ENveMQMW4AAgSCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENveMQMW4AAgSCP.jpg",
+					"url": "https://t.co/J6BbMnZlUs",
+					"display_url": "pic.twitter.com/J6BbMnZlUs",
+					"expanded_url": "https://twitter.com/fromminn/status/1214808827536838656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 5,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 5,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 5,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 5,
+									"h": 142,
+									"w": 142
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 879,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n태연, 정규 2집 리패키지 앨범 ‘Purpose’ 1월 15일 공개\nhttps://t.co/wM39gvrNpg\n#소녀시대 #GirlsGeneration https://t.co/J6BbMnZlUs"
+	},
+	{
 		"created_at": "Wed Jan 08 06:49:22 +0000 2020",
 		"id": 1214801249343856600,
 		"id_str": "1214801249343856640",
