@@ -1,6 +1,1102 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 07:57:07 +0000 2020",
+		"id": 1215173808392294400,
+		"id_str": "1215180687185068033",
+		"full_text": "피켓팅했는데 '배우 변경'...관객들은 어쩌나[NC초점]\nhttps://t.co/nRWo1iSVUY 뉴스컬처 \n#배우변경 #피켓팅",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우변경",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "피켓팅",
+					"indices": [
+						68,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nRWo1iSVUY",
+					"expanded_url": "http://nc.asiae.co.kr/view.htm?sec=0100&idxno=2020010815531983263",
+					"display_url": "nc.asiae.co.kr/view.htm?sec=0…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 182004140,
+			"id_str": "182004140",
+			"name": "뉴스컬처(공연문화)",
+			"screen_name": "NewsCulture",
+			"location": "",
+			"description": "공연문화(뮤지컬/연극/오페라/무용/클래식/전시)를 전하는 문화전문 뉴스컬처 공식 트위터입니다 :)",
+			"url": "https://t.co/Niib6uDjnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Niib6uDjnZ",
+							"expanded_url": "http://nc.asiae.co.kr/",
+							"display_url": "nc.asiae.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19441,
+			"friends_count": 17191,
+			"listed_count": 182,
+			"created_at": "Mon Aug 23 16:01:10 +0000 2010",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984582007127654400/F6S6NW35_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984582007127654400/F6S6NW35_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/182004140/1526608062",
+			"profile_link_color": "008ED2",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "피켓팅했는데 '배우 변경'...관객들은 어쩌나[NC초점]\nhttps://t.co/nRWo1iSVUY 뉴스컬처 \n#배우변경 #피켓팅"
+	},
+	{
+		"created_at": "Thu Jan 09 07:52:59 +0000 2020",
+		"id": 1215179647433863200,
+		"id_str": "1215179647433863168",
+		"full_text": "기사를 이렇게 쓰는 것도 능력이네.... 같은 말을 해도 어다르고 아다른데 https://t.co/yVD9DKgHq1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yVD9DKgHq1",
+					"expanded_url": "https://twitter.com/NewsCulture/status/1215173808392294400",
+					"display_url": "twitter.com/NewsCulture/st…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215173808392294400,
+		"quoted_status_id_str": "1215173808392294400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yVD9DKgHq1",
+			"expanded": "https://twitter.com/NewsCulture/status/1215173808392294400",
+			"display": "twitter.com/NewsCulture/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 07:29:47 +0000 2020",
+			"id": 1215173808392294400,
+			"id_str": "1215173808392294400",
+			"full_text": "피켓팅했는데 '배우 변경'...관객들은 어쩌나[NC초점]\nhttps://t.co/nRWo1iSVUY 뉴스컬처 \n#배우변경 #피켓팅",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "배우변경",
+						"indices": [
+							62,
+							67
+						]
+					},
+					{
+						"text": "피켓팅",
+						"indices": [
+							68,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nRWo1iSVUY",
+						"expanded_url": "http://nc.asiae.co.kr/view.htm?sec=0100&idxno=2020010815531983263",
+						"display_url": "nc.asiae.co.kr/view.htm?sec=0…",
+						"indices": [
+							32,
+							55
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 182004140,
+				"id_str": "182004140",
+				"name": "뉴스컬처(공연문화)",
+				"screen_name": "NewsCulture",
+				"location": "",
+				"description": "공연문화(뮤지컬/연극/오페라/무용/클래식/전시)를 전하는 문화전문 뉴스컬처 공식 트위터입니다 :)",
+				"url": "https://t.co/Niib6uDjnZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Niib6uDjnZ",
+								"expanded_url": "http://nc.asiae.co.kr/",
+								"display_url": "nc.asiae.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19441,
+				"friends_count": 17191,
+				"listed_count": 182,
+				"created_at": "Mon Aug 23 16:01:10 +0000 2010",
+				"favourites_count": 72,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29028,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984582007127654400/F6S6NW35_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984582007127654400/F6S6NW35_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/182004140/1526608062",
+				"profile_link_color": "008ED2",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기사를 이렇게 쓰는 것도 능력이네.... 같은 말을 해도 어다르고 아다른데 https://t.co/yVD9DKgHq1"
+	},
+	{
+		"created_at": "Thu Jan 09 07:50:47 +0000 2020",
+		"id": 1215177883620012000,
+		"id_str": "1215179095014641665",
+		"full_text": "팟캐스트 광고 얼마나 들었는지 알려주는 기술 나왔다 https://t.co/lcLc5SnDzs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lcLc5SnDzs",
+					"expanded_url": "http://www.bloter.net/archives/367384",
+					"display_url": "bloter.net/archives/367384",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56268,
+			"friends_count": 9,
+			"listed_count": 2529,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팟캐스트 광고 얼마나 들었는지 알려주는 기술 나왔다 https://t.co/lcLc5SnDzs"
+	},
+	{
+		"created_at": "Thu Jan 09 07:49:07 +0000 2020",
+		"id": 1215178673982230500,
+		"id_str": "1215178673982230530",
+		"full_text": "#SMTOWN #Artist_News\n엑소, 정규 6집 ‘OBSESSION’ 가온 월간 앨범 차트 2개월 연속 1위!\nhttps://t.co/Ursufd9QpT\n#레드벨벳 #RedVelvet https://t.co/NaEEOu9Xdn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ursufd9QpT",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3073",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215178672715575300,
+					"id_str": "1215178672715575298",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0ukIXXsAIfEZ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0ukIXXsAIfEZ0.jpg",
+					"url": "https://t.co/NaEEOu9Xdn",
+					"display_url": "pic.twitter.com/NaEEOu9Xdn",
+					"expanded_url": "https://twitter.com/fromminn/status/1215178673982230530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 28,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 360,
+									"y": 31,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 403,
+									"y": 224,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 182,
+									"y": 21,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 12,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 28,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 360,
+									"y": 31,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 403,
+									"y": 224,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 182,
+									"y": 21,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 12,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 28,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 360,
+									"y": 31,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 403,
+									"y": 224,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 182,
+									"y": 21,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 12,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 28,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 360,
+									"y": 31,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 403,
+									"y": 224,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 182,
+									"y": 21,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 12,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215178672715575300,
+					"id_str": "1215178672715575298",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0ukIXXsAIfEZ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0ukIXXsAIfEZ0.jpg",
+					"url": "https://t.co/NaEEOu9Xdn",
+					"display_url": "pic.twitter.com/NaEEOu9Xdn",
+					"expanded_url": "https://twitter.com/fromminn/status/1215178673982230530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 28,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 360,
+									"y": 31,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 403,
+									"y": 224,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 182,
+									"y": 21,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 12,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 28,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 360,
+									"y": 31,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 403,
+									"y": 224,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 182,
+									"y": 21,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 12,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 28,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 360,
+									"y": 31,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 403,
+									"y": 224,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 182,
+									"y": 21,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 12,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 28,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 360,
+									"y": 31,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 403,
+									"y": 224,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 182,
+									"y": 21,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 12,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n엑소, 정규 6집 ‘OBSESSION’ 가온 월간 앨범 차트 2개월 연속 1위!\nhttps://t.co/Ursufd9QpT\n#레드벨벳 #RedVelvet https://t.co/NaEEOu9Xdn"
+	},
+	{
+		"created_at": "Thu Jan 09 07:38:19 +0000 2020",
+		"id": 1215175955095990300,
+		"id_str": "1215175955095990272",
+		"full_text": "#펫셔니스타 #탱구\n[펫셔니스타 탱구] EP. 12 LA라서... (Fire 1)\nhttps://t.co/sbwYjlG6gs\n#태연 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sbwYjlG6gs",
+					"expanded_url": "http://www.vlive.tv/video/168658",
+					"display_url": "vlive.tv/video/168658",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#펫셔니스타 #탱구\n[펫셔니스타 탱구] EP. 12 LA라서... (Fire 1)\nhttps://t.co/sbwYjlG6gs\n#태연 #TAEYEON"
+	},
+	{
 		"created_at": "Thu Jan 09 05:40:38 +0000 2020",
 		"id": 1215131412472270800,
 		"id_str": "1215146339056738305",
