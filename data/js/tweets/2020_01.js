@@ -1,6 +1,1043 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 04:40:41 +0000 2020",
+		"id": 1215121220414238700,
+		"id_str": "1215131255198580736",
+		"full_text": "[EVENT] 태연이 전해드립니다! '내게 들려주고 싶은 말'\n\n👉🏻https://t.co/B6NLRgHddr\n\n#태연 #TAEYEON #믿듣탱 #내게_들려주고_싶은_말 #Dear_Me_From_TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "내게_들려주고_싶은_말",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"text": "Dear_Me_From_TAEYEON",
+					"indices": [
+						95,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B6NLRgHddr",
+					"expanded_url": "http://naver.me/FB6ZWcIO",
+					"display_url": "naver.me/FB6ZWcIO",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3535469,
+			"friends_count": 4,
+			"listed_count": 5961,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1150,
+		"favorite_count": 2074,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT] 태연이 전해드립니다! '내게 들려주고 싶은 말'\n\n👉🏻https://t.co/B6NLRgHddr\n\n#태연 #TAEYEON #믿듣탱 #내게_들려주고_싶은_말 #Dear_Me_From_TAEYEON"
+	},
+	{
+		"created_at": "Thu Jan 09 04:40:37 +0000 2020",
+		"id": 1215118463171088400,
+		"id_str": "1215131237922279425",
+		"full_text": "#EXO’s 6th album ‘#OBSESSION’ and #RedVelvet’s album ‘’The ReVe Festival’ Finale’ and their lead song ‘#Psycho’ have been ranked no. 1 respectively for two consecutive months and 2 weeks in a row on GAON’s Monthly Albums chart and GAON’s Weekly Albums and Download chart!🏆 👏 https://t.co/FfOCHnMsad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EXO",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "OBSESSION",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215118447878627300,
+					"id_str": "1215118447878627328",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ENz3ylXUYAA-hmE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENz3ylXUYAA-hmE.jpg",
+					"url": "https://t.co/FfOCHnMsad",
+					"display_url": "pic.twitter.com/FfOCHnMsad",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215118463171088384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1120,
+							"h": 1400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873115441303924736",
+									"screen_name": "weareoneEXO",
+									"name": "EXO"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 671,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 456,
+									"y": 319,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 636,
+									"y": 320,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 386,
+									"y": 754,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 109,
+									"y": 147,
+									"h": 362,
+									"w": 362
+								},
+								{
+									"x": 270,
+									"y": 180,
+									"h": 311,
+									"w": 311
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 410,
+									"y": 380,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 258,
+									"y": 181,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 360,
+									"y": 181,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 219,
+									"y": 427,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 62,
+									"y": 83,
+									"h": 205,
+									"w": 205
+								},
+								{
+									"x": 153,
+									"y": 102,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 846,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 533,
+									"y": 373,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 742,
+									"y": 374,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 451,
+									"y": 880,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 128,
+									"y": 172,
+									"h": 423,
+									"w": 423
+								},
+								{
+									"x": 315,
+									"y": 210,
+									"h": 363,
+									"w": 363
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 846,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 533,
+									"y": 373,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 742,
+									"y": 374,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 451,
+									"y": 880,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 128,
+									"y": 172,
+									"h": 423,
+									"w": 423
+								},
+								{
+									"x": 315,
+									"y": 210,
+									"h": 363,
+									"w": 363
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215118447878627300,
+					"id_str": "1215118447878627328",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ENz3ylXUYAA-hmE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENz3ylXUYAA-hmE.jpg",
+					"url": "https://t.co/FfOCHnMsad",
+					"display_url": "pic.twitter.com/FfOCHnMsad",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215118463171088384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1120,
+							"h": 1400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873115441303924736",
+									"screen_name": "weareoneEXO",
+									"name": "EXO"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 671,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 456,
+									"y": 319,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 636,
+									"y": 320,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 386,
+									"y": 754,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 109,
+									"y": 147,
+									"h": 362,
+									"w": 362
+								},
+								{
+									"x": 270,
+									"y": 180,
+									"h": 311,
+									"w": 311
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 410,
+									"y": 380,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 258,
+									"y": 181,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 360,
+									"y": 181,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 219,
+									"y": 427,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 62,
+									"y": 83,
+									"h": 205,
+									"w": 205
+								},
+								{
+									"x": 153,
+									"y": 102,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 846,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 533,
+									"y": 373,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 742,
+									"y": 374,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 451,
+									"y": 880,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 128,
+									"y": 172,
+									"h": 423,
+									"w": 423
+								},
+								{
+									"x": 315,
+									"y": 210,
+									"h": 363,
+									"w": 363
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 846,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 533,
+									"y": 373,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 742,
+									"y": 374,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 451,
+									"y": 880,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 128,
+									"y": 172,
+									"h": 423,
+									"w": 423
+								},
+								{
+									"x": 315,
+									"y": 210,
+									"h": 363,
+									"w": 363
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215118447887052800,
+					"id_str": "1215118447887052800",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ENz3ylZU8AA9lbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENz3ylZU8AA9lbM.jpg",
+					"url": "https://t.co/FfOCHnMsad",
+					"display_url": "pic.twitter.com/FfOCHnMsad",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215118463171088384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873115441303924736",
+									"screen_name": "weareoneEXO",
+									"name": "EXO"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 563,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 704,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 318,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 704,
+									"h": 67,
+									"w": 67
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8074798,
+			"friends_count": 49,
+			"listed_count": 9738,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14057,
+		"favorite_count": 29816,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#EXO’s 6th album ‘#OBSESSION’ and #RedVelvet’s album ‘’The ReVe Festival’ Finale’ and their lead song ‘#Psycho’ have been ranked no. 1 respectively for two consecutive months and 2 weeks in a row on GAON’s Monthly Albums chart and GAON’s Weekly Albums and Download chart!🏆 👏 https://t.co/FfOCHnMsad"
+	},
+	{
+		"created_at": "Thu Jan 09 04:17:52 +0000 2020",
+		"id": 1215106035561533400,
+		"id_str": "1215125509643759618",
+		"full_text": "[이달의소녀탐구 #553]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/FCFqtsGHrB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215105853029679000,
+					"id_str": "1215105853029679104",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215105853029679104/pu/img/MtR3LVZGuzHCC_YB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215105853029679104/pu/img/MtR3LVZGuzHCC_YB.jpg",
+					"url": "https://t.co/FCFqtsGHrB",
+					"display_url": "pic.twitter.com/FCFqtsGHrB",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1215106035561533440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215105853029679000,
+					"id_str": "1215105853029679104",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215105853029679104/pu/img/MtR3LVZGuzHCC_YB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215105853029679104/pu/img/MtR3LVZGuzHCC_YB.jpg",
+					"url": "https://t.co/FCFqtsGHrB",
+					"display_url": "pic.twitter.com/FCFqtsGHrB",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1215106035561533440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58392,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1215105853029679104/pu/pl/cGXT7CUQY24je4Yo.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215105853029679104/pu/vid/480x270/dNLl-JpEPwyIX0JS.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215105853029679104/pu/vid/640x360/b-N-NKN1hcYipNtE.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215105853029679104/pu/vid/1280x720/IjY70zZz1GkGnlV5.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382645,
+			"friends_count": 0,
+			"listed_count": 5559,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3497,
+		"favorite_count": 9248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #553]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/FCFqtsGHrB"
+	},
+	{
 		"created_at": "Thu Jan 09 03:58:10 +0000 2020",
 		"id": 1215120555655028700,
 		"id_str": "1215120555655028736",
