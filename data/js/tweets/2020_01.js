@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 05:40:38 +0000 2020",
+		"id": 1215131412472270800,
+		"id_str": "1215146339056738305",
+		"full_text": "백예린 단독공연\n&lt;Turn on that Blue Vinyl&gt; 티켓오픈 D-DAY!\n\n오늘 저녁 8시 (KST), 멜론티켓과 YES24에서 백예린 단독공연 티켓오픈이 시작됩니다. 우리 모두 공연장에서 만나요🦋\n💿 공연일시\n2020. 2. 8 (토) 7PM\n2020. 2. 9 (일) 5PM\n💿 티켓오픈 : 2020. 1. 9 (목) 8PM (KST) / 멜론티켓, YES24 https://t.co/PXUVlJytR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215131401466417200,
+					"id_str": "1215131401466417154",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0DklPUEAIMb0o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0DklPUEAIMb0o.jpg",
+					"url": "https://t.co/PXUVlJytR0",
+					"display_url": "pic.twitter.com/PXUVlJytR0",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1215131412472270848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215131401466417200,
+					"id_str": "1215131401466417154",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0DklPUEAIMb0o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0DklPUEAIMb0o.jpg",
+					"url": "https://t.co/PXUVlJytR0",
+					"display_url": "pic.twitter.com/PXUVlJytR0",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1215131412472270848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4637,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백예린 단독공연\n&lt;Turn on that Blue Vinyl&gt; 티켓오픈 D-DAY!\n\n오늘 저녁 8시 (KST), 멜론티켓과 YES24에서 백예린 단독공연 티켓오픈이 시작됩니다. 우리 모두 공연장에서 만나요🦋\n💿 공연일시\n2020. 2. 8 (토) 7PM\n2020. 2. 9 (일) 5PM\n💿 티켓오픈 : 2020. 1. 9 (목) 8PM (KST) / 멜론티켓, YES24 https://t.co/PXUVlJytR0"
+	},
+	{
 		"created_at": "Thu Jan 09 04:40:41 +0000 2020",
 		"id": 1215121220414238700,
 		"id_str": "1215131255198580736",
