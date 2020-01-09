@@ -1,6 +1,509 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 12:49:08 +0000 2020",
+		"id": 1215177475434528800,
+		"id_str": "1215254176969588737",
+		"full_text": "'딜리버리히어로'의 '우아한형제들' M&amp;A는 아직 최종확정되지 않았습니다. 공정위 '기업결합심사'가 남아있기 떄문인데요. 과연 배달앱 1~3위 서비스가 한 회사 소속이 될 수도 있을까요? '배달의민족'이 여기까지 오면서 직면했던 법률 이슈들을 되짚어봤습니다.\nhttps://t.co/loHIq4sgkW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/loHIq4sgkW",
+					"expanded_url": "https://outstanding.kr/baemin200109/",
+					"display_url": "outstanding.kr/baemin200109/",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47008,
+			"friends_count": 449,
+			"listed_count": 135,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'딜리버리히어로'의 '우아한형제들' M&amp;A는 아직 최종확정되지 않았습니다. 공정위 '기업결합심사'가 남아있기 떄문인데요. 과연 배달앱 1~3위 서비스가 한 회사 소속이 될 수도 있을까요? '배달의민족'이 여기까지 오면서 직면했던 법률 이슈들을 되짚어봤습니다.\nhttps://t.co/loHIq4sgkW"
+	},
+	{
+		"created_at": "Thu Jan 09 12:48:12 +0000 2020",
+		"id": 1214909531517382700,
+		"id_str": "1215253939177676800",
+		"full_text": "아들이 요새 프로그래밍 온라인강의를 사서 듣는데 강의 하시는 분 발음이 너무 좋다고 감탄 감탄하며 나에게도 들어보라고 보여주는데 진짜 아나운서보다 더 듣기 좋고 전달력이 좋다. Angela Yu  대단한 분이시다!\nhttps://t.co/iezbUNHn38",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iezbUNHn38",
+					"expanded_url": "https://youtu.be/bUQz9ZWjsvc",
+					"display_url": "youtu.be/bUQz9ZWjsvc",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176848055,
+			"id_str": "176848055",
+			"name": "fionasse",
+			"screen_name": "fionasse",
+			"location": "",
+			"description": "자유롭게 자연스럽게",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9603,
+			"friends_count": 352,
+			"listed_count": 95,
+			"created_at": "Tue Aug 10 16:11:03 +0000 2010",
+			"favourites_count": 8288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048880589049192449/JzpyVJSc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048880589049192449/JzpyVJSc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176848055/1538262618",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아들이 요새 프로그래밍 온라인강의를 사서 듣는데 강의 하시는 분 발음이 너무 좋다고 감탄 감탄하며 나에게도 들어보라고 보여주는데 진짜 아나운서보다 더 듣기 좋고 전달력이 좋다. Angela Yu  대단한 분이시다!\nhttps://t.co/iezbUNHn38"
+	},
+	{
+		"created_at": "Thu Jan 09 12:40:39 +0000 2020",
+		"id": 1215214379244892200,
+		"id_str": "1215252040248590342",
+		"full_text": "The band talks finding their place and resisting the urge to conform.  https://t.co/vuOjGvlIcG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vuOjGvlIcG",
+					"expanded_url": "https://i-d.co/35AhrwT",
+					"display_url": "i-d.co/35AhrwT",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20225875,
+			"id_str": "20225875",
+			"name": "i-D",
+			"screen_name": "i_D",
+			"location": "🌍",
+			"description": "The original fashion and style bible.",
+			"url": "https://t.co/WgoWYQryq4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WgoWYQryq4",
+							"expanded_url": "http://www.i-D.co",
+							"display_url": "i-D.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578715,
+			"friends_count": 635,
+			"listed_count": 9485,
+			"created_at": "Fri Feb 06 09:43:22 +0000 2009",
+			"favourites_count": 2263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920318562467708928/2SA_FmrH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920318562467708928/2SA_FmrH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20225875/1574174538",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The band talks finding their place and resisting the urge to conform.  https://t.co/vuOjGvlIcG"
+	},
+	{
+		"created_at": "Thu Jan 09 12:20:02 +0000 2020",
+		"id": 1215241865995251700,
+		"id_str": "1215246853186306048",
+		"full_text": "중국 원인불명 폐렴, '신종 코로나' 잠정결론…백신 없어 https://t.co/4zpLTUVKkf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4zpLTUVKkf",
+					"expanded_url": "http://news.jtbc.joins.com/html/784/NB11928784.html",
+					"display_url": "news.jtbc.joins.com/html/784/NB119…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612052,
+			"friends_count": 45880,
+			"listed_count": 2366,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1578561632",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중국 원인불명 폐렴, '신종 코로나' 잠정결론…백신 없어 https://t.co/4zpLTUVKkf"
+	},
+	{
+		"created_at": "Thu Jan 09 12:06:01 +0000 2020",
+		"id": 1215000310931964000,
+		"id_str": "1215243325873127425",
+		"full_text": "I intend to retire as solo artist after album no3 as I have just had a call from my brother begging me to start oasis again in 2022 if you believe in life after love c’mon you know LG x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21181713,
+			"id_str": "21181713",
+			"name": "Liam Gallagher",
+			"screen_name": "liamgallagher",
+			"location": "",
+			"description": "ROCK N ROLL STAR GODLIKE GENIUS ICON LEGEND BIBLICAL OMNIPRESENT NORTHERN SOUL FUNNY CUNT ROLE MODEL MISUNDERSTOOD BUDDHIST JEDI HUMBLE APPROACHABLE LOVER",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3197080,
+			"friends_count": 0,
+			"listed_count": 6815,
+			"created_at": "Wed Feb 18 09:23:31 +0000 2009",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970644649013665793/aKUB79Yd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970644649013665793/aKUB79Yd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21181713/1520254118",
+			"profile_link_color": "4A4A4A",
+			"profile_sidebar_border_color": "EBEBEB",
+			"profile_sidebar_fill_color": "F7F7F7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25786,
+		"favorite_count": 129765,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I intend to retire as solo artist after album no3 as I have just had a call from my brother begging me to start oasis again in 2022 if you believe in life after love c’mon you know LG x"
+	},
+	{
 		"created_at": "Thu Jan 09 12:01:50 +0000 2020",
 		"id": 1215241093123469300,
 		"id_str": "1215242270972112898",
