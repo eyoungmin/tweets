@@ -1,6 +1,1928 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 09:47:16 +0000 2020",
+		"id": 1215208408426483700,
+		"id_str": "1215208408426483712",
+		"full_text": "Integromat 리밋이 풀렸구나. 무엇보다 Webhooks가 메뉴에 있을만큼 신경많이 쓴 Automation 서비스란 생각. 어떻게 활용할지 고민해봐야겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Integromat 리밋이 풀렸구나. 무엇보다 Webhooks가 메뉴에 있을만큼 신경많이 쓴 Automation 서비스란 생각. 어떻게 활용할지 고민해봐야겠다."
+	},
+	{
+		"created_at": "Thu Jan 09 09:45:19 +0000 2020",
+		"id": 1215207915742793700,
+		"id_str": "1215207915742793731",
+		"full_text": "#더수토리 #the_sootory\n[The SOOTORY #7] 언니 화장대에서 몰래 화장하고 티파니와 뮤지컬 보러가요😉\nhttps://t.co/9xBgZe3SWT\n#수영 #SOOYOUNG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더수토리",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "the_sootory",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9xBgZe3SWT",
+					"expanded_url": "https://youtu.be/ipRUr9cz3Mg",
+					"display_url": "youtu.be/ipRUr9cz3Mg",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#더수토리 #the_sootory\n[The SOOTORY #7] 언니 화장대에서 몰래 화장하고 티파니와 뮤지컬 보러가요😉\nhttps://t.co/9xBgZe3SWT\n#수영 #SOOYOUNG"
+	},
+	{
+		"created_at": "Thu Jan 09 09:42:57 +0000 2020",
+		"id": 1215207322085032000,
+		"id_str": "1215207322085031938",
+		"full_text": "뉴미디어랍시고 쓰레기글 양산해 대중에게나 당사자에게나 피해주는 본인부터 돌아봐야.\nhttps://t.co/bhp4JwYiIv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bhp4JwYiIv",
+					"expanded_url": "http://spotvnews.co.kr/?mod=news&act=articleView&idxno=338436",
+					"display_url": "spotvnews.co.kr/?mod=news&act=…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215206601218379800,
+		"in_reply_to_status_id_str": "1215206601218379777",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴미디어랍시고 쓰레기글 양산해 대중에게나 당사자에게나 피해주는 본인부터 돌아봐야.\nhttps://t.co/bhp4JwYiIv"
+	},
+	{
+		"created_at": "Thu Jan 09 09:40:05 +0000 2020",
+		"id": 1215206601218379800,
+		"id_str": "1215206601218379777",
+		"full_text": "남이사 무슨 피어싱을 하건 문신을 하건 진심 헬조센은 '그렇구나' 하는 문화가 너무 절실하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "남이사 무슨 피어싱을 하건 문신을 하건 진심 헬조센은 '그렇구나' 하는 문화가 너무 절실하다."
+	},
+	{
+		"created_at": "Thu Jan 09 09:39:45 +0000 2020",
+		"id": 1215196176535806000,
+		"id_str": "1215206514002145282",
+		"full_text": "[💌 From. #JOY To. #SMTOWN]\n\nHello SMTOWN! It’s JOY 💚\nSBS &lt;진짜 농구, 핸섬타이거즈&gt;, the variety show of team ‘Handsome Tigers’’ challenge to participate in the amateur basketball league, will air its 1st episode tomorrow at 11:10 PM KST! \n\n#조이 #레드벨벳 #RedVelvet @RVsmtown https://t.co/AeSA0kQIlm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						236,
+						239
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						240,
+						245
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						246,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						257,
+						266
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215196163411869700,
+					"id_str": "1215196163411869697",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0-eOSVAAET9oA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0-eOSVAAET9oA.jpg",
+					"url": "https://t.co/AeSA0kQIlm",
+					"display_url": "pic.twitter.com/AeSA0kQIlm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215196176535805952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 158,
+									"y": 123,
+									"h": 266,
+									"w": 266
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 224,
+									"y": 175,
+									"h": 376,
+									"w": 376
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 224,
+									"y": 175,
+									"h": 376,
+									"w": 376
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 224,
+									"y": 175,
+									"h": 376,
+									"w": 376
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215196163411869700,
+					"id_str": "1215196163411869697",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0-eOSVAAET9oA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0-eOSVAAET9oA.jpg",
+					"url": "https://t.co/AeSA0kQIlm",
+					"display_url": "pic.twitter.com/AeSA0kQIlm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215196176535805952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 158,
+									"y": 123,
+									"h": 266,
+									"w": 266
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 224,
+									"y": 175,
+									"h": 376,
+									"w": 376
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 224,
+									"y": 175,
+									"h": 376,
+									"w": 376
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 224,
+									"y": 175,
+									"h": 376,
+									"w": 376
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8075685,
+			"friends_count": 49,
+			"listed_count": 9736,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2305,
+		"favorite_count": 5822,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💌 From. #JOY To. #SMTOWN]\n\nHello SMTOWN! It’s JOY 💚\nSBS &lt;진짜 농구, 핸섬타이거즈&gt;, the variety show of team ‘Handsome Tigers’’ challenge to participate in the amateur basketball league, will air its 1st episode tomorrow at 11:10 PM KST! \n\n#조이 #레드벨벳 #RedVelvet @RVsmtown https://t.co/AeSA0kQIlm"
+	},
+	{
+		"created_at": "Thu Jan 09 09:37:28 +0000 2020",
+		"id": 1215205941064286200,
+		"id_str": "1215205941064286214",
+		"full_text": "샘플 영상이나 사진이 거짓인 상황이 많아짐에 따라 드는 생각은 예전에 이미디오라는 이미지를 검색해 영상을 보여주던 '이미디오'라는 서비스가 생각난다. 저작권자인 방송사가 제공중단을 요청해서 결국 하나씩 내려가고 결국 서비스 종료. ACR 기술이 중요해지는 요즘이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "샘플 영상이나 사진이 거짓인 상황이 많아짐에 따라 드는 생각은 예전에 이미디오라는 이미지를 검색해 영상을 보여주던 '이미디오'라는 서비스가 생각난다. 저작권자인 방송사가 제공중단을 요청해서 결국 하나씩 내려가고 결국 서비스 종료. ACR 기술이 중요해지는 요즘이다."
+	},
+	{
+		"created_at": "Thu Jan 09 09:33:10 +0000 2020",
+		"id": 1215204857449050000,
+		"id_str": "1215204857449050113",
+		"full_text": "와디즈 1위에 올라있을 때, 들어가서 봤는데 답변 회피하는 게 이상하더라니. 그리고 무엇보다 샘플영상을 본사에서 받아 왔다하고 직접 찍어 올려달라는 댓글에 별 차이 없다며 회피하는 답변이 인상깊어서 바로 스킵했는데 역시나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215204634412732400,
+		"in_reply_to_status_id_str": "1215204634412732416",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "와디즈 1위에 올라있을 때, 들어가서 봤는데 답변 회피하는 게 이상하더라니. 그리고 무엇보다 샘플영상을 본사에서 받아 왔다하고 직접 찍어 올려달라는 댓글에 별 차이 없다며 회피하는 답변이 인상깊어서 바로 스킵했는데 역시나."
+	},
+	{
+		"created_at": "Thu Jan 09 09:32:16 +0000 2020",
+		"id": 1215204634412732400,
+		"id_str": "1215204634412732416",
+		"full_text": "셀카봉 대신 셀카 드론?_와디즈, 헬셀, 에어셀피\nhttps://t.co/iNZvcMBPlV \n\n#와디즈 #Wadiz #셀카드론 #크라우드펀딩 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "와디즈",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "Wadiz",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "셀카드론",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "크라우드펀딩",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iNZvcMBPlV",
+					"expanded_url": "https://youtu.be/LhGo6xb71j4",
+					"display_url": "youtu.be/LhGo6xb71j4",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "셀카봉 대신 셀카 드론?_와디즈, 헬셀, 에어셀피\nhttps://t.co/iNZvcMBPlV \n\n#와디즈 #Wadiz #셀카드론 #크라우드펀딩 #minfav"
+	},
+	{
+		"created_at": "Thu Jan 09 09:29:59 +0000 2020",
+		"id": 1215204056618025000,
+		"id_str": "1215204056618024965",
+		"full_text": "당신이 믿은 유튜버의 배신\nhttps://t.co/yVpwoqjjKL\n\n사기꾼이 판치는 세상\n\n#사망여우 #사기꾼 #유튜버 #인플루언서 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사망여우",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "사기꾼",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "유튜버",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "인플루언서",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yVpwoqjjKL",
+					"expanded_url": "https://youtu.be/1VPkOjYro54",
+					"display_url": "youtu.be/1VPkOjYro54",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신이 믿은 유튜버의 배신\nhttps://t.co/yVpwoqjjKL\n\n사기꾼이 판치는 세상\n\n#사망여우 #사기꾼 #유튜버 #인플루언서 #minfav"
+	},
+	{
+		"created_at": "Thu Jan 09 09:28:23 +0000 2020",
+		"id": 1215202465726918700,
+		"id_str": "1215203654875017216",
+		"full_text": "[‘수퍼 디스코’ VOD 오픈]\n“극장 상영 끝나면 어디서 볼 수 있나요?” 많은 분들이 궁금해 하신 질문, 답을 드립니다. ⠀\n\n오늘(8일 목) IPTV와 각종 동영상 플랫폼을 통해 ‘수퍼 디스코’의 VOD 서비스가 오픈되었습니다. 시간이 안 맞아서 근처에 상영관이 없어서 못 보신 분들, 이제 편하게 보세요 https://t.co/qIwo7UzpUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215202457250193400,
+					"id_str": "1215202457250193409",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EN1EMkqUYAEU-Dg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN1EMkqUYAEU-Dg.jpg",
+					"url": "https://t.co/qIwo7UzpUN",
+					"display_url": "pic.twitter.com/qIwo7UzpUN",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1215202465726918658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215202457250193400,
+					"id_str": "1215202457250193409",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EN1EMkqUYAEU-Dg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN1EMkqUYAEU-Dg.jpg",
+					"url": "https://t.co/qIwo7UzpUN",
+					"display_url": "pic.twitter.com/qIwo7UzpUN",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1215202465726918658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7330,
+			"friends_count": 524,
+			"listed_count": 45,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[‘수퍼 디스코’ VOD 오픈]\n“극장 상영 끝나면 어디서 볼 수 있나요?” 많은 분들이 궁금해 하신 질문, 답을 드립니다. ⠀\n\n오늘(8일 목) IPTV와 각종 동영상 플랫폼을 통해 ‘수퍼 디스코’의 VOD 서비스가 오픈되었습니다. 시간이 안 맞아서 근처에 상영관이 없어서 못 보신 분들, 이제 편하게 보세요 https://t.co/qIwo7UzpUN"
+	},
+	{
+		"created_at": "Thu Jan 09 09:27:55 +0000 2020",
+		"id": 1215203537954562000,
+		"id_str": "1215203537954562048",
+		"full_text": "[위클리 뮤직 뉴스]한 눈에 보는 1월 둘째 주 빌보드 소식\nhttps://t.co/YTNTEsasWd \n\n&gt; World Digital Song Sales 차트 Red Velvet의 'Psycho'가 1위\n\n#Melon #멜론 #멜론매거진\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YTNTEsasWd",
+					"expanded_url": "http://kko.to/dJRr5-KjH",
+					"display_url": "kko.to/dJRr5-KjH",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[위클리 뮤직 뉴스]한 눈에 보는 1월 둘째 주 빌보드 소식\nhttps://t.co/YTNTEsasWd \n\n&gt; World Digital Song Sales 차트 Red Velvet의 'Psycho'가 1위\n\n#Melon #멜론 #멜론매거진\n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Thu Jan 09 09:17:02 +0000 2020",
+		"id": 1215200798973423600,
+		"id_str": "1215200798973423616",
+		"full_text": "티케팅 성공하게 해주세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 880,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "티케팅 성공하게 해주세요!"
+	},
+	{
+		"created_at": "Thu Jan 09 09:14:33 +0000 2020",
+		"id": 1212710460589592600,
+		"id_str": "1215200175854981120",
+		"full_text": "#멜론티켓 #티켓오픈소식\n[오픈] 20.01.09(목) 백예린 단독공연 “Turn on that Blue Vinyl” 티켓 오픈 안내\nhttps://t.co/3bYvb7IMy2 https://t.co/aRQJ7Scq9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bYvb7IMy2",
+					"expanded_url": "http://bit.ly/36gqQLa",
+					"display_url": "bit.ly/36gqQLa",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212710459310301200,
+					"id_str": "1212710459310301184",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/ENRpvM6XYAABMyb.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENRpvM6XYAABMyb.png",
+					"url": "https://t.co/aRQJ7Scq9D",
+					"display_url": "pic.twitter.com/aRQJ7Scq9D",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1212710460589592576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212710459310301200,
+					"id_str": "1212710459310301184",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/ENRpvM6XYAABMyb.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENRpvM6XYAABMyb.png",
+					"url": "https://t.co/aRQJ7Scq9D",
+					"display_url": "pic.twitter.com/aRQJ7Scq9D",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1212710460589592576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2400267686,
+			"id_str": "2400267686",
+			"name": "멜론 티켓 - 티켓오픈소식",
+			"screen_name": "MelonTicketOpen",
+			"location": "",
+			"description": "#멜론티켓 #티켓오픈소식 비공식 봇",
+			"url": "https://t.co/XUApYV815i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XUApYV815i",
+							"expanded_url": "https://ticket.melon.com/csoon/index.htm",
+							"display_url": "ticket.melon.com/csoon/index.htm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Thu Mar 20 18:19:10 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400267686/1575564440",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론티켓 #티켓오픈소식\n[오픈] 20.01.09(목) 백예린 단독공연 “Turn on that Blue Vinyl” 티켓 오픈 안내\nhttps://t.co/3bYvb7IMy2 https://t.co/aRQJ7Scq9D"
+	},
+	{
 		"created_at": "Thu Jan 09 08:19:06 +0000 2020",
 		"id": 1215186219405103000,
 		"id_str": "1215186219405103105",
