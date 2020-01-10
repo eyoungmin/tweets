@@ -1,6 +1,1783 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 17:41:00 +0000 2020",
+		"id": 1214100669822431200,
+		"id_str": "1215690015944081410",
+		"full_text": "시부야 타워레코드에서 만난… 아도이 ADOY와 검엑스 GUMX 앨범과 홍보대… 아도이 앨범은 그나마(?) 수입반(즉, 한국 앨범 직수입)이지만 검엑스 앨범은 한국에서는 실물 앨범을 아예 못 내고 일본에서만… 여러모로 K-POP이 놓인, 특히 일본과 관계맺는 방식을 무척 단적으로 드러내는 모습들. https://t.co/pjg6PbKMsd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214100647013826600,
+					"id_str": "1214100647013826560",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENlaGxrUwAA2lri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENlaGxrUwAA2lri.jpg",
+					"url": "https://t.co/pjg6PbKMsd",
+					"display_url": "pic.twitter.com/pjg6PbKMsd",
+					"expanded_url": "https://twitter.com/skyjets_/status/1214100669822431232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 245,
+									"y": 365,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 340,
+									"y": 63,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 233,
+									"y": 177,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 30,
+									"y": 628,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 1100,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1026,
+									"y": 192,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 704,
+									"y": 536,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 92,
+									"y": 1894,
+									"h": 130,
+									"w": 130
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 1100,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1026,
+									"y": 192,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 704,
+									"y": 536,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 92,
+									"y": 1894,
+									"h": 130,
+									"w": 130
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 644,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 601,
+									"y": 112,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 412,
+									"y": 314,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 53,
+									"y": 1109,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214100647013826600,
+					"id_str": "1214100647013826560",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENlaGxrUwAA2lri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENlaGxrUwAA2lri.jpg",
+					"url": "https://t.co/pjg6PbKMsd",
+					"display_url": "pic.twitter.com/pjg6PbKMsd",
+					"expanded_url": "https://twitter.com/skyjets_/status/1214100669822431232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 245,
+									"y": 365,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 340,
+									"y": 63,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 233,
+									"y": 177,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 30,
+									"y": 628,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 1100,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1026,
+									"y": 192,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 704,
+									"y": 536,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 92,
+									"y": 1894,
+									"h": 130,
+									"w": 130
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 1100,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1026,
+									"y": 192,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 704,
+									"y": 536,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 92,
+									"y": 1894,
+									"h": 130,
+									"w": 130
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 644,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 601,
+									"y": 112,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 412,
+									"y": 314,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 53,
+									"y": 1109,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214100647017992200,
+					"id_str": "1214100647017992192",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENlaGxsUUAAI5u9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENlaGxsUUAAI5u9.jpg",
+					"url": "https://t.co/pjg6PbKMsd",
+					"display_url": "pic.twitter.com/pjg6PbKMsd",
+					"expanded_url": "https://twitter.com/skyjets_/status/1214100669822431232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 553,
+									"y": 260,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 944,
+									"y": 444,
+									"h": 236,
+									"w": 236
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 313,
+									"y": 147,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 944,
+									"y": 444,
+									"h": 236,
+									"w": 236
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214100647038963700,
+					"id_str": "1214100647038963712",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENlaGxxUUAApdZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENlaGxxUUAApdZy.jpg",
+					"url": "https://t.co/pjg6PbKMsd",
+					"display_url": "pic.twitter.com/pjg6PbKMsd",
+					"expanded_url": "https://twitter.com/skyjets_/status/1214100669822431232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 528,
+									"y": 376,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 75,
+									"y": 303,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 201,
+									"y": 309,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 319,
+									"y": 309,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1592,
+									"y": 1134,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 226,
+									"y": 914,
+									"h": 308,
+									"w": 308
+								},
+								{
+									"x": 608,
+									"y": 932,
+									"h": 292,
+									"w": 292
+								},
+								{
+									"x": 962,
+									"y": 932,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 932,
+									"y": 664,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 132,
+									"y": 535,
+									"h": 180,
+									"w": 180
+								},
+								{
+									"x": 356,
+									"y": 546,
+									"h": 171,
+									"w": 171
+								},
+								{
+									"x": 563,
+									"y": 546,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1592,
+									"y": 1134,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 226,
+									"y": 914,
+									"h": 308,
+									"w": 308
+								},
+								{
+									"x": 608,
+									"y": 932,
+									"h": 292,
+									"w": 292
+								},
+								{
+									"x": 962,
+									"y": 932,
+									"h": 312,
+									"w": 312
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214100647013781500,
+					"id_str": "1214100647013781505",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENlaGxrUEAE-pHM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENlaGxrUEAE-pHM.jpg",
+					"url": "https://t.co/pjg6PbKMsd",
+					"display_url": "pic.twitter.com/pjg6PbKMsd",
+					"expanded_url": "https://twitter.com/skyjets_/status/1214100669822431232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 950,
+									"y": 986,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 1562,
+									"y": 816,
+									"h": 436,
+									"w": 436
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 577,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 915,
+									"y": 478,
+									"h": 255,
+									"w": 255
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 315,
+									"y": 327,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 518,
+									"y": 270,
+									"h": 144,
+									"w": 144
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 950,
+									"y": 986,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 1562,
+									"y": 816,
+									"h": 436,
+									"w": 436
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48958286,
+			"id_str": "48958286",
+			"name": "Skyjet // 성상민",
+			"screen_name": "skyjets_",
+			"location": "Korea, Seoul",
+			"description": "주로 만화와 사회에 대한 글을 씁니다. 각종 원고 청탁, 섭외도 환영입니다. / 만화-문화평론가. 영상미디어센터 미디액트 [ACT!] 편집위원. 모두를위한극장 [팝업시네마] 편집위원. 한국독립영화협회 비평분과 정회원. 만화 평론 웹진 [유어마나] 필진. 한빛미디어노동인권센터 기획차장.",
+			"url": "https://t.co/y4z24w0EDo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y4z24w0EDo",
+							"expanded_url": "https://brunch.co.kr/@skyjet",
+							"display_url": "brunch.co.kr/@skyjet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4289,
+			"friends_count": 1507,
+			"listed_count": 95,
+			"created_at": "Sat Jun 20 08:05:27 +0000 2009",
+			"favourites_count": 30789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/272685946/skymini_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/272685946/skymini_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48958286/1542275618",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "f7c22e0cf7b3af2b",
+			"url": "https://api.twitter.com/1.1/geo/id/f7c22e0cf7b3af2b.json",
+			"place_type": "city",
+			"name": "渋谷区",
+			"full_name": "東京 渋谷区",
+			"country_code": "JP",
+			"country": "일본",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							139.661368,
+							35.641564
+						],
+						[
+							139.723884,
+							35.641564
+						],
+						[
+							139.723884,
+							35.692138
+						],
+						[
+							139.661368,
+							35.692138
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시부야 타워레코드에서 만난… 아도이 ADOY와 검엑스 GUMX 앨범과 홍보대… 아도이 앨범은 그나마(?) 수입반(즉, 한국 앨범 직수입)이지만 검엑스 앨범은 한국에서는 실물 앨범을 아예 못 내고 일본에서만… 여러모로 K-POP이 놓인, 특히 일본과 관계맺는 방식을 무척 단적으로 드러내는 모습들. https://t.co/pjg6PbKMsd"
+	},
+	{
+		"created_at": "Fri Jan 10 17:40:52 +0000 2020",
+		"id": 1214082032520683500,
+		"id_str": "1215689981617999873",
+		"full_text": "#Repost \n[STREETFOOT 독자 이벤트]\n⠀\n스트릿풋 Vol.152호  \n밴드 아도이(@adoyband ) \n화보 B컷을 공개\n⠀\n스트릿풋  독자 5분 추첨\n 아도이의 친필 사인이 담긴 정규 앨범 [VIVID]를 선물로 드립니다\n✔ 기간ㅣ 1.6 - 1.19 \n\n자세한 내용은 아래 링크 참조\nhttps://t.co/Gwg3cLFZQU\n\n#adoy #vivid https://t.co/vaiK3tZBud",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Repost",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "adoy",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "vivid",
+					"indices": [
+						201,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Gwg3cLFZQU",
+					"expanded_url": "https://www.instagram.com/p/B6920BWHRcV/?igshid=jlzn1f8vkboy",
+					"display_url": "instagram.com/p/B6920BWHRcV/…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214081963725738000,
+					"id_str": "1214081963725737984",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214081963725737984/pu/img/rTDA2fpVsh9EtSGN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214081963725737984/pu/img/rTDA2fpVsh9EtSGN.jpg",
+					"url": "https://t.co/vaiK3tZBud",
+					"display_url": "pic.twitter.com/vaiK3tZBud",
+					"expanded_url": "https://twitter.com/AdoyFan/status/1214082032520683521/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214081963725738000,
+					"id_str": "1214081963725737984",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214081963725737984/pu/img/rTDA2fpVsh9EtSGN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214081963725737984/pu/img/rTDA2fpVsh9EtSGN.jpg",
+					"url": "https://t.co/vaiK3tZBud",
+					"display_url": "pic.twitter.com/vaiK3tZBud",
+					"expanded_url": "https://twitter.com/AdoyFan/status/1214082032520683521/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							16
+						],
+						"duration_millis": 22032,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1214081963725737984/pu/vid/320x464/BHTVEn26pb9OiPTE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1214081963725737984/pu/pl/sPkt2HdsCb2zExMD.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1214081963725737984/pu/vid/720x1046/P_3Ngv5M0-uawcAn.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1214081963725737984/pu/vid/360x522/i2ppBrQnvAHzyPcM.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1187976092906164200,
+			"id_str": "1187976092906164224",
+			"name": "ADOY_Fan",
+			"screen_name": "AdoyFan",
+			"location": "",
+			"description": "정다영 fan account                                                             \n                                                             \n\n\n\nADOY - Lemon 👇",
+			"url": "https://t.co/00c9ZqwW72",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/00c9ZqwW72",
+							"expanded_url": "https://youtu.be/_xgoYlicwBQ",
+							"display_url": "youtu.be/_xgoYlicwBQ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Sat Oct 26 06:15:55 +0000 2019",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187981879338659840/zj0w0-P4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187981879338659840/zj0w0-P4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1187976092906164224/1573213471",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Repost \n[STREETFOOT 독자 이벤트]\n⠀\n스트릿풋 Vol.152호  \n밴드 아도이(@adoyband ) \n화보 B컷을 공개\n⠀\n스트릿풋  독자 5분 추첨\n 아도이의 친필 사인이 담긴 정규 앨범 [VIVID]를 선물로 드립니다\n✔ 기간ㅣ 1.6 - 1.19 \n\n자세한 내용은 아래 링크 참조\nhttps://t.co/Gwg3cLFZQU\n\n#adoy #vivid https://t.co/vaiK3tZBud"
+	},
+	{
+		"created_at": "Fri Jan 10 17:40:44 +0000 2020",
+		"id": 1215227975819350000,
+		"id_str": "1215689947149164545",
+		"full_text": "Buy GA 2 days 3,499 THB tickets at\nhttps://t.co/KB5HEqvJHi (Age 13+)\n\nSee you at \nMAYA Music festival 2020 \n31 Jan - 1 Feb 2020\nMAYA space, Pattaya, Thailand\n\n#MAYA2020poweredbyKINGPOWER https://t.co/M1FbXo2QxZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAYA2020poweredbyKINGPOWER",
+					"indices": [
+						159,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KB5HEqvJHi",
+					"expanded_url": "http://mayamusicfestival.com",
+					"display_url": "mayamusicfestival.com",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215227960954720300,
+					"id_str": "1215227960954720256",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EN1bZFXUEAA0liX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN1bZFXUEAA0liX.jpg",
+					"url": "https://t.co/M1FbXo2QxZ",
+					"display_url": "pic.twitter.com/M1FbXo2QxZ",
+					"expanded_url": "https://twitter.com/MayaMusicFest/status/1215227975819350016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 795,
+									"y": 291,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 400,
+									"y": 309,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 504,
+									"y": 314,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 346,
+									"y": 346,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 493,
+									"y": 597,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 430,
+									"y": 638,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 398,
+									"y": 884,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 341,
+									"y": 893,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 453,
+									"y": 892,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 500,
+									"y": 901,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 655,
+									"y": 875,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1358,
+									"y": 498,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 684,
+									"y": 528,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 860,
+									"y": 536,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 592,
+									"y": 592,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 842,
+									"y": 1020,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 734,
+									"y": 1090,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 680,
+									"y": 1510,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 582,
+									"y": 1524,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 774,
+									"y": 1522,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 854,
+									"y": 1538,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 1118,
+									"y": 1494,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1358,
+									"y": 498,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 684,
+									"y": 528,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 860,
+									"y": 536,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 592,
+									"y": 592,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 842,
+									"y": 1020,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 734,
+									"y": 1090,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 680,
+									"y": 1510,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 582,
+									"y": 1524,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 774,
+									"y": 1522,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 854,
+									"y": 1538,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 1118,
+									"y": 1494,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 165,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 227,
+									"y": 175,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 285,
+									"y": 178,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 196,
+									"y": 196,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 279,
+									"y": 338,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 243,
+									"y": 362,
+									"h": 21,
+									"w": 21
+								},
+								{
+									"x": 225,
+									"y": 501,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 193,
+									"y": 506,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 257,
+									"y": 505,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 283,
+									"y": 510,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 371,
+									"y": 496,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215227960954720300,
+					"id_str": "1215227960954720256",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EN1bZFXUEAA0liX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN1bZFXUEAA0liX.jpg",
+					"url": "https://t.co/M1FbXo2QxZ",
+					"display_url": "pic.twitter.com/M1FbXo2QxZ",
+					"expanded_url": "https://twitter.com/MayaMusicFest/status/1215227975819350016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 795,
+									"y": 291,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 400,
+									"y": 309,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 504,
+									"y": 314,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 346,
+									"y": 346,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 493,
+									"y": 597,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 430,
+									"y": 638,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 398,
+									"y": 884,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 341,
+									"y": 893,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 453,
+									"y": 892,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 500,
+									"y": 901,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 655,
+									"y": 875,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1358,
+									"y": 498,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 684,
+									"y": 528,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 860,
+									"y": 536,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 592,
+									"y": 592,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 842,
+									"y": 1020,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 734,
+									"y": 1090,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 680,
+									"y": 1510,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 582,
+									"y": 1524,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 774,
+									"y": 1522,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 854,
+									"y": 1538,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 1118,
+									"y": 1494,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1358,
+									"y": 498,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 684,
+									"y": 528,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 860,
+									"y": 536,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 592,
+									"y": 592,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 842,
+									"y": 1020,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 734,
+									"y": 1090,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 680,
+									"y": 1510,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 582,
+									"y": 1524,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 774,
+									"y": 1522,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 854,
+									"y": 1538,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 1118,
+									"y": 1494,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 165,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 227,
+									"y": 175,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 285,
+									"y": 178,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 196,
+									"y": 196,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 279,
+									"y": 338,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 243,
+									"y": 362,
+									"h": 21,
+									"w": 21
+								},
+								{
+									"x": 225,
+									"y": 501,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 193,
+									"y": 506,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 257,
+									"y": 505,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 283,
+									"y": 510,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 371,
+									"y": 496,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2902327062,
+			"id_str": "2902327062",
+			"name": "MAYA MUSIC FESTIVAL",
+			"screen_name": "MayaMusicFest",
+			"location": "Thailand",
+			"description": "31 Jan - 1 Feb 2020 |  Buy tickets at 👇👇👇",
+			"url": "https://t.co/di6fzVUgwD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/di6fzVUgwD",
+							"expanded_url": "http://www.mayamusicfestival.com",
+							"display_url": "mayamusicfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4077,
+			"friends_count": 85,
+			"listed_count": 15,
+			"created_at": "Mon Nov 17 05:07:58 +0000 2014",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192806948590084096/XjTVy0_E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192806948590084096/XjTVy0_E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2902327062/1573222314",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buy GA 2 days 3,499 THB tickets at\nhttps://t.co/KB5HEqvJHi (Age 13+)\n\nSee you at \nMAYA Music festival 2020 \n31 Jan - 1 Feb 2020\nMAYA space, Pattaya, Thailand\n\n#MAYA2020poweredbyKINGPOWER https://t.co/M1FbXo2QxZ"
+	},
+	{
 		"created_at": "Fri Jan 10 16:49:09 +0000 2020",
 		"id": 1215676965438607400,
 		"id_str": "1215676965438607365",
