@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 05:40:38 +0000 2020",
+		"id": 1215506977964454000,
+		"id_str": "1215508728218374144",
+		"full_text": "'더 짠내투어' 조이 활약 모아 보기 👀💚\n\nhttps://t.co/BRa2ZBg8MS\nhttps://t.co/lA7MgHQYA9\nhttps://t.co/fFCoiysbTF\nhttps://t.co/SelxONiAet\n\n#JOY #조이 #RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho #더짠내투어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						153,
+						175
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						184,
+						201
+					]
+				},
+				{
+					"text": "더짠내투어",
+					"indices": [
+						202,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BRa2ZBg8MS",
+					"expanded_url": "https://tv.naver.com/v/11774266",
+					"display_url": "tv.naver.com/v/11774266",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/lA7MgHQYA9",
+					"expanded_url": "https://tv.naver.com/v/11774444",
+					"display_url": "tv.naver.com/v/11774444",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/fFCoiysbTF",
+					"expanded_url": "https://tv.naver.com/v/11774577",
+					"display_url": "tv.naver.com/v/11774577",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/SelxONiAet",
+					"expanded_url": "https://tv.naver.com/v/11774770",
+					"display_url": "tv.naver.com/v/11774770",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2146701,
+			"friends_count": 2,
+			"listed_count": 6376,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1774,
+		"favorite_count": 4583,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'더 짠내투어' 조이 활약 모아 보기 👀💚\n\nhttps://t.co/BRa2ZBg8MS\nhttps://t.co/lA7MgHQYA9\nhttps://t.co/fFCoiysbTF\nhttps://t.co/SelxONiAet\n\n#JOY #조이 #RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho #더짠내투어"
+	},
+	{
 		"created_at": "Fri Jan 10 04:28:02 +0000 2020",
 		"id": 1215490457033171000,
 		"id_str": "1215490457033170945",
