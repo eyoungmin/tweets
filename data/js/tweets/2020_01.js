@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 07:11:06 +0000 2020",
+		"id": 1215531494535504000,
+		"id_str": "1215531494535503877",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 리사, ‘청춘유니2’ 멘토 활약 “3년 경험 전수하고파..최선 다할 것”\nhttps://t.co/qbIKsnWt8R\n#블랙핑크 #BLACKPINK https://t.co/riGowFTvo0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qbIKsnWt8R",
+					"expanded_url": "https://yg-life.com/archives/147035?lang=ko",
+					"display_url": "yg-life.com/archives/14703…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215531493428211700,
+					"id_str": "1215531493428211712",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EN5vc_8WsAAmFrk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN5vc_8WsAAmFrk.jpg",
+					"url": "https://t.co/riGowFTvo0",
+					"display_url": "pic.twitter.com/riGowFTvo0",
+					"expanded_url": "https://twitter.com/fromminn/status/1215531494535503877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 646,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 96,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 96,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 96,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 96,
+									"h": 131,
+									"w": 131
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215531493428211700,
+					"id_str": "1215531493428211712",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EN5vc_8WsAAmFrk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN5vc_8WsAAmFrk.jpg",
+					"url": "https://t.co/riGowFTvo0",
+					"display_url": "pic.twitter.com/riGowFTvo0",
+					"expanded_url": "https://twitter.com/fromminn/status/1215531494535503877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 646,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 96,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 96,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 96,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 96,
+									"h": 131,
+									"w": 131
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 879,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 리사, ‘청춘유니2’ 멘토 활약 “3년 경험 전수하고파..최선 다할 것”\nhttps://t.co/qbIKsnWt8R\n#블랙핑크 #BLACKPINK https://t.co/riGowFTvo0"
+	},
+	{
 		"created_at": "Fri Jan 10 06:40:37 +0000 2020",
 		"id": 1215515408448417800,
 		"id_str": "1215523825485590528",
