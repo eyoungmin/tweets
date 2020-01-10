@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 06:40:37 +0000 2020",
+		"id": 1215515408448417800,
+		"id_str": "1215523825485590528",
+		"full_text": "'해피투게더 4' #조이 활약 모아 보기 👀💚\n\nhttps://t.co/FqUr98p0yE\nhttps://t.co/VVSypCGk3j\nhttps://t.co/hFusLT8e1d\nhttps://t.co/Bo2K7NLFyf\nhttps://t.co/SkXhZfP9TM\nhttps://t.co/NQI8J6t4iS\n\n#JOY #RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho #해피투게더4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						194,
+						198
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						199,
+						221
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						222,
+						229
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						230,
+						247
+					]
+				},
+				{
+					"text": "해피투게더4",
+					"indices": [
+						248,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FqUr98p0yE",
+					"expanded_url": "https://tv.naver.com/v/11827235",
+					"display_url": "tv.naver.com/v/11827235",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/VVSypCGk3j",
+					"expanded_url": "https://tv.naver.com/v/11827386",
+					"display_url": "tv.naver.com/v/11827386",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/hFusLT8e1d",
+					"expanded_url": "https://tv.naver.com/v/11827422",
+					"display_url": "tv.naver.com/v/11827422",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/Bo2K7NLFyf",
+					"expanded_url": "https://tv.naver.com/v/11827569",
+					"display_url": "tv.naver.com/v/11827569",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/SkXhZfP9TM",
+					"expanded_url": "https://tv.naver.com/v/11827577",
+					"display_url": "tv.naver.com/v/11827577",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/NQI8J6t4iS",
+					"expanded_url": "https://tv.naver.com/v/11827619",
+					"display_url": "tv.naver.com/v/11827619",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2146945,
+			"friends_count": 2,
+			"listed_count": 6375,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1759,
+		"favorite_count": 5268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'해피투게더 4' #조이 활약 모아 보기 👀💚\n\nhttps://t.co/FqUr98p0yE\nhttps://t.co/VVSypCGk3j\nhttps://t.co/hFusLT8e1d\nhttps://t.co/Bo2K7NLFyf\nhttps://t.co/SkXhZfP9TM\nhttps://t.co/NQI8J6t4iS\n\n#JOY #RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho #해피투게더4"
+	},
+	{
 		"created_at": "Fri Jan 10 05:40:38 +0000 2020",
 		"id": 1215506977964454000,
 		"id_str": "1215508728218374144",
