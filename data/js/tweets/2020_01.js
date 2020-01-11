@@ -1,6 +1,1050 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 09:40:37 +0000 2020",
+		"id": 1215917970293022700,
+		"id_str": "1215931511578472448",
+		"full_text": "'음악중심' 레드벨벳, 출연 없이 1위 [콕TV] (출처 : TV리포트 | 네이버 TV연예)\n\n👉🏻https://t.co/69upp57HFB\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						102,
+						124
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						133,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/69upp57HFB",
+					"expanded_url": "http://naver.me/FppY149R",
+					"display_url": "naver.me/FppY149R",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2152917,
+			"friends_count": 2,
+			"listed_count": 6382,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2474,
+		"favorite_count": 6349,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'음악중심' 레드벨벳, 출연 없이 1위 [콕TV] (출처 : TV리포트 | 네이버 TV연예)\n\n👉🏻https://t.co/69upp57HFB\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho"
+	},
+	{
+		"created_at": "Sat Jan 11 09:34:52 +0000 2020",
+		"id": 1215930063092244500,
+		"id_str": "1215930063092244480",
+		"full_text": "WayV 중화권 겨냥한 아이돌 그룹을 보니 알짜배기 다 갈아넣은 느낌이던데 관련 내용이 없어 아쉽다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 879,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "WayV 중화권 겨냥한 아이돌 그룹을 보니 알짜배기 다 갈아넣은 느낌이던데 관련 내용이 없어 아쉽다."
+	},
+	{
+		"created_at": "Sat Jan 11 09:30:12 +0000 2020",
+		"id": 1215928886254436400,
+		"id_str": "1215928886254436355",
+		"full_text": "남성 운동하는 프로그램에 여성이 저런 방식으로 출연하는 건 불편하다. 특히나 '홍일점'임을 강조하는 것은 더더욱이 불편하다. 매니저니 응원이니 하며 꼭 여성 연예인, 그 중에서도 여아이돌을 끼워넣는 방식이 참.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 879,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "남성 운동하는 프로그램에 여성이 저런 방식으로 출연하는 건 불편하다. 특히나 '홍일점'임을 강조하는 것은 더더욱이 불편하다. 매니저니 응원이니 하며 꼭 여성 연예인, 그 중에서도 여아이돌을 끼워넣는 방식이 참."
+	},
+	{
+		"created_at": "Sat Jan 11 09:08:45 +0000 2020",
+		"id": 1215913084826439700,
+		"id_str": "1215923489762185217",
+		"full_text": "China's Chendgu TV highlighted producer SOOMAN LEE as \"the pioneer of Korea's entertainment industry\"!\n\nWatch: https://t.co/2rGRS5cvju\n\n#SOOMANLEE #SMEntertainment #ChengduTV https://t.co/wRfnr95oWm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"text": "ChengduTV",
+					"indices": [
+						164,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2rGRS5cvju",
+					"expanded_url": "https://youtu.be/1wah-dMCRTo",
+					"display_url": "youtu.be/1wah-dMCRTo",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215913071505395700,
+					"id_str": "1215913071505395712",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EN_KfxDVUAAhvjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN_KfxDVUAAhvjJ.jpg",
+					"url": "https://t.co/wRfnr95oWm",
+					"display_url": "pic.twitter.com/wRfnr95oWm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215913084826439680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 245,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 739,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 433,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 1758,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 374,
+									"y": 486,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 198,
+									"y": 722,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 350,
+									"y": 1882,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 174,
+									"y": 1862,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 163,
+									"y": 582,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 123,
+									"y": 161,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 65,
+									"y": 239,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 116,
+									"y": 623,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 57,
+									"y": 617,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 1758,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 374,
+									"y": 486,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 198,
+									"y": 722,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 350,
+									"y": 1882,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 174,
+									"y": 1862,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 1030,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 219,
+									"y": 284,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 116,
+									"y": 423,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 205,
+									"y": 1102,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 101,
+									"y": 1090,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215913071505395700,
+					"id_str": "1215913071505395712",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EN_KfxDVUAAhvjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN_KfxDVUAAhvjJ.jpg",
+					"url": "https://t.co/wRfnr95oWm",
+					"display_url": "pic.twitter.com/wRfnr95oWm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215913084826439680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 245,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 739,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 433,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 1758,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 374,
+									"y": 486,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 198,
+									"y": 722,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 350,
+									"y": 1882,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 174,
+									"y": 1862,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 163,
+									"y": 582,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 123,
+									"y": 161,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 65,
+									"y": 239,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 116,
+									"y": 623,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 57,
+									"y": 617,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 1758,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 374,
+									"y": 486,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 198,
+									"y": 722,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 350,
+									"y": 1882,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 174,
+									"y": 1862,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 1030,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 219,
+									"y": 284,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 116,
+									"y": 423,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 205,
+									"y": 1102,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 101,
+									"y": 1090,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8083288,
+			"friends_count": 49,
+			"listed_count": 9754,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 500,
+		"favorite_count": 2086,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "China's Chendgu TV highlighted producer SOOMAN LEE as \"the pioneer of Korea's entertainment industry\"!\n\nWatch: https://t.co/2rGRS5cvju\n\n#SOOMANLEE #SMEntertainment #ChengduTV https://t.co/wRfnr95oWm"
+	},
+	{
+		"created_at": "Sat Jan 11 09:07:40 +0000 2020",
+		"id": 1215881056227709000,
+		"id_str": "1215923216008372224",
+		"full_text": "[INSTAGRAM STORY VIDEO] taeyeon_ss \nhttps://t.co/Bj6DKOeGmu\nhttps://t.co/XyL63AMBeh https://t.co/WwHaJnVEou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bj6DKOeGmu",
+					"expanded_url": "https://www.instagram.com/stories/taeyeon_ss/2218816711430531158",
+					"display_url": "instagram.com/stories/taeyeo…",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/XyL63AMBeh",
+					"expanded_url": "https://instagram.ftpe3-2.fna.fbcdn.net/v/t72.14836-16/77003704_2576644439329107_431236473718291714_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5zdG9yeSJ9&_nc_ht=instagram.ftpe3-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=FJGGUOLe1AUAX8XNa1g&vs=17871805753547609_3204025398&_nc_vs=HBkcFQAYJEdMajdsZ1JUeVlUSWNTY0pBQUs5Szc1SkQtd0ZidlE1QUFBRhUAACgAGAAbAYgHdXNlX29pbAExFQAAGAAWsqnQ9ICUvz8VAhkFGAJDMywXQBQAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdegHAA%3D%3D&_nc_rid=912a79a1f1&oe=5E1C57B2&oh=38a94b45673ce9d58f546a8126e1dc05",
+					"display_url": "instagram.ftpe3-2.fna.fbcdn.net/v/t72.14836-16…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215881022597779500,
+					"id_str": "1215881022597779456",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215881022597779456/pu/img/hiPeF8um9AzcgOVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215881022597779456/pu/img/hiPeF8um9AzcgOVe.jpg",
+					"url": "https://t.co/WwHaJnVEou",
+					"display_url": "pic.twitter.com/WwHaJnVEou",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1215881056227708928/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215881022597779500,
+					"id_str": "1215881022597779456",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215881022597779456/pu/img/hiPeF8um9AzcgOVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215881022597779456/pu/img/hiPeF8um9AzcgOVe.jpg",
+					"url": "https://t.co/WwHaJnVEou",
+					"display_url": "pic.twitter.com/WwHaJnVEou",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1215881056227708928/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1215881022597779456/pu/pl/8Uc1lEhQWyPIeok1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215881022597779456/pu/vid/360x640/PgfFp4GCwXbDYccn.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215881022597779456/pu/vid/720x1280/hlICYQj7XGQqwqpJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215881022597779456/pu/vid/320x568/m2hLsk4Fs6Oej49p.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": "I Do",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3806,
+			"friends_count": 0,
+			"listed_count": 82,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186623809538838528/Qm8uM_VZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186623809538838528/Qm8uM_VZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1571748139",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 315,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "[INSTAGRAM STORY VIDEO] taeyeon_ss \nhttps://t.co/Bj6DKOeGmu\nhttps://t.co/XyL63AMBeh https://t.co/WwHaJnVEou"
+	},
+	{
 		"created_at": "Sat Jan 11 04:40:38 +0000 2020",
 		"id": 1215551349380788200,
 		"id_str": "1215856014412734464",
