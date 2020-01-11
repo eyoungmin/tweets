@@ -1,6 +1,4955 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 01:58:31 +0000 2020",
+		"id": 1215779509120557000,
+		"id_str": "1215815219596808192",
+		"full_text": "日 온라인쇼핑 갑부 마에자와 유사쿠 천명에게 100만엔씩 지급. 돈이 행복하게 만드는지 보는 진지한 사회 실험이라고 소개. 각자 마음대로 쓰되 어떻게 쓰고 있는지 정기 질문에 답하는 조건. 트위터로 응모 마감. 추첨 선정. 사회과학자가 효과 분석. 작년 백명에 이어 확대 https://t.co/0B7Cyw85X6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0B7Cyw85X6",
+					"expanded_url": "https://www.cnn.com/2020/01/09/business/japanese-billionaire-give-away-9-million-twitter-trnd/index.html",
+					"display_url": "cnn.com/2020/01/09/bus…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103085,
+			"friends_count": 2435,
+			"listed_count": 396,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "日 온라인쇼핑 갑부 마에자와 유사쿠 천명에게 100만엔씩 지급. 돈이 행복하게 만드는지 보는 진지한 사회 실험이라고 소개. 각자 마음대로 쓰되 어떻게 쓰고 있는지 정기 질문에 답하는 조건. 트위터로 응모 마감. 추첨 선정. 사회과학자가 효과 분석. 작년 백명에 이어 확대 https://t.co/0B7Cyw85X6"
+	},
+	{
+		"created_at": "Sat Jan 11 01:56:27 +0000 2020",
+		"id": 1215670876420468700,
+		"id_str": "1215814698085404672",
+		"full_text": "2월 22일 오픈을 앞둔 청담동 소전서림(素磚書林)에 갔다. 갤러리였던 공간이 리모델링을 거쳐 도서관이 되었다고 한다. 소전서림은 ‘흰 벽돌로 둘러싸인 책의 숲’이라는 뜻이다. 이름에 걸맞게 문학, 예술, 철학, 인문학 분야의 4만여 권의 책들이 있었다. https://t.co/kFnF9thl1M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215670860691820500,
+					"id_str": "1215670860691820544",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7uNPdUUAAGGyj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7uNPdUUAAGGyj.jpg",
+					"url": "https://t.co/kFnF9thl1M",
+					"display_url": "pic.twitter.com/kFnF9thl1M",
+					"expanded_url": "https://twitter.com/flaneuroh/status/1215670876420468736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215670860691820500,
+					"id_str": "1215670860691820544",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7uNPdUUAAGGyj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7uNPdUUAAGGyj.jpg",
+					"url": "https://t.co/kFnF9thl1M",
+					"display_url": "pic.twitter.com/kFnF9thl1M",
+					"expanded_url": "https://twitter.com/flaneuroh/status/1215670876420468736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215670860687626200,
+					"id_str": "1215670860687626240",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7uNPcUUAAIFdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7uNPcUUAAIFdj.jpg",
+					"url": "https://t.co/kFnF9thl1M",
+					"display_url": "pic.twitter.com/kFnF9thl1M",
+					"expanded_url": "https://twitter.com/flaneuroh/status/1215670876420468736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215670860691857400,
+					"id_str": "1215670860691857409",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7uNPdU4AEuV3n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7uNPdU4AEuV3n.jpg",
+					"url": "https://t.co/kFnF9thl1M",
+					"display_url": "pic.twitter.com/kFnF9thl1M",
+					"expanded_url": "https://twitter.com/flaneuroh/status/1215670876420468736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 942,
+									"y": 580,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 472,
+									"y": 480,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 379,
+									"y": 480,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 568,
+									"y": 482,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 884,
+									"y": 480,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 625,
+									"y": 385,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 313,
+									"y": 318,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 251,
+									"y": 318,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 377,
+									"y": 320,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 587,
+									"y": 318,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 942,
+									"y": 580,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 472,
+									"y": 480,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 379,
+									"y": 480,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 568,
+									"y": 482,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 884,
+									"y": 480,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 942,
+									"y": 580,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 472,
+									"y": 480,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 379,
+									"y": 480,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 568,
+									"y": 482,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 884,
+									"y": 480,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215670860691853300,
+					"id_str": "1215670860691853313",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7uNPdU0AE_FkF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7uNPdU0AE_FkF.jpg",
+					"url": "https://t.co/kFnF9thl1M",
+					"display_url": "pic.twitter.com/kFnF9thl1M",
+					"expanded_url": "https://twitter.com/flaneuroh/status/1215670876420468736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123601674,
+			"id_str": "123601674",
+			"name": "오은, Eun Oh",
+			"screen_name": "flaneuroh",
+			"location": "nowhere, but now here",
+			"description": "이따금 쓰지만, 항상 쓴다고 생각합니다. 항상 살지만, 이따금 살아 있다고 느낍니다.",
+			"url": "https://t.co/r9YWLhpHXn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r9YWLhpHXn",
+							"expanded_url": "https://Instagram.com/flaneuroh/",
+							"display_url": "Instagram.com/flaneuroh/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22236,
+			"friends_count": 467,
+			"listed_count": 380,
+			"created_at": "Tue Mar 16 16:24:04 +0000 2010",
+			"favourites_count": 7912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206419402721120256/alWaKkv-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206419402721120256/alWaKkv-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123601674/1435596651",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2월 22일 오픈을 앞둔 청담동 소전서림(素磚書林)에 갔다. 갤러리였던 공간이 리모델링을 거쳐 도서관이 되었다고 한다. 소전서림은 ‘흰 벽돌로 둘러싸인 책의 숲’이라는 뜻이다. 이름에 걸맞게 문학, 예술, 철학, 인문학 분야의 4만여 권의 책들이 있었다. https://t.co/kFnF9thl1M"
+	},
+	{
+		"created_at": "Sat Jan 11 01:50:40 +0000 2020",
+		"id": 1215577523993493500,
+		"id_str": "1215813243626635264",
+		"full_text": "유투브채널 추천. 스웨덴 자연인이 사계절 홀로 하이킹하고 캠핑하는 내용임. 혼자 다니기에 대사나 말이 거의 없고 걍 사계절이 담긴 아름다운 풍경과 바람소리, 빗소리, 모닥불소리, 눈 밟는 소리 등등이라 ASMR로 매우 좋고 시각적으로로 만족스럽다. https://t.co/Muiymaexrf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215577501226786800,
+					"id_str": "1215577501226786817",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6ZTAWUYAEJ6lU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6ZTAWUYAEJ6lU.jpg",
+					"url": "https://t.co/Muiymaexrf",
+					"display_url": "pic.twitter.com/Muiymaexrf",
+					"expanded_url": "https://twitter.com/paper_song/status/1215577523993493505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215577501226786800,
+					"id_str": "1215577501226786817",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6ZTAWUYAEJ6lU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6ZTAWUYAEJ6lU.jpg",
+					"url": "https://t.co/Muiymaexrf",
+					"display_url": "pic.twitter.com/Muiymaexrf",
+					"expanded_url": "https://twitter.com/paper_song/status/1215577523993493505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215577515760029700,
+					"id_str": "1215577515760029696",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6ZT2fUEAAbe3b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6ZT2fUEAAbe3b.jpg",
+					"url": "https://t.co/Muiymaexrf",
+					"display_url": "pic.twitter.com/Muiymaexrf",
+					"expanded_url": "https://twitter.com/paper_song/status/1215577523993493505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215577515768438800,
+					"id_str": "1215577515768438785",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6ZT2hUYAED8j6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6ZT2hUYAED8j6.jpg",
+					"url": "https://t.co/Muiymaexrf",
+					"display_url": "pic.twitter.com/Muiymaexrf",
+					"expanded_url": "https://twitter.com/paper_song/status/1215577523993493505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215577516879954000,
+					"id_str": "1215577516879953925",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6ZT6qUwAUPQnD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6ZT6qUwAUPQnD.jpg",
+					"url": "https://t.co/Muiymaexrf",
+					"display_url": "pic.twitter.com/Muiymaexrf",
+					"expanded_url": "https://twitter.com/paper_song/status/1215577523993493505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 190601699,
+			"id_str": "190601699",
+			"name": "겨울고래",
+			"screen_name": "paper_song",
+			"location": "Seoul , Korea",
+			"description": "멍멍",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2333,
+			"friends_count": 825,
+			"listed_count": 23,
+			"created_at": "Tue Sep 14 11:12:06 +0000 2010",
+			"favourites_count": 11169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764039388238008320/9GonGRJB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764039388238008320/9GonGRJB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190601699/1374038746",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1011,
+		"favorite_count": 1621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유투브채널 추천. 스웨덴 자연인이 사계절 홀로 하이킹하고 캠핑하는 내용임. 혼자 다니기에 대사나 말이 거의 없고 걍 사계절이 담긴 아름다운 풍경과 바람소리, 빗소리, 모닥불소리, 눈 밟는 소리 등등이라 ASMR로 매우 좋고 시각적으로로 만족스럽다. https://t.co/Muiymaexrf"
+	},
+	{
+		"created_at": "Sat Jan 11 01:49:24 +0000 2020",
+		"id": 1215148141852287000,
+		"id_str": "1215812925861986305",
+		"full_text": "3-1. 물론 온라인 쇼핑 영향이 없다고 볼 수는 없는데.. 그렇다고 해도 이렇게 소비까지 부익부 빈익빈으로 가는게 심상치 않은 경제 신호라고 생각함. 지방정책에 뭔가 획기적인게 있어야.. https://t.co/yXWjeXM5Wc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215148137142030300,
+					"id_str": "1215148137142030336",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0SyufUEAAs6vQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0SyufUEAAs6vQ.jpg",
+					"url": "https://t.co/yXWjeXM5Wc",
+					"display_url": "pic.twitter.com/yXWjeXM5Wc",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215148141852286976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 687,
+							"h": 263,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 687,
+							"h": 263,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 260,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 206,
+									"y": 98,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 206,
+									"y": 98,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 203,
+									"y": 97,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 206,
+									"y": 98,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215148137142030300,
+					"id_str": "1215148137142030336",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0SyufUEAAs6vQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0SyufUEAAs6vQ.jpg",
+					"url": "https://t.co/yXWjeXM5Wc",
+					"display_url": "pic.twitter.com/yXWjeXM5Wc",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215148141852286976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 687,
+							"h": 263,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 687,
+							"h": 263,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 260,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 206,
+									"y": 98,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 206,
+									"y": 98,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 203,
+									"y": 97,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 206,
+									"y": 98,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215148137146306600,
+					"id_str": "1215148137146306560",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0SyugVUAAQGt6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0SyugVUAAQGt6.jpg",
+					"url": "https://t.co/yXWjeXM5Wc",
+					"display_url": "pic.twitter.com/yXWjeXM5Wc",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215148141852286976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 393,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215147207793369000,
+		"in_reply_to_status_id_str": "1215147207793369088",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3-1. 물론 온라인 쇼핑 영향이 없다고 볼 수는 없는데.. 그렇다고 해도 이렇게 소비까지 부익부 빈익빈으로 가는게 심상치 않은 경제 신호라고 생각함. 지방정책에 뭔가 획기적인게 있어야.. https://t.co/yXWjeXM5Wc"
+	},
+	{
+		"created_at": "Sat Jan 11 01:49:09 +0000 2020",
+		"id": 1215147207793369000,
+		"id_str": "1215812860023988226",
+		"full_text": "3. 사실 이걸 제일 얘기하고 싶었는데 지방경제 정말 심각한 듯. 광역시급 백화점 아닌 일반시급 백화점 매출이 다 감소세를 몇년째 이어가고 있음. 롯데 마산점은 매출이 아예 천억대가 깨져서 9백억대가 됐고 울산, 전주 등도 다 감소세.. https://t.co/PIrgBls6uc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215147201938083800,
+					"id_str": "1215147201938083840",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0R8SlUUAAaRdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0R8SlUUAAaRdH.jpg",
+					"url": "https://t.co/PIrgBls6uc",
+					"display_url": "pic.twitter.com/PIrgBls6uc",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215147207793369088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 679,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215147201938083800,
+					"id_str": "1215147201938083840",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0R8SlUUAAaRdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0R8SlUUAAaRdH.jpg",
+					"url": "https://t.co/PIrgBls6uc",
+					"display_url": "pic.twitter.com/PIrgBls6uc",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215147207793369088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 679,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215147201950670800,
+					"id_str": "1215147201950670848",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0R8SoUYAAf9x8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0R8SoUYAAf9x8.jpg",
+					"url": "https://t.co/PIrgBls6uc",
+					"display_url": "pic.twitter.com/PIrgBls6uc",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215147207793369088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 450,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215147201942315000,
+					"id_str": "1215147201942315009",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0R8SmU4AEtE-n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0R8SmU4AEtE-n.jpg",
+					"url": "https://t.co/PIrgBls6uc",
+					"display_url": "pic.twitter.com/PIrgBls6uc",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215147207793369088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 441,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215147201946480600,
+					"id_str": "1215147201946480640",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0R8SnUcAA5pNn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0R8SnUcAA5pNn.jpg",
+					"url": "https://t.co/PIrgBls6uc",
+					"display_url": "pic.twitter.com/PIrgBls6uc",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215147207793369088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 506,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 506,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 506,
+							"h": 456,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 116,
+									"y": 178,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 116,
+									"y": 178,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 116,
+									"y": 178,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 116,
+									"y": 178,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215144161814274000,
+		"in_reply_to_status_id_str": "1215144161814274048",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3. 사실 이걸 제일 얘기하고 싶었는데 지방경제 정말 심각한 듯. 광역시급 백화점 아닌 일반시급 백화점 매출이 다 감소세를 몇년째 이어가고 있음. 롯데 마산점은 매출이 아예 천억대가 깨져서 9백억대가 됐고 울산, 전주 등도 다 감소세.. https://t.co/PIrgBls6uc"
+	},
+	{
+		"created_at": "Sat Jan 11 01:48:59 +0000 2020",
+		"id": 1215144161814274000,
+		"id_str": "1215812819599282177",
+		"full_text": "2. 앞으로는 종합 쇼핑몰 스타일 백화점만 앞으로는 살아날 듯. 하나 못해 영화관이라도 달려있는 백화점은 대부분 매출이 올랐고 식품관이나 놀러갈 거리 뭐라도 백화점들은 사람이 바글바글 함. 도떼기 시장 같아서 싫어하는 사람도 많은데 결국 그러나 저러나 매출은 나옴. https://t.co/LUwLmz0u22",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215144154000322600,
+					"id_str": "1215144154000322560",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0PK4IU8AA9Ly-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0PK4IU8AA9Ly-.jpg",
+					"url": "https://t.co/LUwLmz0u22",
+					"display_url": "pic.twitter.com/LUwLmz0u22",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215144161814274048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 765,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 765,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215144154000322600,
+					"id_str": "1215144154000322560",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0PK4IU8AA9Ly-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0PK4IU8AA9Ly-.jpg",
+					"url": "https://t.co/LUwLmz0u22",
+					"display_url": "pic.twitter.com/LUwLmz0u22",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215144161814274048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 765,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 765,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215144154000347100,
+					"id_str": "1215144154000347136",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0PK4IVUAA1krS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0PK4IVUAA1krS.jpg",
+					"url": "https://t.co/LUwLmz0u22",
+					"display_url": "pic.twitter.com/LUwLmz0u22",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215144161814274048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215144154012872700,
+					"id_str": "1215144154012872704",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0PK4LUcAApuRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0PK4LUcAApuRb.jpg",
+					"url": "https://t.co/LUwLmz0u22",
+					"display_url": "pic.twitter.com/LUwLmz0u22",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215144161814274048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215144154008707000,
+					"id_str": "1215144154008707072",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0PK4KU4AAKIMP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0PK4KU4AAKIMP.jpg",
+					"url": "https://t.co/LUwLmz0u22",
+					"display_url": "pic.twitter.com/LUwLmz0u22",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215144161814274048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 728,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 728,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215141616526082000,
+		"in_reply_to_status_id_str": "1215141616526082048",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2. 앞으로는 종합 쇼핑몰 스타일 백화점만 앞으로는 살아날 듯. 하나 못해 영화관이라도 달려있는 백화점은 대부분 매출이 올랐고 식품관이나 놀러갈 거리 뭐라도 백화점들은 사람이 바글바글 함. 도떼기 시장 같아서 싫어하는 사람도 많은데 결국 그러나 저러나 매출은 나옴. https://t.co/LUwLmz0u22"
+	},
+	{
+		"created_at": "Sat Jan 11 01:48:57 +0000 2020",
+		"id": 1215141616526082000,
+		"id_str": "1215812809369350145",
+		"full_text": "여기서 말하고 싶은건\n1. 진짜 명품 많이들 산다. 이번에 매출 팍팍 오른 백화점들은 전부 명품 유치한 백화점들로 아예 명품 없는 백화점은 매출이 나가리가 났음. 밀레니얼 세대. 특히 이제 남자들도 명품 꺼리낌없이 사는데, 돈 좀 어지간히 번다는 사람들은 명품 하나씩은 다 사는 분위기. https://t.co/yk7GYxo6mu https://t.co/SJFnweziPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yk7GYxo6mu",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215095019356315648",
+					"display_url": "twitter.com/insangmolkka/s…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215141611593597000,
+					"id_str": "1215141611593596929",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0M247VAAEz4I5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0M247VAAEz4I5.jpg",
+					"url": "https://t.co/SJFnweziPj",
+					"display_url": "pic.twitter.com/SJFnweziPj",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215141616526082048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 286,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 286,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 268,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 151,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215141611593597000,
+					"id_str": "1215141611593596929",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0M247VAAEz4I5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0M247VAAEz4I5.jpg",
+					"url": "https://t.co/SJFnweziPj",
+					"display_url": "pic.twitter.com/SJFnweziPj",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215141616526082048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 286,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 286,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 268,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 151,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215141611593588700,
+					"id_str": "1215141611593588738",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0M247U4AIY9KW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0M247U4AIY9KW.jpg",
+					"url": "https://t.co/SJFnweziPj",
+					"display_url": "pic.twitter.com/SJFnweziPj",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215141616526082048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 590,
+							"h": 395,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 590,
+							"h": 395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 590,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215141611597750300,
+					"id_str": "1215141611597750272",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0M248UYAAZwtU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0M248UYAAZwtU.jpg",
+					"url": "https://t.co/SJFnweziPj",
+					"display_url": "pic.twitter.com/SJFnweziPj",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215141616526082048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215141611597811700,
+					"id_str": "1215141611597811713",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0M248VUAEO3f5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0M248VUAEO3f5.jpg",
+					"url": "https://t.co/SJFnweziPj",
+					"display_url": "pic.twitter.com/SJFnweziPj",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215141616526082048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 214,
+									"h": 189,
+									"w": 189
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 214,
+									"h": 189,
+									"w": 189
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 214,
+									"h": 189,
+									"w": 189
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 214,
+									"h": 189,
+									"w": 189
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215095019356315600,
+		"quoted_status_id_str": "1215095019356315648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yk7GYxo6mu",
+			"expanded": "https://twitter.com/insangmolkka/status/1215095019356315648",
+			"display": "twitter.com/insangmolkka/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 02:16:42 +0000 2020",
+			"id": 1215095019356315600,
+			"id_str": "1215095019356315648",
+			"full_text": "매년 백화점 매출 순위를 보도해온 어패럴뉴스에서 2019년 전국 5대 백화점 매출 순위를 공개했는데 개인적으로 몇가지 흥미로운 점을 얘기해 보고 싶음,, https://t.co/XrLpe84iON",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1215095012431548400,
+						"id_str": "1215095012431548416",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/ENziedhU0AARHOe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENziedhU0AARHOe.jpg",
+						"url": "https://t.co/XrLpe84iON",
+						"display_url": "pic.twitter.com/XrLpe84iON",
+						"expanded_url": "https://twitter.com/insangmolkka/status/1215095019356315648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 261,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 1839,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 148,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215095012431548400,
+						"id_str": "1215095012431548416",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/ENziedhU0AARHOe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENziedhU0AARHOe.jpg",
+						"url": "https://t.co/XrLpe84iON",
+						"display_url": "pic.twitter.com/XrLpe84iON",
+						"expanded_url": "https://twitter.com/insangmolkka/status/1215095019356315648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 261,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 1839,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 148,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4916326303,
+				"id_str": "4916326303",
+				"name": "선규",
+				"screen_name": "insangmolkka",
+				"location": "",
+				"description": "오리프사",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 175,
+				"friends_count": 389,
+				"listed_count": 2,
+				"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+				"favourites_count": 13593,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19698,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 471,
+			"favorite_count": 415,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 406,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여기서 말하고 싶은건\n1. 진짜 명품 많이들 산다. 이번에 매출 팍팍 오른 백화점들은 전부 명품 유치한 백화점들로 아예 명품 없는 백화점은 매출이 나가리가 났음. 밀레니얼 세대. 특히 이제 남자들도 명품 꺼리낌없이 사는데, 돈 좀 어지간히 번다는 사람들은 명품 하나씩은 다 사는 분위기. https://t.co/yk7GYxo6mu https://t.co/SJFnweziPj"
+	},
+	{
+		"created_at": "Sat Jan 11 01:48:48 +0000 2020",
+		"id": 1215137401850323000,
+		"id_str": "1215812771192832001",
+		"full_text": "대구 지역 백화점 전쟁은 결국 대구신세계가 완전히 주도하는 모양새. 이번에 8천억원 달성에 실패했지만 롯데 대구점과 대백프라자의 명품 브랜드를 거의 다 흡수한 상태. 현대 대구점이 그나마 명품 라인업을 거의 안뺏기고 매장도 적은 편이 아니라서 손해안보고 잘 버티고 있는 중. https://t.co/KU6q73wHJS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215137393805688800,
+					"id_str": "1215137393805688832",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0JBYcVAAAXPuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0JBYcVAAAXPuL.jpg",
+					"url": "https://t.co/KU6q73wHJS",
+					"display_url": "pic.twitter.com/KU6q73wHJS",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215137401850322944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 728,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 728,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215137393805688800,
+					"id_str": "1215137393805688832",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0JBYcVAAAXPuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0JBYcVAAAXPuL.jpg",
+					"url": "https://t.co/KU6q73wHJS",
+					"display_url": "pic.twitter.com/KU6q73wHJS",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215137401850322944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 728,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 728,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215137393793093600,
+					"id_str": "1215137393793093638",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0JBYZU0AYJA5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0JBYZU0AYJA5q.jpg",
+					"url": "https://t.co/KU6q73wHJS",
+					"display_url": "pic.twitter.com/KU6q73wHJS",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215137401850322944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215137393801515000,
+					"id_str": "1215137393801515008",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0JBYbVUAASF9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0JBYbVUAASF9x.jpg",
+					"url": "https://t.co/KU6q73wHJS",
+					"display_url": "pic.twitter.com/KU6q73wHJS",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215137401850322944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 894,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215137393797259300,
+					"id_str": "1215137393797259266",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0JBYaUYAI2h7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0JBYaUYAI2h7l.jpg",
+					"url": "https://t.co/KU6q73wHJS",
+					"display_url": "pic.twitter.com/KU6q73wHJS",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215137401850322944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 550,
+							"h": 298,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215095019356315600,
+		"in_reply_to_status_id_str": "1215095019356315648",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대구 지역 백화점 전쟁은 결국 대구신세계가 완전히 주도하는 모양새. 이번에 8천억원 달성에 실패했지만 롯데 대구점과 대백프라자의 명품 브랜드를 거의 다 흡수한 상태. 현대 대구점이 그나마 명품 라인업을 거의 안뺏기고 매장도 적은 편이 아니라서 손해안보고 잘 버티고 있는 중. https://t.co/KU6q73wHJS"
+	},
+	{
+		"created_at": "Sat Jan 11 01:48:44 +0000 2020",
+		"id": 1215135036862681000,
+		"id_str": "1215812754356887554",
+		"full_text": "이와중에 롯데 분당점은 2천억원에 겨우 턱걸이.. AK가 명품관이 망했다지만 아직 서현역이라는 막강한 유동인구가 뒷받침되고 있지만 롯데 분당점은 위치부터 매장 라인업까지 묘하게 특출난게 없는게 단점. 판교가 있다지만 그래도 분당 최대 부촌인 정자동 인근인데도 어지간히 장사 못한다 싶은.. https://t.co/WQTzbW40DY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215135031393312800,
+					"id_str": "1215135031393312768",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0G33xU4AA5CAd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0G33xU4AA5CAd.jpg",
+					"url": "https://t.co/WQTzbW40DY",
+					"display_url": "pic.twitter.com/WQTzbW40DY",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215135036862681088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215135031393312800,
+					"id_str": "1215135031393312768",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0G33xU4AA5CAd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0G33xU4AA5CAd.jpg",
+					"url": "https://t.co/WQTzbW40DY",
+					"display_url": "pic.twitter.com/WQTzbW40DY",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215135036862681088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215134660402892800,
+		"in_reply_to_status_id_str": "1215134660402892801",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이와중에 롯데 분당점은 2천억원에 겨우 턱걸이.. AK가 명품관이 망했다지만 아직 서현역이라는 막강한 유동인구가 뒷받침되고 있지만 롯데 분당점은 위치부터 매장 라인업까지 묘하게 특출난게 없는게 단점. 판교가 있다지만 그래도 분당 최대 부촌인 정자동 인근인데도 어지간히 장사 못한다 싶은.. https://t.co/WQTzbW40DY"
+	},
+	{
+		"created_at": "Sat Jan 11 01:48:35 +0000 2020",
+		"id": 1215134660402892800,
+		"id_str": "1215812720395636737",
+		"full_text": "그에 비해 한 때 6천억대의 매출을 올렸던 AK플라자 분당점은 4500억대로 꾸준히 하락 중. 현백 오픈 때부터 이탈한 루이비통, 구찌. 그리고 얼마 지나지 않아 이탈한 불가리에 이어 프라다와 미우미우, 투미까지 현백 판교로 옮기면서 사실상 AK 분당의 명품관은 무너지며 하락세가 가속될 전망. https://t.co/x8woVY4PkG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215134655491362800,
+					"id_str": "1215134655491362816",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0Gh_bUUAAefy9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0Gh_bUUAAefy9.jpg",
+					"url": "https://t.co/x8woVY4PkG",
+					"display_url": "pic.twitter.com/x8woVY4PkG",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215134660402892801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1077,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1077,
+							"h": 642,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 46,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 517,
+									"y": 73,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 517,
+									"y": 73,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 517,
+									"y": 73,
+									"h": 116,
+									"w": 116
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215134655491362800,
+					"id_str": "1215134655491362816",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0Gh_bUUAAefy9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0Gh_bUUAAefy9.jpg",
+					"url": "https://t.co/x8woVY4PkG",
+					"display_url": "pic.twitter.com/x8woVY4PkG",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215134660402892801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1077,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1077,
+							"h": 642,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 46,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 517,
+									"y": 73,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 517,
+									"y": 73,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 517,
+									"y": 73,
+									"h": 116,
+									"w": 116
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215134383566274600,
+		"in_reply_to_status_id_str": "1215134383566274560",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그에 비해 한 때 6천억대의 매출을 올렸던 AK플라자 분당점은 4500억대로 꾸준히 하락 중. 현백 오픈 때부터 이탈한 루이비통, 구찌. 그리고 얼마 지나지 않아 이탈한 불가리에 이어 프라다와 미우미우, 투미까지 현백 판교로 옮기면서 사실상 AK 분당의 명품관은 무너지며 하락세가 가속될 전망. https://t.co/x8woVY4PkG"
+	},
+	{
+		"created_at": "Sat Jan 11 01:48:27 +0000 2020",
+		"id": 1215134383566274600,
+		"id_str": "1215812686790959104",
+		"full_text": "현대백화점 판교점은 처음으로 매출액 9천억원 돌파. 과거 무역센터점이 가지고 있던 9천억대 (현재는 8천억대 후반) 매출을 뛰어넘는 수치. 국내 최대 규모의 식품관과 경기권 첫 까르띠에 매장 등 역시 주요 명품 브랜드와 쇼핑몰 스타일의 매장이 유동인구를 붙잡으면서 매출을 주도하는 듯. https://t.co/A6lrKJ8BYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215134378327568400,
+					"id_str": "1215134378327568384",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0GR26UcAArzZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0GR26UcAArzZ5.jpg",
+					"url": "https://t.co/A6lrKJ8BYb",
+					"display_url": "pic.twitter.com/A6lrKJ8BYb",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215134383566274560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 572,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 572,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 572,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215134378327568400,
+					"id_str": "1215134378327568384",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0GR26UcAArzZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0GR26UcAArzZ5.jpg",
+					"url": "https://t.co/A6lrKJ8BYb",
+					"display_url": "pic.twitter.com/A6lrKJ8BYb",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215134383566274560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 572,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 572,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 572,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215095019356315600,
+		"in_reply_to_status_id_str": "1215095019356315648",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현대백화점 판교점은 처음으로 매출액 9천억원 돌파. 과거 무역센터점이 가지고 있던 9천억대 (현재는 8천억대 후반) 매출을 뛰어넘는 수치. 국내 최대 규모의 식품관과 경기권 첫 까르띠에 매장 등 역시 주요 명품 브랜드와 쇼핑몰 스타일의 매장이 유동인구를 붙잡으면서 매출을 주도하는 듯. https://t.co/A6lrKJ8BYb"
+	},
+	{
+		"created_at": "Sat Jan 11 01:48:25 +0000 2020",
+		"id": 1215134024047317000,
+		"id_str": "1215812675323621376",
+		"full_text": "근데 부산 내 다른 롯데백화점들은 하나같이 다 하향세.. 특히 롯데 센텀시티점은 2천억대 매출이 무너지면서 신세계 센텀시티점에게 완전히 밀렸다는 이미지를 지우기 어렵게 됐는데 과연 뭔가 답이 있을지 모르겠음.. https://t.co/f6NLmYalhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215134018196234200,
+					"id_str": "1215134018196234240",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0F85UUYAAQ_YA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0F85UUYAAQ_YA.jpg",
+					"url": "https://t.co/f6NLmYalhy",
+					"display_url": "pic.twitter.com/f6NLmYalhy",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215134024047316992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1348,
+									"y": 550,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1348,
+									"y": 550,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 898,
+									"y": 366,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 509,
+									"y": 207,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215134018196234200,
+					"id_str": "1215134018196234240",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0F85UUYAAQ_YA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0F85UUYAAQ_YA.jpg",
+					"url": "https://t.co/f6NLmYalhy",
+					"display_url": "pic.twitter.com/f6NLmYalhy",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215134024047316992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1348,
+									"y": 550,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1348,
+									"y": 550,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 898,
+									"y": 366,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 509,
+									"y": 207,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215134018213011500,
+					"id_str": "1215134018213011456",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0F85YUYAAqSU2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0F85YUYAAqSU2.jpg",
+					"url": "https://t.co/f6NLmYalhy",
+					"display_url": "pic.twitter.com/f6NLmYalhy",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215134024047316992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 880,
+							"h": 479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 479,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215134018254958600,
+					"id_str": "1215134018254958592",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0F85iUcAALhlA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0F85iUcAALhlA.jpg",
+					"url": "https://t.co/f6NLmYalhy",
+					"display_url": "pic.twitter.com/f6NLmYalhy",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215134024047316992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215132646549778400,
+		"in_reply_to_status_id_str": "1215132646549778432",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "근데 부산 내 다른 롯데백화점들은 하나같이 다 하향세.. 특히 롯데 센텀시티점은 2천억대 매출이 무너지면서 신세계 센텀시티점에게 완전히 밀렸다는 이미지를 지우기 어렵게 됐는데 과연 뭔가 답이 있을지 모르겠음.. https://t.co/f6NLmYalhy"
+	},
+	{
+		"created_at": "Sat Jan 11 01:48:10 +0000 2020",
+		"id": 1215132646549778400,
+		"id_str": "1215812614481010689",
+		"full_text": "신세계 센텀시티점이 매출 1조원이 넘자 니들 SSG푸드마켓 마린시티점 매출 포함한거지? (현재는 제외)라며 부들부들하던 롯데 부산본점도 드디어 연간 매출 1조원 돌파. 역시 2017년에 실시했던 대규모 증축과 명품브랜드 대거 유치가 효과를 본 듯. 신세계 센텀시티점도 무난히 1조 1천억대 첫 달성 https://t.co/fxnHTwQqyC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215132641411793000,
+					"id_str": "1215132641411792897",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0EswZVAAEh7RO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0EswZVAAEh7RO.jpg",
+					"url": "https://t.co/fxnHTwQqyC",
+					"display_url": "pic.twitter.com/fxnHTwQqyC",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215132646549778432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 592,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215132641411793000,
+					"id_str": "1215132641411792897",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0EswZVAAEh7RO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0EswZVAAEh7RO.jpg",
+					"url": "https://t.co/fxnHTwQqyC",
+					"display_url": "pic.twitter.com/fxnHTwQqyC",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215132646549778432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 592,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215132641415925800,
+					"id_str": "1215132641415925760",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0EswaUEAAc1zr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0EswaUEAAc1zr.jpg",
+					"url": "https://t.co/fxnHTwQqyC",
+					"display_url": "pic.twitter.com/fxnHTwQqyC",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215132646549778432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 333,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215095019356315600,
+		"in_reply_to_status_id_str": "1215095019356315648",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신세계 센텀시티점이 매출 1조원이 넘자 니들 SSG푸드마켓 마린시티점 매출 포함한거지? (현재는 제외)라며 부들부들하던 롯데 부산본점도 드디어 연간 매출 1조원 돌파. 역시 2017년에 실시했던 대규모 증축과 명품브랜드 대거 유치가 효과를 본 듯. 신세계 센텀시티점도 무난히 1조 1천억대 첫 달성 https://t.co/fxnHTwQqyC"
+	},
+	{
+		"created_at": "Sat Jan 11 01:48:02 +0000 2020",
+		"id": 1215132305099907000,
+		"id_str": "1215812578854592512",
+		"full_text": "롯데 인천점에 처럼 계열사 분리로 이마트 광주점 매출이 제외된 광주신세계백화점은 추가 명품관 조성으로 매출 6천억대를 올림. 이는 작년하고 똑같은 매출로 그 말인 즉슨 이마트 광주점만 1년 매출이 천억대라는 소리. 만약 나중에 광주신세계 확장계획이 이뤄지면 광주에도 1조 백화점 나올지도.. https://t.co/fDflEarDtK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215132289832607700,
+					"id_str": "1215132289832607746",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0EYSqUYAIaIVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0EYSqUYAIaIVC.jpg",
+					"url": "https://t.co/fDflEarDtK",
+					"display_url": "pic.twitter.com/fDflEarDtK",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215132305099907073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 724,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1236,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215132289832607700,
+					"id_str": "1215132289832607746",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0EYSqUYAIaIVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0EYSqUYAIaIVC.jpg",
+					"url": "https://t.co/fDflEarDtK",
+					"display_url": "pic.twitter.com/fDflEarDtK",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215132305099907073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 724,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1236,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215129891718385700,
+		"in_reply_to_status_id_str": "1215129891718385664",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "롯데 인천점에 처럼 계열사 분리로 이마트 광주점 매출이 제외된 광주신세계백화점은 추가 명품관 조성으로 매출 6천억대를 올림. 이는 작년하고 똑같은 매출로 그 말인 즉슨 이마트 광주점만 1년 매출이 천억대라는 소리. 만약 나중에 광주신세계 확장계획이 이뤄지면 광주에도 1조 백화점 나올지도.. https://t.co/fDflEarDtK"
+	},
+	{
+		"created_at": "Sat Jan 11 01:47:59 +0000 2020",
+		"id": 1215129891718385700,
+		"id_str": "1215812567857156096",
+		"full_text": "신세계 인천점 전격 인수로 화제를 모았던 롯데백화점 인천터미널점은 의외로 5500억원의 매출밖에 못 올림. 신세계가 최전성기에 8000억원 매출을 생각하면 의아한데, 과거 지하에 이마트를 신세계에서 직접 운영했던 것과 달리 여기는 롯데마트가 별도 법인이라 매출에 안잡히는 모양. https://t.co/7DxaFQuVcF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215129887565959200,
+					"id_str": "1215129887565959173",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0CMdhUUAUmHty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0CMdhUUAUmHty.jpg",
+					"url": "https://t.co/7DxaFQuVcF",
+					"display_url": "pic.twitter.com/7DxaFQuVcF",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215129891718385664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 388,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215129887565959200,
+					"id_str": "1215129887565959173",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0CMdhUUAUmHty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0CMdhUUAUmHty.jpg",
+					"url": "https://t.co/7DxaFQuVcF",
+					"display_url": "pic.twitter.com/7DxaFQuVcF",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215129891718385664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 388,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215129887767269400,
+					"id_str": "1215129887767269376",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0CMeRUEAAjnrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0CMeRUEAAjnrE.jpg",
+					"url": "https://t.co/7DxaFQuVcF",
+					"display_url": "pic.twitter.com/7DxaFQuVcF",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215129891718385664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 559,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215095019356315600,
+		"in_reply_to_status_id_str": "1215095019356315648",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신세계 인천점 전격 인수로 화제를 모았던 롯데백화점 인천터미널점은 의외로 5500억원의 매출밖에 못 올림. 신세계가 최전성기에 8000억원 매출을 생각하면 의아한데, 과거 지하에 이마트를 신세계에서 직접 운영했던 것과 달리 여기는 롯데마트가 별도 법인이라 매출에 안잡히는 모양. https://t.co/7DxaFQuVcF"
+	},
+	{
+		"created_at": "Sat Jan 11 01:47:53 +0000 2020",
+		"id": 1215096672436441000,
+		"id_str": "1215812543576338433",
+		"full_text": "은공 (@eun_gong) 님이 증오해 마지않는 롯데 본점은 신세계 강남점에 3년 째 매출 순위에서 뒤쳐졌지만 그래도 현재도 어마어마한 매출 기록 중. 다만 매출 증가가 정체되고 있는데 2022년까지 대규모 리모델링이 예정되있고 2020년에 시진핑이 내한하면 한한령도 거의 해금 될 듯해 회복 가능성 있음 https://t.co/bbDsv58jQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eun_gong",
+					"name": "서울의 銀空을 찾아서",
+					"id": 165325098,
+					"id_str": "165325098",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215096667663298600,
+					"id_str": "1215096667663298560",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ENzj-zvU8AAJD4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENzj-zvU8AAJD4P.jpg",
+					"url": "https://t.co/bbDsv58jQL",
+					"display_url": "pic.twitter.com/bbDsv58jQL",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215096672436441088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215096667663298600,
+					"id_str": "1215096667663298560",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ENzj-zvU8AAJD4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENzj-zvU8AAJD4P.jpg",
+					"url": "https://t.co/bbDsv58jQL",
+					"display_url": "pic.twitter.com/bbDsv58jQL",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215096672436441088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215095781931147300,
+		"in_reply_to_status_id_str": "1215095781931147264",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "은공 (@eun_gong) 님이 증오해 마지않는 롯데 본점은 신세계 강남점에 3년 째 매출 순위에서 뒤쳐졌지만 그래도 현재도 어마어마한 매출 기록 중. 다만 매출 증가가 정체되고 있는데 2022년까지 대규모 리모델링이 예정되있고 2020년에 시진핑이 내한하면 한한령도 거의 해금 될 듯해 회복 가능성 있음 https://t.co/bbDsv58jQL"
+	},
+	{
+		"created_at": "Sat Jan 11 01:47:46 +0000 2020",
+		"id": 1215095781931147300,
+		"id_str": "1215812511749955587",
+		"full_text": "센트럴시티, 고속터미널에 위치한 신세계백화점 강남점이 전체 매출 2조원을 기록함. 이는 한국에서 백화점 매출 공개를 시작한 이래 롯데 본점이 기록했던 최고 매출을 갈아치운 것이라고.. 2016년에 추가 증축으로 서울 최대 크기 백화점이 된 것과 밀레니얼 세대 명품 유행의 효과를 톡톡히 본 듯. https://t.co/ykkOBYEMVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215095777330004000,
+					"id_str": "1215095777330003973",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ENzjK-_VAAURosT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENzjK-_VAAURosT.jpg",
+					"url": "https://t.co/ykkOBYEMVB",
+					"display_url": "pic.twitter.com/ykkOBYEMVB",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215095781931147264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 319,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 543,
+							"h": 319,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 543,
+							"h": 319,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215095777330004000,
+					"id_str": "1215095777330003973",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ENzjK-_VAAURosT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENzjK-_VAAURosT.jpg",
+					"url": "https://t.co/ykkOBYEMVB",
+					"display_url": "pic.twitter.com/ykkOBYEMVB",
+					"expanded_url": "https://twitter.com/insangmolkka/status/1215095781931147264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 319,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 543,
+							"h": 319,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 543,
+							"h": 319,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215095019356315600,
+		"in_reply_to_status_id_str": "1215095019356315648",
+		"in_reply_to_user_id": 4916326303,
+		"in_reply_to_user_id_str": "4916326303",
+		"in_reply_to_screen_name": "insangmolkka",
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 389,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 13593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "센트럴시티, 고속터미널에 위치한 신세계백화점 강남점이 전체 매출 2조원을 기록함. 이는 한국에서 백화점 매출 공개를 시작한 이래 롯데 본점이 기록했던 최고 매출을 갈아치운 것이라고.. 2016년에 추가 증축으로 서울 최대 크기 백화점이 된 것과 밀레니얼 세대 명품 유행의 효과를 톡톡히 본 듯. https://t.co/ykkOBYEMVB"
+	},
+	{
 		"created_at": "Fri Jan 10 21:40:37 +0000 2020",
 		"id": 1215740737486082000,
 		"id_str": "1215750317184356352",
