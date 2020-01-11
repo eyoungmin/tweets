@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 04:40:38 +0000 2020",
+		"id": 1215551349380788200,
+		"id_str": "1215856014412734464",
+		"full_text": "매니저 조이의 자유투 실력은?\n이러니 요즘 다들 #조이조이 하는 거래요~😏💚\n\n▼ 조이 선공개 영상 보러가기 ▼\nhttps://t.co/otCUpyMYoF\n\nSBS 신규 농구 예능 &lt;핸섬 타이거즈&gt;\n☞ 오늘 (10일, 금) 밤 11시 10분 첫 방송!\n\n#SBS예능 #핸섬타이거즈 #HandsomeTigers #조이 #선공개 #조이로그 #브이로그 https://t.co/O4cm8mCAFX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이조이",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "SBS예능",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "핸섬타이거즈",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "HandsomeTigers",
+					"indices": [
+						163,
+						178
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "선공개",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "조이로그",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						194,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/otCUpyMYoF",
+					"expanded_url": "https://youtu.be/TDRMFnnofOY",
+					"display_url": "youtu.be/TDRMFnnofOY",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215544877913538600,
+					"id_str": "1215544877913538560",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EN59J1-UYAAQxPL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN59J1-UYAAQxPL.jpg",
+					"url": "https://t.co/O4cm8mCAFX",
+					"display_url": "pic.twitter.com/O4cm8mCAFX",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1215551349380788224/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215544877913538600,
+					"id_str": "1215544877913538560",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EN59J1-UYAAQxPL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN59J1-UYAAQxPL.jpg",
+					"url": "https://t.co/O4cm8mCAFX",
+					"display_url": "pic.twitter.com/O4cm8mCAFX",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1215551349380788224/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31965,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1215544877913538560/vid/1280x720/3_7xCA0GWBshJXGL.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1215544877913538560/vid/480x270/11VsnJu-Dj5R17R4.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1215544877913538560/vid/640x360/vGEdbrExO3HS1bUe.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1215544877913538560/pl/CauPYMnaQ5YSZT0F.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1542647,
+			"friends_count": 7348,
+			"listed_count": 3160,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202501695697063942/LlREHZ-Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202501695697063942/LlREHZ-Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1575443122",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2680,
+		"favorite_count": 6110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매니저 조이의 자유투 실력은?\n이러니 요즘 다들 #조이조이 하는 거래요~😏💚\n\n▼ 조이 선공개 영상 보러가기 ▼\nhttps://t.co/otCUpyMYoF\n\nSBS 신규 농구 예능 &lt;핸섬 타이거즈&gt;\n☞ 오늘 (10일, 금) 밤 11시 10분 첫 방송!\n\n#SBS예능 #핸섬타이거즈 #HandsomeTigers #조이 #선공개 #조이로그 #브이로그 https://t.co/O4cm8mCAFX"
+	},
+	{
 		"created_at": "Sat Jan 11 03:50:41 +0000 2020",
 		"id": 1215572858736263200,
 		"id_str": "1215843446935580672",
