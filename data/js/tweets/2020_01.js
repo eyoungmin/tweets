@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 11:40:59 +0000 2020",
+		"id": 1216261519521898500,
+		"id_str": "1216324187544903682",
+		"full_text": "아이유가 직접 적어 온 감동의 편지 \"우리 한나 언니는요..♥\" /200109[강한나의 볼륨을 높여요]\n\n https://t.co/rODnP3cill https://t.co/zkjsXv0Ai4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rODnP3cill",
+					"expanded_url": "https://youtu.be/Lkpeq8V0zSw",
+					"display_url": "youtu.be/Lkpeq8V0zSw",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216261447493116000,
+					"id_str": "1216261447493115904",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EOEHV6vUYAADhsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOEHV6vUYAADhsM.jpg",
+					"url": "https://t.co/zkjsXv0Ai4",
+					"display_url": "pic.twitter.com/zkjsXv0Ai4",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1216261519521898497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 751,
+									"y": 463,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 750,
+									"y": 187,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 30,
+									"y": 320,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 163,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 265,
+									"y": 66,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 10,
+									"y": 113,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 751,
+									"y": 463,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 750,
+									"y": 187,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 30,
+									"y": 320,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 469,
+									"y": 289,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 468,
+									"y": 116,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 18,
+									"y": 200,
+									"h": 98,
+									"w": 98
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216261447493116000,
+					"id_str": "1216261447493115904",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EOEHV6vUYAADhsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOEHV6vUYAADhsM.jpg",
+					"url": "https://t.co/zkjsXv0Ai4",
+					"display_url": "pic.twitter.com/zkjsXv0Ai4",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1216261519521898497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 751,
+									"y": 463,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 750,
+									"y": 187,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 30,
+									"y": 320,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 163,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 265,
+									"y": 66,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 10,
+									"y": 113,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 751,
+									"y": 463,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 750,
+									"y": 187,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 30,
+									"y": 320,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 469,
+									"y": 289,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 468,
+									"y": 116,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 18,
+									"y": 200,
+									"h": 98,
+									"w": 98
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2292392636,
+			"id_str": "2292392636",
+			"name": "KBS Cool FM",
+			"screen_name": "KBS_COOL_FM",
+			"location": "",
+			"description": "안녕하세요 KBS 라디오 89.1MHz \nKBS쿨FM입니다^^\n스튜디오 속 생동감 넘치는 영상으로 청취자 여러분과 소통하기위해 노력하겠습니다^^*",
+			"url": "https://t.co/iWikkJSsdH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iWikkJSsdH",
+							"expanded_url": "https://www.youtube.com/channel/UCbVRtqsTmYh1xhrDSTfSQLg",
+							"display_url": "youtube.com/channel/UCbVRt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15767,
+			"friends_count": 3,
+			"listed_count": 123,
+			"created_at": "Wed Jan 15 08:45:26 +0000 2014",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/423378181903486976/OPmZ676Q_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/423378181903486976/OPmZ676Q_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2292392636/1392911906",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유가 직접 적어 온 감동의 편지 \"우리 한나 언니는요..♥\" /200109[강한나의 볼륨을 높여요]\n\n https://t.co/rODnP3cill https://t.co/zkjsXv0Ai4"
+	},
+	{
 		"created_at": "Sun Jan 12 09:40:37 +0000 2020",
 		"id": 1216286306424086500,
 		"id_str": "1216293898739503104",
