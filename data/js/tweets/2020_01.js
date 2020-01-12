@@ -1,6 +1,1031 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 01:16:13 +0000 2020",
+		"id": 1215891088004669400,
+		"id_str": "1216166959219273728",
+		"full_text": "'산천어 살리기 운동본부'는 동물학대로 화천군수를 검찰에 고발했습니다. \n\n'제 1회 동물축제 반대축제'의 기획자, 김산하 박사님이 생각하는 동물축제 반대 이유는 무엇일까요?\n\n\"동물을 굳이 축제에 쓸 거라면, \n그 동물의 살코기가 아닌 동물의 삶이 중심이 돼야죠\"\n\nhttps://t.co/63AdSK6xaV https://t.co/ScVLu8okf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/63AdSK6xaV",
+					"expanded_url": "https://youtu.be/dJYjWl7wlE0",
+					"display_url": "youtu.be/dJYjWl7wlE0",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215563088440615000,
+					"id_str": "1215563088440614912",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215563088440614912/pu/img/NCTHxU8IbWTVdBuk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215563088440614912/pu/img/NCTHxU8IbWTVdBuk.jpg",
+					"url": "https://t.co/ScVLu8okf3",
+					"display_url": "pic.twitter.com/ScVLu8okf3",
+					"expanded_url": "https://twitter.com/pran__official/status/1215891088004669443/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215563088440615000,
+					"id_str": "1215563088440614912",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215563088440614912/pu/img/NCTHxU8IbWTVdBuk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215563088440614912/pu/img/NCTHxU8IbWTVdBuk.jpg",
+					"url": "https://t.co/ScVLu8okf3",
+					"display_url": "pic.twitter.com/ScVLu8okf3",
+					"expanded_url": "https://twitter.com/pran__official/status/1215891088004669443/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59092,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215563088440614912/pu/vid/480x270/J4hc1dAMJZSSQj_i.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215563088440614912/pu/vid/1280x720/zAciIj0rlJev-cm5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1215563088440614912/pu/pl/jLbIFkJo2UrlUzWc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215563088440614912/pu/vid/640x360/oKb7frhvI2bGg_xq.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1032853583702548500,
+			"id_str": "1032853583702548480",
+			"name": "프란 PRAN",
+			"screen_name": "pran__official",
+			"location": "대한민국",
+			"description": "더 나은 세상을 향한 따뜻한 시선",
+			"url": "https://t.co/CWwspLQmii",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CWwspLQmii",
+							"expanded_url": "https://bit.ly/2MSaLVs",
+							"display_url": "bit.ly/2MSaLVs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 567,
+			"friends_count": 143,
+			"listed_count": 1,
+			"created_at": "Fri Aug 24 04:54:18 +0000 2018",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032856838058856448/B8IOjk5W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032856838058856448/B8IOjk5W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1032853583702548480/1578646354",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'산천어 살리기 운동본부'는 동물학대로 화천군수를 검찰에 고발했습니다. \n\n'제 1회 동물축제 반대축제'의 기획자, 김산하 박사님이 생각하는 동물축제 반대 이유는 무엇일까요?\n\n\"동물을 굳이 축제에 쓸 거라면, \n그 동물의 살코기가 아닌 동물의 삶이 중심이 돼야죠\"\n\nhttps://t.co/63AdSK6xaV https://t.co/ScVLu8okf3"
+	},
+	{
+		"created_at": "Sun Jan 12 01:14:37 +0000 2020",
+		"id": 1215906244847751200,
+		"id_str": "1216166556733861889",
+		"full_text": "[Episode] Comeback Trailer  'Interlude : Shadow' MV 촬영 비하인드 #SUGA\n(https://t.co/eEddrKJCpW)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUGA",
+					"indices": [
+						60,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eEddrKJCpW",
+					"expanded_url": "https://youtu.be/WuysD7OTFkY",
+					"display_url": "youtu.be/WuysD7OTFkY",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1409798257,
+			"id_str": "1409798257",
+			"name": "BTS_official",
+			"screen_name": "bts_bighit",
+			"location": "http://cafe.daum.net/BANGTAN",
+			"description": "#방탄소년단 공식 트위터 입니다.",
+			"url": "https://t.co/UKFREoHhAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKFREoHhAr",
+							"expanded_url": "http://bts.ibighit.com",
+							"display_url": "bts.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18383759,
+			"friends_count": 22,
+			"listed_count": 25635,
+			"created_at": "Tue May 07 09:13:05 +0000 2013",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F69A95",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214924997766066179/Iyhu1Odp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214924997766066179/Iyhu1Odp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409798257/1578495667",
+			"profile_link_color": "F69A95",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114289,
+		"favorite_count": 360886,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Episode] Comeback Trailer  'Interlude : Shadow' MV 촬영 비하인드 #SUGA\n(https://t.co/eEddrKJCpW)"
+	},
+	{
+		"created_at": "Sun Jan 12 01:14:35 +0000 2020",
+		"id": 1215287160766525400,
+		"id_str": "1216166548248743936",
+		"full_text": "#BTS #방탄소년단 #MAP_OF_THE_SOUL_7 Comeback Trailer Interlude : #Shadow\n(https://t.co/6zNStAvW2u)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "MAP_OF_THE_SOUL_7",
+					"indices": [
+						12,
+						30
+					]
+				},
+				{
+					"text": "Shadow",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6zNStAvW2u",
+					"expanded_url": "https://youtu.be/PV1gCvzpSy0",
+					"display_url": "youtu.be/PV1gCvzpSy0",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12255878,
+			"friends_count": 26,
+			"listed_count": 14128,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 361742,
+		"favorite_count": 874004,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BTS #방탄소년단 #MAP_OF_THE_SOUL_7 Comeback Trailer Interlude : #Shadow\n(https://t.co/6zNStAvW2u)"
+	},
+	{
+		"created_at": "Sun Jan 12 01:12:16 +0000 2020",
+		"id": 1215840928637673500,
+		"id_str": "1216165966096125953",
+		"full_text": "미니 당근(베이비 컷 캐롯)이 흡집이 나거나 규격 외인 당근을 깎아서 만든 아이디어 상품이라는 사실은 유명하다. 폐기되는 당근의 양이 확 줄기도 했지만, 싸고 편리한 미니 당근의 등장으로 미국 내 당근 소비가 8배 늘었다는 이야기가 있다. https://t.co/8q8gq0xYO6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215840921700319200,
+					"id_str": "1215840921700319232",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-I4GFUwAAQK82.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-I4GFUwAAQK82.jpg",
+					"url": "https://t.co/8q8gq0xYO6",
+					"display_url": "pic.twitter.com/8q8gq0xYO6",
+					"expanded_url": "https://twitter.com/kcanari/status/1215840928637673472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215840921700319200,
+					"id_str": "1215840921700319232",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-I4GFUwAAQK82.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-I4GFUwAAQK82.jpg",
+					"url": "https://t.co/8q8gq0xYO6",
+					"display_url": "pic.twitter.com/8q8gq0xYO6",
+					"expanded_url": "https://twitter.com/kcanari/status/1215840928637673472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215840921704484900,
+					"id_str": "1215840921704484865",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-I4GGUUAEjOmI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-I4GGUUAEjOmI.jpg",
+					"url": "https://t.co/8q8gq0xYO6",
+					"display_url": "pic.twitter.com/8q8gq0xYO6",
+					"expanded_url": "https://twitter.com/kcanari/status/1215840928637673472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 351,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 351,
+							"h": 284,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 351,
+							"h": 284,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "https://t.co/lBdKLdgZ3Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lBdKLdgZ3Z",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49111,
+			"friends_count": 277,
+			"listed_count": 247,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 120643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9599,
+		"favorite_count": 4657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미니 당근(베이비 컷 캐롯)이 흡집이 나거나 규격 외인 당근을 깎아서 만든 아이디어 상품이라는 사실은 유명하다. 폐기되는 당근의 양이 확 줄기도 했지만, 싸고 편리한 미니 당근의 등장으로 미국 내 당근 소비가 8배 늘었다는 이야기가 있다. https://t.co/8q8gq0xYO6"
+	},
+	{
+		"created_at": "Sun Jan 12 01:05:21 +0000 2020",
+		"id": 1216056057241301000,
+		"id_str": "1216164228316442625",
+		"full_text": "Billie is nominated for #BRITs 2020 International Female Solo Artist. @BRITs https://t.co/2KM0lDsjcf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BRITs",
+					"indices": [
+						24,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BRITs",
+					"name": "BRIT Awards",
+					"id": 88442109,
+					"id_str": "88442109",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216056053386711000,
+					"id_str": "1216056053386711040",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EOBMiaEUEAA0ukN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOBMiaEUEAA0ukN.jpg",
+					"url": "https://t.co/2KM0lDsjcf",
+					"display_url": "pic.twitter.com/2KM0lDsjcf",
+					"expanded_url": "https://twitter.com/billieeilish/status/1216056057241300992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 868,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 868,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 868,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 344,
+									"y": 546,
+									"h": 29,
+									"w": 29
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216056053386711000,
+					"id_str": "1216056053386711040",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EOBMiaEUEAA0ukN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOBMiaEUEAA0ukN.jpg",
+					"url": "https://t.co/2KM0lDsjcf",
+					"display_url": "pic.twitter.com/2KM0lDsjcf",
+					"expanded_url": "https://twitter.com/billieeilish/status/1216056057241300992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 868,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 868,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 547,
+									"y": 868,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 344,
+									"y": 546,
+									"h": 29,
+									"w": 29
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3318041,
+			"friends_count": 0,
+			"listed_count": 2717,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2315,
+		"favorite_count": 22730,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie is nominated for #BRITs 2020 International Female Solo Artist. @BRITs https://t.co/2KM0lDsjcf"
+	},
+	{
 		"created_at": "Sun Jan 12 00:58:17 +0000 2020",
 		"id": 1215863208872796200,
 		"id_str": "1216162447016390656",
