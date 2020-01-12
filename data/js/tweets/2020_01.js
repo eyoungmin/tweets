@@ -1,6 +1,2829 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 00:58:17 +0000 2020",
+		"id": 1215863208872796200,
+		"id_str": "1216162447016390656",
+		"full_text": "나는 이런 인식과 시장구조에는 한계가 있고 모두에게 안좋은 영향을 끼치고 있으니 대안이 필요하다고 생각함. 그런 구조를 바꾸는 것이 여러모로 많은 사람들에게 득이 되는 방향이라고 생각하기 때문에 이런 말을 자꾸 하는 것임. 단 과일먹지 말라고 욕하고 저주한 거 아니니까 그냥 지나가...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215862546952900600,
+		"in_reply_to_status_id_str": "1215862546952900608",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나는 이런 인식과 시장구조에는 한계가 있고 모두에게 안좋은 영향을 끼치고 있으니 대안이 필요하다고 생각함. 그런 구조를 바꾸는 것이 여러모로 많은 사람들에게 득이 되는 방향이라고 생각하기 때문에 이런 말을 자꾸 하는 것임. 단 과일먹지 말라고 욕하고 저주한 거 아니니까 그냥 지나가..."
+	},
+	{
+		"created_at": "Sun Jan 12 00:58:16 +0000 2020",
+		"id": 1215862546952900600,
+		"id_str": "1216162442457149440",
+		"full_text": "그리고 단일품종 대량생산, 농약비료과잉시비, 과잉생산 소량출하, 대량폐기, 당도만 최고로 치고 나머지는 등외품... 당도만 좋아하시는 분들은 뭐... 어쩌라고이다... 계속 좋아하세요... 시장이 이미 그렇잖음? 바뀌지도 않을거 뭘 또 억울해하는 것처럼 구는지 모르겠음...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215857516308910000,
+		"in_reply_to_status_id_str": "1215857516308910081",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 단일품종 대량생산, 농약비료과잉시비, 과잉생산 소량출하, 대량폐기, 당도만 최고로 치고 나머지는 등외품... 당도만 좋아하시는 분들은 뭐... 어쩌라고이다... 계속 좋아하세요... 시장이 이미 그렇잖음? 바뀌지도 않을거 뭘 또 억울해하는 것처럼 구는지 모르겠음..."
+	},
+	{
+		"created_at": "Sun Jan 12 00:57:45 +0000 2020",
+		"id": 1215857516308910000,
+		"id_str": "1216162314296025093",
+		"full_text": "그리고 생과로만 먹는다는 것에만 집착하고 흠과나 가공품은 질낮은 것으로 취급하기 때문에(인식의 악순환)로스가 어마어마 한 것이다. 가격과 과잉생산 문제도 있지만. 소비를 못하면 버려야되는 농산물들의 양이 얼마나 되는지 상상도 못하실 것. 소돼지살처분만 마음아픈 것이 아님. https://t.co/IzFqXKjqyk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215857505613406200,
+					"id_str": "1215857505613406210",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-X9Z-UYAIUw9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-X9Z-UYAIUw9s.jpg",
+					"url": "https://t.co/IzFqXKjqyk",
+					"display_url": "pic.twitter.com/IzFqXKjqyk",
+					"expanded_url": "https://twitter.com/symposion_/status/1215857516308910081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 377,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 377,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 377,
+							"h": 502,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215857505613406200,
+					"id_str": "1215857505613406210",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-X9Z-UYAIUw9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-X9Z-UYAIUw9s.jpg",
+					"url": "https://t.co/IzFqXKjqyk",
+					"display_url": "pic.twitter.com/IzFqXKjqyk",
+					"expanded_url": "https://twitter.com/symposion_/status/1215857516308910081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 377,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 377,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 377,
+							"h": 502,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215857505630208000,
+					"id_str": "1215857505630208000",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-X9aCUwAAwDkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-X9aCUwAAwDkx.jpg",
+					"url": "https://t.co/IzFqXKjqyk",
+					"display_url": "pic.twitter.com/IzFqXKjqyk",
+					"expanded_url": "https://twitter.com/symposion_/status/1215857516308910081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 421,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215857505642799000,
+					"id_str": "1215857505642799104",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-X9aFU4AAOzx9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-X9aFU4AAOzx9.jpg",
+					"url": "https://t.co/IzFqXKjqyk",
+					"display_url": "pic.twitter.com/IzFqXKjqyk",
+					"expanded_url": "https://twitter.com/symposion_/status/1215857516308910081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 322,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 322,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 322,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215857505655353300,
+					"id_str": "1215857505655353345",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-X9aIUcAEnx1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-X9aIUcAEnx1z.jpg",
+					"url": "https://t.co/IzFqXKjqyk",
+					"display_url": "pic.twitter.com/IzFqXKjqyk",
+					"expanded_url": "https://twitter.com/symposion_/status/1215857516308910081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 372,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215856199028969500,
+		"in_reply_to_status_id_str": "1215856199028969473",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 772,
+		"favorite_count": 281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그리고 생과로만 먹는다는 것에만 집착하고 흠과나 가공품은 질낮은 것으로 취급하기 때문에(인식의 악순환)로스가 어마어마 한 것이다. 가격과 과잉생산 문제도 있지만. 소비를 못하면 버려야되는 농산물들의 양이 얼마나 되는지 상상도 못하실 것. 소돼지살처분만 마음아픈 것이 아님. https://t.co/IzFqXKjqyk"
+	},
+	{
+		"created_at": "Sun Jan 12 00:57:42 +0000 2020",
+		"id": 1215856199028969500,
+		"id_str": "1216162302388391936",
+		"full_text": "소비자들은 모른다... 농사를 해보지 않으면. 농원에 약 20가지 품종이 식재되어있고 실험중인데... 아무래도 신고를 이길 수가 없다. 산미가 잇는 품종은 호불호가 너무 심해서 좋아하는 분도 많지만 클레임도 많음. 시장에서는 \"신고\" 외의 배는 \"잡배\"라는 코드로 퉁쳐지고 보통 취급을 아예 안함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215854688005845000,
+		"in_reply_to_status_id_str": "1215854688005844992",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "소비자들은 모른다... 농사를 해보지 않으면. 농원에 약 20가지 품종이 식재되어있고 실험중인데... 아무래도 신고를 이길 수가 없다. 산미가 잇는 품종은 호불호가 너무 심해서 좋아하는 분도 많지만 클레임도 많음. 시장에서는 \"신고\" 외의 배는 \"잡배\"라는 코드로 퉁쳐지고 보통 취급을 아예 안함."
+	},
+	{
+		"created_at": "Sun Jan 12 00:57:35 +0000 2020",
+		"id": 1215854688005845000,
+		"id_str": "1216162270545207296",
+		"full_text": "이 글을 쓰니까 또 오독하는 분들이 많은데... 이미 위에 써있듯이 \"한국과일이 미천하다!\" 이런게 아니고(내가 일단 과수원 운영중) 농업 다양성이 부족하고 식재료의 활용과 소비시장구조의 문제점과 한계에 대해서 이야기 한 것이니 뻘소리는 그만해주길 바랍니다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215853579673600000,
+		"in_reply_to_status_id_str": "1215853579673600000",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 218,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 글을 쓰니까 또 오독하는 분들이 많은데... 이미 위에 써있듯이 \"한국과일이 미천하다!\" 이런게 아니고(내가 일단 과수원 운영중) 농업 다양성이 부족하고 식재료의 활용과 소비시장구조의 문제점과 한계에 대해서 이야기 한 것이니 뻘소리는 그만해주길 바랍니다..."
+	},
+	{
+		"created_at": "Sun Jan 12 00:57:32 +0000 2020",
+		"id": 1215853579673600000,
+		"id_str": "1216162261162577920",
+		"full_text": "표준을 정하고 줄세운 뒤 \"등외품\"을 쳐내고 폐기해버리는 것을 자랑스럽게 생각하는 것은 인간을 대하는 태도와 연결되어 있다고 많이 느낌. 일단 외관으로 판단하고 권력이 원하는 특정 스펙(단맛)이 충족되지 않으면 아예 가치없는 것으로 만든다. 이런 인식이 주체에 내재화되어 있기도 하고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215840036622499800,
+		"in_reply_to_status_id_str": "1215840036622499840",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 282,
+		"favorite_count": 211,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "표준을 정하고 줄세운 뒤 \"등외품\"을 쳐내고 폐기해버리는 것을 자랑스럽게 생각하는 것은 인간을 대하는 태도와 연결되어 있다고 많이 느낌. 일단 외관으로 판단하고 권력이 원하는 특정 스펙(단맛)이 충족되지 않으면 아예 가치없는 것으로 만든다. 이런 인식이 주체에 내재화되어 있기도 하고."
+	},
+	{
+		"created_at": "Sun Jan 12 00:57:31 +0000 2020",
+		"id": 1215840036622499800,
+		"id_str": "1216162253751193601",
+		"full_text": "농부들도 돈 못벌고 굶고 자살하고, 소비자들은 비싸게 맛없고 건강에 안좋은 농산물 먹고. 모두에게 안좋은 구조인데 이걸 바꿀수가 있어야지... 사람들의 상식과 인식과 감각을 바꾸는 것은 너무너무 어려운 일이다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215839384840237000,
+		"in_reply_to_status_id_str": "1215839384840237056",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 280,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "농부들도 돈 못벌고 굶고 자살하고, 소비자들은 비싸게 맛없고 건강에 안좋은 농산물 먹고. 모두에게 안좋은 구조인데 이걸 바꿀수가 있어야지... 사람들의 상식과 인식과 감각을 바꾸는 것은 너무너무 어려운 일이다..."
+	},
+	{
+		"created_at": "Sun Jan 12 00:56:44 +0000 2020",
+		"id": 1215839384840237000,
+		"id_str": "1216162056774176770",
+		"full_text": "뭐 서구 시장이나 농업환경이 유토피아라는 말은 아니다. 그늘도 많고 세계 어딜가나 농업은 각광받는 직업이 아니며... 하지만 적어도 제정신이다...전세계에서 오로지 한국과 일본만 농산물을 공산품처럼 다룬다. 농산물에 특상중하 매기고 당도측정해서 그람단위 개수별 포장으로 파는 미친 나라.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215837715247157200,
+		"in_reply_to_status_id_str": "1215837715247157248",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 436,
+		"favorite_count": 211,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뭐 서구 시장이나 농업환경이 유토피아라는 말은 아니다. 그늘도 많고 세계 어딜가나 농업은 각광받는 직업이 아니며... 하지만 적어도 제정신이다...전세계에서 오로지 한국과 일본만 농산물을 공산품처럼 다룬다. 농산물에 특상중하 매기고 당도측정해서 그람단위 개수별 포장으로 파는 미친 나라."
+	},
+	{
+		"created_at": "Sun Jan 12 00:56:32 +0000 2020",
+		"id": 1215837715247157200,
+		"id_str": "1216162006698319872",
+		"full_text": "믿을 수가 없는 광경의 연속이다... 사진은 네덜란드 공판장 블랙라벨(프리미엄)당근. 손가락굵기의 크기가 들쭉날쭉한 당근들을 벌크로 거래한다. 한국의 어떤 미친 농부가 콘테나에 비닐 한장 씌워 손가락만한 당근을 출하하나. 국내에선 불법이다. 유통업자와 소비자와 정부는 이 꼴 절대 못본다... https://t.co/QkVvjlJ9L0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215837702232260600,
+					"id_str": "1215837702232260609",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-F8soUwAEaYud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-F8soUwAEaYud.jpg",
+					"url": "https://t.co/QkVvjlJ9L0",
+					"display_url": "pic.twitter.com/QkVvjlJ9L0",
+					"expanded_url": "https://twitter.com/symposion_/status/1215837715247157248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 914,
+									"y": 698,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 1182,
+									"y": 1404,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 914,
+									"y": 698,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 1182,
+									"y": 1404,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 535,
+									"y": 408,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 692,
+									"y": 822,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 303,
+									"y": 231,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 392,
+									"y": 466,
+									"h": 37,
+									"w": 37
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215837702232260600,
+					"id_str": "1215837702232260609",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-F8soUwAEaYud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-F8soUwAEaYud.jpg",
+					"url": "https://t.co/QkVvjlJ9L0",
+					"display_url": "pic.twitter.com/QkVvjlJ9L0",
+					"expanded_url": "https://twitter.com/symposion_/status/1215837715247157248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 914,
+									"y": 698,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 1182,
+									"y": 1404,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 914,
+									"y": 698,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 1182,
+									"y": 1404,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 535,
+									"y": 408,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 692,
+									"y": 822,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 303,
+									"y": 231,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 392,
+									"y": 466,
+									"h": 37,
+									"w": 37
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215835496921759700,
+		"in_reply_to_status_id_str": "1215835496921759744",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "믿을 수가 없는 광경의 연속이다... 사진은 네덜란드 공판장 블랙라벨(프리미엄)당근. 손가락굵기의 크기가 들쭉날쭉한 당근들을 벌크로 거래한다. 한국의 어떤 미친 농부가 콘테나에 비닐 한장 씌워 손가락만한 당근을 출하하나. 국내에선 불법이다. 유통업자와 소비자와 정부는 이 꼴 절대 못본다... https://t.co/QkVvjlJ9L0"
+	},
+	{
+		"created_at": "Sun Jan 12 00:56:00 +0000 2020",
+		"id": 1215835496921759700,
+		"id_str": "1216161873998925824",
+		"full_text": "생산자 입장에서 외국 공판장가면 진짜 머리가 쭈뼛 설 정도로 충격적이다... 질문세례가 쏟아짐. 아니 이런 물건도 온다고?! 이렇게 대충 포장해서 올린다고?! 이거 다 상해서 어떡해? 이렇게 소매가면 다 문드러지잖아요? 이런건 누가사요? 이건 가락동에 올라가지도 못해! 이건 그냥 쓰레긴데?! https://t.co/nzAOolGwuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215835471449706500,
+					"id_str": "1215835471449706501",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-D62UUUAUtR1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-D62UUUAUtR1q.jpg",
+					"url": "https://t.co/nzAOolGwuF",
+					"display_url": "pic.twitter.com/nzAOolGwuF",
+					"expanded_url": "https://twitter.com/symposion_/status/1215835496921759744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215835471449706500,
+					"id_str": "1215835471449706501",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-D62UUUAUtR1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-D62UUUAUtR1q.jpg",
+					"url": "https://t.co/nzAOolGwuF",
+					"display_url": "pic.twitter.com/nzAOolGwuF",
+					"expanded_url": "https://twitter.com/symposion_/status/1215835496921759744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215835471462322200,
+					"id_str": "1215835471462322176",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-D62XU0AAoJwh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-D62XU0AAoJwh.jpg",
+					"url": "https://t.co/nzAOolGwuF",
+					"display_url": "pic.twitter.com/nzAOolGwuF",
+					"expanded_url": "https://twitter.com/symposion_/status/1215835496921759744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215835471479111700,
+					"id_str": "1215835471479111683",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-D62bVAAM402F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-D62bVAAM402F.jpg",
+					"url": "https://t.co/nzAOolGwuF",
+					"display_url": "pic.twitter.com/nzAOolGwuF",
+					"expanded_url": "https://twitter.com/symposion_/status/1215835496921759744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215835471483265000,
+					"id_str": "1215835471483265024",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-D62cUYAAIFbY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-D62cUYAAIFbY.jpg",
+					"url": "https://t.co/nzAOolGwuF",
+					"display_url": "pic.twitter.com/nzAOolGwuF",
+					"expanded_url": "https://twitter.com/symposion_/status/1215835496921759744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215830774173196300,
+		"in_reply_to_status_id_str": "1215830774173196293",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "생산자 입장에서 외국 공판장가면 진짜 머리가 쭈뼛 설 정도로 충격적이다... 질문세례가 쏟아짐. 아니 이런 물건도 온다고?! 이렇게 대충 포장해서 올린다고?! 이거 다 상해서 어떡해? 이렇게 소매가면 다 문드러지잖아요? 이런건 누가사요? 이건 가락동에 올라가지도 못해! 이건 그냥 쓰레긴데?! https://t.co/nzAOolGwuF"
+	},
+	{
+		"created_at": "Sun Jan 12 00:55:56 +0000 2020",
+		"id": 1215830774173196300,
+		"id_str": "1216161855111974912",
+		"full_text": "다양하고 맛있고 건강하고 저렴하게 농산물과 가공식품, 조리식품 드시고 싶은 한국인이시라면... 아래 사진과 같은 유통환경을 감당하셔야 함... 뭐가 문제인지 모르겠다구요? 상처나고 무르고 못생기고 맛이나 외관이 균일하지 않은 과일이라도 환불하지 않으셔야 한다는 말. 내 생각엔 절대 못고침. https://t.co/Vd9NsVwY8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215830754082451500,
+					"id_str": "1215830754082451459",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EN9_oQwUcAM8quC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN9_oQwUcAM8quC.jpg",
+					"url": "https://t.co/Vd9NsVwY8h",
+					"display_url": "pic.twitter.com/Vd9NsVwY8h",
+					"expanded_url": "https://twitter.com/symposion_/status/1215830774173196293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215830754082451500,
+					"id_str": "1215830754082451459",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EN9_oQwUcAM8quC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN9_oQwUcAM8quC.jpg",
+					"url": "https://t.co/Vd9NsVwY8h",
+					"display_url": "pic.twitter.com/Vd9NsVwY8h",
+					"expanded_url": "https://twitter.com/symposion_/status/1215830774173196293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215830754103480300,
+					"id_str": "1215830754103480321",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EN9_oQ1VUAEx_Tq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN9_oQ1VUAEx_Tq.jpg",
+					"url": "https://t.co/Vd9NsVwY8h",
+					"display_url": "pic.twitter.com/Vd9NsVwY8h",
+					"expanded_url": "https://twitter.com/symposion_/status/1215830774173196293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215830754124370000,
+					"id_str": "1215830754124369921",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EN9_oQ6UEAEWTJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN9_oQ6UEAEWTJF.jpg",
+					"url": "https://t.co/Vd9NsVwY8h",
+					"display_url": "pic.twitter.com/Vd9NsVwY8h",
+					"expanded_url": "https://twitter.com/symposion_/status/1215830774173196293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215830754124427300,
+					"id_str": "1215830754124427265",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EN9_oQ6U8AEKa6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN9_oQ6U8AEKa6d.jpg",
+					"url": "https://t.co/Vd9NsVwY8h",
+					"display_url": "pic.twitter.com/Vd9NsVwY8h",
+					"expanded_url": "https://twitter.com/symposion_/status/1215830774173196293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 172,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 64,
+									"y": 363,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 336,
+									"y": 156,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 96,
+									"y": 116,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 790,
+									"y": 520,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 194,
+									"y": 1096,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 1014,
+									"y": 472,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 292,
+									"y": 350,
+									"h": 214,
+									"w": 214
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 790,
+									"y": 520,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 194,
+									"y": 1096,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 1014,
+									"y": 472,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 292,
+									"y": 350,
+									"h": 214,
+									"w": 214
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 462,
+									"y": 304,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 113,
+									"y": 642,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 594,
+									"y": 276,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 171,
+									"y": 205,
+									"h": 125,
+									"w": 125
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215825576285499400,
+		"in_reply_to_status_id_str": "1215825576285499393",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 611,
+		"favorite_count": 283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다양하고 맛있고 건강하고 저렴하게 농산물과 가공식품, 조리식품 드시고 싶은 한국인이시라면... 아래 사진과 같은 유통환경을 감당하셔야 함... 뭐가 문제인지 모르겠다구요? 상처나고 무르고 못생기고 맛이나 외관이 균일하지 않은 과일이라도 환불하지 않으셔야 한다는 말. 내 생각엔 절대 못고침. https://t.co/Vd9NsVwY8h"
+	},
+	{
+		"created_at": "Sun Jan 12 00:55:52 +0000 2020",
+		"id": 1215825576285499400,
+		"id_str": "1216161840192835585",
+		"full_text": "농산물 대한 단조로운 평가기준이 단조로운 농산물시장을 만들고 농부들은 그 수요에 맞게 공급해야되니 \"단일품종+농약비료과잉시비+과잉생산 후 극소량 선별출하\"하게 되고 소비자 입장에서는 비싼돈주고 형편없는 농산물(가공품 포함)먹는다. 이런 얘기가 나오는 것...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215822975271751700,
+		"in_reply_to_status_id_str": "1215822975271751681",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 420,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "농산물 대한 단조로운 평가기준이 단조로운 농산물시장을 만들고 농부들은 그 수요에 맞게 공급해야되니 \"단일품종+농약비료과잉시비+과잉생산 후 극소량 선별출하\"하게 되고 소비자 입장에서는 비싼돈주고 형편없는 농산물(가공품 포함)먹는다. 이런 얘기가 나오는 것..."
+	},
+	{
+		"created_at": "Sun Jan 12 00:55:50 +0000 2020",
+		"id": 1215822975271751700,
+		"id_str": "1216161829832888320",
+		"full_text": "해외연수를 가면 극명하게 그 차이를 느낀다. 공판장, 매장, 농가 등을 가는데 엄청나게 다양한 범위의 농산물들을 팔고 산다. 가공도 말도 안되게 발달해있고 식재료에 대한 관용도가 비교가 안된다. 당도나 흠집이나 외관에 집착하지 않기 때문에 유통과정이 엄청 경제적이고 공급도 다양하고 많음. https://t.co/VY31fKNxac",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215822959337541600,
+					"id_str": "1215822959337541633",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EN94ijEUEAEPZgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN94ijEUEAEPZgF.jpg",
+					"url": "https://t.co/VY31fKNxac",
+					"display_url": "pic.twitter.com/VY31fKNxac",
+					"expanded_url": "https://twitter.com/symposion_/status/1215822975271751681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215822959337541600,
+					"id_str": "1215822959337541633",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EN94ijEUEAEPZgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN94ijEUEAEPZgF.jpg",
+					"url": "https://t.co/VY31fKNxac",
+					"display_url": "pic.twitter.com/VY31fKNxac",
+					"expanded_url": "https://twitter.com/symposion_/status/1215822975271751681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215822959337623600,
+					"id_str": "1215822959337623552",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EN94ijEVUAA31Ku.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN94ijEVUAA31Ku.jpg",
+					"url": "https://t.co/VY31fKNxac",
+					"display_url": "pic.twitter.com/VY31fKNxac",
+					"expanded_url": "https://twitter.com/symposion_/status/1215822975271751681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 450,
+									"y": 639,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 255,
+									"y": 362,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 768,
+									"y": 1092,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 768,
+									"y": 1092,
+									"h": 108,
+									"w": 108
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215822959350149000,
+					"id_str": "1215822959350149121",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EN94ijHUcAEYorz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN94ijHUcAEYorz.jpg",
+					"url": "https://t.co/VY31fKNxac",
+					"display_url": "pic.twitter.com/VY31fKNxac",
+					"expanded_url": "https://twitter.com/symposion_/status/1215822975271751681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 378,
+									"y": 18,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 667,
+									"y": 32,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1140,
+									"y": 56,
+									"h": 228,
+									"w": 228
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1140,
+									"y": 56,
+									"h": 228,
+									"w": 228
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215822959639531500,
+					"id_str": "1215822959639531520",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EN94ikMUEAAFgDL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN94ikMUEAAFgDL.jpg",
+					"url": "https://t.co/VY31fKNxac",
+					"display_url": "pic.twitter.com/VY31fKNxac",
+					"expanded_url": "https://twitter.com/symposion_/status/1215822975271751681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215819507597365200,
+		"in_reply_to_status_id_str": "1215819507597365248",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 857,
+		"favorite_count": 466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해외연수를 가면 극명하게 그 차이를 느낀다. 공판장, 매장, 농가 등을 가는데 엄청나게 다양한 범위의 농산물들을 팔고 산다. 가공도 말도 안되게 발달해있고 식재료에 대한 관용도가 비교가 안된다. 당도나 흠집이나 외관에 집착하지 않기 때문에 유통과정이 엄청 경제적이고 공급도 다양하고 많음. https://t.co/VY31fKNxac"
+	},
+	{
+		"created_at": "Sun Jan 12 00:55:44 +0000 2020",
+		"id": 1215819507597365200,
+		"id_str": "1216161806017679360",
+		"full_text": "서양사람들 과일로 다양하게 해먹는다. 소스, 파이, 타르트, 케이크, 잼, 콩포트, 주스, 아이스크림 같은 맛있는 요리와 빵, 디저트 만들면 풍미가 작렬하지... 왜 한국은 그런걸 못할까? 그것은 한국인 기준에 생과로는 폐기처분해야할 단맛없고 시고 떫고 물없고 작은 과일도 생산하기 때문이다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215818590768599000,
+		"in_reply_to_status_id_str": "1215818590768599040",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 723,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "서양사람들 과일로 다양하게 해먹는다. 소스, 파이, 타르트, 케이크, 잼, 콩포트, 주스, 아이스크림 같은 맛있는 요리와 빵, 디저트 만들면 풍미가 작렬하지... 왜 한국은 그런걸 못할까? 그것은 한국인 기준에 생과로는 폐기처분해야할 단맛없고 시고 떫고 물없고 작은 과일도 생산하기 때문이다..."
+	},
+	{
+		"created_at": "Sun Jan 12 00:55:35 +0000 2020",
+		"id": 1215818590768599000,
+		"id_str": "1216161769204285441",
+		"full_text": "생과 경쟁하면 당연히 한국이 압승이지만... 조리나 요리, 착즙, 베이커리 등 가공을 거쳐야 할때는 한국 과일품종의 단조로움이 큰 독이 된다. 수분이 많고 단맛밖에 없는 과일은 잘 짜봐야 내맛도니맛도 아닌 단물, 아무리 졸여봐야 아무짝에 쓸모없는 스프같은 질감의 단 국물 같은 것이 나옴...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215816695270400000,
+		"in_reply_to_status_id_str": "1215816695270400000",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 950,
+		"favorite_count": 420,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "생과 경쟁하면 당연히 한국이 압승이지만... 조리나 요리, 착즙, 베이커리 등 가공을 거쳐야 할때는 한국 과일품종의 단조로움이 큰 독이 된다. 수분이 많고 단맛밖에 없는 과일은 잘 짜봐야 내맛도니맛도 아닌 단물, 아무리 졸여봐야 아무짝에 쓸모없는 스프같은 질감의 단 국물 같은 것이 나옴..."
+	},
+	{
+		"created_at": "Sun Jan 12 00:55:21 +0000 2020",
+		"id": 1215816695270400000,
+		"id_str": "1216161710366609413",
+		"full_text": "한국인들은 과일 맛의 기준은 무조건 꿀, 설탕, 당도 뿐이다. 내가 제일 많이 듣는 질문도 \"당도 좋은가요?(맛있나요?라는 뜻)\"이며 호평은 \"달다.\"이고 악평은 \"안달다.\"이다. 한국 과일을 먹은 양인들은 달다고 진저리를 친다. 반대로 한국인들은 서양과일 먹으면 시고 싱겁고 떫다고 진저리를 침.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215790899872981000,
+		"in_reply_to_status_id_str": "1215790899872980997",
+		"in_reply_to_user_id": 178318711,
+		"in_reply_to_user_id_str": "178318711",
+		"in_reply_to_screen_name": "symposion_",
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 882,
+		"favorite_count": 387,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국인들은 과일 맛의 기준은 무조건 꿀, 설탕, 당도 뿐이다. 내가 제일 많이 듣는 질문도 \"당도 좋은가요?(맛있나요?라는 뜻)\"이며 호평은 \"달다.\"이고 악평은 \"안달다.\"이다. 한국 과일을 먹은 양인들은 달다고 진저리를 친다. 반대로 한국인들은 서양과일 먹으면 시고 싱겁고 떫다고 진저리를 침."
+	},
+	{
+		"created_at": "Sun Jan 12 00:55:16 +0000 2020",
+		"id": 1215790899872981000,
+		"id_str": "1216161689361506304",
+		"full_text": "한국산 과일로 잼을 만들면 실패할 확률이 높은 이유: 한국인들이 과일 \"당도\"와 \"외관\"에만 미쳐있어서. 산미는 모두 제거하고 당도와 비대만 높인 품종만을 재배하고 육종했기 때문.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 178318711,
+			"id_str": "178318711",
+			"name": "향연",
+			"screen_name": "symposion_",
+			"location": "",
+			"description": "Hic et nunc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 836,
+			"listed_count": 26,
+			"created_at": "Sat Aug 14 12:51:55 +0000 2010",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212373325319569410/EAu7i-WL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178318711/1445158821",
+			"profile_link_color": "4C7A62",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "856685",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6792,
+		"favorite_count": 3066,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국산 과일로 잼을 만들면 실패할 확률이 높은 이유: 한국인들이 과일 \"당도\"와 \"외관\"에만 미쳐있어서. 산미는 모두 제거하고 당도와 비대만 높인 품종만을 재배하고 육종했기 때문."
+	},
+	{
 		"created_at": "Sat Jan 11 16:40:38 +0000 2020",
 		"id": 1216029194070573000,
 		"id_str": "1216037209326923777",
