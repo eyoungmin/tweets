@@ -1,6 +1,941 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 23:00:36 +0000 2020",
+		"id": 1216243531817287700,
+		"id_str": "1216495221749370880",
+		"full_text": "안락사를 결정하고 나서 삶에 대한 희망을 가졌다는 사람에 대한 기사를 읽은 적이 있었는데, '나는 내가 원하면 언제든 이 괴로움을 끝낼 수 있다'는 확신이 때로는 삶에 대한 궁극적인 통제감과 일종의 자신감, 후련함 등을 주나 봄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216240964995448800,
+		"in_reply_to_status_id_str": "1216240964995448834",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. 신간 [여전히 휘둘리는 당신에게]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76333,
+			"friends_count": 209,
+			"listed_count": 594,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 440,
+		"favorite_count": 418,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안락사를 결정하고 나서 삶에 대한 희망을 가졌다는 사람에 대한 기사를 읽은 적이 있었는데, '나는 내가 원하면 언제든 이 괴로움을 끝낼 수 있다'는 확신이 때로는 삶에 대한 궁극적인 통제감과 일종의 자신감, 후련함 등을 주나 봄"
+	},
+	{
+		"created_at": "Sun Jan 12 23:00:18 +0000 2020",
+		"id": 1216240964995448800,
+		"id_str": "1216495145572392960",
+		"full_text": "삶과 자아로부터의 궁극적인 도피를 꿈꾸는 것이 때로는 어느 정도 힐링(?) 효과가 있어서 괴로울 때면 자살에 대한 생각을 하게 되는 거라고.. Mark Leary 저 &lt;The curse of the self&gt;라는 책입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216240129213456400,
+		"in_reply_to_status_id_str": "1216240129213456390",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. 신간 [여전히 휘둘리는 당신에게]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76333,
+			"friends_count": 209,
+			"listed_count": 594,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "삶과 자아로부터의 궁극적인 도피를 꿈꾸는 것이 때로는 어느 정도 힐링(?) 효과가 있어서 괴로울 때면 자살에 대한 생각을 하게 되는 거라고.. Mark Leary 저 &lt;The curse of the self&gt;라는 책입니다."
+	},
+	{
+		"created_at": "Sun Jan 12 23:00:15 +0000 2020",
+		"id": 1216240129213456400,
+		"id_str": "1216495130762334210",
+		"full_text": "\"자살에 대해 생각하다보면 자신을 괴롭히던 자아 관련 생각들이 크게 줄어든다. 구체적인 방법과 행동적 디테일에 몰두하기 때문. 이렇게 자살 계획을 세우는 것이 복잡한 생각을 막아주기 때문에 흔히 사람들은 이 과정에서 마음이 빈 듯한 느낌, 심지어 평화로움을 느끼곤 한다.\" &lt;자아의 저주&gt; 중",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. 신간 [여전히 휘둘리는 당신에게]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76333,
+			"friends_count": 209,
+			"listed_count": 594,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1052,
+		"favorite_count": 1005,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"자살에 대해 생각하다보면 자신을 괴롭히던 자아 관련 생각들이 크게 줄어든다. 구체적인 방법과 행동적 디테일에 몰두하기 때문. 이렇게 자살 계획을 세우는 것이 복잡한 생각을 막아주기 때문에 흔히 사람들은 이 과정에서 마음이 빈 듯한 느낌, 심지어 평화로움을 느끼곤 한다.\" &lt;자아의 저주&gt; 중"
+	},
+	{
+		"created_at": "Sun Jan 12 22:53:30 +0000 2020",
+		"id": 1216284590538547200,
+		"id_str": "1216493431523987456",
+		"full_text": "지난 12월 15일에 열린 #인디포럼2019 토론회 #모두를위한각자의영화제 녹취록을 공유합니다. 함께 해주신, 함께 해주실 여러분 고맙습니다. https://t.co/mYM5GWsYLo https://t.co/2k8a0d5Wjg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인디포럼2019",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "모두를위한각자의영화제",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mYM5GWsYLo",
+					"expanded_url": "http://www.indieforum.org/xe/index.php?mid=forumnews&document_srl=1661656",
+					"display_url": "indieforum.org/xe/index.php?m…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216284563095244800,
+					"id_str": "1216284563095244800",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EOEcXbEVUAAHXHT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOEcXbEVUAAHXHT.jpg",
+					"url": "https://t.co/2k8a0d5Wjg",
+					"display_url": "pic.twitter.com/2k8a0d5Wjg",
+					"expanded_url": "https://twitter.com/indieforum/status/1216284590538547201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216284563095244800,
+					"id_str": "1216284563095244800",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EOEcXbEVUAAHXHT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOEcXbEVUAAHXHT.jpg",
+					"url": "https://t.co/2k8a0d5Wjg",
+					"display_url": "pic.twitter.com/2k8a0d5Wjg",
+					"expanded_url": "https://twitter.com/indieforum/status/1216284590538547201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1216284563099381800,
+					"id_str": "1216284563099381760",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EOEcXbFUcAAeOsi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOEcXbFUcAAeOsi.jpg",
+					"url": "https://t.co/2k8a0d5Wjg",
+					"display_url": "pic.twitter.com/2k8a0d5Wjg",
+					"expanded_url": "https://twitter.com/indieforum/status/1216284590538547201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 583,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 3142,
+									"y": 838,
+									"h": 181,
+									"w": 181
+								},
+								{
+									"x": 2323,
+									"y": 956,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 935,
+									"y": 249,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 691,
+									"y": 284,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 529,
+									"y": 141,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 391,
+									"y": 161,
+									"h": 26,
+									"w": 26
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1595,
+									"y": 425,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 1179,
+									"y": 485,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1216284563095208000,
+					"id_str": "1216284563095207937",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EOEcXbEUwAELkSV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOEcXbEUwAELkSV.jpg",
+					"url": "https://t.co/2k8a0d5Wjg",
+					"display_url": "pic.twitter.com/2k8a0d5Wjg",
+					"expanded_url": "https://twitter.com/indieforum/status/1216284590538547201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 583,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1216284563095179300,
+					"id_str": "1216284563095179271",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EOEcXbEUUAck12r.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOEcXbEUUAck12r.png",
+					"url": "https://t.co/2k8a0d5Wjg",
+					"display_url": "pic.twitter.com/2k8a0d5Wjg",
+					"expanded_url": "https://twitter.com/indieforum/status/1216284590538547201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105958468,
+			"id_str": "105958468",
+			"name": "인디포럼 indieforum",
+			"screen_name": "indieforum",
+			"location": "",
+			"description": "인디포럼은 독립영화와 관객들이 소통하고 즐길 수 있는 독립영화 축제임과 동시에 독립영화작가들의 커뮤니티입니다. 02) 720-6056",
+			"url": "http://t.co/kaRQDrJh7c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/kaRQDrJh7c",
+							"expanded_url": "http://www.indieforum.org",
+							"display_url": "indieforum.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19107,
+			"friends_count": 131,
+			"listed_count": 311,
+			"created_at": "Mon Jan 18 02:06:10 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094111690315034625/JpB4PNFl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094111690315034625/JpB4PNFl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105958468/1549691689",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 12월 15일에 열린 #인디포럼2019 토론회 #모두를위한각자의영화제 녹취록을 공유합니다. 함께 해주신, 함께 해주실 여러분 고맙습니다. https://t.co/mYM5GWsYLo https://t.co/2k8a0d5Wjg"
+	},
+	{
+		"created_at": "Sun Jan 12 22:51:02 +0000 2020",
+		"id": 1216227085703839700,
+		"id_str": "1216492812000059392",
+		"full_text": "\"자격의식이 지나친 남성들은 또한 여성은 자신의 욕구를 충족시켜줘야 할 의무가 있으며 자신은 그걸 받아낼 권리가 있다고 여기는 등 마치 여성들이 자신에게 성관계를 빚진 것처럼 생각. 여성을 성적 도구로 사용하는 것은 자신의 당연한 권리이므로, 여성의 거절을 불의/역차별로 받아들이는 경향\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216226185258176500,
+		"in_reply_to_status_id_str": "1216226185258176512",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. 신간 [여전히 휘둘리는 당신에게]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76333,
+			"friends_count": 209,
+			"listed_count": 594,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 291,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"자격의식이 지나친 남성들은 또한 여성은 자신의 욕구를 충족시켜줘야 할 의무가 있으며 자신은 그걸 받아낼 권리가 있다고 여기는 등 마치 여성들이 자신에게 성관계를 빚진 것처럼 생각. 여성을 성적 도구로 사용하는 것은 자신의 당연한 권리이므로, 여성의 거절을 불의/역차별로 받아들이는 경향\""
+	},
+	{
+		"created_at": "Sun Jan 12 22:50:58 +0000 2020",
+		"id": 1216226185258176500,
+		"id_str": "1216492793696141313",
+		"full_text": "\"자신은 남들(적어도 여성)보다 당연히 더 많은 걸 누려야 하는데 사회가 점점 평등해진다면, 이들은 자신이 부당하게 박해를 받는다고 느낀다. 그 결과 마치 남들이 자신에게 빚이라도 진 것처럼 맡겨놓은 대접과 인정 내놓으라며 떼를 쓴다. ‘왜 대단한 나를 알아주지 않느냐’며 사람들을 괴롭힌다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216224962492665900,
+		"in_reply_to_status_id_str": "1216224962492665856",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. 신간 [여전히 휘둘리는 당신에게]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76333,
+			"friends_count": 209,
+			"listed_count": 594,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 352,
+		"favorite_count": 211,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"자신은 남들(적어도 여성)보다 당연히 더 많은 걸 누려야 하는데 사회가 점점 평등해진다면, 이들은 자신이 부당하게 박해를 받는다고 느낀다. 그 결과 마치 남들이 자신에게 빚이라도 진 것처럼 맡겨놓은 대접과 인정 내놓으라며 떼를 쓴다. ‘왜 대단한 나를 알아주지 않느냐’며 사람들을 괴롭힌다.\""
+	},
+	{
+		"created_at": "Sun Jan 12 22:50:54 +0000 2020",
+		"id": 1216224962492665900,
+		"id_str": "1216492780471513088",
+		"full_text": "\"특히 나는 남들과 달리 특별하며 따라서 좋은 대접을 받을 자격이 있다고 하는 나르시시즘의 자격의식과 공격성 사이에 깊은 관계가 있다. 한마디로 말하면 그간 너무 ‘우쭈쭈’ 받고 살아와서 현실감 없이 자기가 진짜 대단한 존재라고 생각할 때, 쉽게 무시당했다 느끼고 공격성을 표출한다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216224729885040600,
+		"in_reply_to_status_id_str": "1216224729885040642",
+		"in_reply_to_user_id": 197707412,
+		"in_reply_to_user_id_str": "197707412",
+		"in_reply_to_screen_name": "imaum0217",
+		"user": {
+			"id": 197707412,
+			"id_str": "197707412",
+			"name": "지뇽뇽의 사회심리학 이야기",
+			"screen_name": "imaum0217",
+			"location": "Chapel Hill, NC",
+			"description": "심리학 책을 씁니다. 신간 [여전히 휘둘리는 당신에게]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76333,
+			"friends_count": 209,
+			"listed_count": 594,
+			"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+			"favourites_count": 6966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206355497626021890/H1BYPQ-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 505,
+		"favorite_count": 298,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"특히 나는 남들과 달리 특별하며 따라서 좋은 대접을 받을 자격이 있다고 하는 나르시시즘의 자격의식과 공격성 사이에 깊은 관계가 있다. 한마디로 말하면 그간 너무 ‘우쭈쭈’ 받고 살아와서 현실감 없이 자기가 진짜 대단한 존재라고 생각할 때, 쉽게 무시당했다 느끼고 공격성을 표출한다.\""
+	},
+	{
 		"created_at": "Sun Jan 12 15:41:07 +0000 2020",
 		"id": 1216374888853725200,
 		"id_str": "1216384620637409284",
