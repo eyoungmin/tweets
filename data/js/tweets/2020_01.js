@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 10:40:46 +0000 2020",
+		"id": 1216662094906450000,
+		"id_str": "1216671421352509441",
+		"full_text": "Red Velvet 레드벨벳 - Remember Forever @ ReVe Festival FINALE\n\n👉🏻https://t.co/4J8fH73ffM\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						108,
+						130
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						139,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4J8fH73ffM",
+					"expanded_url": "https://www.vlive.tv/video/170188",
+					"display_url": "vlive.tv/video/170188",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2164727,
+			"friends_count": 2,
+			"listed_count": 6407,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4086,
+		"favorite_count": 8604,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 - Remember Forever @ ReVe Festival FINALE\n\n👉🏻https://t.co/4J8fH73ffM\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho"
+	},
+	{
+		"created_at": "Mon Jan 13 10:40:44 +0000 2020",
+		"id": 1216661676566515700,
+		"id_str": "1216671412452253696",
+		"full_text": "Red Velvet 레드벨벳 - Psycho @ ReVe Festival FINALE\n\n👉🏻https://t.co/D4d8F07KCd\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						98,
+						120
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						129,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D4d8F07KCd",
+					"expanded_url": "https://www.vlive.tv/video/170190",
+					"display_url": "vlive.tv/video/170190",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2164727,
+			"friends_count": 2,
+			"listed_count": 6407,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4357,
+		"favorite_count": 8091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet 레드벨벳 - Psycho @ ReVe Festival FINALE\n\n👉🏻https://t.co/D4d8F07KCd\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho"
+	},
+	{
+		"created_at": "Mon Jan 13 10:40:37 +0000 2020",
+		"id": 1216661358260830200,
+		"id_str": "1216671386841894912",
+		"full_text": "Red Velvet 레드벨벳 - 세가지 소원 (Wish Tree) @ ReVe Festival FINALE\n\n👉🏻https://t.co/U0bUoD4jBt\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						110,
+						132
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						141,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U0bUoD4jBt",
+					"expanded_url": "https://www.vlive.tv/video/170186",
+					"display_url": "vlive.tv/video/170186",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2164727,
+			"friends_count": 2,
+			"listed_count": 6407,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3686,
+		"favorite_count": 7334,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet 레드벨벳 - 세가지 소원 (Wish Tree) @ ReVe Festival FINALE\n\n👉🏻https://t.co/U0bUoD4jBt\n\n#RedVelvet #레드벨벳 #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho"
+	},
+	{
+		"created_at": "Mon Jan 13 10:12:34 +0000 2020",
+		"id": 1216664326653784000,
+		"id_str": "1216664326653784064",
+		"full_text": "Red Velvet 레드벨벳 - Remember Forever @ReVe Festival FINALE\nhttps://t.co/C53uqYGSpA\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reve",
+					"name": "reve",
+					"id": 14300133,
+					"id_str": "14300133",
+					"indices": [
+						35,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C53uqYGSpA",
+					"expanded_url": "https://youtu.be/JgC_Kb5TYsU",
+					"display_url": "youtu.be/JgC_Kb5TYsU",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 881,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 - Remember Forever @ReVe Festival FINALE\nhttps://t.co/C53uqYGSpA\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Mon Jan 13 09:11:23 +0000 2020",
 		"id": 1216648930240467000,
 		"id_str": "1216648930240466946",
