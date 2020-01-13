@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 08:50:53 +0000 2020",
+		"id": 1216643768264167400,
+		"id_str": "1216643768264167424",
+		"full_text": "7번. BILLIE EILISH @billieeilish \n소문이 있다....\n\n소오름.... https://t.co/mjyu2J6kTP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						18,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mjyu2J6kTP",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1216636089089196034",
+					"display_url": "twitter.com/SeoulJazzFest/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 881,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216636089089196000,
+		"quoted_status_id_str": "1216636089089196034",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mjyu2J6kTP",
+			"expanded": "https://twitter.com/SeoulJazzFest/status/1216636089089196034",
+			"display": "twitter.com/SeoulJazzFest/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 13 08:20:22 +0000 2020",
+			"id": 1216636089089196000,
+			"id_str": "1216636089089196034",
+			"full_text": "🔑라인업 맞히기 이벤트 추가 힌트\n각 아티스트의 앞글자를 공개합니다!\n\n1. M□□□□□ □□□□□□\n2. T□□□□□□□ □□□□□□ &amp; O□□□□□□ □□□□□□\n3. J□□é □□□□□\n4. M□□□\n5. A□□□□□□ □□□□\n6. S□□□□□\n7. B□□□□□ □□□□□□\n8. E□□□□ □□□□",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1216605025004208000,
+			"in_reply_to_status_id_str": "1216605025004208128",
+			"in_reply_to_user_id": 2324658823,
+			"in_reply_to_user_id_str": "2324658823",
+			"in_reply_to_screen_name": "SeoulJazzFest",
+			"user": {
+				"id": 2324658823,
+				"id_str": "2324658823",
+				"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+				"screen_name": "SeoulJazzFest",
+				"location": "Seoul, Republic of Korea",
+				"description": "The Official Seoul Jazz Festival Twitter page.",
+				"url": "http://t.co/XfwfSPVFAn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XfwfSPVFAn",
+								"expanded_url": "http://seouljazz.co.kr",
+								"display_url": "seouljazz.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3320,
+				"friends_count": 40,
+				"listed_count": 34,
+				"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1896,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1578366013",
+				"profile_link_color": "4E5E99",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7번. BILLIE EILISH @billieeilish \n소문이 있다....\n\n소오름.... https://t.co/mjyu2J6kTP"
+	},
+	{
+		"created_at": "Mon Jan 13 08:50:19 +0000 2020",
+		"id": 1216636089089196000,
+		"id_str": "1216643626081480704",
+		"full_text": "🔑라인업 맞히기 이벤트 추가 힌트\n각 아티스트의 앞글자를 공개합니다!\n\n1. M□□□□□ □□□□□□\n2. T□□□□□□□ □□□□□□ &amp; O□□□□□□ □□□□□□\n3. J□□é □□□□□\n4. M□□□\n5. A□□□□□□ □□□□\n6. S□□□□□\n7. B□□□□□ □□□□□□\n8. E□□□□ □□□□",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216605025004208000,
+		"in_reply_to_status_id_str": "1216605025004208128",
+		"in_reply_to_user_id": 2324658823,
+		"in_reply_to_user_id_str": "2324658823",
+		"in_reply_to_screen_name": "SeoulJazzFest",
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3320,
+			"friends_count": 40,
+			"listed_count": 34,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1578366013",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🔑라인업 맞히기 이벤트 추가 힌트\n각 아티스트의 앞글자를 공개합니다!\n\n1. M□□□□□ □□□□□□\n2. T□□□□□□□ □□□□□□ &amp; O□□□□□□ □□□□□□\n3. J□□é □□□□□\n4. M□□□\n5. A□□□□□□ □□□□\n6. S□□□□□\n7. B□□□□□ □□□□□□\n8. E□□□□ □□□□"
+	},
+	{
 		"created_at": "Mon Jan 13 07:47:33 +0000 2020",
 		"id": 1216627829510754300,
 		"id_str": "1216627829510754305",
