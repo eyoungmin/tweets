@@ -1,6 +1,1625 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 05:58:48 +0000 2020",
+		"id": 1216599878132031500,
+		"id_str": "1216600463228801024",
+		"full_text": "중국 심천에서 AI가 작성한 기사도 저작권이 있다고 판결. 텐센트의 AI 로봇인 Dreamwriter가 작성한 글을 한 온라인 서비스가 허가없이 사용했는데 이에 소송을 제기한 텐센트의 손을 들어줘. 전세계적인 논란의 대상으로 AI가 생성한 글,음악 등의 저작권 논란은 계속될 듯 https://t.co/ekFG3RefW2 https://t.co/wwprnl7aXW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ekFG3RefW2",
+					"expanded_url": "https://www.ecns.cn/news/2020-01-09/detail-ifzsqcrm6562963.shtml",
+					"display_url": "ecns.cn/news/2020-01-0…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216599876760494000,
+					"id_str": "1216599876760494080",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EOI7JGAX4AALFLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOI7JGAX4AALFLO.jpg",
+					"url": "https://t.co/wwprnl7aXW",
+					"display_url": "pic.twitter.com/wwprnl7aXW",
+					"expanded_url": "https://twitter.com/minist/status/1216599878132031488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 309,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 309,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216599876760494000,
+					"id_str": "1216599876760494080",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EOI7JGAX4AALFLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOI7JGAX4AALFLO.jpg",
+					"url": "https://t.co/wwprnl7aXW",
+					"display_url": "pic.twitter.com/wwprnl7aXW",
+					"expanded_url": "https://twitter.com/minist/status/1216599878132031488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 309,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 309,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "스타트업 WizeIoT / 전 블루홀 / 전 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64908,
+			"friends_count": 714,
+			"listed_count": 934,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중국 심천에서 AI가 작성한 기사도 저작권이 있다고 판결. 텐센트의 AI 로봇인 Dreamwriter가 작성한 글을 한 온라인 서비스가 허가없이 사용했는데 이에 소송을 제기한 텐센트의 손을 들어줘. 전세계적인 논란의 대상으로 AI가 생성한 글,음악 등의 저작권 논란은 계속될 듯 https://t.co/ekFG3RefW2 https://t.co/wwprnl7aXW"
+	},
+	{
+		"created_at": "Mon Jan 13 05:55:23 +0000 2020",
+		"id": 1216553284195930000,
+		"id_str": "1216599605481066496",
+		"full_text": "Congratulations to #bongjoonho for winning the #criticschoice Award for Best Director for @ParasiteMovie. #parasite https://t.co/Sbgk6FiOpS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bongjoonho",
+					"indices": [
+						19,
+						30
+					]
+				},
+				{
+					"text": "criticschoice",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"text": "parasite",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParasiteMovie",
+					"name": "Parasite",
+					"id": 1057666363433529300,
+					"id_str": "1057666363433529344",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216553279502438400,
+					"id_str": "1216553279502438400",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EOIQwxsUUAAtaRd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOIQwxsUUAAtaRd.jpg",
+					"url": "https://t.co/Sbgk6FiOpS",
+					"display_url": "pic.twitter.com/Sbgk6FiOpS",
+					"expanded_url": "https://twitter.com/CriticsChoice/status/1216553284195930115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 646,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 157,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 596,
+									"y": 187,
+									"h": 289,
+									"w": 289
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 157,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 596,
+									"y": 187,
+									"h": 289,
+									"w": 289
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 170,
+									"y": 104,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 395,
+									"y": 124,
+									"h": 191,
+									"w": 191
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 157,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 596,
+									"y": 187,
+									"h": 289,
+									"w": 289
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216553279502438400,
+					"id_str": "1216553279502438400",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EOIQwxsUUAAtaRd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOIQwxsUUAAtaRd.jpg",
+					"url": "https://t.co/Sbgk6FiOpS",
+					"display_url": "pic.twitter.com/Sbgk6FiOpS",
+					"expanded_url": "https://twitter.com/CriticsChoice/status/1216553284195930115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 646,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 157,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 596,
+									"y": 187,
+									"h": 289,
+									"w": 289
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 157,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 596,
+									"y": 187,
+									"h": 289,
+									"w": 289
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 170,
+									"y": 104,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 395,
+									"y": 124,
+									"h": 191,
+									"w": 191
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 157,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 596,
+									"y": 187,
+									"h": 289,
+									"w": 289
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83266010,
+			"id_str": "83266010",
+			"name": "Critics' Choice",
+			"screen_name": "CriticsChoice",
+			"location": "Los Angeles, California",
+			"description": "Official Twitter of the Critics' Choice Awards and the Critics Choice Association. #CriticsChoice",
+			"url": "https://t.co/e6MBDpLxdh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e6MBDpLxdh",
+							"expanded_url": "http://www.criticschoice.com",
+							"display_url": "criticschoice.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80002,
+			"friends_count": 1615,
+			"listed_count": 645,
+			"created_at": "Sun Oct 18 01:27:27 +0000 2009",
+			"favourites_count": 2810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039679149818884096/TxZhlEse_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039679149818884096/TxZhlEse_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83266010/1575854108",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3023,
+		"favorite_count": 7833,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to #bongjoonho for winning the #criticschoice Award for Best Director for @ParasiteMovie. #parasite https://t.co/Sbgk6FiOpS"
+	},
+	{
+		"created_at": "Mon Jan 13 05:51:29 +0000 2020",
+		"id": 1216598624055873500,
+		"id_str": "1216598624055873536",
+		"full_text": "빌리 아일리시는 코첼라 페스티벌 라인업에 포함되었음. 아마 이것과 혼동하는게 아닌가 싶음.\nhttps://t.co/5jMNgBGcac",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5jMNgBGcac",
+					"expanded_url": "https://twitter.com/coachella/status/1212933086704308226?s=19",
+					"display_url": "twitter.com/coachella/stat…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1216598148920987600,
+		"in_reply_to_status_id_str": "1216598148920987649",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 880,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1212933086704308200,
+		"quoted_status_id_str": "1212933086704308226",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5jMNgBGcac",
+			"expanded": "https://twitter.com/coachella/status/1212933086704308226?s=19",
+			"display": "twitter.com/coachella/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 03 03:05:57 +0000 2020",
+			"id": 1212933086704308200,
+			"id_str": "1212933086704308226",
+			"full_text": "Weekend 1 is sold out 🌴 Register for Weekend 2 presale at https://t.co/x8PRTb12Eh. Presale starts Monday 1/6 at 12pm PT https://t.co/QPRYnJVe9P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/x8PRTb12Eh",
+						"expanded_url": "http://Coachella.com",
+						"display_url": "Coachella.com",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1212933081822163000,
+						"id_str": "1212933081822162945",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+						"url": "https://t.co/QPRYnJVe9P",
+						"display_url": "pic.twitter.com/QPRYnJVe9P",
+						"expanded_url": "https://twitter.com/coachella/status/1212933086704308226/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1212933081822163000,
+						"id_str": "1212933081822162945",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+						"url": "https://t.co/QPRYnJVe9P",
+						"display_url": "pic.twitter.com/QPRYnJVe9P",
+						"expanded_url": "https://twitter.com/coachella/status/1212933086704308226/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 688583,
+				"id_str": "688583",
+				"name": "Coachella",
+				"screen_name": "coachella",
+				"location": "Indio, CA",
+				"description": "",
+				"url": "https://t.co/k0mVrhjdYx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k0mVrhjdYx",
+								"expanded_url": "http://coachella.com",
+								"display_url": "coachella.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1014565,
+				"friends_count": 4,
+				"listed_count": 7816,
+				"created_at": "Tue Jan 23 20:11:53 +0000 2007",
+				"favourites_count": 922,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4072,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1123709305402867715/N4Kie90__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123709305402867715/N4Kie90__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/688583/1578026299",
+				"profile_link_color": "3D75C4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DFE2EB",
+				"profile_text_color": "435969",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40966,
+			"favorite_count": 137779,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌리 아일리시는 코첼라 페스티벌 라인업에 포함되었음. 아마 이것과 혼동하는게 아닌가 싶음.\nhttps://t.co/5jMNgBGcac"
+	},
+	{
+		"created_at": "Mon Jan 13 05:49:36 +0000 2020",
+		"id": 1216598148920987600,
+		"id_str": "1216598148920987649",
+		"full_text": "후지락은 아직 라인업도 안뜨고 최근 배너를 변경한게 전부인데 일본이 확정되고 한국도 올 예정이라는 유언비어는 도대체가 왜.\n#BillieEilish #빌리아일리시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillieEilish",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "빌리아일리시",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1216597735333216300,
+		"in_reply_to_status_id_str": "1216597735333216257",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 880,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "후지락은 아직 라인업도 안뜨고 최근 배너를 변경한게 전부인데 일본이 확정되고 한국도 올 예정이라는 유언비어는 도대체가 왜.\n#BillieEilish #빌리아일리시"
+	},
+	{
+		"created_at": "Mon Jan 13 05:47:58 +0000 2020",
+		"id": 1216597735333216300,
+		"id_str": "1216597735333216257",
+		"full_text": "빌리 아일리시 월드투어에 상하이 공연이 추가됨.\n#BillieEilish #빌리아일리시 https://t.co/GcYkDAivGn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillieEilish",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"text": "빌리아일리시",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GcYkDAivGn",
+					"expanded_url": "https://twitter.com/eilishupdates/status/1215676570502909952",
+					"display_url": "twitter.com/eilishupdates/…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 880,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215676570502910000,
+		"quoted_status_id_str": "1215676570502909952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GcYkDAivGn",
+			"expanded": "https://twitter.com/eilishupdates/status/1215676570502909952",
+			"display": "twitter.com/eilishupdates/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 10 16:47:35 +0000 2020",
+			"id": 1215676570502910000,
+			"id_str": "1215676570502909952",
+			"full_text": "Billie will perform in Shanghai, China as part of the \"WHERE DO WE GO?\" world tour on August 25 at the Mercedes-Benz cultural center. \n\nThe show has been approved by Shanghai’s culture and tourism board and Billie is allowed to bring 27 people (including herself) to the show https://t.co/Je5rZN9ilt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1215676555869020200,
+						"id_str": "1215676555869020162",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EN7zYvpX4AI-Ghn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN7zYvpX4AI-Ghn.jpg",
+						"url": "https://t.co/Je5rZN9ilt",
+						"display_url": "pic.twitter.com/Je5rZN9ilt",
+						"expanded_url": "https://twitter.com/eilishupdates/status/1215676570502909952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215676555869020200,
+						"id_str": "1215676555869020162",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EN7zYvpX4AI-Ghn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN7zYvpX4AI-Ghn.jpg",
+						"url": "https://t.co/Je5rZN9ilt",
+						"display_url": "pic.twitter.com/Je5rZN9ilt",
+						"expanded_url": "https://twitter.com/eilishupdates/status/1215676570502909952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1215676555889913900,
+						"id_str": "1215676555889913858",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EN7zYvuWsAIKHul.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN7zYvuWsAIKHul.jpg",
+						"url": "https://t.co/Je5rZN9ilt",
+						"display_url": "pic.twitter.com/Je5rZN9ilt",
+						"expanded_url": "https://twitter.com/eilishupdates/status/1215676570502909952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 632,
+								"h": 867,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 496,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 632,
+								"h": 867,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 876036646529101800,
+				"id_str": "876036646529101824",
+				"name": "billie eilish updates",
+				"screen_name": "eilishupdates",
+				"location": "",
+				"description": "— The latest updates on Billie Eilish. BACKUP: @eilishupdates2 (fan account, all content used as fair use)",
+				"url": "https://t.co/ggMJFmAYeG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ggMJFmAYeG",
+								"expanded_url": "http://instagram.com/eilishupd8s",
+								"display_url": "instagram.com/eilishupd8s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 111172,
+				"friends_count": 15,
+				"listed_count": 144,
+				"created_at": "Sat Jun 17 11:19:47 +0000 2017",
+				"favourites_count": 45557,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7761,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1203417958686613504/c50MsBZE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203417958686613504/c50MsBZE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/876036646529101824/1574897562",
+				"profile_link_color": "889977",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 708,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌리 아일리시 월드투어에 상하이 공연이 추가됨.\n#BillieEilish #빌리아일리시 https://t.co/GcYkDAivGn"
+	},
+	{
+		"created_at": "Mon Jan 13 05:36:48 +0000 2020",
+		"id": 1215676570502910000,
+		"id_str": "1216594926772740096",
+		"full_text": "Billie will perform in Shanghai, China as part of the \"WHERE DO WE GO?\" world tour on August 25 at the Mercedes-Benz cultural center. \n\nThe show has been approved by Shanghai’s culture and tourism board and Billie is allowed to bring 27 people (including herself) to the show https://t.co/Je5rZN9ilt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215676555869020200,
+					"id_str": "1215676555869020162",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7zYvpX4AI-Ghn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7zYvpX4AI-Ghn.jpg",
+					"url": "https://t.co/Je5rZN9ilt",
+					"display_url": "pic.twitter.com/Je5rZN9ilt",
+					"expanded_url": "https://twitter.com/eilishupdates/status/1215676570502909952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215676555869020200,
+					"id_str": "1215676555869020162",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7zYvpX4AI-Ghn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7zYvpX4AI-Ghn.jpg",
+					"url": "https://t.co/Je5rZN9ilt",
+					"display_url": "pic.twitter.com/Je5rZN9ilt",
+					"expanded_url": "https://twitter.com/eilishupdates/status/1215676570502909952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215676555889913900,
+					"id_str": "1215676555889913858",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7zYvuWsAIKHul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7zYvuWsAIKHul.jpg",
+					"url": "https://t.co/Je5rZN9ilt",
+					"display_url": "pic.twitter.com/Je5rZN9ilt",
+					"expanded_url": "https://twitter.com/eilishupdates/status/1215676570502909952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 632,
+							"h": 867,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 632,
+							"h": 867,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 876036646529101800,
+			"id_str": "876036646529101824",
+			"name": "billie eilish updates",
+			"screen_name": "eilishupdates",
+			"location": "",
+			"description": "— The latest updates on Billie Eilish. BACKUP: @eilishupdates2 (fan account, all content used as fair use)",
+			"url": "https://t.co/ggMJFmAYeG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ggMJFmAYeG",
+							"expanded_url": "http://instagram.com/eilishupd8s",
+							"display_url": "instagram.com/eilishupd8s",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111172,
+			"friends_count": 15,
+			"listed_count": 144,
+			"created_at": "Sat Jun 17 11:19:47 +0000 2017",
+			"favourites_count": 45557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203417958686613504/c50MsBZE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203417958686613504/c50MsBZE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/876036646529101824/1574897562",
+			"profile_link_color": "889977",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie will perform in Shanghai, China as part of the \"WHERE DO WE GO?\" world tour on August 25 at the Mercedes-Benz cultural center. \n\nThe show has been approved by Shanghai’s culture and tourism board and Billie is allowed to bring 27 people (including herself) to the show https://t.co/Je5rZN9ilt"
+	},
+	{
 		"created_at": "Mon Jan 13 03:40:37 +0000 2020",
 		"id": 1216555669718831000,
 		"id_str": "1216565689793896453",
