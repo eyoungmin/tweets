@@ -1,6 +1,994 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 08:01:56 +0000 2020",
+		"id": 1216993837102424000,
+		"id_str": "1216993837102424065",
+		"full_text": "#시그리드 #Sigrid @thisissigrid 보러 갑니다! https://t.co/KzZnwmYt3m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "시그리드",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Sigrid",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KzZnwmYt3m",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1216918369976213504",
+					"display_url": "twitter.com/SeoulJazzFest/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216918369976213500,
+		"quoted_status_id_str": "1216918369976213504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KzZnwmYt3m",
+			"expanded": "https://twitter.com/SeoulJazzFest/status/1216918369976213504",
+			"display": "twitter.com/SeoulJazzFest/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 14 03:02:03 +0000 2020",
+			"id": 1216918369976213500,
+			"id_str": "1216918369976213504",
+			"full_text": "[SJF ANNOUNCEMENT- 1차 라인업 발표 / 얼리버드 티켓 오픈 안내]\n제14회 서울재즈페스티벌 2020\n찬란한 순간을 함께할 첫번째 라인업을 공개합니다!\n.\n#마커스밀러 \n#트롬본쇼티 &amp; 올리언스 에비뉴 \n#호세제임스\n#엠지엠티 \n#알레시아카라\n#시그리드\n#비숍브릭스\n#에밀리킹 https://t.co/rpvJFhglyb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "마커스밀러",
+						"indices": [
+							95,
+							101
+						]
+					},
+					{
+						"text": "트롬본쇼티",
+						"indices": [
+							103,
+							109
+						]
+					},
+					{
+						"text": "호세제임스",
+						"indices": [
+							126,
+							132
+						]
+					},
+					{
+						"text": "엠지엠티",
+						"indices": [
+							133,
+							138
+						]
+					},
+					{
+						"text": "알레시아카라",
+						"indices": [
+							140,
+							147
+						]
+					},
+					{
+						"text": "시그리드",
+						"indices": [
+							148,
+							153
+						]
+					},
+					{
+						"text": "비숍브릭스",
+						"indices": [
+							154,
+							160
+						]
+					},
+					{
+						"text": "에밀리킹",
+						"indices": [
+							161,
+							166
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1216917960310132700,
+						"id_str": "1216917960310132736",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216917960310132736/pu/img/pxqbSxqsT6IWLktF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216917960310132736/pu/img/pxqbSxqsT6IWLktF.jpg",
+						"url": "https://t.co/rpvJFhglyb",
+						"display_url": "pic.twitter.com/rpvJFhglyb",
+						"expanded_url": "https://twitter.com/SeoulJazzFest/status/1216918369976213504/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1216917960310132700,
+						"id_str": "1216917960310132736",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216917960310132736/pu/img/pxqbSxqsT6IWLktF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216917960310132736/pu/img/pxqbSxqsT6IWLktF.jpg",
+						"url": "https://t.co/rpvJFhglyb",
+						"display_url": "pic.twitter.com/rpvJFhglyb",
+						"expanded_url": "https://twitter.com/SeoulJazzFest/status/1216918369976213504/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 55789,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1216917960310132736/pu/vid/720x720/sDdDzr6FqbOnG8pG.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1216917960310132736/pu/pl/EFDZngfZWpnByJtT.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1216917960310132736/pu/vid/320x320/6pyROzkHUCHN6xmd.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1216917960310132736/pu/vid/480x480/mEGJv2h78ckaIxIo.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2324658823,
+				"id_str": "2324658823",
+				"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+				"screen_name": "SeoulJazzFest",
+				"location": "Seoul, Republic of Korea",
+				"description": "The Official Seoul Jazz Festival Twitter page.",
+				"url": "http://t.co/XfwfSPVFAn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XfwfSPVFAn",
+								"expanded_url": "http://seouljazz.co.kr",
+								"display_url": "seouljazz.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3467,
+				"friends_count": 40,
+				"listed_count": 34,
+				"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1899,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1578970848",
+				"profile_link_color": "4E5E99",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 146,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#시그리드 #Sigrid @thisissigrid 보러 갑니다! https://t.co/KzZnwmYt3m"
+	},
+	{
+		"created_at": "Tue Jan 14 08:01:02 +0000 2020",
+		"id": 1216918369976213500,
+		"id_str": "1216993614166802432",
+		"full_text": "[SJF ANNOUNCEMENT- 1차 라인업 발표 / 얼리버드 티켓 오픈 안내]\n제14회 서울재즈페스티벌 2020\n찬란한 순간을 함께할 첫번째 라인업을 공개합니다!\n.\n#마커스밀러 \n#트롬본쇼티 &amp; 올리언스 에비뉴 \n#호세제임스\n#엠지엠티 \n#알레시아카라\n#시그리드\n#비숍브릭스\n#에밀리킹 https://t.co/rpvJFhglyb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마커스밀러",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "트롬본쇼티",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "호세제임스",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "엠지엠티",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "알레시아카라",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "시그리드",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "비숍브릭스",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "에밀리킹",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216917960310132700,
+					"id_str": "1216917960310132736",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216917960310132736/pu/img/pxqbSxqsT6IWLktF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216917960310132736/pu/img/pxqbSxqsT6IWLktF.jpg",
+					"url": "https://t.co/rpvJFhglyb",
+					"display_url": "pic.twitter.com/rpvJFhglyb",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1216918369976213504/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216917960310132700,
+					"id_str": "1216917960310132736",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216917960310132736/pu/img/pxqbSxqsT6IWLktF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216917960310132736/pu/img/pxqbSxqsT6IWLktF.jpg",
+					"url": "https://t.co/rpvJFhglyb",
+					"display_url": "pic.twitter.com/rpvJFhglyb",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1216918369976213504/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 55789,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216917960310132736/pu/vid/720x720/sDdDzr6FqbOnG8pG.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1216917960310132736/pu/pl/EFDZngfZWpnByJtT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216917960310132736/pu/vid/320x320/6pyROzkHUCHN6xmd.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216917960310132736/pu/vid/480x480/mEGJv2h78ckaIxIo.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3467,
+			"friends_count": 40,
+			"listed_count": 34,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1578970848",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SJF ANNOUNCEMENT- 1차 라인업 발표 / 얼리버드 티켓 오픈 안내]\n제14회 서울재즈페스티벌 2020\n찬란한 순간을 함께할 첫번째 라인업을 공개합니다!\n.\n#마커스밀러 \n#트롬본쇼티 &amp; 올리언스 에비뉴 \n#호세제임스\n#엠지엠티 \n#알레시아카라\n#시그리드\n#비숍브릭스\n#에밀리킹 https://t.co/rpvJFhglyb"
+	},
+	{
+		"created_at": "Tue Jan 14 07:59:04 +0000 2020",
+		"id": 1216993116374196200,
+		"id_str": "1216993116374196225",
+		"full_text": "청하 졸귀탱이라서 자꾸 보게 됨. https://t.co/0z8epSMu7P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216992750266044400,
+					"id_str": "1216992750266044416",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216992750266044416/pu/img/2PWCPoO0C1wkNDTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216992750266044416/pu/img/2PWCPoO0C1wkNDTA.jpg",
+					"url": "https://t.co/0z8epSMu7P",
+					"display_url": "pic.twitter.com/0z8epSMu7P",
+					"expanded_url": "https://twitter.com/fromminn/status/1216993116374196225/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216992750266044400,
+					"id_str": "1216992750266044416",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216992750266044416/pu/img/2PWCPoO0C1wkNDTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216992750266044416/pu/img/2PWCPoO0C1wkNDTA.jpg",
+					"url": "https://t.co/0z8epSMu7P",
+					"display_url": "pic.twitter.com/0z8epSMu7P",
+					"expanded_url": "https://twitter.com/fromminn/status/1216993116374196225/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 48934,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216992750266044416/pu/vid/360x450/XXC8Zn1H1F6ExFgY.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216992750266044416/pu/vid/640x800/IyfNxYMpin6u8mwc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1216992750266044416/pu/pl/91Vr9Hjg0YbO_U8_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216992750266044416/pu/vid/320x400/0ZTLzkRPbWqK1qcO.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청하 졸귀탱이라서 자꾸 보게 됨. https://t.co/0z8epSMu7P"
+	},
+	{
+		"created_at": "Tue Jan 14 07:06:41 +0000 2020",
+		"id": 1216968178619674600,
+		"id_str": "1216979935228612611",
+		"full_text": "새 스타트업을 알리기 위한 사이트들 모음 https://t.co/yFvd8LBiQf \n영어권 서비스를 런칭 한다면 알릴 곳들 모음\n- 스타트업 디렉토리들\n- 기사 올릴수 있는 뉴스사이트들\n- 다수의 서브 레딧\n- 그외 서비스들",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yFvd8LBiQf",
+					"expanded_url": "http://j.mp/3a47GdL",
+					"display_url": "j.mp/3a47GdL",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1904,
+			"friends_count": 0,
+			"listed_count": 35,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새 스타트업을 알리기 위한 사이트들 모음 https://t.co/yFvd8LBiQf \n영어권 서비스를 런칭 한다면 알릴 곳들 모음\n- 스타트업 디렉토리들\n- 기사 올릴수 있는 뉴스사이트들\n- 다수의 서브 레딧\n- 그외 서비스들"
+	},
+	{
 		"created_at": "Tue Jan 14 07:01:51 +0000 2020",
 		"id": 1216978720302362600,
 		"id_str": "1216978720302362624",
@@ -1006,7 +1994,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "ㅎㅇ",
 			"screen_name": "browneyed_seoul",
 			"location": "",
-			"description": "컨텐츠소비러 / 👩🏻‍💻다음 뉴스레터 발송일 : 1월 21일",
+			"description": "컨텐츠소비러 / 👩🏻💻다음 뉴스레터 발송일 : 1월 21일",
 			"url": "https://t.co/9YYmmNsMfV",
 			"entities": {
 				"url": {
