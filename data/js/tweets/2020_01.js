@@ -1,6 +1,813 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 05:44:28 +0000 2020",
+		"id": 1217321632081072000,
+		"id_str": "1217321632081072129",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n美 페이퍼 “블랙핑크, 슈퍼그룹의 새로운 전형 제시”\nhttps://t.co/dT9tbEyMHq\n#블랙핑크 #BLACKPINK https://t.co/3xGF5QQ0pq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dT9tbEyMHq",
+					"expanded_url": "https://yg-life.com/archives/147764?lang=ko",
+					"display_url": "yg-life.com/archives/14776…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217321630860562400,
+					"id_str": "1217321630860562434",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EOTLktjX0AIS3iJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOTLktjX0AIS3iJ.jpg",
+					"url": "https://t.co/3xGF5QQ0pq",
+					"display_url": "pic.twitter.com/3xGF5QQ0pq",
+					"expanded_url": "https://twitter.com/fromminn/status/1217321632081072129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 736,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 736,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 366,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 197,
+									"y": 257,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 366,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 197,
+									"y": 257,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 334,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 146,
+									"y": 338,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 211,
+									"y": 341,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 182,
+									"y": 237,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 366,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 197,
+									"y": 257,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217321630860562400,
+					"id_str": "1217321630860562434",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EOTLktjX0AIS3iJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOTLktjX0AIS3iJ.jpg",
+					"url": "https://t.co/3xGF5QQ0pq",
+					"display_url": "pic.twitter.com/3xGF5QQ0pq",
+					"expanded_url": "https://twitter.com/fromminn/status/1217321632081072129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 736,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 736,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 366,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 197,
+									"y": 257,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 366,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 197,
+									"y": 257,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 334,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 146,
+									"y": 338,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 211,
+									"y": 341,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 182,
+									"y": 237,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 362,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 158,
+									"y": 366,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 229,
+									"y": 370,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 197,
+									"y": 257,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n美 페이퍼 “블랙핑크, 슈퍼그룹의 새로운 전형 제시”\nhttps://t.co/dT9tbEyMHq\n#블랙핑크 #BLACKPINK https://t.co/3xGF5QQ0pq"
+	},
+	{
+		"created_at": "Wed Jan 15 05:40:44 +0000 2020",
+		"id": 1217109657329774600,
+		"id_str": "1217320691982393344",
+		"full_text": "KPOP SENSATION OF THE YEAR goes to @ygofficialblink !!! THESE are the women I look up to! #BTIAwards #BLACKPINK https://t.co/6Reu8CNCmX https://t.co/zN72w5dYkw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTIAwards",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						35,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Reu8CNCmX",
+					"expanded_url": "https://bit.ly/38689u8",
+					"display_url": "bit.ly/38689u8",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217109653366198300,
+					"id_str": "1217109653366198272",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQKx_2XUAApGtM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQKx_2XUAApGtM.jpg",
+					"url": "https://t.co/zN72w5dYkw",
+					"display_url": "pic.twitter.com/zN72w5dYkw",
+					"expanded_url": "https://twitter.com/papermagazine/status/1217109657329774593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1111,
+							"h": 941,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1111,
+							"h": 941,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "878204370403250176",
+									"screen_name": "ygofficialblink",
+									"name": "BLACKPINK GLOBAL BLINK"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 519,
+									"y": 247,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 322,
+									"y": 258,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 317,
+									"y": 151,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 197,
+									"y": 157,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 519,
+									"y": 247,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 322,
+									"y": 258,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 519,
+									"y": 247,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 322,
+									"y": 258,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217109653366198300,
+					"id_str": "1217109653366198272",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQKx_2XUAApGtM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQKx_2XUAApGtM.jpg",
+					"url": "https://t.co/zN72w5dYkw",
+					"display_url": "pic.twitter.com/zN72w5dYkw",
+					"expanded_url": "https://twitter.com/papermagazine/status/1217109657329774593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1111,
+							"h": 941,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1111,
+							"h": 941,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "878204370403250176",
+									"screen_name": "ygofficialblink",
+									"name": "BLACKPINK GLOBAL BLINK"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 519,
+									"y": 247,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 322,
+									"y": 258,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 317,
+									"y": 151,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 197,
+									"y": 157,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 519,
+									"y": 247,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 322,
+									"y": 258,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 519,
+									"y": 247,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 322,
+									"y": 258,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217109651986296800,
+		"in_reply_to_status_id_str": "1217109651986296834",
+		"in_reply_to_user_id": 11277292,
+		"in_reply_to_user_id_str": "11277292",
+		"in_reply_to_screen_name": "papermagazine",
+		"user": {
+			"id": 11277292,
+			"id_str": "11277292",
+			"name": "PAPER Magazine",
+			"screen_name": "papermagazine",
+			"location": "New York",
+			"description": "Where things start. edit@paperentertainment.com",
+			"url": "https://t.co/Hg450bgr2V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hg450bgr2V",
+							"expanded_url": "http://www.papermag.com",
+							"display_url": "papermag.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335126,
+			"friends_count": 3597,
+			"listed_count": 4207,
+			"created_at": "Tue Dec 18 02:16:01 +0000 2007",
+			"favourites_count": 11151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207423547133562882/3Eo1l-_V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207423547133562882/3Eo1l-_V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11277292/1576707182",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B4BAB1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2239,
+		"favorite_count": 5136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KPOP SENSATION OF THE YEAR goes to @ygofficialblink !!! THESE are the women I look up to! #BTIAwards #BLACKPINK https://t.co/6Reu8CNCmX https://t.co/zN72w5dYkw"
+	},
+	{
 		"created_at": "Wed Jan 15 03:40:38 +0000 2020",
 		"id": 1217280243305799700,
 		"id_str": "1217290468775600128",
