@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 17:42:32 +0000 2020",
+		"id": 1217502341420601300,
+		"id_str": "1217502341420601345",
+		"full_text": "영상만 보고 계정별로 야간모드 설정해놓고 단순 야간모드 버튼만으로 계정 변경 가능하단 소린가 싶었다. https://t.co/D9jfXdgNYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D9jfXdgNYk",
+					"expanded_url": "https://twitter.com/telegram/status/1217461037089394690",
+					"display_url": "twitter.com/telegram/statu…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217461037089394700,
+		"quoted_status_id_str": "1217461037089394690",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D9jfXdgNYk",
+			"expanded": "https://twitter.com/telegram/status/1217461037089394690",
+			"display": "twitter.com/telegram/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 15 14:58:25 +0000 2020",
+			"id": 1217461037089394700,
+			"id_str": "1217461037089394690",
+			"full_text": "You can switch to Night Mode and back with a single tap on Android's new Night Mode button. Using the Batman voice is optional (but encouraged). #TelegramTips https://t.co/9fOfBJZis7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TelegramTips",
+						"indices": [
+							145,
+							158
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1217461009029443600,
+						"id_str": "1217461009029443586",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOVKVlsWsAIjRfk.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOVKVlsWsAIjRfk.jpg",
+						"url": "https://t.co/9fOfBJZis7",
+						"display_url": "pic.twitter.com/9fOfBJZis7",
+						"expanded_url": "https://twitter.com/telegram/status/1217461037089394690/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217461009029443600,
+						"id_str": "1217461009029443586",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOVKVlsWsAIjRfk.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOVKVlsWsAIjRfk.jpg",
+						"url": "https://t.co/9fOfBJZis7",
+						"display_url": "pic.twitter.com/9fOfBJZis7",
+						"expanded_url": "https://twitter.com/telegram/status/1217461037089394690/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EOVKVlsWsAIjRfk.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1689053928,
+				"id_str": "1689053928",
+				"name": "Telegram Messenger",
+				"screen_name": "telegram",
+				"location": "",
+				"description": "Pure instant messaging — simple, fast, secure, and synced across all your devices. Over 200 million active users in four and a half years.",
+				"url": "http://t.co/9G92kS0yd7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9G92kS0yd7",
+								"expanded_url": "http://telegram.org",
+								"display_url": "telegram.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 569624,
+				"friends_count": 89,
+				"listed_count": 3097,
+				"created_at": "Wed Aug 21 19:47:05 +0000 2013",
+				"favourites_count": 3720,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17665,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1689053928/1392066683",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 111,
+			"favorite_count": 455,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영상만 보고 계정별로 야간모드 설정해놓고 단순 야간모드 버튼만으로 계정 변경 가능하단 소린가 싶었다. https://t.co/D9jfXdgNYk"
+	},
+	{
 		"created_at": "Wed Jan 15 16:52:18 +0000 2020",
 		"id": 1217489696521101300,
 		"id_str": "1217489696521101312",
