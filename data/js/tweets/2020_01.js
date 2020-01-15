@@ -1,6 +1,1170 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 03:01:33 +0000 2020",
+		"id": 1217280632579068000,
+		"id_str": "1217280632579067904",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jan 15) https://t.co/yfpI7Ph2nX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yfpI7Ph2nX",
+					"expanded_url": "https://nzzl.us/Mf2lRAl",
+					"display_url": "nzzl.us/Mf2lRAl",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jan 15) https://t.co/yfpI7Ph2nX"
+	},
+	{
+		"created_at": "Wed Jan 15 02:38:53 +0000 2020",
+		"id": 1217274928010936300,
+		"id_str": "1217274928010936320",
+		"full_text": "인용리트윗에만 하트를 찍으면 원 트윗은 링크로만 아카이빙 되기 때문에 나중에 무슨 내용인지 알기가 어렵다. 왜 욕을 먹고 조리돌림 당했는지 모르니 원 트윗도 하트를 찍는 것.\n\n⚠️ 하트 찍는 것은 다양한 의미를 내포하고 있으며 공감 및 동의 의미만 가지지 않습니다. 리트윗도 마찬가지입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인용리트윗에만 하트를 찍으면 원 트윗은 링크로만 아카이빙 되기 때문에 나중에 무슨 내용인지 알기가 어렵다. 왜 욕을 먹고 조리돌림 당했는지 모르니 원 트윗도 하트를 찍는 것.\n\n⚠️ 하트 찍는 것은 다양한 의미를 내포하고 있으며 공감 및 동의 의미만 가지지 않습니다. 리트윗도 마찬가지입니다."
+	},
+	{
+		"created_at": "Wed Jan 15 02:35:52 +0000 2020",
+		"id": 1216944444601028600,
+		"id_str": "1217274170343489536",
+		"full_text": "2) 먹을거리 지도\nhttps://t.co/Z04iN2ACtV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z04iN2ACtV",
+					"expanded_url": "https://www.google.com/maps/d/edit?mid=1dmbncQ-Xjzy7JfLwzNeg1ROE40SsYV9Q&ll=43.204175890571804%2C142.96232005000002&z=6",
+					"display_url": "google.com/maps/d/edit?mi…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1216944442973638700,
+		"in_reply_to_status_id_str": "1216944442973638656",
+		"in_reply_to_user_id": 1058693002850267100,
+		"in_reply_to_user_id_str": "1058693002850267136",
+		"in_reply_to_screen_name": "Y8NNN1",
+		"user": {
+			"id": 1058693002850267100,
+			"id_str": "1058693002850267136",
+			"name": "Y.8.N",
+			"screen_name": "Y8NNN1",
+			"location": "",
+			"description": "윤설희. 홋카이도 여행 안내서를 썼습니다.(판매 종료)\n무교이지만 산사 관련 책을 쓰고 있습니다.",
+			"url": "https://t.co/GZRrAFNlxi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GZRrAFNlxi",
+							"expanded_url": "http://instagram.com/y.8.n",
+							"display_url": "instagram.com/y.8.n",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909,
+			"friends_count": 69,
+			"listed_count": 5,
+			"created_at": "Sat Nov 03 12:10:56 +0000 2018",
+			"favourites_count": 2655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216300910093074432/EAjLvz0j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216300910093074432/EAjLvz0j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1058693002850267136/1578823878",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2) 먹을거리 지도\nhttps://t.co/Z04iN2ACtV"
+	},
+	{
+		"created_at": "Wed Jan 15 02:35:50 +0000 2020",
+		"id": 1216944442973638700,
+		"id_str": "1217274162021953536",
+		"full_text": "일 년 전에 만들었던 홋카이도 마이맵을 공유합니다. \n\n1) 여행 지도 https://t.co/ooc3G8qrzl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ooc3G8qrzl",
+					"expanded_url": "https://www.google.com/maps/d/edit?mid=13Wbb3fv4Lvxp-Q9HV8Xr5nML5HyJ8gr5&ll=43.20725278962868%2C142.62619885000004&z=6",
+					"display_url": "google.com/maps/d/edit?mi…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1058693002850267100,
+			"id_str": "1058693002850267136",
+			"name": "Y.8.N",
+			"screen_name": "Y8NNN1",
+			"location": "",
+			"description": "윤설희. 홋카이도 여행 안내서를 썼습니다.(판매 종료)\n무교이지만 산사 관련 책을 쓰고 있습니다.",
+			"url": "https://t.co/GZRrAFNlxi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GZRrAFNlxi",
+							"expanded_url": "http://instagram.com/y.8.n",
+							"display_url": "instagram.com/y.8.n",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909,
+			"friends_count": 69,
+			"listed_count": 5,
+			"created_at": "Sat Nov 03 12:10:56 +0000 2018",
+			"favourites_count": 2655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216300910093074432/EAjLvz0j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216300910093074432/EAjLvz0j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1058693002850267136/1578823878",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 702,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일 년 전에 만들었던 홋카이도 마이맵을 공유합니다. \n\n1) 여행 지도 https://t.co/ooc3G8qrzl"
+	},
+	{
+		"created_at": "Wed Jan 15 02:32:02 +0000 2020",
+		"id": 1217273204093243400,
+		"id_str": "1217273204093243392",
+		"full_text": "이달소도 프론트앤드 개발자 더 뽑아서 loonaverse 세계관 표현하는데 공을 들였으면 좋겠다. 팬들이 해석하고 확장해놓은 이야기가 풀리지 않고 그저 감겨있음에 아쉽다. 기대에 못미쳐 아쉬운 그룹. @loonatheworld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						112,
+						126
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이달소도 프론트앤드 개발자 더 뽑아서 loonaverse 세계관 표현하는데 공을 들였으면 좋겠다. 팬들이 해석하고 확장해놓은 이야기가 풀리지 않고 그저 감겨있음에 아쉽다. 기대에 못미쳐 아쉬운 그룹. @loonatheworld"
+	},
+	{
+		"created_at": "Wed Jan 15 02:27:24 +0000 2020",
+		"id": 1217272039754461200,
+		"id_str": "1217272039754461184",
+		"full_text": "방탄 프로젝트 기획 하는 분 대단하다. 국내에 국한되지 않고 글로벌한 프로젝트를 만들고 함께 즐기고 소비하게 만든다. 웹, 앱 그리고 오프라인도 적극 활용.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "방탄 프로젝트 기획 하는 분 대단하다. 국내에 국한되지 않고 글로벌한 프로젝트를 만들고 함께 즐기고 소비하게 만든다. 웹, 앱 그리고 오프라인도 적극 활용."
+	},
+	{
+		"created_at": "Wed Jan 15 02:23:56 +0000 2020",
+		"id": 1217068930528710700,
+		"id_str": "1217271166563274752",
+		"full_text": "기자일 하면서 배운 것 하나는 인간의 품격은 세속적 성공이나 돈의 많고 적음  지위와 거의 관계가 없다는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124970641,
+			"id_str": "124970641",
+			"name": "박대기",
+			"screen_name": "waitingpark",
+			"location": "서울",
+			"description": "기자. 뉴스팡인.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72115,
+			"friends_count": 431,
+			"listed_count": 941,
+			"created_at": "Sun Mar 21 06:31:44 +0000 2010",
+			"favourites_count": 4178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915626506/d0012468_4b44374b464a2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915626506/d0012468_4b44374b464a2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124970641/1417597983",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 581,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "기자일 하면서 배운 것 하나는 인간의 품격은 세속적 성공이나 돈의 많고 적음  지위와 거의 관계가 없다는 것."
+	},
+	{
+		"created_at": "Wed Jan 15 02:22:59 +0000 2020",
+		"id": 1217269207429087200,
+		"id_str": "1217270927232159744",
+		"full_text": "[기사] #방탄소년단, “예술을 통해서 긍정적인 영향력을 줄 수 있어 감사” CONNECT, #BTS 소감\nhttps://t.co/hVOIl6ApoP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방탄소년단",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hVOIl6ApoP",
+					"expanded_url": "https://n.news.naver.com/entertain/article/016/0001624347",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12293383,
+			"friends_count": 26,
+			"listed_count": 14187,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15124,
+		"favorite_count": 49125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[기사] #방탄소년단, “예술을 통해서 긍정적인 영향력을 줄 수 있어 감사” CONNECT, #BTS 소감\nhttps://t.co/hVOIl6ApoP"
+	},
+	{
+		"created_at": "Wed Jan 15 02:12:36 +0000 2020",
+		"id": 1217123144088969200,
+		"id_str": "1217268315111870464",
+		"full_text": "매년 나오는 ‘BBC Sound of’를 좋아한다. 앞으로 기대되는 아티스트를 찾음은 물론 음악성으로는 다른 신인보다 수준이 높기 때문. 올해 선정된 Celeste는 아델과 에이미 와인하우스가 믹스한듯한 목소리의 보컬리스트다. Celeste, BBC Music Sound Of 2020 Winner https://t.co/fjphyHcpHC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fjphyHcpHC",
+					"expanded_url": "https://youtu.be/SD_IG9N-EfI",
+					"display_url": "youtu.be/SD_IG9N-EfI",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169857034,
+			"id_str": "169857034",
+			"name": "manna",
+			"screen_name": "chomanna",
+			"location": "이빠ㄹ과 혀",
+			"description": "이 몸이 듣고 들어 일 백번 고쳐 들어",
+			"url": "https://t.co/tQMCtSL20X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tQMCtSL20X",
+							"expanded_url": "https://brunch.co.kr/@chomanna",
+							"display_url": "brunch.co.kr/@chomanna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2114,
+			"friends_count": 667,
+			"listed_count": 31,
+			"created_at": "Fri Jul 23 09:55:07 +0000 2010",
+			"favourites_count": 17671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "10056F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996748995161612290/To3vFSC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996748995161612290/To3vFSC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169857034/1572608597",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "E3FCC2",
+			"profile_sidebar_fill_color": "9BE0AB",
+			"profile_text_color": "46ADA8",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매년 나오는 ‘BBC Sound of’를 좋아한다. 앞으로 기대되는 아티스트를 찾음은 물론 음악성으로는 다른 신인보다 수준이 높기 때문. 올해 선정된 Celeste는 아델과 에이미 와인하우스가 믹스한듯한 목소리의 보컬리스트다. Celeste, BBC Music Sound Of 2020 Winner https://t.co/fjphyHcpHC"
+	},
+	{
+		"created_at": "Wed Jan 15 02:12:25 +0000 2020",
+		"id": 1216938325522518000,
+		"id_str": "1217268267326160896",
+		"full_text": "말을 예쁘게 하고 부드럽게 한다는 것은 스스로를 조율하고 제어하는,그 치열함의 결과란 생각이다 깨끗해지기 위해선 깨끗하지 않은 것을 지나야 하고,고요해지기 위해선 소란스러운 곳을 지나야 하는 것처럼, 그렇게 되기까지도 비난하고 싶고 비판하고 싶은 감정의 숲을 지나야 했을 것이기 때문에",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3098312658,
+			"id_str": "3098312658",
+			"name": "멀리",
+			"screen_name": "glutamin17171",
+			"location": "대한민국 서울",
+			"description": "매번 후회하면서도 멀리 간다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17871,
+			"friends_count": 128,
+			"listed_count": 199,
+			"created_at": "Thu Mar 19 21:26:51 +0000 2015",
+			"favourites_count": 7756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136924573335613441/1T9JPUuW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136924573335613441/1T9JPUuW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3098312658/1563275048",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3716,
+		"favorite_count": 3598,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "말을 예쁘게 하고 부드럽게 한다는 것은 스스로를 조율하고 제어하는,그 치열함의 결과란 생각이다 깨끗해지기 위해선 깨끗하지 않은 것을 지나야 하고,고요해지기 위해선 소란스러운 곳을 지나야 하는 것처럼, 그렇게 되기까지도 비난하고 싶고 비판하고 싶은 감정의 숲을 지나야 했을 것이기 때문에"
+	},
+	{
+		"created_at": "Wed Jan 15 02:06:18 +0000 2020",
+		"id": 1217090705052422100,
+		"id_str": "1217266728276615168",
+		"full_text": "2020년에 눈여겨 봐야할 UI 트렌드 https://t.co/Wf1jtkhfOU \n1. 2D &amp; 3D 일러스트레이션\n2. 애니메이션\n3. 풀스크린 스마트폰과 모바일 퍼스트\n4. 좀더 다양한 컬러 팔레트\n5. 오버사이즈 폰트\n6. \"Broken Grid\" 비대칭 레이아웃\n7. 뉴오모피즘 디자인 ( New Skeuomorphism )",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wf1jtkhfOU",
+					"expanded_url": "http://j.mp/30kND6p",
+					"display_url": "j.mp/30kND6p",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1911,
+			"friends_count": 0,
+			"listed_count": 35,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 74,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020년에 눈여겨 봐야할 UI 트렌드 https://t.co/Wf1jtkhfOU \n1. 2D &amp; 3D 일러스트레이션\n2. 애니메이션\n3. 풀스크린 스마트폰과 모바일 퍼스트\n4. 좀더 다양한 컬러 팔레트\n5. 오버사이즈 폰트\n6. \"Broken Grid\" 비대칭 레이아웃\n7. 뉴오모피즘 디자인 ( New Skeuomorphism )"
+	},
+	{
 		"created_at": "Wed Jan 15 00:40:38 +0000 2020",
 		"id": 1217240652066410500,
 		"id_str": "1217245170846109698",
