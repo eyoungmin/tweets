@@ -1,6 +1,2420 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 23:58:45 +0000 2020",
+		"id": 1217048715933954000,
+		"id_str": "1217234628974530560",
+		"full_text": "10대들이 알바를 하고도 못 받았다며 신고한 액수는 작년 11월까지만 해도 51억 원. 10대 4명 중 1명이 임금을 못 받았다는 통계도 있습니다. ‘근로계약서’라는 게 있는 줄도 모르는 10대들이 흔히 겪는 일입니다. https://t.co/xlJmbqWd5k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217039598569701400,
+					"id_str": "1217039598569701376",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1217039598569701376/img/nt_ZsxLzrJcySZkL.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1217039598569701376/img/nt_ZsxLzrJcySZkL.jpg",
+					"url": "https://t.co/xlJmbqWd5k",
+					"display_url": "pic.twitter.com/xlJmbqWd5k",
+					"expanded_url": "https://twitter.com/mbcnews/status/1217048715933954049/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217039598569701400,
+					"id_str": "1217039598569701376",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1217039598569701376/img/nt_ZsxLzrJcySZkL.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1217039598569701376/img/nt_ZsxLzrJcySZkL.jpg",
+					"url": "https://t.co/xlJmbqWd5k",
+					"display_url": "pic.twitter.com/xlJmbqWd5k",
+					"expanded_url": "https://twitter.com/mbcnews/status/1217048715933954049/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 174000,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1217039598569701376/vid/480x272/7PwWKyow8haGiPdY.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1217039598569701376/pl/pYZ55dp9-fRaFyK3.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": " '눈물의 폐업' 알바비 못 준다는 레스토랑‥과연?",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://imnews.imbc.com/replay/2020/nwdesk/article/5650800_32524.html"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388095,
+			"friends_count": 150513,
+			"listed_count": 3680,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 732,
+		"favorite_count": 203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10대들이 알바를 하고도 못 받았다며 신고한 액수는 작년 11월까지만 해도 51억 원. 10대 4명 중 1명이 임금을 못 받았다는 통계도 있습니다. ‘근로계약서’라는 게 있는 줄도 모르는 10대들이 흔히 겪는 일입니다. https://t.co/xlJmbqWd5k"
+	},
+	{
+		"created_at": "Tue Jan 14 23:58:37 +0000 2020",
+		"id": 1216945595824238600,
+		"id_str": "1217234594887389184",
+		"full_text": "재즈와 클래식 청취에 이만한 어플 없을걸요 트위터인생 10년을 걸고 장담합니다 https://t.co/yJkgGoHzRg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216945574953382000,
+					"id_str": "1216945574953381888",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EON1jYIUcAARBLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EON1jYIUcAARBLh.jpg",
+					"url": "https://t.co/yJkgGoHzRg",
+					"display_url": "pic.twitter.com/yJkgGoHzRg",
+					"expanded_url": "https://twitter.com/10dreamsperday/status/1216945595824238593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 397,
+									"y": 98,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 296,
+									"h": 684,
+									"w": 684
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 296,
+									"h": 684,
+									"w": 684
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 173,
+									"h": 400,
+									"w": 400
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216945574953382000,
+					"id_str": "1216945574953381888",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EON1jYIUcAARBLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EON1jYIUcAARBLh.jpg",
+					"url": "https://t.co/yJkgGoHzRg",
+					"display_url": "pic.twitter.com/yJkgGoHzRg",
+					"expanded_url": "https://twitter.com/10dreamsperday/status/1216945595824238593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 397,
+									"y": 98,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 296,
+									"h": 684,
+									"w": 684
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 296,
+									"h": 684,
+									"w": 684
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 173,
+									"h": 400,
+									"w": 400
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801785068612034600,
+			"id_str": "801785068612034561",
+			"name": "낮잠",
+			"screen_name": "10dreamsperday",
+			"location": "",
+			"description": "make love great again @runningdaydream",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 653,
+			"friends_count": 256,
+			"listed_count": 9,
+			"created_at": "Thu Nov 24 13:50:31 +0000 2016",
+			"favourites_count": 21269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217114628326481920/3Y2M89vh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217114628326481920/3Y2M89vh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/801785068612034561/1570763074",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3452,
+		"favorite_count": 4037,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재즈와 클래식 청취에 이만한 어플 없을걸요 트위터인생 10년을 걸고 장담합니다 https://t.co/yJkgGoHzRg"
+	},
+	{
+		"created_at": "Tue Jan 14 23:57:40 +0000 2020",
+		"id": 1217114730831237000,
+		"id_str": "1217234356248272896",
+		"full_text": "The #NoTimeToDie title song will be performed by @billieeilish. Billie has written the song with her brother @finneas and is the youngest artist in history to write and record a James Bond theme song. https://t.co/Qd5cYIRlmg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoTimeToDie",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"screen_name": "finneas",
+					"name": "FINNEAS",
+					"id": 1573265498,
+					"id_str": "1573265498",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217114724040695800,
+					"id_str": "1217114724040695813",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQPZJlX4AUVSZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQPZJlX4AUVSZy.jpg",
+					"url": "https://t.co/Qd5cYIRlmg",
+					"display_url": "pic.twitter.com/Qd5cYIRlmg",
+					"expanded_url": "https://twitter.com/007/status/1217114730831237121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 813,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1301,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217114724040695800,
+					"id_str": "1217114724040695813",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQPZJlX4AUVSZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQPZJlX4AUVSZy.jpg",
+					"url": "https://t.co/Qd5cYIRlmg",
+					"display_url": "pic.twitter.com/Qd5cYIRlmg",
+					"expanded_url": "https://twitter.com/007/status/1217114730831237121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 813,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1301,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 389229444,
+			"id_str": "389229444",
+			"name": "James Bond",
+			"screen_name": "007",
+			"location": "",
+			"description": "The official James Bond Twitter account. NO TIME TO DIE is released worldwide in April 2020",
+			"url": "https://t.co/foosjWwnjf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/foosjWwnjf",
+							"expanded_url": "http://www.007.com",
+							"display_url": "007.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 545635,
+			"friends_count": 0,
+			"listed_count": 2591,
+			"created_at": "Wed Oct 12 02:17:35 +0000 2011",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876771373619843072/loRucdAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876771373619843072/loRucdAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389229444/1566467234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10627,
+		"favorite_count": 47362,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #NoTimeToDie title song will be performed by @billieeilish. Billie has written the song with her brother @finneas and is the youngest artist in history to write and record a James Bond theme song. https://t.co/Qd5cYIRlmg"
+	},
+	{
+		"created_at": "Tue Jan 14 23:56:35 +0000 2020",
+		"id": 1216560780402782200,
+		"id_str": "1217234083526238208",
+		"full_text": "하루에도 몇번씩 '그냥 하기'를 되뇌인다. 뭔가를 하려할 때면 머리는 그럴듯한 이유를 찾아내려 한다. 만족할만한 이유를 찾아내지 못한다면 머리는 이를 설명할 수 있는 핑곗거리를 어떻게든 찾아낸다. \n생각은 행동의 적이다. https://t.co/cjJawLL3g6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216560774170079200,
+					"id_str": "1216560774170079232",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EOIXlBgU8AAtw71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOIXlBgU8AAtw71.jpg",
+					"url": "https://t.co/cjJawLL3g6",
+					"display_url": "pic.twitter.com/cjJawLL3g6",
+					"expanded_url": "https://twitter.com/Fenrir5231/status/1216560780402782208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 537,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 537,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 317,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 121,
+									"y": 52,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 317,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 121,
+									"y": 52,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 317,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 121,
+									"y": 52,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 317,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 121,
+									"y": 52,
+									"h": 141,
+									"w": 141
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216560774170079200,
+					"id_str": "1216560774170079232",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EOIXlBgU8AAtw71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOIXlBgU8AAtw71.jpg",
+					"url": "https://t.co/cjJawLL3g6",
+					"display_url": "pic.twitter.com/cjJawLL3g6",
+					"expanded_url": "https://twitter.com/Fenrir5231/status/1216560780402782208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 537,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 537,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 317,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 121,
+									"y": 52,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 317,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 121,
+									"y": 52,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 317,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 121,
+									"y": 52,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 317,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 121,
+									"y": 52,
+									"h": 141,
+									"w": 141
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176359312,
+			"id_str": "176359312",
+			"name": "오개",
+			"screen_name": "Fenrir5231",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3517,
+			"friends_count": 187,
+			"listed_count": 51,
+			"created_at": "Mon Aug 09 09:33:27 +0000 2010",
+			"favourites_count": 17334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217007330090307584/WrwzAHE0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217007330090307584/WrwzAHE0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176359312/1551287163",
+			"profile_link_color": "000033",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16177,
+		"favorite_count": 9526,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하루에도 몇번씩 '그냥 하기'를 되뇌인다. 뭔가를 하려할 때면 머리는 그럴듯한 이유를 찾아내려 한다. 만족할만한 이유를 찾아내지 못한다면 머리는 이를 설명할 수 있는 핑곗거리를 어떻게든 찾아낸다. \n생각은 행동의 적이다. https://t.co/cjJawLL3g6"
+	},
+	{
+		"created_at": "Tue Jan 14 23:56:30 +0000 2020",
+		"id": 1216693435958055000,
+		"id_str": "1217234065008414720",
+		"full_text": "역시 의지력은 믿을 수 없다. 성취도가 높은 사람의 의지력도 크게 다르지 않다. 루틴/리츄얼/습관이 뭔가를 되게한다. 억지로 하는게 아니라 저절로 되게해야한다. https://t.co/dvAsiSWw4r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dvAsiSWw4r",
+					"expanded_url": "https://twitter.com/Fenrir5231/status/1216560780402782208",
+					"display_url": "twitter.com/Fenrir5231/sta…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 336558520,
+			"id_str": "336558520",
+			"name": "Libertà",
+			"screen_name": "rotwand81539",
+			"location": "",
+			"description": "항상 변치 않는 사이버펑크가수 아담입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3633,
+			"friends_count": 817,
+			"listed_count": 46,
+			"created_at": "Sat Jul 16 14:10:59 +0000 2011",
+			"favourites_count": 29924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121153659352625152/HkwKqX7m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121153659352625152/HkwKqX7m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/336558520/1545002883",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216560780402782200,
+		"quoted_status_id_str": "1216560780402782208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dvAsiSWw4r",
+			"expanded": "https://twitter.com/Fenrir5231/status/1216560780402782208",
+			"display": "twitter.com/Fenrir5231/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 13 03:21:07 +0000 2020",
+			"id": 1216560780402782200,
+			"id_str": "1216560780402782208",
+			"full_text": "하루에도 몇번씩 '그냥 하기'를 되뇌인다. 뭔가를 하려할 때면 머리는 그럴듯한 이유를 찾아내려 한다. 만족할만한 이유를 찾아내지 못한다면 머리는 이를 설명할 수 있는 핑곗거리를 어떻게든 찾아낸다. \n생각은 행동의 적이다. https://t.co/cjJawLL3g6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1216560774170079200,
+						"id_str": "1216560774170079232",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/EOIXlBgU8AAtw71.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOIXlBgU8AAtw71.jpg",
+						"url": "https://t.co/cjJawLL3g6",
+						"display_url": "pic.twitter.com/cjJawLL3g6",
+						"expanded_url": "https://twitter.com/Fenrir5231/status/1216560780402782208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 420,
+								"h": 537,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 420,
+								"h": 537,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 537,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 190,
+										"y": 317,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 121,
+										"y": 52,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 190,
+										"y": 317,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 121,
+										"y": 52,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 190,
+										"y": 317,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 121,
+										"y": 52,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 190,
+										"y": 317,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 121,
+										"y": 52,
+										"h": 141,
+										"w": 141
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1216560774170079200,
+						"id_str": "1216560774170079232",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/EOIXlBgU8AAtw71.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOIXlBgU8AAtw71.jpg",
+						"url": "https://t.co/cjJawLL3g6",
+						"display_url": "pic.twitter.com/cjJawLL3g6",
+						"expanded_url": "https://twitter.com/Fenrir5231/status/1216560780402782208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 420,
+								"h": 537,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 420,
+								"h": 537,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 537,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 190,
+										"y": 317,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 121,
+										"y": 52,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 190,
+										"y": 317,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 121,
+										"y": 52,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 190,
+										"y": 317,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 121,
+										"y": 52,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 190,
+										"y": 317,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 121,
+										"y": 52,
+										"h": 141,
+										"w": 141
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 176359312,
+				"id_str": "176359312",
+				"name": "오개",
+				"screen_name": "Fenrir5231",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3517,
+				"friends_count": 187,
+				"listed_count": 51,
+				"created_at": "Mon Aug 09 09:33:27 +0000 2010",
+				"favourites_count": 17334,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 90420,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1217007330090307584/WrwzAHE0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217007330090307584/WrwzAHE0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/176359312/1551287163",
+				"profile_link_color": "000033",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16177,
+			"favorite_count": 9526,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2224,
+		"favorite_count": 1477,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역시 의지력은 믿을 수 없다. 성취도가 높은 사람의 의지력도 크게 다르지 않다. 루틴/리츄얼/습관이 뭔가를 되게한다. 억지로 하는게 아니라 저절로 되게해야한다. https://t.co/dvAsiSWw4r"
+	},
+	{
+		"created_at": "Tue Jan 14 23:56:19 +0000 2020",
+		"id": 1217232327320846300,
+		"id_str": "1217234016329355264",
+		"full_text": "탁월한 마케터는 각자의 원칙을 세우고 콘텐츠를 계속 최적화합니다. 서비스마다, 상품마다 특징이 달라 콘텐츠 최적화 과정을 거쳐야 고객에게 더 다가갈 수 있기 때문입니다. 뉴스레터로 눈에 보이는 성과를 얻고 싶으신가요? 지금 “실전 팁 8가지”를 살펴보세요👍\nhttps://t.co/9mdUy1aMgO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9mdUy1aMgO",
+					"expanded_url": "https://blog.stibee.com/%EB%88%84%EA%B5%AC%EB%82%98-%EC%8B%9C%EB%8F%84%ED%95%98%EB%8A%94-%EC%8B%A4%EC%A0%84-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%A7%88%EC%BC%80%ED%8C%85-%ED%8C%81-8%EA%B0%80%EC%A7%80-7bbcd75e8b4b",
+					"display_url": "blog.stibee.com/%EB%88%84%EA%B…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060719996,
+			"id_str": "3060719996",
+			"name": "스티비",
+			"screen_name": "stibeemail",
+			"location": "Seoul, Republic of Korea",
+			"description": "모두를 위한 #이메일마케팅",
+			"url": "https://t.co/cxE6SH6mda",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cxE6SH6mda",
+							"expanded_url": "https://stibee.com",
+							"display_url": "stibee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 12,
+			"listed_count": 10,
+			"created_at": "Wed Mar 04 02:29:04 +0000 2015",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214750575864119296/lBwoow0o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214750575864119296/lBwoow0o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060719996/1576052178",
+			"profile_link_color": "3E81F6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탁월한 마케터는 각자의 원칙을 세우고 콘텐츠를 계속 최적화합니다. 서비스마다, 상품마다 특징이 달라 콘텐츠 최적화 과정을 거쳐야 고객에게 더 다가갈 수 있기 때문입니다. 뉴스레터로 눈에 보이는 성과를 얻고 싶으신가요? 지금 “실전 팁 8가지”를 살펴보세요👍\nhttps://t.co/9mdUy1aMgO"
+	},
+	{
+		"created_at": "Tue Jan 14 23:53:27 +0000 2020",
+		"id": 1217228850574188500,
+		"id_str": "1217233295261323264",
+		"full_text": "[기사]\nC9엔터, 걸그룹 전문 레이블 J9엔터 설립…시그니처가 첫 주자 [공식입장] \n(출처 : 엑스포츠뉴스 | 네이버 TV연예) \n\n▶️ https://t.co/mllE6GHVZm\n\n#cignature #시그니처 #채솔 #지원 #예아 #선 #셀린 #벨 #세미",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cignature",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "시그니처",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "채솔",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "지원",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "예아",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "선",
+					"indices": [
+						133,
+						135
+					]
+				},
+				{
+					"text": "셀린",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "벨",
+					"indices": [
+						140,
+						142
+					]
+				},
+				{
+					"text": "세미",
+					"indices": [
+						143,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mllE6GHVZm",
+					"expanded_url": "http://naver.me/FeJYFBTf",
+					"display_url": "naver.me/FeJYFBTf",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1172348346192711700,
+			"id_str": "1172348346192711680",
+			"name": "cignature",
+			"screen_name": "cignature_J9",
+			"location": "",
+			"description": "C9Entertainment ‘cignature’ Official Twitter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17366,
+			"friends_count": 1,
+			"listed_count": 159,
+			"created_at": "Fri Sep 13 03:17:02 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216737087170334726/-stO2n4c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216737087170334726/-stO2n4c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1172348346192711680/1578927703",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[기사]\nC9엔터, 걸그룹 전문 레이블 J9엔터 설립…시그니처가 첫 주자 [공식입장] \n(출처 : 엑스포츠뉴스 | 네이버 TV연예) \n\n▶️ https://t.co/mllE6GHVZm\n\n#cignature #시그니처 #채솔 #지원 #예아 #선 #셀린 #벨 #세미"
+	},
+	{
+		"created_at": "Tue Jan 14 23:53:17 +0000 2020",
+		"id": 1217233252794003500,
+		"id_str": "1217233252794003456",
+		"full_text": "C9 새 걸그룹 J9 시그니처 브랜딩 누가 하는 거지... 로고며 전체적인 디자인이 촌스럽다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "C9 새 걸그룹 J9 시그니처 브랜딩 누가 하는 거지... 로고며 전체적인 디자인이 촌스럽다."
+	},
+	{
+		"created_at": "Tue Jan 14 23:48:14 +0000 2020",
+		"id": 1217101956562313200,
+		"id_str": "1217231981253033984",
+		"full_text": "[기사] 새 앨범 공개 앞둔 #BTS, 글로벌 5개 도시서 현대미술 프로젝트\nhttps://t.co/KC5O5AqVCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						16,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KC5O5AqVCQ",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0011335574",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12291747,
+			"friends_count": 26,
+			"listed_count": 14186,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35135,
+		"favorite_count": 147715,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[기사] 새 앨범 공개 앞둔 #BTS, 글로벌 5개 도시서 현대미술 프로젝트\nhttps://t.co/KC5O5AqVCQ"
+	},
+	{
+		"created_at": "Tue Jan 14 23:46:22 +0000 2020",
+		"id": 1217051232633680000,
+		"id_str": "1217231514917720064",
+		"full_text": "“우리는 성을 남성과 여성으로 나누어 생각하지만 전적으로 남성이나 여성으로만 살아가는 사람은 아무도 없어요.” \nhttps://t.co/NUhlo69P5r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NUhlo69P5r",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202001141552001&code=960100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 748155,
+			"friends_count": 80898,
+			"listed_count": 6460,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 417,
+		"favorite_count": 303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“우리는 성을 남성과 여성으로 나누어 생각하지만 전적으로 남성이나 여성으로만 살아가는 사람은 아무도 없어요.” \nhttps://t.co/NUhlo69P5r"
+	},
+	{
+		"created_at": "Tue Jan 14 23:45:48 +0000 2020",
+		"id": 1217114961425707000,
+		"id_str": "1217231369455013888",
+		"full_text": "Billie has written and will perform the theme song for the 25th James Bond film, #NoTimeToDie @007 https://t.co/BrxqLM6ED6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoTimeToDie",
+					"indices": [
+						81,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "007",
+					"name": "James Bond",
+					"id": 389229444,
+					"id_str": "389229444",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217114955863990300,
+					"id_str": "1217114955863990272",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQPmpMWoAAkuLF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQPmpMWoAAkuLF.jpg",
+					"url": "https://t.co/BrxqLM6ED6",
+					"display_url": "pic.twitter.com/BrxqLM6ED6",
+					"expanded_url": "https://twitter.com/billieeilish/status/1217114961425707008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1066,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1066,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217114955863990300,
+					"id_str": "1217114955863990272",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQPmpMWoAAkuLF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQPmpMWoAAkuLF.jpg",
+					"url": "https://t.co/BrxqLM6ED6",
+					"display_url": "pic.twitter.com/BrxqLM6ED6",
+					"expanded_url": "https://twitter.com/billieeilish/status/1217114961425707008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1066,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1066,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3341722,
+			"friends_count": 0,
+			"listed_count": 2722,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14980,
+		"favorite_count": 95130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie has written and will perform the theme song for the 25th James Bond film, #NoTimeToDie @007 https://t.co/BrxqLM6ED6"
+	},
+	{
+		"created_at": "Tue Jan 14 23:45:29 +0000 2020",
+		"id": 1217231290249801700,
+		"id_str": "1217231290249801728",
+		"full_text": "프라이버시 개인정보 관련해서 참 요상하고 이상한 법체계를 가진 나라.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "프라이버시 개인정보 관련해서 참 요상하고 이상한 법체계를 가진 나라."
+	},
+	{
+		"created_at": "Tue Jan 14 23:44:01 +0000 2020",
+		"id": 1217207274575261700,
+		"id_str": "1217230922656862214",
+		"full_text": "데이터3법, 왜 익명 아닌 가명정보를 쓰게 한거지? https://t.co/4dRhiXSj9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4dRhiXSj9o",
+					"expanded_url": "http://www.bloter.net/archives/367887",
+					"display_url": "bloter.net/archives/367887",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56227,
+			"friends_count": 9,
+			"listed_count": 2532,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "데이터3법, 왜 익명 아닌 가명정보를 쓰게 한거지? https://t.co/4dRhiXSj9o"
+	},
+	{
 		"created_at": "Tue Jan 14 16:52:11 +0000 2020",
 		"id": 1217127279001788400,
 		"id_str": "1217127279001788420",
