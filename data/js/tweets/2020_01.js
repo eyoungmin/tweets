@@ -1,6 +1,688 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 11:42:41 +0000 2020",
+		"id": 1217098516687810600,
+		"id_str": "1217411779979907073",
+		"full_text": "해고된 톨게이트 수납원들, 200일의 기록. &lt;겁없는 여자들&gt;. 이번주 금요일 밤 10시 KBS 1TV에서 방송됩니다. 오지은 님의 노래와 함께합니다. https://t.co/isAylXk8QX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217098502439764000,
+					"id_str": "1217098502439763973",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQAo7aVAAUz3Y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQAo7aVAAUz3Y3.jpg",
+					"url": "https://t.co/isAylXk8QX",
+					"display_url": "pic.twitter.com/isAylXk8QX",
+					"expanded_url": "https://twitter.com/thefearoftear/status/1217098516687810560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 1784,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 336,
+									"y": 1882,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 556,
+									"y": 1274,
+									"h": 222,
+									"w": 222
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 1044,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 196,
+									"y": 1102,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 325,
+									"y": 746,
+									"h": 130,
+									"w": 130
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 592,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 111,
+									"y": 625,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 184,
+									"y": 423,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 1784,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 336,
+									"y": 1882,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 556,
+									"y": 1274,
+									"h": 222,
+									"w": 222
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217098502439764000,
+					"id_str": "1217098502439763973",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQAo7aVAAUz3Y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQAo7aVAAUz3Y3.jpg",
+					"url": "https://t.co/isAylXk8QX",
+					"display_url": "pic.twitter.com/isAylXk8QX",
+					"expanded_url": "https://twitter.com/thefearoftear/status/1217098516687810560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 1784,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 336,
+									"y": 1882,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 556,
+									"y": 1274,
+									"h": 222,
+									"w": 222
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 1044,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 196,
+									"y": 1102,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 325,
+									"y": 746,
+									"h": 130,
+									"w": 130
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 592,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 111,
+									"y": 625,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 184,
+									"y": 423,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 1784,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 336,
+									"y": 1882,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 556,
+									"y": 1274,
+									"h": 222,
+									"w": 222
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 367685369,
+			"id_str": "367685369",
+			"name": "승문",
+			"screen_name": "thefearoftear",
+			"location": "",
+			"description": "#땐뽀걸즈 #쓸데없이찬란한 #5월아이들 #거리의만찬 즐겁게 노는 아이들 옆에서 낡은 구두를 수선하는 일. KBS 다큐멘터리 PD.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2479,
+			"friends_count": 439,
+			"listed_count": 16,
+			"created_at": "Sun Sep 04 11:38:01 +0000 2011",
+			"favourites_count": 2822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908209671248297984/ODLh35C1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908209671248297984/ODLh35C1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/367685369/1553954316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 905,
+		"favorite_count": 468,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해고된 톨게이트 수납원들, 200일의 기록. &lt;겁없는 여자들&gt;. 이번주 금요일 밤 10시 KBS 1TV에서 방송됩니다. 오지은 님의 노래와 함께합니다. https://t.co/isAylXk8QX"
+	},
+	{
+		"created_at": "Wed Jan 15 11:42:10 +0000 2020",
+		"id": 1216950284737446000,
+		"id_str": "1217411651386757121",
+		"full_text": ".@selenagomez learns that Billie Eilish was inspired by the Wizards of Waverly Place theme song when making “bad guy” #FallonTonight https://t.co/REWcJBInS3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FallonTonight",
+					"indices": [
+						118,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "selenagomez",
+					"name": "Selena Gomez",
+					"id": 23375688,
+					"id_str": "23375688",
+					"indices": [
+						1,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216934984734445600,
+					"id_str": "1216934984734445568",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EONu4-MWoAAvb_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EONu4-MWoAAvb_D.jpg",
+					"url": "https://t.co/REWcJBInS3",
+					"display_url": "pic.twitter.com/REWcJBInS3",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1216950284737445890/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216934984734445600,
+					"id_str": "1216934984734445568",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EONu4-MWoAAvb_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EONu4-MWoAAvb_D.jpg",
+					"url": "https://t.co/REWcJBInS3",
+					"display_url": "pic.twitter.com/REWcJBInS3",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1216950284737445890/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							135,
+							76
+						],
+						"duration_millis": 64031,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216934984734445568/vid/478x270/G7AoH4QbYxW0RpHB.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1216934984734445568/pl/2jFyFYYjQkF5B285.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216934984734445568/vid/638x360/ARaU5OgibDPQ8fnG.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216934984734445568/vid/1080x608/5eWdUFPwZbQCanST.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19777398,
+			"id_str": "19777398",
+			"name": "Fallon Tonight",
+			"screen_name": "FallonTonight",
+			"location": "Weeknights 11:35/10:35c",
+			"description": "The official Twitter for The Tonight Show Starring @JimmyFallon on @NBC #FallonTonight",
+			"url": "http://t.co/fgp5RYqr3T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fgp5RYqr3T",
+							"expanded_url": "http://www.tonightshow.com",
+							"display_url": "tonightshow.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4102085,
+			"friends_count": 21611,
+			"listed_count": 10812,
+			"created_at": "Fri Jan 30 17:26:46 +0000 2009",
+			"favourites_count": 128754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03253E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036996583701639168/sUGMA1R-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036996583701639168/sUGMA1R-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19777398/1536081506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2428,
+		"favorite_count": 12395,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@selenagomez learns that Billie Eilish was inspired by the Wizards of Waverly Place theme song when making “bad guy” #FallonTonight https://t.co/REWcJBInS3"
+	},
+	{
+		"created_at": "Wed Jan 15 11:23:38 +0000 2020",
+		"id": 1217244153714630700,
+		"id_str": "1217406984640589825",
+		"full_text": "백희나 작가가 저작권을 돌려받을 수 있도록 동참해 주세요. https://t.co/dUt1OA0QBa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dUt1OA0QBa",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSdzGA_4U7TqHMnogudjyLlt3y36EBmeCe7gwDv2ObP3FzijXA/viewform",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 162169558,
+			"id_str": "162169558",
+			"name": "친절한 미친해 씨",
+			"screen_name": "iamcrazysun",
+			"location": "중간계",
+			"description": "‘천사 같’습니다. 그래도 장래희망은 (돈 많은) 백수.",
+			"url": "https://t.co/py2tLVnZaa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/py2tLVnZaa",
+							"expanded_url": "http://ask.fm/iamcrazysun",
+							"display_url": "ask.fm/iamcrazysun",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2644,
+			"friends_count": 787,
+			"listed_count": 47,
+			"created_at": "Fri Jul 02 22:28:26 +0000 2010",
+			"favourites_count": 162272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 172053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172683282800152576/fJulX7hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172683282800152576/fJulX7hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/162169558/1401328566",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1686,
+		"favorite_count": 207,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백희나 작가가 저작권을 돌려받을 수 있도록 동참해 주세요. https://t.co/dUt1OA0QBa"
+	},
+	{
 		"created_at": "Wed Jan 15 10:33:20 +0000 2020",
 		"id": 1217394328080978000,
 		"id_str": "1217394328080977920",
