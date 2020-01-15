@@ -1,6 +1,1201 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 08:39:44 +0000 2020",
+		"id": 1217365321121583000,
+		"id_str": "1217365741411938304",
+		"full_text": "태연의 정규 2집 리패키지 앨범 'Purpose'가 베일을 벗습니다.\n금일 오후 6시 음원과 타이틀곡 '내게 들려주고 싶은 말'의 뮤직비디오가 공개될 예정입니다.\n\nTaeyeon's 2nd album repackage 'Purpose' will be released at 6pm along with the title song music video.\n\n#taeyeon #billboardkorea https://t.co/yCBaQxOkRM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "taeyeon",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "billboardkorea",
+					"indices": [
+						205,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217365309624995800,
+					"id_str": "1217365309624995840",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EOTzTJoU0AApwfo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOTzTJoU0AApwfo.jpg",
+					"url": "https://t.co/yCBaQxOkRM",
+					"display_url": "pic.twitter.com/yCBaQxOkRM",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1217365321121583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1066,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217365309624995800,
+					"id_str": "1217365309624995840",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EOTzTJoU0AApwfo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOTzTJoU0AApwfo.jpg",
+					"url": "https://t.co/yCBaQxOkRM",
+					"display_url": "pic.twitter.com/yCBaQxOkRM",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1217365321121583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1066,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19002,
+			"friends_count": 8,
+			"listed_count": 77,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1578991623",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연의 정규 2집 리패키지 앨범 'Purpose'가 베일을 벗습니다.\n금일 오후 6시 음원과 타이틀곡 '내게 들려주고 싶은 말'의 뮤직비디오가 공개될 예정입니다.\n\nTaeyeon's 2nd album repackage 'Purpose' will be released at 6pm along with the title song music video.\n\n#taeyeon #billboardkorea https://t.co/yCBaQxOkRM"
+	},
+	{
+		"created_at": "Wed Jan 15 08:22:32 +0000 2020",
+		"id": 1217361409098436600,
+		"id_str": "1217361409098436608",
+		"full_text": "@seoulrain 댓글 추첨 구글 스프레드시트랑 비슷하네요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seoulrain",
+					"name": "서울비",
+					"id": 14941102,
+					"id_str": "14941102",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1217284037099839500,
+		"in_reply_to_status_id_str": "1217284037099839488",
+		"in_reply_to_user_id": 14941102,
+		"in_reply_to_user_id_str": "14941102",
+		"in_reply_to_screen_name": "seoulrain",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 882,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@seoulrain 댓글 추첨 구글 스프레드시트랑 비슷하네요."
+	},
+	{
+		"created_at": "Wed Jan 15 08:19:25 +0000 2020",
+		"id": 1217309805607440400,
+		"id_str": "1217360624969117696",
+		"full_text": "구글 크롬, 사용자 에이전트 문자열을 단계적으로 사용 중지하기로 https://t.co/PYhA2LuQ4A \n웹 개발을 하다 보면 종종 웹 브라우저의 종류나 운영체제에 따라 다른 화면을 보여준다거나, 혹은 접속자의 사용 플랫폼을 통계 처리하거나 해야 할 때가 있습니다. 이때 사용되는 것 중 하나가 바로 웹...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PYhA2LuQ4A",
+					"expanded_url": "http://j.mp/2tmDvy3",
+					"display_url": "j.mp/2tmDvy3",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1919,
+			"friends_count": 0,
+			"listed_count": 35,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 크롬, 사용자 에이전트 문자열을 단계적으로 사용 중지하기로 https://t.co/PYhA2LuQ4A \n웹 개발을 하다 보면 종종 웹 브라우저의 종류나 운영체제에 따라 다른 화면을 보여준다거나, 혹은 접속자의 사용 플랫폼을 통계 처리하거나 해야 할 때가 있습니다. 이때 사용되는 것 중 하나가 바로 웹..."
+	},
+	{
+		"created_at": "Wed Jan 15 08:18:24 +0000 2020",
+		"id": 1217306643668467700,
+		"id_str": "1217360370626547712",
+		"full_text": "크롬도 Third-Party Cookie를 사용하지 않는것에 동참 https://t.co/CegjdElqJ6 \n2년내에 제3자 쿠키에 대한 지원을 중단할 것이며,\n올 2월부터 SameSite 라벨이 없는 쿠키는 퍼스트파티 쿠키로 처리하며, \n제3자 쿠키는 HTTPS로만 요청하게 제한할 예정.\n안티핑거프린팅 기술을 개발중이고, 올...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CegjdElqJ6",
+					"expanded_url": "http://j.mp/35TGbQP",
+					"display_url": "j.mp/35TGbQP",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1919,
+			"friends_count": 0,
+			"listed_count": 35,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "크롬도 Third-Party Cookie를 사용하지 않는것에 동참 https://t.co/CegjdElqJ6 \n2년내에 제3자 쿠키에 대한 지원을 중단할 것이며,\n올 2월부터 SameSite 라벨이 없는 쿠키는 퍼스트파티 쿠키로 처리하며, \n제3자 쿠키는 HTTPS로만 요청하게 제한할 예정.\n안티핑거프린팅 기술을 개발중이고, 올..."
+	},
+	{
+		"created_at": "Wed Jan 15 08:15:30 +0000 2020",
+		"id": 1217323156479676400,
+		"id_str": "1217359640431755264",
+		"full_text": "개인·기업, 공공 데이터 활용 더 쉽고 편해진다 https://t.co/0rbZZJjDLM https://t.co/4qbvlk8biK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0rbZZJjDLM",
+					"expanded_url": "http://dlvr.it/RN3rdR",
+					"display_url": "dlvr.it/RN3rdR",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217323154873311200,
+					"id_str": "1217323154873311232",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EOTM9a8U4AAwkXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOTM9a8U4AAwkXY.jpg",
+					"url": "https://t.co/4qbvlk8biK",
+					"display_url": "pic.twitter.com/4qbvlk8biK",
+					"expanded_url": "https://twitter.com/zdnetkorea/status/1217323156479676419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 637,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 637,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217323154873311200,
+					"id_str": "1217323154873311232",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EOTM9a8U4AAwkXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOTM9a8U4AAwkXY.jpg",
+					"url": "https://t.co/4qbvlk8biK",
+					"display_url": "pic.twitter.com/4qbvlk8biK",
+					"expanded_url": "https://twitter.com/zdnetkorea/status/1217323156479676419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 637,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 637,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90776094,
+			"id_str": "90776094",
+			"name": "지디넷코리아",
+			"screen_name": "zdnetkorea",
+			"location": "",
+			"description": "IT 세상을 바꾸는 힘 -  IT 종합 글로벌 미디어",
+			"url": "http://t.co/BamBkLmS1B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BamBkLmS1B",
+							"expanded_url": "http://zdnet.co.kr",
+							"display_url": "zdnet.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141172,
+			"friends_count": 107402,
+			"listed_count": 3010,
+			"created_at": "Wed Nov 18 02:00:22 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 69726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1857047069/zdnetkorae_twitter_icon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1857047069/zdnetkorae_twitter_icon_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90776094/1411720332",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개인·기업, 공공 데이터 활용 더 쉽고 편해진다 https://t.co/0rbZZJjDLM https://t.co/4qbvlk8biK"
+	},
+	{
+		"created_at": "Wed Jan 15 08:14:36 +0000 2020",
+		"id": 1217331499558506500,
+		"id_str": "1217359412999806976",
+		"full_text": "#슬로워크의_일 &lt;2019 대한민국 국가비전회의 자료집&gt;\n국가비전회의는 국민생활의 균등한 향상을 위한 다양한 의견이 오가는 논의의 장입니다. ‘공동의 비전을 만드는 목소리의 파동’을 콘셉트로, 논해지는 내용이 모여 하나의 목소리를 이루는 파동의 형태로 시각화했습니다.\nhttps://t.co/9TAfULHTQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬로워크의_일",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9TAfULHTQO",
+					"expanded_url": "https://slowalk.co.kr/archives/portfolio/2019-%ea%b5%ad%ea%b0%80%eb%b9%84%ec%a0%84%ed%9a%8c%ec%9d%98-%ec%9e%90%eb%a3%8c%ec%a7%91",
+					"display_url": "slowalk.co.kr/archives/portf…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5003,
+			"friends_count": 3458,
+			"listed_count": 224,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬로워크의_일 &lt;2019 대한민국 국가비전회의 자료집&gt;\n국가비전회의는 국민생활의 균등한 향상을 위한 다양한 의견이 오가는 논의의 장입니다. ‘공동의 비전을 만드는 목소리의 파동’을 콘셉트로, 논해지는 내용이 모여 하나의 목소리를 이루는 파동의 형태로 시각화했습니다.\nhttps://t.co/9TAfULHTQO"
+	},
+	{
+		"created_at": "Wed Jan 15 08:14:03 +0000 2020",
+		"id": 1217322457037754400,
+		"id_str": "1217359275971858433",
+		"full_text": "뉴럴네트워크에 대한 20분짜리 입문 강좌인데 시각적으로 재밌게 설명하고 있습니다. 뉴럴넷을 하려면 왜 행렬이 필요한지도 후반부에 나옵니다.\nhttps://t.co/ELoCYNXmID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ELoCYNXmID",
+					"expanded_url": "https://youtu.be/aircAruvnKk",
+					"display_url": "youtu.be/aircAruvnKk",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 736089280661979100,
+			"id_str": "736089280661979136",
+			"name": "친절한 통계학",
+			"screen_name": "consult_stat",
+			"location": "North Carolina, USA",
+			"description": "biostatistics 박사과정. 통계분석 및 프로그래밍 컨설팅. 디엠 또는 hunyong.cho@gmail.com",
+			"url": "https://t.co/rhMCromNlr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rhMCromNlr",
+							"expanded_url": "http://ask.fm/consult_stat",
+							"display_url": "ask.fm/consult_stat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5098,
+			"friends_count": 485,
+			"listed_count": 75,
+			"created_at": "Fri May 27 06:58:55 +0000 2016",
+			"favourites_count": 2143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736090662521561089/ieB0Ee5W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736090662521561089/ieB0Ee5W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736089280661979136/1464332741",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴럴네트워크에 대한 20분짜리 입문 강좌인데 시각적으로 재밌게 설명하고 있습니다. 뉴럴넷을 하려면 왜 행렬이 필요한지도 후반부에 나옵니다.\nhttps://t.co/ELoCYNXmID"
+	},
+	{
+		"created_at": "Wed Jan 15 08:13:07 +0000 2020",
+		"id": 1217341474401947600,
+		"id_str": "1217359039220240384",
+		"full_text": "2년 안에 크롬에서 쿠키 없애겠다고 발표한 구글, 꿍꿍이속 있나? https://t.co/SdjQMtbhcJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SdjQMtbhcJ",
+					"expanded_url": "http://www.boannews.com/media/view.asp?idx=85787",
+					"display_url": "boannews.com/media/view.asp…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176323740,
+			"id_str": "176323740",
+			"name": "보안뉴스",
+			"screen_name": "boannews",
+			"location": "Seoul, Korea",
+			"description": "안전한 세상을 위한 뉴스 - 보안뉴스",
+			"url": "http://t.co/trvvahhtRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/trvvahhtRr",
+							"expanded_url": "http://www.boannews.com",
+							"display_url": "boannews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1804,
+			"friends_count": 54,
+			"listed_count": 89,
+			"created_at": "Mon Aug 09 06:22:28 +0000 2010",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098884272/boannews_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098884272/boannews_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176323740/1541039308",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2년 안에 크롬에서 쿠키 없애겠다고 발표한 구글, 꿍꿍이속 있나? https://t.co/SdjQMtbhcJ"
+	},
+	{
+		"created_at": "Wed Jan 15 08:11:34 +0000 2020",
+		"id": 1217343364862894000,
+		"id_str": "1217358649229660160",
+		"full_text": "UAE정부가 '투톡'이라는 SNS를 쓰는 유저들의 모든 대화와 영상을 감시한다는 보도가 나왔습니다. 만약 사용자가 자발적으로 다운로드한 앱을 통해 감시가 이루어졌다면, 과연 사용자는 감시받기를 '선택'한 것일까요?\nhttps://t.co/7X7fF4NC7f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7X7fF4NC7f",
+					"expanded_url": "https://outstanding.kr/privacy20200115/",
+					"display_url": "outstanding.kr/privacy2020011…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937683713,
+			"id_str": "2937683713",
+			"name": "아웃스탠딩",
+			"screen_name": "outstandcrew",
+			"location": "대한민국 서울",
+			"description": "쉽고 재미있는 IT뉴스, 아웃스탠딩!",
+			"url": "https://t.co/258PFm5gGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/258PFm5gGW",
+							"expanded_url": "http://www.outstanding.kr",
+							"display_url": "outstanding.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47000,
+			"friends_count": 449,
+			"listed_count": 136,
+			"created_at": "Sun Dec 21 02:57:03 +0000 2014",
+			"favourites_count": 1022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546499798245728256/2Q_bJpBZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937683713/1465979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "UAE정부가 '투톡'이라는 SNS를 쓰는 유저들의 모든 대화와 영상을 감시한다는 보도가 나왔습니다. 만약 사용자가 자발적으로 다운로드한 앱을 통해 감시가 이루어졌다면, 과연 사용자는 감시받기를 '선택'한 것일까요?\nhttps://t.co/7X7fF4NC7f"
+	},
+	{
 		"created_at": "Wed Jan 15 07:54:21 +0000 2020",
 		"id": 1217354319412056000,
 		"id_str": "1217354319412056064",
