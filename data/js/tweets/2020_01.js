@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 15:40:44 +0000 2020",
+		"id": 1217461436370256000,
+		"id_str": "1217471686993416199",
+		"full_text": "HAPPY BIRTHDAY #JENNIE 🎉\n✅ 2020.01.16\n\n#BLACKPINK #블랙핑크 #제니 #HAPPYBIRTHDAY #YG https://t.co/fgr6dY4vil",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JENNIE",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "HAPPYBIRTHDAY",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						75,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217428787786182700,
+					"id_str": "1217428787786182659",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EOUtCENUcAMf3YX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOUtCENUcAMf3YX.jpg",
+					"url": "https://t.co/fgr6dY4vil",
+					"display_url": "pic.twitter.com/fgr6dY4vil",
+					"expanded_url": "https://twitter.com/ygent_official/status/1217461436370255873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 88,
+									"y": 366,
+									"h": 245,
+									"w": 245
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 207,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 495,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 495,
+									"h": 332,
+									"w": 332
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217428787786182700,
+					"id_str": "1217428787786182659",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EOUtCENUcAMf3YX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOUtCENUcAMf3YX.jpg",
+					"url": "https://t.co/fgr6dY4vil",
+					"display_url": "pic.twitter.com/fgr6dY4vil",
+					"expanded_url": "https://twitter.com/ygent_official/status/1217461436370255873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 88,
+									"y": 366,
+									"h": 245,
+									"w": 245
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 207,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 495,
+									"h": 332,
+									"w": 332
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 495,
+									"h": 332,
+									"w": 332
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5661933,
+			"friends_count": 42,
+			"listed_count": 7658,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37918,
+		"favorite_count": 60419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAPPY BIRTHDAY #JENNIE 🎉\n✅ 2020.01.16\n\n#BLACKPINK #블랙핑크 #제니 #HAPPYBIRTHDAY #YG https://t.co/fgr6dY4vil"
+	},
+	{
 		"created_at": "Wed Jan 15 15:08:55 +0000 2020",
 		"id": 1217463681098961000,
 		"id_str": "1217463681098960897",
