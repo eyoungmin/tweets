@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 11:59:48 +0000 2020",
+		"id": 1217677349925400600,
+		"id_str": "1217778477748776960",
+		"full_text": "GitHub가 모바일 앱 계획을 발표하고 그동안 iOS 앱을 베타로 제공했는데, 드디어 오늘 안드로이드 버전의 GitHub 앱이 베타로 발표. 코드 리뷰와 변경 통합, 다른 개발자와의 공동 작업을 어디서든 할 수 있게 해준다는게 모바일 앱의 장점. 개발자 분들은 확인해보세요 https://t.co/9w9oar3t0j https://t.co/FQxjT6MpcW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9w9oar3t0j",
+					"expanded_url": "https://github.blog/2020-01-14-the-github-for-android-beta-is-here/",
+					"display_url": "github.blog/2020-01-14-the…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217677348302217200,
+					"id_str": "1217677348302217216",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EOYPGMSX4AAWb2s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOYPGMSX4AAWb2s.jpg",
+					"url": "https://t.co/FQxjT6MpcW",
+					"display_url": "pic.twitter.com/FQxjT6MpcW",
+					"expanded_url": "https://twitter.com/minist/status/1217677349925400577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217677348302217200,
+					"id_str": "1217677348302217216",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EOYPGMSX4AAWb2s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOYPGMSX4AAWb2s.jpg",
+					"url": "https://t.co/FQxjT6MpcW",
+					"display_url": "pic.twitter.com/FQxjT6MpcW",
+					"expanded_url": "https://twitter.com/minist/status/1217677349925400577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 538,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "스타트업 WizeIoT / 전 블루홀 / 전 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64913,
+			"friends_count": 716,
+			"listed_count": 933,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "GitHub가 모바일 앱 계획을 발표하고 그동안 iOS 앱을 베타로 제공했는데, 드디어 오늘 안드로이드 버전의 GitHub 앱이 베타로 발표. 코드 리뷰와 변경 통합, 다른 개발자와의 공동 작업을 어디서든 할 수 있게 해준다는게 모바일 앱의 장점. 개발자 분들은 확인해보세요 https://t.co/9w9oar3t0j https://t.co/FQxjT6MpcW"
+	},
+	{
 		"created_at": "Thu Jan 16 10:51:45 +0000 2020",
 		"id": 1217761352128680000,
 		"id_str": "1217761352128679937",
