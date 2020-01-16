@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 00:40:38 +0000 2020",
+		"id": 1217600999105286100,
+		"id_str": "1217607556237086720",
+		"full_text": "[새소년x선우정아]\n▪️ 일시: 2020. 02. 13. (목) 19:30\n▪️ 장소: 광명시민회관 대공연장\n▪️ 출연: 새소년, 선우정아\n▪️ 관람시간: 100분\n⠀\n▪️ 티켓: R석 40,000원 S석 30,000원\n▪️ 예매: 광명문화재단 https://t.co/TiAEnKPRSl (회원 가입시 20% 할인)\n▪️ 티켓오픈: 01. 16. (목) 14:00 https://t.co/YJB0PQ1Vey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TiAEnKPRSl",
+					"expanded_url": "http://www.gmcf.or.kr",
+					"display_url": "gmcf.or.kr",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217600985134092300,
+					"id_str": "1217600985134092289",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXJpRUVUAE116o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXJpRUVUAE116o.jpg",
+					"url": "https://t.co/YJB0PQ1Vey",
+					"display_url": "pic.twitter.com/YJB0PQ1Vey",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1217600999105286144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 137,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 238,
+									"y": 170,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 414,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 718,
+									"y": 514,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 414,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 718,
+									"y": 514,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 236,
+									"y": 242,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 420,
+									"y": 301,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217600985134092300,
+					"id_str": "1217600985134092289",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXJpRUVUAE116o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXJpRUVUAE116o.jpg",
+					"url": "https://t.co/YJB0PQ1Vey",
+					"display_url": "pic.twitter.com/YJB0PQ1Vey",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1217600999105286144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 137,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 238,
+									"y": 170,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 414,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 718,
+									"y": 514,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 404,
+									"y": 414,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 718,
+									"y": 514,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 236,
+									"y": 242,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 420,
+									"y": 301,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1217600985146593300,
+					"id_str": "1217600985146593283",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXJpRXUEAM3l5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXJpRXUEAM3l5D.jpg",
+					"url": "https://t.co/YJB0PQ1Vey",
+					"display_url": "pic.twitter.com/YJB0PQ1Vey",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1217600999105286144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 678,
+									"y": 352,
+									"h": 430,
+									"w": 430
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 225,
+									"y": 116,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 678,
+									"y": 352,
+									"h": 430,
+									"w": 430
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 397,
+									"y": 206,
+									"h": 252,
+									"w": 252
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7348,
+			"friends_count": 524,
+			"listed_count": 43,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[새소년x선우정아]\n▪️ 일시: 2020. 02. 13. (목) 19:30\n▪️ 장소: 광명시민회관 대공연장\n▪️ 출연: 새소년, 선우정아\n▪️ 관람시간: 100분\n⠀\n▪️ 티켓: R석 40,000원 S석 30,000원\n▪️ 예매: 광명문화재단 https://t.co/TiAEnKPRSl (회원 가입시 20% 할인)\n▪️ 티켓오픈: 01. 16. (목) 14:00 https://t.co/YJB0PQ1Vey"
+	},
+	{
+		"created_at": "Thu Jan 16 00:13:24 +0000 2020",
+		"id": 1217484073947414500,
+		"id_str": "1217600703868198912",
+		"full_text": "เตรียมสัมผัสกับความสดใสและฟังเพลงไพเราะใน #TrollsWorldTour \n\nเข้าฉาย 2 เมษายนนี้ที่เมเจอร์ ซีนีเพล็กซ์\n#Trolls2 #Zimzalabim #RedVelvet https://t.co/GHRsmzIyhF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TrollsWorldTour",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"text": "Trolls2",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "Zimzalabim",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217483991411937300,
+					"id_str": "1217483991411937280",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217483991411937280/pu/img/omeFaV6vZbe4L2su.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217483991411937280/pu/img/omeFaV6vZbe4L2su.jpg",
+					"url": "https://t.co/GHRsmzIyhF",
+					"display_url": "pic.twitter.com/GHRsmzIyhF",
+					"expanded_url": "https://twitter.com/MajorGroup/status/1217484073947414529/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217483991411937300,
+					"id_str": "1217483991411937280",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217483991411937280/pu/img/omeFaV6vZbe4L2su.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217483991411937280/pu/img/omeFaV6vZbe4L2su.jpg",
+					"url": "https://t.co/GHRsmzIyhF",
+					"display_url": "pic.twitter.com/GHRsmzIyhF",
+					"expanded_url": "https://twitter.com/MajorGroup/status/1217484073947414529/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 129130,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217483991411937280/pu/vid/640x360/MqzSJh6MzH9d_dF5.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217483991411937280/pu/vid/480x270/OuRuPszfiSSzhzr0.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217483991411937280/pu/vid/960x540/btaXqaldrje-bCP3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1217483991411937280/pu/pl/QdfoBv9IUXcQ7QnQ.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 70401175,
+			"id_str": "70401175",
+			"name": "Major Group",
+			"screen_name": "MajorGroup",
+			"location": "Thailand",
+			"description": "SHARING THE WORLD'S BEST ENTERTAINMENT DREAMS ร่วมสร้างฝันบันเทิงระดับโลก เช็ครอบ ซื้อตั๋ว คลิกเลย",
+			"url": "https://t.co/T0MiHztboK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T0MiHztboK",
+							"expanded_url": "http://bit.ly/MajorSuperApp",
+							"display_url": "bit.ly/MajorSuperApp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2579102,
+			"friends_count": 130,
+			"listed_count": 1211,
+			"created_at": "Mon Aug 31 14:11:05 +0000 2009",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212700153066311686/xXqwRfPn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212700153066311686/xXqwRfPn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/70401175/1578537782",
+			"profile_link_color": "B6533F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6850,
+		"favorite_count": 5758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "เตรียมสัมผัสกับความสดใสและฟังเพลงไพเราะใน #TrollsWorldTour \n\nเข้าฉาย 2 เมษายนนี้ที่เมเจอร์ ซีนีเพล็กซ์\n#Trolls2 #Zimzalabim #RedVelvet https://t.co/GHRsmzIyhF"
+	},
+	{
 		"created_at": "Thu Jan 16 00:01:07 +0000 2020",
 		"id": 1217588194826322000,
 		"id_str": "1217597611789578240",
