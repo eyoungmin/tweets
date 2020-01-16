@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 04:39:44 +0000 2020",
+		"id": 1217642942514380800,
+		"id_str": "1217667730700218368",
+		"full_text": "[V ORIGINAL] 제로의 견생 최초 비행기 탑승의 순간이 바로 어제 같은데‼️🐶 벌써 오늘이 제로&amp;탱구 남매 LA여행의 마지막날이래요😮🤭 날씨마저 화창하게 반겨주는 이들 여행의 마지막 페이지도 함께 해줄거죠⁉️💖\n\n▶ https://t.co/OGDyy3D8lS\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OGDyy3D8lS",
+					"expanded_url": "https://www.vlive.tv/video/169851/playlist/157709",
+					"display_url": "vlive.tv/video/169851/p…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3493632,
+			"friends_count": 169,
+			"listed_count": 1921,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 299,
+		"favorite_count": 839,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 제로의 견생 최초 비행기 탑승의 순간이 바로 어제 같은데‼️🐶 벌써 오늘이 제로&amp;탱구 남매 LA여행의 마지막날이래요😮🤭 날씨마저 화창하게 반겨주는 이들 여행의 마지막 페이지도 함께 해줄거죠⁉️💖\n\n▶ https://t.co/OGDyy3D8lS\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Thu Jan 16 04:25:40 +0000 2020",
+		"id": 1217642826307002400,
+		"id_str": "1217664191063920640",
+		"full_text": "[이달의소녀탐구 #558]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/NxkpSy3fzQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217642512103264300,
+					"id_str": "1217642512103264261",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217642512103264261/pu/img/F0RRxwWhEwtQtKXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217642512103264261/pu/img/F0RRxwWhEwtQtKXX.jpg",
+					"url": "https://t.co/NxkpSy3fzQ",
+					"display_url": "pic.twitter.com/NxkpSy3fzQ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1217642826307002368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217642512103264300,
+					"id_str": "1217642512103264261",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217642512103264261/pu/img/F0RRxwWhEwtQtKXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217642512103264261/pu/img/F0RRxwWhEwtQtKXX.jpg",
+					"url": "https://t.co/NxkpSy3fzQ",
+					"display_url": "pic.twitter.com/NxkpSy3fzQ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1217642826307002368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58559,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1217642512103264261/pu/pl/pR9t6-BlPGOlEpkl.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217642512103264261/pu/vid/1280x720/vgFuamR5QHQxW9uS.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217642512103264261/pu/vid/640x360/bA3wTQyB8N96GX5r.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217642512103264261/pu/vid/480x270/42xnG_mKv7Ybv98Z.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390432,
+			"friends_count": 0,
+			"listed_count": 5596,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3830,
+		"favorite_count": 10796,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #558]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/NxkpSy3fzQ"
+	},
+	{
 		"created_at": "Thu Jan 16 03:33:35 +0000 2020",
 		"id": 1216994405896188000,
 		"id_str": "1217651082932867072",
