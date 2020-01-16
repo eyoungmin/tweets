@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 01:40:38 +0000 2020",
+		"id": 1217620166764200000,
+		"id_str": "1217622655484026880",
+		"full_text": "🏆태연 정규 2집 리패키지 ‘Purpose’ 아이튠즈 톱 앨범 차트 24개 지역 1위!\n🏆韓 여자 솔로 앨범 사상 최다 1위 또 경신!\n🏆中 QQ뮤직, 쿠거우뮤직, 쿠워뮤직 디지털 앨범 판매 차트 1위!\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #Dear_Me #태연이가들려주고싶은말 https://t.co/1uLaCJqX30",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "내게들려주고싶은말",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "Dear_Me",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "태연이가들려주고싶은말",
+					"indices": [
+						180,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217620156609810400,
+					"id_str": "1217620156609810433",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXbFMoVUAEKx1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXbFMoVUAEKx1Y.jpg",
+					"url": "https://t.co/1uLaCJqX30",
+					"display_url": "pic.twitter.com/1uLaCJqX30",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1217620166764199936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 142,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 720,
+									"y": 314,
+									"h": 219,
+									"w": 219
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 576,
+									"y": 251,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 720,
+									"y": 314,
+									"h": 219,
+									"w": 219
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217620156609810400,
+					"id_str": "1217620156609810433",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXbFMoVUAEKx1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXbFMoVUAEKx1Y.jpg",
+					"url": "https://t.co/1uLaCJqX30",
+					"display_url": "pic.twitter.com/1uLaCJqX30",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1217620166764199936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 142,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 720,
+									"y": 314,
+									"h": 219,
+									"w": 219
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 576,
+									"y": 251,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 720,
+									"y": 314,
+									"h": 219,
+									"w": 219
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542093,
+			"friends_count": 4,
+			"listed_count": 5962,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1680,
+		"favorite_count": 3216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏆태연 정규 2집 리패키지 ‘Purpose’ 아이튠즈 톱 앨범 차트 24개 지역 1위!\n🏆韓 여자 솔로 앨범 사상 최다 1위 또 경신!\n🏆中 QQ뮤직, 쿠거우뮤직, 쿠워뮤직 디지털 앨범 판매 차트 1위!\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #Dear_Me #태연이가들려주고싶은말 https://t.co/1uLaCJqX30"
+	},
+	{
 		"created_at": "Thu Jan 16 00:40:38 +0000 2020",
 		"id": 1217600999105286100,
 		"id_str": "1217607556237086720",
