@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 12:09:04 +0000 2020",
+		"id": 1217780809173733400,
+		"id_str": "1217780809173733381",
+		"full_text": "남의 일 같지가 않습니다\nhttps://t.co/UgNCTqR958\n#닷페이스 #Dotface #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "닷페이스",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "Dotface",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						53,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UgNCTqR958",
+					"expanded_url": "https://youtu.be/7miMxKvZ5DA",
+					"display_url": "youtu.be/7miMxKvZ5DA",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남의 일 같지가 않습니다\nhttps://t.co/UgNCTqR958\n#닷페이스 #Dotface #minfav"
+	},
+	{
+		"created_at": "Thu Jan 16 12:02:58 +0000 2020",
+		"id": 1217637913699045400,
+		"id_str": "1217779272028262401",
+		"full_text": "감정 형용사를 사용할때 더 구체적인 표현을 알고 있으면 도움이 됩니다. \n\n특히 한국어 모국어 사용자는 자신의 감정을 구체적으로 표현하는 것에 익숙치 않은 편이라 '답답하다','짜증난다' 처럼 의미 범위가 지나치게 넓은 말을 주로 사용하기 때문에 영어로 말할때 어려움을 겪는 경우가 많습니다. https://t.co/4vilRhTWjV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217637901892124700,
+					"id_str": "1217637901892124672",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXrOG9VAAAo8im.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXrOG9VAAAo8im.jpg",
+					"url": "https://t.co/4vilRhTWjV",
+					"display_url": "pic.twitter.com/4vilRhTWjV",
+					"expanded_url": "https://twitter.com/network_english/status/1217637913699045376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1332,
+							"h": 1332,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 563,
+									"y": 1026,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 629,
+									"y": 1035,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 1139,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 699,
+									"y": 1149,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 319,
+									"y": 581,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 356,
+									"y": 586,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 1139,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 699,
+									"y": 1149,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217637901892124700,
+					"id_str": "1217637901892124672",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXrOG9VAAAo8im.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXrOG9VAAAo8im.jpg",
+					"url": "https://t.co/4vilRhTWjV",
+					"display_url": "pic.twitter.com/4vilRhTWjV",
+					"expanded_url": "https://twitter.com/network_english/status/1217637913699045376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1332,
+							"h": 1332,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 563,
+									"y": 1026,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 629,
+									"y": 1035,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 1139,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 699,
+									"y": 1149,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 319,
+									"y": 581,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 356,
+									"y": 586,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 1139,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 699,
+									"y": 1149,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 920193565828902900,
+			"id_str": "920193565828902913",
+			"name": "English Network",
+			"screen_name": "network_english",
+			"location": "",
+			"description": "객관식 답 찾는 시험이 아닌 '언어' 로서의 영어. 문법의 이해, Native likeness, Descriptive grammar 를 가르칩니다. 수업 문의는 DM, 010-8893-4416, Telegram @VincentDkim\r\rI'm a feminist, now what?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2062,
+			"friends_count": 0,
+			"listed_count": 11,
+			"created_at": "Tue Oct 17 07:43:37 +0000 2017",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964009467879743488/fKoHyVNq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964009467879743488/fKoHyVNq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/920193565828902913/1538459027",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 990,
+		"favorite_count": 982,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "감정 형용사를 사용할때 더 구체적인 표현을 알고 있으면 도움이 됩니다. \n\n특히 한국어 모국어 사용자는 자신의 감정을 구체적으로 표현하는 것에 익숙치 않은 편이라 '답답하다','짜증난다' 처럼 의미 범위가 지나치게 넓은 말을 주로 사용하기 때문에 영어로 말할때 어려움을 겪는 경우가 많습니다. https://t.co/4vilRhTWjV"
+	},
+	{
 		"created_at": "Thu Jan 16 11:59:48 +0000 2020",
 		"id": 1217677349925400600,
 		"id_str": "1217778477748776960",
