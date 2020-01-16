@@ -1,6 +1,767 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 00:01:07 +0000 2020",
+		"id": 1217588194826322000,
+		"id_str": "1217597611789578240",
+		"full_text": "더불어민주당 이해찬 대표님, 문제는 인용이 아니라 대표님의 인식입니다. @lhc21net @TheMinjoo_Kr\n\nhttps://t.co/mkdJMbF2B4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lhc21net",
+					"name": "이해찬 의원실",
+					"id": 529298888,
+					"id_str": "529298888",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "TheMinjoo_Kr",
+					"name": "더불어민주당",
+					"id": 68585222,
+					"id_str": "68585222",
+					"indices": [
+						50,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mkdJMbF2B4",
+					"expanded_url": "https://docs.google.com/document/d/1a3POBlDh80x5jbpY7RfDC-t1QTQHIUuDwiESiVuSwLA/edit?usp=sharing",
+					"display_url": "docs.google.com/document/d/1a3…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 795883266167304200,
+			"id_str": "795883266167304192",
+			"name": "생각많은둘째언니",
+			"screen_name": "Serious_Sister2",
+			"location": "대한민국 서울",
+			"description": "도대체 이해 안 가는 세상을 그래도 이해해보고자 노력하는 둘째언니. 정의당 미래정치특별위원회 위원장이자 한 명의 평범한 시민.",
+			"url": "https://t.co/zXPYYsu6DR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zXPYYsu6DR",
+							"expanded_url": "https://www.youtube.com/channel/UCGdB-lgTS2sOhJIxgP550qw",
+							"display_url": "youtube.com/channel/UCGdB-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14397,
+			"friends_count": 3487,
+			"listed_count": 45,
+			"created_at": "Tue Nov 08 06:58:52 +0000 2016",
+			"favourites_count": 3058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884395832123850752/FQEbfE8D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/795883266167304192/1478589358",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더불어민주당 이해찬 대표님, 문제는 인용이 아니라 대표님의 인식입니다. @lhc21net @TheMinjoo_Kr\n\nhttps://t.co/mkdJMbF2B4"
+	},
+	{
+		"created_at": "Wed Jan 15 23:58:55 +0000 2020",
+		"id": 1217328210007838700,
+		"id_str": "1217597060158906370",
+		"full_text": "Voting for triple j’s #Hottest100 is closing soon! Billie Eilish’s ‘bad guy’ is one of our favourite tracks of 2019. Make sure to vote now! https://t.co/n0QAPAyULV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hottest100",
+					"indices": [
+						22,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217328081087561700,
+					"id_str": "1217328081087561733",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217328081087561733/pu/img/XVoDKMYPWZvvFQhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217328081087561733/pu/img/XVoDKMYPWZvvFQhG.jpg",
+					"url": "https://t.co/n0QAPAyULV",
+					"display_url": "pic.twitter.com/n0QAPAyULV",
+					"expanded_url": "https://twitter.com/umusicAU/status/1217328210007838720/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217328081087561700,
+					"id_str": "1217328081087561733",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217328081087561733/pu/img/XVoDKMYPWZvvFQhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217328081087561733/pu/img/XVoDKMYPWZvvFQhG.jpg",
+					"url": "https://t.co/n0QAPAyULV",
+					"display_url": "pic.twitter.com/n0QAPAyULV",
+					"expanded_url": "https://twitter.com/umusicAU/status/1217328210007838720/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20020,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217328081087561733/pu/vid/480x480/f_3EN5qHc_fawQwn.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217328081087561733/pu/vid/320x320/C_Pf3ZLeK3hYIEhK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1217328081087561733/pu/pl/HQry8vSG46PE--1D.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217328081087561733/pu/vid/720x720/WAE-g64rUJZmTVbY.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 609059327,
+			"id_str": "609059327",
+			"name": "Universal Music Australia",
+			"screen_name": "umusicAU",
+			"location": "Australia",
+			"description": "The official Twitter for Universal Music Australia",
+			"url": "http://t.co/x8SqiRQTQA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/x8SqiRQTQA",
+							"expanded_url": "http://www.facebook.com/umusicAU",
+							"display_url": "facebook.com/umusicAU",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85180,
+			"friends_count": 894,
+			"listed_count": 282,
+			"created_at": "Fri Jun 15 12:39:38 +0000 2012",
+			"favourites_count": 8508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D9D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813870830060830720/j4XxRRy1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813870830060830720/j4XxRRy1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/609059327/1553637534",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 7473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Voting for triple j’s #Hottest100 is closing soon! Billie Eilish’s ‘bad guy’ is one of our favourite tracks of 2019. Make sure to vote now! https://t.co/n0QAPAyULV"
+	},
+	{
+		"created_at": "Wed Jan 15 23:58:34 +0000 2020",
+		"id": 1217552519800311800,
+		"id_str": "1217596973127098368",
+		"full_text": "Watch Billie perform at the 2020 #BRITs on 2/18. @BRITs https://t.co/qkWflIvbRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BRITs",
+					"indices": [
+						33,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BRITs",
+					"name": "BRIT Awards",
+					"id": 88442109,
+					"id_str": "88442109",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217552501467054000,
+					"id_str": "1217552501467054080",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EOWdjJlVAAADXmQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOWdjJlVAAADXmQ.jpg",
+					"url": "https://t.co/qkWflIvbRs",
+					"display_url": "pic.twitter.com/qkWflIvbRs",
+					"expanded_url": "https://twitter.com/billieeilish/status/1217552519800311808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 170,
+									"y": 462,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 564,
+									"y": 1532,
+									"h": 81,
+									"w": 81
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 300,
+									"y": 816,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 513,
+									"y": 1393,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217552501467054000,
+					"id_str": "1217552501467054080",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EOWdjJlVAAADXmQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOWdjJlVAAADXmQ.jpg",
+					"url": "https://t.co/qkWflIvbRs",
+					"display_url": "pic.twitter.com/qkWflIvbRs",
+					"expanded_url": "https://twitter.com/billieeilish/status/1217552519800311808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 170,
+									"y": 462,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 564,
+									"y": 1532,
+									"h": 81,
+									"w": 81
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 300,
+									"y": 816,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 513,
+									"y": 1393,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3350381,
+			"friends_count": 0,
+			"listed_count": 2735,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1388,
+		"favorite_count": 15396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch Billie perform at the 2020 #BRITs on 2/18. @BRITs https://t.co/qkWflIvbRs"
+	},
+	{
+		"created_at": "Wed Jan 15 23:58:17 +0000 2020",
+		"id": 1217579201986908200,
+		"id_str": "1217596899919683584",
+		"full_text": "[기사] #방탄소년단, 'MAP OF THE SOUL : 7' 선주문 342만장 돌파…사상 최다 기록\nhttps://t.co/XQQLkQVXI8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방탄소년단",
+					"indices": [
+						5,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XQQLkQVXI8",
+					"expanded_url": "https://n.news.naver.com/entertain/article/311/0001100262",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12303051,
+			"friends_count": 26,
+			"listed_count": 14203,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28736,
+		"favorite_count": 81551,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[기사] #방탄소년단, 'MAP OF THE SOUL : 7' 선주문 342만장 돌파…사상 최다 기록\nhttps://t.co/XQQLkQVXI8"
+	},
+	{
 		"created_at": "Wed Jan 15 18:29:06 +0000 2020",
 		"id": 1217514059433640000,
 		"id_str": "1217514059433639936",
