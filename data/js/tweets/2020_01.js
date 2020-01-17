@@ -1,6 +1,1707 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 23:37:06 +0000 2020",
+		"id": 1217953955356930000,
+		"id_str": "1217953955356930048",
+		"full_text": "파이어폭스처럼 탭마다 음소거 기능을 넣어줬으면 좋겠다. https://t.co/HobdtIW4tx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HobdtIW4tx",
+					"expanded_url": "https://twitter.com/googlechrome/status/1217886144152657920",
+					"display_url": "twitter.com/googlechrome/s…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 883,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217886144152658000,
+		"quoted_status_id_str": "1217886144152657920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HobdtIW4tx",
+			"expanded": "https://twitter.com/googlechrome/status/1217886144152657920",
+			"display": "twitter.com/googlechrome/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 16 19:07:38 +0000 2020",
+			"id": 1217886144152658000,
+			"id_str": "1217886144152657920",
+			"full_text": "No more keeping tabs on where that music is coming from. With the new media hub in #Chrome, you can manage audio and video through your browser with ease. See how it works: https://t.co/7pjwFE1jLX https://t.co/PUv8CPsxzF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Chrome",
+						"indices": [
+							83,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7pjwFE1jLX",
+						"expanded_url": "https://goo.gle/3aeA9O9",
+						"display_url": "goo.gle/3aeA9O9",
+						"indices": [
+							173,
+							196
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1217886115245576200,
+						"id_str": "1217886115245576193",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/media/EObM_bIX4AEiZ6N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EObM_bIX4AEiZ6N.jpg",
+						"url": "https://t.co/PUv8CPsxzF",
+						"display_url": "pic.twitter.com/PUv8CPsxzF",
+						"expanded_url": "https://twitter.com/googlechrome/status/1217886144152657920/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217886115245576200,
+						"id_str": "1217886115245576193",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/media/EObM_bIX4AEiZ6N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EObM_bIX4AEiZ6N.jpg",
+						"url": "https://t.co/PUv8CPsxzF",
+						"display_url": "pic.twitter.com/PUv8CPsxzF",
+						"expanded_url": "https://twitter.com/googlechrome/status/1217886144152657920/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 16200,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1217886115245576193/pu/pl/9-vwcEhaMsbUwVLo.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1217886115245576193/pu/vid/320x320/QqxZr0cqAXuBKHnN.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1217886115245576193/pu/vid/720x720/B_Qk5BLMUZ1Ot2Ch.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1217886115245576193/pu/vid/480x480/64-5SgfUj6UWBCNI.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56505125,
+				"id_str": "56505125",
+				"name": "Chrome",
+				"screen_name": "googlechrome",
+				"location": "Mountain View, California",
+				"description": "The official Twitter account for the Google Chrome browser.",
+				"url": "http://t.co/oQ8wOFCb4x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/oQ8wOFCb4x",
+								"expanded_url": "http://google.com/chrome",
+								"display_url": "google.com/chrome",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6564059,
+				"friends_count": 104,
+				"listed_count": 17423,
+				"created_at": "Mon Jul 13 21:51:56 +0000 2009",
+				"favourites_count": 227,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 70066,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1037025533182193664/aCWlGSZF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037025533182193664/aCWlGSZF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56505125/1567177232",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 210,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파이어폭스처럼 탭마다 음소거 기능을 넣어줬으면 좋겠다. https://t.co/HobdtIW4tx"
+	},
+	{
+		"created_at": "Thu Jan 16 23:36:45 +0000 2020",
+		"id": 1217886144152658000,
+		"id_str": "1217953869201735680",
+		"full_text": "No more keeping tabs on where that music is coming from. With the new media hub in #Chrome, you can manage audio and video through your browser with ease. See how it works: https://t.co/7pjwFE1jLX https://t.co/PUv8CPsxzF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chrome",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7pjwFE1jLX",
+					"expanded_url": "https://goo.gle/3aeA9O9",
+					"display_url": "goo.gle/3aeA9O9",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217886115245576200,
+					"id_str": "1217886115245576193",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EObM_bIX4AEiZ6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EObM_bIX4AEiZ6N.jpg",
+					"url": "https://t.co/PUv8CPsxzF",
+					"display_url": "pic.twitter.com/PUv8CPsxzF",
+					"expanded_url": "https://twitter.com/googlechrome/status/1217886144152657920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217886115245576200,
+					"id_str": "1217886115245576193",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EObM_bIX4AEiZ6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EObM_bIX4AEiZ6N.jpg",
+					"url": "https://t.co/PUv8CPsxzF",
+					"display_url": "pic.twitter.com/PUv8CPsxzF",
+					"expanded_url": "https://twitter.com/googlechrome/status/1217886144152657920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 16200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1217886115245576193/pu/pl/9-vwcEhaMsbUwVLo.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217886115245576193/pu/vid/320x320/QqxZr0cqAXuBKHnN.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217886115245576193/pu/vid/720x720/B_Qk5BLMUZ1Ot2Ch.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217886115245576193/pu/vid/480x480/64-5SgfUj6UWBCNI.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56505125,
+			"id_str": "56505125",
+			"name": "Chrome",
+			"screen_name": "googlechrome",
+			"location": "Mountain View, California",
+			"description": "The official Twitter account for the Google Chrome browser.",
+			"url": "http://t.co/oQ8wOFCb4x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oQ8wOFCb4x",
+							"expanded_url": "http://google.com/chrome",
+							"display_url": "google.com/chrome",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6564059,
+			"friends_count": 104,
+			"listed_count": 17423,
+			"created_at": "Mon Jul 13 21:51:56 +0000 2009",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 70066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037025533182193664/aCWlGSZF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037025533182193664/aCWlGSZF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56505125/1567177232",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No more keeping tabs on where that music is coming from. With the new media hub in #Chrome, you can manage audio and video through your browser with ease. See how it works: https://t.co/7pjwFE1jLX https://t.co/PUv8CPsxzF"
+	},
+	{
+		"created_at": "Thu Jan 16 23:31:48 +0000 2020",
+		"id": 1217724098282807300,
+		"id_str": "1217952623686381568",
+		"full_text": "Gary Greenberg\nhttps://t.co/hZqzOAbG6e\n세계곳곳의 모래를 수백배 확대해 촬영한 것. 모래알틈 예쁜돌과 생명체의 흔적을 장소이름과 함께 읽는데 왜 낭만적이라고 느끼게 됐는지 어리둥절\n과학자로 이력이 화려한데다 직접 현미경들을 개발해 수십개 특허도 있다. 개발해서 찍고 설명은 시같고. https://t.co/CPJfYea3K4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hZqzOAbG6e",
+					"expanded_url": "http://www.sandgrains.com",
+					"display_url": "sandgrains.com",
+					"indices": [
+						15,
+						38
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217724091450265600,
+					"id_str": "1217724091450265600",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EOY5nAFUEAApKEx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOY5nAFUEAApKEx.jpg",
+					"url": "https://t.co/CPJfYea3K4",
+					"display_url": "pic.twitter.com/CPJfYea3K4",
+					"expanded_url": "https://twitter.com/cornerjn/status/1217724098282807297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 284,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 284,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 284,
+							"h": 414,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217724091450265600,
+					"id_str": "1217724091450265600",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EOY5nAFUEAApKEx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOY5nAFUEAApKEx.jpg",
+					"url": "https://t.co/CPJfYea3K4",
+					"display_url": "pic.twitter.com/CPJfYea3K4",
+					"expanded_url": "https://twitter.com/cornerjn/status/1217724098282807297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 284,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 284,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 284,
+							"h": 414,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1217724091462897700,
+					"id_str": "1217724091462897664",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EOY5nAIU0AAy2Vu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOY5nAIU0AAy2Vu.jpg",
+					"url": "https://t.co/CPJfYea3K4",
+					"display_url": "pic.twitter.com/CPJfYea3K4",
+					"expanded_url": "https://twitter.com/cornerjn/status/1217724098282807297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 520,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 520,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1217724091446132700,
+					"id_str": "1217724091446132736",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EOY5nAEVAAA65Lh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOY5nAEVAAA65Lh.jpg",
+					"url": "https://t.co/CPJfYea3K4",
+					"display_url": "pic.twitter.com/CPJfYea3K4",
+					"expanded_url": "https://twitter.com/cornerjn/status/1217724098282807297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 459,
+							"h": 535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 535,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 459,
+							"h": 535,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1217724091454476300,
+					"id_str": "1217724091454476288",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EOY5nAGUUAAOe9f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOY5nAGUUAAOe9f.jpg",
+					"url": "https://t.co/CPJfYea3K4",
+					"display_url": "pic.twitter.com/CPJfYea3K4",
+					"expanded_url": "https://twitter.com/cornerjn/status/1217724098282807297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 405,
+							"h": 284,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 405,
+							"h": 284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 405,
+							"h": 284,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 869519868,
+			"id_str": "869519868",
+			"name": "지 현",
+			"screen_name": "cornerjn",
+			"location": "So do I",
+			"description": "。 。 ᆞ• °ᆞ. . 。☆° ᆞ. * °ᆞ• *☆. ᆞ°⭐️ᆞ°",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28318,
+			"friends_count": 103,
+			"listed_count": 273,
+			"created_at": "Tue Oct 09 09:07:39 +0000 2012",
+			"favourites_count": 10381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875569768614346758/JyL6MgAe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875569768614346758/JyL6MgAe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/869519868/1495903042",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1594,
+		"favorite_count": 1360,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Gary Greenberg\nhttps://t.co/hZqzOAbG6e\n세계곳곳의 모래를 수백배 확대해 촬영한 것. 모래알틈 예쁜돌과 생명체의 흔적을 장소이름과 함께 읽는데 왜 낭만적이라고 느끼게 됐는지 어리둥절\n과학자로 이력이 화려한데다 직접 현미경들을 개발해 수십개 특허도 있다. 개발해서 찍고 설명은 시같고. https://t.co/CPJfYea3K4"
+	},
+	{
+		"created_at": "Thu Jan 16 23:29:01 +0000 2020",
+		"id": 1217951920800682000,
+		"id_str": "1217951920800681986",
+		"full_text": "“젠더란 무한하게 다양하며, 스펙트럼으로 존재한다”\nhttps://t.co/c9yc24eOoH\n#젠더 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "젠더",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c9yc24eOoH",
+					"expanded_url": "http://www.hani.co.kr/arti/culture/book/924734.html",
+					"display_url": "hani.co.kr/arti/culture/b…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 883,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“젠더란 무한하게 다양하며, 스펙트럼으로 존재한다”\nhttps://t.co/c9yc24eOoH\n#젠더 #minfav"
+	},
+	{
+		"created_at": "Thu Jan 16 23:21:28 +0000 2020",
+		"id": 1217700477795651600,
+		"id_str": "1217950020747399169",
+		"full_text": "오늘부터 한 달 동안 마이 프렌치 필름 페스티벌 사이트에서 국내 수입되지 않은 프랑스 영화들을 한글 자막으로 볼 수 있어요. 간단한 회원가입만 하면 되고요, 무료입니다. https://t.co/YiMwnHEmgH https://t.co/5KGIlSnr48",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YiMwnHEmgH",
+					"expanded_url": "https://www.myfrenchfilmfestival.com/en/",
+					"display_url": "myfrenchfilmfestival.com/en/",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217700439518351400,
+					"id_str": "1217700439518351361",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EOYkGRxUEAEmmJV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOYkGRxUEAEmmJV.jpg",
+					"url": "https://t.co/5KGIlSnr48",
+					"display_url": "pic.twitter.com/5KGIlSnr48",
+					"expanded_url": "https://twitter.com/dktpfm/status/1217700477795651584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217700439518351400,
+					"id_str": "1217700439518351361",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EOYkGRxUEAEmmJV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOYkGRxUEAEmmJV.jpg",
+					"url": "https://t.co/5KGIlSnr48",
+					"display_url": "pic.twitter.com/5KGIlSnr48",
+					"expanded_url": "https://twitter.com/dktpfm/status/1217700477795651584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1878230552,
+			"id_str": "1878230552",
+			"name": "아세르",
+			"screen_name": "dktpfm",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/eLAKVSOGyy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eLAKVSOGyy",
+							"expanded_url": "http://letterboxd.com/hacerrr/",
+							"display_url": "letterboxd.com/hacerrr/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016,
+			"friends_count": 77,
+			"listed_count": 13,
+			"created_at": "Wed Sep 18 05:55:03 +0000 2013",
+			"favourites_count": 2239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196065886517415937/UQL2TNDE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196065886517415937/UQL2TNDE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1878230552/1571314009",
+			"profile_link_color": "399BF0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5147,
+		"favorite_count": 3954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘부터 한 달 동안 마이 프렌치 필름 페스티벌 사이트에서 국내 수입되지 않은 프랑스 영화들을 한글 자막으로 볼 수 있어요. 간단한 회원가입만 하면 되고요, 무료입니다. https://t.co/YiMwnHEmgH https://t.co/5KGIlSnr48"
+	},
+	{
+		"created_at": "Thu Jan 16 23:19:07 +0000 2020",
+		"id": 1217797864035770400,
+		"id_str": "1217949430919254016",
+		"full_text": "이 점이 참 재미있고도 씁쓸한 지점이다. \n여성이 남성을 볼 때 “종업원에게 어찌 대하는지”를 보라 한 이유는 남성이 전통적 강자고 약자를 어찌 대하는지를 보라는 거였는데, 그게 남성이 여성을 보는 기준이 되면 여성은 약자라서 약자로 하여금 상냥한 태도를 요구하는 강자의 강요가 된다. https://t.co/VX7DzbFXdS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VX7DzbFXdS",
+					"expanded_url": "https://twitter.com/karljung2085/status/1217693241924976640",
+					"display_url": "twitter.com/karljung2085/s…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217696263,
+			"id_str": "217696263",
+			"name": "Mio",
+			"screen_name": "affective_neuro",
+			"location": "in my old book",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2713,
+			"friends_count": 2383,
+			"listed_count": 59,
+			"created_at": "Sat Nov 20 07:30:54 +0000 2010",
+			"favourites_count": 2776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 156270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201153122309046272/c68seWdi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201153122309046272/c68seWdi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217696263/1510470258",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217693241924976600,
+		"quoted_status_id_str": "1217693241924976640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VX7DzbFXdS",
+			"expanded": "https://twitter.com/karljung2085/status/1217693241924976640",
+			"display": "twitter.com/karljung2085/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 16 06:21:07 +0000 2020",
+			"id": 1217693241924976600,
+			"id_str": "1217693241924976640",
+			"full_text": "솔직히 저 레토릭도 여자들이 쓰던 거 베꼈다. 여자들은 “식당 종업원에게 매너 있게 대하는 남자를 만나라”라고 했거든",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1173797942,
+				"id_str": "1173797942",
+				"name": "karljung",
+				"screen_name": "karljung2085",
+				"location": "모로가도 모르도르",
+				"description": "신테의 단곡",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6273,
+				"friends_count": 99,
+				"listed_count": 64,
+				"created_at": "Wed Feb 13 03:41:25 +0000 2013",
+				"favourites_count": 24623,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54821,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191741508908568576/Of1Iwtd9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191741508908568576/Of1Iwtd9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1173797942/1449840027",
+				"profile_link_color": "4400FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 152,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 890,
+		"favorite_count": 311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 점이 참 재미있고도 씁쓸한 지점이다. \n여성이 남성을 볼 때 “종업원에게 어찌 대하는지”를 보라 한 이유는 남성이 전통적 강자고 약자를 어찌 대하는지를 보라는 거였는데, 그게 남성이 여성을 보는 기준이 되면 여성은 약자라서 약자로 하여금 상냥한 태도를 요구하는 강자의 강요가 된다. https://t.co/VX7DzbFXdS"
+	},
+	{
+		"created_at": "Thu Jan 16 23:15:50 +0000 2020",
+		"id": 1217935870013014000,
+		"id_str": "1217948603051696128",
+		"full_text": "내가 왜 계속 살아야 합니까. 문명 이야기로 유명한 윌 듀런트가 자살을 고민하는 남자로부터 이런 질문을 받았다. 그후 당대 유명인사들에게도 편지를 써 답을 청한다. 자신의 답변까지 더해 책으로 냈다. 누구나 한번쯤은 마주하는 질문의 답을 이 책 어딘가에서 발견하거나 실마리를 찾을 수 있다. https://t.co/v3McOLOPJG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217935854066225200,
+					"id_str": "1217935854066225152",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EOb6NNTUUAAeT-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOb6NNTUUAAeT-T.jpg",
+					"url": "https://t.co/v3McOLOPJG",
+					"display_url": "pic.twitter.com/v3McOLOPJG",
+					"expanded_url": "https://twitter.com/atmostbeautiful/status/1217935870013014016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 624,
+									"y": 814,
+									"h": 574,
+									"w": 574
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 270,
+									"h": 190,
+									"w": 190
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 624,
+									"y": 814,
+									"h": 574,
+									"w": 574
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 365,
+									"y": 476,
+									"h": 336,
+									"w": 336
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217935854066225200,
+					"id_str": "1217935854066225152",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EOb6NNTUUAAeT-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOb6NNTUUAAeT-T.jpg",
+					"url": "https://t.co/v3McOLOPJG",
+					"display_url": "pic.twitter.com/v3McOLOPJG",
+					"expanded_url": "https://twitter.com/atmostbeautiful/status/1217935870013014016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 624,
+									"y": 814,
+									"h": 574,
+									"w": 574
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 270,
+									"h": 190,
+									"w": 190
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 624,
+									"y": 814,
+									"h": 574,
+									"w": 574
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 365,
+									"y": 476,
+									"h": 336,
+									"w": 336
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103101,
+			"friends_count": 2437,
+			"listed_count": 397,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 왜 계속 살아야 합니까. 문명 이야기로 유명한 윌 듀런트가 자살을 고민하는 남자로부터 이런 질문을 받았다. 그후 당대 유명인사들에게도 편지를 써 답을 청한다. 자신의 답변까지 더해 책으로 냈다. 누구나 한번쯤은 마주하는 질문의 답을 이 책 어딘가에서 발견하거나 실마리를 찾을 수 있다. https://t.co/v3McOLOPJG"
+	},
+	{
 		"created_at": "Thu Jan 16 17:17:03 +0000 2020",
 		"id": 1217858313272144000,
 		"id_str": "1217858313272143873",
