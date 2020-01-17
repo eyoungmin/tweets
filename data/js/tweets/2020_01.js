@@ -1,6 +1,1830 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 07:20:37 +0000 2020",
+		"id": 1217983368349900800,
+		"id_str": "1218070606547042304",
+		"full_text": "'타다'는 되지만 택시는 안되는 것 https://t.co/Gft0nt4MXL \n택시의 악명 높은 나쁜 경험 때문에 타다를 거의 무조건적으로 지지했지만,\n이 글을 읽고나서 생각보다 문제가 복잡하구나라는 생각을 했습니다.1. 요금 결정권\n2. 차종과 연료 제약 (택시는 LPG만 가능)\n    - 타다 카니발 디젤 사...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gft0nt4MXL",
+					"expanded_url": "http://j.mp/2TvrSzq",
+					"display_url": "j.mp/2TvrSzq",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1941,
+			"friends_count": 0,
+			"listed_count": 35,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'타다'는 되지만 택시는 안되는 것 https://t.co/Gft0nt4MXL \n택시의 악명 높은 나쁜 경험 때문에 타다를 거의 무조건적으로 지지했지만,\n이 글을 읽고나서 생각보다 문제가 복잡하구나라는 생각을 했습니다.1. 요금 결정권\n2. 차종과 연료 제약 (택시는 LPG만 가능)\n    - 타다 카니발 디젤 사..."
+	},
+	{
+		"created_at": "Fri Jan 17 07:13:01 +0000 2020",
+		"id": 1218050316391739400,
+		"id_str": "1218068691532705792",
+		"full_text": "#블랙스완 현실판...🖤 우아함 치사량 블랙 착장의 걸그룹 멤버들🎥\nGirl Group members who look like a #BlackSwan\n#ROSÉ #JOY #JiYeonPark #Solar #SHUHUA https://t.co/MPPpYJVRaN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙스완",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BlackSwan",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "JiYeonPark",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"text": "Solar",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "SHUHUA",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218035132948369400,
+					"id_str": "1218035132948369410",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1218035132948369410/img/y4Xa2kbNYg2Fy9gZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1218035132948369410/img/y4Xa2kbNYg2Fy9gZ.jpg",
+					"url": "https://t.co/MPPpYJVRaN",
+					"display_url": "pic.twitter.com/MPPpYJVRaN",
+					"expanded_url": "https://twitter.com/1theK/status/1218050316391739392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218035132948369400,
+					"id_str": "1218035132948369410",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1218035132948369410/img/y4Xa2kbNYg2Fy9gZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1218035132948369410/img/y4Xa2kbNYg2Fy9gZ.jpg",
+					"url": "https://t.co/MPPpYJVRaN",
+					"display_url": "pic.twitter.com/MPPpYJVRaN",
+					"expanded_url": "https://twitter.com/1theK/status/1218050316391739392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 164039,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1218035132948369410/vid/720x720/NyRjbQk4yBaQvpgI.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1218035132948369410/vid/480x480/aeK-23lCyrt1MGUP.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1218035132948369410/pl/1Fni-DMnu6mW3FWD.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1218035132948369410/vid/320x320/y6kazZXRU74mpcnr.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1820211,
+			"friends_count": 806,
+			"listed_count": 2751,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1437,
+		"favorite_count": 2748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙스완 현실판...🖤 우아함 치사량 블랙 착장의 걸그룹 멤버들🎥\nGirl Group members who look like a #BlackSwan\n#ROSÉ #JOY #JiYeonPark #Solar #SHUHUA https://t.co/MPPpYJVRaN"
+	},
+	{
+		"created_at": "Fri Jan 17 07:12:48 +0000 2020",
+		"id": 1218010822942683100,
+		"id_str": "1218068637086445568",
+		"full_text": "[SJF ANNOUNCEMENT - 얼리버드 티켓 매진]\n\n.\n제14회 서울재즈페스티벌 2020 얼리버드 티켓이 매진되었습니다.\n얼리버드 티켓 예매창은 1월 21일 밤 11시 59분에 마감되며, 예매가 마감되는 시점까지 취소표에 한하여 예매가 가능합니다. https://t.co/Ih1gDTgarO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218010807386009600,
+					"id_str": "1218010807386009601",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EOc-YELUcAEFUh5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOc-YELUcAEFUh5.jpg",
+					"url": "https://t.co/Ih1gDTgarO",
+					"display_url": "pic.twitter.com/Ih1gDTgarO",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1218010822942683136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218010807386009600,
+					"id_str": "1218010807386009601",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EOc-YELUcAEFUh5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOc-YELUcAEFUh5.jpg",
+					"url": "https://t.co/Ih1gDTgarO",
+					"display_url": "pic.twitter.com/Ih1gDTgarO",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1218010822942683136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3550,
+			"friends_count": 40,
+			"listed_count": 35,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1578970848",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SJF ANNOUNCEMENT - 얼리버드 티켓 매진]\n\n.\n제14회 서울재즈페스티벌 2020 얼리버드 티켓이 매진되었습니다.\n얼리버드 티켓 예매창은 1월 21일 밤 11시 59분에 마감되며, 예매가 마감되는 시점까지 취소표에 한하여 예매가 가능합니다. https://t.co/Ih1gDTgarO"
+	},
+	{
+		"created_at": "Fri Jan 17 07:12:41 +0000 2020",
+		"id": 1218035235637493800,
+		"id_str": "1218068608254742535",
+		"full_text": "💌 2020 청하 팬미팅 &lt; 청하나라의 별하랑 &gt; 일반 예매 안내\n\n🐰 일예 : 2020. 1. 17 (금) 오후 8시 (KST)\n🍈 예매 : 멜론티켓\n\n2020 청하 팬미팅 &lt; 청하나라의 별하랑 &gt; 일반 예매가 오후 8시 멜론티켓에서 진행됩니다❗️\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜 https://t.co/EEMunhP7sX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"text": "청하나라의_별하랑",
+					"indices": [
+						183,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218035224673566700,
+					"id_str": "1218035224673566720",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EOdUlVqUwAA2HRA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOdUlVqUwAA2HRA.jpg",
+					"url": "https://t.co/EEMunhP7sX",
+					"display_url": "pic.twitter.com/EEMunhP7sX",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1218035235637493761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 846,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 484,
+									"y": 976,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 474,
+									"y": 596,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 341,
+									"y": 688,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 846,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 484,
+									"y": 976,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 268,
+									"y": 338,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 193,
+									"y": 390,
+									"h": 70,
+									"w": 70
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218035224673566700,
+					"id_str": "1218035224673566720",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EOdUlVqUwAA2HRA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOdUlVqUwAA2HRA.jpg",
+					"url": "https://t.co/EEMunhP7sX",
+					"display_url": "pic.twitter.com/EEMunhP7sX",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1218035235637493761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 846,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 484,
+									"y": 976,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 474,
+									"y": 596,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 341,
+									"y": 688,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 846,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 484,
+									"y": 976,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 268,
+									"y": 338,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 193,
+									"y": 390,
+									"h": 70,
+									"w": 70
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209137,
+			"friends_count": 0,
+			"listed_count": 1590,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 557,
+		"favorite_count": 2472,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 2020 청하 팬미팅 &lt; 청하나라의 별하랑 &gt; 일반 예매 안내\n\n🐰 일예 : 2020. 1. 17 (금) 오후 8시 (KST)\n🍈 예매 : 멜론티켓\n\n2020 청하 팬미팅 &lt; 청하나라의 별하랑 &gt; 일반 예매가 오후 8시 멜론티켓에서 진행됩니다❗️\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#청하나라의_별하랑 💚💙💜 https://t.co/EEMunhP7sX"
+	},
+	{
+		"created_at": "Fri Jan 17 07:12:36 +0000 2020",
+		"id": 1217996012511363000,
+		"id_str": "1218068586926727169",
+		"full_text": "방탄소년단이 오늘 17일 오후 6시 정규 4집앨범 'MAP OF THE SOUL : 7'의 선공개 곡과 아트 필름을 동시에 공개할 예정입니다.\n⠀\nToday, BTS will reveal new single track and an art film of their upcoming 'Map of the Soul: 7' album. https://t.co/AZZnoKdJSf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217996001014730800,
+					"id_str": "1217996001014730752",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EOcw6OJUUAAb2wK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOcw6OJUUAAb2wK.jpg",
+					"url": "https://t.co/AZZnoKdJSf",
+					"display_url": "pic.twitter.com/AZZnoKdJSf",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1217996012511363072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 99,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 105,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 246,
+									"y": 107,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 423,
+									"y": 107,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 120,
+									"y": 106,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 99,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 105,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 246,
+									"y": 107,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 423,
+									"y": 107,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 120,
+									"y": 106,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 99,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 105,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 246,
+									"y": 107,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 423,
+									"y": 107,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 120,
+									"y": 106,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 99,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 105,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 246,
+									"y": 107,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 423,
+									"y": 107,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 120,
+									"y": 106,
+									"h": 47,
+									"w": 47
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217996001014730800,
+					"id_str": "1217996001014730752",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EOcw6OJUUAAb2wK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOcw6OJUUAAb2wK.jpg",
+					"url": "https://t.co/AZZnoKdJSf",
+					"display_url": "pic.twitter.com/AZZnoKdJSf",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1217996012511363072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 99,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 105,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 246,
+									"y": 107,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 423,
+									"y": 107,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 120,
+									"y": 106,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 99,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 105,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 246,
+									"y": 107,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 423,
+									"y": 107,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 120,
+									"y": 106,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 99,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 105,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 246,
+									"y": 107,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 423,
+									"y": 107,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 120,
+									"y": 106,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 99,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 105,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 246,
+									"y": 107,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 423,
+									"y": 107,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 120,
+									"y": 106,
+									"h": 47,
+									"w": 47
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19072,
+			"friends_count": 8,
+			"listed_count": 77,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1578991623",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2627,
+		"favorite_count": 6866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방탄소년단이 오늘 17일 오후 6시 정규 4집앨범 'MAP OF THE SOUL : 7'의 선공개 곡과 아트 필름을 동시에 공개할 예정입니다.\n⠀\nToday, BTS will reveal new single track and an art film of their upcoming 'Map of the Soul: 7' album. https://t.co/AZZnoKdJSf"
+	},
+	{
+		"created_at": "Fri Jan 17 07:12:19 +0000 2020",
+		"id": 1217982903021269000,
+		"id_str": "1218068517271953409",
+		"full_text": "콘서트 표를 예매해놓았는데 공연 당일 독감에 걸려서 가지 못했을 경우 위약금 없이 표 값을 모두 돌려받을 수 있다고 합니다. #독감 #공연 #스마트리빙 https://t.co/9WnA3Q4aNp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "독감",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "스마트리빙",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217982470840180700,
+					"id_str": "1217982470840180736",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EOck-MXU0AAIeWk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOck-MXU0AAIeWk.jpg",
+					"url": "https://t.co/9WnA3Q4aNp",
+					"display_url": "pic.twitter.com/9WnA3Q4aNp",
+					"expanded_url": "https://twitter.com/mbcnews/status/1217982903021268992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217982470840180700,
+					"id_str": "1217982470840180736",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EOck-MXU0AAIeWk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOck-MXU0AAIeWk.jpg",
+					"url": "https://t.co/9WnA3Q4aNp",
+					"display_url": "pic.twitter.com/9WnA3Q4aNp",
+					"expanded_url": "https://twitter.com/mbcnews/status/1217982903021268992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 75475,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1217982470840180736/pl/LAW-cB9SxnjjcXDa.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1217982470840180736/vid/1280x720/OWjeiDKuhisam1Sx.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1217982470840180736/vid/640x360/jE4I3vpOUTzabvp6.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1217982470840180736/vid/480x270/6aHOzJQY-o7xxOXb.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "\"독감 걸려 공연 못 보면 환불 된다\"",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://imnews.imbc.com/news/socialpick/2020/snsNews/5651717_32607.html"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388574,
+			"friends_count": 150474,
+			"listed_count": 3679,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1932,
+		"favorite_count": 368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "콘서트 표를 예매해놓았는데 공연 당일 독감에 걸려서 가지 못했을 경우 위약금 없이 표 값을 모두 돌려받을 수 있다고 합니다. #독감 #공연 #스마트리빙 https://t.co/9WnA3Q4aNp"
+	},
+	{
+		"created_at": "Fri Jan 17 07:11:16 +0000 2020",
+		"id": 1217972810372403200,
+		"id_str": "1218068252753973250",
+		"full_text": "구글, 올해부터 크롬앱 지원 단계적 중단 https://t.co/cLRz6iZF59",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cLRz6iZF59",
+					"expanded_url": "http://www.bloter.net/archives/368241",
+					"display_url": "bloter.net/archives/368241",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56222,
+			"friends_count": 9,
+			"listed_count": 2531,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글, 올해부터 크롬앱 지원 단계적 중단 https://t.co/cLRz6iZF59"
+	},
+	{
+		"created_at": "Fri Jan 17 07:09:57 +0000 2020",
+		"id": 1217975525060182000,
+		"id_str": "1218067920221159428",
+		"full_text": "통신 3사, 올 연말까지 전국 지하철에 5G 개통 https://t.co/xMAX5V3NAP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xMAX5V3NAP",
+					"expanded_url": "http://www.bloter.net/archives/368251",
+					"display_url": "bloter.net/archives/368251",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56222,
+			"friends_count": 9,
+			"listed_count": 2531,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "통신 3사, 올 연말까지 전국 지하철에 5G 개통 https://t.co/xMAX5V3NAP"
+	},
+	{
 		"created_at": "Fri Jan 17 06:59:06 +0000 2020",
 		"id": 1218065188378771500,
 		"id_str": "1218065188378771456",
