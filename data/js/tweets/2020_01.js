@@ -1,6 +1,2225 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 09:55:15 +0000 2020",
+		"id": 1217957202322956300,
+		"id_str": "1218109520498458624",
+		"full_text": "엑소의 멤버 첸이 결혼 발표를 하면서 엑소의 팬클럽이 첸의 팀 내 퇴출을 요구하고 나서 논란이 일고 있습니다. #엑소 #첸 #EXO https://t.co/A702Q94hHK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엑소",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "첸",
+					"indices": [
+						66,
+						68
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217935519679574000,
+					"id_str": "1217935519679574016",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EOb61chU0AEeJj7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOb61chU0AEeJj7.jpg",
+					"url": "https://t.co/A702Q94hHK",
+					"display_url": "pic.twitter.com/A702Q94hHK",
+					"expanded_url": "https://twitter.com/mbcnews/status/1217957202322956288/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217935519679574000,
+					"id_str": "1217935519679574016",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EOb61chU0AEeJj7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOb61chU0AEeJj7.jpg",
+					"url": "https://t.co/A702Q94hHK",
+					"display_url": "pic.twitter.com/A702Q94hHK",
+					"expanded_url": "https://twitter.com/mbcnews/status/1217957202322956288/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 57417,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1217935519679574016/vid/480x272/9H-G16k2ZAoA_qJ8.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1217935519679574016/pl/_96ha75vK_9NpU0H.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "엑소 공식 팬클럽, 첸 퇴출 요구 논란",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://imnews.imbc.com/replay/2020/nwtoday/article/5651628_32531.html"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388594,
+			"friends_count": 150471,
+			"listed_count": 3679,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2706,
+		"favorite_count": 4109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엑소의 멤버 첸이 결혼 발표를 하면서 엑소의 팬클럽이 첸의 팀 내 퇴출을 요구하고 나서 논란이 일고 있습니다. #엑소 #첸 #EXO https://t.co/A702Q94hHK"
+	},
+	{
+		"created_at": "Fri Jan 17 09:52:52 +0000 2020",
+		"id": 1218107509828771800,
+		"id_str": "1218108920926834688",
+		"full_text": "Producer SOOMAN LEE in 'Variety500' \n\n👉🏻https://t.co/RrcUnR0dyQ\n\n#이수만 #SOOMANLEE #SMEntertainment #Variety #Variety500",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이수만",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"text": "Variety",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "Variety500",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RrcUnR0dyQ",
+					"expanded_url": "https://variety.com/exec/lee-soo-man/",
+					"display_url": "variety.com/exec/lee-soo-m…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218107508104892400,
+		"in_reply_to_status_id_str": "1218107508104892416",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8113218,
+			"friends_count": 49,
+			"listed_count": 9775,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 379,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Producer SOOMAN LEE in 'Variety500' \n\n👉🏻https://t.co/RrcUnR0dyQ\n\n#이수만 #SOOMANLEE #SMEntertainment #Variety #Variety500"
+	},
+	{
+		"created_at": "Fri Jan 17 09:52:45 +0000 2020",
+		"id": 1218107508104892400,
+		"id_str": "1218108889012428800",
+		"full_text": "#Variety magazine named Producer #SOOMANLEE in #Variety500, an index of the 500 most influential media industry business leaders around the world, for 3 consecutive years, introducing him as “the powerful proven pathfinder for the still exploding genre of contemporary K-pop”!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Variety",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "Variety500",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8113218,
+			"friends_count": 49,
+			"listed_count": 9775,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 901,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#Variety magazine named Producer #SOOMANLEE in #Variety500, an index of the 500 most influential media industry business leaders around the world, for 3 consecutive years, introducing him as “the powerful proven pathfinder for the still exploding genre of contemporary K-pop”!"
+	},
+	{
+		"created_at": "Fri Jan 17 09:40:52 +0000 2020",
+		"id": 1218097987638792200,
+		"id_str": "1218105899685941248",
+		"full_text": "VIVID하게 자신들의 음악 색을 만들어가는 글로벌 신스팝 밴드 ADOY\nADOY만의 섬세한 사운드가 돋보이는 반짝이는 곡 ‘POOL’  \n#포스터라이브 #ADOY #아도이 #POOL\n\nhttps://t.co/djLGm1jMZ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포스터라이브",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "ADOY",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "POOL",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/djLGm1jMZ4",
+					"expanded_url": "https://youtu.be/iN5uZVGoPdM",
+					"display_url": "youtu.be/iN5uZVGoPdM",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3530,
+			"friends_count": 549,
+			"listed_count": 33,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0046791d5b83a6ab",
+			"url": "https://api.twitter.com/1.1/geo/id/0046791d5b83a6ab.json",
+			"place_type": "city",
+			"name": "성북구",
+			"full_name": "대한민국 성북구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.97503057038,
+							37.5736380799377
+						],
+						[
+							127.069712112477,
+							37.5736380799377
+						],
+						[
+							127.069712112477,
+							37.6330481049773
+						],
+						[
+							126.97503057038,
+							37.6330481049773
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "VIVID하게 자신들의 음악 색을 만들어가는 글로벌 신스팝 밴드 ADOY\nADOY만의 섬세한 사운드가 돋보이는 반짝이는 곡 ‘POOL’  \n#포스터라이브 #ADOY #아도이 #POOL\n\nhttps://t.co/djLGm1jMZ4"
+	},
+	{
+		"created_at": "Fri Jan 17 09:40:43 +0000 2020",
+		"id": 1218095687994237000,
+		"id_str": "1218105861417185281",
+		"full_text": "#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #Dear_Me #태연이가들려주고싶은말 https://t.co/zDZXr6aCzq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"text": "내게들려주고싶은말",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "Dear_Me",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "태연이가들려주고싶은말",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218095660995530800,
+					"id_str": "1218095660995530753",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeLjMgVUAENS4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeLjMgVUAENS4i.jpg",
+					"url": "https://t.co/zDZXr6aCzq",
+					"display_url": "pic.twitter.com/zDZXr6aCzq",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1218095687994236928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 181,
+									"h": 299,
+									"w": 299
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 150,
+									"y": 102,
+									"h": 169,
+									"w": 169
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 453,
+									"y": 309,
+									"h": 512,
+									"w": 512
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 554,
+									"y": 378,
+									"h": 625,
+									"w": 625
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218095660995530800,
+					"id_str": "1218095660995530753",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeLjMgVUAENS4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeLjMgVUAENS4i.jpg",
+					"url": "https://t.co/zDZXr6aCzq",
+					"display_url": "pic.twitter.com/zDZXr6aCzq",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1218095687994236928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 181,
+									"h": 299,
+									"w": 299
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 150,
+									"y": 102,
+									"h": 169,
+									"w": 169
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 453,
+									"y": 309,
+									"h": 512,
+									"w": 512
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 554,
+									"y": 378,
+									"h": 625,
+									"w": 625
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1218095661029027800,
+					"id_str": "1218095661029027840",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeLjMoUcAA3PKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeLjMoUcAA3PKG.jpg",
+					"url": "https://t.co/zDZXr6aCzq",
+					"display_url": "pic.twitter.com/zDZXr6aCzq",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1218095687994236928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1218095661087768600,
+					"id_str": "1218095661087768577",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeLjM2UwAEBWbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeLjM2UwAEBWbd.jpg",
+					"url": "https://t.co/zDZXr6aCzq",
+					"display_url": "pic.twitter.com/zDZXr6aCzq",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1218095687994236928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 381,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 226,
+									"y": 96,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 337,
+									"y": 672,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 399,
+									"y": 170,
+									"h": 252,
+									"w": 252
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 575,
+									"y": 1147,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 681,
+									"y": 291,
+									"h": 431,
+									"w": 431
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 703,
+									"y": 1401,
+									"h": 158,
+									"w": 158
+								},
+								{
+									"x": 832,
+									"y": 356,
+									"h": 527,
+									"w": 527
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218095656981581800,
+		"in_reply_to_status_id_str": "1218095656981581826",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3543119,
+			"friends_count": 4,
+			"listed_count": 5964,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1477,
+		"favorite_count": 2696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #Dear_Me #태연이가들려주고싶은말 https://t.co/zDZXr6aCzq"
+	},
+	{
+		"created_at": "Fri Jan 17 09:40:38 +0000 2020",
+		"id": 1218095656981581800,
+		"id_str": "1218105839476789248",
+		"full_text": "네게 보여주고 싶은 #Dear_Me MV Behind Photos 💚\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #Dear_Me #태연이가들려주고싶은말 https://t.co/FoywEXSlE0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_Me",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "내게들려주고싶은말",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "Dear_Me",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "태연이가들려주고싶은말",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218095627763998700,
+					"id_str": "1218095627763998720",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeLhQtUYAAaNrq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeLhQtUYAAaNrq.jpg",
+					"url": "https://t.co/FoywEXSlE0",
+					"display_url": "pic.twitter.com/FoywEXSlE0",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1218095656981581826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1132,
+									"y": 446,
+									"h": 322,
+									"w": 322
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 543,
+									"y": 214,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 307,
+									"y": 121,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 927,
+									"y": 365,
+									"h": 263,
+									"w": 263
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218095627763998700,
+					"id_str": "1218095627763998720",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeLhQtUYAAaNrq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeLhQtUYAAaNrq.jpg",
+					"url": "https://t.co/FoywEXSlE0",
+					"display_url": "pic.twitter.com/FoywEXSlE0",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1218095656981581826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1132,
+									"y": 446,
+									"h": 322,
+									"w": 322
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 543,
+									"y": 214,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 307,
+									"y": 121,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 927,
+									"y": 365,
+									"h": 263,
+									"w": 263
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1218095627768230000,
+					"id_str": "1218095627768229888",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeLhQuU8AAu1vG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeLhQuU8AAu1vG.jpg",
+					"url": "https://t.co/FoywEXSlE0",
+					"display_url": "pic.twitter.com/FoywEXSlE0",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1218095656981581826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 353,
+									"y": 545,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 474,
+									"y": 249,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 309,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 268,
+									"y": 141,
+									"h": 88,
+									"w": 88
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 603,
+									"y": 931,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 809,
+									"y": 425,
+									"h": 265,
+									"w": 265
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 737,
+									"y": 1137,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 988,
+									"y": 520,
+									"h": 324,
+									"w": 324
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1218095627768221700,
+					"id_str": "1218095627768221699",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeLhQuU0AMJoq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeLhQuU0AMJoq4.jpg",
+					"url": "https://t.co/FoywEXSlE0",
+					"display_url": "pic.twitter.com/FoywEXSlE0",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1218095656981581826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3543119,
+			"friends_count": 4,
+			"listed_count": 5964,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2519,
+		"favorite_count": 4410,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네게 보여주고 싶은 #Dear_Me MV Behind Photos 💚\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #Dear_Me #태연이가들려주고싶은말 https://t.co/FoywEXSlE0"
+	},
+	{
+		"created_at": "Fri Jan 17 09:39:04 +0000 2020",
+		"id": 1218105448479576000,
+		"id_str": "1218105448479576064",
+		"full_text": "#SMTOWN\nTAEYEON 태연 ‘내게 들려주고 싶은 말 (Dear Me)’ MV Making Film\nhttps://t.co/rxg1hrd2DR\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						89,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rxg1hrd2DR",
+					"expanded_url": "https://www.youtube.com/watch?v=f3ZOX7BTwgg",
+					"display_url": "youtube.com/watch?v=f3ZOX7…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 884,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nTAEYEON 태연 ‘내게 들려주고 싶은 말 (Dear Me)’ MV Making Film\nhttps://t.co/rxg1hrd2DR\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Jan 17 09:25:02 +0000 2020",
+		"id": 1217740799900668000,
+		"id_str": "1218101916472766465",
+		"full_text": "\"예쁘고 편해 보인다\"…문체부 '한복 교복' 보급 사업 추진 #SBS뉴스 https://t.co/3MLihNDD5t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS뉴스",
+					"indices": [
+						34,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3MLihNDD5t",
+					"expanded_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005607962&plink=TWEET&cooper=TWITTER",
+					"display_url": "news.sbs.co.kr/news/endPage.d…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.sbs.co.kr\" rel=\"nofollow\">sbs8news</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91946403,
+			"id_str": "91946403",
+			"name": "SBS 뉴스",
+			"screen_name": "SBS8news",
+			"location": "KOREA",
+			"description": "SBS 보도본부 공식 트위터입니다. 시청자 여러분과 함께 하는 뉴스를 만들도록 최선을 다하겠습니다. 제보는 이메일 sbs8news@sbs.co.kr로 연락 주시기 바랍니다.",
+			"url": "http://t.co/Vv46jRzW9N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Vv46jRzW9N",
+							"expanded_url": "http://news.sbs.co.kr",
+							"display_url": "news.sbs.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 421443,
+			"friends_count": 96747,
+			"listed_count": 4180,
+			"created_at": "Mon Nov 23 05:47:28 +0000 2009",
+			"favourites_count": 2036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 179692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086075115551354880/P91M6DEi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086075115551354880/P91M6DEi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91946403/1434703804",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2361,
+		"favorite_count": 736,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"예쁘고 편해 보인다\"…문체부 '한복 교복' 보급 사업 추진 #SBS뉴스 https://t.co/3MLihNDD5t"
+	},
+	{
+		"created_at": "Fri Jan 17 09:18:50 +0000 2020",
+		"id": 1218099127617126400,
+		"id_str": "1218100355193401344",
+		"full_text": "Black Swan Release\n#BTS #방탄소년단 #BlackSwan #1stSingle\n \n▶Orchard: https://t.co/ta6vyqTfeD\n▶Spotify: https://t.co/m0B2E8H7Lc\n▶Apple: https://t.co/t7808uRxf7\n▶Amazon: https://t.co/YpaYxwQ2qd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "BlackSwan",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"text": "1stSingle",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ta6vyqTfeD",
+					"expanded_url": "https://orcd.co/blackswan",
+					"display_url": "orcd.co/blackswan",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/m0B2E8H7Lc",
+					"expanded_url": "https://spoti.fi/2u6m9pe",
+					"display_url": "spoti.fi/2u6m9pe",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/t7808uRxf7",
+					"expanded_url": "https://apple.co/373hz9O",
+					"display_url": "apple.co/373hz9O",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/YpaYxwQ2qd",
+					"expanded_url": "https://amzn.to/2NApnIg",
+					"display_url": "amzn.to/2NApnIg",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218099125578686500,
+		"in_reply_to_status_id_str": "1218099125578686465",
+		"in_reply_to_user_id": 168683422,
+		"in_reply_to_user_id_str": "168683422",
+		"in_reply_to_screen_name": "BigHitEnt",
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12319751,
+			"friends_count": 26,
+			"listed_count": 14273,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34412,
+		"favorite_count": 61669,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Black Swan Release\n#BTS #방탄소년단 #BlackSwan #1stSingle\n \n▶Orchard: https://t.co/ta6vyqTfeD\n▶Spotify: https://t.co/m0B2E8H7Lc\n▶Apple: https://t.co/t7808uRxf7\n▶Amazon: https://t.co/YpaYxwQ2qd"
+	},
+	{
+		"created_at": "Fri Jan 17 09:18:32 +0000 2020",
+		"id": 1218099125578686500,
+		"id_str": "1218100280111161346",
+		"full_text": "Black Swan Release\n#BTS #방탄소년단 #BlackSwan #1stSingle\n\n▶멜론: https://t.co/kKpoVTKjnD\n▶FLO: https://t.co/kf8Dbdnj3V\n▶지니: https://t.co/CUHcIDHVLv\n▶벅스: https://t.co/be1WWTabX0\n▶네이버뮤직: https://t.co/TuE4NJKyRB\n▶소리바다: https://t.co/dzhhJYVJRb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "BlackSwan",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"text": "1stSingle",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kKpoVTKjnD",
+					"expanded_url": "https://bit.ly/35Yyzwn",
+					"display_url": "bit.ly/35Yyzwn",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/kf8Dbdnj3V",
+					"expanded_url": "http://flomuz.io/s/a.BwA2f",
+					"display_url": "flomuz.io/s/a.BwA2f",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/CUHcIDHVLv",
+					"expanded_url": "https://bit.ly/2R5eMYd",
+					"display_url": "bit.ly/2R5eMYd",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/be1WWTabX0",
+					"expanded_url": "https://bit.ly/372sDnB",
+					"display_url": "bit.ly/372sDnB",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/TuE4NJKyRB",
+					"expanded_url": "https://bit.ly/3728bmB",
+					"display_url": "bit.ly/3728bmB",
+					"indices": [
+						179,
+						202
+					]
+				},
+				{
+					"url": "https://t.co/dzhhJYVJRb",
+					"expanded_url": "https://bit.ly/2uXIqG9",
+					"display_url": "bit.ly/2uXIqG9",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12319751,
+			"friends_count": 26,
+			"listed_count": 14273,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81529,
+		"favorite_count": 159558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Black Swan Release\n#BTS #방탄소년단 #BlackSwan #1stSingle\n\n▶멜론: https://t.co/kKpoVTKjnD\n▶FLO: https://t.co/kf8Dbdnj3V\n▶지니: https://t.co/CUHcIDHVLv\n▶벅스: https://t.co/be1WWTabX0\n▶네이버뮤직: https://t.co/TuE4NJKyRB\n▶소리바다: https://t.co/dzhhJYVJRb"
+	},
+	{
 		"created_at": "Fri Jan 17 08:58:40 +0000 2020",
 		"id": 1218080982110105600,
 		"id_str": "1218095280219815937",
