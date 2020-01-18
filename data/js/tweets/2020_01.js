@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 08:42:31 +0000 2020",
+		"id": 1218367637693943800,
+		"id_str": "1218453601942568966",
+		"full_text": "픽쳐링 능력을 가진 형사 수영의\n능력이 돋보이는 무빙 포스터!🧐\n과연 어떤 장면을 보고, 또 기억하게 될까요?\n\n오감 서스펜스 &lt;본대로말하라&gt;\n2월 1일 첫방송 l 토일 오리지널\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/KKlT9w54nV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장혁",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218367550276296700,
+					"id_str": "1218367550276296705",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218367550276296705/pu/img/3ceoeGDKnhSdvr5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218367550276296705/pu/img/3ceoeGDKnhSdvr5o.jpg",
+					"url": "https://t.co/KKlT9w54nV",
+					"display_url": "pic.twitter.com/KKlT9w54nV",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1218367637693943808/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218367550276296700,
+					"id_str": "1218367550276296705",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218367550276296705/pu/img/3ceoeGDKnhSdvr5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218367550276296705/pu/img/3ceoeGDKnhSdvr5o.jpg",
+					"url": "https://t.co/KKlT9w54nV",
+					"display_url": "pic.twitter.com/KKlT9w54nV",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1218367637693943808/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 8042,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218367550276296705/pu/vid/360x450/-3MkwpyShTLVg73B.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1218367550276296705/pu/pl/KmFGjFsnONlKmUE4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218367550276296705/pu/vid/720x900/dGCDieRp00R-hH3t.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218367550276296705/pu/vid/320x400/YVNSnRue6IM3RFE3.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 2/1 첫방송 #장혁 #본대로말하라 \n🔜 2020 수목 밤 11시 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44430,
+			"friends_count": 0,
+			"listed_count": 247,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1578301055",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 215,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "픽쳐링 능력을 가진 형사 수영의\n능력이 돋보이는 무빙 포스터!🧐\n과연 어떤 장면을 보고, 또 기억하게 될까요?\n\n오감 서스펜스 &lt;본대로말하라&gt;\n2월 1일 첫방송 l 토일 오리지널\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/KKlT9w54nV"
+	},
+	{
 		"created_at": "Sat Jan 18 07:42:33 +0000 2020",
 		"id": 1218435010576826400,
 		"id_str": "1218438510467829760",
