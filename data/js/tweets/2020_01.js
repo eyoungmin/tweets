@@ -1,6 +1,1084 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 23:47:23 +0000 2020",
+		"id": 1217983830562263000,
+		"id_str": "1218318931229736960",
+		"full_text": "NBC 스트리밍 서비스 '피콕' 4월 15일 론칭. 요금제는 3개로 프리미엄(광고 無 $10, 광고 有 $5)과 프리(무료)로 나뉩니다. 프리미엄과 프리 차이는 접근 가능 라이브러리입니다(15,000&gt;7,500시간). 시리즈 400편, 영화 600편, 스포츠중계, 심야토크쇼, 리얼리티 TV 등 다양한 콘텐츠를 제공합니다. https://t.co/r4W1YITG78",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217983817144684500,
+					"id_str": "1217983817144684545",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EOcl1BsVUAE9xco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOcl1BsVUAE9xco.jpg",
+					"url": "https://t.co/r4W1YITG78",
+					"display_url": "pic.twitter.com/r4W1YITG78",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1217983830562263041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217983817144684500,
+					"id_str": "1217983817144684545",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EOcl1BsVUAE9xco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOcl1BsVUAE9xco.jpg",
+					"url": "https://t.co/r4W1YITG78",
+					"display_url": "pic.twitter.com/r4W1YITG78",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1217983830562263041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14585,
+			"friends_count": 747,
+			"listed_count": 128,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994448983786336256/DZXGeDHk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994448983786336256/DZXGeDHk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1525930080",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NBC 스트리밍 서비스 '피콕' 4월 15일 론칭. 요금제는 3개로 프리미엄(광고 無 $10, 광고 有 $5)과 프리(무료)로 나뉩니다. 프리미엄과 프리 차이는 접근 가능 라이브러리입니다(15,000&gt;7,500시간). 시리즈 400편, 영화 600편, 스포츠중계, 심야토크쇼, 리얼리티 TV 등 다양한 콘텐츠를 제공합니다. https://t.co/r4W1YITG78"
+	},
+	{
+		"created_at": "Fri Jan 17 23:46:55 +0000 2020",
+		"id": 1217974831590912000,
+		"id_str": "1218318815068479488",
+		"full_text": "유튜브 영상은 너무 길고, 포털사이트 웹툰도 너무 무겁다. 단 몇 장의 그림과 한두 줄의 문장만으로 많은 이들의 공감을 사는 일상툰 작가들을 모아봤다.\nhttps://t.co/1eiQYnlUl5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1eiQYnlUl5",
+					"expanded_url": "https://www.indiepost.co.kr/post/13541",
+					"display_url": "indiepost.co.kr/post/13541",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808835127639801900,
+			"id_str": "808835127639801856",
+			"name": "인디포스트",
+			"screen_name": "indiepostmedia",
+			"location": "",
+			"description": "WE CURATE VALUES\n인디 문화 큐레이션 서비스, 인디포스트의 공식 계정입니다.",
+			"url": "https://t.co/v1HyjgBR3L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1HyjgBR3L",
+							"expanded_url": "http://www.indiepost.co.kr",
+							"display_url": "indiepost.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5276,
+			"friends_count": 410,
+			"listed_count": 37,
+			"created_at": "Wed Dec 14 00:44:56 +0000 2016",
+			"favourites_count": 208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808835127639801856/1526023975",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유튜브 영상은 너무 길고, 포털사이트 웹툰도 너무 무겁다. 단 몇 장의 그림과 한두 줄의 문장만으로 많은 이들의 공감을 사는 일상툰 작가들을 모아봤다.\nhttps://t.co/1eiQYnlUl5"
+	},
+	{
+		"created_at": "Fri Jan 17 23:43:40 +0000 2020",
+		"id": 1218317998353600500,
+		"id_str": "1218317998353600513",
+		"full_text": "타오바오에나 중국 앱에서 많이 도입되어 있는 방식. 짧은 동영상이나 라이브 속에서 판매하는 패션 아이템이 뜨고 구입을 유도. https://t.co/TH4MlLIkDX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TH4MlLIkDX",
+					"expanded_url": "https://twitter.com/VentureSquare/status/1217975855709933568",
+					"display_url": "twitter.com/VentureSquare/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217975855709933600,
+		"quoted_status_id_str": "1217975855709933568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TH4MlLIkDX",
+			"expanded": "https://twitter.com/VentureSquare/status/1217975855709933568",
+			"display": "twitter.com/VentureSquare/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 01:04:07 +0000 2020",
+			"id": 1217975855709933600,
+			"id_str": "1217975855709933568",
+			"full_text": "29CM, 쇼퍼블 비디오 '29TV' 정식 론칭 - 벤처스퀘어\n#뉴스 https://t.co/DwFU7WerLm https://t.co/kOi3PNszdW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "뉴스",
+						"indices": [
+							35,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DwFU7WerLm",
+						"expanded_url": "https://www.venturesquare.net/800713",
+						"display_url": "venturesquare.net/800713",
+						"indices": [
+							39,
+							62
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1217975853662994400,
+						"id_str": "1217975853662994432",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/EOcelfaWAAA5JNM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOcelfaWAAA5JNM.jpg",
+						"url": "https://t.co/kOi3PNszdW",
+						"display_url": "pic.twitter.com/kOi3PNszdW",
+						"expanded_url": "https://twitter.com/VentureSquare/status/1217975855709933568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 244,
+										"y": 200,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 698,
+										"y": 221,
+										"h": 43,
+										"w": 43
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 244,
+										"y": 200,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 698,
+										"y": 221,
+										"h": 43,
+										"w": 43
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 165,
+										"y": 136,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 474,
+										"y": 150,
+										"h": 29,
+										"w": 29
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 244,
+										"y": 200,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 698,
+										"y": 221,
+										"h": 43,
+										"w": 43
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217975853662994400,
+						"id_str": "1217975853662994432",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/EOcelfaWAAA5JNM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOcelfaWAAA5JNM.jpg",
+						"url": "https://t.co/kOi3PNszdW",
+						"display_url": "pic.twitter.com/kOi3PNszdW",
+						"expanded_url": "https://twitter.com/VentureSquare/status/1217975855709933568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 244,
+										"y": 200,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 698,
+										"y": 221,
+										"h": 43,
+										"w": 43
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 244,
+										"y": 200,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 698,
+										"y": 221,
+										"h": 43,
+										"w": 43
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 165,
+										"y": 136,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 474,
+										"y": 150,
+										"h": 29,
+										"w": 29
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 244,
+										"y": 200,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 698,
+										"y": 221,
+										"h": 43,
+										"w": 43
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109783731,
+				"id_str": "109783731",
+				"name": "VentureSquare",
+				"screen_name": "VentureSquare",
+				"location": "서울 강남구",
+				"description": "::벤처스퀘어 공식 트위터:: 벤처기업 (스타트업)과 기업가들을 위한 벤처전문 온라인 미디어입니다. 국내외의 다양한 스타트업과 관련 인물을 소개하고 비즈니스 트렌드, 경영, 마케팅, 투자, 기술 등 비즈니스 전반에 걸친 내용을 전달합니다.",
+				"url": "http://t.co/Sv72C5q8FI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Sv72C5q8FI",
+								"expanded_url": "http://www.venturesquare.net",
+								"display_url": "venturesquare.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6529,
+				"friends_count": 297,
+				"listed_count": 350,
+				"created_at": "Sat Jan 30 07:12:31 +0000 2010",
+				"favourites_count": 103,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18677,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109783731/1451867938",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "타오바오에나 중국 앱에서 많이 도입되어 있는 방식. 짧은 동영상이나 라이브 속에서 판매하는 패션 아이템이 뜨고 구입을 유도. https://t.co/TH4MlLIkDX"
+	},
+	{
+		"created_at": "Fri Jan 17 23:41:50 +0000 2020",
+		"id": 1217975855709933600,
+		"id_str": "1218317535147245569",
+		"full_text": "29CM, 쇼퍼블 비디오 '29TV' 정식 론칭 - 벤처스퀘어\n#뉴스 https://t.co/DwFU7WerLm https://t.co/kOi3PNszdW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴스",
+					"indices": [
+						35,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DwFU7WerLm",
+					"expanded_url": "https://www.venturesquare.net/800713",
+					"display_url": "venturesquare.net/800713",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217975853662994400,
+					"id_str": "1217975853662994432",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EOcelfaWAAA5JNM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOcelfaWAAA5JNM.jpg",
+					"url": "https://t.co/kOi3PNszdW",
+					"display_url": "pic.twitter.com/kOi3PNszdW",
+					"expanded_url": "https://twitter.com/VentureSquare/status/1217975855709933568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 200,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 698,
+									"y": 221,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 200,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 698,
+									"y": 221,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 165,
+									"y": 136,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 474,
+									"y": 150,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 200,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 698,
+									"y": 221,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217975853662994400,
+					"id_str": "1217975853662994432",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EOcelfaWAAA5JNM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOcelfaWAAA5JNM.jpg",
+					"url": "https://t.co/kOi3PNszdW",
+					"display_url": "pic.twitter.com/kOi3PNszdW",
+					"expanded_url": "https://twitter.com/VentureSquare/status/1217975855709933568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 200,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 698,
+									"y": 221,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 200,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 698,
+									"y": 221,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 165,
+									"y": 136,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 474,
+									"y": 150,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 200,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 698,
+									"y": 221,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109783731,
+			"id_str": "109783731",
+			"name": "VentureSquare",
+			"screen_name": "VentureSquare",
+			"location": "서울 강남구",
+			"description": "::벤처스퀘어 공식 트위터:: 벤처기업 (스타트업)과 기업가들을 위한 벤처전문 온라인 미디어입니다. 국내외의 다양한 스타트업과 관련 인물을 소개하고 비즈니스 트렌드, 경영, 마케팅, 투자, 기술 등 비즈니스 전반에 걸친 내용을 전달합니다.",
+			"url": "http://t.co/Sv72C5q8FI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Sv72C5q8FI",
+							"expanded_url": "http://www.venturesquare.net",
+							"display_url": "venturesquare.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6529,
+			"friends_count": 297,
+			"listed_count": 350,
+			"created_at": "Sat Jan 30 07:12:31 +0000 2010",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109783731/1451867938",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "29CM, 쇼퍼블 비디오 '29TV' 정식 론칭 - 벤처스퀘어\n#뉴스 https://t.co/DwFU7WerLm https://t.co/kOi3PNszdW"
+	},
+	{
 		"created_at": "Fri Jan 17 20:40:37 +0000 2020",
 		"id": 1218215888094146600,
 		"id_str": "1218271932505903104",
