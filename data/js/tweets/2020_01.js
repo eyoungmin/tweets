@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 13:40:39 +0000 2020",
+		"id": 1218518420632699000,
+		"id_str": "1218528630009143296",
+		"full_text": "'음악중심' 레드벨벳, 3주 연속 1위+7관왕 [★밤TView] (출처 : 스타뉴스 | 네이버 TV연예) \n\n👉🏻https://t.co/rrr5l2GM5a\n\n#레드벨벳 #RedVelvet #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho #Psycho7thWin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						110,
+						132
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						141,
+						158
+					]
+				},
+				{
+					"text": "Psycho7thWin",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rrr5l2GM5a",
+					"expanded_url": "http://naver.me/5vR5qwSm",
+					"display_url": "naver.me/5vR5qwSm",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2190817,
+			"friends_count": 2,
+			"listed_count": 6474,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2572,
+		"favorite_count": 6673,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'음악중심' 레드벨벳, 3주 연속 1위+7관왕 [★밤TView] (출처 : 스타뉴스 | 네이버 TV연예) \n\n👉🏻https://t.co/rrr5l2GM5a\n\n#레드벨벳 #RedVelvet #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho #Psycho7thWin"
+	},
+	{
+		"created_at": "Sat Jan 18 13:32:06 +0000 2020",
+		"id": 1218526478301876200,
+		"id_str": "1218526478301876224",
+		"full_text": "당신이 몰랐던 흰색의 비밀?\nhttps://t.co/RhFf4PcAeH\n#널위한문화예술 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "널위한문화예술",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						49,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RhFf4PcAeH",
+					"expanded_url": "https://youtu.be/blX_gpfCvBU",
+					"display_url": "youtu.be/blX_gpfCvBU",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신이 몰랐던 흰색의 비밀?\nhttps://t.co/RhFf4PcAeH\n#널위한문화예술 #minfav"
+	},
+	{
 		"created_at": "Sat Jan 18 12:36:25 +0000 2020",
 		"id": 1218512465492729900,
 		"id_str": "1218512465492729856",
