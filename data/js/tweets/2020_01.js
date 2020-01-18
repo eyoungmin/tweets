@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 01:22:05 +0000 2020",
+		"id": 1218123843379679200,
+		"id_str": "1218342763910975489",
+		"full_text": "더불어 스위스와 한국의 동물복지 이야기도 전해드립니다.\n\n좋은 시스템을 만들고 유지하기란 참 어려운 것이에요. 그렇기에 더 나은 체계를 만들기 위해 노력하는 사람들, 법정에서 동물을 대변하는 사람들, 스위스와 한국의 동물 변호사를 소개합니다🤗\nhttps://t.co/8VyHCwtyi7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8VyHCwtyi7",
+					"expanded_url": "https://purplejam.kr/super-animal-laywer/",
+					"display_url": "purplejam.kr/super-animal-l…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1218107164599783400,
+		"in_reply_to_status_id_str": "1218107164599783424",
+		"in_reply_to_user_id": 909658324655775700,
+		"in_reply_to_user_id_str": "909658324655775744",
+		"in_reply_to_screen_name": "_purplejam_",
+		"user": {
+			"id": 909658324655775700,
+			"id_str": "909658324655775744",
+			"name": "퍼플잼",
+			"screen_name": "_purplejam_",
+			"location": "",
+			"description": "동물친구들의 친구, 퍼플잼은 동물친구들과 함께 잘 먹고 잘 사는 방법을 고민하고 수집하는 콘텐츠 플랫폼입니다. @Hi_bball이 디자인하고 @Heeyang_ssan이 글을 쓰고 편집합니다.",
+			"url": "https://t.co/5LcoCIgWs1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5LcoCIgWs1",
+							"expanded_url": "http://purplejam.kr",
+							"display_url": "purplejam.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1368,
+			"friends_count": 554,
+			"listed_count": 6,
+			"created_at": "Mon Sep 18 06:00:20 +0000 2017",
+			"favourites_count": 1778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189354045246324736/HZpgXX59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189354045246324736/HZpgXX59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/909658324655775744/1572399077",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더불어 스위스와 한국의 동물복지 이야기도 전해드립니다.\n\n좋은 시스템을 만들고 유지하기란 참 어려운 것이에요. 그렇기에 더 나은 체계를 만들기 위해 노력하는 사람들, 법정에서 동물을 대변하는 사람들, 스위스와 한국의 동물 변호사를 소개합니다🤗\nhttps://t.co/8VyHCwtyi7"
+	},
+	{
+		"created_at": "Sat Jan 18 01:22:03 +0000 2020",
+		"id": 1218107164599783400,
+		"id_str": "1218342755472011264",
+		"full_text": "네덜란드에는 유기견이 한 마리도 없다고 합니다. 믿기 어렵지만 사실이에요.\n\n19세기 무렵 강아지 수를 조절하고자 동물세를 걷었지만 실패한 이유, 그리고 오늘날 유기견 없는 사회로 거듭나기까지 네덜란드의 이야기를 소개합니다. 우리에게도 그런 날이 오길 바라면서요🌟\nhttps://t.co/uRYYlRWvMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uRYYlRWvMO",
+					"expanded_url": "https://purplejam.kr/no-stray-dogs-in-holland/",
+					"display_url": "purplejam.kr/no-stray-dogs-…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 909658324655775700,
+			"id_str": "909658324655775744",
+			"name": "퍼플잼",
+			"screen_name": "_purplejam_",
+			"location": "",
+			"description": "동물친구들의 친구, 퍼플잼은 동물친구들과 함께 잘 먹고 잘 사는 방법을 고민하고 수집하는 콘텐츠 플랫폼입니다. @Hi_bball이 디자인하고 @Heeyang_ssan이 글을 쓰고 편집합니다.",
+			"url": "https://t.co/5LcoCIgWs1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5LcoCIgWs1",
+							"expanded_url": "http://purplejam.kr",
+							"display_url": "purplejam.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1368,
+			"friends_count": 554,
+			"listed_count": 6,
+			"created_at": "Mon Sep 18 06:00:20 +0000 2017",
+			"favourites_count": 1778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189354045246324736/HZpgXX59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189354045246324736/HZpgXX59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/909658324655775744/1572399077",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7960,
+		"favorite_count": 3347,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네덜란드에는 유기견이 한 마리도 없다고 합니다. 믿기 어렵지만 사실이에요.\n\n19세기 무렵 강아지 수를 조절하고자 동물세를 걷었지만 실패한 이유, 그리고 오늘날 유기견 없는 사회로 거듭나기까지 네덜란드의 이야기를 소개합니다. 우리에게도 그런 날이 오길 바라면서요🌟\nhttps://t.co/uRYYlRWvMO"
+	},
+	{
+		"created_at": "Sat Jan 18 01:16:46 +0000 2020",
+		"id": 1218337220635123700,
+		"id_str": "1218341427676991488",
+		"full_text": "2019년에도 많은 음악 아티스트들이 역사의 뒤안길로 사라졌다. 인디포스트가 이들 중 문화적으로 특히 영향력이 컸던 여덟 명의 뮤지션을 선정하여 그들의 유산을 조명해 보았다.\nhttps://t.co/m0U3pgYUtU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m0U3pgYUtU",
+					"expanded_url": "https://www.indiepost.co.kr/post/13543",
+					"display_url": "indiepost.co.kr/post/13543",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808835127639801900,
+			"id_str": "808835127639801856",
+			"name": "인디포스트",
+			"screen_name": "indiepostmedia",
+			"location": "",
+			"description": "WE CURATE VALUES\n인디 문화 큐레이션 서비스, 인디포스트의 공식 계정입니다.",
+			"url": "https://t.co/v1HyjgBR3L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1HyjgBR3L",
+							"expanded_url": "http://www.indiepost.co.kr",
+							"display_url": "indiepost.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5277,
+			"friends_count": 410,
+			"listed_count": 37,
+			"created_at": "Wed Dec 14 00:44:56 +0000 2016",
+			"favourites_count": 208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808835127639801856/1526023975",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년에도 많은 음악 아티스트들이 역사의 뒤안길로 사라졌다. 인디포스트가 이들 중 문화적으로 특히 영향력이 컸던 여덟 명의 뮤지션을 선정하여 그들의 유산을 조명해 보았다.\nhttps://t.co/m0U3pgYUtU"
+	},
+	{
 		"created_at": "Fri Jan 17 23:47:23 +0000 2020",
 		"id": 1217983830562263000,
 		"id_str": "1218318931229736960",
