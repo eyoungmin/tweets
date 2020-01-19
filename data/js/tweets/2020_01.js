@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 03:51:45 +0000 2020",
+		"id": 1218735908997910500,
+		"id_str": "1218742815510814728",
+		"full_text": "\"성소수자에게 체육관을 열어라!\"\n '미풍양속을 해친다' 등의 이유로 퀴어여성생활체육대회 대관을 취소 통보한 서울 동대문구에 성소수자 인권단체가 손해배상 소송을 제기했습니다. '퀴어여성네트워크'의 활동가두 분을 만났습니다.   \n#성소수자 #퀴어 #인권\nhttps://t.co/BqFzB2uSBP https://t.co/272dbhA2Bm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "성소수자",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "퀴어",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "인권",
+					"indices": [
+						138,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BqFzB2uSBP",
+					"expanded_url": "https://youtu.be/EOoH1RM9p40",
+					"display_url": "youtu.be/EOoH1RM9p40",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218735890958209000,
+					"id_str": "1218735890958209025",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnR1e-VUAEanjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnR1e-VUAEanjn.jpg",
+					"url": "https://t.co/272dbhA2Bm",
+					"display_url": "pic.twitter.com/272dbhA2Bm",
+					"expanded_url": "https://twitter.com/wnewskr/status/1218735908997910528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 770,
+									"y": 131,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 350,
+									"y": 210,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 770,
+									"y": 131,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 350,
+									"y": 210,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 721,
+									"y": 122,
+									"h": 131,
+									"w": 131
+								},
+								{
+									"x": 328,
+									"y": 196,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 409,
+									"y": 69,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 185,
+									"y": 111,
+									"h": 75,
+									"w": 75
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218735890958209000,
+					"id_str": "1218735890958209025",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnR1e-VUAEanjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnR1e-VUAEanjn.jpg",
+					"url": "https://t.co/272dbhA2Bm",
+					"display_url": "pic.twitter.com/272dbhA2Bm",
+					"expanded_url": "https://twitter.com/wnewskr/status/1218735908997910528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 770,
+									"y": 131,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 350,
+									"y": 210,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 770,
+									"y": 131,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 350,
+									"y": 210,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 721,
+									"y": 122,
+									"h": 131,
+									"w": 131
+								},
+								{
+									"x": 328,
+									"y": 196,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 409,
+									"y": 69,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 185,
+									"y": 111,
+									"h": 75,
+									"w": 75
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199588,
+			"friends_count": 3605,
+			"listed_count": 369,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00f6b9ac14642dda",
+			"url": "https://api.twitter.com/1.1/geo/id/00f6b9ac14642dda.json",
+			"place_type": "city",
+			"name": "진주시",
+			"full_name": "대한민국 진주시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.92642158448,
+							35.0383987312454
+						],
+						[
+							128.383972199365,
+							35.0383987312454
+						],
+						[
+							128.383972199365,
+							35.3371861319569
+						],
+						[
+							127.92642158448,
+							35.3371861319569
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"성소수자에게 체육관을 열어라!\"\n '미풍양속을 해친다' 등의 이유로 퀴어여성생활체육대회 대관을 취소 통보한 서울 동대문구에 성소수자 인권단체가 손해배상 소송을 제기했습니다. '퀴어여성네트워크'의 활동가두 분을 만났습니다.   \n#성소수자 #퀴어 #인권\nhttps://t.co/BqFzB2uSBP https://t.co/272dbhA2Bm"
+	},
+	{
 		"created_at": "Sun Jan 19 03:02:03 +0000 2020",
 		"id": 1218695496866263000,
 		"id_str": "1218730311032246274",
