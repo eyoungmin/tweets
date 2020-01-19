@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 15:18:36 +0000 2020",
+		"id": 1218732703547191300,
+		"id_str": "1218915670936522754",
+		"full_text": "동네 고양이 학대하지 말라고 유튜브에서 소리치고 또 소리쳐도 어차피 그 사람들은 제 채널을 안 봅니다. 그래서 좀 보라고 돈 좀 썼습니다. 한달간 우리 또또가 버스를 타고 달립니다.\n\n🚌 서울 650번 버스 / 차량번호 6850 / 20.01.18~02.17\n😺영상 보기 https://t.co/apIMnj2H2i https://t.co/pK4QBPkjDk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/apIMnj2H2i",
+					"expanded_url": "https://bit.ly/2Rwn4ah",
+					"display_url": "bit.ly/2Rwn4ah",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218732682173005800,
+					"id_str": "1218732682173005825",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnO6tUUwAEIPYw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnO6tUUwAEIPYw.jpg",
+					"url": "https://t.co/pK4QBPkjDk",
+					"display_url": "pic.twitter.com/pK4QBPkjDk",
+					"expanded_url": "https://twitter.com/Woori_cats/status/1218732703547191296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 177,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 53,
+									"y": 257,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 165,
+									"y": 232,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 250,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 76,
+									"y": 364,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 234,
+									"y": 328,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 250,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 76,
+									"y": 364,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 234,
+									"y": 328,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 250,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 76,
+									"y": 364,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 234,
+									"y": 328,
+									"h": 62,
+									"w": 62
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218732682173005800,
+					"id_str": "1218732682173005825",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnO6tUUwAEIPYw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnO6tUUwAEIPYw.jpg",
+					"url": "https://t.co/pK4QBPkjDk",
+					"display_url": "pic.twitter.com/pK4QBPkjDk",
+					"expanded_url": "https://twitter.com/Woori_cats/status/1218732703547191296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 177,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 53,
+									"y": 257,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 165,
+									"y": 232,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 250,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 76,
+									"y": 364,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 234,
+									"y": 328,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 250,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 76,
+									"y": 364,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 234,
+									"y": 328,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 250,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 76,
+									"y": 364,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 234,
+									"y": 328,
+									"h": 62,
+									"w": 62
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1218732682173014000,
+					"id_str": "1218732682173014016",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnO6tUU4AAEerf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnO6tUU4AAEerf.jpg",
+					"url": "https://t.co/pK4QBPkjDk",
+					"display_url": "pic.twitter.com/pK4QBPkjDk",
+					"expanded_url": "https://twitter.com/Woori_cats/status/1218732703547191296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1218732682168782800,
+					"id_str": "1218732682168782851",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnO6tTUUAMHezj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnO6tTUUAMHezj.jpg",
+					"url": "https://t.co/pK4QBPkjDk",
+					"display_url": "pic.twitter.com/pK4QBPkjDk",
+					"expanded_url": "https://twitter.com/Woori_cats/status/1218732703547191296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 671,
+									"y": 361,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 419,
+									"y": 225,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 671,
+									"y": 361,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 127,
+									"h": 26,
+									"w": 26
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1218732682177171500,
+					"id_str": "1218732682177171456",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnO6tVUUAAY3VL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnO6tVUUAAY3VL.jpg",
+					"url": "https://t.co/pK4QBPkjDk",
+					"display_url": "pic.twitter.com/pK4QBPkjDk",
+					"expanded_url": "https://twitter.com/Woori_cats/status/1218732703547191296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 980,
+									"y": 495,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 612,
+									"y": 309,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 980,
+									"y": 495,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 347,
+									"y": 175,
+									"h": 54,
+									"w": 54
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1186113164900884500,
+			"id_str": "1186113164900884481",
+			"name": "우동고",
+			"screen_name": "Woori_cats",
+			"location": "",
+			"description": "우리 동네 고양이",
+			"url": "https://t.co/hCZsusvHUh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hCZsusvHUh",
+							"expanded_url": "https://www.youtube.com/channel/UC-0JYXUFvDy2wlrBXazqz0w?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC-0JY…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Mon Oct 21 02:53:15 +0000 2019",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217361910875607047/W_xmv9J0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217361910875607047/W_xmv9J0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186113164900884481/1571635786",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3476,
+		"favorite_count": 1411,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동네 고양이 학대하지 말라고 유튜브에서 소리치고 또 소리쳐도 어차피 그 사람들은 제 채널을 안 봅니다. 그래서 좀 보라고 돈 좀 썼습니다. 한달간 우리 또또가 버스를 타고 달립니다.\n\n🚌 서울 650번 버스 / 차량번호 6850 / 20.01.18~02.17\n😺영상 보기 https://t.co/apIMnj2H2i https://t.co/pK4QBPkjDk"
+	},
+	{
+		"created_at": "Sun Jan 19 15:16:12 +0000 2020",
+		"id": 1218915065828647000,
+		"id_str": "1218915065828646913",
+		"full_text": "여성 예술인에 쏟아지는 차별적인 시선들에 대해 이야기 한다. 홍대 여신 수식어 대해서도 언급.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218914427891638300,
+		"in_reply_to_status_id_str": "1218914427891638272",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "여성 예술인에 쏟아지는 차별적인 시선들에 대해 이야기 한다. 홍대 여신 수식어 대해서도 언급."
+	},
+	{
+		"created_at": "Sun Jan 19 15:13:40 +0000 2020",
+		"id": 1218914427891638300,
+		"id_str": "1218914427891638272",
+		"full_text": "SBS 다큐멘터리 〈우리의 언어가 예술이라면〉\n내레이션 : 요조(YOZOH)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "SBS 다큐멘터리 〈우리의 언어가 예술이라면〉\n내레이션 : 요조(YOZOH)"
+	},
+	{
+		"created_at": "Sun Jan 19 15:11:53 +0000 2020",
+		"id": 1218913978069291000,
+		"id_str": "1218913978069291009",
+		"full_text": "SBS 다큐멘터리에 요조님 나온다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "SBS 다큐멘터리에 요조님 나온다."
+	},
+	{
 		"created_at": "Sun Jan 19 13:40:01 +0000 2020",
 		"id": 1218877620370018300,
 		"id_str": "1218890859413999616",
