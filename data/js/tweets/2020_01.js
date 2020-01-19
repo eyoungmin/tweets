@@ -1,6 +1,1290 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 03:02:03 +0000 2020",
+		"id": 1218695496866263000,
+		"id_str": "1218730311032246274",
+		"full_text": "EOS 개발사 블록원, ‘보이스’ SNS 2월 공개…”첨엔 EOS 지원 안해” https://t.co/8DmWYPxpJj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8DmWYPxpJj",
+					"expanded_url": "http://www.bloter.net/archives/368378",
+					"display_url": "bloter.net/archives/368378",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56225,
+			"friends_count": 9,
+			"listed_count": 2531,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EOS 개발사 블록원, ‘보이스’ SNS 2월 공개…”첨엔 EOS 지원 안해” https://t.co/8DmWYPxpJj"
+	},
+	{
+		"created_at": "Sun Jan 19 03:00:34 +0000 2020",
+		"id": 1218729936816492500,
+		"id_str": "1218729936816492544",
+		"full_text": "펀딩사이트에 옷 원단 가지고 사기치고 부풀려 과장광고 하는 사람 많은 듯하다. 직설적으로 말고 의문형태로 댓글 달고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "펀딩사이트에 옷 원단 가지고 사기치고 부풀려 과장광고 하는 사람 많은 듯하다. 직설적으로 말고 의문형태로 댓글 달고 있다."
+	},
+	{
+		"created_at": "Sun Jan 19 03:00:24 +0000 2020",
+		"id": 1218729893451784200,
+		"id_str": "1218729893451784193",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jan 19) https://t.co/1Y91CV2hLA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Y91CV2hLA",
+					"expanded_url": "https://nzzl.us/qFOTFE8",
+					"display_url": "nzzl.us/qFOTFE8",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Jan 19) https://t.co/1Y91CV2hLA"
+	},
+	{
+		"created_at": "Sun Jan 19 02:57:25 +0000 2020",
+		"id": 1218729145300992000,
+		"id_str": "1218729145300992000",
+		"full_text": "구매한 와디즈 화장품이 사기였다. 부모님 사드렸는데 진짜 화가난다. 왜 나는 의심하면서 마지막날이나 몇 일 안남겨두고 결국 사는 걸까... 내가 한심해 미치겠다.\nhttps://t.co/zzyfCjZhCj #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zzyfCjZhCj",
+					"expanded_url": "https://youtu.be/_YkM0hn7SaU",
+					"display_url": "youtu.be/_YkM0hn7SaU",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구매한 와디즈 화장품이 사기였다. 부모님 사드렸는데 진짜 화가난다. 왜 나는 의심하면서 마지막날이나 몇 일 안남겨두고 결국 사는 걸까... 내가 한심해 미치겠다.\nhttps://t.co/zzyfCjZhCj #minfav"
+	},
+	{
+		"created_at": "Sun Jan 19 02:54:36 +0000 2020",
+		"id": 1218728436451070000,
+		"id_str": "1218728436451069953",
+		"full_text": "1. 관심 아티스트는 RSS를 통해 받아본다.\n2. Hermit이라는 서비스별 모바일 페이지를 각각의 바로가기를 제공하는 브라우저를 사용한다. 광고는 없으나 멀티로그인이 안되어 아쉽다. 여러 개를 만들어 해결할 수 있다.\n#Instagram #인스타그램 #스타트업",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Instagram",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "인스타그램",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						142,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1218727420145983500,
+		"in_reply_to_status_id_str": "1218727420145983488",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "1. 관심 아티스트는 RSS를 통해 받아본다.\n2. Hermit이라는 서비스별 모바일 페이지를 각각의 바로가기를 제공하는 브라우저를 사용한다. 광고는 없으나 멀티로그인이 안되어 아쉽다. 여러 개를 만들어 해결할 수 있다.\n#Instagram #인스타그램 #스타트업"
+	},
+	{
+		"created_at": "Sun Jan 19 02:50:34 +0000 2020",
+		"id": 1218727420145983500,
+		"id_str": "1218727420145983488",
+		"full_text": "1번 내용 인스타그램에 대해\n인스타그램은 피드는 광고가 너무 많다. 폰이나 화면 해상도에 따라 과하면 두 개 포스트 건너 광고가 있다. 내가 모 국산 애드블락 서비스를 와디즈에서 펀딩한 것도 그것을 해결할 수 있다고 했기 때문이다.\n#Instagram #인스타그램 #스타트업 https://t.co/v7QFcUGZhj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Instagram",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "인스타그램",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v7QFcUGZhj",
+					"expanded_url": "https://twitter.com/GeekNewsBot/status/1218706626019909632",
+					"display_url": "twitter.com/GeekNewsBot/st…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218706626019909600,
+		"quoted_status_id_str": "1218706626019909632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v7QFcUGZhj",
+			"expanded": "https://twitter.com/GeekNewsBot/status/1218706626019909632",
+			"display": "twitter.com/GeekNewsBot/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 19 01:27:56 +0000 2020",
+			"id": 1218706626019909600,
+			"id_str": "1218706626019909632",
+			"full_text": "2020 스타트업 테마 https://t.co/QuHuiBHyQr \n소제목들은 비유가 심해서 내용을 읽는 걸 강력 추천. 재미나고 유용하네요. \n1. 광고주 위축의 법칙\n2. NoCode 좋아요\n3. 엔터프라이즈 검색\n4. 디지털 무역전쟁\n5. 프라이버시 Head Fake\n6. Useful AI\n7. Radar\n8. 원격근무 &amp; 협업\n9....",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QuHuiBHyQr",
+						"expanded_url": "http://j.mp/2NFrXgp",
+						"display_url": "j.mp/2NFrXgp",
+						"indices": [
+							13,
+							36
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1149438140811116500,
+				"id_str": "1149438140811116544",
+				"name": "GeekNews",
+				"screen_name": "GeekNewsBot",
+				"location": "",
+				"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+				"url": "https://t.co/Eeoeh5jF1C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Eeoeh5jF1C",
+								"expanded_url": "https://news.hada.io",
+								"display_url": "news.hada.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1950,
+				"friends_count": 0,
+				"listed_count": 36,
+				"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1207,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+				"profile_link_color": "000065",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1번 내용 인스타그램에 대해\n인스타그램은 피드는 광고가 너무 많다. 폰이나 화면 해상도에 따라 과하면 두 개 포스트 건너 광고가 있다. 내가 모 국산 애드블락 서비스를 와디즈에서 펀딩한 것도 그것을 해결할 수 있다고 했기 때문이다.\n#Instagram #인스타그램 #스타트업 https://t.co/v7QFcUGZhj"
+	},
+	{
+		"created_at": "Sun Jan 19 02:46:26 +0000 2020",
+		"id": 1218706626019909600,
+		"id_str": "1218726378339569664",
+		"full_text": "2020 스타트업 테마 https://t.co/QuHuiBHyQr \n소제목들은 비유가 심해서 내용을 읽는 걸 강력 추천. 재미나고 유용하네요. \n1. 광고주 위축의 법칙\n2. NoCode 좋아요\n3. 엔터프라이즈 검색\n4. 디지털 무역전쟁\n5. 프라이버시 Head Fake\n6. Useful AI\n7. Radar\n8. 원격근무 &amp; 협업\n9....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QuHuiBHyQr",
+					"expanded_url": "http://j.mp/2NFrXgp",
+					"display_url": "j.mp/2NFrXgp",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1950,
+			"friends_count": 0,
+			"listed_count": 36,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 스타트업 테마 https://t.co/QuHuiBHyQr \n소제목들은 비유가 심해서 내용을 읽는 걸 강력 추천. 재미나고 유용하네요. \n1. 광고주 위축의 법칙\n2. NoCode 좋아요\n3. 엔터프라이즈 검색\n4. 디지털 무역전쟁\n5. 프라이버시 Head Fake\n6. Useful AI\n7. Radar\n8. 원격근무 &amp; 협업\n9...."
+	},
+	{
+		"created_at": "Sun Jan 19 02:43:34 +0000 2020",
+		"id": 1218725657997234200,
+		"id_str": "1218725657997234176",
+		"full_text": "티머니만을 이용을 요구하던 락 페스티벌에서 웨어러블에 부착해 쓰는 티머니를 사서 써본 적도 있다. 직접 찍는 푸드트럭도 있었지만 풀어 줘야해서 쓸 수가 없었다.\n#티머니 #카드 #페스티벌 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티머니",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "카드",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1218724350276161500,
+		"in_reply_to_status_id_str": "1218724350276161536",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "티머니만을 이용을 요구하던 락 페스티벌에서 웨어러블에 부착해 쓰는 티머니를 사서 써본 적도 있다. 직접 찍는 푸드트럭도 있었지만 풀어 줘야해서 쓸 수가 없었다.\n#티머니 #카드 #페스티벌 #뮤직비지니스"
+	},
+	{
+		"created_at": "Sun Jan 19 02:38:22 +0000 2020",
+		"id": 1218724350276161500,
+		"id_str": "1218724350276161536",
+		"full_text": "특정 카드사와 파트너십 맺는 것은 좋으나 경제적인 시스템적인 부분을 해결할 수 있으니 다만 그게 실질적으로 이용하는 고객, 팬이 불편함을 느끼는 경우가 다수였다. 분명 더 편한 방법이 있음에도 프로모션 하기 위해 특정 앱과 서비스만을 강요해 불편을 초래했다.\n#카드 #페스티벌 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카드",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1218723555287789600,
+		"in_reply_to_status_id_str": "1218723555287789568",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "특정 카드사와 파트너십 맺는 것은 좋으나 경제적인 시스템적인 부분을 해결할 수 있으니 다만 그게 실질적으로 이용하는 고객, 팬이 불편함을 느끼는 경우가 다수였다. 분명 더 편한 방법이 있음에도 프로모션 하기 위해 특정 앱과 서비스만을 강요해 불편을 초래했다.\n#카드 #페스티벌 #뮤직비지니스"
+	},
+	{
+		"created_at": "Sun Jan 19 02:35:13 +0000 2020",
+		"id": 1218723555287789600,
+		"id_str": "1218723555287789568",
+		"full_text": "삼성페이를 낼 때도 직접 찍지 않고 가져가 찍는 방식이라 불안했다. 음식만지며 계산해 찝찝하기도 했고 떨어뜨릴까 걱정도 됐다. 특히나 소지품을 최소화해야 편한 페스티벌에서 더 유용할 것이라 생각한다.\n#카드 #페스티벌 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카드",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1218722845351534600,
+		"in_reply_to_status_id_str": "1218722845351534592",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "삼성페이를 낼 때도 직접 찍지 않고 가져가 찍는 방식이라 불안했다. 음식만지며 계산해 찝찝하기도 했고 떨어뜨릴까 걱정도 됐다. 특히나 소지품을 최소화해야 편한 페스티벌에서 더 유용할 것이라 생각한다.\n#카드 #페스티벌 #뮤직비지니스"
+	},
+	{
 		"created_at": "Sun Jan 19 01:40:37 +0000 2020",
 		"id": 1218700118091686000,
 		"id_str": "1218709817667346432",
