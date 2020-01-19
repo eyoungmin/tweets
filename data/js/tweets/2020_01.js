@@ -1,6 +1,164 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 09:40:38 +0000 2020",
+		"id": 1218820660819980300,
+		"id_str": "1218830614859800576",
+		"full_text": "'인기가요' 레드벨벳, 'Psycho'로 3주 연속 1위→'8관왕 (종합) (출처 : OSEN | 네이버 TV연예)\n\n👉🏻 https://t.co/VCIu0lvUQq\n\n#레드벨벳 #RedVelvet #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho #Psycho8thWin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "RVF",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "TheReVeFestivalFinale",
+					"indices": [
+						116,
+						138
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "FinaleWithPsycho",
+					"indices": [
+						147,
+						164
+					]
+				},
+				{
+					"text": "Psycho8thWin",
+					"indices": [
+						165,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VCIu0lvUQq",
+					"expanded_url": "http://naver.me/x3yZZCz5",
+					"display_url": "naver.me/x3yZZCz5",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2194790,
+			"friends_count": 2,
+			"listed_count": 6482,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2698,
+		"favorite_count": 6200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'인기가요' 레드벨벳, 'Psycho'로 3주 연속 1위→'8관왕 (종합) (출처 : OSEN | 네이버 TV연예)\n\n👉🏻 https://t.co/VCIu0lvUQq\n\n#레드벨벳 #RedVelvet #RVF #TheReVeFestivalFinale #Psycho #FinaleWithPsycho #Psycho8thWin"
+	},
+	{
 		"created_at": "Sun Jan 19 07:43:50 +0000 2020",
 		"id": 1218654295815381000,
 		"id_str": "1218801221542170625",
