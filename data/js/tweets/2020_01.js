@@ -1,6 +1,2140 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 05:40:37 +0000 2020",
+		"id": 1218761286877470700,
+		"id_str": "1218770215821041668",
+		"full_text": "I’m so Bad\n⠀⠀\n#이달의소녀 #LOONA\n⠀⠀⠀⠀⠀\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/VvJKA0BMiN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXI886V",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218761266400858000,
+					"id_str": "1218761266400858112",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EOno6h3UEAAj75j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOno6h3UEAAj75j.jpg",
+					"url": "https://t.co/VvJKA0BMiN",
+					"display_url": "pic.twitter.com/VvJKA0BMiN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1218761286877470721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1520,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 368,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 537,
+									"y": 347,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1016,
+									"y": 581,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 1251,
+									"y": 351,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1030,
+									"y": 371,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 783,
+									"y": 369,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 712,
+									"y": 580,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 97,
+									"y": 632,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 1321,
+									"y": 558,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 1242,
+									"y": 724,
+									"h": 236,
+									"w": 236
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 164,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 240,
+									"y": 155,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 454,
+									"y": 259,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 559,
+									"y": 157,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 460,
+									"y": 165,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 350,
+									"y": 165,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 318,
+									"y": 259,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 43,
+									"y": 282,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 590,
+									"y": 249,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 555,
+									"y": 323,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 290,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 423,
+									"y": 273,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 802,
+									"y": 458,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 987,
+									"y": 277,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 813,
+									"y": 292,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 618,
+									"y": 291,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 562,
+									"y": 457,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 76,
+									"y": 498,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 1042,
+									"y": 440,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 980,
+									"y": 571,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 368,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 537,
+									"y": 347,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1016,
+									"y": 581,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 1251,
+									"y": 351,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1030,
+									"y": 371,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 783,
+									"y": 369,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 712,
+									"y": 580,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 97,
+									"y": 632,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 1321,
+									"y": 558,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 1242,
+									"y": 724,
+									"h": 236,
+									"w": 236
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218761266400858000,
+					"id_str": "1218761266400858112",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EOno6h3UEAAj75j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOno6h3UEAAj75j.jpg",
+					"url": "https://t.co/VvJKA0BMiN",
+					"display_url": "pic.twitter.com/VvJKA0BMiN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1218761286877470721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1520,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 368,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 537,
+									"y": 347,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1016,
+									"y": 581,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 1251,
+									"y": 351,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1030,
+									"y": 371,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 783,
+									"y": 369,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 712,
+									"y": 580,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 97,
+									"y": 632,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 1321,
+									"y": 558,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 1242,
+									"y": 724,
+									"h": 236,
+									"w": 236
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 164,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 240,
+									"y": 155,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 454,
+									"y": 259,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 559,
+									"y": 157,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 460,
+									"y": 165,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 350,
+									"y": 165,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 318,
+									"y": 259,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 43,
+									"y": 282,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 590,
+									"y": 249,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 555,
+									"y": 323,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 290,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 423,
+									"y": 273,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 802,
+									"y": 458,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 987,
+									"y": 277,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 813,
+									"y": 292,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 618,
+									"y": 291,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 562,
+									"y": 457,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 76,
+									"y": 498,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 1042,
+									"y": 440,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 980,
+									"y": 571,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 368,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 537,
+									"y": 347,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1016,
+									"y": 581,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 1251,
+									"y": 351,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1030,
+									"y": 371,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 783,
+									"y": 369,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 712,
+									"y": 580,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 97,
+									"y": 632,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 1321,
+									"y": 558,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 1242,
+									"y": 724,
+									"h": 236,
+									"w": 236
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393907,
+			"friends_count": 0,
+			"listed_count": 5650,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19408,
+		"favorite_count": 30265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m so Bad\n⠀⠀\n#이달의소녀 #LOONA\n⠀⠀⠀⠀⠀\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/VvJKA0BMiN"
+	},
+	{
+		"created_at": "Sun Jan 19 05:38:06 +0000 2020",
+		"id": 1218769582912966700,
+		"id_str": "1218769582912966656",
+		"full_text": "SM엔터테인먼트 관계자님, CT-AI랩스에 공유하여 함께 읽어보시면 좋을 것 같아 추천 드립니다. @SMTOWNGLOBAL https://t.co/9NkksIyyPN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						55,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9NkksIyyPN",
+					"expanded_url": "https://twitter.com/ebadaknews/status/1218756804051554304",
+					"display_url": "twitter.com/ebadaknews/sta…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218756804051554300,
+		"quoted_status_id_str": "1218756804051554304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9NkksIyyPN",
+			"expanded": "https://twitter.com/ebadaknews/status/1218756804051554304",
+			"display": "twitter.com/ebadaknews/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 19 04:47:20 +0000 2020",
+			"id": 1218756804051554300,
+			"id_str": "1218756804051554304",
+			"full_text": "\"(요즘 머신러닝을 활용하는) 회사들은 특정 산업에 국한되지 않습니다. 심지어 머신러닝이나 AI와 관련이 있을거라 생각조차 못했던, 아주 구체적인 문제들을 머신러닝으로 멋지게 해결합니다. \n\na16z의 애널리스트 베네딕트 에반스의 글을 번역했습니다. \n\nhttps://t.co/V2PsuaemRl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V2PsuaemRl",
+						"expanded_url": "https://ebadak.news/2020/01/19/machine-learning-deployment/",
+						"display_url": "ebadak.news/2020/01/19/mac…",
+						"indices": [
+							142,
+							165
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1114700851778449400,
+				"id_str": "1114700851778449408",
+				"name": "이바닥늬우스",
+				"screen_name": "ebadaknews",
+				"location": "",
+				"description": "찰지고 신나는 테크바닥 늬우스",
+				"url": "https://t.co/L0rYnRELas",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L0rYnRELas",
+								"expanded_url": "https://ebadak.news",
+								"display_url": "ebadak.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 459,
+				"friends_count": 0,
+				"listed_count": 13,
+				"created_at": "Sun Apr 07 01:26:07 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 113,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114700851778449408/1555415622",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM엔터테인먼트 관계자님, CT-AI랩스에 공유하여 함께 읽어보시면 좋을 것 같아 추천 드립니다. @SMTOWNGLOBAL https://t.co/9NkksIyyPN"
+	},
+	{
+		"created_at": "Sun Jan 19 05:27:59 +0000 2020",
+		"id": 1218767035036913700,
+		"id_str": "1218767035036913664",
+		"full_text": "@aprilsour 엠오이칼인가요?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aprilsour",
+					"name": "김사월",
+					"id": 568866057,
+					"id_str": "568866057",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1218764225792790500,
+		"in_reply_to_status_id_str": "1218764225792790533",
+		"in_reply_to_user_id": 568866057,
+		"in_reply_to_user_id_str": "568866057",
+		"in_reply_to_screen_name": "aprilsour",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@aprilsour 엠오이칼인가요?"
+	},
+	{
+		"created_at": "Sun Jan 19 05:26:08 +0000 2020",
+		"id": 1218766568508641300,
+		"id_str": "1218766568508641280",
+		"full_text": "유명 뷰티 크리에이터와 인플루언서가 추천한 제품. 믿을 사람이 없는 시대에 스스로가 찐을 찾는 방법을 학습하고 있어야 될 듯하다.\nhttps://t.co/sekZkQCWYU\n#유리스킨 #와디즈 #펀딩 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리스킨",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "와디즈",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "펀딩",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sekZkQCWYU",
+					"expanded_url": "https://youtu.be/zKdks1eRHVw",
+					"display_url": "youtu.be/zKdks1eRHVw",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1218729145300992000,
+		"in_reply_to_status_id_str": "1218729145300992000",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유명 뷰티 크리에이터와 인플루언서가 추천한 제품. 믿을 사람이 없는 시대에 스스로가 찐을 찾는 방법을 학습하고 있어야 될 듯하다.\nhttps://t.co/sekZkQCWYU\n#유리스킨 #와디즈 #펀딩 #minfav"
+	},
+	{
+		"created_at": "Sun Jan 19 05:11:00 +0000 2020",
+		"id": 1218397605446717400,
+		"id_str": "1218762762492366848",
+		"full_text": "저자는 지능이 더 높을수록 오히려 편향과 자기합리화에 빠져 헛똑똑이가 될 가능성이 크다고 이야기한다.\nhttps://t.co/MHNkfRpek0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MHNkfRpek0",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202001172050005&code=960205",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 748180,
+			"friends_count": 80866,
+			"listed_count": 6461,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 687,
+		"favorite_count": 518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저자는 지능이 더 높을수록 오히려 편향과 자기합리화에 빠져 헛똑똑이가 될 가능성이 크다고 이야기한다.\nhttps://t.co/MHNkfRpek0"
+	},
+	{
+		"created_at": "Sun Jan 19 05:10:41 +0000 2020",
+		"id": 1218762682154668000,
+		"id_str": "1218762682154668032",
+		"full_text": "김립이랑 혜주 깐머리 🔥💕 https://t.co/UB8uSLdnRP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UB8uSLdnRP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1218761286877470721",
+					"display_url": "twitter.com/loonatheworld/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 883,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 36956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218761286877470700,
+		"quoted_status_id_str": "1218761286877470721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UB8uSLdnRP",
+			"expanded": "https://twitter.com/loonatheworld/status/1218761286877470721",
+			"display": "twitter.com/loonatheworld/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 19 05:05:08 +0000 2020",
+			"id": 1218761286877470700,
+			"id_str": "1218761286877470721",
+			"full_text": "I’m so Bad\n⠀⠀\n#이달의소녀 #LOONA\n⠀⠀⠀⠀⠀\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/VvJKA0BMiN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							14,
+							20
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							21,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5CfbXI886V",
+						"expanded_url": "http://www.loonatheworld.com",
+						"display_url": "loonatheworld.com",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1218761266400858000,
+						"id_str": "1218761266400858112",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EOno6h3UEAAj75j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOno6h3UEAAj75j.jpg",
+						"url": "https://t.co/VvJKA0BMiN",
+						"display_url": "pic.twitter.com/VvJKA0BMiN",
+						"expanded_url": "https://twitter.com/loonatheworld/status/1218761286877470721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 447,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 789,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1520,
+								"h": 1000,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 53,
+										"y": 368,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 537,
+										"y": 347,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 1016,
+										"y": 581,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 1251,
+										"y": 351,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 1030,
+										"y": 371,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 783,
+										"y": 369,
+										"h": 106,
+										"w": 106
+									},
+									{
+										"x": 712,
+										"y": 580,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 97,
+										"y": 632,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 1321,
+										"y": 558,
+										"h": 135,
+										"w": 135
+									},
+									{
+										"x": 1242,
+										"y": 724,
+										"h": 236,
+										"w": 236
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 23,
+										"y": 164,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 240,
+										"y": 155,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 454,
+										"y": 259,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 559,
+										"y": 157,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 460,
+										"y": 165,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 350,
+										"y": 165,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 318,
+										"y": 259,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 43,
+										"y": 282,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 590,
+										"y": 249,
+										"h": 60,
+										"w": 60
+									},
+									{
+										"x": 555,
+										"y": 323,
+										"h": 105,
+										"w": 105
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 41,
+										"y": 290,
+										"h": 85,
+										"w": 85
+									},
+									{
+										"x": 423,
+										"y": 273,
+										"h": 85,
+										"w": 85
+									},
+									{
+										"x": 802,
+										"y": 458,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 987,
+										"y": 277,
+										"h": 85,
+										"w": 85
+									},
+									{
+										"x": 813,
+										"y": 292,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 618,
+										"y": 291,
+										"h": 83,
+										"w": 83
+									},
+									{
+										"x": 562,
+										"y": 457,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 76,
+										"y": 498,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 1042,
+										"y": 440,
+										"h": 106,
+										"w": 106
+									},
+									{
+										"x": 980,
+										"y": 571,
+										"h": 186,
+										"w": 186
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 53,
+										"y": 368,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 537,
+										"y": 347,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 1016,
+										"y": 581,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 1251,
+										"y": 351,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 1030,
+										"y": 371,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 783,
+										"y": 369,
+										"h": 106,
+										"w": 106
+									},
+									{
+										"x": 712,
+										"y": 580,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 97,
+										"y": 632,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 1321,
+										"y": 558,
+										"h": 135,
+										"w": 135
+									},
+									{
+										"x": 1242,
+										"y": 724,
+										"h": 236,
+										"w": 236
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1218761266400858000,
+						"id_str": "1218761266400858112",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EOno6h3UEAAj75j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOno6h3UEAAj75j.jpg",
+						"url": "https://t.co/VvJKA0BMiN",
+						"display_url": "pic.twitter.com/VvJKA0BMiN",
+						"expanded_url": "https://twitter.com/loonatheworld/status/1218761286877470721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 447,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 789,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1520,
+								"h": 1000,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 53,
+										"y": 368,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 537,
+										"y": 347,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 1016,
+										"y": 581,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 1251,
+										"y": 351,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 1030,
+										"y": 371,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 783,
+										"y": 369,
+										"h": 106,
+										"w": 106
+									},
+									{
+										"x": 712,
+										"y": 580,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 97,
+										"y": 632,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 1321,
+										"y": 558,
+										"h": 135,
+										"w": 135
+									},
+									{
+										"x": 1242,
+										"y": 724,
+										"h": 236,
+										"w": 236
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 23,
+										"y": 164,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 240,
+										"y": 155,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 454,
+										"y": 259,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 559,
+										"y": 157,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 460,
+										"y": 165,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 350,
+										"y": 165,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 318,
+										"y": 259,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 43,
+										"y": 282,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 590,
+										"y": 249,
+										"h": 60,
+										"w": 60
+									},
+									{
+										"x": 555,
+										"y": 323,
+										"h": 105,
+										"w": 105
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 41,
+										"y": 290,
+										"h": 85,
+										"w": 85
+									},
+									{
+										"x": 423,
+										"y": 273,
+										"h": 85,
+										"w": 85
+									},
+									{
+										"x": 802,
+										"y": 458,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 987,
+										"y": 277,
+										"h": 85,
+										"w": 85
+									},
+									{
+										"x": 813,
+										"y": 292,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 618,
+										"y": 291,
+										"h": 83,
+										"w": 83
+									},
+									{
+										"x": 562,
+										"y": 457,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 76,
+										"y": 498,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 1042,
+										"y": 440,
+										"h": 106,
+										"w": 106
+									},
+									{
+										"x": 980,
+										"y": 571,
+										"h": 186,
+										"w": 186
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 53,
+										"y": 368,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 537,
+										"y": 347,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 1016,
+										"y": 581,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 1251,
+										"y": 351,
+										"h": 108,
+										"w": 108
+									},
+									{
+										"x": 1030,
+										"y": 371,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 783,
+										"y": 369,
+										"h": 106,
+										"w": 106
+									},
+									{
+										"x": 712,
+										"y": 580,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 97,
+										"y": 632,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 1321,
+										"y": 558,
+										"h": 135,
+										"w": 135
+									},
+									{
+										"x": 1242,
+										"y": 724,
+										"h": 236,
+										"w": 236
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 770959712791597000,
+				"id_str": "770959712791597056",
+				"name": "이달의 소녀(LOOΠΔ)",
+				"screen_name": "loonatheworld",
+				"location": "",
+				"description": "이달의 소녀 공식 트위터입니다.",
+				"url": "https://t.co/hthRlo3Dn7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hthRlo3Dn7",
+								"expanded_url": "http://www.loonatheworld.com",
+								"display_url": "loonatheworld.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 393907,
+				"friends_count": 0,
+				"listed_count": 5650,
+				"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1699,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1550571087",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19408,
+			"favorite_count": 30265,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김립이랑 혜주 깐머리 🔥💕 https://t.co/UB8uSLdnRP"
+	},
+	{
 		"created_at": "Sun Jan 19 05:00:08 +0000 2020",
 		"id": 1218760028439474200,
 		"id_str": "1218760028439474176",
