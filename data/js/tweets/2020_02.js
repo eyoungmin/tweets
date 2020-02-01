@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 15:30:20 +0000 2020",
+		"id": 1223624857969029000,
+		"id_str": "1223629664700157952",
+		"full_text": "KARD 4th Mini Album 'RED MOON'\n\nCONCEPT PHOTO #1 #SOMIN\n\n#KARD #전소민 #RED_MOON #KARD_RED_MOON\n#KARD_COMEBACK_200212 https://t.co/sHmzsEkKJH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOMIN",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "전소민",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "RED_MOON",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "KARD_RED_MOON",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"text": "KARD_COMEBACK_200212",
+					"indices": [
+						93,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223624731468845000,
+					"id_str": "1223624731468845056",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223624731468845056/pu/img/-sAvtSDDdXgnVt8q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223624731468845056/pu/img/-sAvtSDDdXgnVt8q.jpg",
+					"url": "https://t.co/sHmzsEkKJH",
+					"display_url": "pic.twitter.com/sHmzsEkKJH",
+					"expanded_url": "https://twitter.com/KARD_Official/status/1223624857969029120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223624731468845000,
+					"id_str": "1223624731468845056",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223624731468845056/pu/img/-sAvtSDDdXgnVt8q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223624731468845056/pu/img/-sAvtSDDdXgnVt8q.jpg",
+					"url": "https://t.co/sHmzsEkKJH",
+					"display_url": "pic.twitter.com/sHmzsEkKJH",
+					"expanded_url": "https://twitter.com/KARD_Official/status/1223624857969029120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16768,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223624731468845056/pu/vid/480x270/D9nmzRZ-xEsEBVUL.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223624731468845056/pu/vid/640x360/aDG6kQaGwXHPb8tt.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223624731468845056/pu/vid/1280x720/V3Hxsd6_2okNTPv1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1223624731468845056/pu/pl/u22hZQEr3SqwRPk7.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1223624545812328400,
+		"in_reply_to_status_id_str": "1223624545812328448",
+		"in_reply_to_user_id": 796579760893784000,
+		"in_reply_to_user_id_str": "796579760893784065",
+		"in_reply_to_screen_name": "KARD_Official",
+		"user": {
+			"id": 796579760893784000,
+			"id_str": "796579760893784065",
+			"name": "KARD",
+			"screen_name": "KARD_Official",
+			"location": "",
+			"description": "DSP Media Official KARD Twitter",
+			"url": "https://t.co/8EzBLDHSm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8EzBLDHSm2",
+							"expanded_url": "http://kard-official.com",
+							"display_url": "kard-official.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430236,
+			"friends_count": 2,
+			"listed_count": 1682,
+			"created_at": "Thu Nov 10 05:06:29 +0000 2016",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223630668896165888/Pn0tUR1f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223630668896165888/Pn0tUR1f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/796579760893784065/1580571261",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1901,
+		"favorite_count": 3841,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KARD 4th Mini Album 'RED MOON'\n\nCONCEPT PHOTO #1 #SOMIN\n\n#KARD #전소민 #RED_MOON #KARD_RED_MOON\n#KARD_COMEBACK_200212 https://t.co/sHmzsEkKJH"
+	},
+	{
+		"created_at": "Sat Feb 01 15:30:19 +0000 2020",
+		"id": 1223624545812328400,
+		"id_str": "1223629658438029313",
+		"full_text": "KARD 4th Mini Album 'RED MOON'\n  \nCONCEPT PHOTO #1 #SOMIN\n  \n#KARD #전소민 #RED_MOON #KARD_RED_MOON\n#KARD_COMEBACK_200212 https://t.co/MZX8Ayrc91",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOMIN",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "전소민",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "RED_MOON",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "KARD_RED_MOON",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "KARD_COMEBACK_200212",
+					"indices": [
+						97,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223561182017024000,
+					"id_str": "1223561182017024000",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EPr2aY8U8AAuAne.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPr2aY8U8AAuAne.jpg",
+					"url": "https://t.co/MZX8Ayrc91",
+					"display_url": "pic.twitter.com/MZX8Ayrc91",
+					"expanded_url": "https://twitter.com/KARD_Official/status/1223624545812328448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223561182017024000,
+					"id_str": "1223561182017024000",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EPr2aY8U8AAuAne.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPr2aY8U8AAuAne.jpg",
+					"url": "https://t.co/MZX8Ayrc91",
+					"display_url": "pic.twitter.com/MZX8Ayrc91",
+					"expanded_url": "https://twitter.com/KARD_Official/status/1223624545812328448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 796579760893784000,
+			"id_str": "796579760893784065",
+			"name": "KARD",
+			"screen_name": "KARD_Official",
+			"location": "",
+			"description": "DSP Media Official KARD Twitter",
+			"url": "https://t.co/8EzBLDHSm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8EzBLDHSm2",
+							"expanded_url": "http://kard-official.com",
+							"display_url": "kard-official.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430236,
+			"friends_count": 2,
+			"listed_count": 1682,
+			"created_at": "Thu Nov 10 05:06:29 +0000 2016",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223630668896165888/Pn0tUR1f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223630668896165888/Pn0tUR1f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/796579760893784065/1580571261",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3144,
+		"favorite_count": 7629,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KARD 4th Mini Album 'RED MOON'\n  \nCONCEPT PHOTO #1 #SOMIN\n  \n#KARD #전소민 #RED_MOON #KARD_RED_MOON\n#KARD_COMEBACK_200212 https://t.co/MZX8Ayrc91"
+	},
+	{
+		"created_at": "Sat Feb 01 15:21:13 +0000 2020",
+		"id": 1223385774034284500,
+		"id_str": "1223627368993918977",
+		"full_text": "'미스 함무라비'의 저자 문유석 판사가 사표를 냈습니다. 후배가 직접 찾아가 이유를 여쭤보니 \"특별한 계획은 없지만 글쓰고 여행하며 살 것\"이란 답을 들었습니다. 자유인으로 살 것이라구요. 정치나 변호사를 할 계획은 없다고 합니다. 그의 새로운 도전을 응원합니다. https://t.co/WXerQ6g5pu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WXerQ6g5pu",
+					"expanded_url": "https://mnews.joins.com/article/23694948",
+					"display_url": "mnews.joins.com/article/236949…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63476989,
+			"id_str": "63476989",
+			"name": "박태인(Taein Park)",
+			"screen_name": "TellYouMore",
+			"location": "Seoul",
+			"description": "중앙일보 기자. 좋은 글을 쓰겠습니다.\nhttps://t.co/LISzgr3buo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LISzgr3buo",
+							"expanded_url": "http://brunch.co.kr/@taeinpark",
+							"display_url": "brunch.co.kr/@taeinpark",
+							"indices": [
+								22,
+								45
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20878,
+			"friends_count": 14035,
+			"listed_count": 678,
+			"created_at": "Thu Aug 06 15:30:08 +0000 2009",
+			"favourites_count": 14761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63476989/1411280422",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 312,
+		"favorite_count": 380,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'미스 함무라비'의 저자 문유석 판사가 사표를 냈습니다. 후배가 직접 찾아가 이유를 여쭤보니 \"특별한 계획은 없지만 글쓰고 여행하며 살 것\"이란 답을 들었습니다. 자유인으로 살 것이라구요. 정치나 변호사를 할 계획은 없다고 합니다. 그의 새로운 도전을 응원합니다. https://t.co/WXerQ6g5pu"
+	},
+	{
+		"created_at": "Sat Feb 01 15:20:45 +0000 2020",
+		"id": 1223599720058126300,
+		"id_str": "1223627252849500166",
+		"full_text": "“열심히 일을 했을 뿐인데 계속 부조리에 얽히게 됩니다.” 윤이형 작가님의 분노와 슬픔에 공감합니다. 독자로서 그래도 기다리겠습니다. 저는 윤이형 작가님의 소설을 잃고 싶지 않습니다. 부디 건강하시기를.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1223597549426069500,
+		"in_reply_to_status_id_str": "1223597549426069504",
+		"in_reply_to_user_id": 1223590533768986600,
+		"in_reply_to_user_id_str": "1223590533768986625",
+		"in_reply_to_screen_name": "aamu28416444",
+		"user": {
+			"id": 1223590533768986600,
+			"id_str": "1223590533768986625",
+			"name": "황정은",
+			"screen_name": "aamu28416444",
+			"location": "",
+			"description": "aaaa",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Sat Feb 01 12:55:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 313,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“열심히 일을 했을 뿐인데 계속 부조리에 얽히게 됩니다.” 윤이형 작가님의 분노와 슬픔에 공감합니다. 독자로서 그래도 기다리겠습니다. 저는 윤이형 작가님의 소설을 잃고 싶지 않습니다. 부디 건강하시기를."
+	},
+	{
 		"created_at": "Sat Feb 01 13:19:18 +0000 2020",
 		"id": 1223596690197926000,
 		"id_str": "1223596690197925889",
