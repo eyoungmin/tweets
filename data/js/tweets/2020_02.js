@@ -1,6 +1,2089 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 17:28:20 +0000 2020",
+		"id": 1223659359214825500,
+		"id_str": "1223659359214825472",
+		"full_text": "공중캠프에 대해 이제서야 찾아보는 중.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공중캠프에 대해 이제서야 찾아보는 중."
+	},
+	{
+		"created_at": "Sat Feb 01 17:20:40 +0000 2020",
+		"id": 1223469650463166500,
+		"id_str": "1223657432045383680",
+		"full_text": "성폭력 가해자로 지목된 이는 아주 오래전 여기에 말하기도 구질구질한 이유로 내 계정을 블락했었는데 존재조차 알지 못한 새 공중캠프 계정이 왜 나를 블락하고 있는지 궁금하다. 그리고 최근 공중캠프에서 공연한 음악가가 공중캠프가 왜 사라지게 됐는지 알고 있는지도. https://t.co/wPg4tTsivg https://t.co/nrFAXSRgd6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wPg4tTsivg",
+					"expanded_url": "https://twitter.com/laika_09/status/1223257879945211904",
+					"display_url": "twitter.com/laika_09/statu…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1223469642607235000,
+					"id_str": "1223469642607235072",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqjKGEUEAAvgm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqjKGEUEAAvgm0.jpg",
+					"url": "https://t.co/nrFAXSRgd6",
+					"display_url": "pic.twitter.com/nrFAXSRgd6",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1223469650463166464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1336,
+							"h": 851,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 764,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223469642607235000,
+					"id_str": "1223469642607235072",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqjKGEUEAAvgm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqjKGEUEAAvgm0.jpg",
+					"url": "https://t.co/nrFAXSRgd6",
+					"display_url": "pic.twitter.com/nrFAXSRgd6",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1223469650463166464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1336,
+							"h": 851,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 764,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5093,
+			"friends_count": 1174,
+			"listed_count": 94,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 6499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223257879945212000,
+		"quoted_status_id_str": "1223257879945211904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wPg4tTsivg",
+			"expanded": "https://twitter.com/laika_09/status/1223257879945211904",
+			"display": "twitter.com/laika_09/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 31 14:53:00 +0000 2020",
+			"id": 1223257879945212000,
+			"id_str": "1223257879945211904",
+			"full_text": "지금 아직 운영되고 있는 공중캠프는 성폭력 가해자로 지목된 사람과 어떤 관련이 있는 건지 궁금하다",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 115087831,
+				"id_str": "115087831",
+				"name": "Лайка_09",
+				"screen_name": "Laika_09",
+				"location": "Спутник-2",
+				"description": "Well you can't be everything to everyone, so lemme be anything to anyone.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1626,
+				"friends_count": 500,
+				"listed_count": 27,
+				"created_at": "Wed Feb 17 15:34:09 +0000 2010",
+				"favourites_count": 5062,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67105,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953260135194935302/gMSN_oR1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953260135194935302/gMSN_oR1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/115087831/1517729239",
+				"profile_link_color": "222F3F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E8E4CA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 16,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성폭력 가해자로 지목된 이는 아주 오래전 여기에 말하기도 구질구질한 이유로 내 계정을 블락했었는데 존재조차 알지 못한 새 공중캠프 계정이 왜 나를 블락하고 있는지 궁금하다. 그리고 최근 공중캠프에서 공연한 음악가가 공중캠프가 왜 사라지게 됐는지 알고 있는지도. https://t.co/wPg4tTsivg https://t.co/nrFAXSRgd6"
+	},
+	{
+		"created_at": "Sat Feb 01 17:16:34 +0000 2020",
+		"id": 1223444513902878700,
+		"id_str": "1223656397809676288",
+		"full_text": "https://t.co/Yeu6m7vQJF \n#예술계_내_행동강령 홈페이지를 오픈했습니다.\n2019년에 워크숍 참가자 여러분들과 함께 만든 미술계, 무용계, 인디음악계 행동강령 전문과 워크숍 자료 (워크북, 국내외 행동강령 아카이브)를 다운로드 받을 수 있습니다. https://t.co/Ud8bp97BaM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술계_내_행동강령",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yeu6m7vQJF",
+					"expanded_url": "http://safezoneforus.com",
+					"display_url": "safezoneforus.com",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1223444505661079600,
+					"id_str": "1223444505661079553",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqMS7pVAAEIA6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqMS7pVAAEIA6J.jpg",
+					"url": "https://t.co/Ud8bp97BaM",
+					"display_url": "pic.twitter.com/Ud8bp97BaM",
+					"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 779,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1174593030386409472",
+									"screen_name": "safezone_for_us",
+									"name": "예술계_내_행동강령"
+								},
+								{
+									"type": "user",
+									"user_id": "812267414138155008",
+									"screen_name": "speakoutAWA",
+									"name": "여성예술인연대"
+								},
+								{
+									"type": "user",
+									"user_id": "974165713605746689",
+									"screen_name": "Busan_Art_Metoo",
+									"name": "부산문화예술계 반성폭력연대"
+								},
+								{
+									"type": "user",
+									"user_id": "3769196484",
+									"screen_name": "sceneryoftoday",
+									"name": "오늘의풍경"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1307,
+									"y": 1089,
+									"h": 197,
+									"w": 197
+								},
+								{
+									"x": 1011,
+									"y": 775,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 1809,
+									"y": 1097,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 434,
+									"y": 361,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 335,
+									"y": 257,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 600,
+									"y": 364,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1307,
+									"y": 1089,
+									"h": 197,
+									"w": 197
+								},
+								{
+									"x": 1011,
+									"y": 775,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 1809,
+									"y": 1097,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 766,
+									"y": 638,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 592,
+									"y": 454,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 1060,
+									"y": 643,
+									"h": 117,
+									"w": 117
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223444505661079600,
+					"id_str": "1223444505661079553",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqMS7pVAAEIA6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqMS7pVAAEIA6J.jpg",
+					"url": "https://t.co/Ud8bp97BaM",
+					"display_url": "pic.twitter.com/Ud8bp97BaM",
+					"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 779,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1174593030386409472",
+									"screen_name": "safezone_for_us",
+									"name": "예술계_내_행동강령"
+								},
+								{
+									"type": "user",
+									"user_id": "812267414138155008",
+									"screen_name": "speakoutAWA",
+									"name": "여성예술인연대"
+								},
+								{
+									"type": "user",
+									"user_id": "974165713605746689",
+									"screen_name": "Busan_Art_Metoo",
+									"name": "부산문화예술계 반성폭력연대"
+								},
+								{
+									"type": "user",
+									"user_id": "3769196484",
+									"screen_name": "sceneryoftoday",
+									"name": "오늘의풍경"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1307,
+									"y": 1089,
+									"h": 197,
+									"w": 197
+								},
+								{
+									"x": 1011,
+									"y": 775,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 1809,
+									"y": 1097,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 434,
+									"y": 361,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 335,
+									"y": 257,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 600,
+									"y": 364,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1307,
+									"y": 1089,
+									"h": 197,
+									"w": 197
+								},
+								{
+									"x": 1011,
+									"y": 775,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 1809,
+									"y": 1097,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 766,
+									"y": 638,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 592,
+									"y": 454,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 1060,
+									"y": 643,
+									"h": 117,
+									"w": 117
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1223444505661067300,
+					"id_str": "1223444505661067265",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqMS7pU0AEkpWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqMS7pU0AEkpWe.jpg",
+					"url": "https://t.co/Ud8bp97BaM",
+					"display_url": "pic.twitter.com/Ud8bp97BaM",
+					"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2047,
+							"h": 1328,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 779,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1174593030386409472",
+									"screen_name": "safezone_for_us",
+									"name": "예술계_내_행동강령"
+								},
+								{
+									"type": "user",
+									"user_id": "812267414138155008",
+									"screen_name": "speakoutAWA",
+									"name": "여성예술인연대"
+								},
+								{
+									"type": "user",
+									"user_id": "974165713605746689",
+									"screen_name": "Busan_Art_Metoo",
+									"name": "부산문화예술계 반성폭력연대"
+								},
+								{
+									"type": "user",
+									"user_id": "3769196484",
+									"screen_name": "sceneryoftoday",
+									"name": "오늘의풍경"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1223444505669451800,
+					"id_str": "1223444505669451776",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqMS7rUwAAkLkU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqMS7rUwAAkLkU.jpg",
+					"url": "https://t.co/Ud8bp97BaM",
+					"display_url": "pic.twitter.com/Ud8bp97BaM",
+					"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 775,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1322,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1174593030386409472",
+									"screen_name": "safezone_for_us",
+									"name": "예술계_내_행동강령"
+								},
+								{
+									"type": "user",
+									"user_id": "812267414138155008",
+									"screen_name": "speakoutAWA",
+									"name": "여성예술인연대"
+								},
+								{
+									"type": "user",
+									"user_id": "974165713605746689",
+									"screen_name": "Busan_Art_Metoo",
+									"name": "부산문화예술계 반성폭력연대"
+								},
+								{
+									"type": "user",
+									"user_id": "3769196484",
+									"screen_name": "sceneryoftoday",
+									"name": "오늘의풍경"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1721,
+									"y": 967,
+									"h": 187,
+									"w": 187
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 321,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1008,
+									"y": 566,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1721,
+									"y": 967,
+									"h": 187,
+									"w": 187
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1223444505661038600,
+					"id_str": "1223444505661038592",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqMS7pUYAAEIN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqMS7pUYAAEIN6.jpg",
+					"url": "https://t.co/Ud8bp97BaM",
+					"display_url": "pic.twitter.com/Ud8bp97BaM",
+					"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 775,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1322,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1174593030386409472",
+									"screen_name": "safezone_for_us",
+									"name": "예술계_내_행동강령"
+								},
+								{
+									"type": "user",
+									"user_id": "812267414138155008",
+									"screen_name": "speakoutAWA",
+									"name": "여성예술인연대"
+								},
+								{
+									"type": "user",
+									"user_id": "974165713605746689",
+									"screen_name": "Busan_Art_Metoo",
+									"name": "부산문화예술계 반성폭력연대"
+								},
+								{
+									"type": "user",
+									"user_id": "3769196484",
+									"screen_name": "sceneryoftoday",
+									"name": "오늘의풍경"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 564,
+									"y": 196,
+									"h": 195,
+									"w": 195
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 963,
+									"y": 335,
+									"h": 333,
+									"w": 333
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 319,
+									"y": 111,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 963,
+									"y": 335,
+									"h": 333,
+									"w": 333
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174593030386409500,
+			"id_str": "1174593030386409472",
+			"name": "예술계_내_행동강령",
+			"screen_name": "safezone_for_us",
+			"location": "대한민국",
+			"description": "2019년 부산문화예술계반성폭력연대 / 여성예술인연대 / 페미플로어가 함께 주관하여 #예술계_내_행동강령 만들기 워크숍을 진행했습니다. 📬 speakout.awa@gmail.com",
+			"url": "https://t.co/06Eka5PjoF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/06Eka5PjoF",
+							"expanded_url": "http://safezoneforus.com",
+							"display_url": "safezoneforus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413,
+			"friends_count": 547,
+			"listed_count": 3,
+			"created_at": "Thu Sep 19 07:56:29 +0000 2019",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178582759062659073/7A4LGjWr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178582759062659073/7A4LGjWr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174593030386409472/1569831003",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/Yeu6m7vQJF \n#예술계_내_행동강령 홈페이지를 오픈했습니다.\n2019년에 워크숍 참가자 여러분들과 함께 만든 미술계, 무용계, 인디음악계 행동강령 전문과 워크숍 자료 (워크북, 국내외 행동강령 아카이브)를 다운로드 받을 수 있습니다. https://t.co/Ud8bp97BaM"
+	},
+	{
+		"created_at": "Sat Feb 01 17:16:27 +0000 2020",
+		"id": 1223445063235072000,
+		"id_str": "1223656370483822592",
+		"full_text": "여성예술인연대가 함께하여 만든 미술계_내_행동강령을 다운로드 받아가세요!\nhttps://t.co/YhqyQyoJ33\n모바일로도 보실 수 있습니다.\n조금 늦었지만 모두 새해 복 많이 받으세요! https://t.co/KRbTYNOCrN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YhqyQyoJ33",
+					"expanded_url": "http://safezoneforus.com",
+					"display_url": "safezoneforus.com",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/KRbTYNOCrN",
+					"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720",
+					"display_url": "twitter.com/safezone_for_u…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 812267414138155000,
+			"id_str": "812267414138155008",
+			"name": "여성예술인연대",
+			"screen_name": "speakoutAWA",
+			"location": "대한민국",
+			"description": "여성예술인연대 Association of Women Artists(AWA)는 수평적이며 열려 있는 자생적 조직입니다. AWA는 앞으로 #예술계_내_성폭력 문제를 지속적으로 주시하고 함께 목소리 낼 것입니다.",
+			"url": "https://t.co/j17TyXPKGG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j17TyXPKGG",
+							"expanded_url": "http://www.facebook.com/speakout.awa/",
+							"display_url": "facebook.com/speakout.awa/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1788,
+			"friends_count": 804,
+			"listed_count": 12,
+			"created_at": "Fri Dec 23 12:03:37 +0000 2016",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/812268678951469057/AixF955g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/812268678951469057/AixF955g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/812267414138155008/1482495246",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223444513902878700,
+		"quoted_status_id_str": "1223444513902878720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KRbTYNOCrN",
+			"expanded": "https://twitter.com/safezone_for_us/status/1223444513902878720",
+			"display": "twitter.com/safezone_for_u…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 01 03:14:37 +0000 2020",
+			"id": 1223444513902878700,
+			"id_str": "1223444513902878720",
+			"full_text": "https://t.co/Yeu6m7vQJF \n#예술계_내_행동강령 홈페이지를 오픈했습니다.\n2019년에 워크숍 참가자 여러분들과 함께 만든 미술계, 무용계, 인디음악계 행동강령 전문과 워크숍 자료 (워크북, 국내외 행동강령 아카이브)를 다운로드 받을 수 있습니다. https://t.co/Ud8bp97BaM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "예술계_내_행동강령",
+						"indices": [
+							25,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Yeu6m7vQJF",
+						"expanded_url": "http://safezoneforus.com",
+						"display_url": "safezoneforus.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1223444505661079600,
+						"id_str": "1223444505661079553",
+						"indices": [
+							148,
+							171
+						],
+						"media_url": "http://pbs.twimg.com/media/EPqMS7pVAAEIA6J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPqMS7pVAAEIA6J.jpg",
+						"url": "https://t.co/Ud8bp97BaM",
+						"display_url": "pic.twitter.com/Ud8bp97BaM",
+						"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 441,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 1328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 779,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "1174593030386409472",
+										"screen_name": "safezone_for_us",
+										"name": "예술계_내_행동강령"
+									},
+									{
+										"type": "user",
+										"user_id": "812267414138155008",
+										"screen_name": "speakoutAWA",
+										"name": "여성예술인연대"
+									},
+									{
+										"type": "user",
+										"user_id": "974165713605746689",
+										"screen_name": "Busan_Art_Metoo",
+										"name": "부산문화예술계 반성폭력연대"
+									},
+									{
+										"type": "user",
+										"user_id": "3769196484",
+										"screen_name": "sceneryoftoday",
+										"name": "오늘의풍경"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1307,
+										"y": 1089,
+										"h": 197,
+										"w": 197
+									},
+									{
+										"x": 1011,
+										"y": 775,
+										"h": 191,
+										"w": 191
+									},
+									{
+										"x": 1809,
+										"y": 1097,
+										"h": 201,
+										"w": 201
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 434,
+										"y": 361,
+										"h": 65,
+										"w": 65
+									},
+									{
+										"x": 335,
+										"y": 257,
+										"h": 63,
+										"w": 63
+									},
+									{
+										"x": 600,
+										"y": 364,
+										"h": 66,
+										"w": 66
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1307,
+										"y": 1089,
+										"h": 197,
+										"w": 197
+									},
+									{
+										"x": 1011,
+										"y": 775,
+										"h": 191,
+										"w": 191
+									},
+									{
+										"x": 1809,
+										"y": 1097,
+										"h": 201,
+										"w": 201
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 766,
+										"y": 638,
+										"h": 115,
+										"w": 115
+									},
+									{
+										"x": 592,
+										"y": 454,
+										"h": 111,
+										"w": 111
+									},
+									{
+										"x": 1060,
+										"y": 643,
+										"h": 117,
+										"w": 117
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1223444505661079600,
+						"id_str": "1223444505661079553",
+						"indices": [
+							148,
+							171
+						],
+						"media_url": "http://pbs.twimg.com/media/EPqMS7pVAAEIA6J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPqMS7pVAAEIA6J.jpg",
+						"url": "https://t.co/Ud8bp97BaM",
+						"display_url": "pic.twitter.com/Ud8bp97BaM",
+						"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 441,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 1328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 779,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "1174593030386409472",
+										"screen_name": "safezone_for_us",
+										"name": "예술계_내_행동강령"
+									},
+									{
+										"type": "user",
+										"user_id": "812267414138155008",
+										"screen_name": "speakoutAWA",
+										"name": "여성예술인연대"
+									},
+									{
+										"type": "user",
+										"user_id": "974165713605746689",
+										"screen_name": "Busan_Art_Metoo",
+										"name": "부산문화예술계 반성폭력연대"
+									},
+									{
+										"type": "user",
+										"user_id": "3769196484",
+										"screen_name": "sceneryoftoday",
+										"name": "오늘의풍경"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1307,
+										"y": 1089,
+										"h": 197,
+										"w": 197
+									},
+									{
+										"x": 1011,
+										"y": 775,
+										"h": 191,
+										"w": 191
+									},
+									{
+										"x": 1809,
+										"y": 1097,
+										"h": 201,
+										"w": 201
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 434,
+										"y": 361,
+										"h": 65,
+										"w": 65
+									},
+									{
+										"x": 335,
+										"y": 257,
+										"h": 63,
+										"w": 63
+									},
+									{
+										"x": 600,
+										"y": 364,
+										"h": 66,
+										"w": 66
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1307,
+										"y": 1089,
+										"h": 197,
+										"w": 197
+									},
+									{
+										"x": 1011,
+										"y": 775,
+										"h": 191,
+										"w": 191
+									},
+									{
+										"x": 1809,
+										"y": 1097,
+										"h": 201,
+										"w": 201
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 766,
+										"y": 638,
+										"h": 115,
+										"w": 115
+									},
+									{
+										"x": 592,
+										"y": 454,
+										"h": 111,
+										"w": 111
+									},
+									{
+										"x": 1060,
+										"y": 643,
+										"h": 117,
+										"w": 117
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1223444505661067300,
+						"id_str": "1223444505661067265",
+						"indices": [
+							148,
+							171
+						],
+						"media_url": "http://pbs.twimg.com/media/EPqMS7pU0AEkpWe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPqMS7pU0AEkpWe.jpg",
+						"url": "https://t.co/Ud8bp97BaM",
+						"display_url": "pic.twitter.com/Ud8bp97BaM",
+						"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2047,
+								"h": 1328,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 779,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 441,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "1174593030386409472",
+										"screen_name": "safezone_for_us",
+										"name": "예술계_내_행동강령"
+									},
+									{
+										"type": "user",
+										"user_id": "812267414138155008",
+										"screen_name": "speakoutAWA",
+										"name": "여성예술인연대"
+									},
+									{
+										"type": "user",
+										"user_id": "974165713605746689",
+										"screen_name": "Busan_Art_Metoo",
+										"name": "부산문화예술계 반성폭력연대"
+									},
+									{
+										"type": "user",
+										"user_id": "3769196484",
+										"screen_name": "sceneryoftoday",
+										"name": "오늘의풍경"
+									}
+								]
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1223444505669451800,
+						"id_str": "1223444505669451776",
+						"indices": [
+							148,
+							171
+						],
+						"media_url": "http://pbs.twimg.com/media/EPqMS7rUwAAkLkU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPqMS7rUwAAkLkU.jpg",
+						"url": "https://t.co/Ud8bp97BaM",
+						"display_url": "pic.twitter.com/Ud8bp97BaM",
+						"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 439,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 775,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2047,
+								"h": 1322,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "1174593030386409472",
+										"screen_name": "safezone_for_us",
+										"name": "예술계_내_행동강령"
+									},
+									{
+										"type": "user",
+										"user_id": "812267414138155008",
+										"screen_name": "speakoutAWA",
+										"name": "여성예술인연대"
+									},
+									{
+										"type": "user",
+										"user_id": "974165713605746689",
+										"screen_name": "Busan_Art_Metoo",
+										"name": "부산문화예술계 반성폭력연대"
+									},
+									{
+										"type": "user",
+										"user_id": "3769196484",
+										"screen_name": "sceneryoftoday",
+										"name": "오늘의풍경"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1721,
+										"y": 967,
+										"h": 187,
+										"w": 187
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 571,
+										"y": 321,
+										"h": 62,
+										"w": 62
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 1008,
+										"y": 566,
+										"h": 109,
+										"w": 109
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1721,
+										"y": 967,
+										"h": 187,
+										"w": 187
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1223444505661038600,
+						"id_str": "1223444505661038592",
+						"indices": [
+							148,
+							171
+						],
+						"media_url": "http://pbs.twimg.com/media/EPqMS7pUYAAEIN6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPqMS7pUYAAEIN6.jpg",
+						"url": "https://t.co/Ud8bp97BaM",
+						"display_url": "pic.twitter.com/Ud8bp97BaM",
+						"expanded_url": "https://twitter.com/safezone_for_us/status/1223444513902878720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 775,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 439,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 1322,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "1174593030386409472",
+										"screen_name": "safezone_for_us",
+										"name": "예술계_내_행동강령"
+									},
+									{
+										"type": "user",
+										"user_id": "812267414138155008",
+										"screen_name": "speakoutAWA",
+										"name": "여성예술인연대"
+									},
+									{
+										"type": "user",
+										"user_id": "974165713605746689",
+										"screen_name": "Busan_Art_Metoo",
+										"name": "부산문화예술계 반성폭력연대"
+									},
+									{
+										"type": "user",
+										"user_id": "3769196484",
+										"screen_name": "sceneryoftoday",
+										"name": "오늘의풍경"
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 564,
+										"y": 196,
+										"h": 195,
+										"w": 195
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 963,
+										"y": 335,
+										"h": 333,
+										"w": 333
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 319,
+										"y": 111,
+										"h": 110,
+										"w": 110
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 963,
+										"y": 335,
+										"h": 333,
+										"w": 333
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1174593030386409500,
+				"id_str": "1174593030386409472",
+				"name": "예술계_내_행동강령",
+				"screen_name": "safezone_for_us",
+				"location": "대한민국",
+				"description": "2019년 부산문화예술계반성폭력연대 / 여성예술인연대 / 페미플로어가 함께 주관하여 #예술계_내_행동강령 만들기 워크숍을 진행했습니다. 📬 speakout.awa@gmail.com",
+				"url": "https://t.co/06Eka5PjoF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/06Eka5PjoF",
+								"expanded_url": "http://safezoneforus.com",
+								"display_url": "safezoneforus.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 413,
+				"friends_count": 547,
+				"listed_count": 3,
+				"created_at": "Thu Sep 19 07:56:29 +0000 2019",
+				"favourites_count": 53,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 172,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178582759062659073/7A4LGjWr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178582759062659073/7A4LGjWr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174593030386409472/1569831003",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 134,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 13,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여성예술인연대가 함께하여 만든 미술계_내_행동강령을 다운로드 받아가세요!\nhttps://t.co/YhqyQyoJ33\n모바일로도 보실 수 있습니다.\n조금 늦었지만 모두 새해 복 많이 받으세요! https://t.co/KRbTYNOCrN"
+	},
+	{
+		"created_at": "Sat Feb 01 17:16:13 +0000 2020",
+		"id": 1223656309427515400,
+		"id_str": "1223656309427515392",
+		"full_text": "솔직하게 모든 방송이 만족스러웠던 것은 아니다. 어떤 방송은 스테레오타입처럼 들리기도 했지만 적어도 진행자분들은 여러 층위에서 생각하는 시도가 보였고 3분이 조화를 이루며 이야기를 풀어갔다.\n#서늘한마음썰 #마음썰 #팟캐스트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서늘한마음썰",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "마음썰",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1223656307770552300,
+		"in_reply_to_status_id_str": "1223656307770552320",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "솔직하게 모든 방송이 만족스러웠던 것은 아니다. 어떤 방송은 스테레오타입처럼 들리기도 했지만 적어도 진행자분들은 여러 층위에서 생각하는 시도가 보였고 3분이 조화를 이루며 이야기를 풀어갔다.\n#서늘한마음썰 #마음썰 #팟캐스트"
+	},
+	{
 		"created_at": "Sat Feb 01 16:44:12 +0000 2020",
 		"id": 1222817620056895500,
 		"id_str": "1223648252756545536",
@@ -141,7 +2224,7 @@ Grailbird.data.tweets_2020_02 =
 		"user": {
 			"id": 116991627,
 			"id_str": "116991627",
-			"name": "🏳️‍🌈대뇌찌질🏳️‍⚧",
+			"name": "🏳️🌈대뇌찌질🏳️⚧",
 			"screen_name": "HaxenHammer",
 			"location": "",
 			"description": "국가공인아키비스트(돈듦)/대체로 애니프사 200% 한남/(前)노동당원/VCP찬성/퀄리티필터 적용 중",
