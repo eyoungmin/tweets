@@ -1,6 +1,1127 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 16:44:12 +0000 2020",
+		"id": 1222817620056895500,
+		"id_str": "1223648252756545536",
+		"full_text": "'트젠은 여혐입니다 공부하세여' 하는 분들께 진짜 공부를 하실 수 있게 트랜스젠더 학습자료를 정리해놓은 곳을 소개합니다'ㅅ'\n트랜스젠더를 위한 정보·인권 길잡이\nhttps://t.co/JbnbQ7sT9k https://t.co/jTAQKMuote",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JbnbQ7sT9k",
+					"expanded_url": "http://transroadmap.net/items/",
+					"display_url": "transroadmap.net/items/",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222817612234543000,
+					"id_str": "1222817612234543104",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EPhSI7pU0AAU28l.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPhSI7pU0AAU28l.png",
+					"url": "https://t.co/jTAQKMuote",
+					"display_url": "pic.twitter.com/jTAQKMuote",
+					"expanded_url": "https://twitter.com/HaxenHammer/status/1222817620056895489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 993,
+							"h": 887,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 993,
+							"h": 887,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222817612234543000,
+					"id_str": "1222817612234543104",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EPhSI7pU0AAU28l.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPhSI7pU0AAU28l.png",
+					"url": "https://t.co/jTAQKMuote",
+					"display_url": "pic.twitter.com/jTAQKMuote",
+					"expanded_url": "https://twitter.com/HaxenHammer/status/1222817620056895489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 993,
+							"h": 887,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 993,
+							"h": 887,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116991627,
+			"id_str": "116991627",
+			"name": "🏳️‍🌈대뇌찌질🏳️‍⚧",
+			"screen_name": "HaxenHammer",
+			"location": "",
+			"description": "국가공인아키비스트(돈듦)/대체로 애니프사 200% 한남/(前)노동당원/VCP찬성/퀄리티필터 적용 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 1985,
+			"listed_count": 21,
+			"created_at": "Wed Feb 24 05:48:04 +0000 2010",
+			"favourites_count": 9445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112717595642191872/tHelHYLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112717595642191872/tHelHYLb_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1735,
+		"favorite_count": 781,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'트젠은 여혐입니다 공부하세여' 하는 분들께 진짜 공부를 하실 수 있게 트랜스젠더 학습자료를 정리해놓은 곳을 소개합니다'ㅅ'\n트랜스젠더를 위한 정보·인권 길잡이\nhttps://t.co/JbnbQ7sT9k https://t.co/jTAQKMuote"
+	},
+	{
+		"created_at": "Sat Feb 01 16:43:35 +0000 2020",
+		"id": 1223257881765527600,
+		"id_str": "1223648096141234177",
+		"full_text": "아 트위터 아니고 인스타임. 여하튼 지금은 포스팅 내렸고 버클리에서는 SNS 곳곳에서 사과 중. 포스팅 내리면 뭐합니까. 스샷은 영원하거늘.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1223256943235457000,
+		"in_reply_to_status_id_str": "1223256943235457024",
+		"in_reply_to_user_id": 451068962,
+		"in_reply_to_user_id_str": "451068962",
+		"in_reply_to_screen_name": "SangHeeFLee",
+		"user": {
+			"id": 451068962,
+			"id_str": "451068962",
+			"name": "이상희 (Sang-Hee Lee)",
+			"screen_name": "SangHeeFLee",
+			"location": "",
+			"description": "인류의 기원 (2015, 사이언스북스) Close Encounters with Humankind (2018, Norton) 인류 이야기 (2018, 우리학교)",
+			"url": "https://t.co/eCKmZYv1rB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eCKmZYv1rB",
+							"expanded_url": "https://www.youtube.com/channel/UC6CJmJeeeMge17YofTzVcSA",
+							"display_url": "youtube.com/channel/UC6CJm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7915,
+			"friends_count": 585,
+			"listed_count": 94,
+			"created_at": "Sat Dec 31 00:44:00 +0000 2011",
+			"favourites_count": 2479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124140225410715649/GD5W-lih_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124140225410715649/GD5W-lih_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/451068962/1545428407",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아 트위터 아니고 인스타임. 여하튼 지금은 포스팅 내렸고 버클리에서는 SNS 곳곳에서 사과 중. 포스팅 내리면 뭐합니까. 스샷은 영원하거늘."
+	},
+	{
+		"created_at": "Sat Feb 01 16:43:32 +0000 2020",
+		"id": 1223256943235457000,
+		"id_str": "1223648085785497600",
+		"full_text": "2차대전 때 일본계 미국인들을 강제수용했던 지역의 명문 대학교에서 인종차별을 정당화시키는 뉘앙스의 트윗을 내보내다니 평소에 어떤지 알겠음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1223255731865915400,
+		"in_reply_to_status_id_str": "1223255731865915395",
+		"in_reply_to_user_id": 451068962,
+		"in_reply_to_user_id_str": "451068962",
+		"in_reply_to_screen_name": "SangHeeFLee",
+		"user": {
+			"id": 451068962,
+			"id_str": "451068962",
+			"name": "이상희 (Sang-Hee Lee)",
+			"screen_name": "SangHeeFLee",
+			"location": "",
+			"description": "인류의 기원 (2015, 사이언스북스) Close Encounters with Humankind (2018, Norton) 인류 이야기 (2018, 우리학교)",
+			"url": "https://t.co/eCKmZYv1rB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eCKmZYv1rB",
+							"expanded_url": "https://www.youtube.com/channel/UC6CJmJeeeMge17YofTzVcSA",
+							"display_url": "youtube.com/channel/UC6CJm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7915,
+			"friends_count": 585,
+			"listed_count": 94,
+			"created_at": "Sat Dec 31 00:44:00 +0000 2011",
+			"favourites_count": 2479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124140225410715649/GD5W-lih_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124140225410715649/GD5W-lih_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/451068962/1545428407",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 272,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2차대전 때 일본계 미국인들을 강제수용했던 지역의 명문 대학교에서 인종차별을 정당화시키는 뉘앙스의 트윗을 내보내다니 평소에 어떤지 알겠음"
+	},
+	{
+		"created_at": "Sat Feb 01 16:43:08 +0000 2020",
+		"id": 1223255731865915400,
+		"id_str": "1223647984287567872",
+		"full_text": "버클리대학교 트위터 계정에서 코로나바이러스에 대한 “흔한 반응” 에 “아시아인에 대한 공포심”과 “공포심을 느끼면서 드는 죄책감” 포함시켜서 지금 난리남 https://t.co/PR7KOspCd8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PR7KOspCd8",
+					"expanded_url": "https://twitter.com/nbcnewshealth/status/1223247607528611840",
+					"display_url": "twitter.com/nbcnewshealth/…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 451068962,
+			"id_str": "451068962",
+			"name": "이상희 (Sang-Hee Lee)",
+			"screen_name": "SangHeeFLee",
+			"location": "",
+			"description": "인류의 기원 (2015, 사이언스북스) Close Encounters with Humankind (2018, Norton) 인류 이야기 (2018, 우리학교)",
+			"url": "https://t.co/eCKmZYv1rB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eCKmZYv1rB",
+							"expanded_url": "https://www.youtube.com/channel/UC6CJmJeeeMge17YofTzVcSA",
+							"display_url": "youtube.com/channel/UC6CJm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7915,
+			"friends_count": 585,
+			"listed_count": 94,
+			"created_at": "Sat Dec 31 00:44:00 +0000 2011",
+			"favourites_count": 2479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124140225410715649/GD5W-lih_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124140225410715649/GD5W-lih_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/451068962/1545428407",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223247607528611800,
+		"quoted_status_id_str": "1223247607528611840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PR7KOspCd8",
+			"expanded": "https://twitter.com/nbcnewshealth/status/1223247607528611840",
+			"display": "twitter.com/nbcnewshealth/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 31 14:12:11 +0000 2020",
+			"id": 1223247607528611800,
+			"id_str": "1223247607528611840",
+			"full_text": "UC Berkeley health account calls xenophobia a \"common reaction\" to coronavirus https://t.co/FhaZfEgLwa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FhaZfEgLwa",
+						"expanded_url": "https://ift.tt/36DqvSg",
+						"display_url": "ift.tt/36DqvSg",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11856422,
+				"id_str": "11856422",
+				"name": "NBC News Health",
+				"screen_name": "NBCNewsHealth",
+				"location": "",
+				"description": "Health, diet and nutrition news from @NBCNews.",
+				"url": "http://t.co/K1Y5iPidy8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/K1Y5iPidy8",
+								"expanded_url": "http://nbcnews.com/health",
+								"display_url": "nbcnews.com/health",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1007624,
+				"friends_count": 894,
+				"listed_count": 8005,
+				"created_at": "Fri Jan 04 22:18:15 +0000 2008",
+				"favourites_count": 342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32292,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "062131",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110177881152475137/uOt0MKnz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110177881152475137/uOt0MKnz_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11856422/1398197597",
+				"profile_link_color": "5172A0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1234,
+		"favorite_count": 310,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "버클리대학교 트위터 계정에서 코로나바이러스에 대한 “흔한 반응” 에 “아시아인에 대한 공포심”과 “공포심을 느끼면서 드는 죄책감” 포함시켜서 지금 난리남 https://t.co/PR7KOspCd8"
+	},
+	{
+		"created_at": "Sat Feb 01 16:42:52 +0000 2020",
+		"id": 1223443400122192000,
+		"id_str": "1223647917988175872",
+		"full_text": "에일리 볼 때마다 히든싱어에서 울었던 거 생각난다. ‘노래를 하는 가수인데 무대에 서기 위해 어쩔 수 없이 다이어트를 해야 하는 게 슬펐다’ 라는 말을 여성 가수가 하는 걸 처음 봤지...... 언론이 여자들 죽인다. https://t.co/sA1kqbJHBJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223443377326194700,
+					"id_str": "1223443377326194688",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqLRQRVAAALLaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqLRQRVAAALLaz.jpg",
+					"url": "https://t.co/sA1kqbJHBJ",
+					"display_url": "pic.twitter.com/sA1kqbJHBJ",
+					"expanded_url": "https://twitter.com/H4EN_1/status/1223443400122191873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 356,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 202,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 400,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 350,
+									"y": 1084,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 264,
+									"y": 732,
+									"h": 146,
+									"w": 146
+								},
+								{
+									"x": 120,
+									"y": 1394,
+									"h": 200,
+									"w": 200
+								},
+								{
+									"x": 128,
+									"y": 1734,
+									"h": 204,
+									"w": 204
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 234,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 204,
+									"y": 634,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 154,
+									"y": 428,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 70,
+									"y": 816,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 74,
+									"y": 1015,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 76,
+									"y": 132,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 116,
+									"y": 360,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 87,
+									"y": 243,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 39,
+									"y": 463,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 42,
+									"y": 576,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 400,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 350,
+									"y": 1084,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 264,
+									"y": 732,
+									"h": 146,
+									"w": 146
+								},
+								{
+									"x": 120,
+									"y": 1394,
+									"h": 200,
+									"w": 200
+								},
+								{
+									"x": 128,
+									"y": 1734,
+									"h": 204,
+									"w": 204
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223443377326194700,
+					"id_str": "1223443377326194688",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqLRQRVAAALLaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqLRQRVAAALLaz.jpg",
+					"url": "https://t.co/sA1kqbJHBJ",
+					"display_url": "pic.twitter.com/sA1kqbJHBJ",
+					"expanded_url": "https://twitter.com/H4EN_1/status/1223443400122191873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 356,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 202,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 400,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 350,
+									"y": 1084,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 264,
+									"y": 732,
+									"h": 146,
+									"w": 146
+								},
+								{
+									"x": 120,
+									"y": 1394,
+									"h": 200,
+									"w": 200
+								},
+								{
+									"x": 128,
+									"y": 1734,
+									"h": 204,
+									"w": 204
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 234,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 204,
+									"y": 634,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 154,
+									"y": 428,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 70,
+									"y": 816,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 74,
+									"y": 1015,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 76,
+									"y": 132,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 116,
+									"y": 360,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 87,
+									"y": 243,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 39,
+									"y": 463,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 42,
+									"y": 576,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 400,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 350,
+									"y": 1084,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 264,
+									"y": 732,
+									"h": 146,
+									"w": 146
+								},
+								{
+									"x": 120,
+									"y": 1394,
+									"h": 200,
+									"w": 200
+								},
+								{
+									"x": 128,
+									"y": 1734,
+									"h": 204,
+									"w": 204
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 979199021603463200,
+			"id_str": "979199021603463169",
+			"name": "해은",
+			"screen_name": "H4EN_1",
+			"location": "",
+			"description": "잘 사는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 70,
+			"listed_count": 1,
+			"created_at": "Thu Mar 29 03:30:14 +0000 2018",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111635706840002560/zepNHsRI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111635706840002560/zepNHsRI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979199021603463169/1549117267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11997,
+		"favorite_count": 4322,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에일리 볼 때마다 히든싱어에서 울었던 거 생각난다. ‘노래를 하는 가수인데 무대에 서기 위해 어쩔 수 없이 다이어트를 해야 하는 게 슬펐다’ 라는 말을 여성 가수가 하는 걸 처음 봤지...... 언론이 여자들 죽인다. https://t.co/sA1kqbJHBJ"
+	},
+	{
 		"created_at": "Sat Feb 01 15:30:20 +0000 2020",
 		"id": 1223624857969029000,
 		"id_str": "1223629664700157952",
