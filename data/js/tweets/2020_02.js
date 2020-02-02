@@ -1,6 +1,1212 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 10:52:35 +0000 2020",
+		"id": 1223455697834111000,
+		"id_str": "1223922152010735616",
+		"full_text": "At least they get given matching face masks. https://t.co/Fzjz4XSWTY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223455640514744300,
+					"id_str": "1223455640514744325",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqWbENUUAUE1Dn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqWbENUUAUE1Dn.jpg",
+					"url": "https://t.co/Fzjz4XSWTY",
+					"display_url": "pic.twitter.com/Fzjz4XSWTY",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1223455697834110976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 931,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1589,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 224,
+									"h": 208,
+									"w": 208
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 74,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 271,
+									"y": 131,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 224,
+									"h": 208,
+									"w": 208
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223455640514744300,
+					"id_str": "1223455640514744325",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqWbENUUAUE1Dn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqWbENUUAUE1Dn.jpg",
+					"url": "https://t.co/Fzjz4XSWTY",
+					"display_url": "pic.twitter.com/Fzjz4XSWTY",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1223455697834110976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 931,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1589,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 224,
+									"h": 208,
+									"w": 208
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 74,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 271,
+									"y": 131,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 224,
+									"h": 208,
+									"w": 208
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1223455675457527800,
+					"id_str": "1223455675457527808",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqWdGYU4AAjsDG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqWdGYU4AAjsDG.jpg",
+					"url": "https://t.co/Fzjz4XSWTY",
+					"display_url": "pic.twitter.com/Fzjz4XSWTY",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1223455697834110976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1680,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 984,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1223455628498129000,
+		"in_reply_to_status_id_str": "1223455628498128896",
+		"in_reply_to_user_id": 155488031,
+		"in_reply_to_user_id_str": "155488031",
+		"in_reply_to_screen_name": "koryodynasty",
+		"user": {
+			"id": 155488031,
+			"id_str": "155488031",
+			"name": "Raphael Rashid",
+			"screen_name": "koryodynasty",
+			"location": "Seoul, Republic of Korea",
+			"description": "Seoul-based freelance journo & @KoreaExpose co-founder. Formerly @EdelmanPR 📧 raphael [at] https://t.co/fLY5GmQEoi 🇬🇧🇫🇷🇧🇩🇰🇷 프리랜서 기자 | 서울 거주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLY5GmQEoi",
+							"expanded_url": "http://rashid.kr",
+							"display_url": "rashid.kr",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6703,
+			"friends_count": 700,
+			"listed_count": 122,
+			"created_at": "Mon Jun 14 08:04:07 +0000 2010",
+			"favourites_count": 12862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155488031/1578580228",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0fc295792e14f000",
+			"url": "https://api.twitter.com/1.1/geo/id/0fc295792e14f000.json",
+			"place_type": "poi",
+			"name": "경복궁 (景福宮)",
+			"full_name": "경복궁 (景福宮)",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.97719566310992,
+							37.57688297343688
+						],
+						[
+							126.97719566310992,
+							37.57688297343688
+						],
+						[
+							126.97719566310992,
+							37.57688297343688
+						],
+						[
+							126.97719566310992,
+							37.57688297343688
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1858,
+		"favorite_count": 883,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At least they get given matching face masks. https://t.co/Fzjz4XSWTY"
+	},
+	{
+		"created_at": "Sun Feb 02 10:52:31 +0000 2020",
+		"id": 1223455628498129000,
+		"id_str": "1223922135493574656",
+		"full_text": "Gyeongbokgung Palace today. https://t.co/6yJUTkSOts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223455608172499000,
+					"id_str": "1223455608172498944",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqWZLuU0AADEyt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqWZLuU0AADEyt.jpg",
+					"url": "https://t.co/6yJUTkSOts",
+					"display_url": "pic.twitter.com/6yJUTkSOts",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1223455628498128896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 833,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 694,
+									"y": 796,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 376,
+									"y": 796,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 694,
+									"y": 796,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 376,
+									"y": 796,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 264,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 124,
+									"y": 264,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 406,
+									"y": 466,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 220,
+									"y": 466,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223455608172499000,
+					"id_str": "1223455608172498944",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqWZLuU0AADEyt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqWZLuU0AADEyt.jpg",
+					"url": "https://t.co/6yJUTkSOts",
+					"display_url": "pic.twitter.com/6yJUTkSOts",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1223455628498128896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 833,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 694,
+									"y": 796,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 376,
+									"y": 796,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 694,
+									"y": 796,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 376,
+									"y": 796,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 264,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 124,
+									"y": 264,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 406,
+									"y": 466,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 220,
+									"y": 466,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155488031,
+			"id_str": "155488031",
+			"name": "Raphael Rashid",
+			"screen_name": "koryodynasty",
+			"location": "Seoul, Republic of Korea",
+			"description": "Seoul-based freelance journo & @KoreaExpose co-founder. Formerly @EdelmanPR 📧 raphael [at] https://t.co/fLY5GmQEoi 🇬🇧🇫🇷🇧🇩🇰🇷 프리랜서 기자 | 서울 거주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLY5GmQEoi",
+							"expanded_url": "http://rashid.kr",
+							"display_url": "rashid.kr",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6703,
+			"friends_count": 700,
+			"listed_count": 122,
+			"created_at": "Mon Jun 14 08:04:07 +0000 2010",
+			"favourites_count": 12862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155488031/1578580228",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0fc295792e14f000",
+			"url": "https://api.twitter.com/1.1/geo/id/0fc295792e14f000.json",
+			"place_type": "poi",
+			"name": "경복궁 (景福宮)",
+			"full_name": "경복궁 (景福宮)",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.97719566310992,
+							37.57688297343688
+						],
+						[
+							126.97719566310992,
+							37.57688297343688
+						],
+						[
+							126.97719566310992,
+							37.57688297343688
+						],
+						[
+							126.97719566310992,
+							37.57688297343688
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2351,
+		"favorite_count": 1160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gyeongbokgung Palace today. https://t.co/6yJUTkSOts"
+	},
+	{
+		"created_at": "Sun Feb 02 10:52:24 +0000 2020",
+		"id": 1223850340052684800,
+		"id_str": "1223922106246684678",
+		"full_text": "저는 작년초에 고궁박물관에서 봤고 지금은 판매하는지 모르겠어요.\n포커페이스 라는 곳에서 제작/판매하는데(아래링크) 현재 도깨비 마스크는 모두 품절 ㅠㅠ\nhttps://t.co/t59M8cTpT2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t59M8cTpT2",
+					"expanded_url": "https://smartstore.naver.com/pokerface/category/c60b0fac3ea14cbab513514c4ebd2af8?cp=1",
+					"display_url": "smartstore.naver.com/pokerface/cate…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1223656840581410800,
+		"in_reply_to_status_id_str": "1223656840581410816",
+		"in_reply_to_user_id": 161561509,
+		"in_reply_to_user_id_str": "161561509",
+		"in_reply_to_screen_name": "109banana",
+		"user": {
+			"id": 161561509,
+			"id_str": "161561509",
+			"name": "중년바나나🍌",
+			"screen_name": "109banana",
+			"location": "마감시",
+			"description": "글 쓰는 과일❗성인만 팔로해주세요❗✨✨헤더-JAXX님/프사-하반님 /작업문의: sahalove69@naver.com",
+			"url": "https://t.co/hR8EGMjyIU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hR8EGMjyIU",
+							"expanded_url": "https://dillyhub.com/home/binana",
+							"display_url": "dillyhub.com/home/binana",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3873,
+			"friends_count": 294,
+			"listed_count": 21,
+			"created_at": "Thu Jul 01 04:38:17 +0000 2010",
+			"favourites_count": 15133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209929862929977344/110QVQ64_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209929862929977344/110QVQ64_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161561509/1564161215",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저는 작년초에 고궁박물관에서 봤고 지금은 판매하는지 모르겠어요.\n포커페이스 라는 곳에서 제작/판매하는데(아래링크) 현재 도깨비 마스크는 모두 품절 ㅠㅠ\nhttps://t.co/t59M8cTpT2"
+	},
+	{
+		"created_at": "Sun Feb 02 10:52:21 +0000 2020",
+		"id": 1223656840581410800,
+		"id_str": "1223922096264187904",
+		"full_text": "RT) 수문장 마스크 고궁박물관에서 팔아욜 https://t.co/mInVrSlY0r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223656535483486200,
+					"id_str": "1223656535483486213",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EPtNIsSUEAUdg_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPtNIsSUEAUdg_n.jpg",
+					"url": "https://t.co/mInVrSlY0r",
+					"display_url": "pic.twitter.com/mInVrSlY0r",
+					"expanded_url": "https://twitter.com/109banana/status/1223656840581410816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223656535483486200,
+					"id_str": "1223656535483486213",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EPtNIsSUEAUdg_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPtNIsSUEAUdg_n.jpg",
+					"url": "https://t.co/mInVrSlY0r",
+					"display_url": "pic.twitter.com/mInVrSlY0r",
+					"expanded_url": "https://twitter.com/109banana/status/1223656840581410816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1223656557772099600,
+					"id_str": "1223656557772099586",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EPtNJ_UVUAIJywU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPtNJ_UVUAIJywU.jpg",
+					"url": "https://t.co/mInVrSlY0r",
+					"display_url": "pic.twitter.com/mInVrSlY0r",
+					"expanded_url": "https://twitter.com/109banana/status/1223656840581410816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 161561509,
+			"id_str": "161561509",
+			"name": "중년바나나🍌",
+			"screen_name": "109banana",
+			"location": "마감시",
+			"description": "글 쓰는 과일❗성인만 팔로해주세요❗✨✨헤더-JAXX님/프사-하반님 /작업문의: sahalove69@naver.com",
+			"url": "https://t.co/hR8EGMjyIU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hR8EGMjyIU",
+							"expanded_url": "https://dillyhub.com/home/binana",
+							"display_url": "dillyhub.com/home/binana",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3873,
+			"friends_count": 294,
+			"listed_count": 21,
+			"created_at": "Thu Jul 01 04:38:17 +0000 2010",
+			"favourites_count": 15133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209929862929977344/110QVQ64_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209929862929977344/110QVQ64_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161561509/1564161215",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7599,
+		"favorite_count": 2951,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "RT) 수문장 마스크 고궁박물관에서 팔아욜 https://t.co/mInVrSlY0r"
+	},
+	{
+		"created_at": "Sun Feb 02 10:49:33 +0000 2020",
+		"id": 1223873098492993500,
+		"id_str": "1223921388458668033",
+		"full_text": "저는 10년 전에도 선배로부터 절대 목소리 내지 말라고, 너만 다친다고, 그런 말을 들었어요. 왜 모두가 동참할 수 없는 자학적인 방식으로 말을 하느냐고요? 더 이상 아무도 이렇게 되길 바라지 않기 때문이에요. 이런 이야기를 다 포기하지 않고 누가 어떻게 해요? 신인작가들이 해요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1223111048934224000,
+			"id_str": "1223111048934223872",
+			"name": "윤이형",
+			"screen_name": "theirfirstcat",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1523,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Fri Jan 31 05:09:41 +0000 2020",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 871,
+		"favorite_count": 558,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저는 10년 전에도 선배로부터 절대 목소리 내지 말라고, 너만 다친다고, 그런 말을 들었어요. 왜 모두가 동참할 수 없는 자학적인 방식으로 말을 하느냐고요? 더 이상 아무도 이렇게 되길 바라지 않기 때문이에요. 이런 이야기를 다 포기하지 않고 누가 어떻게 해요? 신인작가들이 해요?"
+	},
+	{
+		"created_at": "Sun Feb 02 10:48:55 +0000 2020",
+		"id": 1223877059966976000,
+		"id_str": "1223921229876232192",
+		"full_text": "그런데 항상 신인작가들만 해요. 젊은 작가들만 싸워요. 신춘문예 수상시집에 당선자들이 왜 수록을 거부하는지, 왜 그들의 시가 거부당하는지, 최근의 신인상 조항에 대해 누가 목소리를 내고 있는지 보아 주세요. 관심을 가져주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1223111048934224000,
+			"id_str": "1223111048934223872",
+			"name": "윤이형",
+			"screen_name": "theirfirstcat",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1523,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Fri Jan 31 05:09:41 +0000 2020",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 915,
+		"favorite_count": 511,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런데 항상 신인작가들만 해요. 젊은 작가들만 싸워요. 신춘문예 수상시집에 당선자들이 왜 수록을 거부하는지, 왜 그들의 시가 거부당하는지, 최근의 신인상 조항에 대해 누가 목소리를 내고 있는지 보아 주세요. 관심을 가져주세요."
+	},
+	{
 		"created_at": "Sun Feb 02 07:31:33 +0000 2020",
 		"id": 1223079604706922500,
 		"id_str": "1223871560362016768",
