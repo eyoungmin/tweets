@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 07:31:33 +0000 2020",
+		"id": 1223079604706922500,
+		"id_str": "1223871560362016768",
+		"full_text": "Facebook 외부활동(Offline Activity) 관리 기능 공개 https://t.co/bvx0j1mG4G \n드디어 페이스북 외의 사이트에서 수집된 데이터를 관리하는 페이지 공개\n- 각 사이트에서 공유받은 방법과 활동들을 다 볼수 있음\n- 활동 기록을 지우거나 상세 정보를 다운로드 가능\n- 계속 활동기록을 저장할지...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bvx0j1mG4G",
+					"expanded_url": "http://j.mp/38SX3Jl",
+					"display_url": "j.mp/38SX3Jl",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2114,
+			"friends_count": 0,
+			"listed_count": 38,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Facebook 외부활동(Offline Activity) 관리 기능 공개 https://t.co/bvx0j1mG4G \n드디어 페이스북 외의 사이트에서 수집된 데이터를 관리하는 페이지 공개\n- 각 사이트에서 공유받은 방법과 활동들을 다 볼수 있음\n- 활동 기록을 지우거나 상세 정보를 다운로드 가능\n- 계속 활동기록을 저장할지..."
+	},
+	{
+		"created_at": "Sun Feb 02 07:27:23 +0000 2020",
+		"id": 1223435303290957800,
+		"id_str": "1223870511509172224",
+		"full_text": "\"당신 딸은 연기 잘하는 페미\" 스쿨미투 피해자는 마녀가 됐다 #충북여중 #양지혜 #위티 #충북여중스쿨미투 #스쿨미투 https://t.co/tDKTFuMLSx 충북인뉴스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "충북여중",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "양지혜",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "위티",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "충북여중스쿨미투",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "스쿨미투",
+					"indices": [
+						60,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tDKTFuMLSx",
+					"expanded_url": "http://omn.kr/1med4",
+					"display_url": "omn.kr/1med4",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.moi.so\" rel=\"nofollow\">moiso</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56970775,
+			"id_str": "56970775",
+			"name": "오마이뉴스",
+			"screen_name": "OhmyNews_Korea",
+			"location": "seoul, korea",
+			"description": "오마이뉴스(OhmyNews) 공식 트위터입니다. 여러분과 함께 합니다. https://t.co/xz0tv8YK9O 모든 시민은 기자다!",
+			"url": "http://t.co/G4Ol3jVa1w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/G4Ol3jVa1w",
+							"expanded_url": "http://www.ohmynews.com",
+							"display_url": "ohmynews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xz0tv8YK9O",
+							"expanded_url": "http://m.ohmynews.com",
+							"display_url": "m.ohmynews.com",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313042,
+			"friends_count": 45302,
+			"listed_count": 8020,
+			"created_at": "Wed Jul 15 09:13:22 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 287546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3493007727/f4de82f047547de9f99266c1af53c9cb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3493007727/f4de82f047547de9f99266c1af53c9cb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56970775/1415956191",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1717,
+		"favorite_count": 242,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"당신 딸은 연기 잘하는 페미\" 스쿨미투 피해자는 마녀가 됐다 #충북여중 #양지혜 #위티 #충북여중스쿨미투 #스쿨미투 https://t.co/tDKTFuMLSx 충북인뉴스"
+	},
+	{
+		"created_at": "Sun Feb 02 07:18:39 +0000 2020",
+		"id": 1223725586385817600,
+		"id_str": "1223868314838945795",
+		"full_text": "어째서 반성하는 주체는 항상 작가들이어야 하는지 묻고 싶었습니다. 지금도 그렇습니다. 그럼에도 최초의 문제제기부터 용기 있는 목소리를 내주신 모든 분들께 진심으로 고맙습니다. 저도 끝까지 함께하겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1223725496568959000,
+		"in_reply_to_status_id_str": "1223725496568958976",
+		"in_reply_to_user_id": 1223111048934224000,
+		"in_reply_to_user_id_str": "1223111048934223872",
+		"in_reply_to_screen_name": "theirfirstcat",
+		"user": {
+			"id": 1223111048934224000,
+			"id_str": "1223111048934223872",
+			"name": "윤이형",
+			"screen_name": "theirfirstcat",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1241,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Fri Jan 31 05:09:41 +0000 2020",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 597,
+		"favorite_count": 543,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어째서 반성하는 주체는 항상 작가들이어야 하는지 묻고 싶었습니다. 지금도 그렇습니다. 그럼에도 최초의 문제제기부터 용기 있는 목소리를 내주신 모든 분들께 진심으로 고맙습니다. 저도 끝까지 함께하겠습니다."
+	},
+	{
+		"created_at": "Sun Feb 02 07:18:37 +0000 2020",
+		"id": 1223725496568959000,
+		"id_str": "1223868307188502528",
+		"full_text": "정말로 전혀 책임이 없는 분들에게까지 저의 자책과 무력감을 옮겨드린 것 같아 마음이 무겁습니다. 저는 한없이 확장되는 자책과 자기검열의 연대를 만들려 한 것이 아니라 사실을 알리고 해결을 촉구하고 싶었고 작가들의 환경이 개선되기를 바랄 뿐입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1223725379610792000,
+		"in_reply_to_status_id_str": "1223725379610791936",
+		"in_reply_to_user_id": 1223111048934224000,
+		"in_reply_to_user_id_str": "1223111048934223872",
+		"in_reply_to_screen_name": "theirfirstcat",
+		"user": {
+			"id": 1223111048934224000,
+			"id_str": "1223111048934223872",
+			"name": "윤이형",
+			"screen_name": "theirfirstcat",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1241,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Fri Jan 31 05:09:41 +0000 2020",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 457,
+		"favorite_count": 387,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정말로 전혀 책임이 없는 분들에게까지 저의 자책과 무력감을 옮겨드린 것 같아 마음이 무겁습니다. 저는 한없이 확장되는 자책과 자기검열의 연대를 만들려 한 것이 아니라 사실을 알리고 해결을 촉구하고 싶었고 작가들의 환경이 개선되기를 바랄 뿐입니다."
+	},
+	{
 		"created_at": "Sun Feb 02 05:05:42 +0000 2020",
 		"id": 1223828368165982200,
 		"id_str": "1223834858725597184",
