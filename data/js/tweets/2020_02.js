@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 21:29:04 +0000 2020",
+		"id": 1223934410640113700,
+		"id_str": "1224082329548673024",
+		"full_text": "기술 덕에 자기 표현력은 증폭된 반면 경청의 미덕은 잃어간다. 말보다 사고 속도가 빨라 듣다가 딴 생각하기 쉽다. 똑똑할수록 자기 생각 많아 산만하고 듣기 전에 안다고 여기는 경향. 잘 듣는 것도 능력. 할수록 늘고 관계도 삶도 깊어진다. 귀 기울인 것들이 나를 만든다. https://t.co/xTsfKngoTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xTsfKngoTH",
+					"expanded_url": "https://www.nytimes.com/2020/01/09/opinion/listening-tips.html",
+					"display_url": "nytimes.com/2020/01/09/opi…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103234,
+			"friends_count": 2440,
+			"listed_count": 395,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 346,
+		"favorite_count": 479,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기술 덕에 자기 표현력은 증폭된 반면 경청의 미덕은 잃어간다. 말보다 사고 속도가 빨라 듣다가 딴 생각하기 쉽다. 똑똑할수록 자기 생각 많아 산만하고 듣기 전에 안다고 여기는 경향. 잘 듣는 것도 능력. 할수록 늘고 관계도 삶도 깊어진다. 귀 기울인 것들이 나를 만든다. https://t.co/xTsfKngoTH"
+	},
+	{
 		"created_at": "Sun Feb 02 19:30:19 +0000 2020",
 		"id": 1224052444063244300,
 		"id_str": "1224052444063244288",
