@@ -1,6 +1,1616 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 09:48:03 +0000 2020",
+		"id": 1224268302022779000,
+		"id_str": "1224268302022778880",
+		"full_text": "#STUDIO_A\n골든차일드(Golden Child) 장준&amp;TAG가 말하는 두 래퍼의 차이점은? vol.1 [아뷰뷰]\nhttps://t.co/uUUH8gRJf0\n#박희아 #KPOP #매거진 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STUDIO_A",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "박희아",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uUUH8gRJf0",
+					"expanded_url": "https://youtu.be/AaLTTuhoQsU",
+					"display_url": "youtu.be/AaLTTuhoQsU",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#STUDIO_A\n골든차일드(Golden Child) 장준&amp;TAG가 말하는 두 래퍼의 차이점은? vol.1 [아뷰뷰]\nhttps://t.co/uUUH8gRJf0\n#박희아 #KPOP #매거진 #뮤직비지니스"
+	},
+	{
+		"created_at": "Mon Feb 03 09:42:35 +0000 2020",
+		"id": 1224236729592234000,
+		"id_str": "1224266924483153920",
+		"full_text": "👀신아람 변호사👀\n\n홍익대학교 미술대학 예술학과 졸업\n한국외국어대학교 법학전문대학원 법학전문석사 졸업 \n서울대학교 법과대학 법학박사 과정\n(현)㈜ SBS콘텐츠허브 사내변호사\n⠀\n저서\n예술가를 위한 법률가이드 ‘하다보면 늘겠지’ 저술\n\n#스타카토H피플 #인터뷰\nhttps://t.co/aEct6VdkTl https://t.co/hNhbjL11CH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스타카토H피플",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aEct6VdkTl",
+					"expanded_url": "https://staccatoh.com/%EC%8B%A0%EC%95%84%EB%9E%8C/",
+					"display_url": "staccatoh.com/%EC%8B%A0%EC%9…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224234981582487600,
+					"id_str": "1224234981582487552",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1bOr7UwAAx2xB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1bOr7UwAAx2xB.jpg",
+					"url": "https://t.co/hNhbjL11CH",
+					"display_url": "pic.twitter.com/hNhbjL11CH",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224236729592233984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 614,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 614,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 614,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 257,
+									"y": 132,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 257,
+									"y": 132,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 257,
+									"y": 132,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 257,
+									"y": 132,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224234981582487600,
+					"id_str": "1224234981582487552",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1bOr7UwAAx2xB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1bOr7UwAAx2xB.jpg",
+					"url": "https://t.co/hNhbjL11CH",
+					"display_url": "pic.twitter.com/hNhbjL11CH",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224236729592233984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 614,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 614,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 614,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 257,
+									"y": 132,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 257,
+									"y": 132,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 257,
+									"y": 132,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 257,
+									"y": 132,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224234390311428000,
+		"in_reply_to_status_id_str": "1224234390311428098",
+		"in_reply_to_user_id": 2687661158,
+		"in_reply_to_user_id_str": "2687661158",
+		"in_reply_to_screen_name": "hculturecoop",
+		"user": {
+			"id": 2687661158,
+			"id_str": "2687661158",
+			"name": "홍우주사회적협동조합",
+			"screen_name": "hculturecoop",
+			"location": "홍대앞",
+			"description": "'홍대앞에서 시작해서 우주로 뻗어나갈 문화예술 사회적 협동조합'의 공식 트위터입니다. https://t.co/ykhBnhV1Tt \n홍대앞 문화예술인 인터뷰 -스타카토H피플- https://t.co/v5zxjuGNJd 👀 [NOW]법률강의신청 https://t.co/5BK2sk92Yu",
+			"url": "https://t.co/ey2unn7WlT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ey2unn7WlT",
+							"expanded_url": "http://honguju.com",
+							"display_url": "honguju.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ykhBnhV1Tt",
+							"expanded_url": "http://facebook.com/hculturecoop",
+							"display_url": "facebook.com/hculturecoop",
+							"indices": [
+								48,
+								71
+							]
+						},
+						{
+							"url": "https://t.co/v5zxjuGNJd",
+							"expanded_url": "http://staccatoh.com/people",
+							"display_url": "staccatoh.com/people",
+							"indices": [
+								97,
+								120
+							]
+						},
+						{
+							"url": "https://t.co/5BK2sk92Yu",
+							"expanded_url": "http://instagram.com/staccato_h",
+							"display_url": "instagram.com/staccato_h",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 222,
+			"listed_count": 2,
+			"created_at": "Mon Jul 28 14:32:06 +0000 2014",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2687661158/1534914279",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👀신아람 변호사👀\n\n홍익대학교 미술대학 예술학과 졸업\n한국외국어대학교 법학전문대학원 법학전문석사 졸업 \n서울대학교 법과대학 법학박사 과정\n(현)㈜ SBS콘텐츠허브 사내변호사\n⠀\n저서\n예술가를 위한 법률가이드 ‘하다보면 늘겠지’ 저술\n\n#스타카토H피플 #인터뷰\nhttps://t.co/aEct6VdkTl https://t.co/hNhbjL11CH"
+	},
+	{
+		"created_at": "Mon Feb 03 09:42:32 +0000 2020",
+		"id": 1224234390311428000,
+		"id_str": "1224266914039398402",
+		"full_text": "이론\n저작권법 등 관련 법령 기본 내용 소개\n저작권 이용허락 및 양도 행위의 특성, 계약서 작성 시 유의사항 소개\n저작권 침해 피해를 당했을 때 효과적 대응 방안 소개\n⠀\n실무\n회화 작품을 기업 브랜딩에 활용하는 계약\n웹툰 작품의 드라마화 계약\n유튜브 크리에이터를 위한 영상저작권 사례\n\n질답 https://t.co/8lykNESzLr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224233384970317800,
+					"id_str": "1224233384970317824",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1ZxwFUcAAwXHM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1ZxwFUcAAwXHM.jpg",
+					"url": "https://t.co/8lykNESzLr",
+					"display_url": "pic.twitter.com/8lykNESzLr",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224234390311428098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 337,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 337,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 69,
+									"y": 220,
+									"h": 32,
+									"w": 32
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 337,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224233384970317800,
+					"id_str": "1224233384970317824",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1ZxwFUcAAwXHM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1ZxwFUcAAwXHM.jpg",
+					"url": "https://t.co/8lykNESzLr",
+					"display_url": "pic.twitter.com/8lykNESzLr",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224234390311428098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 337,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 337,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 69,
+									"y": 220,
+									"h": 32,
+									"w": 32
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 337,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224233327109931000,
+		"in_reply_to_status_id_str": "1224233327109931008",
+		"in_reply_to_user_id": 2687661158,
+		"in_reply_to_user_id_str": "2687661158",
+		"in_reply_to_screen_name": "hculturecoop",
+		"user": {
+			"id": 2687661158,
+			"id_str": "2687661158",
+			"name": "홍우주사회적협동조합",
+			"screen_name": "hculturecoop",
+			"location": "홍대앞",
+			"description": "'홍대앞에서 시작해서 우주로 뻗어나갈 문화예술 사회적 협동조합'의 공식 트위터입니다. https://t.co/ykhBnhV1Tt \n홍대앞 문화예술인 인터뷰 -스타카토H피플- https://t.co/v5zxjuGNJd 👀 [NOW]법률강의신청 https://t.co/5BK2sk92Yu",
+			"url": "https://t.co/ey2unn7WlT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ey2unn7WlT",
+							"expanded_url": "http://honguju.com",
+							"display_url": "honguju.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ykhBnhV1Tt",
+							"expanded_url": "http://facebook.com/hculturecoop",
+							"display_url": "facebook.com/hculturecoop",
+							"indices": [
+								48,
+								71
+							]
+						},
+						{
+							"url": "https://t.co/v5zxjuGNJd",
+							"expanded_url": "http://staccatoh.com/people",
+							"display_url": "staccatoh.com/people",
+							"indices": [
+								97,
+								120
+							]
+						},
+						{
+							"url": "https://t.co/5BK2sk92Yu",
+							"expanded_url": "http://instagram.com/staccato_h",
+							"display_url": "instagram.com/staccato_h",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 222,
+			"listed_count": 2,
+			"created_at": "Mon Jul 28 14:32:06 +0000 2014",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2687661158/1534914279",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이론\n저작권법 등 관련 법령 기본 내용 소개\n저작권 이용허락 및 양도 행위의 특성, 계약서 작성 시 유의사항 소개\n저작권 침해 피해를 당했을 때 효과적 대응 방안 소개\n⠀\n실무\n회화 작품을 기업 브랜딩에 활용하는 계약\n웹툰 작품의 드라마화 계약\n유튜브 크리에이터를 위한 영상저작권 사례\n\n질답 https://t.co/8lykNESzLr"
+	},
+	{
+		"created_at": "Mon Feb 03 09:42:29 +0000 2020",
+		"id": 1224233327109931000,
+		"id_str": "1224266900227543042",
+		"full_text": "강의 : 예술인을 위한 법률 가이드 : 저작권 편\n날짜 : 2020년 2월 18일(화) 18:00-19:50\n장소 : 서교예술실험센터 1층(서울시 마포구 잔다리로6길 33)\n진행 : 신아람 변호사(㈜ SBS콘텐츠허브 사내변호사)\n대상 : 문화예술인, 예대생, 문화예술 기획자 등\n정원 : 35명\n참가비 : 25,000원(유인물 제공) https://t.co/z6ahLs2Pz1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224232995155931100,
+					"id_str": "1224232995155931137",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1ZbD6U8AE9hR7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1ZbD6U8AE9hR7.jpg",
+					"url": "https://t.co/z6ahLs2Pz1",
+					"display_url": "pic.twitter.com/z6ahLs2Pz1",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224233327109931008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 110,
+									"y": 343,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 224,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 110,
+									"y": 343,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 110,
+									"y": 343,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224232995155931100,
+					"id_str": "1224232995155931137",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1ZbD6U8AE9hR7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1ZbD6U8AE9hR7.jpg",
+					"url": "https://t.co/z6ahLs2Pz1",
+					"display_url": "pic.twitter.com/z6ahLs2Pz1",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224233327109931008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 110,
+									"y": 343,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 224,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 110,
+									"y": 343,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 110,
+									"y": 343,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224232932094533600,
+		"in_reply_to_status_id_str": "1224232932094533633",
+		"in_reply_to_user_id": 2687661158,
+		"in_reply_to_user_id_str": "2687661158",
+		"in_reply_to_screen_name": "hculturecoop",
+		"user": {
+			"id": 2687661158,
+			"id_str": "2687661158",
+			"name": "홍우주사회적협동조합",
+			"screen_name": "hculturecoop",
+			"location": "홍대앞",
+			"description": "'홍대앞에서 시작해서 우주로 뻗어나갈 문화예술 사회적 협동조합'의 공식 트위터입니다. https://t.co/ykhBnhV1Tt \n홍대앞 문화예술인 인터뷰 -스타카토H피플- https://t.co/v5zxjuGNJd 👀 [NOW]법률강의신청 https://t.co/5BK2sk92Yu",
+			"url": "https://t.co/ey2unn7WlT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ey2unn7WlT",
+							"expanded_url": "http://honguju.com",
+							"display_url": "honguju.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ykhBnhV1Tt",
+							"expanded_url": "http://facebook.com/hculturecoop",
+							"display_url": "facebook.com/hculturecoop",
+							"indices": [
+								48,
+								71
+							]
+						},
+						{
+							"url": "https://t.co/v5zxjuGNJd",
+							"expanded_url": "http://staccatoh.com/people",
+							"display_url": "staccatoh.com/people",
+							"indices": [
+								97,
+								120
+							]
+						},
+						{
+							"url": "https://t.co/5BK2sk92Yu",
+							"expanded_url": "http://instagram.com/staccato_h",
+							"display_url": "instagram.com/staccato_h",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 222,
+			"listed_count": 2,
+			"created_at": "Mon Jul 28 14:32:06 +0000 2014",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2687661158/1534914279",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "강의 : 예술인을 위한 법률 가이드 : 저작권 편\n날짜 : 2020년 2월 18일(화) 18:00-19:50\n장소 : 서교예술실험센터 1층(서울시 마포구 잔다리로6길 33)\n진행 : 신아람 변호사(㈜ SBS콘텐츠허브 사내변호사)\n대상 : 문화예술인, 예대생, 문화예술 기획자 등\n정원 : 35명\n참가비 : 25,000원(유인물 제공) https://t.co/z6ahLs2Pz1"
+	},
+	{
+		"created_at": "Mon Feb 03 09:42:23 +0000 2020",
+		"id": 1224232932094533600,
+		"id_str": "1224266877360173056",
+		"full_text": "특히 이번 강의에서는 👩‍💻유튜브 크리에이터👨‍💻를 위한 생생한 영상 저작권 지식도 함께 소개됩니다. 또한 강의 후 마련된 1:1 질의응답 시간을 통해 그동안 고민했던 문제들을 속시원히 해결합니다.💡\n\n#스타카토H #신아람변호사 #SBS콘텐츠허브 #저작권법 #법률강의 #양도계약서 #영상저작권 #클래스 https://t.co/eDnNi3wuur",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스타카토H",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "신아람변호사",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "SBS콘텐츠허브",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "저작권법",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "법률강의",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "양도계약서",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "영상저작권",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "클래스",
+					"indices": [
+						164,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224232914390380500,
+					"id_str": "1224232914390380544",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1ZWXCUcAA4gJZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1ZWXCUcAA4gJZ.jpg",
+					"url": "https://t.co/eDnNi3wuur",
+					"display_url": "pic.twitter.com/eDnNi3wuur",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224232932094533633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 337,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 337,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 69,
+									"y": 220,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 337,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224232914390380500,
+					"id_str": "1224232914390380544",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1ZWXCUcAA4gJZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1ZWXCUcAA4gJZ.jpg",
+					"url": "https://t.co/eDnNi3wuur",
+					"display_url": "pic.twitter.com/eDnNi3wuur",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224232932094533633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 337,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 337,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 69,
+									"y": 220,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 337,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224231890028134400,
+		"in_reply_to_status_id_str": "1224231890028134400",
+		"in_reply_to_user_id": 2687661158,
+		"in_reply_to_user_id_str": "2687661158",
+		"in_reply_to_screen_name": "hculturecoop",
+		"user": {
+			"id": 2687661158,
+			"id_str": "2687661158",
+			"name": "홍우주사회적협동조합",
+			"screen_name": "hculturecoop",
+			"location": "홍대앞",
+			"description": "'홍대앞에서 시작해서 우주로 뻗어나갈 문화예술 사회적 협동조합'의 공식 트위터입니다. https://t.co/ykhBnhV1Tt \n홍대앞 문화예술인 인터뷰 -스타카토H피플- https://t.co/v5zxjuGNJd 👀 [NOW]법률강의신청 https://t.co/5BK2sk92Yu",
+			"url": "https://t.co/ey2unn7WlT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ey2unn7WlT",
+							"expanded_url": "http://honguju.com",
+							"display_url": "honguju.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ykhBnhV1Tt",
+							"expanded_url": "http://facebook.com/hculturecoop",
+							"display_url": "facebook.com/hculturecoop",
+							"indices": [
+								48,
+								71
+							]
+						},
+						{
+							"url": "https://t.co/v5zxjuGNJd",
+							"expanded_url": "http://staccatoh.com/people",
+							"display_url": "staccatoh.com/people",
+							"indices": [
+								97,
+								120
+							]
+						},
+						{
+							"url": "https://t.co/5BK2sk92Yu",
+							"expanded_url": "http://instagram.com/staccato_h",
+							"display_url": "instagram.com/staccato_h",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 222,
+			"listed_count": 2,
+			"created_at": "Mon Jul 28 14:32:06 +0000 2014",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2687661158/1534914279",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "특히 이번 강의에서는 👩‍💻유튜브 크리에이터👨‍💻를 위한 생생한 영상 저작권 지식도 함께 소개됩니다. 또한 강의 후 마련된 1:1 질의응답 시간을 통해 그동안 고민했던 문제들을 속시원히 해결합니다.💡\n\n#스타카토H #신아람변호사 #SBS콘텐츠허브 #저작권법 #법률강의 #양도계약서 #영상저작권 #클래스 https://t.co/eDnNi3wuur"
+	},
+	{
+		"created_at": "Mon Feb 03 09:42:21 +0000 2020",
+		"id": 1224231890028134400,
+		"id_str": "1224266867151269889",
+		"full_text": "📌&lt;예술인을 위한 법률 가이드 : 저작권 편&gt;이 서교예술실험센터에서 진행됩니다.📃\n\n시각 예술을 중심으로, 예술인이 생업 활동을 위하여 꼭 알아야 할 저작권법의 내용과 관련 법률지식을 소개하고,📖 실제 분쟁 사례와 함께 저작권 이용허락/양도 계약서를 유리하게 작성하는 방법을 배웁니다.🖋 https://t.co/j57qokBRui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224231665695776800,
+					"id_str": "1224231665695776768",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1YNrSU4AA-mKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1YNrSU4AA-mKI.jpg",
+					"url": "https://t.co/j57qokBRui",
+					"display_url": "pic.twitter.com/j57qokBRui",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224231890028134400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1191,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1191,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224231665695776800,
+					"id_str": "1224231665695776768",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1YNrSU4AA-mKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1YNrSU4AA-mKI.jpg",
+					"url": "https://t.co/j57qokBRui",
+					"display_url": "pic.twitter.com/j57qokBRui",
+					"expanded_url": "https://twitter.com/hculturecoop/status/1224231890028134400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1191,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1191,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2687661158,
+			"id_str": "2687661158",
+			"name": "홍우주사회적협동조합",
+			"screen_name": "hculturecoop",
+			"location": "홍대앞",
+			"description": "'홍대앞에서 시작해서 우주로 뻗어나갈 문화예술 사회적 협동조합'의 공식 트위터입니다. https://t.co/ykhBnhV1Tt \n홍대앞 문화예술인 인터뷰 -스타카토H피플- https://t.co/v5zxjuGNJd 👀 [NOW]법률강의신청 https://t.co/5BK2sk92Yu",
+			"url": "https://t.co/ey2unn7WlT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ey2unn7WlT",
+							"expanded_url": "http://honguju.com",
+							"display_url": "honguju.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ykhBnhV1Tt",
+							"expanded_url": "http://facebook.com/hculturecoop",
+							"display_url": "facebook.com/hculturecoop",
+							"indices": [
+								48,
+								71
+							]
+						},
+						{
+							"url": "https://t.co/v5zxjuGNJd",
+							"expanded_url": "http://staccatoh.com/people",
+							"display_url": "staccatoh.com/people",
+							"indices": [
+								97,
+								120
+							]
+						},
+						{
+							"url": "https://t.co/5BK2sk92Yu",
+							"expanded_url": "http://instagram.com/staccato_h",
+							"display_url": "instagram.com/staccato_h",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 222,
+			"listed_count": 2,
+			"created_at": "Mon Jul 28 14:32:06 +0000 2014",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032131509476503552/sCjeA2wj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2687661158/1534914279",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌&lt;예술인을 위한 법률 가이드 : 저작권 편&gt;이 서교예술실험센터에서 진행됩니다.📃\n\n시각 예술을 중심으로, 예술인이 생업 활동을 위하여 꼭 알아야 할 저작권법의 내용과 관련 법률지식을 소개하고,📖 실제 분쟁 사례와 함께 저작권 이용허락/양도 계약서를 유리하게 작성하는 방법을 배웁니다.🖋 https://t.co/j57qokBRui"
+	},
+	{
 		"created_at": "Mon Feb 03 05:47:42 +0000 2020",
 		"id": 1224104487373041700,
 		"id_str": "1224207816879067136",
