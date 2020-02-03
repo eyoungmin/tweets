@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 12:42:25 +0000 2020",
+		"id": 1224304038868484000,
+		"id_str": "1224312182227247104",
+		"full_text": "오늘은 예외적으로 일을 하고 밥으로 사례를 받았는데 매우 만족스러운 거래였습니다. 🥂🦪🍻🍊 https://t.co/IuI7ezq1RS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224304024729424000,
+					"id_str": "1224304024729423878",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2aBhsUEAYxN0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2aBhsUEAYxN0l.jpg",
+					"url": "https://t.co/IuI7ezq1RS",
+					"display_url": "pic.twitter.com/IuI7ezq1RS",
+					"expanded_url": "https://twitter.com/love_yuna/status/1224304038868484096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1288,
+									"y": 300,
+									"h": 388,
+									"w": 388
+								},
+								{
+									"x": 1532,
+									"y": 548,
+									"h": 436,
+									"w": 436
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 99,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 508,
+									"y": 181,
+									"h": 144,
+									"w": 144
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1288,
+									"y": 300,
+									"h": 388,
+									"w": 388
+								},
+								{
+									"x": 1532,
+									"y": 548,
+									"h": 436,
+									"w": 436
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 754,
+									"y": 175,
+									"h": 227,
+									"w": 227
+								},
+								{
+									"x": 897,
+									"y": 321,
+									"h": 255,
+									"w": 255
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224304024729424000,
+					"id_str": "1224304024729423878",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2aBhsUEAYxN0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2aBhsUEAYxN0l.jpg",
+					"url": "https://t.co/IuI7ezq1RS",
+					"display_url": "pic.twitter.com/IuI7ezq1RS",
+					"expanded_url": "https://twitter.com/love_yuna/status/1224304038868484096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1288,
+									"y": 300,
+									"h": 388,
+									"w": 388
+								},
+								{
+									"x": 1532,
+									"y": 548,
+									"h": 436,
+									"w": 436
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 99,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 508,
+									"y": 181,
+									"h": 144,
+									"w": 144
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1288,
+									"y": 300,
+									"h": 388,
+									"w": 388
+								},
+								{
+									"x": 1532,
+									"y": 548,
+									"h": 436,
+									"w": 436
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 754,
+									"y": 175,
+									"h": 227,
+									"w": 227
+								},
+								{
+									"x": 897,
+									"y": 321,
+									"h": 255,
+									"w": 255
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224304024754651100,
+					"id_str": "1224304024754651136",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2aBhyVAAAkC8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2aBhyVAAAkC8r.jpg",
+					"url": "https://t.co/IuI7ezq1RS",
+					"display_url": "pic.twitter.com/IuI7ezq1RS",
+					"expanded_url": "https://twitter.com/love_yuna/status/1224304038868484096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278741,
+			"friends_count": 493,
+			"listed_count": 3105,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1576230082",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 예외적으로 일을 하고 밥으로 사례를 받았는데 매우 만족스러운 거래였습니다. 🥂🦪🍻🍊 https://t.co/IuI7ezq1RS"
+	},
+	{
 		"created_at": "Mon Feb 03 09:48:03 +0000 2020",
 		"id": 1224268302022779000,
 		"id_str": "1224268302022778880",
@@ -1037,7 +1395,7 @@ Grailbird.data.tweets_2020_02 =
 		"created_at": "Mon Feb 03 09:42:23 +0000 2020",
 		"id": 1224232932094533600,
 		"id_str": "1224266877360173056",
-		"full_text": "특히 이번 강의에서는 👩‍💻유튜브 크리에이터👨‍💻를 위한 생생한 영상 저작권 지식도 함께 소개됩니다. 또한 강의 후 마련된 1:1 질의응답 시간을 통해 그동안 고민했던 문제들을 속시원히 해결합니다.💡\n\n#스타카토H #신아람변호사 #SBS콘텐츠허브 #저작권법 #법률강의 #양도계약서 #영상저작권 #클래스 https://t.co/eDnNi3wuur",
+		"full_text": "특히 이번 강의에서는 👩💻유튜브 크리에이터👨💻를 위한 생생한 영상 저작권 지식도 함께 소개됩니다. 또한 강의 후 마련된 1:1 질의응답 시간을 통해 그동안 고민했던 문제들을 속시원히 해결합니다.💡\n\n#스타카토H #신아람변호사 #SBS콘텐츠허브 #저작권법 #법률강의 #양도계약서 #영상저작권 #클래스 https://t.co/eDnNi3wuur",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1376,7 +1734,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "특히 이번 강의에서는 👩‍💻유튜브 크리에이터👨‍💻를 위한 생생한 영상 저작권 지식도 함께 소개됩니다. 또한 강의 후 마련된 1:1 질의응답 시간을 통해 그동안 고민했던 문제들을 속시원히 해결합니다.💡\n\n#스타카토H #신아람변호사 #SBS콘텐츠허브 #저작권법 #법률강의 #양도계약서 #영상저작권 #클래스 https://t.co/eDnNi3wuur"
+		"text": "특히 이번 강의에서는 👩💻유튜브 크리에이터👨💻를 위한 생생한 영상 저작권 지식도 함께 소개됩니다. 또한 강의 후 마련된 1:1 질의응답 시간을 통해 그동안 고민했던 문제들을 속시원히 해결합니다.💡\n\n#스타카토H #신아람변호사 #SBS콘텐츠허브 #저작권법 #법률강의 #양도계약서 #영상저작권 #클래스 https://t.co/eDnNi3wuur"
 	},
 	{
 		"created_at": "Mon Feb 03 09:42:21 +0000 2020",
