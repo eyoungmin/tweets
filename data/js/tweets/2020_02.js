@@ -1,6 +1,732 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 05:47:42 +0000 2020",
+		"id": 1224104487373041700,
+		"id_str": "1224207816879067136",
+		"full_text": "BTS 월드투어 옷 만든 그녀, 넷플릭스 패션 서바이벌 우승 https://t.co/52YL9V2z98 넷플릭스에 새로 올라온 패션 서바이벌 프로그램 넥스트인패션 시리즈의 우승자가 한국인 디자이너 김민주씨. https://t.co/ZRqPoRkhfr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/52YL9V2z98",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=025&aid=0002972292",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224104475574407200,
+					"id_str": "1224104475574407168",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EPzkiPKUEAAvVzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPzkiPKUEAAvVzD.jpg",
+					"url": "https://t.co/ZRqPoRkhfr",
+					"display_url": "pic.twitter.com/ZRqPoRkhfr",
+					"expanded_url": "https://twitter.com/estima7/status/1224104487373041665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 559,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 345,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 69,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 69,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 69,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 69,
+									"h": 133,
+									"w": 133
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224104475574407200,
+					"id_str": "1224104475574407168",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EPzkiPKUEAAvVzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPzkiPKUEAAvVzD.jpg",
+					"url": "https://t.co/ZRqPoRkhfr",
+					"display_url": "pic.twitter.com/ZRqPoRkhfr",
+					"expanded_url": "https://twitter.com/estima7/status/1224104487373041665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 559,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 345,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 345,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 69,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 69,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 69,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 69,
+									"h": 133,
+									"w": 133
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 381967,
+			"friends_count": 2297,
+			"listed_count": 4791,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BTS 월드투어 옷 만든 그녀, 넷플릭스 패션 서바이벌 우승 https://t.co/52YL9V2z98 넷플릭스에 새로 올라온 패션 서바이벌 프로그램 넥스트인패션 시리즈의 우승자가 한국인 디자이너 김민주씨. https://t.co/ZRqPoRkhfr"
+	},
+	{
+		"created_at": "Mon Feb 03 05:47:18 +0000 2020",
+		"id": 1224144486315393000,
+		"id_str": "1224207714487697408",
+		"full_text": "정부, '마스크 사재기' 처벌 강화…2년 이하 징역형 https://t.co/nfhogFu3qJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nfhogFu3qJ",
+					"expanded_url": "http://news.jtbc.joins.com/html/407/NB11932407.html",
+					"display_url": "news.jtbc.joins.com/html/407/NB119…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612538,
+			"friends_count": 45715,
+			"listed_count": 2362,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 70638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1578561632",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정부, '마스크 사재기' 처벌 강화…2년 이하 징역형 https://t.co/nfhogFu3qJ"
+	},
+	{
+		"created_at": "Mon Feb 03 05:47:11 +0000 2020",
+		"id": 1224173562166071300,
+		"id_str": "1224207686058663936",
+		"full_text": "구글 지도 Hacks https://t.co/YRfwptTeN3 \n구글지도앱을 켠 스마트폰 99개를 핸드카트에 담고 거리를 걸어서, 가짜로 교통체증을 만들기.\nGoogle Maps에서 경로 확인시 보이는 교통정보에 강제로 빨간색 라인을 만드는 것을 촬영한 동영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YRfwptTeN3",
+					"expanded_url": "http://j.mp/3baQFPV",
+					"display_url": "j.mp/3baQFPV",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2122,
+			"friends_count": 0,
+			"listed_count": 38,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 지도 Hacks https://t.co/YRfwptTeN3 \n구글지도앱을 켠 스마트폰 99개를 핸드카트에 담고 거리를 걸어서, 가짜로 교통체증을 만들기.\nGoogle Maps에서 경로 확인시 보이는 교통정보에 강제로 빨간색 라인을 만드는 것을 촬영한 동영상"
+	},
+	{
+		"created_at": "Mon Feb 03 05:46:54 +0000 2020",
+		"id": 1224169556479889400,
+		"id_str": "1224207615657299968",
+		"full_text": "저의 첫 LP 음반 &lt;두 개의 나&gt;는 무나씨의 드로잉과 디자인으로 완성되었습니다. LP에 맞게 리마스터링하였으며 알판은 독일에서 제작됩니다. 500장 한정판 발매로 여러 사이트에서 예약주문이 가능합니다. 직접 넘버링한 엽서 인서트가 삽입되어 있습니다. https://t.co/XGfHFJAmMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224169543901171700,
+					"id_str": "1224169543901171712",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EP0fttkU0AAyQQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP0fttkU0AAyQQR.jpg",
+					"url": "https://t.co/XGfHFJAmMb",
+					"display_url": "pic.twitter.com/XGfHFJAmMb",
+					"expanded_url": "https://twitter.com/dawnyboom/status/1224169556479889414/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224169543901171700,
+					"id_str": "1224169543901171712",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EP0fttkU0AAyQQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP0fttkU0AAyQQR.jpg",
+					"url": "https://t.co/XGfHFJAmMb",
+					"display_url": "pic.twitter.com/XGfHFJAmMb",
+					"expanded_url": "https://twitter.com/dawnyboom/status/1224169556479889414/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224169543905374200,
+					"id_str": "1224169543905374208",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EP0fttlU8AAiakC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP0fttlU8AAiakC.jpg",
+					"url": "https://t.co/XGfHFJAmMb",
+					"display_url": "pic.twitter.com/XGfHFJAmMb",
+					"expanded_url": "https://twitter.com/dawnyboom/status/1224169556479889414/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115895688,
+			"id_str": "115895688",
+			"name": "한희정 Han Heejung",
+			"screen_name": "dawnyboom",
+			"location": "",
+			"description": "만들고 연주합니다",
+			"url": "https://t.co/JN3uCNz916",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JN3uCNz916",
+							"expanded_url": "https://www.instagram.com/dawnyboom",
+							"display_url": "instagram.com/dawnyboom",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12898,
+			"friends_count": 129,
+			"listed_count": 548,
+			"created_at": "Sat Feb 20 10:21:58 +0000 2010",
+			"favourites_count": 539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F2F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115895688/1570692306",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C4C4C4",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "363636",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저의 첫 LP 음반 &lt;두 개의 나&gt;는 무나씨의 드로잉과 디자인으로 완성되었습니다. LP에 맞게 리마스터링하였으며 알판은 독일에서 제작됩니다. 500장 한정판 발매로 여러 사이트에서 예약주문이 가능합니다. 직접 넘버링한 엽서 인서트가 삽입되어 있습니다. https://t.co/XGfHFJAmMb"
+	},
+	{
 		"created_at": "Mon Feb 03 03:40:40 +0000 2020",
 		"id": 1224165676178264000,
 		"id_str": "1224175844807016448",
