@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 20:59:52 +0000 2020",
+		"id": 1224233875888459800,
+		"id_str": "1224437370289676288",
+		"full_text": "[#김이나] 더블유 2월호에서 김이나의 음악 이야기를 만나보세요!\n&gt; https://t.co/gv9dYyXZ1P\n\n#더블유코리아 @wkorea #작사가김이나 https://t.co/aXJQH1JXBQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김이나",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "더블유코리아",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "작사가김이나",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wkorea",
+					"name": "W Korea",
+					"id": 78262636,
+					"id_str": "78262636",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gv9dYyXZ1P",
+					"expanded_url": "https://bit.ly/36Ughgg",
+					"display_url": "bit.ly/36Ughgg",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224233852748451800,
+					"id_str": "1224233852748451840",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1aM-sUUAAZ-ZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1aM-sUUAAZ-ZA.jpg",
+					"url": "https://t.co/aXJQH1JXBQ",
+					"display_url": "pic.twitter.com/aXJQH1JXBQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1224233875888459777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1577,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 482,
+									"y": 276,
+									"h": 405,
+									"w": 405
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 217,
+									"h": 319,
+									"w": 319
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 72,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 127,
+									"h": 187,
+									"w": 187
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224233852748451800,
+					"id_str": "1224233852748451840",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1aM-sUUAAZ-ZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1aM-sUUAAZ-ZA.jpg",
+					"url": "https://t.co/aXJQH1JXBQ",
+					"display_url": "pic.twitter.com/aXJQH1JXBQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1224233875888459777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1577,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 482,
+									"y": 276,
+									"h": 405,
+									"w": 405
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 217,
+									"h": 319,
+									"w": 319
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 72,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 127,
+									"h": 187,
+									"w": 187
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224233852744241200,
+					"id_str": "1224233852744241152",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1aM-rUEAAczPa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1aM-rUEAAczPa.jpg",
+					"url": "https://t.co/aXJQH1JXBQ",
+					"display_url": "pic.twitter.com/aXJQH1JXBQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1224233875888459777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1577,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224233852740108300,
+					"id_str": "1224233852740108288",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1aM-qVAAA7ZLe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1aM-qVAAA7ZLe.jpg",
+					"url": "https://t.co/aXJQH1JXBQ",
+					"display_url": "pic.twitter.com/aXJQH1JXBQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1224233875888459777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1577,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 47,
+									"h": 237,
+									"w": 237
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 60,
+									"h": 301,
+									"w": 301
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 15,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 27,
+									"h": 139,
+									"w": 139
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18041,
+			"friends_count": 16,
+			"listed_count": 258,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김이나] 더블유 2월호에서 김이나의 음악 이야기를 만나보세요!\n&gt; https://t.co/gv9dYyXZ1P\n\n#더블유코리아 @wkorea #작사가김이나 https://t.co/aXJQH1JXBQ"
+	},
+	{
 		"created_at": "Mon Feb 03 16:52:20 +0000 2020",
 		"id": 1224375074175799300,
 		"id_str": "1224375074175799297",
