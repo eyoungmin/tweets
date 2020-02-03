@@ -1,6 +1,1170 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 13:49:49 +0000 2020",
+		"id": 1224327746593017900,
+		"id_str": "1224329143254319104",
+		"full_text": "그곳은 라이카 님의 질문에 답하는 대신 공식(이란 말을 지금 쓰는 게 맞는지 모르겠지만 사이트) 게시판에 이 시를 업데이트하고 전에 논란이 되었을 때 올렸던 게시물을 리스트 상단으로 옮겨뒀다. \nhttps://t.co/ZjCpNo9n9h https://t.co/irMMEzCIPZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZjCpNo9n9h",
+					"expanded_url": "http://kuchu-camp.net/",
+					"display_url": "kuchu-camp.net",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224327725516644400,
+					"id_str": "1224327725516644353",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2vlGAU4AE2so0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2vlGAU4AE2so0.jpg",
+					"url": "https://t.co/irMMEzCIPZ",
+					"display_url": "pic.twitter.com/irMMEzCIPZ",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1224327746593017857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1325,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224327725516644400,
+					"id_str": "1224327725516644353",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2vlGAU4AE2so0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2vlGAU4AE2so0.jpg",
+					"url": "https://t.co/irMMEzCIPZ",
+					"display_url": "pic.twitter.com/irMMEzCIPZ",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1224327746593017857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1325,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224327736845488000,
+					"id_str": "1224327736845488128",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2vlwNVUAA8FYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2vlwNVUAA8FYO.jpg",
+					"url": "https://t.co/irMMEzCIPZ",
+					"display_url": "pic.twitter.com/irMMEzCIPZ",
+					"expanded_url": "https://twitter.com/HAVAQQUQ/status/1224327746593017857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 836,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1426,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1223469650463166500,
+		"in_reply_to_status_id_str": "1223469650463166464",
+		"in_reply_to_user_id": 8098922,
+		"in_reply_to_user_id_str": "8098922",
+		"in_reply_to_screen_name": "HAVAQQUQ",
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5098,
+			"friends_count": 1172,
+			"listed_count": 94,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 6508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그곳은 라이카 님의 질문에 답하는 대신 공식(이란 말을 지금 쓰는 게 맞는지 모르겠지만 사이트) 게시판에 이 시를 업데이트하고 전에 논란이 되었을 때 올렸던 게시물을 리스트 상단으로 옮겨뒀다. \nhttps://t.co/ZjCpNo9n9h https://t.co/irMMEzCIPZ"
+	},
+	{
+		"created_at": "Mon Feb 03 13:24:57 +0000 2020",
+		"id": 1221407121675182000,
+		"id_str": "1224322886996938753",
+		"full_text": "데이터가 적당히 쌓이면 다음처럼 관심 순으로 정렬 해 줍니다.\n(1) 요일 목록 내에서 정렬 해 줍니다.\n(2) 전체 연재 목록도 정렬 해 줍니다.\n(3) 본 작품은 회색으로 보여 줍니다.\n초기에는 플러그인이 분석할 데이터가 없어서 대부분이 회색으로 보이지만 평소대로 쓰시면 자리를 잡을 겁니다. https://t.co/4wkMmqbtJw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221407108253438000,
+					"id_str": "1221407108253437952",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EPNPSy2VUAANtZr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPNPSy2VUAANtZr.jpg",
+					"url": "https://t.co/4wkMmqbtJw",
+					"display_url": "pic.twitter.com/4wkMmqbtJw",
+					"expanded_url": "https://twitter.com/untilinotzero/status/1221407121675182080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 890,
+							"h": 933,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 933,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 84,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 344,
+									"y": 552,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 694,
+									"y": 226,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 621,
+									"y": 824,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 694,
+									"y": 80,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 693,
+									"y": 797,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 32,
+									"y": 260,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 603,
+									"y": 686,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 594,
+									"y": 90,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 61,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 250,
+									"y": 402,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 506,
+									"y": 164,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 452,
+									"y": 600,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 506,
+									"y": 58,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 505,
+									"y": 581,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 23,
+									"y": 189,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 439,
+									"y": 500,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 433,
+									"y": 65,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 84,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 344,
+									"y": 552,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 694,
+									"y": 226,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 621,
+									"y": 824,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 694,
+									"y": 80,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 693,
+									"y": 797,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 32,
+									"y": 260,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 603,
+									"y": 686,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 594,
+									"y": 90,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 84,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 344,
+									"y": 552,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 694,
+									"y": 226,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 621,
+									"y": 824,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 694,
+									"y": 80,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 693,
+									"y": 797,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 32,
+									"y": 260,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 603,
+									"y": 686,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 594,
+									"y": 90,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221407108253438000,
+					"id_str": "1221407108253437952",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EPNPSy2VUAANtZr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPNPSy2VUAANtZr.jpg",
+					"url": "https://t.co/4wkMmqbtJw",
+					"display_url": "pic.twitter.com/4wkMmqbtJw",
+					"expanded_url": "https://twitter.com/untilinotzero/status/1221407121675182080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 890,
+							"h": 933,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 933,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 84,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 344,
+									"y": 552,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 694,
+									"y": 226,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 621,
+									"y": 824,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 694,
+									"y": 80,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 693,
+									"y": 797,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 32,
+									"y": 260,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 603,
+									"y": 686,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 594,
+									"y": 90,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 61,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 250,
+									"y": 402,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 506,
+									"y": 164,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 452,
+									"y": 600,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 506,
+									"y": 58,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 505,
+									"y": 581,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 23,
+									"y": 189,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 439,
+									"y": 500,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 433,
+									"y": 65,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 84,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 344,
+									"y": 552,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 694,
+									"y": 226,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 621,
+									"y": 824,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 694,
+									"y": 80,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 693,
+									"y": 797,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 32,
+									"y": 260,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 603,
+									"y": 686,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 594,
+									"y": 90,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 84,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 344,
+									"y": 552,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 694,
+									"y": 226,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 621,
+									"y": 824,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 694,
+									"y": 80,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 693,
+									"y": 797,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 32,
+									"y": 260,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 603,
+									"y": 686,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 594,
+									"y": 90,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1221407108052054000,
+					"id_str": "1221407108052054019",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EPNPSyGUcAMjI9d.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPNPSyGUcAMjI9d.png",
+					"url": "https://t.co/4wkMmqbtJw",
+					"display_url": "pic.twitter.com/4wkMmqbtJw",
+					"expanded_url": "https://twitter.com/untilinotzero/status/1221407121675182080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 510,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 510,
+							"h": 584,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 584,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 184,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 426,
+									"y": 333,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 147,
+									"y": 173,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 184,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 426,
+									"y": 333,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 147,
+									"y": 173,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 184,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 426,
+									"y": 333,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 147,
+									"y": 173,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 184,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 426,
+									"y": 333,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 147,
+									"y": 173,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1221407107863310300,
+					"id_str": "1221407107863310336",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EPNPSxZUcAAzcCs.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPNPSxZUcAAzcCs.png",
+					"url": "https://t.co/4wkMmqbtJw",
+					"display_url": "pic.twitter.com/4wkMmqbtJw",
+					"expanded_url": "https://twitter.com/untilinotzero/status/1221407121675182080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 889,
+							"h": 515,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 515,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1221374886997717000,
+		"in_reply_to_status_id_str": "1221374886997716992",
+		"in_reply_to_user_id": 153220741,
+		"in_reply_to_user_id_str": "153220741",
+		"in_reply_to_screen_name": "untilinotzero",
+		"user": {
+			"id": 153220741,
+			"id_str": "153220741",
+			"name": "투명모자",
+			"screen_name": "untilinotzero",
+			"location": "Seoul, Korea",
+			"description": "프로그래밍 합니다. RT 아니면 아무말만 하니 맞팔 안하셔도 됩니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 163,
+			"listed_count": 9,
+			"created_at": "Tue Jun 08 00:27:36 +0000 2010",
+			"favourites_count": 1026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064148377770704896/5y_AgNCS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064148377770704896/5y_AgNCS_normal.jpg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "데이터가 적당히 쌓이면 다음처럼 관심 순으로 정렬 해 줍니다.\n(1) 요일 목록 내에서 정렬 해 줍니다.\n(2) 전체 연재 목록도 정렬 해 줍니다.\n(3) 본 작품은 회색으로 보여 줍니다.\n초기에는 플러그인이 분석할 데이터가 없어서 대부분이 회색으로 보이지만 평소대로 쓰시면 자리를 잡을 겁니다. https://t.co/4wkMmqbtJw"
+	},
+	{
+		"created_at": "Mon Feb 03 13:24:51 +0000 2020",
+		"id": 1221404305023848400,
+		"id_str": "1224322862825107456",
+		"full_text": "@saschanaz 네. 네이버에서 데이터를 가져와서 보여 주는 게 아니라서, 플러그인을 설치하고 난 이후의 데이터만을 가지고 보여줍니다. 그래서 처음 깔고 나면 모든 작품들이 \"한번도 안 본 (관심 없는) 작품\"으로 분류되고 그래서 회색 처리 됩니다. 평소대로 몇 화 보시면 봤던 화들은 회색 처리 되지 않습니다.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saschanaz",
+					"name": "카가미",
+					"id": 174828497,
+					"id_str": "174828497",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1221397664899616800,
+		"in_reply_to_status_id_str": "1221397664899616768",
+		"in_reply_to_user_id": 174828497,
+		"in_reply_to_user_id_str": "174828497",
+		"in_reply_to_screen_name": "saschanaz",
+		"user": {
+			"id": 153220741,
+			"id_str": "153220741",
+			"name": "투명모자",
+			"screen_name": "untilinotzero",
+			"location": "Seoul, Korea",
+			"description": "프로그래밍 합니다. RT 아니면 아무말만 하니 맞팔 안하셔도 됩니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 163,
+			"listed_count": 9,
+			"created_at": "Tue Jun 08 00:27:36 +0000 2010",
+			"favourites_count": 1026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064148377770704896/5y_AgNCS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064148377770704896/5y_AgNCS_normal.jpg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@saschanaz 네. 네이버에서 데이터를 가져와서 보여 주는 게 아니라서, 플러그인을 설치하고 난 이후의 데이터만을 가지고 보여줍니다. 그래서 처음 깔고 나면 모든 작품들이 \"한번도 안 본 (관심 없는) 작품\"으로 분류되고 그래서 회색 처리 됩니다. 평소대로 몇 화 보시면 봤던 화들은 회색 처리 되지 않습니다."
+	},
+	{
 		"created_at": "Mon Feb 03 12:42:25 +0000 2020",
 		"id": 1224304038868484000,
 		"id_str": "1224312182227247104",
