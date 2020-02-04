@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 22:23:07 +0000 2020",
+		"id": 1224814138037342200,
+		"id_str": "1224820709735591937",
+		"full_text": "디즈니+의 2650만명 대비 넷플릭스는 전세계 1.67억명,미국에 6천만명의 가입자가 있는데 지난 4분기 미국 가입자 증가가 예상에 못미쳐. 미국,네덜란드,호주,뉴질랜드만 런칭한 것을 감안하면 좋은 수치. 3월 24일 영국,독일,아일랜드 등에도 런칭 예정이라 추가 성장 예상 https://t.co/6czCjrS4ra https://t.co/BaNZSoGF1K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6czCjrS4ra",
+					"expanded_url": "https://www.businessinsider.com/disney-plus-has-265-million-subscribers-since-launching-in-november-2020-2",
+					"display_url": "businessinsider.com/disney-plus-ha…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224814136669982700,
+					"id_str": "1224814136669982721",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9p98wXUAEXqpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP9p98wXUAEXqpk.jpg",
+					"url": "https://t.co/BaNZSoGF1K",
+					"display_url": "pic.twitter.com/BaNZSoGF1K",
+					"expanded_url": "https://twitter.com/minist/status/1224814138037342211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224814136669982700,
+					"id_str": "1224814136669982721",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9p98wXUAEXqpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP9p98wXUAEXqpk.jpg",
+					"url": "https://t.co/BaNZSoGF1K",
+					"display_url": "pic.twitter.com/BaNZSoGF1K",
+					"expanded_url": "https://twitter.com/minist/status/1224814138037342211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "스타트업 WizeIoT / 전 블루홀 / 전 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64862,
+			"friends_count": 716,
+			"listed_count": 931,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디즈니+의 2650만명 대비 넷플릭스는 전세계 1.67억명,미국에 6천만명의 가입자가 있는데 지난 4분기 미국 가입자 증가가 예상에 못미쳐. 미국,네덜란드,호주,뉴질랜드만 런칭한 것을 감안하면 좋은 수치. 3월 24일 영국,독일,아일랜드 등에도 런칭 예정이라 추가 성장 예상 https://t.co/6czCjrS4ra https://t.co/BaNZSoGF1K"
+	},
+	{
 		"created_at": "Tue Feb 04 16:18:03 +0000 2020",
 		"id": 1224724755246276600,
 		"id_str": "1224728837751095298",
