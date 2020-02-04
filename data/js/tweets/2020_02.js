@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 11:40:42 +0000 2020",
+		"id": 1224649786101399600,
+		"id_str": "1224659037586960385",
+		"full_text": "[#예술경영 웹진 : 사람읽기] \n\n&lt;이날치, 운이 좋아 터지는 것은 없다&gt;\n\n440호 사람읽기 더보기🔽\nhttps://t.co/OnI9RrjGRS\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/mDuKiIRFKz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OnI9RrjGRS",
+					"expanded_url": "https://bit.ly/2v42c2y",
+					"display_url": "bit.ly/2v42c2y",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224649707470770200,
+					"id_str": "1224649707470770176",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EP7Ua6QU0AAhVrM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP7Ua6QU0AAhVrM.png",
+					"url": "https://t.co/mDuKiIRFKz",
+					"display_url": "pic.twitter.com/mDuKiIRFKz",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1224649786101399552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 807,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 169,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 275,
+									"y": 52,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 169,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 275,
+									"y": 52,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 169,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 275,
+									"y": 52,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 142,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 231,
+									"y": 43,
+									"h": 85,
+									"w": 85
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224649707470770200,
+					"id_str": "1224649707470770176",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EP7Ua6QU0AAhVrM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP7Ua6QU0AAhVrM.png",
+					"url": "https://t.co/mDuKiIRFKz",
+					"display_url": "pic.twitter.com/mDuKiIRFKz",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1224649786101399552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 807,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 169,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 275,
+									"y": 52,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 169,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 275,
+									"y": 52,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 169,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 275,
+									"y": 52,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 142,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 231,
+									"y": 43,
+									"h": 85,
+									"w": 85
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6868,
+			"friends_count": 3107,
+			"listed_count": 121,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 사람읽기] \n\n&lt;이날치, 운이 좋아 터지는 것은 없다&gt;\n\n440호 사람읽기 더보기🔽\nhttps://t.co/OnI9RrjGRS\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/mDuKiIRFKz"
+	},
+	{
+		"created_at": "Tue Feb 04 11:40:38 +0000 2020",
+		"id": 1224645267548299300,
+		"id_str": "1224659020323180544",
+		"full_text": "[Time Table]\n⠀\n* MD 미소진 시 공연 후에도 판매합니다.\n* MD 구매개수 제한은 품목당 5개입니다.\n* MD는 공연 이후 온라인으로도 판매됩니다.\n⠀\n#백예린 #yerinbaek https://t.co/NVjlU0viUo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224645253010837500,
+					"id_str": "1224645253010837505",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EP7QXoGUUAEok-t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP7QXoGUUAEok-t.jpg",
+					"url": "https://t.co/NVjlU0viUo",
+					"display_url": "pic.twitter.com/NVjlU0viUo",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1224645267548299264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224645253010837500,
+					"id_str": "1224645253010837505",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EP7QXoGUUAEok-t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP7QXoGUUAEok-t.jpg",
+					"url": "https://t.co/NVjlU0viUo",
+					"display_url": "pic.twitter.com/NVjlU0viUo",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1224645267548299264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5307,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Time Table]\n⠀\n* MD 미소진 시 공연 후에도 판매합니다.\n* MD 구매개수 제한은 품목당 5개입니다.\n* MD는 공연 이후 온라인으로도 판매됩니다.\n⠀\n#백예린 #yerinbaek https://t.co/NVjlU0viUo"
+	},
+	{
 		"created_at": "Tue Feb 04 09:47:57 +0000 2020",
 		"id": 1224574877727780900,
 		"id_str": "1224630665833926657",
