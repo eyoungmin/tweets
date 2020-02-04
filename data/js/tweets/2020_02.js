@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 03:40:41 +0000 2020",
+		"id": 1224528558283821000,
+		"id_str": "1224538237579988992",
+		"full_text": "[이달의소녀탐구 #568]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/Zjht1Ym1Ie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224527884775112700,
+					"id_str": "1224527884775112704",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224527884775112704/pu/img/Nw1YiL6ifHU1w09f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224527884775112704/pu/img/Nw1YiL6ifHU1w09f.jpg",
+					"url": "https://t.co/Zjht1Ym1Ie",
+					"display_url": "pic.twitter.com/Zjht1Ym1Ie",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1224528558283821056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224527884775112700,
+					"id_str": "1224527884775112704",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224527884775112704/pu/img/Nw1YiL6ifHU1w09f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224527884775112704/pu/img/Nw1YiL6ifHU1w09f.jpg",
+					"url": "https://t.co/Zjht1Ym1Ie",
+					"display_url": "pic.twitter.com/Zjht1Ym1Ie",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1224528558283821056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54655,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224527884775112704/pu/vid/480x270/ZJp9N-aiUDu9yj7P.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224527884775112704/pu/vid/1280x720/M8UoS5a1P2YX7PyJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1224527884775112704/pu/pl/OGlZwRXn_n3mPlP0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224527884775112704/pu/vid/640x360/umpjTohcss4tGGS2.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 406595,
+			"friends_count": 0,
+			"listed_count": 5741,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3017,
+		"favorite_count": 7906,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #568]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/Zjht1Ym1Ie"
+	},
+	{
+		"created_at": "Tue Feb 04 03:40:38 +0000 2020",
+		"id": 1224524608839118800,
+		"id_str": "1224538224133054467",
+		"full_text": "[서울시 한파종합지원상황실](2020.02.04/11:00 발표) 기상청에서 서울 지역에 2020.02.04/22:00 이후 한파주의보가 발효 예정입니다. 옷을 따뜻하게 입고 야외활동을 자제하는 등 겨울철 건강관리에 유의하시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4276,
+			"friends_count": 959,
+			"listed_count": 44,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[서울시 한파종합지원상황실](2020.02.04/11:00 발표) 기상청에서 서울 지역에 2020.02.04/22:00 이후 한파주의보가 발효 예정입니다. 옷을 따뜻하게 입고 야외활동을 자제하는 등 겨울철 건강관리에 유의하시기 바랍니다."
+	},
+	{
 		"created_at": "Tue Feb 04 03:01:08 +0000 2020",
 		"id": 1224528284723175400,
 		"id_str": "1224528284723175426",
