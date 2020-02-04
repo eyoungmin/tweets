@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 16:18:03 +0000 2020",
+		"id": 1224724755246276600,
+		"id_str": "1224728837751095298",
+		"full_text": "안토니 곰리 Antony Gormley\n&lt;뉴욕 클리어링 (New York Clearing)&gt; (2020)\n\nBrooklyn Bridge Park Pier 3, Brooklyn, NY, USA\n2020.02.05 ~ 03.27\n\nhttps://t.co/lWidOFiQ6z\n\n#CONNECT_BTS\n#NEWYORK\n#CONNECT_BTS_NEWYORK https://t.co/VtWPcbHPKb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CONNECT_BTS",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"text": "NEWYORK",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "CONNECT_BTS_NEWYORK",
+					"indices": [
+						180,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lWidOFiQ6z",
+					"expanded_url": "http://www.connect-bts.com/newyork",
+					"display_url": "connect-bts.com/newyork",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224724745674903600,
+					"id_str": "1224724745674903553",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8YqtWVUAELWaH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8YqtWVUAELWaH.jpg",
+					"url": "https://t.co/VtWPcbHPKb",
+					"display_url": "pic.twitter.com/VtWPcbHPKb",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1224724755246276608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 751,
+									"y": 762,
+									"h": 81,
+									"w": 81
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 563,
+									"y": 571,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 751,
+									"y": 762,
+									"h": 81,
+									"w": 81
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 319,
+									"y": 323,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224724745674903600,
+					"id_str": "1224724745674903553",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8YqtWVUAELWaH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8YqtWVUAELWaH.jpg",
+					"url": "https://t.co/VtWPcbHPKb",
+					"display_url": "pic.twitter.com/VtWPcbHPKb",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1224724755246276608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 751,
+									"y": 762,
+									"h": 81,
+									"w": 81
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 563,
+									"y": 571,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 751,
+									"y": 762,
+									"h": 81,
+									"w": 81
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 319,
+									"y": 323,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1409798257,
+			"id_str": "1409798257",
+			"name": "BTS_official",
+			"screen_name": "bts_bighit",
+			"location": "http://cafe.daum.net/BANGTAN",
+			"description": "#방탄소년단 공식 트위터 입니다.",
+			"url": "https://t.co/UKFREoHhAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKFREoHhAr",
+							"expanded_url": "http://bts.ibighit.com",
+							"display_url": "bts.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18749235,
+			"friends_count": 22,
+			"listed_count": 26084,
+			"created_at": "Tue May 07 09:13:05 +0000 2013",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F69A95",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214924997766066179/Iyhu1Odp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214924997766066179/Iyhu1Odp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409798257/1578495667",
+			"profile_link_color": "F69A95",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42928,
+		"favorite_count": 136974,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안토니 곰리 Antony Gormley\n&lt;뉴욕 클리어링 (New York Clearing)&gt; (2020)\n\nBrooklyn Bridge Park Pier 3, Brooklyn, NY, USA\n2020.02.05 ~ 03.27\n\nhttps://t.co/lWidOFiQ6z\n\n#CONNECT_BTS\n#NEWYORK\n#CONNECT_BTS_NEWYORK https://t.co/VtWPcbHPKb"
+	},
+	{
 		"created_at": "Tue Feb 04 15:16:12 +0000 2020",
 		"id": 1224713268805230600,
 		"id_str": "1224713268805230592",
