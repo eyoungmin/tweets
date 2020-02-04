@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 23:58:08 +0000 2020",
+		"id": 1224300685040111600,
+		"id_str": "1224482230283620354",
+		"full_text": "&lt;트랜스젠더퀴어는 당신 곁에 존재한다&gt; https://t.co/mmVKVAJcqS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224300670368370700,
+					"id_str": "1224300670368370691",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2W-RuUUAMxFtX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP2W-RuUUAMxFtX.png",
+					"url": "https://t.co/mmVKVAJcqS",
+					"display_url": "pic.twitter.com/mmVKVAJcqS",
+					"expanded_url": "https://twitter.com/SMUQueer/status/1224300685040111616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 992,
+							"h": 1403,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 449,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 449,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 58,
+									"y": 217,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 102,
+									"y": 383,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224300670368370700,
+					"id_str": "1224300670368370691",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2W-RuUUAMxFtX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP2W-RuUUAMxFtX.png",
+					"url": "https://t.co/mmVKVAJcqS",
+					"display_url": "pic.twitter.com/mmVKVAJcqS",
+					"expanded_url": "https://twitter.com/SMUQueer/status/1224300685040111616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 992,
+							"h": 1403,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 449,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 449,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 58,
+									"y": 217,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 102,
+									"y": 383,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2865513170,
+			"id_str": "2865513170",
+			"name": "숙명여대 퀴어모임 큐훗'ㅅ^",
+			"screen_name": "SMUQueer",
+			"location": "",
+			"description": "숙명여대 퀴어모임 큐훗입니다. 학내 성소수자 간의 교류, 성소수자 인권 향상을 위해 활동하고 있습니다. 대학원/졸업생도, 어떤 정체성, 지향성이든 함께 해요;) 가입 및 기타문의는 DM, https://t.co/TuDZpS3idJ, smuqueer2@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TuDZpS3idJ",
+							"expanded_url": "http://ask.fm/smuqueer",
+							"display_url": "ask.fm/smuqueer",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 999,
+			"friends_count": 190,
+			"listed_count": 5,
+			"created_at": "Sun Oct 19 17:58:30 +0000 2014",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103125403261009920/2w2D-2p7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103125403261009920/2w2D-2p7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2865513170/1443466135",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 430,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;트랜스젠더퀴어는 당신 곁에 존재한다&gt; https://t.co/mmVKVAJcqS"
+	},
+	{
 		"created_at": "Mon Feb 03 22:11:59 +0000 2020",
 		"id": 1222521704804581400,
 		"id_str": "1224455519445798912",
@@ -247,7 +504,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
