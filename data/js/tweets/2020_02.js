@@ -1,6 +1,919 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 07:47:28 +0000 2020",
+		"id": 1224576129664598000,
+		"id_str": "1224600342169473025",
+		"full_text": "#MCOUNTDOWN｜Ep.651 teaser\n\n몽환적인 분위기 #여자친구 퍼포먼스 끝판왕 #이달의소녀 범접 불가 강렬함 #에버글로우 아련 섹시 #골든차일드 크리에이티브돌 #VERIVERY 2월 6일 목요일 저녁 6시 엠카보러 오세요♥ https://t.co/lCWhCSamBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "여자친구",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "에버글로우",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224569624366203000,
+					"id_str": "1224569624366202880",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6Mw85VAAETxso.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6Mw85VAAETxso.jpg",
+					"url": "https://t.co/lCWhCSamBS",
+					"display_url": "pic.twitter.com/lCWhCSamBS",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1224576129664598016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224569624366203000,
+					"id_str": "1224569624366202880",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6Mw85VAAETxso.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6Mw85VAAETxso.jpg",
+					"url": "https://t.co/lCWhCSamBS",
+					"display_url": "pic.twitter.com/lCWhCSamBS",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1224576129664598016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 84001,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1224569624366202880/vid/1280x720/Nv6CtFtV-UKvgwAI.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1224569624366202880/pl/YtrJm5PHWms8Imba.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1224569624366202880/vid/480x270/A50Loxchs9WtlEOZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1224569624366202880/vid/640x360/jOhUznRPX9g0cmys.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "베리베리가 알려주는 이번 주 엠카운트다운 라인업은?",
+						"description": "2월 6일 목요일 저녁 6시 엠카보러 오세요♥",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3903319,
+			"friends_count": 2,
+			"listed_count": 5773,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1566284082",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 745,
+		"favorite_count": 1661,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MCOUNTDOWN｜Ep.651 teaser\n\n몽환적인 분위기 #여자친구 퍼포먼스 끝판왕 #이달의소녀 범접 불가 강렬함 #에버글로우 아련 섹시 #골든차일드 크리에이티브돌 #VERIVERY 2월 6일 목요일 저녁 6시 엠카보러 오세요♥ https://t.co/lCWhCSamBS"
+	},
+	{
+		"created_at": "Tue Feb 04 07:40:52 +0000 2020",
+		"id": 1224596596026773500,
+		"id_str": "1224598681279660032",
+		"full_text": "2월 15일(목)으로 예정되어 있던 광명에서의 “무경계음악콘서트” 역시 취소되었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1224586709624447000,
+		"in_reply_to_status_id_str": "1224586709624446976",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7518,
+			"friends_count": 519,
+			"listed_count": 46,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2월 15일(목)으로 예정되어 있던 광명에서의 “무경계음악콘서트” 역시 취소되었습니다."
+	},
+	{
+		"created_at": "Tue Feb 04 07:40:44 +0000 2020",
+		"id": 1224586709624447000,
+		"id_str": "1224598647213568000",
+		"full_text": "In light of the current Coronavirus situation, the pre-recording of \"I'm Live\" (Arirang TV) on Feb 5 is going to be without audiences. \n⠀\nIn addition,\"Freespace Outdoors\" in Hongkong (Feb 15) will not go ahead as planned.\n⠀\nStay safe and healthy.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1224586707317608400,
+		"in_reply_to_status_id_str": "1224586707317608448",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7518,
+			"friends_count": 519,
+			"listed_count": 46,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In light of the current Coronavirus situation, the pre-recording of \"I'm Live\" (Arirang TV) on Feb 5 is going to be without audiences. \n⠀\nIn addition,\"Freespace Outdoors\" in Hongkong (Feb 15) will not go ahead as planned.\n⠀\nStay safe and healthy."
+	},
+	{
+		"created_at": "Tue Feb 04 07:40:37 +0000 2020",
+		"id": 1224586707317608400,
+		"id_str": "1224598621540298752",
+		"full_text": "[알려드립니다]\n신종 코로나바이러스 확산 방지를 위해 2월 5일(수)로 예정되어 있는 아리랑TV 'I'm Live' 녹화는 관객 참여 없이 비공개로 진행됩니다.\n⠀\n더불어 2월 15일(토)로 예정되어 있던 홍콩에서의 \"Freespace Outdoors\" 공연 역시 무기한 연기되었습니다.\n⠀\n아무쪼록 모두 건강하시길 https://t.co/oeu8jotqJP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224586697595162600,
+					"id_str": "1224586697595162626",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6bHQLUEAI1HCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6bHQLUEAI1HCJ.jpg",
+					"url": "https://t.co/oeu8jotqJP",
+					"display_url": "pic.twitter.com/oeu8jotqJP",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1224586707317608448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 790,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 747,
+									"y": 225,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 597,
+									"y": 285,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 745,
+									"y": 386,
+									"h": 210,
+									"w": 210
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 797,
+									"y": 240,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 637,
+									"y": 305,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 795,
+									"y": 412,
+									"h": 225,
+									"w": 225
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 797,
+									"y": 240,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 637,
+									"y": 305,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 795,
+									"y": 412,
+									"h": 225,
+									"w": 225
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 423,
+									"y": 127,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 338,
+									"y": 162,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 422,
+									"y": 218,
+									"h": 119,
+									"w": 119
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224586697595162600,
+					"id_str": "1224586697595162626",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6bHQLUEAI1HCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6bHQLUEAI1HCJ.jpg",
+					"url": "https://t.co/oeu8jotqJP",
+					"display_url": "pic.twitter.com/oeu8jotqJP",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1224586707317608448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 790,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 747,
+									"y": 225,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 597,
+									"y": 285,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 745,
+									"y": 386,
+									"h": 210,
+									"w": 210
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 797,
+									"y": 240,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 637,
+									"y": 305,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 795,
+									"y": 412,
+									"h": 225,
+									"w": 225
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 797,
+									"y": 240,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 637,
+									"y": 305,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 795,
+									"y": 412,
+									"h": 225,
+									"w": 225
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 423,
+									"y": 127,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 338,
+									"y": 162,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 422,
+									"y": 218,
+									"h": 119,
+									"w": 119
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7518,
+			"friends_count": 519,
+			"listed_count": 46,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[알려드립니다]\n신종 코로나바이러스 확산 방지를 위해 2월 5일(수)로 예정되어 있는 아리랑TV 'I'm Live' 녹화는 관객 참여 없이 비공개로 진행됩니다.\n⠀\n더불어 2월 15일(토)로 예정되어 있던 홍콩에서의 \"Freespace Outdoors\" 공연 역시 무기한 연기되었습니다.\n⠀\n아무쪼록 모두 건강하시길 https://t.co/oeu8jotqJP"
+	},
+	{
+		"created_at": "Tue Feb 04 07:32:38 +0000 2020",
+		"id": 1224596611063410700,
+		"id_str": "1224596611063410688",
+		"full_text": "이달소 신곡 티저 보니까 소녀시대 캐치미이프유캔 생각나서 듣는 중.\nhttps://t.co/JBkMeyDtN9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JBkMeyDtN9",
+					"expanded_url": "https://youtu.be/b09U0KLv6I4",
+					"display_url": "youtu.be/b09U0KLv6I4",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1224375074175799300,
+		"in_reply_to_status_id_str": "1224375074175799297",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달소 신곡 티저 보니까 소녀시대 캐치미이프유캔 생각나서 듣는 중.\nhttps://t.co/JBkMeyDtN9"
+	},
+	{
 		"created_at": "Tue Feb 04 06:40:45 +0000 2020",
 		"id": 1224571908802269200,
 		"id_str": "1224583552588709888",
