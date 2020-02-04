@@ -1,6 +1,1105 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 00:33:22 +0000 2020",
+		"id": 1224491097029668900,
+		"id_str": "1224491097029668864",
+		"full_text": "@kr_now 재방송 부탁드려요. 🙏🏼",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kr_now",
+					"name": "네이버 나우.",
+					"id": 1159646410414817300,
+					"id_str": "1159646410414817281",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1222521704804581400,
+		"in_reply_to_status_id_str": "1222521704804581376",
+		"in_reply_to_user_id": 1159646410414817300,
+		"in_reply_to_user_id_str": "1159646410414817281",
+		"in_reply_to_screen_name": "kr_now",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@kr_now 재방송 부탁드려요. 🙏🏼"
+	},
+	{
+		"created_at": "Tue Feb 04 00:30:11 +0000 2020",
+		"id": 1224485629498515500,
+		"id_str": "1224490297905704960",
+		"full_text": "스토리텔링에 데이터가 필요한 이유 https://t.co/292Z5mPZw9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/292Z5mPZw9",
+					"expanded_url": "http://www.bloter.net/archives/368299",
+					"display_url": "bloter.net/archives/368299",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56205,
+			"friends_count": 9,
+			"listed_count": 2527,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스토리텔링에 데이터가 필요한 이유 https://t.co/292Z5mPZw9"
+	},
+	{
+		"created_at": "Tue Feb 04 00:06:56 +0000 2020",
+		"id": 1223861520905330700,
+		"id_str": "1224484446113386496",
+		"full_text": "자신이 보고 싶은 것만 보는게 누군지. 여성 안에 다양한 존재가, 다양한 경험이 있다는 것을 지워버린다. 이것은 다시 혐오로 귀결된다. \"여성이라면 느끼는 두려움\"을 느끼지 않는다고 범주에서 제외시켜 버리는 것은 \"여성 역시 사람이기 때문에 다양한 경험을 한다\"는 것을 부정해 버린다. https://t.co/iFnXs3kZvl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223861431294017500,
+					"id_str": "1223861431294017536",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223861431294017536/pu/img/iE8dNqdB06B5g7LU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223861431294017536/pu/img/iE8dNqdB06B5g7LU.jpg",
+					"url": "https://t.co/iFnXs3kZvl",
+					"display_url": "pic.twitter.com/iFnXs3kZvl",
+					"expanded_url": "https://twitter.com/0evilmaster/status/1223861520905330691/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223861431294017500,
+					"id_str": "1223861431294017536",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223861431294017536/pu/img/iE8dNqdB06B5g7LU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223861431294017536/pu/img/iE8dNqdB06B5g7LU.jpg",
+					"url": "https://t.co/iFnXs3kZvl",
+					"display_url": "pic.twitter.com/iFnXs3kZvl",
+					"expanded_url": "https://twitter.com/0evilmaster/status/1223861520905330691/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 79208,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223861431294017536/pu/vid/1280x720/Nq_WRLqOsc2PmNgx.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223861431294017536/pu/vid/480x270/v9VmilmFUkWA0gyI.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223861431294017536/pu/vid/640x360/RdhHTESfh7wv2e3X.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1223861431294017536/pu/pl/Pjq0ng-0NLyNmpJ2.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1223858403195281400,
+		"in_reply_to_status_id_str": "1223858403195281409",
+		"in_reply_to_user_id": 870988189892173800,
+		"in_reply_to_user_id_str": "870988189892173825",
+		"in_reply_to_screen_name": "0evilmaster",
+		"user": {
+			"id": 870988189892173800,
+			"id_str": "870988189892173825",
+			"name": "주간소년《로잉》",
+			"screen_name": "0evilmaster",
+			"location": "콰로맨틱 젠더플루이드 비건지향인",
+			"description": "😃is genderfluid quoiromantic going vegan",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142,
+			"friends_count": 131,
+			"listed_count": 0,
+			"created_at": "Sat Jun 03 12:59:01 +0000 2017",
+			"favourites_count": 21577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164271813913792512/TvCNTcR4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164271813913792512/TvCNTcR4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870988189892173825/1566419036",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자신이 보고 싶은 것만 보는게 누군지. 여성 안에 다양한 존재가, 다양한 경험이 있다는 것을 지워버린다. 이것은 다시 혐오로 귀결된다. \"여성이라면 느끼는 두려움\"을 느끼지 않는다고 범주에서 제외시켜 버리는 것은 \"여성 역시 사람이기 때문에 다양한 경험을 한다\"는 것을 부정해 버린다. https://t.co/iFnXs3kZvl"
+	},
+	{
+		"created_at": "Tue Feb 04 00:06:54 +0000 2020",
+		"id": 1223858403195281400,
+		"id_str": "1224484437997412353",
+		"full_text": "이 자료 보고 누가 이런말을 했다. \"성별 이분법이 과학적으로 잘못되었다고 해도 트랜스젠더들이 여혐하는게 정당화 되는것은 아니다\" 라고.. 왜 트랜스 혐오자들과 말이 안 통하는지 알것 같았다. 이분법으로 인해 고통받는, 여성에게 연대하는 존재들은 싹 지워버린 채 (타래로 영상이 이어집니다) https://t.co/OIsUs2AyMB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223858280763539500,
+					"id_str": "1223858280763539457",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223858280763539457/pu/img/KlzbGkvse71roCR1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223858280763539457/pu/img/KlzbGkvse71roCR1.jpg",
+					"url": "https://t.co/OIsUs2AyMB",
+					"display_url": "pic.twitter.com/OIsUs2AyMB",
+					"expanded_url": "https://twitter.com/0evilmaster/status/1223858403195281409/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223858280763539500,
+					"id_str": "1223858280763539457",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223858280763539457/pu/img/KlzbGkvse71roCR1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223858280763539457/pu/img/KlzbGkvse71roCR1.jpg",
+					"url": "https://t.co/OIsUs2AyMB",
+					"display_url": "pic.twitter.com/OIsUs2AyMB",
+					"expanded_url": "https://twitter.com/0evilmaster/status/1223858403195281409/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 70333,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1223858280763539457/pu/pl/dOatiSp1lTP-_kej.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223858280763539457/pu/vid/480x270/ynnKxFeObC4ypdf7.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223858280763539457/pu/vid/640x360/J7Iy-7bfRX8QDZrV.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223858280763539457/pu/vid/1280x720/Sr17yVDwzoIBRTGP.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870988189892173800,
+			"id_str": "870988189892173825",
+			"name": "주간소년《로잉》",
+			"screen_name": "0evilmaster",
+			"location": "콰로맨틱 젠더플루이드 비건지향인",
+			"description": "😃is genderfluid quoiromantic going vegan",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142,
+			"friends_count": 131,
+			"listed_count": 0,
+			"created_at": "Sat Jun 03 12:59:01 +0000 2017",
+			"favourites_count": 21577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164271813913792512/TvCNTcR4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164271813913792512/TvCNTcR4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870988189892173825/1566419036",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 자료 보고 누가 이런말을 했다. \"성별 이분법이 과학적으로 잘못되었다고 해도 트랜스젠더들이 여혐하는게 정당화 되는것은 아니다\" 라고.. 왜 트랜스 혐오자들과 말이 안 통하는지 알것 같았다. 이분법으로 인해 고통받는, 여성에게 연대하는 존재들은 싹 지워버린 채 (타래로 영상이 이어집니다) https://t.co/OIsUs2AyMB"
+	},
+	{
+		"created_at": "Tue Feb 04 00:05:22 +0000 2020",
+		"id": 1224324597711020000,
+		"id_str": "1224484052574433281",
+		"full_text": ".@billieeilish is our March cover star! \n \nFor this issue, Vogue commissioned 3 unique covers—all starring @billieeilish—from 3 different photographers. Read the full profile: https://t.co/wLrDGAEcHq https://t.co/BhcVCebVyT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						107,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wLrDGAEcHq",
+					"expanded_url": "http://vogue.cm/qpJ0W7J",
+					"display_url": "vogue.cm/qpJ0W7J",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224324583655923700,
+					"id_str": "1224324583655923713",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2suNqW4AEIcvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2suNqW4AEIcvO.jpg",
+					"url": "https://t.co/BhcVCebVyT",
+					"display_url": "pic.twitter.com/BhcVCebVyT",
+					"expanded_url": "https://twitter.com/voguemagazine/status/1224324597711020032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 613,
+									"y": 921,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 423,
+									"y": 168,
+									"h": 356,
+									"w": 356
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 347,
+									"y": 522,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 239,
+									"y": 95,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 639,
+									"y": 960,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 441,
+									"y": 175,
+									"h": 371,
+									"w": 371
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 639,
+									"y": 960,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 441,
+									"y": 175,
+									"h": 371,
+									"w": 371
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224324583655923700,
+					"id_str": "1224324583655923713",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2suNqW4AEIcvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2suNqW4AEIcvO.jpg",
+					"url": "https://t.co/BhcVCebVyT",
+					"display_url": "pic.twitter.com/BhcVCebVyT",
+					"expanded_url": "https://twitter.com/voguemagazine/status/1224324597711020032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 613,
+									"y": 921,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 423,
+									"y": 168,
+									"h": 356,
+									"w": 356
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 347,
+									"y": 522,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 239,
+									"y": 95,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 639,
+									"y": 960,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 441,
+									"y": 175,
+									"h": 371,
+									"w": 371
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 639,
+									"y": 960,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 441,
+									"y": 175,
+									"h": 371,
+									"w": 371
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224324589364351000,
+					"id_str": "1224324589364350978",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2sui7WkAIBago.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2sui7WkAIBago.jpg",
+					"url": "https://t.co/BhcVCebVyT",
+					"display_url": "pic.twitter.com/BhcVCebVyT",
+					"expanded_url": "https://twitter.com/voguemagazine/status/1224324597711020032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224324594158489600,
+					"id_str": "1224324594158489600",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2su0yXUAA5WwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2su0yXUAA5WwQ.jpg",
+					"url": "https://t.co/BhcVCebVyT",
+					"display_url": "pic.twitter.com/BhcVCebVyT",
+					"expanded_url": "https://twitter.com/voguemagazine/status/1224324597711020032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 345,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 188,
+									"y": 81,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 317,
+									"y": 635,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 346,
+									"y": 150,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 317,
+									"y": 635,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 346,
+									"y": 150,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 304,
+									"y": 609,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 332,
+									"y": 144,
+									"h": 232,
+									"w": 232
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136361303,
+			"id_str": "136361303",
+			"name": "Vogue Magazine",
+			"screen_name": "voguemagazine",
+			"location": "New York, NY",
+			"description": "The official Twitter page of Vogue Magazine.",
+			"url": "https://t.co/vaoj57vMYU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vaoj57vMYU",
+							"expanded_url": "http://www.vogue.com",
+							"display_url": "vogue.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13774203,
+			"friends_count": 519,
+			"listed_count": 23721,
+			"created_at": "Fri Apr 23 18:33:32 +0000 2010",
+			"favourites_count": 5733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 145508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/949349571087536129/jClOJzBv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/949349571087536129/jClOJzBv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136361303/1580736793",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4678,
+		"favorite_count": 22615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@billieeilish is our March cover star! \n \nFor this issue, Vogue commissioned 3 unique covers—all starring @billieeilish—from 3 different photographers. Read the full profile: https://t.co/wLrDGAEcHq https://t.co/BhcVCebVyT"
+	},
+	{
 		"created_at": "Mon Feb 03 23:58:08 +0000 2020",
 		"id": 1224300685040111600,
 		"id_str": "1224482230283620354",
