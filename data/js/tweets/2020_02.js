@@ -1,6 +1,1815 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 09:47:57 +0000 2020",
+		"id": 1224574877727780900,
+		"id_str": "1224630665833926657",
+		"full_text": "👀역사 서술의 규범은 누가 정의해 왔으며, 아직 그 역사의 일부가 되지 못한 이들은 누구인가를 치밀하게 질문하는 제58회 베니스비엔날레 한국관 전시는 2020년 3월 아르코미술관에서의 귀국전을 통해 서울에서 다시 그 질문을 지속하고자 합니다.\n\n사진제공: 베니스비엔날레 한국관 전시추진단 https://t.co/DqrCWBQ51J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224574855057571800,
+					"id_str": "1224574855057571840",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6QV7SVAAAD7RQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6QV7SVAAAD7RQ.jpg",
+					"url": "https://t.co/DqrCWBQ51J",
+					"display_url": "pic.twitter.com/DqrCWBQ51J",
+					"expanded_url": "https://twitter.com/ArkoArtcenter/status/1224574877727780865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 468,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 468,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 468,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 323,
+									"y": 265,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224574855057571800,
+					"id_str": "1224574855057571840",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6QV7SVAAAD7RQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6QV7SVAAAD7RQ.jpg",
+					"url": "https://t.co/DqrCWBQ51J",
+					"display_url": "pic.twitter.com/DqrCWBQ51J",
+					"expanded_url": "https://twitter.com/ArkoArtcenter/status/1224574877727780865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 468,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 468,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 468,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 323,
+									"y": 265,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224574855065960400,
+					"id_str": "1224574855065960448",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6QV7UVAAAjDR8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6QV7UVAAAjDR8.jpg",
+					"url": "https://t.co/DqrCWBQ51J",
+					"display_url": "pic.twitter.com/DqrCWBQ51J",
+					"expanded_url": "https://twitter.com/ArkoArtcenter/status/1224574877727780865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224574855082725400,
+					"id_str": "1224574855082725378",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6QV7YU0AIvYTo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6QV7YU0AIvYTo.jpg",
+					"url": "https://t.co/DqrCWBQ51J",
+					"display_url": "pic.twitter.com/DqrCWBQ51J",
+					"expanded_url": "https://twitter.com/ArkoArtcenter/status/1224574877727780865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224574855074340900,
+					"id_str": "1224574855074340864",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6QV7WU4AA3px_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6QV7WU4AA3px_.jpg",
+					"url": "https://t.co/DqrCWBQ51J",
+					"display_url": "pic.twitter.com/DqrCWBQ51J",
+					"expanded_url": "https://twitter.com/ArkoArtcenter/status/1224574877727780865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224574875919999000,
+		"in_reply_to_status_id_str": "1224574875919998977",
+		"in_reply_to_user_id": 283907540,
+		"in_reply_to_user_id_str": "283907540",
+		"in_reply_to_screen_name": "ArkoArtcenter",
+		"user": {
+			"id": 283907540,
+			"id_str": "283907540",
+			"name": "아르코미술관",
+			"screen_name": "ArkoArtcenter",
+			"location": "서울시 종로구 동숭길 3",
+			"description": "📍예정 전시\n제 58회 베니스비엔날레 한국관 귀국전\n《역사가 우리를 망쳐 놨지만 그래도 상관없다 History Has Failed Us, but No Matter》\n2020.03.06~05.03\nhttps://t.co/lyTuvWYA9P",
+			"url": "https://t.co/FC5IImg83i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FC5IImg83i",
+							"expanded_url": "http://www.arko.or.kr",
+							"display_url": "arko.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lyTuvWYA9P",
+							"expanded_url": "http://art.arko.or.kr",
+							"display_url": "art.arko.or.kr",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16829,
+			"friends_count": 1843,
+			"listed_count": 106,
+			"created_at": "Mon Apr 18 07:34:41 +0000 2011",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283907540/1578377662",
+			"profile_link_color": "763D2A",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👀역사 서술의 규범은 누가 정의해 왔으며, 아직 그 역사의 일부가 되지 못한 이들은 누구인가를 치밀하게 질문하는 제58회 베니스비엔날레 한국관 전시는 2020년 3월 아르코미술관에서의 귀국전을 통해 서울에서 다시 그 질문을 지속하고자 합니다.\n\n사진제공: 베니스비엔날레 한국관 전시추진단 https://t.co/DqrCWBQ51J"
+	},
+	{
+		"created_at": "Tue Feb 04 09:47:55 +0000 2020",
+		"id": 1224574875919999000,
+		"id_str": "1224630654899372033",
+		"full_text": "한국문화예술위원회의 커미션으로 김현진 예술감독(KADIST 아시아 지역 수석 큐레이터)이 전시를 총괄하여 남화연, 정은영, 제인 진 카이젠(Jane Jin Kaisen) 세 작가가 대표 작가로 참여했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224574874133262300,
+		"in_reply_to_status_id_str": "1224574874133262336",
+		"in_reply_to_user_id": 283907540,
+		"in_reply_to_user_id_str": "283907540",
+		"in_reply_to_screen_name": "ArkoArtcenter",
+		"user": {
+			"id": 283907540,
+			"id_str": "283907540",
+			"name": "아르코미술관",
+			"screen_name": "ArkoArtcenter",
+			"location": "서울시 종로구 동숭길 3",
+			"description": "📍예정 전시\n제 58회 베니스비엔날레 한국관 귀국전\n《역사가 우리를 망쳐 놨지만 그래도 상관없다 History Has Failed Us, but No Matter》\n2020.03.06~05.03\nhttps://t.co/lyTuvWYA9P",
+			"url": "https://t.co/FC5IImg83i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FC5IImg83i",
+							"expanded_url": "http://www.arko.or.kr",
+							"display_url": "arko.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lyTuvWYA9P",
+							"expanded_url": "http://art.arko.or.kr",
+							"display_url": "art.arko.or.kr",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16829,
+			"friends_count": 1843,
+			"listed_count": 106,
+			"created_at": "Mon Apr 18 07:34:41 +0000 2011",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283907540/1578377662",
+			"profile_link_color": "763D2A",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국문화예술위원회의 커미션으로 김현진 예술감독(KADIST 아시아 지역 수석 큐레이터)이 전시를 총괄하여 남화연, 정은영, 제인 진 카이젠(Jane Jin Kaisen) 세 작가가 대표 작가로 참여했습니다."
+	},
+	{
+		"created_at": "Tue Feb 04 09:47:52 +0000 2020",
+		"id": 1224574874133262300,
+		"id_str": "1224630643499290625",
+		"full_text": "“흥미로운 시대를 살아가기를(May You Live in Interesting Times)”이란 주제하에 한국관은 “역사가 우리를 망쳐놨지만 그래도 상관없다(History Has Failed Us, but No Matter)”는 제목으로 한국과 동아시아 근대화 역사와 현재를 젠더 복합적 관점을 통해 선보였습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224574872019296300,
+		"in_reply_to_status_id_str": "1224574872019296257",
+		"in_reply_to_user_id": 283907540,
+		"in_reply_to_user_id_str": "283907540",
+		"in_reply_to_screen_name": "ArkoArtcenter",
+		"user": {
+			"id": 283907540,
+			"id_str": "283907540",
+			"name": "아르코미술관",
+			"screen_name": "ArkoArtcenter",
+			"location": "서울시 종로구 동숭길 3",
+			"description": "📍예정 전시\n제 58회 베니스비엔날레 한국관 귀국전\n《역사가 우리를 망쳐 놨지만 그래도 상관없다 History Has Failed Us, but No Matter》\n2020.03.06~05.03\nhttps://t.co/lyTuvWYA9P",
+			"url": "https://t.co/FC5IImg83i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FC5IImg83i",
+							"expanded_url": "http://www.arko.or.kr",
+							"display_url": "arko.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lyTuvWYA9P",
+							"expanded_url": "http://art.arko.or.kr",
+							"display_url": "art.arko.or.kr",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16829,
+			"friends_count": 1843,
+			"listed_count": 106,
+			"created_at": "Mon Apr 18 07:34:41 +0000 2011",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283907540/1578377662",
+			"profile_link_color": "763D2A",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“흥미로운 시대를 살아가기를(May You Live in Interesting Times)”이란 주제하에 한국관은 “역사가 우리를 망쳐놨지만 그래도 상관없다(History Has Failed Us, but No Matter)”는 제목으로 한국과 동아시아 근대화 역사와 현재를 젠더 복합적 관점을 통해 선보였습니다."
+	},
+	{
+		"created_at": "Tue Feb 04 09:47:50 +0000 2020",
+		"id": 1224574872019296300,
+		"id_str": "1224630634779295746",
+		"full_text": "🔍[아르코미술관 예정전시 안내] 제58회 베니스비엔날레 귀국전 《역사가 우리를 망쳐 놨지만 그래도 상관없다 History Has Failed Us, but No Matter》\n⠀\n👀이탈리아 베니스에서 개최한 제 58회 베니스비엔날레 국제미술전 한국관 귀국전이 3월 아르코미술관에서 선보입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 283907540,
+			"id_str": "283907540",
+			"name": "아르코미술관",
+			"screen_name": "ArkoArtcenter",
+			"location": "서울시 종로구 동숭길 3",
+			"description": "📍예정 전시\n제 58회 베니스비엔날레 한국관 귀국전\n《역사가 우리를 망쳐 놨지만 그래도 상관없다 History Has Failed Us, but No Matter》\n2020.03.06~05.03\nhttps://t.co/lyTuvWYA9P",
+			"url": "https://t.co/FC5IImg83i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FC5IImg83i",
+							"expanded_url": "http://www.arko.or.kr",
+							"display_url": "arko.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lyTuvWYA9P",
+							"expanded_url": "http://art.arko.or.kr",
+							"display_url": "art.arko.or.kr",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16829,
+			"friends_count": 1843,
+			"listed_count": 106,
+			"created_at": "Mon Apr 18 07:34:41 +0000 2011",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283907540/1578377662",
+			"profile_link_color": "763D2A",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🔍[아르코미술관 예정전시 안내] 제58회 베니스비엔날레 귀국전 《역사가 우리를 망쳐 놨지만 그래도 상관없다 History Has Failed Us, but No Matter》\n⠀\n👀이탈리아 베니스에서 개최한 제 58회 베니스비엔날레 국제미술전 한국관 귀국전이 3월 아르코미술관에서 선보입니다."
+	},
+	{
+		"created_at": "Tue Feb 04 09:47:48 +0000 2020",
+		"id": 1224611150731468800,
+		"id_str": "1224630624645873664",
+		"full_text": "키라라가 음악 제작과 연출로 참여한 세이렌 정은영 작가님의 비디오아트 작품 &lt;섬광, 잔상, 속도와 소음의 공연&gt;이 이탈리아 베니스 비엔날레에서의 전시를 마치고 돌아와 혜화 아르코미술관에서 3월 5일부터 귀국전을 가집니다 😎 https://t.co/h5HSAQW7MF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h5HSAQW7MF",
+					"expanded_url": "https://twitter.com/arkoartcenter/status/1224574872019296257",
+					"display_url": "twitter.com/arkoartcenter/…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213088094,
+			"id_str": "213088094",
+			"name": "키라라",
+			"screen_name": "stqpkiraradj",
+			"location": "Seoul, Korea",
+			"description": "KIRARA / seoul based electronic musician / contact : stqproject@gmail.com / 현재 개인레슨 남은 슬롯 수 : 0",
+			"url": "https://t.co/9xPX9EkVqo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9xPX9EkVqo",
+							"expanded_url": "http://kirararararararara.com",
+							"display_url": "kirararararararara.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4488,
+			"friends_count": 386,
+			"listed_count": 42,
+			"created_at": "Sun Nov 07 23:04:18 +0000 2010",
+			"favourites_count": 6888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168450841411538945/_9VUpj18_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168450841411538945/_9VUpj18_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213088094/1554200075",
+			"profile_link_color": "08C4BE",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1224574872019296300,
+		"quoted_status_id_str": "1224574872019296257",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h5HSAQW7MF",
+			"expanded": "https://twitter.com/arkoartcenter/status/1224574872019296257",
+			"display": "twitter.com/arkoartcenter/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 04 06:06:15 +0000 2020",
+			"id": 1224574872019296300,
+			"id_str": "1224574872019296257",
+			"full_text": "🔍[아르코미술관 예정전시 안내] 제58회 베니스비엔날레 귀국전 《역사가 우리를 망쳐 놨지만 그래도 상관없다 History Has Failed Us, but No Matter》\n⠀\n👀이탈리아 베니스에서 개최한 제 58회 베니스비엔날레 국제미술전 한국관 귀국전이 3월 아르코미술관에서 선보입니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 283907540,
+				"id_str": "283907540",
+				"name": "아르코미술관",
+				"screen_name": "ArkoArtcenter",
+				"location": "서울시 종로구 동숭길 3",
+				"description": "📍예정 전시\n제 58회 베니스비엔날레 한국관 귀국전\n《역사가 우리를 망쳐 놨지만 그래도 상관없다 History Has Failed Us, but No Matter》\n2020.03.06~05.03\nhttps://t.co/lyTuvWYA9P",
+				"url": "https://t.co/FC5IImg83i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FC5IImg83i",
+								"expanded_url": "http://www.arko.or.kr",
+								"display_url": "arko.or.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lyTuvWYA9P",
+								"expanded_url": "http://art.arko.or.kr",
+								"display_url": "art.arko.or.kr",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16829,
+				"friends_count": 1843,
+				"listed_count": 106,
+				"created_at": "Mon Apr 18 07:34:41 +0000 2011",
+				"favourites_count": 813,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2583,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/595128215569498112/DpMW3hHn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/283907540/1578377662",
+				"profile_link_color": "763D2A",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 25,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "키라라가 음악 제작과 연출로 참여한 세이렌 정은영 작가님의 비디오아트 작품 &lt;섬광, 잔상, 속도와 소음의 공연&gt;이 이탈리아 베니스 비엔날레에서의 전시를 마치고 돌아와 혜화 아르코미술관에서 3월 5일부터 귀국전을 가집니다 😎 https://t.co/h5HSAQW7MF"
+	},
+	{
+		"created_at": "Tue Feb 04 09:43:07 +0000 2020",
+		"id": 1224629449414475800,
+		"id_str": "1224629449414475776",
+		"full_text": "한 번 풀었다가 다시 허용했는데 IFTTT에서 연동 수정해달라고 메일이 온다. 아무래도 문제가 있는 듯하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224625838047428600,
+		"in_reply_to_status_id_str": "1224625838047428608",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "한 번 풀었다가 다시 허용했는데 IFTTT에서 연동 수정해달라고 메일이 온다. 아무래도 문제가 있는 듯하다."
+	},
+	{
+		"created_at": "Tue Feb 04 09:36:39 +0000 2020",
+		"id": 1224625098650312700,
+		"id_str": "1224627819247882241",
+		"full_text": "🛎 청하가 참여한 SBS 월화드라마 ‘낭만닥터 김사부 2’ OST Part.8 ‘나의 그대’가 각종 음원사이트에 공개되었습니다❗️\n\n🍈 https://t.co/oskraMDNil\n\n청하의 섬세한 음색이 빛나는 발라드 곡’나의 그대’ 많은 관심과 사랑 부탁드립니다💚💙💜\n\n#청하 #CHUNGHA\n#낭만닥터_김사부_2 #나의_그대 https://t.co/9jJMrHpsdz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "낭만닥터_김사부_2",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "나의_그대",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oskraMDNil",
+					"expanded_url": "https://bit.ly/2uZbU6u",
+					"display_url": "bit.ly/2uZbU6u",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224625089368350700,
+					"id_str": "1224625089368350725",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6-B8rU4AU2zEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6-B8rU4AU2zEh.jpg",
+					"url": "https://t.co/9jJMrHpsdz",
+					"display_url": "pic.twitter.com/9jJMrHpsdz",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1224625098650312704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224625089368350700,
+					"id_str": "1224625089368350725",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6-B8rU4AU2zEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6-B8rU4AU2zEh.jpg",
+					"url": "https://t.co/9jJMrHpsdz",
+					"display_url": "pic.twitter.com/9jJMrHpsdz",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1224625098650312704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 213625,
+			"friends_count": 0,
+			"listed_count": 1632,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 308,
+		"favorite_count": 1005,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🛎 청하가 참여한 SBS 월화드라마 ‘낭만닥터 김사부 2’ OST Part.8 ‘나의 그대’가 각종 음원사이트에 공개되었습니다❗️\n\n🍈 https://t.co/oskraMDNil\n\n청하의 섬세한 음색이 빛나는 발라드 곡’나의 그대’ 많은 관심과 사랑 부탁드립니다💚💙💜\n\n#청하 #CHUNGHA\n#낭만닥터_김사부_2 #나의_그대 https://t.co/9jJMrHpsdz"
+	},
+	{
+		"created_at": "Tue Feb 04 09:32:06 +0000 2020",
+		"id": 1224626674035089400,
+		"id_str": "1224626674035089408",
+		"full_text": "백예린 티켓 양도해야겠구나... 물어보니 다들 바쁘셔서 못가신다고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "백예린 티켓 양도해야겠구나... 물어보니 다들 바쁘셔서 못가신다고."
+	},
+	{
+		"created_at": "Tue Feb 04 09:31:02 +0000 2020",
+		"id": 1224626407885529000,
+		"id_str": "1224626407885529088",
+		"full_text": "음성AI를 사려거든 카카오미니는 절대 사지 마십시오.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "음성AI를 사려거든 카카오미니는 절대 사지 마십시오."
+	},
+	{
+		"created_at": "Tue Feb 04 09:29:56 +0000 2020",
+		"id": 1224626129031483400,
+		"id_str": "1224626129031483392",
+		"full_text": "공공데이터포털 기상 API 다시 신청해야 되는데 귀찮아서 안하고 있음. 그리고 기상 관련 API 대체 API로 변경해달라고 메일도 왔던데 확인도 아직 못해봄.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공공데이터포털 기상 API 다시 신청해야 되는데 귀찮아서 안하고 있음. 그리고 기상 관련 API 대체 API로 변경해달라고 메일도 왔던데 확인도 아직 못해봄."
+	},
+	{
+		"created_at": "Tue Feb 04 09:28:57 +0000 2020",
+		"id": 1224625026864840700,
+		"id_str": "1224625881018073088",
+		"full_text": "“구글 AI, 5분 만에 날씨 내다본다” https://t.co/uVjITAxmYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uVjITAxmYb",
+					"expanded_url": "http://www.bloter.net/archives/369871",
+					"display_url": "bloter.net/archives/369871",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56198,
+			"friends_count": 9,
+			"listed_count": 2526,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“구글 AI, 5분 만에 날씨 내다본다” https://t.co/uVjITAxmYb"
+	},
+	{
+		"created_at": "Tue Feb 04 09:28:46 +0000 2020",
+		"id": 1224625838047428600,
+		"id_str": "1224625838047428608",
+		"full_text": "페이스북 외부 활동 차단하니까 IFTTT 연결이 풀렸다. IFTTT, Zapier 같은 Automate 서비스만 허용하고 앞으로 허용 안하게 하고 싶은데 옵션이 없는 것 같다.\nhttps://t.co/vyVy3K4O6K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vyVy3K4O6K",
+					"expanded_url": "https://www.facebook.com/off_facebook_activity/",
+					"display_url": "facebook.com/off_facebook_a…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북 외부 활동 차단하니까 IFTTT 연결이 풀렸다. IFTTT, Zapier 같은 Automate 서비스만 허용하고 앞으로 허용 안하게 하고 싶은데 옵션이 없는 것 같다.\nhttps://t.co/vyVy3K4O6K"
+	},
+	{
 		"created_at": "Tue Feb 04 08:56:39 +0000 2020",
 		"id": 1224617755061575700,
 		"id_str": "1224617755061575680",
