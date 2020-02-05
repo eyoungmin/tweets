@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 06:40:38 +0000 2020",
+		"id": 1224934502113218600,
+		"id_str": "1224945912096739328",
+		"full_text": "김윤아가 가창으로 참여한 OCN 드라마 '본 대로 말하라' OST part.1 '물들어간다'가 8일 오후 6시 발매됩니다. https://t.co/LlATNIkgG1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224934485931618300,
+					"id_str": "1224934485931618304",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EP_XbMsUcAAnLue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP_XbMsUcAAnLue.jpg",
+					"url": "https://t.co/LlATNIkgG1",
+					"display_url": "pic.twitter.com/LlATNIkgG1",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1224934502113218560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 381,
+									"y": 531,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 180,
+									"y": 372,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 310,
+									"y": 331,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 583,
+									"y": 342,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 406,
+									"y": 366,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 37,
+									"y": 331,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 264,
+									"y": 233,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1121,
+									"y": 1564,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 531,
+									"y": 1095,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 912,
+									"y": 974,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 1716,
+									"y": 1007,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 1197,
+									"y": 1078,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 109,
+									"y": 974,
+									"h": 183,
+									"w": 183
+								},
+								{
+									"x": 779,
+									"y": 687,
+									"h": 433,
+									"w": 433
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1121,
+									"y": 1564,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 531,
+									"y": 1095,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 912,
+									"y": 974,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 1716,
+									"y": 1007,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 1197,
+									"y": 1078,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 109,
+									"y": 974,
+									"h": 183,
+									"w": 183
+								},
+								{
+									"x": 779,
+									"y": 687,
+									"h": 433,
+									"w": 433
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 938,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 318,
+									"y": 657,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 547,
+									"y": 584,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 1029,
+									"y": 604,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 718,
+									"y": 646,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 65,
+									"y": 584,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 467,
+									"y": 412,
+									"h": 259,
+									"w": 259
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224934485931618300,
+					"id_str": "1224934485931618304",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EP_XbMsUcAAnLue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP_XbMsUcAAnLue.jpg",
+					"url": "https://t.co/LlATNIkgG1",
+					"display_url": "pic.twitter.com/LlATNIkgG1",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1224934502113218560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 381,
+									"y": 531,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 180,
+									"y": 372,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 310,
+									"y": 331,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 583,
+									"y": 342,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 406,
+									"y": 366,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 37,
+									"y": 331,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 264,
+									"y": 233,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1121,
+									"y": 1564,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 531,
+									"y": 1095,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 912,
+									"y": 974,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 1716,
+									"y": 1007,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 1197,
+									"y": 1078,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 109,
+									"y": 974,
+									"h": 183,
+									"w": 183
+								},
+								{
+									"x": 779,
+									"y": 687,
+									"h": 433,
+									"w": 433
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1121,
+									"y": 1564,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 531,
+									"y": 1095,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 912,
+									"y": 974,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 1716,
+									"y": 1007,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 1197,
+									"y": 1078,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 109,
+									"y": 974,
+									"h": 183,
+									"w": 183
+								},
+								{
+									"x": 779,
+									"y": 687,
+									"h": 433,
+									"w": 433
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 938,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 318,
+									"y": 657,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 547,
+									"y": 584,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 1029,
+									"y": 604,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 718,
+									"y": 646,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 65,
+									"y": 584,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 467,
+									"y": 412,
+									"h": 259,
+									"w": 259
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1601,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김윤아가 가창으로 참여한 OCN 드라마 '본 대로 말하라' OST part.1 '물들어간다'가 8일 오후 6시 발매됩니다. https://t.co/LlATNIkgG1"
+	},
+	{
 		"created_at": "Wed Feb 05 04:10:13 +0000 2020",
 		"id": 1224908057811083300,
 		"id_str": "1224908057811083264",
