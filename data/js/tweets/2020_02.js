@@ -1,6 +1,1511 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 14:01:16 +0000 2020",
+		"id": 1224785088388509700,
+		"id_str": "1225056801583878144",
+		"full_text": "To whoever might be arsed:\nI am not aware of any offer from anybody for any amount of money to reform the legendary Mancunian Rock’n’Roll group Oasis.\nI am fully aware though that someone has a single to promote so that’s maybe where the confusion lies.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113613920,
+			"id_str": "113613920",
+			"name": "Noel Gallagher",
+			"screen_name": "NoelGallagher",
+			"location": "",
+			"description": "Official Noel Gallagher Twitter page maintained by his label Sour Mash. New single 'Blue Moon Rising' is out now 👉 https://t.co/gX5oE6ZxUD",
+			"url": "https://t.co/tFrysP9p16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tFrysP9p16",
+							"expanded_url": "http://www.noelgallagher.com/",
+							"display_url": "noelgallagher.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gX5oE6ZxUD",
+							"expanded_url": "http://NGHFB.lnk.to/bmrTw",
+							"display_url": "NGHFB.lnk.to/bmrTw",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1242619,
+			"friends_count": 4,
+			"listed_count": 3738,
+			"created_at": "Fri Feb 12 12:06:37 +0000 2010",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912210279534120961/Jo9jhI8U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912210279534120961/Jo9jhI8U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113613920/1580371329",
+			"profile_link_color": "CC875A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FEFAE8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3085,
+		"favorite_count": 26360,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To whoever might be arsed:\nI am not aware of any offer from anybody for any amount of money to reform the legendary Mancunian Rock’n’Roll group Oasis.\nI am fully aware though that someone has a single to promote so that’s maybe where the confusion lies."
+	},
+	{
+		"created_at": "Wed Feb 05 13:59:50 +0000 2020",
+		"id": 1225032604136681500,
+		"id_str": "1225056441200824321",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n두아 리파 (Dua Lipa) - Physical 가사번역 by 영화번역가 황석희\nhttps://t.co/DAOymnui9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DAOymnui9P",
+					"expanded_url": "https://youtu.be/Dzs9hf9Cik8",
+					"display_url": "youtu.be/Dzs9hf9Cik8",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n두아 리파 (Dua Lipa) - Physical 가사번역 by 영화번역가 황석희\nhttps://t.co/DAOymnui9P"
+	},
+	{
+		"created_at": "Wed Feb 05 13:54:11 +0000 2020",
+		"id": 1225028787458297900,
+		"id_str": "1225055019923173376",
+		"full_text": "음란물 60만개 공유된 웹하드 운영자 무죄…법원 \"현실적 한계\"\nhttps://t.co/0vmErw6hEw\n\n자신이 운영하는 웹하드 사이트에서 음란물 약 60만개가 공유되도록 방조했다는 혐의로 재판에 넘겨진 사이트 운영자가 법원에서 무죄 판결을 받았습니다 https://t.co/vYI6rDQspl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0vmErw6hEw",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200205167500004?input=tw",
+					"display_url": "yna.co.kr/view/AKR202002…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225028739756486700,
+					"id_str": "1225028739756486657",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EQAtJfjUcAE2ZQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQAtJfjUcAE2ZQG.jpg",
+					"url": "https://t.co/vYI6rDQspl",
+					"display_url": "pic.twitter.com/vYI6rDQspl",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1225028787458297859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1047,
+									"y": 273,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1047,
+									"y": 273,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 593,
+									"y": 154,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1047,
+									"y": 273,
+									"h": 124,
+									"w": 124
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225028739756486700,
+					"id_str": "1225028739756486657",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EQAtJfjUcAE2ZQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQAtJfjUcAE2ZQG.jpg",
+					"url": "https://t.co/vYI6rDQspl",
+					"display_url": "pic.twitter.com/vYI6rDQspl",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1225028787458297859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1047,
+									"y": 273,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1047,
+									"y": 273,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 593,
+									"y": 154,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1047,
+									"y": 273,
+									"h": 124,
+									"w": 124
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308225,
+			"friends_count": 72163,
+			"listed_count": 4747,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 203691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 366,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음란물 60만개 공유된 웹하드 운영자 무죄…법원 \"현실적 한계\"\nhttps://t.co/0vmErw6hEw\n\n자신이 운영하는 웹하드 사이트에서 음란물 약 60만개가 공유되도록 방조했다는 혐의로 재판에 넘겨진 사이트 운영자가 법원에서 무죄 판결을 받았습니다 https://t.co/vYI6rDQspl"
+	},
+	{
+		"created_at": "Wed Feb 05 13:53:49 +0000 2020",
+		"id": 1225041785816141800,
+		"id_str": "1225054926700572672",
+		"full_text": "🎵잠시 후 12시🎵 #들려주고싶어서 #서지음 #작사가 편이 온에어 됩니다. 서지음(@jium1215) 의 작사 이야기✏️와  음악 이야기가 담긴 플레이리스트💽 잠시 후 네이버앱에서 함께 들어요💕 #NOW온에어 https://t.co/p3AuaFU436",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "서지음",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jium1215",
+					"name": "서지음",
+					"id": 515802851,
+					"id_str": "515802851",
+					"indices": [
+						46,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225041783387648000,
+					"id_str": "1225041783387648001",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EQA5Au3U8AEAm_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQA5Au3U8AEAm_U.jpg",
+					"url": "https://t.co/p3AuaFU436",
+					"display_url": "pic.twitter.com/p3AuaFU436",
+					"expanded_url": "https://twitter.com/kr_now/status/1225041785816141824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225041783387648000,
+					"id_str": "1225041783387648001",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EQA5Au3U8AEAm_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQA5Au3U8AEAm_U.jpg",
+					"url": "https://t.co/p3AuaFU436",
+					"display_url": "pic.twitter.com/p3AuaFU436",
+					"expanded_url": "https://twitter.com/kr_now/status/1225041785816141824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21208,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎵잠시 후 12시🎵 #들려주고싶어서 #서지음 #작사가 편이 온에어 됩니다. 서지음(@jium1215) 의 작사 이야기✏️와  음악 이야기가 담긴 플레이리스트💽 잠시 후 네이버앱에서 함께 들어요💕 #NOW온에어 https://t.co/p3AuaFU436"
+	},
+	{
+		"created_at": "Wed Feb 05 13:45:34 +0000 2020",
+		"id": 1224977899918246000,
+		"id_str": "1225052848909512704",
+		"full_text": "🎹오늘 밤 12시🎹 #들려주고싶어서 #서지음 #작사가 편이 온에어 됩니다. 지난주에 이어 서지음(@jium1215) 작사가의 플레이리스트를 들려드립니다. #레드벨벳 의 #7월7일 , #윤하 의 #26 등 작사가 서지음 ‘지음’📝 의 곡들과 서지음이 사랑하는 곡🎶 네이버앱에서 만나보아요. #NOW온에어 https://t.co/BfLPtDd7Lp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "서지음",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "7월7일",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "윤하",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jium1215",
+					"name": "서지음",
+					"id": 515802851,
+					"id_str": "515802851",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224977866841976800,
+					"id_str": "1224977866841976832",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EP_-4TLU8AASx-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP_-4TLU8AASx-M.jpg",
+					"url": "https://t.co/BfLPtDd7Lp",
+					"display_url": "pic.twitter.com/BfLPtDd7Lp",
+					"expanded_url": "https://twitter.com/kr_now/status/1224977899918245889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 279,
+									"h": 237,
+									"w": 237
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 279,
+									"h": 237,
+									"w": 237
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 175,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 279,
+									"h": 237,
+									"w": 237
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224977866841976800,
+					"id_str": "1224977866841976832",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EP_-4TLU8AASx-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP_-4TLU8AASx-M.jpg",
+					"url": "https://t.co/BfLPtDd7Lp",
+					"display_url": "pic.twitter.com/BfLPtDd7Lp",
+					"expanded_url": "https://twitter.com/kr_now/status/1224977899918245889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 279,
+									"h": 237,
+									"w": 237
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 279,
+									"h": 237,
+									"w": 237
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 175,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 279,
+									"h": 237,
+									"w": 237
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21208,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎹오늘 밤 12시🎹 #들려주고싶어서 #서지음 #작사가 편이 온에어 됩니다. 지난주에 이어 서지음(@jium1215) 작사가의 플레이리스트를 들려드립니다. #레드벨벳 의 #7월7일 , #윤하 의 #26 등 작사가 서지음 ‘지음’📝 의 곡들과 서지음이 사랑하는 곡🎶 네이버앱에서 만나보아요. #NOW온에어 https://t.co/BfLPtDd7Lp"
+	},
+	{
+		"created_at": "Wed Feb 05 13:42:39 +0000 2020",
+		"id": 1225042956538671000,
+		"id_str": "1225052114570764289",
+		"full_text": "우리은행, 거래 실적 부풀리려 고객 '비번' 마음대로 바꿔 https://t.co/MaijSnCRWD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MaijSnCRWD",
+					"expanded_url": "http://news.jtbc.joins.com/html/993/NB11932993.html",
+					"display_url": "news.jtbc.joins.com/html/993/NB119…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612643,
+			"friends_count": 45699,
+			"listed_count": 2357,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 70737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1578561632",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리은행, 거래 실적 부풀리려 고객 '비번' 마음대로 바꿔 https://t.co/MaijSnCRWD"
+	},
+	{
+		"created_at": "Wed Feb 05 13:41:19 +0000 2020",
+		"id": 1224914166181318700,
+		"id_str": "1225051780829962240",
+		"full_text": "[속보] '신종코로나' 두 번째 환자 퇴원 확정",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413319,
+			"friends_count": 110428,
+			"listed_count": 4868,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1580169793",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[속보] '신종코로나' 두 번째 환자 퇴원 확정"
+	},
+	{
+		"created_at": "Wed Feb 05 13:07:24 +0000 2020",
+		"id": 1225043245421428700,
+		"id_str": "1225043245421428736",
+		"full_text": "2월 널 위한 문화예술이 추천하는 전시 모임 🎨 / 애프터뮤지엄\nhttps://t.co/GEDKhzknGk\n#널위한문화예술 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "널위한문화예술",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GEDKhzknGk",
+					"expanded_url": "https://youtu.be/II8sLOZPBBU",
+					"display_url": "youtu.be/II8sLOZPBBU",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2월 널 위한 문화예술이 추천하는 전시 모임 🎨 / 애프터뮤지엄\nhttps://t.co/GEDKhzknGk\n#널위한문화예술 #minfav"
+	},
+	{
+		"created_at": "Wed Feb 05 13:03:11 +0000 2020",
+		"id": 1224981100566478800,
+		"id_str": "1225042183876571136",
+		"full_text": "우리는 트위터에서 공유되는 수많은 정보 중 잘못된 정보에 대응하기 위해 노력해왔습니다. 오늘 트위터는 합성 또는 조작된 미디어에 대한 운영원칙을 공개합니다. 3월 5일부터 악의적으로 합성, 조작된 콘텐츠는 라벨이 표시되고 삭제될 수도 있음을 안내드립니다. \nhttps://t.co/053KMeekEX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/053KMeekEX",
+					"expanded_url": "https://blog.twitter.com/ko_kr/topics/company/2020/new-approach-to-synthetic-and-manipulated-media-ko.html",
+					"display_url": "blog.twitter.com/ko_kr/topics/c…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter Korea",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "트위터 코리아의 공식 계정입니다. 트위터 서비스 관련 문의는 https://t.co/jTMg7YsLw5 을, 광고 관련 문의는 @TwitterMktgKR 계정을 이용해 주세요",
+			"url": "https://t.co/SvWUEpsmUj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SvWUEpsmUj",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jTMg7YsLw5",
+							"expanded_url": "https://support.twitter.com",
+							"display_url": "support.twitter.com",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1151591,
+			"friends_count": 182,
+			"listed_count": 2269,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 2157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875257839467470848/vN1Vrtdc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875257839467470848/vN1Vrtdc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1520581920",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 488,
+		"favorite_count": 295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리는 트위터에서 공유되는 수많은 정보 중 잘못된 정보에 대응하기 위해 노력해왔습니다. 오늘 트위터는 합성 또는 조작된 미디어에 대한 운영원칙을 공개합니다. 3월 5일부터 악의적으로 합성, 조작된 콘텐츠는 라벨이 표시되고 삭제될 수도 있음을 안내드립니다. \nhttps://t.co/053KMeekEX"
+	},
+	{
 		"created_at": "Wed Feb 05 12:52:23 +0000 2020",
 		"id": 1225039465070178300,
 		"id_str": "1225039465070178304",
