@@ -1,6 +1,1010 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 12:52:23 +0000 2020",
+		"id": 1225039465070178300,
+		"id_str": "1225039465070178304",
+		"full_text": "OW3.008 // IN AND OUT OF LOVE\nhttps://t.co/VvqRnAaYbq\n#Oh_Wonder #오원더",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Oh_Wonder",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "오원더",
+					"indices": [
+						65,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VvqRnAaYbq",
+					"expanded_url": "https://youtu.be/ufJdQ1PrYhU",
+					"display_url": "youtu.be/ufJdQ1PrYhU",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OW3.008 // IN AND OUT OF LOVE\nhttps://t.co/VvqRnAaYbq\n#Oh_Wonder #오원더"
+	},
+	{
+		"created_at": "Wed Feb 05 12:05:12 +0000 2020",
+		"id": 1225026286319521800,
+		"id_str": "1225027592488513536",
+		"full_text": "#이달의소녀 가 #내돌의온도차 에 왔다✨ 이달소의 청순미 뿜뿜 버전 So What을 보고 싶다면 내일 8PM! 원더케이에 잊지 말고 보러오기! @loonatheworld\n\n2/6 8PM(KST) #LOONA’s &lt;GAP CRUSH&gt; Stay tuned! https://t.co/NOVM14ZXqb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "내돌의온도차",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						80,
+						94
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224637179487375400,
+					"id_str": "1224637179487375362",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EP7JBr4U0AIB39z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP7JBr4U0AIB39z.jpg",
+					"url": "https://t.co/NOVM14ZXqb",
+					"display_url": "pic.twitter.com/NOVM14ZXqb",
+					"expanded_url": "https://twitter.com/1theK/status/1225026286319521793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 470,
+									"y": 187,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 563,
+									"y": 193,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 378,
+									"y": 185,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 238,
+									"y": 418,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 176,
+									"y": 448,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 270,
+									"y": 172,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 445,
+									"y": 384,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 340,
+									"y": 389,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 190,
+									"y": 178,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 76,
+									"y": 176,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 527,
+									"y": 403,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 692,
+									"y": 276,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 828,
+									"y": 284,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 557,
+									"y": 273,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 351,
+									"y": 616,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 260,
+									"y": 659,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 398,
+									"y": 254,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 655,
+									"y": 565,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 500,
+									"y": 573,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 280,
+									"y": 262,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 113,
+									"y": 259,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 775,
+									"y": 594,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 692,
+									"y": 276,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 828,
+									"y": 284,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 557,
+									"y": 273,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 351,
+									"y": 616,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 260,
+									"y": 659,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 398,
+									"y": 254,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 655,
+									"y": 565,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 500,
+									"y": 573,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 280,
+									"y": 262,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 113,
+									"y": 259,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 775,
+									"y": 594,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 692,
+									"y": 276,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 828,
+									"y": 284,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 557,
+									"y": 273,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 351,
+									"y": 616,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 260,
+									"y": 659,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 398,
+									"y": 254,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 655,
+									"y": 565,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 500,
+									"y": 573,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 280,
+									"y": 262,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 113,
+									"y": 259,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 775,
+									"y": 594,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224637179487375400,
+					"id_str": "1224637179487375362",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EP7JBr4U0AIB39z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP7JBr4U0AIB39z.jpg",
+					"url": "https://t.co/NOVM14ZXqb",
+					"display_url": "pic.twitter.com/NOVM14ZXqb",
+					"expanded_url": "https://twitter.com/1theK/status/1225026286319521793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 470,
+									"y": 187,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 563,
+									"y": 193,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 378,
+									"y": 185,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 238,
+									"y": 418,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 176,
+									"y": 448,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 270,
+									"y": 172,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 445,
+									"y": 384,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 340,
+									"y": 389,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 190,
+									"y": 178,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 76,
+									"y": 176,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 527,
+									"y": 403,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 692,
+									"y": 276,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 828,
+									"y": 284,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 557,
+									"y": 273,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 351,
+									"y": 616,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 260,
+									"y": 659,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 398,
+									"y": 254,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 655,
+									"y": 565,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 500,
+									"y": 573,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 280,
+									"y": 262,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 113,
+									"y": 259,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 775,
+									"y": 594,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 692,
+									"y": 276,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 828,
+									"y": 284,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 557,
+									"y": 273,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 351,
+									"y": 616,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 260,
+									"y": 659,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 398,
+									"y": 254,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 655,
+									"y": 565,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 500,
+									"y": 573,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 280,
+									"y": 262,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 113,
+									"y": 259,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 775,
+									"y": 594,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 692,
+									"y": 276,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 828,
+									"y": 284,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 557,
+									"y": 273,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 351,
+									"y": 616,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 260,
+									"y": 659,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 398,
+									"y": 254,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 655,
+									"y": 565,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 500,
+									"y": 573,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 280,
+									"y": 262,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 113,
+									"y": 259,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 775,
+									"y": 594,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1828792,
+			"friends_count": 807,
+			"listed_count": 2751,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2121,
+		"favorite_count": 4192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 가 #내돌의온도차 에 왔다✨ 이달소의 청순미 뿜뿜 버전 So What을 보고 싶다면 내일 8PM! 원더케이에 잊지 말고 보러오기! @loonatheworld\n\n2/6 8PM(KST) #LOONA’s &lt;GAP CRUSH&gt; Stay tuned! https://t.co/NOVM14ZXqb"
+	},
+	{
+		"created_at": "Wed Feb 05 12:02:40 +0000 2020",
+		"id": 1225007266186686500,
+		"id_str": "1225026955923165185",
+		"full_text": "디즈니+, 출범 3개월 만에 구독자 수 2860만명 돌파 https://t.co/iJfKgb80my",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iJfKgb80my",
+					"expanded_url": "http://www.bloter.net/archives/370045",
+					"display_url": "bloter.net/archives/370045",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56197,
+			"friends_count": 9,
+			"listed_count": 2523,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디즈니+, 출범 3개월 만에 구독자 수 2860만명 돌파 https://t.co/iJfKgb80my"
+	},
+	{
 		"created_at": "Wed Feb 05 11:40:37 +0000 2020",
 		"id": 1225011657832681500,
 		"id_str": "1225021406536138752",
