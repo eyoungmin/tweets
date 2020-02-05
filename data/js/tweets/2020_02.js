@@ -1,6 +1,1048 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 16:49:48 +0000 2020",
+		"id": 1225099213714804700,
+		"id_str": "1225099213714804736",
+		"full_text": "이달의 소녀가 색이 없다는 이야기가 아님. 솔로앨범과 유닛앨범에서 보여주던 모습을 포함해 풀어놓은 세계관이나 팬들로부터 확장된 세계관이라는 니즈를 팬들에게는 채워줘야 하고 앞선 트윗에서 말한 것처럼 대중에게 어필도 필요했는데 둘 다 부족하지 않았나 싶음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225099211881898000,
+		"in_reply_to_status_id_str": "1225099211881897984",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이달의 소녀가 색이 없다는 이야기가 아님. 솔로앨범과 유닛앨범에서 보여주던 모습을 포함해 풀어놓은 세계관이나 팬들로부터 확장된 세계관이라는 니즈를 팬들에게는 채워줘야 하고 앞선 트윗에서 말한 것처럼 대중에게 어필도 필요했는데 둘 다 부족하지 않았나 싶음."
+	},
+	{
+		"created_at": "Wed Feb 05 16:49:48 +0000 2020",
+		"id": 1225099211881898000,
+		"id_str": "1225099211881897984",
+		"full_text": "국내에서 인지도나 인식에 대해 변화가 있어야 한다고 봤을 건데 팬덤에서의 반응과 국내 대중에게 인식의 갭이 크기도 하고 이달의 소녀는 18년도 데뷔 콘서트를 통해 데뷔했지만 솔로로 매달 나왔으니 시작은 16년도 10월임. 확고한 컨셉과 그룹컬러 부여 그리고 무엇보다 이야기를 풀어야 할 시기.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225098556882636800,
+		"in_reply_to_status_id_str": "1225098556882636801",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "국내에서 인지도나 인식에 대해 변화가 있어야 한다고 봤을 건데 팬덤에서의 반응과 국내 대중에게 인식의 갭이 크기도 하고 이달의 소녀는 18년도 데뷔 콘서트를 통해 데뷔했지만 솔로로 매달 나왔으니 시작은 16년도 10월임. 확고한 컨셉과 그룹컬러 부여 그리고 무엇보다 이야기를 풀어야 할 시기."
+	},
+	{
+		"created_at": "Wed Feb 05 16:47:11 +0000 2020",
+		"id": 1225098556882636800,
+		"id_str": "1225098556882636801",
+		"full_text": "정병기(제이든 정) 프로듀서랑 SM A&amp;R 이성수 이사랑 NCT 협업도 하고 친한 걸로 알고 있음. 이달소 SM 이수만 프로듀서와 어떤 식으로 연결되었는지 전후는 모르겠으나 애초에 SM하고 인연이 깊음. 이달소 프로듀싱 마무리 하고 떠날 때 추천했을 수도 있고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225091505573879800,
+		"in_reply_to_status_id_str": "1225091505573879810",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "정병기(제이든 정) 프로듀서랑 SM A&amp;R 이성수 이사랑 NCT 협업도 하고 친한 걸로 알고 있음. 이달소 SM 이수만 프로듀서와 어떤 식으로 연결되었는지 전후는 모르겠으나 애초에 SM하고 인연이 깊음. 이달소 프로듀싱 마무리 하고 떠날 때 추천했을 수도 있고."
+	},
+	{
+		"created_at": "Wed Feb 05 16:19:10 +0000 2020",
+		"id": 1225091505573879800,
+		"id_str": "1225091505573879810",
+		"full_text": "이달소 # 앨범의 참여 작가진 중에서 SM 아티스트의 곡을 하지 않은 사람은 없음. 에코뮤직 로스터에 없는 메이커는 아마 송캠프에서 연을 맺고 있었을 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225088569816965000,
+		"in_reply_to_status_id_str": "1225088569816965120",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이달소 # 앨범의 참여 작가진 중에서 SM 아티스트의 곡을 하지 않은 사람은 없음. 에코뮤직 로스터에 없는 메이커는 아마 송캠프에서 연을 맺고 있었을 것."
+	},
+	{
+		"created_at": "Wed Feb 05 16:12:10 +0000 2020",
+		"id": 1224992341741596700,
+		"id_str": "1225089744985411584",
+		"full_text": "대중음악비평가 전대한의 &lt;그럼 저는 갓난아이인가요?&gt;가 크리틱-칼에 게시되었습니다. 글 링크: https://t.co/P4d1F8uiGK https://t.co/SYjvpELNTL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P4d1F8uiGK",
+					"expanded_url": "http://www.critic-al.org/?p=5542",
+					"display_url": "critic-al.org/?p=5542",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224992333185179600,
+					"id_str": "1224992333185179649",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EQAMCWgUYAERkNJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQAMCWgUYAERkNJ.png",
+					"url": "https://t.co/SYjvpELNTL",
+					"display_url": "pic.twitter.com/SYjvpELNTL",
+					"expanded_url": "https://twitter.com/Critic__Al/status/1224992341741596672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 502,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 502,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 502,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224992333185179600,
+					"id_str": "1224992333185179649",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EQAMCWgUYAERkNJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQAMCWgUYAERkNJ.png",
+					"url": "https://t.co/SYjvpELNTL",
+					"display_url": "pic.twitter.com/SYjvpELNTL",
+					"expanded_url": "https://twitter.com/Critic__Al/status/1224992341741596672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 502,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 502,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 502,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 152,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 489949269,
+			"id_str": "489949269",
+			"name": "Critic-al",
+			"screen_name": "Critic__Al",
+			"location": "한국",
+			"description": "문화비평 웹진",
+			"url": "https://t.co/O2ozQEPhQj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O2ozQEPhQj",
+							"expanded_url": "http://www.critic-al.org/",
+							"display_url": "critic-al.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1563,
+			"friends_count": 1797,
+			"listed_count": 15,
+			"created_at": "Sun Feb 12 02:32:36 +0000 2012",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3306489345/676a92fd359868cdaa1807ca7bb7cc87_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3306489345/676a92fd359868cdaa1807ca7bb7cc87_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/489949269/1484237496",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "대중음악비평가 전대한의 &lt;그럼 저는 갓난아이인가요?&gt;가 크리틱-칼에 게시되었습니다. 글 링크: https://t.co/P4d1F8uiGK https://t.co/SYjvpELNTL"
+	},
+	{
+		"created_at": "Wed Feb 05 16:12:06 +0000 2020",
+		"id": 1225087405302014000,
+		"id_str": "1225089728455700481",
+		"full_text": "&lt;씬의 아이들&gt;이라는 책의 제목은 참여자보다 나이 많은 기획자가 그들을 단어 그대로 아이들일 때 본 것에서 비롯됐습니다. 누구도 스스로를 아이들이라 부를 생각없고 우리를 보는 사람들도 그럴 겁니다. 그런 의미에서 무의미한 글이 되어 안타깝습니다. 마지막 문장은 귀담아 듣겠습니다. https://t.co/wbUP70pPJ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wbUP70pPJ3",
+					"expanded_url": "https://twitter.com/critic__al/status/1224992341741596672",
+					"display_url": "twitter.com/critic__al/sta…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5092,
+			"friends_count": 1169,
+			"listed_count": 94,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 6523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1224992341741596700,
+		"quoted_status_id_str": "1224992341741596672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wbUP70pPJ3",
+			"expanded": "https://twitter.com/critic__al/status/1224992341741596672",
+			"display": "twitter.com/critic__al/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 05 09:45:08 +0000 2020",
+			"id": 1224992341741596700,
+			"id_str": "1224992341741596672",
+			"full_text": "대중음악비평가 전대한의 &lt;그럼 저는 갓난아이인가요?&gt;가 크리틱-칼에 게시되었습니다. 글 링크: https://t.co/P4d1F8uiGK https://t.co/SYjvpELNTL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P4d1F8uiGK",
+						"expanded_url": "http://www.critic-al.org/?p=5542",
+						"display_url": "critic-al.org/?p=5542",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1224992333185179600,
+						"id_str": "1224992333185179649",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EQAMCWgUYAERkNJ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EQAMCWgUYAERkNJ.png",
+						"url": "https://t.co/SYjvpELNTL",
+						"display_url": "pic.twitter.com/SYjvpELNTL",
+						"expanded_url": "https://twitter.com/Critic__Al/status/1224992341741596672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 502,
+								"h": 473,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 502,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 502,
+								"h": 473,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 198,
+										"h": 76,
+										"w": 76
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 198,
+										"h": 76,
+										"w": 76
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 198,
+										"h": 76,
+										"w": 76
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 198,
+										"h": 76,
+										"w": 76
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1224992333185179600,
+						"id_str": "1224992333185179649",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EQAMCWgUYAERkNJ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EQAMCWgUYAERkNJ.png",
+						"url": "https://t.co/SYjvpELNTL",
+						"display_url": "pic.twitter.com/SYjvpELNTL",
+						"expanded_url": "https://twitter.com/Critic__Al/status/1224992341741596672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 502,
+								"h": 473,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 502,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 502,
+								"h": 473,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 198,
+										"h": 76,
+										"w": 76
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 198,
+										"h": 76,
+										"w": 76
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 198,
+										"h": 76,
+										"w": 76
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 152,
+										"y": 198,
+										"h": 76,
+										"w": 76
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 489949269,
+				"id_str": "489949269",
+				"name": "Critic-al",
+				"screen_name": "Critic__Al",
+				"location": "한국",
+				"description": "문화비평 웹진",
+				"url": "https://t.co/O2ozQEPhQj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O2ozQEPhQj",
+								"expanded_url": "http://www.critic-al.org/",
+								"display_url": "critic-al.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1563,
+				"friends_count": 1797,
+				"listed_count": 15,
+				"created_at": "Sun Feb 12 02:32:36 +0000 2012",
+				"favourites_count": 140,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3306489345/676a92fd359868cdaa1807ca7bb7cc87_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3306489345/676a92fd359868cdaa1807ca7bb7cc87_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/489949269/1484237496",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;씬의 아이들&gt;이라는 책의 제목은 참여자보다 나이 많은 기획자가 그들을 단어 그대로 아이들일 때 본 것에서 비롯됐습니다. 누구도 스스로를 아이들이라 부를 생각없고 우리를 보는 사람들도 그럴 겁니다. 그런 의미에서 무의미한 글이 되어 안타깝습니다. 마지막 문장은 귀담아 듣겠습니다. https://t.co/wbUP70pPJ3"
+	},
+	{
 		"created_at": "Wed Feb 05 16:01:42 +0000 2020",
 		"id": 1225087108869546000,
 		"id_str": "1225087108869545990",
