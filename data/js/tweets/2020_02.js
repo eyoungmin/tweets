@@ -1,6 +1,3835 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 07:57:01 +0000 2020",
+		"id": 1225327523887599600,
+		"id_str": "1225327523887599616",
+		"full_text": "멜론은 웹에 매거진 메뉴 탭 만들고 모바일은 리디렉션 링크 수정 좀 했으면. @MelOn_DJ #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						53,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MelOn_DJ",
+					"name": "Melon_DJ",
+					"id": 118953366,
+					"id_str": "118953366",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "멜론은 웹에 매거진 메뉴 탭 만들고 모바일은 리디렉션 링크 수정 좀 했으면. @MelOn_DJ #뮤직비지니스"
+	},
+	{
+		"created_at": "Thu Feb 06 07:52:01 +0000 2020",
+		"id": 1225324955216175000,
+		"id_str": "1225326265042735104",
+		"full_text": "김립 특파원이 깜짝 포착한  #이달의소녀 #엠카뮤비 현장! 두둥! 아까 바다에서는 멋짐 뿜뿜하는 수트 입었더니... 갑자기 왜 죄수복을 입었을까유? 대체 무슨 노래?!ㅎㅎㅎ 6시 #엠카운트다운 본방사수 하시면 알 수 있어용! https://t.co/YpvC9s4mMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "엠카뮤비",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225324066417983500,
+					"id_str": "1225324066417983488",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE5vxGUwAA78QF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQE5vxGUwAA78QF.jpg",
+					"url": "https://t.co/YpvC9s4mMA",
+					"display_url": "pic.twitter.com/YpvC9s4mMA",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1225324955216175106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225324066417983500,
+					"id_str": "1225324066417983488",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE5vxGUwAA78QF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQE5vxGUwAA78QF.jpg",
+					"url": "https://t.co/YpvC9s4mMA",
+					"display_url": "pic.twitter.com/YpvC9s4mMA",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1225324955216175106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3903727,
+			"friends_count": 2,
+			"listed_count": 5773,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1566284082",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 435,
+		"favorite_count": 714,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김립 특파원이 깜짝 포착한  #이달의소녀 #엠카뮤비 현장! 두둥! 아까 바다에서는 멋짐 뿜뿜하는 수트 입었더니... 갑자기 왜 죄수복을 입었을까유? 대체 무슨 노래?!ㅎㅎㅎ 6시 #엠카운트다운 본방사수 하시면 알 수 있어용! https://t.co/YpvC9s4mMA"
+	},
+	{
+		"created_at": "Thu Feb 06 07:51:43 +0000 2020",
+		"id": 1225325205922300000,
+		"id_str": "1225326188836478977",
+		"full_text": "[NEW 롤링홀]\n-\n롤링홀이 새로워졌어요 ❤\n입구부터 화장실, 대기실까지 !!\n깔끔해지고 예뻐진 롤링홀 살짝 구경해 볼까요?👀\n-\n새로워진 롤링홀 구경도 하고,\n&lt;롤링 25주년 기념 공연&gt;도 보러 오세요 :-) 히히\n· 예매 바로가기 ➡ https://t.co/eVgV4xCS19\n-\n#Rollinghall #롤링홀 #2020 #리모델링 https://t.co/M5ZVFLLF1A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rollinghall",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "리모델링",
+					"indices": [
+						190,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eVgV4xCS19",
+					"expanded_url": "http://hoy.kr/LGfYw",
+					"display_url": "hoy.kr/LGfYw",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225325189778378800,
+					"id_str": "1225325189778378752",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE6xJ8UEAAo3vc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQE6xJ8UEAAo3vc.jpg",
+					"url": "https://t.co/M5ZVFLLF1A",
+					"display_url": "pic.twitter.com/M5ZVFLLF1A",
+					"expanded_url": "https://twitter.com/rollinghall/status/1225325205922299905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225325189778378800,
+					"id_str": "1225325189778378752",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE6xJ8UEAAo3vc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQE6xJ8UEAAo3vc.jpg",
+					"url": "https://t.co/M5ZVFLLF1A",
+					"display_url": "pic.twitter.com/M5ZVFLLF1A",
+					"expanded_url": "https://twitter.com/rollinghall/status/1225325205922299905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225325189786767400,
+					"id_str": "1225325189786767360",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE6xJ-UEAAd9Rv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQE6xJ-UEAAd9Rv.jpg",
+					"url": "https://t.co/M5ZVFLLF1A",
+					"display_url": "pic.twitter.com/M5ZVFLLF1A",
+					"expanded_url": "https://twitter.com/rollinghall/status/1225325205922299905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225325189774246000,
+					"id_str": "1225325189774245890",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE6xJ7VAAI7bKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQE6xJ7VAAI7bKK.jpg",
+					"url": "https://t.co/M5ZVFLLF1A",
+					"display_url": "pic.twitter.com/M5ZVFLLF1A",
+					"expanded_url": "https://twitter.com/rollinghall/status/1225325205922299905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225325189770006500,
+					"id_str": "1225325189770006528",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE6xJ6UUAAd_sW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQE6xJ6UUAAd_sW.jpg",
+					"url": "https://t.co/M5ZVFLLF1A",
+					"display_url": "pic.twitter.com/M5ZVFLLF1A",
+					"expanded_url": "https://twitter.com/rollinghall/status/1225325205922299905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3362,
+			"friends_count": 787,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEW 롤링홀]\n-\n롤링홀이 새로워졌어요 ❤\n입구부터 화장실, 대기실까지 !!\n깔끔해지고 예뻐진 롤링홀 살짝 구경해 볼까요?👀\n-\n새로워진 롤링홀 구경도 하고,\n&lt;롤링 25주년 기념 공연&gt;도 보러 오세요 :-) 히히\n· 예매 바로가기 ➡ https://t.co/eVgV4xCS19\n-\n#Rollinghall #롤링홀 #2020 #리모델링 https://t.co/M5ZVFLLF1A"
+	},
+	{
+		"created_at": "Thu Feb 06 07:43:51 +0000 2020",
+		"id": 1225324208986525700,
+		"id_str": "1225324208986525698",
+		"full_text": "@NotionHQ 디스코드 봇 중에 Suggest 기능 지원하는 봇으로 하면 리액션을 통해 클릭 시, Trello로 보내주기도 함. 유료이긴 한데 협업툴로 사용할 때는 효과 좋을 듯. 슬랙보단 저렴함.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotionHQ",
+					"name": "Notion",
+					"id": 708915428454576100,
+					"id_str": "708915428454576128",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225323716210352000,
+		"in_reply_to_status_id_str": "1225323716210352130",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@NotionHQ 디스코드 봇 중에 Suggest 기능 지원하는 봇으로 하면 리액션을 통해 클릭 시, Trello로 보내주기도 함. 유료이긴 한데 협업툴로 사용할 때는 효과 좋을 듯. 슬랙보단 저렴함."
+	},
+	{
+		"created_at": "Thu Feb 06 07:42:25 +0000 2020",
+		"id": 1225316720195227600,
+		"id_str": "1225323846749782018",
+		"full_text": "NobodyKnows🎵🎵🖤 https://t.co/Bk2AlGXzUS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225316708346253300,
+					"id_str": "1225316708346253315",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEzDeJUUAMxXMY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEzDeJUUAMxXMY.jpg",
+					"url": "https://t.co/Bk2AlGXzUS",
+					"display_url": "pic.twitter.com/Bk2AlGXzUS",
+					"expanded_url": "https://twitter.com/love_yuna/status/1225316720195227649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225316708346253300,
+					"id_str": "1225316708346253315",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEzDeJUUAMxXMY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEzDeJUUAMxXMY.jpg",
+					"url": "https://t.co/Bk2AlGXzUS",
+					"display_url": "pic.twitter.com/Bk2AlGXzUS",
+					"expanded_url": "https://twitter.com/love_yuna/status/1225316720195227649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225316708400820200,
+					"id_str": "1225316708400820224",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEzDeWU8AAIFMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEzDeWU8AAIFMn.jpg",
+					"url": "https://t.co/Bk2AlGXzUS",
+					"display_url": "pic.twitter.com/Bk2AlGXzUS",
+					"expanded_url": "https://twitter.com/love_yuna/status/1225316720195227649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278565,
+			"friends_count": 494,
+			"listed_count": 3104,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205422443810050048/aMKiHou8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1576230082",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NobodyKnows🎵🎵🖤 https://t.co/Bk2AlGXzUS"
+	},
+	{
+		"created_at": "Thu Feb 06 07:41:54 +0000 2020",
+		"id": 1225323716210352000,
+		"id_str": "1225323716210352130",
+		"full_text": "노션은 @NotionHQ 로딩 속도가 느리고 연동이 안되고 무엇보다 복사가 블럭 형태라서 불편하다. 다른 곳에 복붙해야할 때 앱을 열고 로그인 상태로 해야 편함. 노션을 메인으로 쓸 수 없는 이유.\n\n#Notion #노션 #생산성",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notion",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "노션",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "생산성",
+					"indices": [
+						124,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotionHQ",
+					"name": "Notion",
+					"id": 708915428454576100,
+					"id_str": "708915428454576128",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225322700563865600,
+		"in_reply_to_status_id_str": "1225322700563865600",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "노션은 @NotionHQ 로딩 속도가 느리고 연동이 안되고 무엇보다 복사가 블럭 형태라서 불편하다. 다른 곳에 복붙해야할 때 앱을 열고 로그인 상태로 해야 편함. 노션을 메인으로 쓸 수 없는 이유.\n\n#Notion #노션 #생산성"
+	},
+	{
+		"created_at": "Thu Feb 06 07:39:41 +0000 2020",
+		"id": 1225322812723712000,
+		"id_str": "1225323161949855744",
+		"full_text": "예술인들이 경제적 어려움으로\n창작 활동을 중단하지 않도록\n예술인 복지 제도가 달라집니다.\n\n문턱은 낮아지고 혜택은 늘어난\n'2020년 달라지는 예술인 복지'. \n카드뉴스로 살펴보시죠!😍\n▶https://t.co/KJLVhyDV74\n\n#예술인 #예술가 #예술인복지 #예술 #예술인창작준비금 #생활안정자금 https://t.co/m6Kb0ZAwjg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술인",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "예술가",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "예술인복지",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "예술",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "예술인창작준비금",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "생활안정자금",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KJLVhyDV74",
+					"expanded_url": "https://bit.ly/2GZvylK",
+					"display_url": "bit.ly/2GZvylK",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225322503574188000,
+					"id_str": "1225322503574188032",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE4UzDU8AA0a1S.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQE4UzDU8AA0a1S.png",
+					"url": "https://t.co/m6Kb0ZAwjg",
+					"display_url": "pic.twitter.com/m6Kb0ZAwjg",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1225322812723712000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225322503574188000,
+					"id_str": "1225322503574188032",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE4UzDU8AA0a1S.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQE4UzDU8AA0a1S.png",
+					"url": "https://t.co/m6Kb0ZAwjg",
+					"display_url": "pic.twitter.com/m6Kb0ZAwjg",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1225322812723712000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141083064,
+			"id_str": "141083064",
+			"name": "문화체육관광부",
+			"screen_name": "mcstkorea",
+			"location": "Republic of Korea",
+			"description": "문화·체육·관광으로 행복한 대한민국",
+			"url": "http://t.co/mVy4NdMos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mVy4NdMos2",
+							"expanded_url": "http://www.mcst.go.kr",
+							"display_url": "mcst.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133357,
+			"friends_count": 23319,
+			"listed_count": 1081,
+			"created_at": "Fri May 07 04:19:09 +0000 2010",
+			"favourites_count": 677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141083064/1575849834",
+			"profile_link_color": "4C4C4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예술인들이 경제적 어려움으로\n창작 활동을 중단하지 않도록\n예술인 복지 제도가 달라집니다.\n\n문턱은 낮아지고 혜택은 늘어난\n'2020년 달라지는 예술인 복지'. \n카드뉴스로 살펴보시죠!😍\n▶https://t.co/KJLVhyDV74\n\n#예술인 #예술가 #예술인복지 #예술 #예술인창작준비금 #생활안정자금 https://t.co/m6Kb0ZAwjg"
+	},
+	{
+		"created_at": "Thu Feb 06 07:38:13 +0000 2020",
+		"id": 1225322325307871200,
+		"id_str": "1225322792565915649",
+		"full_text": "#이달의소녀 #츄 #이브 가 바다에 간 이유는? 추운 촬영 현장에서도 잃지 않는 러블리함! 오늘 이달의 소녀가 꾸미는 #엠카뮤비 는 어떤 곡으로 이루어질까요? #오빛 궁금하면 6시 #엠카운트다운 본.방.사.수! https://t.co/32RbS2ZcEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						7,
+						9
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "엠카뮤비",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225321931039072300,
+					"id_str": "1225321931039072257",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE3zeMUYAE3vsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQE3zeMUYAE3vsa.jpg",
+					"url": "https://t.co/32RbS2ZcEA",
+					"display_url": "pic.twitter.com/32RbS2ZcEA",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1225322325307871232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225321931039072300,
+					"id_str": "1225321931039072257",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EQE3zeMUYAE3vsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQE3zeMUYAE3vsa.jpg",
+					"url": "https://t.co/32RbS2ZcEA",
+					"display_url": "pic.twitter.com/32RbS2ZcEA",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1225322325307871232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3903727,
+			"friends_count": 2,
+			"listed_count": 5773,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1566284082",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 694,
+		"favorite_count": 1066,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #츄 #이브 가 바다에 간 이유는? 추운 촬영 현장에서도 잃지 않는 러블리함! 오늘 이달의 소녀가 꾸미는 #엠카뮤비 는 어떤 곡으로 이루어질까요? #오빛 궁금하면 6시 #엠카운트다운 본.방.사.수! https://t.co/32RbS2ZcEA"
+	},
+	{
+		"created_at": "Thu Feb 06 07:37:51 +0000 2020",
+		"id": 1225322700563865600,
+		"id_str": "1225322700563865600",
+		"full_text": "디스코드 ✅이모지를 붙여서 처리했다고 표시하고 있음. 혼자서라면 To do 앱을 사용하면 되지만 공용의 목표를 달성할 때는 만족스럽다. \n\n1. To do 앱의 공유나 패밀리/팀 플랜은 유료이고\n2. Zapier 연동하면 다른 곳으로 보낼 수 있고 (100회 무료)\n3. 슬랙보다 빠름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225321274345320400,
+		"in_reply_to_status_id_str": "1225321274345320450",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "디스코드 ✅이모지를 붙여서 처리했다고 표시하고 있음. 혼자서라면 To do 앱을 사용하면 되지만 공용의 목표를 달성할 때는 만족스럽다. \n\n1. To do 앱의 공유나 패밀리/팀 플랜은 유료이고\n2. Zapier 연동하면 다른 곳으로 보낼 수 있고 (100회 무료)\n3. 슬랙보다 빠름"
+	},
+	{
+		"created_at": "Thu Feb 06 07:33:59 +0000 2020",
+		"id": 1225321725052633000,
+		"id_str": "1225321725052633088",
+		"full_text": "Todoist는 브라우저 확장 프로그램이 있는데 쇼핑몰 구경하다가 사고 싶은 것 저장해놓거나\n\n특정 주제의 글을 모아 놓는 용도로 쓴다. 예를 들어 프라이버시 관련 내용의 글을 저장하는 식.\n\n라벨이 붙은 걸 디스코드 채널에 전송하는 방식.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225321274345320400,
+		"in_reply_to_status_id_str": "1225321274345320450",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Todoist는 브라우저 확장 프로그램이 있는데 쇼핑몰 구경하다가 사고 싶은 것 저장해놓거나\n\n특정 주제의 글을 모아 놓는 용도로 쓴다. 예를 들어 프라이버시 관련 내용의 글을 저장하는 식.\n\n라벨이 붙은 걸 디스코드 채널에 전송하는 방식."
+	},
+	{
+		"created_at": "Thu Feb 06 07:32:11 +0000 2020",
+		"id": 1225321274345320400,
+		"id_str": "1225321274345320450",
+		"full_text": "To do 앱 가벼우면서 만족스러운 걸 찾지 못해서인지 컴퓨터로 쓸 때는 노트패드에다 기록하고 해결하는 것 같다. 아니면 디스코드 채널 따로 만들고 거기다가 기록하는 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "To do 앱 가벼우면서 만족스러운 걸 찾지 못해서인지 컴퓨터로 쓸 때는 노트패드에다 기록하고 해결하는 것 같다. 아니면 디스코드 채널 따로 만들고 거기다가 기록하는 듯."
+	},
+	{
+		"created_at": "Thu Feb 06 07:20:14 +0000 2020",
+		"id": 1225316672627589000,
+		"id_str": "1225318265821356033",
+		"full_text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/B7o90OtCLm",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SoWhat",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "내심장어덕행",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JCKefCzk8f",
+					"expanded_url": "http://bit.ly/2kMLAYo",
+					"display_url": "bit.ly/2kMLAYo",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225316511234965500,
+					"id_str": "1225316511234965504",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEy3_2UwAAk3zS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEy3_2UwAAk3zS.jpg",
+					"url": "https://t.co/B7o90OtCLm",
+					"display_url": "pic.twitter.com/B7o90OtCLm",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316672627589120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1360,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225316511234965500,
+					"id_str": "1225316511234965504",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEy3_2UwAAk3zS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEy3_2UwAAk3zS.jpg",
+					"url": "https://t.co/B7o90OtCLm",
+					"display_url": "pic.twitter.com/B7o90OtCLm",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316672627589120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1360,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225316511230779400,
+					"id_str": "1225316511230779393",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEy3_1U4AEiDF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEy3_1U4AEiDF7.jpg",
+					"url": "https://t.co/B7o90OtCLm",
+					"display_url": "pic.twitter.com/B7o90OtCLm",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316672627589120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1665,
+							"h": 1342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 967,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 548,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225316511235002400,
+					"id_str": "1225316511235002368",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEy3_2VUAA_2zk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEy3_2VUAA_2zk.jpg",
+					"url": "https://t.co/B7o90OtCLm",
+					"display_url": "pic.twitter.com/B7o90OtCLm",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316672627589120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1323,
+							"h": 1516,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1047,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225316511239168000,
+					"id_str": "1225316511239168000",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEy3_3U4AAgus5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEy3_3U4AAgus5.jpg",
+					"url": "https://t.co/B7o90OtCLm",
+					"display_url": "pic.twitter.com/B7o90OtCLm",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316672627589120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1442,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225316367722696700,
+		"in_reply_to_status_id_str": "1225316367722696704",
+		"in_reply_to_user_id": 842271014520148000,
+		"in_reply_to_user_id_str": "842271014520147968",
+		"in_reply_to_screen_name": "idolchamp1",
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC MUSIC 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58205,
+			"friends_count": 1169,
+			"listed_count": 126,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/B7o90OtCLm"
+	},
+	{
+		"created_at": "Thu Feb 06 07:13:27 +0000 2020",
+		"id": 1225306185647022000,
+		"id_str": "1225316559947624455",
+		"full_text": "상태가 호전돼 격리해제를 앞둔 1번째 확진 환자가 한국 의료진에게 감사의 편지를 전달했습니다. #KBS뉴스 #KBS https://t.co/W5QFJczEIZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS뉴스",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						60,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W5QFJczEIZ",
+					"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=4376293",
+					"display_url": "news.kbs.co.kr/news/view.do?n…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413383,
+			"friends_count": 110415,
+			"listed_count": 4867,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1580169793",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "상태가 호전돼 격리해제를 앞둔 1번째 확진 환자가 한국 의료진에게 감사의 편지를 전달했습니다. #KBS뉴스 #KBS https://t.co/W5QFJczEIZ"
+	},
+	{
+		"created_at": "Thu Feb 06 07:13:19 +0000 2020",
+		"id": 1225316367722696700,
+		"id_str": "1225316525348806657",
+		"full_text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/W92AlMPagr",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SoWhat",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "내심장어덕행",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JCKefCzk8f",
+					"expanded_url": "http://bit.ly/2kMLAYo",
+					"display_url": "bit.ly/2kMLAYo",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225316153909633000,
+					"id_str": "1225316153909633024",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyjMtU4AAs8xb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyjMtU4AAs8xb.jpg",
+					"url": "https://t.co/W92AlMPagr",
+					"display_url": "pic.twitter.com/W92AlMPagr",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316367722696704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1344,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225316153909633000,
+					"id_str": "1225316153909633024",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyjMtU4AAs8xb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyjMtU4AAs8xb.jpg",
+					"url": "https://t.co/W92AlMPagr",
+					"display_url": "pic.twitter.com/W92AlMPagr",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316367722696704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1344,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225316153926402000,
+					"id_str": "1225316153926402048",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyjMxUwAAeBZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyjMxUwAAeBZ1.jpg",
+					"url": "https://t.co/W92AlMPagr",
+					"display_url": "pic.twitter.com/W92AlMPagr",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316367722696704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225316153918021600,
+					"id_str": "1225316153918021632",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyjMvU4AAa3qx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyjMvU4AAa3qx.jpg",
+					"url": "https://t.co/W92AlMPagr",
+					"display_url": "pic.twitter.com/W92AlMPagr",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316367722696704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1496,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225316153922224000,
+					"id_str": "1225316153922224128",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyjMwVAAAzgsX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyjMwVAAAzgsX.jpg",
+					"url": "https://t.co/W92AlMPagr",
+					"display_url": "pic.twitter.com/W92AlMPagr",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225316367722696704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1198,
+							"h": 1438,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225315912095391700,
+		"in_reply_to_status_id_str": "1225315912095391744",
+		"in_reply_to_user_id": 842271014520148000,
+		"in_reply_to_user_id_str": "842271014520147968",
+		"in_reply_to_screen_name": "idolchamp1",
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC MUSIC 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58205,
+			"friends_count": 1169,
+			"listed_count": 126,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/W92AlMPagr"
+	},
+	{
+		"created_at": "Thu Feb 06 07:13:16 +0000 2020",
+		"id": 1225316512795328500,
+		"id_str": "1225316512795328512",
+		"full_text": "하면 좋습니까? (1964화 | 2020년 02월 05일 방송) (4분 9초)\nhttps://t.co/7d6OVoc0KX\n#지식채널e #EBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						75,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7d6OVoc0KX",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20227938",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하면 좋습니까? (1964화 | 2020년 02월 05일 방송) (4분 9초)\nhttps://t.co/7d6OVoc0KX\n#지식채널e #EBS"
+	},
+	{
+		"created_at": "Thu Feb 06 07:12:46 +0000 2020",
+		"id": 1225315912095391700,
+		"id_str": "1225316386731257858",
+		"full_text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/qImljki5NH",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SoWhat",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "내심장어덕행",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JCKefCzk8f",
+					"expanded_url": "http://bit.ly/2kMLAYo",
+					"display_url": "bit.ly/2kMLAYo",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225315761029144600,
+					"id_str": "1225315761029144576",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyMVHUYAAT_40.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyMVHUYAAT_40.jpg",
+					"url": "https://t.co/qImljki5NH",
+					"display_url": "pic.twitter.com/qImljki5NH",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315912095391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1405,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 823,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225315761029144600,
+					"id_str": "1225315761029144576",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyMVHUYAAT_40.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyMVHUYAAT_40.jpg",
+					"url": "https://t.co/qImljki5NH",
+					"display_url": "pic.twitter.com/qImljki5NH",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315912095391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1405,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 823,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225315761037574100,
+					"id_str": "1225315761037574144",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyMVJVAAAqGbb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyMVJVAAAqGbb.jpg",
+					"url": "https://t.co/qImljki5NH",
+					"display_url": "pic.twitter.com/qImljki5NH",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315912095391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 996,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1318,
+							"h": 1588,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225315761033371600,
+					"id_str": "1225315761033371648",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyMVIU4AAa4pY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyMVIU4AAa4pY.jpg",
+					"url": "https://t.co/qImljki5NH",
+					"display_url": "pic.twitter.com/qImljki5NH",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315912095391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1246,
+							"h": 1444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225315761041768400,
+					"id_str": "1225315761041768448",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEyMVKVAAAxTVL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEyMVKVAAAxTVL.jpg",
+					"url": "https://t.co/qImljki5NH",
+					"display_url": "pic.twitter.com/qImljki5NH",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315912095391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 765,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1306,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225315601368772600,
+		"in_reply_to_status_id_str": "1225315601368772608",
+		"in_reply_to_user_id": 842271014520148000,
+		"in_reply_to_user_id_str": "842271014520147968",
+		"in_reply_to_screen_name": "idolchamp1",
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC MUSIC 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58205,
+			"friends_count": 1169,
+			"listed_count": 126,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/qImljki5NH"
+	},
+	{
+		"created_at": "Thu Feb 06 07:10:14 +0000 2020",
+		"id": 1225315601368772600,
+		"id_str": "1225315750279184385",
+		"full_text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/Ut5ufqFASP",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SoWhat",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "내심장어덕행",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JCKefCzk8f",
+					"expanded_url": "http://bit.ly/2kMLAYo",
+					"display_url": "bit.ly/2kMLAYo",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225315526638854100,
+					"id_str": "1225315526638854145",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEx-r8UYAEbxLX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEx-r8UYAEbxLX.jpg",
+					"url": "https://t.co/Ut5ufqFASP",
+					"display_url": "pic.twitter.com/Ut5ufqFASP",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315601368772608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1210,
+							"h": 1384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1049,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225315526638854100,
+					"id_str": "1225315526638854145",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEx-r8UYAEbxLX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEx-r8UYAEbxLX.jpg",
+					"url": "https://t.co/Ut5ufqFASP",
+					"display_url": "pic.twitter.com/Ut5ufqFASP",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315601368772608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1210,
+							"h": 1384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1049,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225315526643048400,
+					"id_str": "1225315526643048448",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEx-r9UYAAYVoY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEx-r9UYAAYVoY.jpg",
+					"url": "https://t.co/Ut5ufqFASP",
+					"display_url": "pic.twitter.com/Ut5ufqFASP",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315601368772608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 744,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 421,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1269,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225315526647275500,
+					"id_str": "1225315526647275521",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEx-r-U4AE63Bn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEx-r-U4AE63Bn.jpg",
+					"url": "https://t.co/Ut5ufqFASP",
+					"display_url": "pic.twitter.com/Ut5ufqFASP",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315601368772608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1335,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225315526638887000,
+					"id_str": "1225315526638886913",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEx-r8U4AEOgM3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEx-r8U4AEOgM3.jpg",
+					"url": "https://t.co/Ut5ufqFASP",
+					"display_url": "pic.twitter.com/Ut5ufqFASP",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315601368772608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1471,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225315340537565200,
+		"in_reply_to_status_id_str": "1225315340537565184",
+		"in_reply_to_user_id": 842271014520148000,
+		"in_reply_to_user_id_str": "842271014520147968",
+		"in_reply_to_screen_name": "idolchamp1",
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC MUSIC 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58205,
+			"friends_count": 1169,
+			"listed_count": 126,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/Ut5ufqFASP"
+	},
+	{
+		"created_at": "Thu Feb 06 07:10:12 +0000 2020",
+		"id": 1225315340537565200,
+		"id_str": "1225315739483029504",
+		"full_text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/JCi4RkoLn0",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SoWhat",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "내심장어덕행",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JCKefCzk8f",
+					"expanded_url": "http://bit.ly/2kMLAYo",
+					"display_url": "bit.ly/2kMLAYo",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225315197218254800,
+					"id_str": "1225315197218254848",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQExrgwU8AAzmTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQExrgwU8AAzmTO.jpg",
+					"url": "https://t.co/JCi4RkoLn0",
+					"display_url": "pic.twitter.com/JCi4RkoLn0",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315340537565184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1629,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225315197218254800,
+					"id_str": "1225315197218254848",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQExrgwU8AAzmTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQExrgwU8AAzmTO.jpg",
+					"url": "https://t.co/JCi4RkoLn0",
+					"display_url": "pic.twitter.com/JCi4RkoLn0",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315340537565184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1629,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225315197247619000,
+					"id_str": "1225315197247619072",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQExrg3VAAAZBVV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQExrg3VAAAZBVV.jpg",
+					"url": "https://t.co/JCi4RkoLn0",
+					"display_url": "pic.twitter.com/JCi4RkoLn0",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315340537565184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1354,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 793,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225315197234974700,
+					"id_str": "1225315197234974720",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQExrg0UEAAle2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQExrg0UEAAle2E.jpg",
+					"url": "https://t.co/JCi4RkoLn0",
+					"display_url": "pic.twitter.com/JCi4RkoLn0",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315340537565184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1412,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225315197218214000,
+					"id_str": "1225315197218213888",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EQExrgwUUAAA1pQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQExrgwUUAAA1pQ.jpg",
+					"url": "https://t.co/JCi4RkoLn0",
+					"display_url": "pic.twitter.com/JCi4RkoLn0",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1225315340537565184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1486,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 871,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225314982033641500,
+		"in_reply_to_status_id_str": "1225314982033641474",
+		"in_reply_to_user_id": 842271014520148000,
+		"in_reply_to_user_id_str": "842271014520147968",
+		"in_reply_to_screen_name": "idolchamp1",
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC MUSIC 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58205,
+			"friends_count": 1169,
+			"listed_count": 126,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@look_idol @loonatheworld 우리 달소가 멋진 게 #SoWhat 🤷\n멋짐 뿜뿜으로 컴백한 우.소.달 _우리소중한이달소_\n이달소 카리스마 때문에 오빛들 심장 다 아작났다네요\n\n200205 YES24라이브홀\n이달의 소녀\n\n더 많은 📷https://t.co/JCKefCzk8f\n\n#내심장어덕행 \n@look_idol\n\n@loonatheworld\n\n#이달의소녀 #LOONA #SoWhat https://t.co/JCi4RkoLn0"
+	},
+	{
 		"created_at": "Thu Feb 06 06:37:49 +0000 2020",
 		"id": 1225297639568097300,
 		"id_str": "1225307591699390467",
