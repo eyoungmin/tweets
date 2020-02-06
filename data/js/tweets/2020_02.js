@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 06:37:49 +0000 2020",
+		"id": 1225297639568097300,
+		"id_str": "1225307591699390467",
+		"full_text": "&lt;EBS 스페이스 공감 공연 관련 공지&gt;\n⠀\n신종 코로나바이러스 감염증에 따른\n관객 여러분의 안전과 사전예방을 위한 조치로\n2월부터 공연이 잠정 중단됨을 알려드립니다.\n⠀\n사태가 진정되어 안전 문제가 확실해지는 대로\n관객 여러분과 함께하는 무대로 다시 찾아뵙겠습니다. https://t.co/71y6TQ5JHl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225297630474817500,
+					"id_str": "1225297630474817536",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEhs_iUUAAdQ5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEhs_iUUAAdQ5a.jpg",
+					"url": "https://t.co/71y6TQ5JHl",
+					"display_url": "pic.twitter.com/71y6TQ5JHl",
+					"expanded_url": "https://twitter.com/ebsspace/status/1225297639568097280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1220,
+							"h": 1222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225297630474817500,
+					"id_str": "1225297630474817536",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEhs_iUUAAdQ5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEhs_iUUAAdQ5a.jpg",
+					"url": "https://t.co/71y6TQ5JHl",
+					"display_url": "pic.twitter.com/71y6TQ5JHl",
+					"expanded_url": "https://twitter.com/ebsspace/status/1225297639568097280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1220,
+							"h": 1222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270761,
+			"friends_count": 20015,
+			"listed_count": 812,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;EBS 스페이스 공감 공연 관련 공지&gt;\n⠀\n신종 코로나바이러스 감염증에 따른\n관객 여러분의 안전과 사전예방을 위한 조치로\n2월부터 공연이 잠정 중단됨을 알려드립니다.\n⠀\n사태가 진정되어 안전 문제가 확실해지는 대로\n관객 여러분과 함께하는 무대로 다시 찾아뵙겠습니다. https://t.co/71y6TQ5JHl"
+	},
+	{
+		"created_at": "Thu Feb 06 06:31:13 +0000 2020",
+		"id": 1225305928892764200,
+		"id_str": "1225305928892764160",
+		"full_text": "스탠딩이며 B구역입니다.\n아니셔도 상관없지만 팔로잉/팔로워 혹은 연이 있는 분, 솔플파티 회원 분이면 좋겠습니다.\n\n#백예린 #YerinBaek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "YerinBaek",
+					"indices": [
+						70,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225305364742037500,
+		"in_reply_to_status_id_str": "1225305364742037506",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스탠딩이며 B구역입니다.\n아니셔도 상관없지만 팔로잉/팔로워 혹은 연이 있는 분, 솔플파티 회원 분이면 좋겠습니다.\n\n#백예린 #YerinBaek"
+	},
+	{
 		"created_at": "Thu Feb 06 05:40:40 +0000 2020",
 		"id": 1225293209573585000,
 		"id_str": "1225293209573584897",
