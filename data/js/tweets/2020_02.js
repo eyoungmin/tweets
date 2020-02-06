@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 11:40:45 +0000 2020",
+		"id": 1225373572467527700,
+		"id_str": "1225383825057947648",
+		"full_text": "파워 아이돌, 청순미, 찐여고생 바이브까지🤟 위 아이돌은 모든 컨셉을 찰떡같이 소화했기에 '이달의 온도차' 상을 드립니다🏆\n#이달의소녀 #LOONA #SoWhat #내돌의온도차 #GAPCRUSH @loonatheworld https://t.co/RJMwPgPxJq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "내돌의온도차",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "GAPCRUSH",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225258929212444700,
+					"id_str": "1225258929212444672",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1225258929212444672/img/-6b3YnApst62Tly-.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1225258929212444672/img/-6b3YnApst62Tly-.jpg",
+					"url": "https://t.co/RJMwPgPxJq",
+					"display_url": "pic.twitter.com/RJMwPgPxJq",
+					"expanded_url": "https://twitter.com/1theK/status/1225373572467527680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225258929212444700,
+					"id_str": "1225258929212444672",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1225258929212444672/img/-6b3YnApst62Tly-.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1225258929212444672/img/-6b3YnApst62Tly-.jpg",
+					"url": "https://t.co/RJMwPgPxJq",
+					"display_url": "pic.twitter.com/RJMwPgPxJq",
+					"expanded_url": "https://twitter.com/1theK/status/1225373572467527680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 200208,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1225258929212444672/pl/Fa9WelxuDgFrtPpg.m3u8?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1225258929212444672/vid/320x568/zRTZuh2OkX1v0_SR.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1225258929212444672/vid/360x640/3DEcrQOwhmy04ycT.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1225258929212444672/vid/720x1280/L3vXgAGaUxcRQL5O.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[내돌의 온도차(GAP CRUSH)] 이달의 소녀(LOONA) - So What",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/6YY7WJyZGZw"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1829409,
+			"friends_count": 806,
+			"listed_count": 2749,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4346,
+		"favorite_count": 6109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파워 아이돌, 청순미, 찐여고생 바이브까지🤟 위 아이돌은 모든 컨셉을 찰떡같이 소화했기에 '이달의 온도차' 상을 드립니다🏆\n#이달의소녀 #LOONA #SoWhat #내돌의온도차 #GAPCRUSH @loonatheworld https://t.co/RJMwPgPxJq"
+	},
+	{
 		"created_at": "Thu Feb 06 10:40:41 +0000 2020",
 		"id": 1225365562227716000,
 		"id_str": "1225368709394567168",
