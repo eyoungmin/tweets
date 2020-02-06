@@ -1,6 +1,1494 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 04:41:48 +0000 2020",
+		"id": 1225046414956417000,
+		"id_str": "1225278394570399744",
+		"full_text": "이달부터 투명한 페트병과 유색 페트병을 분리해 버려야 합니다. 무색과 유색 페트병이 뒤섞여 있으면 재활용률이 떨어지기 때문입니다. https://t.co/ijq23lfPSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225020340977295400,
+					"id_str": "1225020340977295361",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1225020340977295361/img/6S0pUQt9VOMR8L1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1225020340977295361/img/6S0pUQt9VOMR8L1a.jpg",
+					"url": "https://t.co/ijq23lfPSV",
+					"display_url": "pic.twitter.com/ijq23lfPSV",
+					"expanded_url": "https://twitter.com/mbcnews/status/1225046414956417024/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225020340977295400,
+					"id_str": "1225020340977295361",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1225020340977295361/img/6S0pUQt9VOMR8L1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1225020340977295361/img/6S0pUQt9VOMR8L1a.jpg",
+					"url": "https://t.co/ijq23lfPSV",
+					"display_url": "pic.twitter.com/ijq23lfPSV",
+					"expanded_url": "https://twitter.com/mbcnews/status/1225046414956417024/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 108000,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1225020340977295361/vid/480x272/FHLvi0lytJgMx2o0.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1225020340977295361/pl/XbKZEcj6Fg2_EFTs.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "페트병 다 한 곳에?…\"색깔 있는 것 따로 버리세요\"",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://imnews.imbc.com/replay/2020/nwdesk/article/5657853_32524.html"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391304,
+			"friends_count": 150100,
+			"listed_count": 3673,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 138639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달부터 투명한 페트병과 유색 페트병을 분리해 버려야 합니다. 무색과 유색 페트병이 뒤섞여 있으면 재활용률이 떨어지기 때문입니다. https://t.co/ijq23lfPSV"
+	},
+	{
+		"created_at": "Thu Feb 06 04:41:34 +0000 2020",
+		"id": 1224822315889725400,
+		"id_str": "1225278336512876544",
+		"full_text": "뤼미에르형제 영화를 기계학습으로 4k 60fps로 업스케일. 원본을 보다 보정본을 보면 눈이 확 뜨이는 느낌인데 해상도보다는 60fps의 차이. 화질 비교하는데만 신경을 써서 바로 알아채지 못했는데 소리를 입혔다. 뿌연 이미지는 멀리있거나 눈이 나쁘면 항상 경험하는거라 실제감에 영향이 적은듯. https://t.co/NdZZaxiH8s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NdZZaxiH8s",
+					"expanded_url": "https://twitter.com/carnage4life/status/1224778007434260480",
+					"display_url": "twitter.com/carnage4life/s…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1139581,
+			"id_str": "1139581",
+			"name": "無異",
+			"screen_name": "taekie",
+			"location": "Seoul, South Korea",
+			"description": "pxd의 LeanUX Lab을 운영하며 정보디자인을 합니다. Information Design + Problem Solving + Prototyping.",
+			"url": "https://t.co/dYzB13h99d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dYzB13h99d",
+							"expanded_url": "http://lab.pxd.co.kr",
+							"display_url": "lab.pxd.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2074,
+			"friends_count": 857,
+			"listed_count": 87,
+			"created_at": "Wed Mar 14 05:11:44 +0000 2007",
+			"favourites_count": 17759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "615D4B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000061225795/c9ed162347da19cbe88a8dcee067b316_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000061225795/c9ed162347da19cbe88a8dcee067b316_normal.jpeg",
+			"profile_link_color": "1C77E6",
+			"profile_sidebar_border_color": "949494",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1224778007434260500,
+		"quoted_status_id_str": "1224778007434260480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NdZZaxiH8s",
+			"expanded": "https://twitter.com/carnage4life/status/1224778007434260480",
+			"display": "twitter.com/carnage4life/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 04 19:33:26 +0000 2020",
+			"id": 1224778007434260500,
+			"id_str": "1224778007434260480",
+			"full_text": "A YouTube user built a machine learning model to upscale a fuzzy low resolution movie from in 1895 to 4K 60 FPS. The idea that we can now teach computers how to enhance the quality of blurry old movies is mind blowing 🤯\n\nhttps://t.co/6ylNrKTlD5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6ylNrKTlD5",
+						"expanded_url": "https://digg.com/2020/arrival-train-la-ciotat-upscaled",
+						"display_url": "digg.com/2020/arrival-t…",
+						"indices": [
+							221,
+							244
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11336782,
+				"id_str": "11336782",
+				"name": "Dare Obasanjo",
+				"screen_name": "Carnage4Life",
+				"location": "Washington, USA",
+				"description": "Opinions about product management, technology news and inclusivity in tech. Diversity is about demographics, inclusion is about creating a sense of belonging.",
+				"url": "https://t.co/ddV1qbVY1B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ddV1qbVY1B",
+								"expanded_url": "https://medium.com/@dareobasanjo",
+								"display_url": "medium.com/@dareobasanjo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20202,
+				"friends_count": 742,
+				"listed_count": 990,
+				"created_at": "Wed Dec 19 14:55:55 +0000 2007",
+				"favourites_count": 12284,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19033,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1165282125295190016/h0lTAKvp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165282125295190016/h0lTAKvp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11336782/1513005090",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 271,
+			"favorite_count": 747,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 82,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뤼미에르형제 영화를 기계학습으로 4k 60fps로 업스케일. 원본을 보다 보정본을 보면 눈이 확 뜨이는 느낌인데 해상도보다는 60fps의 차이. 화질 비교하는데만 신경을 써서 바로 알아채지 못했는데 소리를 입혔다. 뿌연 이미지는 멀리있거나 눈이 나쁘면 항상 경험하는거라 실제감에 영향이 적은듯. https://t.co/NdZZaxiH8s"
+	},
+	{
+		"created_at": "Thu Feb 06 04:41:32 +0000 2020",
+		"id": 1224778007434260500,
+		"id_str": "1225278326622703616",
+		"full_text": "A YouTube user built a machine learning model to upscale a fuzzy low resolution movie from in 1895 to 4K 60 FPS. The idea that we can now teach computers how to enhance the quality of blurry old movies is mind blowing 🤯\n\nhttps://t.co/6ylNrKTlD5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ylNrKTlD5",
+					"expanded_url": "https://digg.com/2020/arrival-train-la-ciotat-upscaled",
+					"display_url": "digg.com/2020/arrival-t…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11336782,
+			"id_str": "11336782",
+			"name": "Dare Obasanjo",
+			"screen_name": "Carnage4Life",
+			"location": "Washington, USA",
+			"description": "Opinions about product management, technology news and inclusivity in tech. Diversity is about demographics, inclusion is about creating a sense of belonging.",
+			"url": "https://t.co/ddV1qbVY1B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ddV1qbVY1B",
+							"expanded_url": "https://medium.com/@dareobasanjo",
+							"display_url": "medium.com/@dareobasanjo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20202,
+			"friends_count": 742,
+			"listed_count": 990,
+			"created_at": "Wed Dec 19 14:55:55 +0000 2007",
+			"favourites_count": 12284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165282125295190016/h0lTAKvp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165282125295190016/h0lTAKvp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11336782/1513005090",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 271,
+		"favorite_count": 747,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A YouTube user built a machine learning model to upscale a fuzzy low resolution movie from in 1895 to 4K 60 FPS. The idea that we can now teach computers how to enhance the quality of blurry old movies is mind blowing 🤯\n\nhttps://t.co/6ylNrKTlD5"
+	},
+	{
+		"created_at": "Thu Feb 06 04:40:41 +0000 2020",
+		"id": 1225266255646482400,
+		"id_str": "1225278115615846402",
+		"full_text": "[랜덤플레이댄스ZIP] 레드벨벳의 히트곡 역사, 랜덤댄스로 모아보기! l 레드벨벳(Red Velvet) l RandomPlayDance\n\n👉🏻https://t.co/e6NF5lWLmQ\n\n#RedVelvet #레드벨벳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						115,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e6NF5lWLmQ",
+					"expanded_url": "https://youtu.be/D4xupGwXM4s",
+					"display_url": "youtu.be/D4xupGwXM4s",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2262621,
+			"friends_count": 2,
+			"listed_count": 6586,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2569,
+		"favorite_count": 6819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[랜덤플레이댄스ZIP] 레드벨벳의 히트곡 역사, 랜덤댄스로 모아보기! l 레드벨벳(Red Velvet) l RandomPlayDance\n\n👉🏻https://t.co/e6NF5lWLmQ\n\n#RedVelvet #레드벨벳"
+	},
+	{
+		"created_at": "Thu Feb 06 04:40:37 +0000 2020",
+		"id": 1225263124699172900,
+		"id_str": "1225278098356293632",
+		"full_text": "[랜덤플레이댄스ZIP] ※반전주의※ 소시 댄스라인 실력 大공개! l 소녀시대(Girls' Generation) l RandomPlayDance\n\n👉🏻https://t.co/LmPm7vejxt\n\n #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LmPm7vejxt",
+					"expanded_url": "https://youtu.be/koD-sEqt8VU",
+					"display_url": "youtu.be/koD-sEqt8VU",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3552219,
+			"friends_count": 4,
+			"listed_count": 5991,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1899,
+		"favorite_count": 3235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[랜덤플레이댄스ZIP] ※반전주의※ 소시 댄스라인 실력 大공개! l 소녀시대(Girls' Generation) l RandomPlayDance\n\n👉🏻https://t.co/LmPm7vejxt\n\n #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Thu Feb 06 04:37:15 +0000 2020",
+		"id": 1225277249642844200,
+		"id_str": "1225277249642844160",
+		"full_text": "[단독]숙대생들, '성전환 합격자' 있는 단톡방서 대놓고 조롱\nhttps://t.co/rkbWFMLB0n #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rkbWFMLB0n",
+					"expanded_url": "http://www.newsis.com/view?id=NISX20200205_0000909512",
+					"display_url": "newsis.com/view?id=NISX20…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독]숙대생들, '성전환 합격자' 있는 단톡방서 대놓고 조롱\nhttps://t.co/rkbWFMLB0n #minfav"
+	},
+	{
+		"created_at": "Thu Feb 06 04:24:25 +0000 2020",
+		"id": 1225256113110519800,
+		"id_str": "1225274021689692160",
+		"full_text": "오늘 #엠카운트다운 셀카의 첫 주자! #이달의소녀 가 오랜만에 돌아왔습니다! #이달소 가 멋진게 &lt;So What&gt;! #이달소 가 카리스마 넘치는게 &lt;So What&gt;! 이달소 퍼포먼스 보러 오늘 #엠카 #최초공개 무대로 놀러오세요! https://t.co/ojvDmtWZla",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "엠카",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "최초공개",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225254489545855000,
+					"id_str": "1225254489545854976",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EQD6d3DVUAAFa3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQD6d3DVUAAFa3F.jpg",
+					"url": "https://t.co/ojvDmtWZla",
+					"display_url": "pic.twitter.com/ojvDmtWZla",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1225256113110519808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1539,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225254489545855000,
+					"id_str": "1225254489545854976",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EQD6d3DVUAAFa3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQD6d3DVUAAFa3F.jpg",
+					"url": "https://t.co/ojvDmtWZla",
+					"display_url": "pic.twitter.com/ojvDmtWZla",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1225256113110519808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1539,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225254489856204800,
+					"id_str": "1225254489856204803",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EQD6d4NU4AML3cR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQD6d4NU4AML3cR.jpg",
+					"url": "https://t.co/ojvDmtWZla",
+					"display_url": "pic.twitter.com/ojvDmtWZla",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1225256113110519808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1539,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225254489692573700,
+					"id_str": "1225254489692573696",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EQD6d3mUEAACGmn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQD6d3mUEAACGmn.jpg",
+					"url": "https://t.co/ojvDmtWZla",
+					"display_url": "pic.twitter.com/ojvDmtWZla",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1225256113110519808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3903585,
+			"friends_count": 2,
+			"listed_count": 5775,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1566284082",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3819,
+		"favorite_count": 6694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 #엠카운트다운 셀카의 첫 주자! #이달의소녀 가 오랜만에 돌아왔습니다! #이달소 가 멋진게 &lt;So What&gt;! #이달소 가 카리스마 넘치는게 &lt;So What&gt;! 이달소 퍼포먼스 보러 오늘 #엠카 #최초공개 무대로 놀러오세요! https://t.co/ojvDmtWZla"
+	},
+	{
+		"created_at": "Thu Feb 06 04:24:04 +0000 2020",
+		"id": 1225273932783054800,
+		"id_str": "1225273932783054850",
+		"full_text": "@seoulrain 저도 구독형 앱들 노션으로 관리해요. 리마인드도 되고 가족용 아이디/라이센스는 새 페이지 만들어서 공유할 수 있어서 편리해요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seoulrain",
+					"name": "서울비",
+					"id": 14941102,
+					"id_str": "14941102",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1225254051023147000,
+		"in_reply_to_status_id_str": "1225254051023147008",
+		"in_reply_to_user_id": 14941102,
+		"in_reply_to_user_id_str": "14941102",
+		"in_reply_to_screen_name": "seoulrain",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 892,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@seoulrain 저도 구독형 앱들 노션으로 관리해요. 리마인드도 되고 가족용 아이디/라이센스는 새 페이지 만들어서 공유할 수 있어서 편리해요."
+	},
+	{
+		"created_at": "Thu Feb 06 04:18:58 +0000 2020",
+		"id": 1224978973303533600,
+		"id_str": "1225272650282389506",
+		"full_text": "신종 코로나바이러스\n감염증 환자로부터\n#바이러스_분리성공 했습니다.\n\n치료제·백신 개발 위해\n전력을 다해 속도 내겠습니다.\n▶https://t.co/KdC95Wz4SO https://t.co/RCAMNyDJok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바이러스_분리성공",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KdC95Wz4SO",
+					"expanded_url": "http://bit.ly/2twtlLp",
+					"display_url": "bit.ly/2twtlLp",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224978933965148200,
+					"id_str": "1224978933965148161",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EP__2ahUUAEe90g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP__2ahUUAEe90g.jpg",
+					"url": "https://t.co/RCAMNyDJok",
+					"display_url": "pic.twitter.com/RCAMNyDJok",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1224978973303533568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224978933965148200,
+					"id_str": "1224978933965148161",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EP__2ahUUAEe90g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP__2ahUUAEe90g.jpg",
+					"url": "https://t.co/RCAMNyDJok",
+					"display_url": "pic.twitter.com/RCAMNyDJok",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1224978973303533568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134679265,
+			"id_str": "134679265",
+			"name": "대한민국 정부",
+			"screen_name": "hellopolicy",
+			"location": "대한민국",
+			"description": "유용한 정책을 알려드리는 대한민국 정부 대표 트위터입니다.  \n▶대한민국 정부 페이스북 https://t.co/JqTQiNMO6Q \n▶정책브리핑\nhttps://t.co/z0IbNhDE0L",
+			"url": "http://t.co/LZA3QF0ZP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LZA3QF0ZP5",
+							"expanded_url": "http://blog.naver.com/hellopolicy",
+							"display_url": "blog.naver.com/hellopolicy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JqTQiNMO6Q",
+							"expanded_url": "https://www.facebook.com/hipolicy/",
+							"display_url": "facebook.com/hipolicy/",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/z0IbNhDE0L",
+							"expanded_url": "http://www.korea.kr/main.do",
+							"display_url": "korea.kr/main.do",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 181165,
+			"friends_count": 36423,
+			"listed_count": 827,
+			"created_at": "Mon Apr 19 04:15:26 +0000 2010",
+			"favourites_count": 367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128851054542516225/XOwVgGYF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128851054542516225/XOwVgGYF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134679265/1577785966",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 908,
+		"favorite_count": 627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신종 코로나바이러스\n감염증 환자로부터\n#바이러스_분리성공 했습니다.\n\n치료제·백신 개발 위해\n전력을 다해 속도 내겠습니다.\n▶https://t.co/KdC95Wz4SO https://t.co/RCAMNyDJok"
+	},
+	{
 		"created_at": "Thu Feb 06 03:59:34 +0000 2020",
 		"id": 1225207024201404400,
 		"id_str": "1225267767722401792",
