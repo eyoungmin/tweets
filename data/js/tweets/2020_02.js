@@ -1,6 +1,1710 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 13:48:09 +0000 2020",
+		"id": 1225763082347004000,
+		"id_str": "1225778274820710400",
+		"full_text": "통계로 살펴보는\n '쉼표 있는 삶'과 '일과 삶의 균형'.\n\n'#국민문화예술활동조사', '#국민여가활동조사', '#근로자휴가조사' 결과를 카드뉴스로 소개합니다.\n자세히보기▶️ https://t.co/AAbbjVn3BU\n\n#쉼표있는삶 #여가 #여가활동 #휴가 #문화활동 #문화 #워라밸 https://t.co/ZDckofsY6S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "국민문화예술활동조사",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"text": "국민여가활동조사",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "근로자휴가조사",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "쉼표있는삶",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "여가",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "여가활동",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "휴가",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "문화활동",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "문화",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "워라밸",
+					"indices": [
+						154,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAbbjVn3BU",
+					"expanded_url": "http://naver.me/5rh0MHnY",
+					"display_url": "naver.me/5rh0MHnY",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225763041163141000,
+					"id_str": "1225763041163141121",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLI_ddU4AE_EFf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQLI_ddU4AE_EFf.png",
+					"url": "https://t.co/ZDckofsY6S",
+					"display_url": "pic.twitter.com/ZDckofsY6S",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1225763082347003904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225763041163141000,
+					"id_str": "1225763041163141121",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLI_ddU4AE_EFf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQLI_ddU4AE_EFf.png",
+					"url": "https://t.co/ZDckofsY6S",
+					"display_url": "pic.twitter.com/ZDckofsY6S",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1225763082347003904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225763052311564300,
+					"id_str": "1225763052311564290",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLJAG_UUAIakTo.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQLJAG_UUAIakTo.png",
+					"url": "https://t.co/ZDckofsY6S",
+					"display_url": "pic.twitter.com/ZDckofsY6S",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1225763082347003904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225763062969331700,
+					"id_str": "1225763062969331713",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLJAusU8AEv9_Z.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQLJAusU8AEv9_Z.png",
+					"url": "https://t.co/ZDckofsY6S",
+					"display_url": "pic.twitter.com/ZDckofsY6S",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1225763082347003904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225763073748680700,
+					"id_str": "1225763073748680707",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLJBW2UwAMXaIi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQLJBW2UwAMXaIi.png",
+					"url": "https://t.co/ZDckofsY6S",
+					"display_url": "pic.twitter.com/ZDckofsY6S",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1225763082347003904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141083064,
+			"id_str": "141083064",
+			"name": "문화체육관광부",
+			"screen_name": "mcstkorea",
+			"location": "Republic of Korea",
+			"description": "문화·체육·관광으로 행복한 대한민국",
+			"url": "http://t.co/mVy4NdMos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mVy4NdMos2",
+							"expanded_url": "http://www.mcst.go.kr",
+							"display_url": "mcst.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133340,
+			"friends_count": 23314,
+			"listed_count": 1081,
+			"created_at": "Fri May 07 04:19:09 +0000 2010",
+			"favourites_count": 678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141083064/1575849834",
+			"profile_link_color": "4C4C4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "통계로 살펴보는\n '쉼표 있는 삶'과 '일과 삶의 균형'.\n\n'#국민문화예술활동조사', '#국민여가활동조사', '#근로자휴가조사' 결과를 카드뉴스로 소개합니다.\n자세히보기▶️ https://t.co/AAbbjVn3BU\n\n#쉼표있는삶 #여가 #여가활동 #휴가 #문화활동 #문화 #워라밸 https://t.co/ZDckofsY6S"
+	},
+	{
+		"created_at": "Fri Feb 07 13:44:52 +0000 2020",
+		"id": 1225593480027598800,
+		"id_str": "1225777451302678529",
+		"full_text": "트렌스젠더 학생의 입학을 거부한 숙명여대 학생들에게 바칩니다. @_BeMinor 비마이너 김도현 발행인님과 알아본 '당사자주의, 그 편협함에 대하여'입니다. 풀영상은 링크를 참고해주세요. https://t.co/JYjyIpCIoo\n#숙명여대트렌스젠더학생,#숙대트렌스젠더학생응원합니다,#숙명여대 https://t.co/NApioCOTJ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "숙명여대트렌스젠더학생",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"text": "숙대트렌스젠더학생응원합니다",
+					"indices": [
+						142,
+						157
+					]
+				},
+				{
+					"text": "숙명여대",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_BeMinor",
+					"name": "장애인의 주홍글씨 'BeMinor'",
+					"id": 113589746,
+					"id_str": "113589746",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JYjyIpCIoo",
+					"expanded_url": "https://youtu.be/oHkgL6Jex9w",
+					"display_url": "youtu.be/oHkgL6Jex9w",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225592468311199700,
+					"id_str": "1225592468311199744",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225592468311199744/pu/img/GGw1_lJZwxULfue1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225592468311199744/pu/img/GGw1_lJZwxULfue1.jpg",
+					"url": "https://t.co/NApioCOTJ5",
+					"display_url": "pic.twitter.com/NApioCOTJ5",
+					"expanded_url": "https://twitter.com/dangjang_mannah/status/1225593480027598849/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225592468311199700,
+					"id_str": "1225592468311199744",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225592468311199744/pu/img/GGw1_lJZwxULfue1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225592468311199744/pu/img/GGw1_lJZwxULfue1.jpg",
+					"url": "https://t.co/NApioCOTJ5",
+					"display_url": "pic.twitter.com/NApioCOTJ5",
+					"expanded_url": "https://twitter.com/dangjang_mannah/status/1225593480027598849/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							95,
+							52
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225592468311199744/pu/vid/656x360/MZTC15Rb7gxByI5-.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225592468311199744/pu/vid/1314x720/FktIsO-YSFdmohXQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225592468311199744/pu/vid/492x270/z2pcC5yJ4NOA4hyn.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1225592468311199744/pu/pl/lklgWtvdTLUVKTBg.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204980282283065300,
+			"id_str": "1204980282283065344",
+			"name": "당장만나",
+			"screen_name": "dangjang_mannah",
+			"location": "이룸센터",
+			"description": "장애를 이해하고 싶을 때! 당장만나! 유튜브 [당장만나] 알림 및 장애계 소식 알림계정",
+			"url": "https://t.co/ZLcB9s3qW9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZLcB9s3qW9",
+							"expanded_url": "https://youtu.be/GrWkUMGZqPw",
+							"display_url": "youtu.be/GrWkUMGZqPw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 95,
+			"listed_count": 1,
+			"created_at": "Thu Dec 12 04:24:35 +0000 2019",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204981155679703040/hc7vcI9W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204981155679703040/hc7vcI9W_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트렌스젠더 학생의 입학을 거부한 숙명여대 학생들에게 바칩니다. @_BeMinor 비마이너 김도현 발행인님과 알아본 '당사자주의, 그 편협함에 대하여'입니다. 풀영상은 링크를 참고해주세요. https://t.co/JYjyIpCIoo\n#숙명여대트렌스젠더학생,#숙대트렌스젠더학생응원합니다,#숙명여대 https://t.co/NApioCOTJ5"
+	},
+	{
+		"created_at": "Fri Feb 07 13:42:04 +0000 2020",
+		"id": 1225693589654474800,
+		"id_str": "1225776742977044481",
+		"full_text": "\"저소득층 적힌 수험표 가슴에\" 부산교대 면접서 신분 노출 물의\nhttps://t.co/svxaE7vqRi\n\n부산교육대학교가 2020학년도 정시모집 면접에서 저소득층 자녀 신분이 노출되도록 해 응시생들을 배려하지 못했다는 지적을 받고 있습니다 https://t.co/mjCAIu5Ao6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/svxaE7vqRi",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200207122200051?input=tw",
+					"display_url": "yna.co.kr/view/AKR202002…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225691967620669400,
+					"id_str": "1225691967620669441",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKIWb4UYAEFQmh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKIWb4UYAEFQmh.jpg",
+					"url": "https://t.co/mjCAIu5Ao6",
+					"display_url": "pic.twitter.com/mjCAIu5Ao6",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1225693589654474756/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225691967620669400,
+					"id_str": "1225691967620669441",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKIWb4UYAEFQmh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKIWb4UYAEFQmh.jpg",
+					"url": "https://t.co/mjCAIu5Ao6",
+					"display_url": "pic.twitter.com/mjCAIu5Ao6",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1225693589654474756/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308345,
+			"friends_count": 72142,
+			"listed_count": 4748,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 203882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 464,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"저소득층 적힌 수험표 가슴에\" 부산교대 면접서 신분 노출 물의\nhttps://t.co/svxaE7vqRi\n\n부산교육대학교가 2020학년도 정시모집 면접에서 저소득층 자녀 신분이 노출되도록 해 응시생들을 배려하지 못했다는 지적을 받고 있습니다 https://t.co/mjCAIu5Ao6"
+	},
+	{
+		"created_at": "Fri Feb 07 13:28:01 +0000 2020",
+		"id": 1225666054631747600,
+		"id_str": "1225773210290937856",
+		"full_text": "🎀🎉신곡과 함께 돌아온 #앤마리🎉🎀\n새 싱글 🎂#Birthday🎂 드디어 발매!\n🎶신곡듣기 https://t.co/jJWSnSqmmq https://t.co/B3HQJa6MAJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "앤마리",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jJWSnSqmmq",
+					"expanded_url": "https://WMK.lnk.to/YrvtG",
+					"display_url": "WMK.lnk.to/YrvtG",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225663895441797000,
+					"id_str": "1225663895441797120",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225663895441797120/pu/img/q5y05n2IWK3u5OeE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225663895441797120/pu/img/q5y05n2IWK3u5OeE.jpg",
+					"url": "https://t.co/B3HQJa6MAJ",
+					"display_url": "pic.twitter.com/B3HQJa6MAJ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1225666054631747584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225663895441797000,
+					"id_str": "1225663895441797120",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225663895441797120/pu/img/q5y05n2IWK3u5OeE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225663895441797120/pu/img/q5y05n2IWK3u5OeE.jpg",
+					"url": "https://t.co/B3HQJa6MAJ",
+					"display_url": "pic.twitter.com/B3HQJa6MAJ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1225666054631747584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 41750,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225663895441797120/pu/vid/320x320/JwyZ2DEPU_sT6wih.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225663895441797120/pu/vid/720x720/jsSj7CDlHIN1CESL.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225663895441797120/pu/vid/480x480/x2hGePuNpsdtSkVH.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1225663895441797120/pu/pl/FW7sgDlpHEeD-9cE.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아의 공식 트위터. 워너뮤직 아티스트들의 공연 & 음반 발매 소식과 다양한 영상들을 전달해 드립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9731,
+			"friends_count": 566,
+			"listed_count": 131,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800527316610752512/RWApzxk__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800527316610752512/RWApzxk__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1571967210",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 109,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎀🎉신곡과 함께 돌아온 #앤마리🎉🎀\n새 싱글 🎂#Birthday🎂 드디어 발매!\n🎶신곡듣기 https://t.co/jJWSnSqmmq https://t.co/B3HQJa6MAJ"
+	},
+	{
+		"created_at": "Fri Feb 07 13:21:26 +0000 2020",
+		"id": 1225771552047677400,
+		"id_str": "1225771552047677442",
+		"full_text": "숙대 트랜스젠더 합격생 결국 입학 포기 “신상유출 등 무서움 컸다”\nhttps://t.co/pCf1FdTqmj #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pCf1FdTqmj",
+					"expanded_url": "http://www.hani.co.kr/arti/society/society_general/927386.html",
+					"display_url": "hani.co.kr/arti/society/s…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "숙대 트랜스젠더 합격생 결국 입학 포기 “신상유출 등 무서움 컸다”\nhttps://t.co/pCf1FdTqmj #minfav"
+	},
+	{
+		"created_at": "Fri Feb 07 13:13:27 +0000 2020",
+		"id": 1225403443759571000,
+		"id_str": "1225769545467449344",
+		"full_text": "모배우는 자폐인을 연기했던 영화가 크게 성공해 인터뷰할때 극중 역할(자폐흉내) 좀 보여달라는 기자의 무례에 정색했다하고. 또 누구는 지적장애인을 연기한 영화가 흥행하자 십수년 예능에서 그 역할 흉내내며 웃음을 팔더라. 배우, 예능인, 방송인의 경계를 감안 하더라도 경박한 사람 같았다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141659122,
+			"id_str": "141659122",
+			"name": "박작가",
+			"screen_name": "antipoint",
+			"location": "",
+			"description": "극 씁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152183,
+			"friends_count": 413,
+			"listed_count": 729,
+			"created_at": "Sat May 08 17:26:11 +0000 2010",
+			"favourites_count": 1957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141659122/1552332325",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3985,
+		"favorite_count": 1983,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "모배우는 자폐인을 연기했던 영화가 크게 성공해 인터뷰할때 극중 역할(자폐흉내) 좀 보여달라는 기자의 무례에 정색했다하고. 또 누구는 지적장애인을 연기한 영화가 흥행하자 십수년 예능에서 그 역할 흉내내며 웃음을 팔더라. 배우, 예능인, 방송인의 경계를 감안 하더라도 경박한 사람 같았다."
+	},
+	{
+		"created_at": "Fri Feb 07 13:13:23 +0000 2020",
+		"id": 1225769524722458600,
+		"id_str": "1225769524722458625",
+		"full_text": "그 후로 예능프로그램에 나와 연기한 사람을 따라한다며 개인기를 하는 사람도 있었고... ☹️😠 https://t.co/8a3yjzLl13",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8a3yjzLl13",
+					"expanded_url": "https://twitter.com/antipoint/status/1225403443759570945",
+					"display_url": "twitter.com/antipoint/stat…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225403443759571000,
+		"quoted_status_id_str": "1225403443759570945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8a3yjzLl13",
+			"expanded": "https://twitter.com/antipoint/status/1225403443759570945",
+			"display": "twitter.com/antipoint/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 06 12:58:42 +0000 2020",
+			"id": 1225403443759571000,
+			"id_str": "1225403443759570945",
+			"full_text": "모배우는 자폐인을 연기했던 영화가 크게 성공해 인터뷰할때 극중 역할(자폐흉내) 좀 보여달라는 기자의 무례에 정색했다하고. 또 누구는 지적장애인을 연기한 영화가 흥행하자 십수년 예능에서 그 역할 흉내내며 웃음을 팔더라. 배우, 예능인, 방송인의 경계를 감안 하더라도 경박한 사람 같았다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 141659122,
+				"id_str": "141659122",
+				"name": "박작가",
+				"screen_name": "antipoint",
+				"location": "",
+				"description": "극 씁니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 152183,
+				"friends_count": 413,
+				"listed_count": 729,
+				"created_at": "Sat May 08 17:26:11 +0000 2010",
+				"favourites_count": 1957,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44970,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/141659122/1552332325",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3985,
+			"favorite_count": 1983,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 후로 예능프로그램에 나와 연기한 사람을 따라한다며 개인기를 하는 사람도 있었고... ☹️😠 https://t.co/8a3yjzLl13"
+	},
+	{
+		"created_at": "Fri Feb 07 13:02:28 +0000 2020",
+		"id": 1225753032467472400,
+		"id_str": "1225766779760205825",
+		"full_text": "4) 향후 기획/ 주최하는 공연의 티켓 역시 이 곳에서 판매됩니다. 그리고, 외부기획사나 음악가가 김밥레코즈 사이트에서 공연 티켓 판매를 원할 경우 gimbabrecords2@gmail.com으로 문의하실 수 있습니다. \n\n5) 그 외 또 무언가를 할 수도 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1225752873260044300,
+		"in_reply_to_status_id_str": "1225752873260044288",
+		"in_reply_to_user_id": 620758826,
+		"in_reply_to_user_id_str": "620758826",
+		"in_reply_to_screen_name": "gimbabrecords",
+		"user": {
+			"id": 620758826,
+			"id_str": "620758826",
+			"name": "gimbabrecords",
+			"screen_name": "gimbabrecords",
+			"location": "동교동 155-36",
+			"description": "우량앨범과 공연을 소개하는 레이블+매장. 2012년 여름에 시작해 글렌 한사드,미드나잇 인 파리OST,로드리게즈,갱스부르 등이 나왔고 모든 장르의 음악을 좋아합니다. 베이룻,제인 버킨,세인트빈센트,맥드마르코 등 공연도 합니다. 레이블 상징 고양이 김밥이는 특히 엘피를 선호해요.",
+			"url": "https://t.co/uO6TLbEZpX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uO6TLbEZpX",
+							"expanded_url": "http://www.gimbabrecords.com",
+							"display_url": "gimbabrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10214,
+			"friends_count": 507,
+			"listed_count": 121,
+			"created_at": "Thu Jun 28 07:45:45 +0000 2012",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "4) 향후 기획/ 주최하는 공연의 티켓 역시 이 곳에서 판매됩니다. 그리고, 외부기획사나 음악가가 김밥레코즈 사이트에서 공연 티켓 판매를 원할 경우 gimbabrecords2@gmail.com으로 문의하실 수 있습니다. \n\n5) 그 외 또 무언가를 할 수도 있습니다."
+	},
+	{
+		"created_at": "Fri Feb 07 13:02:26 +0000 2020",
+		"id": 1225752873260044300,
+		"id_str": "1225766771002445824",
+		"full_text": "2) 별관 사이트에 한 번 생성된 제품들은 계속 판매되지만, 매장에 재고가 없기 때문에 배송기간은 평균 2주 정도가 소요됩니다.\n\n3) 향후 제작/ 수입하는 티셔츠, 가방 등 머천다이즈는 모두 이 곳에서 판매됩니다. 김밥레코즈 자체제작 머천다이즈도 사이트 오픈과 함께 판매를 시작합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1225752502613622800,
+		"in_reply_to_status_id_str": "1225752502613622784",
+		"in_reply_to_user_id": 620758826,
+		"in_reply_to_user_id_str": "620758826",
+		"in_reply_to_screen_name": "gimbabrecords",
+		"user": {
+			"id": 620758826,
+			"id_str": "620758826",
+			"name": "gimbabrecords",
+			"screen_name": "gimbabrecords",
+			"location": "동교동 155-36",
+			"description": "우량앨범과 공연을 소개하는 레이블+매장. 2012년 여름에 시작해 글렌 한사드,미드나잇 인 파리OST,로드리게즈,갱스부르 등이 나왔고 모든 장르의 음악을 좋아합니다. 베이룻,제인 버킨,세인트빈센트,맥드마르코 등 공연도 합니다. 레이블 상징 고양이 김밥이는 특히 엘피를 선호해요.",
+			"url": "https://t.co/uO6TLbEZpX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uO6TLbEZpX",
+							"expanded_url": "http://www.gimbabrecords.com",
+							"display_url": "gimbabrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10214,
+			"friends_count": 507,
+			"listed_count": 121,
+			"created_at": "Thu Jun 28 07:45:45 +0000 2012",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2) 별관 사이트에 한 번 생성된 제품들은 계속 판매되지만, 매장에 재고가 없기 때문에 배송기간은 평균 2주 정도가 소요됩니다.\n\n3) 향후 제작/ 수입하는 티셔츠, 가방 등 머천다이즈는 모두 이 곳에서 판매됩니다. 김밥레코즈 자체제작 머천다이즈도 사이트 오픈과 함께 판매를 시작합니다."
+	},
+	{
+		"created_at": "Fri Feb 07 13:02:24 +0000 2020",
+		"id": 1225752502613622800,
+		"id_str": "1225766762001551362",
+		"full_text": "링크 : https://t.co/cPoUgl4sSC\n\n요약)\n1) 우선 김밥레코즈닷컴의 판매상품 선정은 김밥레코즈에서 하지만, 이 사이트의 판매상품은 구매자들이 직접 결정할 수 있습니다. 즉, On-demand로 데이터베이스가 생성됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cPoUgl4sSC",
+					"expanded_url": "https://www.instagram.com/p/B8Q88FMpSus/?igshid=1fobn9ue8vllw",
+					"display_url": "instagram.com/p/B8Q88FMpSus/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1225752171494310000,
+		"in_reply_to_status_id_str": "1225752171494309891",
+		"in_reply_to_user_id": 620758826,
+		"in_reply_to_user_id_str": "620758826",
+		"in_reply_to_screen_name": "gimbabrecords",
+		"user": {
+			"id": 620758826,
+			"id_str": "620758826",
+			"name": "gimbabrecords",
+			"screen_name": "gimbabrecords",
+			"location": "동교동 155-36",
+			"description": "우량앨범과 공연을 소개하는 레이블+매장. 2012년 여름에 시작해 글렌 한사드,미드나잇 인 파리OST,로드리게즈,갱스부르 등이 나왔고 모든 장르의 음악을 좋아합니다. 베이룻,제인 버킨,세인트빈센트,맥드마르코 등 공연도 합니다. 레이블 상징 고양이 김밥이는 특히 엘피를 선호해요.",
+			"url": "https://t.co/uO6TLbEZpX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uO6TLbEZpX",
+							"expanded_url": "http://www.gimbabrecords.com",
+							"display_url": "gimbabrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10214,
+			"friends_count": 507,
+			"listed_count": 121,
+			"created_at": "Thu Jun 28 07:45:45 +0000 2012",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "링크 : https://t.co/cPoUgl4sSC\n\n요약)\n1) 우선 김밥레코즈닷컴의 판매상품 선정은 김밥레코즈에서 하지만, 이 사이트의 판매상품은 구매자들이 직접 결정할 수 있습니다. 즉, On-demand로 데이터베이스가 생성됩니다."
+	},
+	{
 		"created_at": "Fri Feb 07 13:01:35 +0000 2020",
 		"id": 1225766557554339800,
 		"id_str": "1225766557554339840",
