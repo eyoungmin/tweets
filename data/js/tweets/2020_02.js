@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 07:40:42 +0000 2020",
+		"id": 1225677001677099000,
+		"id_str": "1225685803050815488",
+		"full_text": "이달소 선배릠들 완전히 CD를 씹어먹으셨다👏👏 #LIVECLASS #이달의소녀 #SoWhat #LOONA @loonatheworld  #라이브클래스\n\n▶ https://t.co/SPV2lHoGRB https://t.co/sQjvYMWs9Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIVECLASS",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "라이브클래스",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SPV2lHoGRB",
+					"expanded_url": "https://youtu.be/F7Zd60qlPuw",
+					"display_url": "youtu.be/F7Zd60qlPuw",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225676993934446600,
+					"id_str": "1225676993934446592",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJ6u2jU0AAniaP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJ6u2jU0AAniaP.jpg",
+					"url": "https://t.co/sQjvYMWs9Z",
+					"display_url": "pic.twitter.com/sQjvYMWs9Z",
+					"expanded_url": "https://twitter.com/M2MPD/status/1225677001677099008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225676993934446600,
+					"id_str": "1225676993934446592",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJ6u2jU0AAniaP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJ6u2jU0AAniaP.jpg",
+					"url": "https://t.co/sQjvYMWs9Z",
+					"display_url": "pic.twitter.com/sQjvYMWs9Z",
+					"expanded_url": "https://twitter.com/M2MPD/status/1225677001677099008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 977868,
+			"friends_count": 328,
+			"listed_count": 1599,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1488,
+		"favorite_count": 2750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달소 선배릠들 완전히 CD를 씹어먹으셨다👏👏 #LIVECLASS #이달의소녀 #SoWhat #LOONA @loonatheworld  #라이브클래스\n\n▶ https://t.co/SPV2lHoGRB https://t.co/sQjvYMWs9Z"
+	},
+	{
 		"created_at": "Fri Feb 07 05:34:22 +0000 2020",
 		"id": 1225401356749439000,
 		"id_str": "1225654009429520386",
