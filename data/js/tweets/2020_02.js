@@ -1,6 +1,702 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 09:40:37 +0000 2020",
+		"id": 1225710805821223000,
+		"id_str": "1225715983203041281",
+		"full_text": "#이달의소녀 가 #틱톡 공식 채널을 통해 #SoWhat 챌린지를 시작합니다!\n아래의 해시태그를 추가한 영상을 업로드해 여러분의 강렬함을 표현해 주세요🔥\n⠀⠀⠀⠀⠀\n▶ https://t.co/a1dKHQ2qdh\n⠀⠀⠀⠀⠀\n#LOONA #sowhatchallenge https://t.co/xdXO8f2iPn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "틱톡",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "sowhatchallenge",
+					"indices": [
+						130,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a1dKHQ2qdh",
+					"expanded_url": "https://vt.tiktok.com/Nw6UB9/",
+					"display_url": "vt.tiktok.com/Nw6UB9/",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225710794915995600,
+					"id_str": "1225710794915995648",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKZeVBUYAA2Rm5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKZeVBUYAA2Rm5.jpg",
+					"url": "https://t.co/xdXO8f2iPn",
+					"display_url": "pic.twitter.com/xdXO8f2iPn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1225710805821222912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225710794915995600,
+					"id_str": "1225710794915995648",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKZeVBUYAA2Rm5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKZeVBUYAA2Rm5.jpg",
+					"url": "https://t.co/xdXO8f2iPn",
+					"display_url": "pic.twitter.com/xdXO8f2iPn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1225710805821222912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 411382,
+			"friends_count": 0,
+			"listed_count": 5780,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3533,
+		"favorite_count": 7153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 가 #틱톡 공식 채널을 통해 #SoWhat 챌린지를 시작합니다!\n아래의 해시태그를 추가한 영상을 업로드해 여러분의 강렬함을 표현해 주세요🔥\n⠀⠀⠀⠀⠀\n▶ https://t.co/a1dKHQ2qdh\n⠀⠀⠀⠀⠀\n#LOONA #sowhatchallenge https://t.co/xdXO8f2iPn"
+	},
+	{
+		"created_at": "Fri Feb 07 09:39:45 +0000 2020",
+		"id": 1225703771600146400,
+		"id_str": "1225715763375493121",
+		"full_text": "Happy Birthday SEULGI❤️\n\nRED VELVET 슬기 생일을 맞아, ARTIST BIRTHDAY NECKLACE를 SMTOWN &amp;STORE에서 만나 보실 수 있습니다.\n2월의 탄생석인 자수정 컬러 크리스탈 스톤으로 포인트를 준 제품입니다.✨\n\n🔸2월 탄생석 의미 : 성실, 평화\n🔸소재 : METAL, CRYSTAL STONE\n\nhttps://t.co/hz1gfVvJx4 https://t.co/HDaQU6hq2Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hz1gfVvJx4",
+					"expanded_url": "http://SMTOWNandSTORE.com",
+					"display_url": "SMTOWNandSTORE.com",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225703757746339800,
+					"id_str": "1225703757746339840",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKTEthVAAAPXqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKTEthVAAAPXqR.jpg",
+					"url": "https://t.co/HDaQU6hq2Q",
+					"display_url": "pic.twitter.com/HDaQU6hq2Q",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1225703771600146432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1773,
+							"h": 1773,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225703757746339800,
+					"id_str": "1225703757746339840",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKTEthVAAAPXqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKTEthVAAAPXqR.jpg",
+					"url": "https://t.co/HDaQU6hq2Q",
+					"display_url": "pic.twitter.com/HDaQU6hq2Q",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1225703771600146432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1773,
+							"h": 1773,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225703757784027100,
+					"id_str": "1225703757784027136",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKTEtqUEAATJWn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQKTEtqUEAATJWn.png",
+					"url": "https://t.co/HDaQU6hq2Q",
+					"display_url": "pic.twitter.com/HDaQU6hq2Q",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1225703771600146432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30394,
+			"friends_count": 0,
+			"listed_count": 107,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 788,
+		"favorite_count": 947,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Happy Birthday SEULGI❤️\n\nRED VELVET 슬기 생일을 맞아, ARTIST BIRTHDAY NECKLACE를 SMTOWN &amp;STORE에서 만나 보실 수 있습니다.\n2월의 탄생석인 자수정 컬러 크리스탈 스톤으로 포인트를 준 제품입니다.✨\n\n🔸2월 탄생석 의미 : 성실, 평화\n🔸소재 : METAL, CRYSTAL STONE\n\nhttps://t.co/hz1gfVvJx4 https://t.co/HDaQU6hq2Q"
+	},
+	{
+		"created_at": "Fri Feb 07 09:39:08 +0000 2020",
+		"id": 1225715608513323000,
+		"id_str": "1225715608513323008",
+		"full_text": "[VLOG/MonoTree] 작곡가의 하루 브이로그 / 제3자의 시선 / 적재 스트링 편곡 / 임한별 건반 편곡 / 적재 스트링 녹음 / 임한별 기타 편곡 /\nhttps://t.co/p3lhpPPSrq\n#MonoTree #모노트리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MonoTree",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p3lhpPPSrq",
+					"expanded_url": "https://youtu.be/C-sjB1NEGa8",
+					"display_url": "youtu.be/C-sjB1NEGa8",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VLOG/MonoTree] 작곡가의 하루 브이로그 / 제3자의 시선 / 적재 스트링 편곡 / 임한별 건반 편곡 / 적재 스트링 녹음 / 임한별 기타 편곡 /\nhttps://t.co/p3lhpPPSrq\n#MonoTree #모노트리"
+	},
+	{
+		"created_at": "Fri Feb 07 09:36:04 +0000 2020",
+		"id": 1225714839118663700,
+		"id_str": "1225714839118663681",
+		"full_text": "#더수토리 #the_sootory\n[The SOOTORY #8] '본 대로 말하라' 제작발표회에서 하는 왓츠인마이백👜그리고 실버버튼 언박싱까지\nhttps://t.co/a0AEkIaRzK\n#수영 #SOOYOUNG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더수토리",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "the_sootory",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0AEkIaRzK",
+					"expanded_url": "https://youtu.be/33lV5k0B3Nw",
+					"display_url": "youtu.be/33lV5k0B3Nw",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#더수토리 #the_sootory\n[The SOOTORY #8] '본 대로 말하라' 제작발표회에서 하는 왓츠인마이백👜그리고 실버버튼 언박싱까지\nhttps://t.co/a0AEkIaRzK\n#수영 #SOOYOUNG"
+	},
+	{
 		"created_at": "Fri Feb 07 08:40:38 +0000 2020",
 		"id": 1225694564750520300,
 		"id_str": "1225700884891361280",
