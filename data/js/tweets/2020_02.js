@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 11:40:38 +0000 2020",
+		"id": 1225738009288429600,
+		"id_str": "1226108571424841728",
+		"full_text": "이달의소녀에게 스며드신분들🙋‍♀️\n지금 틱톡 코리아 유튜브 채널에서 풀영상을 확인하세요!\n\n#이달의소녀 보러가기 : https://t.co/LgGwT28kdN\n좋아요와 구독도 함께 해주세요!\n\nWATCH #LOONA FULL VIDEO ON YOUTUBE!\n\n#sowhatchallenge #SoWhat #TikTok https://t.co/gXHJhBfKgq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "sowhatchallenge",
+					"indices": [
+						145,
+						161
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "TikTok",
+					"indices": [
+						170,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LgGwT28kdN",
+					"expanded_url": "https://youtu.be/x_Rsuf2n26s",
+					"display_url": "youtu.be/x_Rsuf2n26s",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225737978871308300,
+					"id_str": "1225737978871308289",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225737978871308289/pu/img/lvXy9ZmbFRHuAzAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225737978871308289/pu/img/lvXy9ZmbFRHuAzAN.jpg",
+					"url": "https://t.co/gXHJhBfKgq",
+					"display_url": "pic.twitter.com/gXHJhBfKgq",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1225738009288429570/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225737978871308300,
+					"id_str": "1225737978871308289",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225737978871308289/pu/img/lvXy9ZmbFRHuAzAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225737978871308289/pu/img/lvXy9ZmbFRHuAzAN.jpg",
+					"url": "https://t.co/gXHJhBfKgq",
+					"display_url": "pic.twitter.com/gXHJhBfKgq",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1225738009288429570/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							76,
+							135
+						],
+						"duration_millis": 8733,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225737978871308289/pu/vid/320x568/Q85ZMBwG-AiUqcVQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225737978871308289/pu/vid/608x1080/9zxk4pBdS7cP_z-r.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225737978871308289/pu/vid/360x638/2mdHuYt9bF6XS3qD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1225737978871308289/pu/pl/-RT6YN9vFGByVR5J.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895890154639966200,
+			"id_str": "895890154639966208",
+			"name": "TikTok_Korea",
+			"screen_name": "TiktokKR",
+			"location": "",
+			"description": "짧아서 확실한 행복, 숏.확.행 \nReal People. Real Videos.",
+			"url": "https://t.co/JUSOaPuchF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JUSOaPuchF",
+							"expanded_url": "https://www.tiktok.com/ko/",
+							"display_url": "tiktok.com/ko/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129021,
+			"friends_count": 537,
+			"listed_count": 97,
+			"created_at": "Fri Aug 11 06:10:32 +0000 2017",
+			"favourites_count": 293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087944986509881345/qZi1Fn-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087944986509881345/qZi1Fn-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895890154639966208/1580959453",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2365,
+		"favorite_count": 5050,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의소녀에게 스며드신분들🙋‍♀️\n지금 틱톡 코리아 유튜브 채널에서 풀영상을 확인하세요!\n\n#이달의소녀 보러가기 : https://t.co/LgGwT28kdN\n좋아요와 구독도 함께 해주세요!\n\nWATCH #LOONA FULL VIDEO ON YOUTUBE!\n\n#sowhatchallenge #SoWhat #TikTok https://t.co/gXHJhBfKgq"
+	},
+	{
 		"created_at": "Sat Feb 08 09:56:03 +0000 2020",
 		"id": 1226082253203288000,
 		"id_str": "1226082253203288064",
