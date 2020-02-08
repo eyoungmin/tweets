@@ -1,6 +1,1441 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 15:40:37 +0000 2020",
+		"id": 1226166825525727200,
+		"id_str": "1226168968806895616",
+		"full_text": "오늘 와주신 분들 다시한번 너무 감사드려요! 안울려고했는데 그렇게 예쁘게 반겨주니까 눈무리~~~~ 흘러~~~ 버린쥬아.. 정말 감사드리구 공연 에티켓도 잘 지켜주셔서 너무너무 감사합니다! 하루 더 화이팅해서 멋지게 잘 마무리하도록 할게요! - 예린 https://t.co/BU9puy2Q9E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226166815308406800,
+					"id_str": "1226166815308406785",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EQQ4ONXUYAE2p6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQQ4ONXUYAE2p6O.jpg",
+					"url": "https://t.co/BU9puy2Q9E",
+					"display_url": "pic.twitter.com/BU9puy2Q9E",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226166825525727232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226166815308406800,
+					"id_str": "1226166815308406785",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EQQ4ONXUYAE2p6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQQ4ONXUYAE2p6O.jpg",
+					"url": "https://t.co/BU9puy2Q9E",
+					"display_url": "pic.twitter.com/BU9puy2Q9E",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226166825525727232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226166815312642000,
+					"id_str": "1226166815312642050",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EQQ4ONYVAAIBuht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQQ4ONYVAAIBuht.jpg",
+					"url": "https://t.co/BU9puy2Q9E",
+					"display_url": "pic.twitter.com/BU9puy2Q9E",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226166825525727232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226166815316791300,
+					"id_str": "1226166815316791299",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EQQ4ONZUUAM3n4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQQ4ONZUUAM3n4k.jpg",
+					"url": "https://t.co/BU9puy2Q9E",
+					"display_url": "pic.twitter.com/BU9puy2Q9E",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226166825525727232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226166815325208600,
+					"id_str": "1226166815325208576",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EQQ4ONbUwAA81Oc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQQ4ONbUwAA81Oc.jpg",
+					"url": "https://t.co/BU9puy2Q9E",
+					"display_url": "pic.twitter.com/BU9puy2Q9E",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226166825525727232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5503,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 와주신 분들 다시한번 너무 감사드려요! 안울려고했는데 그렇게 예쁘게 반겨주니까 눈무리~~~~ 흘러~~~ 버린쥬아.. 정말 감사드리구 공연 에티켓도 잘 지켜주셔서 너무너무 감사합니다! 하루 더 화이팅해서 멋지게 잘 마무리하도록 할게요! - 예린 https://t.co/BU9puy2Q9E"
+	},
+	{
+		"created_at": "Sat Feb 08 15:30:39 +0000 2020",
+		"id": 1225857894148493300,
+		"id_str": "1226166459706966016",
+		"full_text": "@Riiigelll &lt;피해와 가해의 페미니즘&gt;입니다!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Riiigelll",
+					"name": "리걸",
+					"id": 2438521664,
+					"id_str": "2438521664",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1225853397464563700,
+		"in_reply_to_status_id_str": "1225853397464563712",
+		"in_reply_to_user_id": 2438521664,
+		"in_reply_to_user_id_str": "2438521664",
+		"in_reply_to_screen_name": "Riiigelll",
+		"user": {
+			"id": 843365296517787600,
+			"id_str": "843365296517787648",
+			"name": "바나나",
+			"screen_name": "_banana_boy_",
+			"location": "",
+			"description": "전에 알던 내가 아냐 브랜뉴 사운드",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 38,
+			"listed_count": 7,
+			"created_at": "Sun Mar 19 07:35:30 +0000 2017",
+			"favourites_count": 13005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112356842288476160/3DAvOdi0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112356842288476160/3DAvOdi0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/843365296517787648/1554041309",
+			"profile_link_color": "FFEB3B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Riiigelll &lt;피해와 가해의 페미니즘&gt;입니다!"
+	},
+	{
+		"created_at": "Sat Feb 08 15:30:35 +0000 2020",
+		"id": 1225840517537099800,
+		"id_str": "1226166441319133185",
+		"full_text": "A.mtf는 남자라 애초에 여대 입학 말도 안됨\nB.mtf 여자가 맞긴 한데 굳이 여대간게 잘못\nC.mtf 여자 맞고 여대가도 되는데 그걸 동네방네 소문낸게 문제 \n\n정도는 달라도 A,B,C 다 혐오맞음.. 켄지 요시노 - 사회적 소수자가 받는 차별 3단계와 너무 똑같다 https://t.co/ohY7IDMLEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225840507055591400,
+					"id_str": "1225840507055591424",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EQMPckZVUAAoxs6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQMPckZVUAAoxs6.jpg",
+					"url": "https://t.co/ohY7IDMLEO",
+					"display_url": "pic.twitter.com/ohY7IDMLEO",
+					"expanded_url": "https://twitter.com/_banana_boy_/status/1225840517537099777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1787,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1048,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225840507055591400,
+					"id_str": "1225840507055591424",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EQMPckZVUAAoxs6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQMPckZVUAAoxs6.jpg",
+					"url": "https://t.co/ohY7IDMLEO",
+					"display_url": "pic.twitter.com/ohY7IDMLEO",
+					"expanded_url": "https://twitter.com/_banana_boy_/status/1225840517537099777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1787,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1048,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 843365296517787600,
+			"id_str": "843365296517787648",
+			"name": "바나나",
+			"screen_name": "_banana_boy_",
+			"location": "",
+			"description": "전에 알던 내가 아냐 브랜뉴 사운드",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 38,
+			"listed_count": 7,
+			"created_at": "Sun Mar 19 07:35:30 +0000 2017",
+			"favourites_count": 13005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112356842288476160/3DAvOdi0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112356842288476160/3DAvOdi0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/843365296517787648/1554041309",
+			"profile_link_color": "FFEB3B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2192,
+		"favorite_count": 877,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "A.mtf는 남자라 애초에 여대 입학 말도 안됨\nB.mtf 여자가 맞긴 한데 굳이 여대간게 잘못\nC.mtf 여자 맞고 여대가도 되는데 그걸 동네방네 소문낸게 문제 \n\n정도는 달라도 A,B,C 다 혐오맞음.. 켄지 요시노 - 사회적 소수자가 받는 차별 3단계와 너무 똑같다 https://t.co/ohY7IDMLEO"
+	},
+	{
+		"created_at": "Sat Feb 08 15:29:19 +0000 2020",
+		"id": 1226017413277159400,
+		"id_str": "1226166121679556611",
+		"full_text": "스마트폰용 열화상 카메라를 샀더니, 마트에서 막 튀겨낸 따끈따끈한 튀김 찾기에 최고더라는 후기 https://t.co/ObcZGPHuKm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ObcZGPHuKm",
+					"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387",
+					"display_url": "twitter.com/kizuki_jpn/sta…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992272,
+			"id_str": "71992272",
+			"name": "foodnjoy",
+			"screen_name": "foodnjoy",
+			"location": "위장 속",
+			"description": "굶주림에 고통받는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207723,
+			"friends_count": 482,
+			"listed_count": 369,
+			"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+			"favourites_count": 1077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1551049603",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225736655283216400,
+		"quoted_status_id_str": "1225736655283216387",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ObcZGPHuKm",
+			"expanded": "https://twitter.com/kizuki_jpn/status/1225736655283216387",
+			"display": "twitter.com/kizuki_jpn/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 07 11:02:46 +0000 2020",
+			"id": 1225736655283216400,
+			"id_str": "1225736655283216387",
+			"full_text": "そういえばスマホ接続型のサーマルカメラなるものを買ってみたんですけど、スーパーで揚げたてホカホカ惣菜をピンポイントで発見するデバイスとして完ッ璧に機能してて草 https://t.co/e96Ogc3nGT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1225736640145965000,
+						"id_str": "1225736640145965057",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/EQKw-uAUwAEYao6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQKw-uAUwAEYao6.jpg",
+						"url": "https://t.co/e96Ogc3nGT",
+						"display_url": "pic.twitter.com/e96Ogc3nGT",
+						"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1225736640145965000,
+						"id_str": "1225736640145965057",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/EQKw-uAUwAEYao6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQKw-uAUwAEYao6.jpg",
+						"url": "https://t.co/e96Ogc3nGT",
+						"display_url": "pic.twitter.com/e96Ogc3nGT",
+						"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1225736640158584800,
+						"id_str": "1225736640158584832",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/EQKw-uDVUAAMgGC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQKw-uDVUAAMgGC.jpg",
+						"url": "https://t.co/e96Ogc3nGT",
+						"display_url": "pic.twitter.com/e96Ogc3nGT",
+						"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1225736640166916000,
+						"id_str": "1225736640166916096",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/EQKw-uFUcAADWIz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQKw-uFUcAADWIz.jpg",
+						"url": "https://t.co/e96Ogc3nGT",
+						"display_url": "pic.twitter.com/e96Ogc3nGT",
+						"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1225736640154308600,
+						"id_str": "1225736640154308609",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/EQKw-uCUEAEcHvX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQKw-uCUEAEcHvX.jpg",
+						"url": "https://t.co/e96Ogc3nGT",
+						"display_url": "pic.twitter.com/e96Ogc3nGT",
+						"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14484367,
+				"id_str": "14484367",
+				"name": "山口真弘",
+				"screen_name": "kizuki_jpn",
+				"location": "東京",
+				"description": "ライター。PC周辺機器やサービスのレビューをインプレス/ITmediaなどに書いています。最近は電子書籍やタブレット、スマートスピーカー多し。他の趣味関心は肉料理/アニメ/漫画/ダークツーリズムなど。ネタツイート多め、IT系の有益な情報は少ないのでご注意ください。プロ野球の話題のみ別垢 @kizuki_bb にて。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3857,
+				"friends_count": 891,
+				"listed_count": 228,
+				"created_at": "Wed Apr 23 03:05:42 +0000 2008",
+				"favourites_count": 12096,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67237,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/623978155/14980_2637663600_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/623978155/14980_2637663600_normal.jpg",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41634,
+			"favorite_count": 134380,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 13615,
+		"favorite_count": 4366,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스마트폰용 열화상 카메라를 샀더니, 마트에서 막 튀겨낸 따끈따끈한 튀김 찾기에 최고더라는 후기 https://t.co/ObcZGPHuKm"
+	},
+	{
+		"created_at": "Sat Feb 08 15:29:06 +0000 2020",
+		"id": 1225736655283216400,
+		"id_str": "1226166067179008001",
+		"full_text": "そういえばスマホ接続型のサーマルカメラなるものを買ってみたんですけど、スーパーで揚げたてホカホカ惣菜をピンポイントで発見するデバイスとして完ッ璧に機能してて草 https://t.co/e96Ogc3nGT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225736640145965000,
+					"id_str": "1225736640145965057",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKw-uAUwAEYao6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKw-uAUwAEYao6.jpg",
+					"url": "https://t.co/e96Ogc3nGT",
+					"display_url": "pic.twitter.com/e96Ogc3nGT",
+					"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225736640145965000,
+					"id_str": "1225736640145965057",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKw-uAUwAEYao6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKw-uAUwAEYao6.jpg",
+					"url": "https://t.co/e96Ogc3nGT",
+					"display_url": "pic.twitter.com/e96Ogc3nGT",
+					"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225736640158584800,
+					"id_str": "1225736640158584832",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKw-uDVUAAMgGC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKw-uDVUAAMgGC.jpg",
+					"url": "https://t.co/e96Ogc3nGT",
+					"display_url": "pic.twitter.com/e96Ogc3nGT",
+					"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225736640166916000,
+					"id_str": "1225736640166916096",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKw-uFUcAADWIz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKw-uFUcAADWIz.jpg",
+					"url": "https://t.co/e96Ogc3nGT",
+					"display_url": "pic.twitter.com/e96Ogc3nGT",
+					"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225736640154308600,
+					"id_str": "1225736640154308609",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKw-uCUEAEcHvX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKw-uCUEAEcHvX.jpg",
+					"url": "https://t.co/e96Ogc3nGT",
+					"display_url": "pic.twitter.com/e96Ogc3nGT",
+					"expanded_url": "https://twitter.com/kizuki_jpn/status/1225736655283216387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14484367,
+			"id_str": "14484367",
+			"name": "山口真弘",
+			"screen_name": "kizuki_jpn",
+			"location": "東京",
+			"description": "ライター。PC周辺機器やサービスのレビューをインプレス/ITmediaなどに書いています。最近は電子書籍やタブレット、スマートスピーカー多し。他の趣味関心は肉料理/アニメ/漫画/ダークツーリズムなど。ネタツイート多め、IT系の有益な情報は少ないのでご注意ください。プロ野球の話題のみ別垢 @kizuki_bb にて。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3857,
+			"friends_count": 891,
+			"listed_count": 228,
+			"created_at": "Wed Apr 23 03:05:42 +0000 2008",
+			"favourites_count": 12096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/623978155/14980_2637663600_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/623978155/14980_2637663600_normal.jpg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41634,
+		"favorite_count": 134380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "そういえばスマホ接続型のサーマルカメラなるものを買ってみたんですけど、スーパーで揚げたてホカホカ惣菜をピンポイントで発見するデバイスとして完ッ璧に機能してて草 https://t.co/e96Ogc3nGT"
+	},
+	{
+		"created_at": "Sat Feb 08 15:26:28 +0000 2020",
+		"id": 1226118771930124300,
+		"id_str": "1226165407855169536",
+		"full_text": "공기청정장치 덕분에 기내 감염율은 낮다; 손 자주 씻고 건조 최선; 차선이 세정제; 마스크 도움 되지만 늘 하고 있으면 습기 차서 안 좋아; 장갑은 오히려 균 오염 매개/배양 위험; 세계 확산 막기 위해 항공통제 필요하나 전면봉쇄는 역풍 위험; 감염율 둔화까진 방심 금물. https://t.co/rb2VeBON7x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rb2VeBON7x",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2020-02-06/want-to-avoid-virus-forget-face-masks-top-airline-doctor-says",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103340,
+			"friends_count": 2441,
+			"listed_count": 394,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공기청정장치 덕분에 기내 감염율은 낮다; 손 자주 씻고 건조 최선; 차선이 세정제; 마스크 도움 되지만 늘 하고 있으면 습기 차서 안 좋아; 장갑은 오히려 균 오염 매개/배양 위험; 세계 확산 막기 위해 항공통제 필요하나 전면봉쇄는 역풍 위험; 감염율 둔화까진 방심 금물. https://t.co/rb2VeBON7x"
+	},
+	{
+		"created_at": "Sat Feb 08 15:25:35 +0000 2020",
+		"id": 1226157440296599600,
+		"id_str": "1226165183967453185",
+		"full_text": "실태조사 보고서에서 발췌한 글입니다.\n\n이 실태조사에 직접 참여하였는데 당시가 2018년도였습니다. 그러나 만화계는 2020년인 지금도 여전히 같은 상황입니다. https://t.co/yoq8RTOhhr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226157432490999800,
+					"id_str": "1226157432490999808",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EQQvsDpUwAA4NE7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQQvsDpUwAA4NE7.png",
+					"url": "https://t.co/yoq8RTOhhr",
+					"display_url": "pic.twitter.com/yoq8RTOhhr",
+					"expanded_url": "https://twitter.com/csc_2019/status/1226157440296599552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 569,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 569,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 569,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226157432490999800,
+					"id_str": "1226157432490999808",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EQQvsDpUwAA4NE7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQQvsDpUwAA4NE7.png",
+					"url": "https://t.co/yoq8RTOhhr",
+					"display_url": "pic.twitter.com/yoq8RTOhhr",
+					"expanded_url": "https://twitter.com/csc_2019/status/1226157440296599552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 569,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 569,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 569,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1226154422427762700,
+		"in_reply_to_status_id_str": "1226154422427762688",
+		"in_reply_to_user_id": 979315994500857900,
+		"in_reply_to_user_id_str": "979315994500857856",
+		"in_reply_to_screen_name": "csc_2019",
+		"user": {
+			"id": 979315994500857900,
+			"id_str": "979315994500857856",
+			"name": "만화계성폭력대책위원회",
+			"screen_name": "csc_2019",
+			"location": "",
+			"description": "만화계 성폭력·성차별 근절에 행동합니다.\n문의 및 도움이 필요하시면 DM/메일 주세요.\nemc0330@naver.com\n\n▼사건 제보 및 상담 오픈채팅\nhttps://t.co/tZJeDge8CW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tZJeDge8CW",
+							"expanded_url": "http://open.kakao.com/o/sgPbhCIb",
+							"display_url": "open.kakao.com/o/sgPbhCIb",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 991,
+			"friends_count": 60,
+			"listed_count": 6,
+			"created_at": "Thu Mar 29 11:15:02 +0000 2018",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979315994500857856/1573397777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실태조사 보고서에서 발췌한 글입니다.\n\n이 실태조사에 직접 참여하였는데 당시가 2018년도였습니다. 그러나 만화계는 2020년인 지금도 여전히 같은 상황입니다. https://t.co/yoq8RTOhhr"
+	},
+	{
 		"created_at": "Sat Feb 08 13:40:37 +0000 2020",
 		"id": 1226082872441704400,
 		"id_str": "1226138769306329089",
