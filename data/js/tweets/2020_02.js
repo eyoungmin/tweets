@@ -1,10 +1,102 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 12:56:37 +0000 2020",
+		"id": 1226011535052378000,
+		"id_str": "1226127695093751808",
+		"full_text": "이번주 경향엔 &lt;미스터트롯&gt;에 대해 썼습니다. 이 프로가 재밌지만 편치 않은 이유를 자문하듯 썼습니다\n\n\"민망함은 사치며, 사랑받기 위해선 뭐든지 할 수 있다는 태도. 이것이 이 쇼의 다양한 스펙터클이 재현하는 단 하나의 의미이자 이 쇼에서 허용되는 단 하나의 윤리다\"\nhttps://t.co/Q4IF6ZfE9O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q4IF6ZfE9O",
+					"expanded_url": "https://m.khan.co.kr/view.html?art_id=202002080600035",
+					"display_url": "m.khan.co.kr/view.html?art_…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171901847,
+			"id_str": "171901847",
+			"name": "위근우",
+			"screen_name": "guevara_99",
+			"location": "",
+			"description": "아무 것도 기대하지 마세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36774,
+			"friends_count": 45,
+			"listed_count": 271,
+			"created_at": "Wed Jul 28 13:05:26 +0000 2010",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 55,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 경향엔 &lt;미스터트롯&gt;에 대해 썼습니다. 이 프로가 재밌지만 편치 않은 이유를 자문하듯 썼습니다\n\n\"민망함은 사치며, 사랑받기 위해선 뭐든지 할 수 있다는 태도. 이것이 이 쇼의 다양한 스펙터클이 재현하는 단 하나의 의미이자 이 쇼에서 허용되는 단 하나의 윤리다\"\nhttps://t.co/Q4IF6ZfE9O"
+	},
+	{
 		"created_at": "Sat Feb 08 11:40:38 +0000 2020",
 		"id": 1225738009288429600,
 		"id_str": "1226108571424841728",
-		"full_text": "이달의소녀에게 스며드신분들🙋‍♀️\n지금 틱톡 코리아 유튜브 채널에서 풀영상을 확인하세요!\n\n#이달의소녀 보러가기 : https://t.co/LgGwT28kdN\n좋아요와 구독도 함께 해주세요!\n\nWATCH #LOONA FULL VIDEO ON YOUTUBE!\n\n#sowhatchallenge #SoWhat #TikTok https://t.co/gXHJhBfKgq",
+		"full_text": "이달의소녀에게 스며드신분들🙋♀️\n지금 틱톡 코리아 유튜브 채널에서 풀영상을 확인하세요!\n\n#이달의소녀 보러가기 : https://t.co/LgGwT28kdN\n좋아요와 구독도 함께 해주세요!\n\nWATCH #LOONA FULL VIDEO ON YOUTUBE!\n\n#sowhatchallenge #SoWhat #TikTok https://t.co/gXHJhBfKgq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -249,7 +341,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "이달의소녀에게 스며드신분들🙋‍♀️\n지금 틱톡 코리아 유튜브 채널에서 풀영상을 확인하세요!\n\n#이달의소녀 보러가기 : https://t.co/LgGwT28kdN\n좋아요와 구독도 함께 해주세요!\n\nWATCH #LOONA FULL VIDEO ON YOUTUBE!\n\n#sowhatchallenge #SoWhat #TikTok https://t.co/gXHJhBfKgq"
+		"text": "이달의소녀에게 스며드신분들🙋♀️\n지금 틱톡 코리아 유튜브 채널에서 풀영상을 확인하세요!\n\n#이달의소녀 보러가기 : https://t.co/LgGwT28kdN\n좋아요와 구독도 함께 해주세요!\n\nWATCH #LOONA FULL VIDEO ON YOUTUBE!\n\n#sowhatchallenge #SoWhat #TikTok https://t.co/gXHJhBfKgq"
 	},
 	{
 		"created_at": "Sat Feb 08 09:56:03 +0000 2020",
