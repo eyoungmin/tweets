@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 13:40:37 +0000 2020",
+		"id": 1226082872441704400,
+		"id_str": "1226138769306329089",
+		"full_text": "이달의 소녀 사랑하는 게 So What🌝~~?! 칼군무의 정석 그거 이달소가 보여드립니다 오늘 저녁 10시 오빛 모여라❗❗ #릴레이댄스 #이달의소녀 #SoWhat #LOONA @loonatheworld #RelayDance\n\n▶️ https://t.co/jhdsDH5QBs https://t.co/Zh7kayO9Wp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "릴레이댄스",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "RelayDance",
+					"indices": [
+						113,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jhdsDH5QBs",
+					"expanded_url": "https://youtu.be/SjaYC-1Dwak",
+					"display_url": "youtu.be/SjaYC-1Dwak",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226082863029747700,
+					"id_str": "1226082863029747712",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EQPr3iwVAAApAeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQPr3iwVAAApAeG.jpg",
+					"url": "https://t.co/Zh7kayO9Wp",
+					"display_url": "pic.twitter.com/Zh7kayO9Wp",
+					"expanded_url": "https://twitter.com/M2MPD/status/1226082872441704448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226082863029747700,
+					"id_str": "1226082863029747712",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EQPr3iwVAAApAeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQPr3iwVAAApAeG.jpg",
+					"url": "https://t.co/Zh7kayO9Wp",
+					"display_url": "pic.twitter.com/Zh7kayO9Wp",
+					"expanded_url": "https://twitter.com/M2MPD/status/1226082872441704448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 978103,
+			"friends_count": 328,
+			"listed_count": 1600,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2543,
+		"favorite_count": 5126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀 사랑하는 게 So What🌝~~?! 칼군무의 정석 그거 이달소가 보여드립니다 오늘 저녁 10시 오빛 모여라❗❗ #릴레이댄스 #이달의소녀 #SoWhat #LOONA @loonatheworld #RelayDance\n\n▶️ https://t.co/jhdsDH5QBs https://t.co/Zh7kayO9Wp"
+	},
+	{
 		"created_at": "Sat Feb 08 12:56:37 +0000 2020",
 		"id": 1226011535052378000,
 		"id_str": "1226127695093751808",
