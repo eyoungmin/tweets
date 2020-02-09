@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 01:44:36 +0000 2020",
+		"id": 1224079807950000000,
+		"id_str": "1226320962653585408",
+		"full_text": "At Starbucks, writing your name on a cup and calling it out is a symbol of our warm welcome. Starbucks welcomes you, whoever you are. #whatsyourname Find out more at https://t.co/6BrvpLfKZb https://t.co/w1ge3ZKu0C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "whatsyourname",
+					"indices": [
+						134,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6BrvpLfKZb",
+					"expanded_url": "https://stories.starbucks.com/emea/stories/2020/whatsyourname/",
+					"display_url": "stories.starbucks.com/emea/stories/2…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224079587157651500,
+					"id_str": "1224079587157651463",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224079587157651463/pu/img/64Tu9ygFmhA4HMLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224079587157651463/pu/img/64Tu9ygFmhA4HMLf.jpg",
+					"url": "https://t.co/w1ge3ZKu0C",
+					"display_url": "pic.twitter.com/w1ge3ZKu0C",
+					"expanded_url": "https://twitter.com/StarbucksUK/status/1224079807950000129/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224079587157651500,
+					"id_str": "1224079587157651463",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224079587157651463/pu/img/64Tu9ygFmhA4HMLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224079587157651463/pu/img/64Tu9ygFmhA4HMLf.jpg",
+					"url": "https://t.co/w1ge3ZKu0C",
+					"display_url": "pic.twitter.com/w1ge3ZKu0C",
+					"expanded_url": "https://twitter.com/StarbucksUK/status/1224079807950000129/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59480,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224079587157651463/pu/vid/320x320/vR0Yjh9vs0D9d1-s.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224079587157651463/pu/vid/480x480/EpxwTtWnCOxgRPOr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1224079587157651463/pu/pl/LsvmymmHUWMxLws0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224079587157651463/pu/vid/720x720/YQD9Mpa1zZ2mr_3M.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369629233,
+			"id_str": "369629233",
+			"name": "Starbucks UK",
+			"screen_name": "StarbucksUK",
+			"location": "London, England",
+			"description": "Freshly brewed tweets from the Starbucks team in London! We're here to help with your queries 7 days a week.",
+			"url": "https://t.co/V7vYn7VQDk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V7vYn7VQDk",
+							"expanded_url": "http://stories.starbucks.com/emea",
+							"display_url": "stories.starbucks.com/emea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604959,
+			"friends_count": 7628,
+			"listed_count": 863,
+			"created_at": "Wed Sep 07 17:40:46 +0000 2011",
+			"favourites_count": 9489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187305939151544320/MBdRh2M__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187305939151544320/MBdRh2M__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369629233/1580678777",
+			"profile_link_color": "00704A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17659,
+		"favorite_count": 65574,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At Starbucks, writing your name on a cup and calling it out is a symbol of our warm welcome. Starbucks welcomes you, whoever you are. #whatsyourname Find out more at https://t.co/6BrvpLfKZb https://t.co/w1ge3ZKu0C"
+	},
+	{
 		"created_at": "Sat Feb 08 23:40:37 +0000 2020",
 		"id": 1226275421966090200,
 		"id_str": "1226289763927367680",
