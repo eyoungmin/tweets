@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 14:40:38 +0000 2020",
+		"id": 1226445586708209700,
+		"id_str": "1226516257652039681",
+		"full_text": "Meet @RVsmtown’s Baby Bun, Gomdori, Wani, Ari and Kim-Petit. #TrollsWorldTour https://t.co/UV1XVY03BA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TrollsWorldTour",
+					"indices": [
+						61,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UV1XVY03BA",
+					"expanded_url": "https://twitter.com/i/events/1226432264705167360",
+					"display_url": "twitter.com/i/events/12264…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3260518932,
+			"id_str": "3260518932",
+			"name": "Twitter Moments",
+			"screen_name": "TwitterMoments",
+			"location": "New York, USA",
+			"description": "The best of what’s happening on Twitter in an instant.",
+			"url": "https://t.co/nYOx6qThjk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nYOx6qThjk",
+							"expanded_url": "https://about.twitter.com/company/moments-guidelines",
+							"display_url": "about.twitter.com/company/moment…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 770787,
+			"friends_count": 10,
+			"listed_count": 4745,
+			"created_at": "Tue Jun 30 01:06:59 +0000 2015",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/651463624330907648/OzaAcuSR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/651463624330907648/OzaAcuSR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3260518932/1444135144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4359,
+		"favorite_count": 8935,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Meet @RVsmtown’s Baby Bun, Gomdori, Wani, Ari and Kim-Petit. #TrollsWorldTour https://t.co/UV1XVY03BA"
+	},
+	{
 		"created_at": "Sun Feb 09 13:40:38 +0000 2020",
 		"id": 1226492583666303000,
 		"id_str": "1226501158249934848",
