@@ -1,6 +1,1201 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 09:41:02 +0000 2020",
+		"id": 1226431768552562700,
+		"id_str": "1226440860717461506",
+		"full_text": "💜TROLLS WORLD TOUR x Red Velvet💜\n\n📽In theaters April 2020\n\n#YERI #예리 #RedVelvet #레드벨벳 #Trolls #TrollsWorldTour @trolls https://t.co/U8DnDYitFY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YERI",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "TrollsWorldTour",
+					"indices": [
+						94,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Trolls",
+					"name": "DreamWorks Trolls",
+					"id": 4579155913,
+					"id_str": "4579155913",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226431739012059100,
+					"id_str": "1226431739012059136",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUpKzEUEAAsdO5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUpKzEUEAAsdO5.jpg",
+					"url": "https://t.co/U8DnDYitFY",
+					"display_url": "pic.twitter.com/U8DnDYitFY",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226431768552562688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226431739012059100,
+					"id_str": "1226431739012059136",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUpKzEUEAAsdO5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUpKzEUEAAsdO5.jpg",
+					"url": "https://t.co/U8DnDYitFY",
+					"display_url": "pic.twitter.com/U8DnDYitFY",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226431768552562688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2272195,
+			"friends_count": 2,
+			"listed_count": 6606,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11553,
+		"favorite_count": 19315,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💜TROLLS WORLD TOUR x Red Velvet💜\n\n📽In theaters April 2020\n\n#YERI #예리 #RedVelvet #레드벨벳 #Trolls #TrollsWorldTour @trolls https://t.co/U8DnDYitFY"
+	},
+	{
+		"created_at": "Sun Feb 09 09:40:52 +0000 2020",
+		"id": 1226431600142848000,
+		"id_str": "1226440822427660288",
+		"full_text": "💚TROLLS WORLD TOUR x Red Velvet💚\n\n📽In theaters April 2020\n\n#JOY #조이 #RedVelvet #레드벨벳 #Trolls #TrollsWorldTour @trolls https://t.co/u4BHKXIwy1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "TrollsWorldTour",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Trolls",
+					"name": "DreamWorks Trolls",
+					"id": 4579155913,
+					"id_str": "4579155913",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226431575635611600,
+					"id_str": "1226431575635611651",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUpBScVUAM6S0m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUpBScVUAM6S0m.jpg",
+					"url": "https://t.co/u4BHKXIwy1",
+					"display_url": "pic.twitter.com/u4BHKXIwy1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226431600142848000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226431575635611600,
+					"id_str": "1226431575635611651",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUpBScVUAM6S0m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUpBScVUAM6S0m.jpg",
+					"url": "https://t.co/u4BHKXIwy1",
+					"display_url": "pic.twitter.com/u4BHKXIwy1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226431600142848000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2272195,
+			"friends_count": 2,
+			"listed_count": 6606,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11232,
+		"favorite_count": 17899,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💚TROLLS WORLD TOUR x Red Velvet💚\n\n📽In theaters April 2020\n\n#JOY #조이 #RedVelvet #레드벨벳 #Trolls #TrollsWorldTour @trolls https://t.co/u4BHKXIwy1"
+	},
+	{
+		"created_at": "Sun Feb 09 09:40:50 +0000 2020",
+		"id": 1226431437492015000,
+		"id_str": "1226440813414158341",
+		"full_text": "💙TROLLS WORLD TOUR x Red Velvet💙\n\n📽In theaters April 2020\n\n#WENDY #웬디 #RedVelvet #레드벨벳 #Trolls #TrollsWorldTour @trolls https://t.co/XfhC8VyIgT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WENDY",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "TrollsWorldTour",
+					"indices": [
+						95,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Trolls",
+					"name": "DreamWorks Trolls",
+					"id": 4579155913,
+					"id_str": "4579155913",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226431412053504000,
+					"id_str": "1226431412053504001",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUo3xDUcAEiCG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUo3xDUcAEiCG1.jpg",
+					"url": "https://t.co/XfhC8VyIgT",
+					"display_url": "pic.twitter.com/XfhC8VyIgT",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226431437492015104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226431412053504000,
+					"id_str": "1226431412053504001",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUo3xDUcAEiCG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUo3xDUcAEiCG1.jpg",
+					"url": "https://t.co/XfhC8VyIgT",
+					"display_url": "pic.twitter.com/XfhC8VyIgT",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226431437492015104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2272195,
+			"friends_count": 2,
+			"listed_count": 6606,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12050,
+		"favorite_count": 19098,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💙TROLLS WORLD TOUR x Red Velvet💙\n\n📽In theaters April 2020\n\n#WENDY #웬디 #RedVelvet #레드벨벳 #Trolls #TrollsWorldTour @trolls https://t.co/XfhC8VyIgT"
+	},
+	{
+		"created_at": "Sun Feb 09 09:40:46 +0000 2020",
+		"id": 1226431210995376000,
+		"id_str": "1226440795919716355",
+		"full_text": "💛TROLLS WORLD TOUR x Red Velvet💛\n\n📽In theaters April 2020\n\n#SEULGI #슬기 #RedVelvet #레드벨벳 #Trolls #TrollsWorldTour @trolls https://t.co/T9pM7I7Ixn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEULGI",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "TrollsWorldTour",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Trolls",
+					"name": "DreamWorks Trolls",
+					"id": 4579155913,
+					"id_str": "4579155913",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226431186261594000,
+					"id_str": "1226431186261594112",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUoqn6VUAAE9GW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUoqn6VUAAE9GW.jpg",
+					"url": "https://t.co/T9pM7I7Ixn",
+					"display_url": "pic.twitter.com/T9pM7I7Ixn",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226431210995376128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226431186261594000,
+					"id_str": "1226431186261594112",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUoqn6VUAAE9GW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUoqn6VUAAE9GW.jpg",
+					"url": "https://t.co/T9pM7I7Ixn",
+					"display_url": "pic.twitter.com/T9pM7I7Ixn",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226431210995376128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2272195,
+			"friends_count": 2,
+			"listed_count": 6606,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11954,
+		"favorite_count": 19748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💛TROLLS WORLD TOUR x Red Velvet💛\n\n📽In theaters April 2020\n\n#SEULGI #슬기 #RedVelvet #레드벨벳 #Trolls #TrollsWorldTour @trolls https://t.co/T9pM7I7Ixn"
+	},
+	{
+		"created_at": "Sun Feb 09 09:40:43 +0000 2020",
+		"id": 1226430689253314600,
+		"id_str": "1226440782749556736",
+		"full_text": "GUEST | #이달의소녀 @loonatheworld \n\n🔥Burn yourself🔥\n각이 선다.. 각이 서...\n입덕각이 날카롭게 서네요..📐\n\n❗2/10(월) 저녁 8시, 뮤플리 유튜브에서 만나요❗️\n\nKPOP을 더 즐겁게! #뮤플리 구독하기▼\nhttps://t.co/NUdrTkaZSM\n\n#LOONA #LOOΠΔ #SoWhat #이달소 #낰낰낰 #3knock https://t.co/qZ4q2kewcb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "뮤플리",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "LOOΠΔ",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "낰낰낰",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "3knock",
+					"indices": [
+						196,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NUdrTkaZSM",
+					"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+					"display_url": "youtube.com/channel/UC9LcN…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226430611700629500,
+					"id_str": "1226430611700629504",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226430611700629504/pu/img/OBvQsdSOzgvkjp50.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226430611700629504/pu/img/OBvQsdSOzgvkjp50.jpg",
+					"url": "https://t.co/qZ4q2kewcb",
+					"display_url": "pic.twitter.com/qZ4q2kewcb",
+					"expanded_url": "https://twitter.com/MuFully/status/1226430689253314562/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226430611700629500,
+					"id_str": "1226430611700629504",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226430611700629504/pu/img/OBvQsdSOzgvkjp50.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226430611700629504/pu/img/OBvQsdSOzgvkjp50.jpg",
+					"url": "https://t.co/qZ4q2kewcb",
+					"display_url": "pic.twitter.com/qZ4q2kewcb",
+					"expanded_url": "https://twitter.com/MuFully/status/1226430689253314562/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28907,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226430611700629504/pu/vid/480x270/NZ-GCYZ2Jw0yQRRk.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226430611700629504/pu/vid/640x360/WApMRSd7LxfnPpPE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1226430611700629504/pu/pl/tjBlG9yJb42DLn_j.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226430611700629504/pu/vid/1280x720/LGvzYOBdHF5cSwgZ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "mu:fully (뮤플리)",
+			"screen_name": "MuFully",
+			"location": "",
+			"description": "KPOP을 더 즐겁게! 풀 영상은 아래 링크 클릭!👇",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7049,
+			"friends_count": 28,
+			"listed_count": 13,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1554104902",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2676,
+		"favorite_count": 4367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "GUEST | #이달의소녀 @loonatheworld \n\n🔥Burn yourself🔥\n각이 선다.. 각이 서...\n입덕각이 날카롭게 서네요..📐\n\n❗2/10(월) 저녁 8시, 뮤플리 유튜브에서 만나요❗️\n\nKPOP을 더 즐겁게! #뮤플리 구독하기▼\nhttps://t.co/NUdrTkaZSM\n\n#LOONA #LOOΠΔ #SoWhat #이달소 #낰낰낰 #3knock https://t.co/qZ4q2kewcb"
+	},
+	{
 		"created_at": "Sun Feb 09 08:40:38 +0000 2020",
 		"id": 1226420666963910700,
 		"id_str": "1226425660983345154",
