@@ -1,6 +1,1556 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 07:53:32 +0000 2020",
+		"id": 1224155292512006100,
+		"id_str": "1226413808718999552",
+		"full_text": "스켈터랩스 AI 챗봇 솔루션, 롯데쇼핑 표준 엔진 채택 - 벤처스퀘어\n#스켈터랩스 #뉴스 https://t.co/q1GiGbZOds https://t.co/ttZR57qzqn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스켈터랩스",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "뉴스",
+					"indices": [
+						46,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q1GiGbZOds",
+					"expanded_url": "https://www.venturesquare.net/801606",
+					"display_url": "venturesquare.net/801606",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224155290637041700,
+					"id_str": "1224155290637041664",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EP0SwEBWAAAJGuv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP0SwEBWAAAJGuv.png",
+					"url": "https://t.co/ttZR57qzqn",
+					"display_url": "pic.twitter.com/ttZR57qzqn",
+					"expanded_url": "https://twitter.com/VentureSquare/status/1224155292512006146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224155290637041700,
+					"id_str": "1224155290637041664",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EP0SwEBWAAAJGuv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP0SwEBWAAAJGuv.png",
+					"url": "https://t.co/ttZR57qzqn",
+					"display_url": "pic.twitter.com/ttZR57qzqn",
+					"expanded_url": "https://twitter.com/VentureSquare/status/1224155292512006146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109783731,
+			"id_str": "109783731",
+			"name": "VentureSquare",
+			"screen_name": "VentureSquare",
+			"location": "서울 강남구",
+			"description": "::벤처스퀘어 공식 트위터:: 벤처기업 (스타트업)과 기업가들을 위한 벤처전문 온라인 미디어입니다. 국내외의 다양한 스타트업과 관련 인물을 소개하고 비즈니스 트렌드, 경영, 마케팅, 투자, 기술 등 비즈니스 전반에 걸친 내용을 전달합니다.",
+			"url": "http://t.co/Sv72C5q8FI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Sv72C5q8FI",
+							"expanded_url": "http://www.venturesquare.net",
+							"display_url": "venturesquare.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6512,
+			"friends_count": 297,
+			"listed_count": 348,
+			"created_at": "Sat Jan 30 07:12:31 +0000 2010",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109783731/1451867938",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스켈터랩스 AI 챗봇 솔루션, 롯데쇼핑 표준 엔진 채택 - 벤처스퀘어\n#스켈터랩스 #뉴스 https://t.co/q1GiGbZOds https://t.co/ttZR57qzqn"
+	},
+	{
+		"created_at": "Sun Feb 09 07:17:45 +0000 2020",
+		"id": 1226404803288293400,
+		"id_str": "1226404803288293376",
+		"full_text": "@simdyang 캡션형태로 VCR에 일부 달아주는 건 봤는데 전체로는 드문 일이라서 신기하네요. 통역으로도 해줬나요?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simdyang",
+					"name": "심댱😷",
+					"id": 714336278079086600,
+					"id_str": "714336278079086592",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1226404322113544200,
+		"in_reply_to_status_id_str": "1226404322113544192",
+		"in_reply_to_user_id": 714336278079086600,
+		"in_reply_to_user_id_str": "714336278079086592",
+		"in_reply_to_screen_name": "simdyang",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@simdyang 캡션형태로 VCR에 일부 달아주는 건 봤는데 전체로는 드문 일이라서 신기하네요. 통역으로도 해줬나요?"
+	},
+	{
+		"created_at": "Sun Feb 09 07:15:18 +0000 2020",
+		"id": 1226309797668171800,
+		"id_str": "1226404189632249856",
+		"full_text": ".@BTS_twt broke a record on the @billboardcharts, @katyperry was revealed as the No. 8 artist of the 2010s &amp; more: Here are 13 of the best things that happened in music this week https://t.co/kham27MYAu https://t.co/BrO82abPTw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"screen_name": "billboardcharts",
+					"name": "Billboard Charts",
+					"id": 1022239538629029900,
+					"id_str": "1022239538629029888",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"screen_name": "katyperry",
+					"name": "KATY PERRY",
+					"id": 21447363,
+					"id_str": "21447363",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kham27MYAu",
+					"expanded_url": "http://blbrd.cm/U5qk1L3",
+					"display_url": "blbrd.cm/U5qk1L3",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226309794065027000,
+					"id_str": "1226309794065027073",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EQS6QqvUEAEPGQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQS6QqvUEAEPGQZ.jpg",
+					"url": "https://t.co/BrO82abPTw",
+					"display_url": "pic.twitter.com/BrO82abPTw",
+					"expanded_url": "https://twitter.com/billboard/status/1226309797668171776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226309794065027000,
+					"id_str": "1226309794065027073",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EQS6QqvUEAEPGQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQS6QqvUEAEPGQZ.jpg",
+					"url": "https://t.co/BrO82abPTw",
+					"display_url": "pic.twitter.com/BrO82abPTw",
+					"expanded_url": "https://twitter.com/billboard/status/1226309797668171776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226309796124668000,
+					"id_str": "1226309796124667904",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EQS6QyaXsAAWsiK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQS6QyaXsAAWsiK.jpg",
+					"url": "https://t.co/BrO82abPTw",
+					"display_url": "pic.twitter.com/BrO82abPTw",
+					"expanded_url": "https://twitter.com/billboard/status/1226309797668171776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8279845,
+			"friends_count": 3187,
+			"listed_count": 25622,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 241839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1580396591",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1753,
+		"favorite_count": 9130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@BTS_twt broke a record on the @billboardcharts, @katyperry was revealed as the No. 8 artist of the 2010s &amp; more: Here are 13 of the best things that happened in music this week https://t.co/kham27MYAu https://t.co/BrO82abPTw"
+	},
+	{
+		"created_at": "Sun Feb 09 07:14:52 +0000 2020",
+		"id": 1226147300386304000,
+		"id_str": "1226404077862440963",
+		"full_text": "가톨릭국가 크로아티아서 \"동성커플 양육권 인정\" 헌재 결정\n\n\"헌재가 정치인도 수년간 하지 못한 일을 해냈다\"\nhttps://t.co/PFW490vDDN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFW490vDDN",
+					"expanded_url": "http://yna.kr/AKR20200208050200109?input=tw",
+					"display_url": "yna.kr/AKR20200208050…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835741294798368800,
+			"id_str": "835741294798368769",
+			"name": "입헌민주당원 나보코프",
+			"screen_name": "jongwon1917",
+			"location": "東京都千代田区",
+			"description": "Умение и труд на благо Родине",
+			"url": "https://t.co/ibqjGURuYe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ibqjGURuYe",
+							"expanded_url": "https://cdp-japan.jp/",
+							"display_url": "cdp-japan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3181,
+			"friends_count": 1261,
+			"listed_count": 45,
+			"created_at": "Sun Feb 26 06:40:26 +0000 2017",
+			"favourites_count": 73023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835741294798368769/1525438850",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 390,
+		"favorite_count": 236,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가톨릭국가 크로아티아서 \"동성커플 양육권 인정\" 헌재 결정\n\n\"헌재가 정치인도 수년간 하지 못한 일을 해냈다\"\nhttps://t.co/PFW490vDDN"
+	},
+	{
+		"created_at": "Sun Feb 09 07:14:19 +0000 2020",
+		"id": 1226403941627248600,
+		"id_str": "1226403941627248640",
+		"full_text": "@simdyang 국내콘에 영어 자막 달아준거에요?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simdyang",
+					"name": "심댱😷",
+					"id": 714336278079086600,
+					"id_str": "714336278079086592",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1226388976686092300,
+		"in_reply_to_status_id_str": "1226388976686092290",
+		"in_reply_to_user_id": 714336278079086600,
+		"in_reply_to_user_id_str": "714336278079086592",
+		"in_reply_to_screen_name": "simdyang",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@simdyang 국내콘에 영어 자막 달아준거에요?"
+	},
+	{
+		"created_at": "Sun Feb 09 07:14:00 +0000 2020",
+		"id": 1226389063118155800,
+		"id_str": "1226403860098338818",
+		"full_text": "[Official Audio] 시와 (Siwa) - 나를 찾으려 했던 건 (Hovering Seeker) https://t.co/bhdyl5InqR\n\nmusic / words 시와\narrangement 레인보우99\n\nrecording / mixing 이승환 Soop Records\nmastering 강승희 Sonic Korea Seoul forest\nartwork 이아립\n\nall instruments / programming 레인보우99",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bhdyl5InqR",
+					"expanded_url": "https://youtu.be/BkNXQx6sc0U",
+					"display_url": "youtu.be/BkNXQx6sc0U",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116421374,
+			"id_str": "116421374",
+			"name": "시와 🏳️‍🌈",
+			"screen_name": "withsiwa",
+			"location": "우리집",
+			"description": "4집 ‘다녀왔습니다’ 디지털싱글이 두달에 한곡씩 나오고있지요 그런데 섭외는 withsiwa@hanmail.net",
+			"url": "https://t.co/VlYZXa9Sf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VlYZXa9Sf7",
+							"expanded_url": "http://linktr.ee/withsiwa",
+							"display_url": "linktr.ee/withsiwa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8676,
+			"friends_count": 428,
+			"listed_count": 349,
+			"created_at": "Mon Feb 22 11:29:47 +0000 2010",
+			"favourites_count": 1606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930242998444572672/hfM41xrE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930242998444572672/hfM41xrE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116421374/1495071753",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Official Audio] 시와 (Siwa) - 나를 찾으려 했던 건 (Hovering Seeker) https://t.co/bhdyl5InqR\n\nmusic / words 시와\narrangement 레인보우99\n\nrecording / mixing 이승환 Soop Records\nmastering 강승희 Sonic Korea Seoul forest\nartwork 이아립\n\nall instruments / programming 레인보우99"
+	},
+	{
+		"created_at": "Sun Feb 09 07:13:56 +0000 2020",
+		"id": 1226398294362009600,
+		"id_str": "1226403845493817346",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 시와 (Siwa) - 나를 찾으려 했던 건 (Hovering Seeker)\"Everyday SAE GAYO\"\nhttps://t.co/o6L2lqfWyZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o6L2lqfWyZ",
+					"expanded_url": "https://youtu.be/BkNXQx6sc0U",
+					"display_url": "youtu.be/BkNXQx6sc0U",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 시와 (Siwa) - 나를 찾으려 했던 건 (Hovering Seeker)\"Everyday SAE GAYO\"\nhttps://t.co/o6L2lqfWyZ"
+	},
+	{
+		"created_at": "Sun Feb 09 07:13:26 +0000 2020",
+		"id": 1226372981032505300,
+		"id_str": "1226403719496945665",
+		"full_text": "📹 2020 HAPPY CHUNGHA DAY (청하 생일 축하 영상)\n\n▶️ https://t.co/owvt1uRt7E\n✌🏻 https://t.co/8O0qbJwGZS\n\n#청하 #CHUNGHA\n#청하DAY 💚💙💜\n#HAPPYCHUNGHADAY\n#청하야_생일축하해_언제나_별랑해 https://t.co/XLuEc3HXb3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "청하DAY",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "HAPPYCHUNGHADAY",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "청하야_생일축하해_언제나_별랑해",
+					"indices": [
+						136,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/owvt1uRt7E",
+					"expanded_url": "https://bit.ly/3bokHQ8",
+					"display_url": "bit.ly/3bokHQ8",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/8O0qbJwGZS",
+					"expanded_url": "https://bit.ly/2UDfFJu",
+					"display_url": "bit.ly/2UDfFJu",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226372491267862500,
+					"id_str": "1226372491267862530",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226372491267862530/pu/img/Z44hzGGb85Lh-vus.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226372491267862530/pu/img/Z44hzGGb85Lh-vus.jpg",
+					"url": "https://t.co/XLuEc3HXb3",
+					"display_url": "pic.twitter.com/XLuEc3HXb3",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1226372981032505344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226372491267862500,
+					"id_str": "1226372491267862530",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226372491267862530/pu/img/Z44hzGGb85Lh-vus.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226372491267862530/pu/img/Z44hzGGb85Lh-vus.jpg",
+					"url": "https://t.co/XLuEc3HXb3",
+					"display_url": "pic.twitter.com/XLuEc3HXb3",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1226372981032505344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 66366,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226372491267862530/pu/vid/640x360/1AmFxU9yq-yjJMWG.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226372491267862530/pu/vid/1280x720/uFIsBsfunB3K62-y.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226372491267862530/pu/vid/480x270/F0GZgeQhITeeKkNZ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1226372491267862530/pu/pl/Y_XIy5eFnq2-v3hi.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216878,
+			"friends_count": 0,
+			"listed_count": 1644,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1261,
+		"favorite_count": 4194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📹 2020 HAPPY CHUNGHA DAY (청하 생일 축하 영상)\n\n▶️ https://t.co/owvt1uRt7E\n✌🏻 https://t.co/8O0qbJwGZS\n\n#청하 #CHUNGHA\n#청하DAY 💚💙💜\n#HAPPYCHUNGHADAY\n#청하야_생일축하해_언제나_별랑해 https://t.co/XLuEc3HXb3"
+	},
+	{
+		"created_at": "Sun Feb 09 07:11:35 +0000 2020",
+		"id": 1226394427666686000,
+		"id_str": "1226403250565345280",
+		"full_text": "혹시 못들어보셨다면 일론 머스크의 8번째 싱글이자 1주일도 안된 기간동안 260만번 이상 스트리밍 된 사운드클라우드 탑 10곡이자 EDM 곡인 \"Don't Doubt ur Vibe\"을 들어보세요. 예상보단 나쁘지 않은걸요? https://t.co/PR31CVtMNu https://t.co/o3sXemKfyC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PR31CVtMNu",
+					"expanded_url": "https://soundcloud.com/user-209448905/dont-doubt-ur-vibe",
+					"display_url": "soundcloud.com/user-209448905…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226394426395762700,
+					"id_str": "1226394426395762688",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUHO6vWoAAomBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUHO6vWoAAomBt.jpg",
+					"url": "https://t.co/o3sXemKfyC",
+					"display_url": "pic.twitter.com/o3sXemKfyC",
+					"expanded_url": "https://twitter.com/minist/status/1226394427666685953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226394426395762700,
+					"id_str": "1226394426395762688",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUHO6vWoAAomBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUHO6vWoAAomBt.jpg",
+					"url": "https://t.co/o3sXemKfyC",
+					"display_url": "pic.twitter.com/o3sXemKfyC",
+					"expanded_url": "https://twitter.com/minist/status/1226394427666685953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "스타트업 WizeIoT / 전 블루홀 / 전 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64860,
+			"friends_count": 717,
+			"listed_count": 931,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혹시 못들어보셨다면 일론 머스크의 8번째 싱글이자 1주일도 안된 기간동안 260만번 이상 스트리밍 된 사운드클라우드 탑 10곡이자 EDM 곡인 \"Don't Doubt ur Vibe\"을 들어보세요. 예상보단 나쁘지 않은걸요? https://t.co/PR31CVtMNu https://t.co/o3sXemKfyC"
+	},
+	{
+		"created_at": "Sun Feb 09 07:11:27 +0000 2020",
+		"id": 1226382901442269200,
+		"id_str": "1226403220597006336",
+		"full_text": "https://t.co/3diZnT7w5e - CLI부터 다양한 도구들에 대한 치트시트 모음 https://t.co/5ilWEIotoy\n- 웹사이트,curl,자체 CLI 도구 지원\n- 어려운 man/help 대신 사용자들이 작성한 쉬운 설명\n- 56개 프로그래밍 언어,다양한 DB, 1000개 이상의 Unix/Linux 커맨드\n- VSCode,Vim,IntelliJ등 에디터지원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3diZnT7w5e",
+					"expanded_url": "http://Cheat.Sh",
+					"display_url": "Cheat.Sh",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/5ilWEIotoy",
+					"expanded_url": "https://j.mp/39mzIjo",
+					"display_url": "j.mp/39mzIjo",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2170,
+			"friends_count": 0,
+			"listed_count": 38,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/3diZnT7w5e - CLI부터 다양한 도구들에 대한 치트시트 모음 https://t.co/5ilWEIotoy\n- 웹사이트,curl,자체 CLI 도구 지원\n- 어려운 man/help 대신 사용자들이 작성한 쉬운 설명\n- 56개 프로그래밍 언어,다양한 DB, 1000개 이상의 Unix/Linux 커맨드\n- VSCode,Vim,IntelliJ등 에디터지원"
+	},
+	{
 		"created_at": "Sun Feb 09 06:40:37 +0000 2020",
 		"id": 1226392852801810400,
 		"id_str": "1226395460321075200",
