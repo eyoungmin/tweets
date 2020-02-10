@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 00:40:38 +0000 2020",
+		"id": 1226652728018882600,
+		"id_str": "1226667252533153793",
+		"full_text": "#레드벨벳, 드림웍스 애니메이션 ‘#트롤’ 목소리 연기+가창 참여! K-POP 대표로 캐스팅! \n레드벨벳이 트롤 왕국에서 벌어지는 버라이어티한 뮤직 배틀을 그린 4월 개봉 애니메이션 ‘트롤: 월드 투어’에서 ‘K-POP 트롤’ 역할을 맡아 목소리 연기와 가창으로 참여해 전 세계 관객들을 만날 예정입니다! https://t.co/L5D1nHx0G8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "트롤",
+					"indices": [
+						19,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226652703301886000,
+					"id_str": "1226652703301885952",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EQXyInMU4AAfxJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQXyInMU4AAfxJ3.jpg",
+					"url": "https://t.co/L5D1nHx0G8",
+					"display_url": "pic.twitter.com/L5D1nHx0G8",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226652728018882560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226652703301886000,
+					"id_str": "1226652703301885952",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EQXyInMU4AAfxJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQXyInMU4AAfxJ3.jpg",
+					"url": "https://t.co/L5D1nHx0G8",
+					"display_url": "pic.twitter.com/L5D1nHx0G8",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226652728018882560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226652715100491800,
+					"id_str": "1226652715100491776",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EQXyJTJVUAA6TKE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQXyJTJVUAA6TKE.jpg",
+					"url": "https://t.co/L5D1nHx0G8",
+					"display_url": "pic.twitter.com/L5D1nHx0G8",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1226652728018882560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 242,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 728,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2276142,
+			"friends_count": 2,
+			"listed_count": 6622,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7096,
+		"favorite_count": 18861,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳, 드림웍스 애니메이션 ‘#트롤’ 목소리 연기+가창 참여! K-POP 대표로 캐스팅! \n레드벨벳이 트롤 왕국에서 벌어지는 버라이어티한 뮤직 배틀을 그린 4월 개봉 애니메이션 ‘트롤: 월드 투어’에서 ‘K-POP 트롤’ 역할을 맡아 목소리 연기와 가창으로 참여해 전 세계 관객들을 만날 예정입니다! https://t.co/L5D1nHx0G8"
+	},
+	{
 		"created_at": "Sun Feb 09 15:40:37 +0000 2020",
 		"id": 1226521211565265000,
 		"id_str": "1226531356592791552",
