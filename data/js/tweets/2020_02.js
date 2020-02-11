@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 04:50:36 +0000 2020",
+		"id": 1226680447448408000,
+		"id_str": "1227092548465786881",
+		"full_text": "포트먼이 여성감독에 스포트라이트를 비추는 방식. 나탈리 포트먼이 오늘 입은 디올 케이프에는 멋진 영화를 만들고도 92회 오스카 후보에 들지 못한 여성 감독들의 이름이 수놓였다고한다. 로렌스 카파리아,룰루 왕,그레타 거윅,마리엘 헬러, 멜리나 마츠오카, 알마 하렐, 셀린 시아마, 마티 디오프. https://t.co/xhPXSLTCgd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226680441760964600,
+					"id_str": "1226680441760964608",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EQYLXNAU4AAo85W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQYLXNAU4AAo85W.jpg",
+					"url": "https://t.co/xhPXSLTCgd",
+					"display_url": "pic.twitter.com/xhPXSLTCgd",
+					"expanded_url": "https://twitter.com/AllegRory/status/1226680447448408064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 618,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 618,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 618,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226680441760964600,
+					"id_str": "1226680441760964608",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EQYLXNAU4AAo85W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQYLXNAU4AAo85W.jpg",
+					"url": "https://t.co/xhPXSLTCgd",
+					"display_url": "pic.twitter.com/xhPXSLTCgd",
+					"expanded_url": "https://twitter.com/AllegRory/status/1226680447448408064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 618,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 618,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 618,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226680444998975500,
+					"id_str": "1226680444998975489",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EQYLXZEVAAEUIU1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQYLXZEVAAEUIU1.jpg",
+					"url": "https://t.co/xhPXSLTCgd",
+					"display_url": "pic.twitter.com/xhPXSLTCgd",
+					"expanded_url": "https://twitter.com/AllegRory/status/1226680447448408064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 728,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 728,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.jstwi.com/kurotwi/\" rel=\"nofollow\">KuroTwi</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 218687934,
+			"id_str": "218687934",
+			"name": "안젤리나팡인 röry🎮",
+			"screen_name": "AllegRory",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1338,
+			"friends_count": 386,
+			"listed_count": 38,
+			"created_at": "Tue Nov 23 00:35:58 +0000 2010",
+			"favourites_count": 11016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 102481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984716014439944193/33fSpjRw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984716014439944193/33fSpjRw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/218687934/1517465887",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9447,
+		"favorite_count": 4930,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포트먼이 여성감독에 스포트라이트를 비추는 방식. 나탈리 포트먼이 오늘 입은 디올 케이프에는 멋진 영화를 만들고도 92회 오스카 후보에 들지 못한 여성 감독들의 이름이 수놓였다고한다. 로렌스 카파리아,룰루 왕,그레타 거윅,마리엘 헬러, 멜리나 마츠오카, 알마 하렐, 셀린 시아마, 마티 디오프. https://t.co/xhPXSLTCgd"
+	},
+	{
+		"created_at": "Tue Feb 11 04:50:23 +0000 2020",
+		"id": 1227092492023148500,
+		"id_str": "1227092492023148545",
+		"full_text": "#펫셔니스타 #탱구\n[펫셔니스타 탱구┃Petionista Taengoo] EP. 19 세상에 제로만 한 개는 없다 (Drawing Our Moments)\nhttps://t.co/TaCQsUDAC4\n#태연 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TaCQsUDAC4",
+					"expanded_url": "http://www.vlive.tv/video/174454",
+					"display_url": "vlive.tv/video/174454",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#펫셔니스타 #탱구\n[펫셔니스타 탱구┃Petionista Taengoo] EP. 19 세상에 제로만 한 개는 없다 (Drawing Our Moments)\nhttps://t.co/TaCQsUDAC4\n#태연 #TAEYEON"
+	},
+	{
 		"created_at": "Tue Feb 11 03:41:00 +0000 2020",
 		"id": 1227074509934485500,
 		"id_str": "1227075032112943104",
