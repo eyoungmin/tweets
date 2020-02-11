@@ -1,6 +1,2744 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 12:55:34 +0000 2020",
+		"id": 1227014381810016300,
+		"id_str": "1227214595460231168",
+		"full_text": "CJ가 기생충의 오스카 프로모션을 위해 100억을 썼다고 알려진 가운데, 넷플릭스는 이번에 1억불 이상을 지출했다는 기사. 기존 제작사에겐 영화제가 상영 끝난 뒤 발생하는 추가비용인데 반해 넷플릭스는 계속 스트리밍 중이라 영화제 수상이 좋은 마케팅 수단이라고.  https://t.co/kGZl0LfyJQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kGZl0LfyJQ",
+					"expanded_url": "https://www.wsj.com/articles/netflix-spends-big-for-oscarswill-hollywood-give-in-11580817602",
+					"display_url": "wsj.com/articles/netfl…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47555211,
+			"id_str": "47555211",
+			"name": "강대권",
+			"screen_name": "kangdk",
+			"location": "Seoul",
+			"description": "Portfolio Manager / Valuation Professional / Liberal / Tech geek",
+			"url": "http://t.co/mcmEnACgsk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mcmEnACgsk",
+							"expanded_url": "http://kang.dk",
+							"display_url": "kang.dk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4467,
+			"friends_count": 179,
+			"listed_count": 196,
+			"created_at": "Tue Jun 16 05:49:11 +0000 2009",
+			"favourites_count": 671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3325879887/0c49c2ad92b21a5931d978caac49a1bb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3325879887/0c49c2ad92b21a5931d978caac49a1bb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47555211/1580946033",
+			"profile_link_color": "248DD4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CJ가 기생충의 오스카 프로모션을 위해 100억을 썼다고 알려진 가운데, 넷플릭스는 이번에 1억불 이상을 지출했다는 기사. 기존 제작사에겐 영화제가 상영 끝난 뒤 발생하는 추가비용인데 반해 넷플릭스는 계속 스트리밍 중이라 영화제 수상이 좋은 마케팅 수단이라고.  https://t.co/kGZl0LfyJQ"
+	},
+	{
+		"created_at": "Tue Feb 11 12:53:39 +0000 2020",
+		"id": 1227171964583702500,
+		"id_str": "1227214112033140736",
+		"full_text": "오빛들이 기다렸던 #내돌의온도차 교복 VER. 공개합니다🏫  고딩 바이브 + 비글미 터지는 So What! 😉 여기 어느 학교에요 저 전학 가고 싶은데요... #이달의소녀 #LOONA #GAPCRUSH @loonatheworld https://t.co/2QYetp6FEF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "내돌의온도차",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "GAPCRUSH",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						113,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227047838099460000,
+					"id_str": "1227047838099460096",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227047838099460096/img/Rye8FijWTgmEKASj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227047838099460096/img/Rye8FijWTgmEKASj.jpg",
+					"url": "https://t.co/2QYetp6FEF",
+					"display_url": "pic.twitter.com/2QYetp6FEF",
+					"expanded_url": "https://twitter.com/1theK/status/1227171964583702530/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227047838099460000,
+					"id_str": "1227047838099460096",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227047838099460096/img/Rye8FijWTgmEKASj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227047838099460096/img/Rye8FijWTgmEKASj.jpg",
+					"url": "https://t.co/2QYetp6FEF",
+					"display_url": "pic.twitter.com/2QYetp6FEF",
+					"expanded_url": "https://twitter.com/1theK/status/1227171964583702530/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 199083,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1227047838099460096/pl/VaYm72NdDF5mWrwU.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227047838099460096/vid/720x1280/kjfYHwQYDMA8aJch.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227047838099460096/vid/360x640/unGFSqlKcZD_sXY3.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227047838099460096/vid/320x568/xA7R_27i772xf_MF.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[내돌의 온도차(GAP CRUSH)] 이달의 소녀 - So What (미공개 교복 ver.)",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/4DpmL8XPM0o"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1830468,
+			"friends_count": 807,
+			"listed_count": 2761,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1696,
+		"favorite_count": 2935,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛들이 기다렸던 #내돌의온도차 교복 VER. 공개합니다🏫  고딩 바이브 + 비글미 터지는 So What! 😉 여기 어느 학교에요 저 전학 가고 싶은데요... #이달의소녀 #LOONA #GAPCRUSH @loonatheworld https://t.co/2QYetp6FEF"
+	},
+	{
+		"created_at": "Tue Feb 11 12:53:25 +0000 2020",
+		"id": 1226935893706956800,
+		"id_str": "1227214054889930752",
+		"full_text": "팀에 동기부여할 수 있는 칭찬에 대한 글인데 첫번째 나오는 \"이거 정말 멋진데! 도대체 어떻게 한 건지 말해줄 수 있어?\"를 읽자마자 바로 대공감. 일 뒤에 가려져있는 부분까지 경의를 나타냄으로써 결과만이 아니라 그것을 만들어낸 사람에게까지 존경을 표현한 것이 된다. https://t.co/pwAXQJ1kS7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pwAXQJ1kS7",
+					"expanded_url": "https://hbr.org/2018/07/what-not-to-do-when-youre-trying-to-motivate-your-team",
+					"display_url": "hbr.org/2018/07/what-n…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21543300,
+			"id_str": "21543300",
+			"name": "Park Sehwan",
+			"screen_name": "bluepygmi",
+			"location": "seoul",
+			"description": "Durango Game Designer, MapleStory 2, Baseball 630, Treasure Director, Alicia Director, Fox Producer, Pangya, Whiteday",
+			"url": "https://t.co/tdO0IbfbaA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tdO0IbfbaA",
+							"expanded_url": "http://www.nexon.com",
+							"display_url": "nexon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1908,
+			"friends_count": 652,
+			"listed_count": 52,
+			"created_at": "Sun Feb 22 03:53:54 +0000 2009",
+			"favourites_count": 730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980612578731728897/TL2ap1uc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980612578731728897/TL2ap1uc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21543300/1402884387",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팀에 동기부여할 수 있는 칭찬에 대한 글인데 첫번째 나오는 \"이거 정말 멋진데! 도대체 어떻게 한 건지 말해줄 수 있어?\"를 읽자마자 바로 대공감. 일 뒤에 가려져있는 부분까지 경의를 나타냄으로써 결과만이 아니라 그것을 만들어낸 사람에게까지 존경을 표현한 것이 된다. https://t.co/pwAXQJ1kS7"
+	},
+	{
+		"created_at": "Tue Feb 11 12:51:28 +0000 2020",
+		"id": 1227161870106161200,
+		"id_str": "1227213564579962880",
+		"full_text": "오스카 4관왕 ‘기생충’, 트윗 160만건 터졌다 https://t.co/tQ99WROw0W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tQ99WROw0W",
+					"expanded_url": "http://www.bloter.net/archives/370716",
+					"display_url": "bloter.net/archives/370716",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56077,
+			"friends_count": 9,
+			"listed_count": 2521,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오스카 4관왕 ‘기생충’, 트윗 160만건 터졌다 https://t.co/tQ99WROw0W"
+	},
+	{
+		"created_at": "Tue Feb 11 12:47:06 +0000 2020",
+		"id": 1227159871365107700,
+		"id_str": "1227212465231949824",
+		"full_text": "이제 제가 선택한 가족과 살아간다는 것은 어떤 일인지 해보겠습니다. 뛰어들지 않았다면 몰랐을 싸움들을 잘 치르고 그 이상의 온기와 유대를 나누고 살게요. 음악도 잘하고 사회생활도 잘하는 반려인간과, 아직도 저에게 적응 중인 반려묘와, 기다리되 타협하지 않고 한 집에서 살아보겠습니다. https://t.co/fcb53iZ5Jv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227159864654217200,
+					"id_str": "1227159864654217218",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe_ZSdUwAIBgJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe_ZSdUwAIBgJN.jpg",
+					"url": "https://t.co/fcb53iZ5Jv",
+					"display_url": "pic.twitter.com/fcb53iZ5Jv",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159871365107713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227159864654217200,
+					"id_str": "1227159864654217218",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe_ZSdUwAIBgJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe_ZSdUwAIBgJN.jpg",
+					"url": "https://t.co/fcb53iZ5Jv",
+					"display_url": "pic.twitter.com/fcb53iZ5Jv",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159871365107713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227159864620675000,
+					"id_str": "1227159864620675072",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe_ZSVU8AAVm9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe_ZSVU8AAVm9B.jpg",
+					"url": "https://t.co/fcb53iZ5Jv",
+					"display_url": "pic.twitter.com/fcb53iZ5Jv",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159871365107713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227159864608059400,
+					"id_str": "1227159864608059392",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe_ZSSUcAAUchT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe_ZSSUcAAUchT.jpg",
+					"url": "https://t.co/fcb53iZ5Jv",
+					"display_url": "pic.twitter.com/fcb53iZ5Jv",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159871365107713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227159864650039300,
+					"id_str": "1227159864650039296",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe_ZScVAAAnyYL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe_ZScVAAAnyYL.jpg",
+					"url": "https://t.co/fcb53iZ5Jv",
+					"display_url": "pic.twitter.com/fcb53iZ5Jv",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159871365107713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227159383563370500,
+		"in_reply_to_status_id_str": "1227159383563370497",
+		"in_reply_to_user_id": 105506716,
+		"in_reply_to_user_id_str": "105506716",
+		"in_reply_to_screen_name": "decemberjanvier",
+		"user": {
+			"id": 105506716,
+			"id_str": "105506716",
+			"name": "조미치",
+			"screen_name": "decemberjanvier",
+			"location": "in your bathtub",
+			"description": "Swiimers 스위머스 / Yearlsome 열섬 / MBC Radio",
+			"url": "https://t.co/84J1Jlzii6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/84J1Jlzii6",
+							"expanded_url": "http://facebook.com/swiimers",
+							"display_url": "facebook.com/swiimers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 662,
+			"friends_count": 260,
+			"listed_count": 34,
+			"created_at": "Sat Jan 16 15:17:50 +0000 2010",
+			"favourites_count": 1640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942829532163084288/GS86Hcqx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942829532163084288/GS86Hcqx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105506716/1354467497",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이제 제가 선택한 가족과 살아간다는 것은 어떤 일인지 해보겠습니다. 뛰어들지 않았다면 몰랐을 싸움들을 잘 치르고 그 이상의 온기와 유대를 나누고 살게요. 음악도 잘하고 사회생활도 잘하는 반려인간과, 아직도 저에게 적응 중인 반려묘와, 기다리되 타협하지 않고 한 집에서 살아보겠습니다. https://t.co/fcb53iZ5Jv"
+	},
+	{
+		"created_at": "Tue Feb 11 12:46:56 +0000 2020",
+		"id": 1227159383563370500,
+		"id_str": "1227212419799252992",
+		"full_text": "돌아보면 저를 지켜보며 따라와주는 사람이 있다는 걸 알고 사는 것이 저를 조금씩 더 용감한 사람이 되도록 만들어 주었습니다. 삶을 견디기보다 누리도록 제 고개를 들어주던, 견뎌야 할 때는 조금 더 견딜 수 있게 저를 받쳐주던 사람과 서로의 반려가 되어 주려고 합니다. 송재경 씨와 결혼해요. https://t.co/iqKeBMukVV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227159377024438300,
+					"id_str": "1227159377024438272",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe-855U0AArS0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe-855U0AArS0-.jpg",
+					"url": "https://t.co/iqKeBMukVV",
+					"display_url": "pic.twitter.com/iqKeBMukVV",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159383563370497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227159377024438300,
+					"id_str": "1227159377024438272",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe-855U0AArS0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe-855U0AArS0-.jpg",
+					"url": "https://t.co/iqKeBMukVV",
+					"display_url": "pic.twitter.com/iqKeBMukVV",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159383563370497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227159377024413700,
+					"id_str": "1227159377024413696",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe-855UcAA1y9m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe-855UcAA1y9m.jpg",
+					"url": "https://t.co/iqKeBMukVV",
+					"display_url": "pic.twitter.com/iqKeBMukVV",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159383563370497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227159377028583400,
+					"id_str": "1227159377028583424",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe-856UEAAUt0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe-856UEAAUt0B.jpg",
+					"url": "https://t.co/iqKeBMukVV",
+					"display_url": "pic.twitter.com/iqKeBMukVV",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159383563370497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227159377032859600,
+					"id_str": "1227159377032859650",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe-857VUAIbjqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe-857VUAIbjqu.jpg",
+					"url": "https://t.co/iqKeBMukVV",
+					"display_url": "pic.twitter.com/iqKeBMukVV",
+					"expanded_url": "https://twitter.com/decemberjanvier/status/1227159383563370497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105506716,
+			"id_str": "105506716",
+			"name": "조미치",
+			"screen_name": "decemberjanvier",
+			"location": "in your bathtub",
+			"description": "Swiimers 스위머스 / Yearlsome 열섬 / MBC Radio",
+			"url": "https://t.co/84J1Jlzii6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/84J1Jlzii6",
+							"expanded_url": "http://facebook.com/swiimers",
+							"display_url": "facebook.com/swiimers",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 662,
+			"friends_count": 260,
+			"listed_count": 34,
+			"created_at": "Sat Jan 16 15:17:50 +0000 2010",
+			"favourites_count": 1640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942829532163084288/GS86Hcqx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942829532163084288/GS86Hcqx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105506716/1354467497",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "돌아보면 저를 지켜보며 따라와주는 사람이 있다는 걸 알고 사는 것이 저를 조금씩 더 용감한 사람이 되도록 만들어 주었습니다. 삶을 견디기보다 누리도록 제 고개를 들어주던, 견뎌야 할 때는 조금 더 견딜 수 있게 저를 받쳐주던 사람과 서로의 반려가 되어 주려고 합니다. 송재경 씨와 결혼해요. https://t.co/iqKeBMukVV"
+	},
+	{
+		"created_at": "Tue Feb 11 12:44:18 +0000 2020",
+		"id": 1227200104139874300,
+		"id_str": "1227211760391708675",
+		"full_text": "Dear KLM @KLM \nToday, you made it quite clear that you discriminate against race. Using Corona Virus as an excuse. You owe my friend and Korea a HUGE apology. #CoronaVirus #Racism #KLM https://t.co/u3eWVlFZp8 https://t.co/RJj939ODLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CoronaVirus",
+					"indices": [
+						159,
+						171
+					]
+				},
+				{
+					"text": "Racism",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "KLM",
+					"indices": [
+						180,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KLM",
+					"name": "Royal Dutch Airlines",
+					"id": 56377143,
+					"id_str": "56377143",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u3eWVlFZp8",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384",
+					"display_url": "twitter.com/hyunmoyang/sta…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227200086842601500,
+					"id_str": "1227200086842601473",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfj-hyU8AE9_FF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfj-hyU8AE9_FF.jpg",
+					"url": "https://t.co/RJj939ODLI",
+					"display_url": "pic.twitter.com/RJj939ODLI",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227200104139874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227200086842601500,
+					"id_str": "1227200086842601473",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfj-hyU8AE9_FF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfj-hyU8AE9_FF.jpg",
+					"url": "https://t.co/RJj939ODLI",
+					"display_url": "pic.twitter.com/RJj939ODLI",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227200104139874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227200086850990000,
+					"id_str": "1227200086850990081",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfj-h0U8AEJh3e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfj-h0U8AEJh3e.jpg",
+					"url": "https://t.co/RJj939ODLI",
+					"display_url": "pic.twitter.com/RJj939ODLI",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227200104139874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227200086846763000,
+					"id_str": "1227200086846763009",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfj-hzUcAEYCO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfj-hzUcAEYCO1.jpg",
+					"url": "https://t.co/RJj939ODLI",
+					"display_url": "pic.twitter.com/RJj939ODLI",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227200104139874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227200086863532000,
+					"id_str": "1227200086863532033",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfj-h3UUAEgDpV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfj-h3UUAEgDpV.jpg",
+					"url": "https://t.co/RJj939ODLI",
+					"display_url": "pic.twitter.com/RJj939ODLI",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227200104139874304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3716026639,
+			"id_str": "3716026639",
+			"name": "ㅎㅕㄴ모양ㅊㅓ-메인트윗 봐주세요",
+			"screen_name": "hyunmoyang",
+			"location": "",
+			"description": "목을 꺾어 뒤를 봐요 잊고 싶은 일들이 한가득 있어 / 좋아하는 것 보다 싫어하는 게 아직은 많은 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 243,
+			"listed_count": 2,
+			"created_at": "Mon Sep 28 15:22:15 +0000 2015",
+			"favourites_count": 8557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3716026639/1571467145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227087799746064400,
+		"quoted_status_id_str": "1227087799746064384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u3eWVlFZp8",
+			"expanded": "https://twitter.com/hyunmoyang/status/1227087799746064384",
+			"display": "twitter.com/hyunmoyang/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 11 04:31:44 +0000 2020",
+			"id": 1227087799746064400,
+			"id_str": "1227087799746064384",
+			"full_text": "RT부탁) 친구가 KLM 항공사를 이용하는 도중 코로나바이러스 관련 인종차별을 당했습니다. 비행기 내 승객용 화장실에 난데없이 구깃구깃한 종이에 한국어로 ‘승무원 전용 화장실’이라고 꽂혀있는 것을 발견, 사진 촬영을 했더니 (타래로 이어감)\n\n#코로나바이러스 #인종차별 #KLM #KLM인종차별 https://t.co/XPQj0cezFC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "코로나바이러스",
+						"indices": [
+							136,
+							144
+						]
+					},
+					{
+						"text": "인종차별",
+						"indices": [
+							145,
+							150
+						]
+					},
+					{
+						"text": "KLM",
+						"indices": [
+							151,
+							155
+						]
+					},
+					{
+						"text": "KLM인종차별",
+						"indices": [
+							156,
+							164
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1227087791130984400,
+						"id_str": "1227087791130984450",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/EQd92DqUwAI662b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQd92DqUwAI662b.jpg",
+						"url": "https://t.co/XPQj0cezFC",
+						"display_url": "pic.twitter.com/XPQj0cezFC",
+						"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1227087791130984400,
+						"id_str": "1227087791130984450",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/EQd92DqUwAI662b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQd92DqUwAI662b.jpg",
+						"url": "https://t.co/XPQj0cezFC",
+						"display_url": "pic.twitter.com/XPQj0cezFC",
+						"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1227087791139389400,
+						"id_str": "1227087791139389440",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/EQd92DsVAAAinkx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQd92DsVAAAinkx.jpg",
+						"url": "https://t.co/XPQj0cezFC",
+						"display_url": "pic.twitter.com/XPQj0cezFC",
+						"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1227087791130939400,
+						"id_str": "1227087791130939392",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/EQd92DqUEAAIR5O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQd92DqUEAAIR5O.jpg",
+						"url": "https://t.co/XPQj0cezFC",
+						"display_url": "pic.twitter.com/XPQj0cezFC",
+						"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1227087791135154200,
+						"id_str": "1227087791135154177",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/EQd92DrUYAEwxaL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQd92DrUYAEwxaL.jpg",
+						"url": "https://t.co/XPQj0cezFC",
+						"display_url": "pic.twitter.com/XPQj0cezFC",
+						"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3716026639,
+				"id_str": "3716026639",
+				"name": "ㅎㅕㄴ모양ㅊㅓ-메인트윗 봐주세요",
+				"screen_name": "hyunmoyang",
+				"location": "",
+				"description": "목을 꺾어 뒤를 봐요 잊고 싶은 일들이 한가득 있어 / 좋아하는 것 보다 싫어하는 게 아직은 많은 사람",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 167,
+				"friends_count": 243,
+				"listed_count": 2,
+				"created_at": "Mon Sep 28 15:22:15 +0000 2015",
+				"favourites_count": 8557,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13541,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3716026639/1571467145",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5830,
+			"favorite_count": 641,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 431,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear KLM @KLM \nToday, you made it quite clear that you discriminate against race. Using Corona Virus as an excuse. You owe my friend and Korea a HUGE apology. #CoronaVirus #Racism #KLM https://t.co/u3eWVlFZp8 https://t.co/RJj939ODLI"
+	},
+	{
+		"created_at": "Tue Feb 11 12:44:11 +0000 2020",
+		"id": 1227171367486754800,
+		"id_str": "1227211729790062598",
+		"full_text": "녹취파일 나머지(2/2) 추가. 이름 알려달라니까 막판에 화내는 직원 보소ㅋㅋㅋㅋㅋㅋ지들이 한 짓이 논란거리라는 걸 분명히 아는 것임. 사진 지우라고 한 것 부터 자기 이름 절 대 알려줄 수 없다고 화내는 것 까지. https://t.co/0q7TlYQ5Fv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227170979933122600,
+					"id_str": "1227170979933122561",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227170979933122561/pu/img/_t9obQud-3dgns8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227170979933122561/pu/img/_t9obQud-3dgns8M.jpg",
+					"url": "https://t.co/0q7TlYQ5Fv",
+					"display_url": "pic.twitter.com/0q7TlYQ5Fv",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227171367486754816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227170979933122600,
+					"id_str": "1227170979933122561",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227170979933122561/pu/img/_t9obQud-3dgns8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227170979933122561/pu/img/_t9obQud-3dgns8M.jpg",
+					"url": "https://t.co/0q7TlYQ5Fv",
+					"display_url": "pic.twitter.com/0q7TlYQ5Fv",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227171367486754816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 140001,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227170979933122561/pu/vid/360x640/Chz7Qa6-BmdzSVbb.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227170979933122561/pu/vid/320x568/G-fUFLAdS7_fvNIA.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227170979933122561/pu/vid/720x1280/ZCrRZLLm-mCBit90.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227170979933122561/pu/pl/l8YCgjv2RWFWGb8O.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227168972845408300,
+		"in_reply_to_status_id_str": "1227168972845408256",
+		"in_reply_to_user_id": 3716026639,
+		"in_reply_to_user_id_str": "3716026639",
+		"in_reply_to_screen_name": "hyunmoyang",
+		"user": {
+			"id": 3716026639,
+			"id_str": "3716026639",
+			"name": "ㅎㅕㄴ모양ㅊㅓ-메인트윗 봐주세요",
+			"screen_name": "hyunmoyang",
+			"location": "",
+			"description": "목을 꺾어 뒤를 봐요 잊고 싶은 일들이 한가득 있어 / 좋아하는 것 보다 싫어하는 게 아직은 많은 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 243,
+			"listed_count": 2,
+			"created_at": "Mon Sep 28 15:22:15 +0000 2015",
+			"favourites_count": 8557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3716026639/1571467145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "녹취파일 나머지(2/2) 추가. 이름 알려달라니까 막판에 화내는 직원 보소ㅋㅋㅋㅋㅋㅋ지들이 한 짓이 논란거리라는 걸 분명히 아는 것임. 사진 지우라고 한 것 부터 자기 이름 절 대 알려줄 수 없다고 화내는 것 까지. https://t.co/0q7TlYQ5Fv"
+	},
+	{
+		"created_at": "Tue Feb 11 12:44:02 +0000 2020",
+		"id": 1227168972845408300,
+		"id_str": "1227211692007804934",
+		"full_text": "녹취파일(1/2) 추가. 길지 않으니 들어보세요! 차분하고 논리적인 친구와 대조적으로.. 엄청나게 뻔뻔하게, 적반하장으로 화내며 대답하는 KLM 직원들. https://t.co/InGEwbjCZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227168888124625000,
+					"id_str": "1227168888124624896",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227168888124624896/pu/img/veK9h6Wjss1IopWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227168888124624896/pu/img/veK9h6Wjss1IopWX.jpg",
+					"url": "https://t.co/InGEwbjCZI",
+					"display_url": "pic.twitter.com/InGEwbjCZI",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227168972845408256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227168888124625000,
+					"id_str": "1227168888124624896",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227168888124624896/pu/img/veK9h6Wjss1IopWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227168888124624896/pu/img/veK9h6Wjss1IopWX.jpg",
+					"url": "https://t.co/InGEwbjCZI",
+					"display_url": "pic.twitter.com/InGEwbjCZI",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227168972845408256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227168888124624896/pu/vid/360x640/TABXfh5h4b16Hs06.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227168888124624896/pu/vid/320x568/hojc3Pe-HD1NPlud.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227168888124624896/pu/pl/mu6Q0ITBccPIpEGF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227168888124624896/pu/vid/720x1280/5aL6y9h0vVMTbjwp.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227150231583649800,
+		"in_reply_to_status_id_str": "1227150231583649792",
+		"in_reply_to_user_id": 3716026639,
+		"in_reply_to_user_id_str": "3716026639",
+		"in_reply_to_screen_name": "hyunmoyang",
+		"user": {
+			"id": 3716026639,
+			"id_str": "3716026639",
+			"name": "ㅎㅕㄴ모양ㅊㅓ-메인트윗 봐주세요",
+			"screen_name": "hyunmoyang",
+			"location": "",
+			"description": "목을 꺾어 뒤를 봐요 잊고 싶은 일들이 한가득 있어 / 좋아하는 것 보다 싫어하는 게 아직은 많은 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 243,
+			"listed_count": 2,
+			"created_at": "Mon Sep 28 15:22:15 +0000 2015",
+			"favourites_count": 8557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3716026639/1571467145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "녹취파일(1/2) 추가. 길지 않으니 들어보세요! 차분하고 논리적인 친구와 대조적으로.. 엄청나게 뻔뻔하게, 적반하장으로 화내며 대답하는 KLM 직원들. https://t.co/InGEwbjCZI"
+	},
+	{
+		"created_at": "Tue Feb 11 12:43:35 +0000 2020",
+		"id": 1227088603437617200,
+		"id_str": "1227211577805291520",
+		"full_text": "부사무장이 와서는 사진을 지우라고 ㅋㅋㅋ어떠한 매뉴얼적 근거도 없이 다그쳤다고 함. 승객도 아니고 화장실 문짝 찍은건데? 한 나라를 대표하는 항공사에서 이런 식으로 당당하게 인종차별을 할 줄이야 ㅋㅋㅋ승무원 전용이면 영어+각 나라 말로 번역해서 반듯하게 인쇄해서 공문처럼 붙여놔야지? https://t.co/Sgrecm5TzK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227088596517048300,
+					"id_str": "1227088596517048320",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd-k79U0AA1wJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd-k79U0AA1wJw.jpg",
+					"url": "https://t.co/Sgrecm5TzK",
+					"display_url": "pic.twitter.com/Sgrecm5TzK",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227088603437617152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 562,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 907,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 907,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227088596517048300,
+					"id_str": "1227088596517048320",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd-k79U0AA1wJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd-k79U0AA1wJw.jpg",
+					"url": "https://t.co/Sgrecm5TzK",
+					"display_url": "pic.twitter.com/Sgrecm5TzK",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227088603437617152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 562,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 907,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 907,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227087799746064400,
+		"in_reply_to_status_id_str": "1227087799746064384",
+		"in_reply_to_user_id": 3716026639,
+		"in_reply_to_user_id_str": "3716026639",
+		"in_reply_to_screen_name": "hyunmoyang",
+		"user": {
+			"id": 3716026639,
+			"id_str": "3716026639",
+			"name": "ㅎㅕㄴ모양ㅊㅓ-메인트윗 봐주세요",
+			"screen_name": "hyunmoyang",
+			"location": "",
+			"description": "목을 꺾어 뒤를 봐요 잊고 싶은 일들이 한가득 있어 / 좋아하는 것 보다 싫어하는 게 아직은 많은 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 243,
+			"listed_count": 2,
+			"created_at": "Mon Sep 28 15:22:15 +0000 2015",
+			"favourites_count": 8557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3716026639/1571467145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 924,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "부사무장이 와서는 사진을 지우라고 ㅋㅋㅋ어떠한 매뉴얼적 근거도 없이 다그쳤다고 함. 승객도 아니고 화장실 문짝 찍은건데? 한 나라를 대표하는 항공사에서 이런 식으로 당당하게 인종차별을 할 줄이야 ㅋㅋㅋ승무원 전용이면 영어+각 나라 말로 번역해서 반듯하게 인쇄해서 공문처럼 붙여놔야지? https://t.co/Sgrecm5TzK"
+	},
+	{
+		"created_at": "Tue Feb 11 12:43:30 +0000 2020",
+		"id": 1227087799746064400,
+		"id_str": "1227211557395812354",
+		"full_text": "RT부탁) 친구가 KLM 항공사를 이용하는 도중 코로나바이러스 관련 인종차별을 당했습니다. 비행기 내 승객용 화장실에 난데없이 구깃구깃한 종이에 한국어로 ‘승무원 전용 화장실’이라고 꽂혀있는 것을 발견, 사진 촬영을 했더니 (타래로 이어감)\n\n#코로나바이러스 #인종차별 #KLM #KLM인종차별 https://t.co/XPQj0cezFC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코로나바이러스",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "인종차별",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "KLM",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "KLM인종차별",
+					"indices": [
+						156,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227087791130984400,
+					"id_str": "1227087791130984450",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd92DqUwAI662b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd92DqUwAI662b.jpg",
+					"url": "https://t.co/XPQj0cezFC",
+					"display_url": "pic.twitter.com/XPQj0cezFC",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227087791130984400,
+					"id_str": "1227087791130984450",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd92DqUwAI662b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd92DqUwAI662b.jpg",
+					"url": "https://t.co/XPQj0cezFC",
+					"display_url": "pic.twitter.com/XPQj0cezFC",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227087791139389400,
+					"id_str": "1227087791139389440",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd92DsVAAAinkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd92DsVAAAinkx.jpg",
+					"url": "https://t.co/XPQj0cezFC",
+					"display_url": "pic.twitter.com/XPQj0cezFC",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227087791130939400,
+					"id_str": "1227087791130939392",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd92DqUEAAIR5O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd92DqUEAAIR5O.jpg",
+					"url": "https://t.co/XPQj0cezFC",
+					"display_url": "pic.twitter.com/XPQj0cezFC",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227087791135154200,
+					"id_str": "1227087791135154177",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd92DrUYAEwxaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd92DrUYAEwxaL.jpg",
+					"url": "https://t.co/XPQj0cezFC",
+					"display_url": "pic.twitter.com/XPQj0cezFC",
+					"expanded_url": "https://twitter.com/hyunmoyang/status/1227087799746064384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3716026639,
+			"id_str": "3716026639",
+			"name": "ㅎㅕㄴ모양ㅊㅓ-메인트윗 봐주세요",
+			"screen_name": "hyunmoyang",
+			"location": "",
+			"description": "목을 꺾어 뒤를 봐요 잊고 싶은 일들이 한가득 있어 / 좋아하는 것 보다 싫어하는 게 아직은 많은 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 243,
+			"listed_count": 2,
+			"created_at": "Mon Sep 28 15:22:15 +0000 2015",
+			"favourites_count": 8557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112882672295165954/JnMTV8i-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3716026639/1571467145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5830,
+		"favorite_count": 641,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "RT부탁) 친구가 KLM 항공사를 이용하는 도중 코로나바이러스 관련 인종차별을 당했습니다. 비행기 내 승객용 화장실에 난데없이 구깃구깃한 종이에 한국어로 ‘승무원 전용 화장실’이라고 꽂혀있는 것을 발견, 사진 촬영을 했더니 (타래로 이어감)\n\n#코로나바이러스 #인종차별 #KLM #KLM인종차별 https://t.co/XPQj0cezFC"
+	},
+	{
+		"created_at": "Tue Feb 11 12:40:37 +0000 2020",
+		"id": 1227210719478730800,
+		"id_str": "1227210834042073090",
+		"full_text": "#이달의소녀 \n200211 ' #SoWhat ' 컴백 무대\nSBS MTV #더쇼\n\n‘#’\n▶️ https://t.co/0ugOZLBQnO\n\n‘So What’\n▶️ https://t.co/vbrW48kaho\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0ugOZLBQnO",
+					"expanded_url": "http://naver.me/FlWKlybW",
+					"display_url": "naver.me/FlWKlybW",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/vbrW48kaho",
+					"expanded_url": "http://naver.me/G1dqZtKX",
+					"display_url": "naver.me/G1dqZtKX",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415891,
+			"friends_count": 0,
+			"listed_count": 5811,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1780,
+		"favorite_count": 4529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 \n200211 ' #SoWhat ' 컴백 무대\nSBS MTV #더쇼\n\n‘#’\n▶️ https://t.co/0ugOZLBQnO\n\n‘So What’\n▶️ https://t.co/vbrW48kaho\n\n#LOONA"
+	},
+	{
 		"created_at": "Tue Feb 11 11:40:44 +0000 2020",
 		"id": 1227188098091503600,
 		"id_str": "1227195760980172802",
