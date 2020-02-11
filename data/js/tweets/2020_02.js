@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 13:38:18 +0000 2020",
+		"id": 1227019081099837400,
+		"id_str": "1227225347315224576",
+		"full_text": "인성이 심각히 손상된 작가의 뛰어난 작품을 어떻게 대할 것인가. 그의 작품이 내게 지울 수 없는 감명을 남긴 터라면. 내 인생에서 조우한 또 한 명의 인물, 매혹적이고 불가결한 사람이긴 하나, 그 역시 그저 한 인물일 뿐인 존재로, 그에 관한 나의 이야기를 들려주는 것. https://t.co/eQENeMz9yq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eQENeMz9yq",
+					"expanded_url": "https://lithub.com/the-fraught-task-of-describing-life-with-david-foster-wallace/",
+					"display_url": "lithub.com/the-fraught-ta…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102917,
+			"friends_count": 2442,
+			"listed_count": 395,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인성이 심각히 손상된 작가의 뛰어난 작품을 어떻게 대할 것인가. 그의 작품이 내게 지울 수 없는 감명을 남긴 터라면. 내 인생에서 조우한 또 한 명의 인물, 매혹적이고 불가결한 사람이긴 하나, 그 역시 그저 한 인물일 뿐인 존재로, 그에 관한 나의 이야기를 들려주는 것. https://t.co/eQENeMz9yq"
+	},
+	{
 		"created_at": "Tue Feb 11 12:55:34 +0000 2020",
 		"id": 1227014381810016300,
 		"id_str": "1227214595460231168",
