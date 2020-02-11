@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 05:34:34 +0000 2020",
+		"id": 1193394308390326300,
+		"id_str": "1227103611957571584",
+		"full_text": "\"속편이라 이야기되지만 그 본질은 자가복제라 봐도 무방합니다. 세계관의 모든 것은 충돌하는 법이 없도록 공식적으로 관리되죠. 이것이 현대의 영화 프랜차이즈의 본질입니다. – 시장 조사, 모니터링, 분석, 수정, 분석, 수정, 반복, 일정 기준에 도달하면 출시.\"\n\nhttps://t.co/L0seKde0pn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L0seKde0pn",
+					"expanded_url": "https://ebadak.news/2019/11/10/martin-scorsese-marvel-html/",
+					"display_url": "ebadak.news/2019/11/10/mar…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114700851778449400,
+			"id_str": "1114700851778449408",
+			"name": "이바닥늬우스",
+			"screen_name": "ebadaknews",
+			"location": "",
+			"description": "찰지고 신나는 테크바닥 늬우스",
+			"url": "https://t.co/L0rYnRELas",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L0rYnRELas",
+							"expanded_url": "https://ebadak.news",
+							"display_url": "ebadak.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Sun Apr 07 01:26:07 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114700851778449408/1555415622",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"속편이라 이야기되지만 그 본질은 자가복제라 봐도 무방합니다. 세계관의 모든 것은 충돌하는 법이 없도록 공식적으로 관리되죠. 이것이 현대의 영화 프랜차이즈의 본질입니다. – 시장 조사, 모니터링, 분석, 수정, 분석, 수정, 반복, 일정 기준에 도달하면 출시.\"\n\nhttps://t.co/L0seKde0pn"
+	},
+	{
+		"created_at": "Tue Feb 11 05:34:15 +0000 2020",
+		"id": 1227079025870303200,
+		"id_str": "1227103534614597632",
+		"full_text": "오늘 점심은?\n기생충에 나온 피자집 성지순례🙏🏻\n습스나우 잘 먹구 갑니다🙌🏻\n\n#기생충 #봉준호 #PARASITE #피자집 #노량진 #봉감독님_싸인영접 #피자박스접고갈뻔 #습스나우는_기생충한테진심이에요 #팀장님은_계획이_다_있으시구나 #기생충화이팅 💗 https://t.co/bw6OuHqAvE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "기생충",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "봉준호",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "PARASITE",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "피자집",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "노량진",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "봉감독님_싸인영접",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "피자박스접고갈뻔",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "습스나우는_기생충한테진심이에요",
+					"indices": [
+						95,
+						112
+					]
+				},
+				{
+					"text": "팀장님은_계획이_다_있으시구나",
+					"indices": [
+						113,
+						130
+					]
+				},
+				{
+					"text": "기생충화이팅",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227079011819327500,
+					"id_str": "1227079011819327488",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd13CLUEAAXU6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd13CLUEAAXU6y.jpg",
+					"url": "https://t.co/bw6OuHqAvE",
+					"display_url": "pic.twitter.com/bw6OuHqAvE",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1227079025870303232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227079011819327500,
+					"id_str": "1227079011819327488",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd13CLUEAAXU6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd13CLUEAAXU6y.jpg",
+					"url": "https://t.co/bw6OuHqAvE",
+					"display_url": "pic.twitter.com/bw6OuHqAvE",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1227079025870303232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227079011831910400,
+					"id_str": "1227079011831910402",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd13COUEAIF3oy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd13COUEAIF3oy.jpg",
+					"url": "https://t.co/bw6OuHqAvE",
+					"display_url": "pic.twitter.com/bw6OuHqAvE",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1227079025870303232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227079011819380700,
+					"id_str": "1227079011819380737",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd13CLU4AED9mW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd13CLU4AED9mW.jpg",
+					"url": "https://t.co/bw6OuHqAvE",
+					"display_url": "pic.twitter.com/bw6OuHqAvE",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1227079025870303232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227079011823546400,
+					"id_str": "1227079011823546369",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd13CMUcAEHF_H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd13CMUcAEHF_H.jpg",
+					"url": "https://t.co/bw6OuHqAvE",
+					"display_url": "pic.twitter.com/bw6OuHqAvE",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1227079025870303232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1544119,
+			"friends_count": 7206,
+			"listed_count": 3174,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217002699171872771/rkA0yudz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217002699171872771/rkA0yudz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1578991119",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 점심은?\n기생충에 나온 피자집 성지순례🙏🏻\n습스나우 잘 먹구 갑니다🙌🏻\n\n#기생충 #봉준호 #PARASITE #피자집 #노량진 #봉감독님_싸인영접 #피자박스접고갈뻔 #습스나우는_기생충한테진심이에요 #팀장님은_계획이_다_있으시구나 #기생충화이팅 💗 https://t.co/bw6OuHqAvE"
+	},
+	{
+		"created_at": "Tue Feb 11 05:33:50 +0000 2020",
+		"id": 1227080054460387300,
+		"id_str": "1227103430495232001",
+		"full_text": "🎉이달의 소녀 - So What 뮤비 1000만뷰 돌파!\nLOONA - So What M/V reached 10M views!\n\n👉https://t.co/MJV02wi9kQ\n\n#케이팝레이더 #kpopradar #이달의소녀 #이달의_소녀 #LOONA #SoWhat #So_What #SoWhat10M\n\n@loonatheworld https://t.co/JRXBPBGeXh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "케이팝레이더",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "kpopradar",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "이달의_소녀",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "So_What",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "SoWhat10M",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						168,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MJV02wi9kQ",
+					"expanded_url": "https://www.kpop-radar.com/LOONA",
+					"display_url": "kpop-radar.com/LOONA",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227080037913907200,
+					"id_str": "1227080037913907201",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd2ywrU0AELcwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd2ywrU0AELcwH.jpg",
+					"url": "https://t.co/JRXBPBGeXh",
+					"display_url": "pic.twitter.com/JRXBPBGeXh",
+					"expanded_url": "https://twitter.com/kpopradar_blip/status/1227080054460387328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227080037913907200,
+					"id_str": "1227080037913907201",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EQd2ywrU0AELcwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQd2ywrU0AELcwH.jpg",
+					"url": "https://t.co/JRXBPBGeXh",
+					"display_url": "pic.twitter.com/JRXBPBGeXh",
+					"expanded_url": "https://twitter.com/kpopradar_blip/status/1227080054460387328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1157200608106967000,
+			"id_str": "1157200608106967040",
+			"name": "K-Pop Radar (케이팝 레이더)",
+			"screen_name": "kpopradar_blip",
+			"location": "Seoul, Korea",
+			"description": "오늘의 케이팝 현황, 팬덤 데이터 관측기                  \nDaily K-Pop Status, Fandom Data Observing Platform \nby @lab_blip\nhttps://t.co/WIqlVubdkd",
+			"url": "https://t.co/5ruAlgQ95o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5ruAlgQ95o",
+							"expanded_url": "http://kpop-radar.com",
+							"display_url": "kpop-radar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WIqlVubdkd",
+							"expanded_url": "https://www.kpop-radar.com/",
+							"display_url": "kpop-radar.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1073,
+			"friends_count": 2,
+			"listed_count": 14,
+			"created_at": "Fri Aug 02 08:04:59 +0000 2019",
+			"favourites_count": 279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159278894765101056/3FRGz5Ba_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159278894765101056/3FRGz5Ba_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1157200608106967040/1564999953",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉이달의 소녀 - So What 뮤비 1000만뷰 돌파!\nLOONA - So What M/V reached 10M views!\n\n👉https://t.co/MJV02wi9kQ\n\n#케이팝레이더 #kpopradar #이달의소녀 #이달의_소녀 #LOONA #SoWhat #So_What #SoWhat10M\n\n@loonatheworld https://t.co/JRXBPBGeXh"
+	},
+	{
 		"created_at": "Tue Feb 11 04:50:36 +0000 2020",
 		"id": 1226680447448408000,
 		"id_str": "1227092548465786881",
