@@ -1,6 +1,837 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 07:56:41 +0000 2020",
+		"id": 1227138843360366600,
+		"id_str": "1227139378574553089",
+		"full_text": "성폭행 피해자가 가해자에게 강간을 당하며 쾌감을 느낀다는 내용의 실제 미투 사건을 연상하게 했던 웹툰 '목줄'의 글 작가가 여전히 '한국만화영상진흥원'에서 예비 창작자를 대상으로 강의를 하고 있습니다.\n\nhttps://t.co/NXeXWAFczq https://t.co/CmGSmWLMzR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NXeXWAFczq",
+					"expanded_url": "http://www.womennews.co.kr/news/articleView.html?idxno=129592",
+					"display_url": "womennews.co.kr/news/articleVi…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227138833323413500,
+					"id_str": "1227138833323413504",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQesRGpUUAADk9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQesRGpUUAADk9A.jpg",
+					"url": "https://t.co/CmGSmWLMzR",
+					"display_url": "pic.twitter.com/CmGSmWLMzR",
+					"expanded_url": "https://twitter.com/csc_2019/status/1227138843360366594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 649,
+							"h": 825,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 649,
+							"h": 825,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227138833323413500,
+					"id_str": "1227138833323413504",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQesRGpUUAADk9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQesRGpUUAADk9A.jpg",
+					"url": "https://t.co/CmGSmWLMzR",
+					"display_url": "pic.twitter.com/CmGSmWLMzR",
+					"expanded_url": "https://twitter.com/csc_2019/status/1227138843360366594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 649,
+							"h": 825,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 649,
+							"h": 825,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227138833398952000,
+					"id_str": "1227138833398951936",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQesRG7U8AAOoLB.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQesRG7U8AAOoLB.png",
+					"url": "https://t.co/CmGSmWLMzR",
+					"display_url": "pic.twitter.com/CmGSmWLMzR",
+					"expanded_url": "https://twitter.com/csc_2019/status/1227138843360366594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 523,
+							"h": 166,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 166,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 523,
+							"h": 166,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1227138833398956000,
+					"id_str": "1227138833398956032",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQesRG7VAAAaa76.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQesRG7VAAAaa76.jpg",
+					"url": "https://t.co/CmGSmWLMzR",
+					"display_url": "pic.twitter.com/CmGSmWLMzR",
+					"expanded_url": "https://twitter.com/csc_2019/status/1227138843360366594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 979315994500857900,
+			"id_str": "979315994500857856",
+			"name": "만화계성폭력대책위원회",
+			"screen_name": "csc_2019",
+			"location": "",
+			"description": "만화계 성폭력·성차별 근절에 행동합니다.\n문의 및 도움이 필요하시면 DM/메일 주세요.\nemc0330@naver.com\n\n▼사건 제보 및 상담 오픈채팅\nhttps://t.co/tZJeDge8CW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tZJeDge8CW",
+							"expanded_url": "http://open.kakao.com/o/sgPbhCIb",
+							"display_url": "open.kakao.com/o/sgPbhCIb",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1031,
+			"friends_count": 58,
+			"listed_count": 6,
+			"created_at": "Thu Mar 29 11:15:02 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/979315994500857856/1573397777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성폭행 피해자가 가해자에게 강간을 당하며 쾌감을 느낀다는 내용의 실제 미투 사건을 연상하게 했던 웹툰 '목줄'의 글 작가가 여전히 '한국만화영상진흥원'에서 예비 창작자를 대상으로 강의를 하고 있습니다.\n\nhttps://t.co/NXeXWAFczq https://t.co/CmGSmWLMzR"
+	},
+	{
+		"created_at": "Tue Feb 11 07:42:54 +0000 2020",
+		"id": 1227135908714954800,
+		"id_str": "1227135908714954752",
+		"full_text": "공립 미술관에 VR 도입된다는 소식을 보니 든 생각. 전시를 통해서 음악의 더 많은 세계관을 보여줄 수 있겠다는 생각이 들었다. VR로 세계관 체험하는 전시를 보고 쇼케이스 보는 거지. 이수만이나 SM이 그리고 있을 수도 있고 일단 팩트는 VR 사업에 투자를 많이 하고 있음. #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공립 미술관에 VR 도입된다는 소식을 보니 든 생각. 전시를 통해서 음악의 더 많은 세계관을 보여줄 수 있겠다는 생각이 들었다. VR로 세계관 체험하는 전시를 보고 쇼케이스 보는 거지. 이수만이나 SM이 그리고 있을 수도 있고 일단 팩트는 VR 사업에 투자를 많이 하고 있음. #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue Feb 11 07:36:57 +0000 2020",
+		"id": 1227126195268944000,
+		"id_str": "1227134412225036288",
+		"full_text": "#외벽영상 으로 만나는 미술작품🖼️\n#실감기술 로 펼쳐지는 동굴 속 유물🏺\n\n내년이면\n공립 박물관·미술관 22곳에서\n소장유물과 작품에 실감기술을 접목한\n새로운 콘텐츠를 만날 수 있습니다.\n\n내용 자세히 보기▶https://t.co/vMMW2g3DhC\n\n#실감콘텐츠 #콘텐츠 #미디어파사드 #증강현실 #도슨트 https://t.co/dL9qkzthYy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "외벽영상",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "실감기술",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "실감콘텐츠",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "콘텐츠",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "미디어파사드",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "증강현실",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "도슨트",
+					"indices": [
+						167,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vMMW2g3DhC",
+					"expanded_url": "https://bit.ly/3bmVFkt",
+					"display_url": "bit.ly/3bmVFkt",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227111235067371500,
+					"id_str": "1227111235067371521",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EQeTKrIU4AEFyk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQeTKrIU4AEFyk-.jpg",
+					"url": "https://t.co/dL9qkzthYy",
+					"display_url": "pic.twitter.com/dL9qkzthYy",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1227126195268943873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227111235067371500,
+					"id_str": "1227111235067371521",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EQeTKrIU4AEFyk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQeTKrIU4AEFyk-.jpg",
+					"url": "https://t.co/dL9qkzthYy",
+					"display_url": "pic.twitter.com/dL9qkzthYy",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1227126195268943873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141083064,
+			"id_str": "141083064",
+			"name": "문화체육관광부",
+			"screen_name": "mcstkorea",
+			"location": "Republic of Korea",
+			"description": "문화·체육·관광으로 행복한 대한민국",
+			"url": "http://t.co/mVy4NdMos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mVy4NdMos2",
+							"expanded_url": "http://www.mcst.go.kr",
+							"display_url": "mcst.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132735,
+			"friends_count": 23307,
+			"listed_count": 1082,
+			"created_at": "Fri May 07 04:19:09 +0000 2010",
+			"favourites_count": 686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141083064/1575849834",
+			"profile_link_color": "4C4C4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#외벽영상 으로 만나는 미술작품🖼️\n#실감기술 로 펼쳐지는 동굴 속 유물🏺\n\n내년이면\n공립 박물관·미술관 22곳에서\n소장유물과 작품에 실감기술을 접목한\n새로운 콘텐츠를 만날 수 있습니다.\n\n내용 자세히 보기▶https://t.co/vMMW2g3DhC\n\n#실감콘텐츠 #콘텐츠 #미디어파사드 #증강현실 #도슨트 https://t.co/dL9qkzthYy"
+	},
+	{
+		"created_at": "Tue Feb 11 07:31:48 +0000 2020",
+		"id": 1227133117153996800,
+		"id_str": "1227133117153996811",
+		"full_text": "나머지 내용은 공개할 수 없는게 악용할 수 있기 때문. 최근 오픈채팅 관련해서 건의를 장문으로 했고 곧 답변 받을 수 있을 것 같다.\n\n#카카오 #KAKAO #오픈채팅 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "KAKAO",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "오픈채팅",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1227132635962413000,
+		"in_reply_to_status_id_str": "1227132635962413056",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나머지 내용은 공개할 수 없는게 악용할 수 있기 때문. 최근 오픈채팅 관련해서 건의를 장문으로 했고 곧 답변 받을 수 있을 것 같다.\n\n#카카오 #KAKAO #오픈채팅 #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue Feb 11 07:29:54 +0000 2020",
+		"id": 1227132635962413000,
+		"id_str": "1227132635962413056",
+		"full_text": "멜론 측에 예전에 댓글 관련 건의를 했었는데 지금 보니까 전부 반영되어 있다.\n\n그 중 하나는 추천 댓글이 되면 수정을 할 수 없는 것.\n아이돌 앨범, 신보가 뜨면 팬인척 하고 어그로가 이를 선점하기 위한 댓글을 작성하고 추후 댓글을 바꾸는 것이다.\n\n#멜론 #Melon #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						152,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "멜론 측에 예전에 댓글 관련 건의를 했었는데 지금 보니까 전부 반영되어 있다.\n\n그 중 하나는 추천 댓글이 되면 수정을 할 수 없는 것.\n아이돌 앨범, 신보가 뜨면 팬인척 하고 어그로가 이를 선점하기 위한 댓글을 작성하고 추후 댓글을 바꾸는 것이다.\n\n#멜론 #Melon #뮤직비지니스"
+	},
+	{
 		"created_at": "Tue Feb 11 06:46:10 +0000 2020",
 		"id": 1227121632482865200,
 		"id_str": "1227121632482865158",
@@ -1239,7 +2070,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
