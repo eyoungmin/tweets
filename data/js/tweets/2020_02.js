@@ -1,10 +1,332 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 11:40:38 +0000 2020",
+		"id": 1227554803460395000,
+		"id_str": "1227558124434927617",
+		"full_text": "https://t.co/AiKVjPqrJ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AiKVjPqrJ4",
+					"expanded_url": "https://www.youtube.com/watch?v=1JIJaZ9ZARk",
+					"display_url": "youtube.com/watch?v=1JIJaZ…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7614,
+			"friends_count": 519,
+			"listed_count": 48,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/AiKVjPqrJ4"
+	},
+	{
+		"created_at": "Wed Feb 12 11:34:42 +0000 2020",
+		"id": 1227556630658596900,
+		"id_str": "1227556630658596864",
+		"full_text": "리스트 리트윗이 왜 작동 안하고 있는 걸까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "리스트 리트윗이 왜 작동 안하고 있는 걸까."
+	},
+	{
+		"created_at": "Wed Feb 12 11:30:21 +0000 2020",
+		"id": 1227555537530781700,
+		"id_str": "1227555537530781696",
+		"full_text": "[M/V Teaser] 새소년 (SE SO NEON) - '심야행 (Midnight Train)'\nhttps://t.co/N2gj5KCHNn\n#새소년 #SE_SO_NEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "SE_SO_NEON",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N2gj5KCHNn",
+					"expanded_url": "https://youtu.be/1JIJaZ9ZARk",
+					"display_url": "youtu.be/1JIJaZ9ZARk",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[M/V Teaser] 새소년 (SE SO NEON) - '심야행 (Midnight Train)'\nhttps://t.co/N2gj5KCHNn\n#새소년 #SE_SO_NEON"
+	},
+	{
 		"created_at": "Wed Feb 12 10:40:37 +0000 2020",
 		"id": 1227533228564549600,
 		"id_str": "1227543022071615488",
-		"full_text": "[MULTI/VERSE] So What - 이달의 소녀(LOONA) 영상이 드디어 공개되었습니다💖 지금 바로 만나보세요~😍\n\nMULTI/VERSE▶️ https://t.co/oLdvGpfBu7\nBEHIND▶️ https://t.co/de4tBMytqQ\nHD PHOTO▶️ https://t.co/QXbbkBtVGm\n​\n#브이라이브 #멀티버스 #이달의소녀 #쏘왓 #VLIVE #MULTIVERSE #LOONA #SoWhat",
+		"full_text": "[MULTI/VERSE] So What - 이달의 소녀(LOONA) 영상이 드디어 공개되었습니다💖 지금 바로 만나보세요~😍\n\nMULTI/VERSE▶️ https://t.co/oLdvGpfBu7\nBEHIND▶️ https://t.co/de4tBMytqQ\nHD PHOTO▶️ https://t.co/QXbbkBtVGm\n\n#브이라이브 #멀티버스 #이달의소녀 #쏘왓 #VLIVE #MULTIVERSE #LOONA #SoWhat",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -179,7 +501,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[MULTI/VERSE] So What - 이달의 소녀(LOONA) 영상이 드디어 공개되었습니다💖 지금 바로 만나보세요~😍\n\nMULTI/VERSE▶️ https://t.co/oLdvGpfBu7\nBEHIND▶️ https://t.co/de4tBMytqQ\nHD PHOTO▶️ https://t.co/QXbbkBtVGm\n​\n#브이라이브 #멀티버스 #이달의소녀 #쏘왓 #VLIVE #MULTIVERSE #LOONA #SoWhat"
+		"text": "[MULTI/VERSE] So What - 이달의 소녀(LOONA) 영상이 드디어 공개되었습니다💖 지금 바로 만나보세요~😍\n\nMULTI/VERSE▶️ https://t.co/oLdvGpfBu7\nBEHIND▶️ https://t.co/de4tBMytqQ\nHD PHOTO▶️ https://t.co/QXbbkBtVGm\n\n#브이라이브 #멀티버스 #이달의소녀 #쏘왓 #VLIVE #MULTIVERSE #LOONA #SoWhat"
 	},
 	{
 		"created_at": "Wed Feb 12 09:55:17 +0000 2020",
