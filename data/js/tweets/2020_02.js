@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 13:40:38 +0000 2020",
+		"id": 1227577415897010200,
+		"id_str": "1227588324812083200",
+		"full_text": "[새소년 new EP \"비적응\" D-6]\n2020. 02. 18. TUE 6PM KST\n타이틀곡 \"심야행\" M/V 티저 공개\n⠀\nTitle Track \"Midnight Train\" Teaser\nfrom SE SO NEON new EP [Nonadaptation]\n⠀\n어디쯤 왔을까 우리의 밤은\n여길까\n⠀\n#새소년 #SESONEON #심야행 #MidnightTrain #MV #teaser #EP #비적응 https://t.co/QcTIBS0czb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "심야행",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "MidnightTrain",
+					"indices": [
+						190,
+						204
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						205,
+						208
+					]
+				},
+				{
+					"text": "teaser",
+					"indices": [
+						209,
+						216
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						217,
+						220
+					]
+				},
+				{
+					"text": "비적응",
+					"indices": [
+						221,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227577049113448400,
+					"id_str": "1227577049113448448",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227577049113448448/pu/img/OxYjau8UPSoNXRwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227577049113448448/pu/img/OxYjau8UPSoNXRwv.jpg",
+					"url": "https://t.co/QcTIBS0czb",
+					"display_url": "pic.twitter.com/QcTIBS0czb",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1227577415897010176/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227577049113448400,
+					"id_str": "1227577049113448448",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227577049113448448/pu/img/OxYjau8UPSoNXRwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227577049113448448/pu/img/OxYjau8UPSoNXRwv.jpg",
+					"url": "https://t.co/QcTIBS0czb",
+					"display_url": "pic.twitter.com/QcTIBS0czb",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1227577415897010176/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22320,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227577049113448448/pu/vid/480x270/77qxJyRWIQEMvols.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227577049113448448/pu/vid/640x360/VyW8wnC5DvxW4Ipi.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227577049113448448/pu/vid/1280x720/y8UbORtkE8g31WOI.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227577049113448448/pu/pl/QUSGxg4duhtDvdqo.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON •Soyoon •Usu •Park Hyunjin",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7624,
+			"friends_count": 519,
+			"listed_count": 48,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1564332393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[새소년 new EP \"비적응\" D-6]\n2020. 02. 18. TUE 6PM KST\n타이틀곡 \"심야행\" M/V 티저 공개\n⠀\nTitle Track \"Midnight Train\" Teaser\nfrom SE SO NEON new EP [Nonadaptation]\n⠀\n어디쯤 왔을까 우리의 밤은\n여길까\n⠀\n#새소년 #SESONEON #심야행 #MidnightTrain #MV #teaser #EP #비적응 https://t.co/QcTIBS0czb"
+	},
+	{
+		"created_at": "Wed Feb 12 13:17:19 +0000 2020",
+		"id": 1227582456183873500,
+		"id_str": "1227582456183873541",
+		"full_text": "예술가들이 고양이를 그린 이유?\nhttps://t.co/JjglobSBrx\n#널위한문화예술 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "널위한문화예술",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						51,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JjglobSBrx",
+					"expanded_url": "https://youtu.be/Y59hZQYen58",
+					"display_url": "youtu.be/Y59hZQYen58",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예술가들이 고양이를 그린 이유?\nhttps://t.co/JjglobSBrx\n#널위한문화예술 #minfav"
+	},
+	{
 		"created_at": "Wed Feb 12 12:32:21 +0000 2020",
 		"id": 1227571140559765500,
 		"id_str": "1227571140559765504",
