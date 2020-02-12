@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 10:40:37 +0000 2020",
+		"id": 1227533228564549600,
+		"id_str": "1227543022071615488",
+		"full_text": "[MULTI/VERSE] So What - 이달의 소녀(LOONA) 영상이 드디어 공개되었습니다💖 지금 바로 만나보세요~😍\n\nMULTI/VERSE▶️ https://t.co/oLdvGpfBu7\nBEHIND▶️ https://t.co/de4tBMytqQ\nHD PHOTO▶️ https://t.co/QXbbkBtVGm\n​\n#브이라이브 #멀티버스 #이달의소녀 #쏘왓 #VLIVE #MULTIVERSE #LOONA #SoWhat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브이라이브",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "멀티버스",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						191,
+						197
+					]
+				},
+				{
+					"text": "쏘왓",
+					"indices": [
+						198,
+						201
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "MULTIVERSE",
+					"indices": [
+						209,
+						220
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						228,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oLdvGpfBu7",
+					"expanded_url": "https://www.vlive.tv/video/174868",
+					"display_url": "vlive.tv/video/174868",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/de4tBMytqQ",
+					"expanded_url": "https://www.vlive.tv/video/175033",
+					"display_url": "vlive.tv/video/175033",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/QXbbkBtVGm",
+					"expanded_url": "https://bit.ly/2vplS1i",
+					"display_url": "bit.ly/2vplS1i",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3569890,
+			"friends_count": 169,
+			"listed_count": 1947,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1271,
+		"favorite_count": 3042,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MULTI/VERSE] So What - 이달의 소녀(LOONA) 영상이 드디어 공개되었습니다💖 지금 바로 만나보세요~😍\n\nMULTI/VERSE▶️ https://t.co/oLdvGpfBu7\nBEHIND▶️ https://t.co/de4tBMytqQ\nHD PHOTO▶️ https://t.co/QXbbkBtVGm\n​\n#브이라이브 #멀티버스 #이달의소녀 #쏘왓 #VLIVE #MULTIVERSE #LOONA #SoWhat"
+	},
+	{
 		"created_at": "Wed Feb 12 09:55:17 +0000 2020",
 		"id": 1227531610758828000,
 		"id_str": "1227531610758828032",
