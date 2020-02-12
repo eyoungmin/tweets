@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 08:44:53 +0000 2020",
+		"id": 1227479950342516700,
+		"id_str": "1227513893993402368",
+		"full_text": "먼데이닷컴으로 업무 자동화를 흉내라도 내보자\nhttps://t.co/BhsApUh6TC\n\n먼데이닷컴이 뭐냐고? 우리나라에만 잘 안 알려졌지, 해외에서는 어마어마하게 성장하는 협업 툴이다. 미국에서는 심지어 노션보다도 유명하다!\n\n먼데이닷컴의 강점은 명확하다. 더 ‘정교한 프로젝트 관리’가 가능해진다. https://t.co/HCQo890vP8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BhsApUh6TC",
+					"expanded_url": "https://ppss.kr/archives/212180",
+					"display_url": "ppss.kr/archives/212180",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227479385466228700,
+					"id_str": "1227479385466228736",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjh_2PUUAAhYK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjh_2PUUAAhYK2.jpg",
+					"url": "https://t.co/HCQo890vP8",
+					"display_url": "pic.twitter.com/HCQo890vP8",
+					"expanded_url": "https://twitter.com/ppsskr/status/1227479950342516736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227479385466228700,
+					"id_str": "1227479385466228736",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjh_2PUUAAhYK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjh_2PUUAAhYK2.jpg",
+					"url": "https://t.co/HCQo890vP8",
+					"display_url": "pic.twitter.com/HCQo890vP8",
+					"expanded_url": "https://twitter.com/ppsskr/status/1227479950342516736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992831082,
+			"id_str": "992831082",
+			"name": "ㅍㅍㅅㅅ",
+			"screen_name": "ppsskr",
+			"location": "",
+			"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+			"url": "http://t.co/22eKl3pLgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/22eKl3pLgd",
+							"expanded_url": "http://ppss.kr",
+							"display_url": "ppss.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240161,
+			"friends_count": 111,
+			"listed_count": 495,
+			"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+			"favourites_count": 1775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1531144326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "먼데이닷컴으로 업무 자동화를 흉내라도 내보자\nhttps://t.co/BhsApUh6TC\n\n먼데이닷컴이 뭐냐고? 우리나라에만 잘 안 알려졌지, 해외에서는 어마어마하게 성장하는 협업 툴이다. 미국에서는 심지어 노션보다도 유명하다!\n\n먼데이닷컴의 강점은 명확하다. 더 ‘정교한 프로젝트 관리’가 가능해진다. https://t.co/HCQo890vP8"
+	},
+	{
+		"created_at": "Wed Feb 12 08:43:03 +0000 2020",
+		"id": 1227450892603084800,
+		"id_str": "1227513433777565696",
+		"full_text": "김해원 - Mago: Music For Photography (feat. 김사월)이 음원사이트를 통해 발매되었어요. 황예지 사진가의 개인전 &lt;마고&gt;를 위해 만든 음악입니다. https://t.co/ysIoDALsVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227450772054560800,
+					"id_str": "1227450772054560768",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227450772054560768/pu/img/eXSjsiDEJZ5Y24HB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227450772054560768/pu/img/eXSjsiDEJZ5Y24HB.jpg",
+					"url": "https://t.co/ysIoDALsVU",
+					"display_url": "pic.twitter.com/ysIoDALsVU",
+					"expanded_url": "https://twitter.com/_wuzu/status/1227450892603084803/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227450772054560800,
+					"id_str": "1227450772054560768",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227450772054560768/pu/img/eXSjsiDEJZ5Y24HB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227450772054560768/pu/img/eXSjsiDEJZ5Y24HB.jpg",
+					"url": "https://t.co/ysIoDALsVU",
+					"display_url": "pic.twitter.com/ysIoDALsVU",
+					"expanded_url": "https://twitter.com/_wuzu/status/1227450892603084803/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60118,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227450772054560768/pu/vid/320x320/5heThc94Bmm22dhk.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227450772054560768/pu/pl/ZrrvrD-1qJpFHSqv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227450772054560768/pu/vid/720x720/Pzf01gGNPt5Gl4Mc.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227450772054560768/pu/vid/480x480/XGitvgcfVcgdTADq.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 542499563,
+			"id_str": "542499563",
+			"name": "김해원",
+			"screen_name": "_wuzu",
+			"location": "",
+			"description": "음악가. 김사월X김해원. 셔틀콕, 소셜포비아, 피의 연대기, 살아남은 아이, 움직임의 사전, 윤희에게 kimhaewonmusic@gmail.com",
+			"url": "https://t.co/EANGQKcuEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EANGQKcuEn",
+							"expanded_url": "https://soundcloud.com/theredare",
+							"display_url": "soundcloud.com/theredare",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1626,
+			"friends_count": 352,
+			"listed_count": 13,
+			"created_at": "Sun Apr 01 12:15:08 +0000 2012",
+			"favourites_count": 982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194967328049418240/b0nNVBUs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194967328049418240/b0nNVBUs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/542499563/1573719499",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김해원 - Mago: Music For Photography (feat. 김사월)이 음원사이트를 통해 발매되었어요. 황예지 사진가의 개인전 &lt;마고&gt;를 위해 만든 음악입니다. https://t.co/ysIoDALsVU"
+	},
+	{
 		"created_at": "Wed Feb 12 04:19:00 +0000 2020",
 		"id": 1226884695704473600,
 		"id_str": "1227446983633362944",
