@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 04:19:00 +0000 2020",
+		"id": 1226884695704473600,
+		"id_str": "1227446983633362944",
+		"full_text": "\"불안장애를 겪는 사람에게 가장 필요한 것은 믿을 수 있는 누군가의 존재이다. 내 옆의 누군가가 불안장애를 겪는다면 그냥 그의 이야기를 들어주며 옆에 있어 주면 된다. 당신이 그토록 무서워하는 것들보다 내가 더 가까이에서 당신을 지켜주고 있음을 깨닫게 해주는 것이 가장 중요하기 때문이다\" https://t.co/TSAad42AHn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226884685575274500,
+					"id_str": "1226884685575274499",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EQbFHwgUwAMCfx3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQbFHwgUwAMCfx3.jpg",
+					"url": "https://t.co/TSAad42AHn",
+					"display_url": "pic.twitter.com/TSAad42AHn",
+					"expanded_url": "https://twitter.com/beewaa_/status/1226884695704473607/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 791,
+							"h": 790,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226884685575274500,
+					"id_str": "1226884685575274499",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EQbFHwgUwAMCfx3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQbFHwgUwAMCfx3.jpg",
+					"url": "https://t.co/TSAad42AHn",
+					"display_url": "pic.twitter.com/TSAad42AHn",
+					"expanded_url": "https://twitter.com/beewaa_/status/1226884695704473607/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 791,
+							"h": 790,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48958491,
+			"id_str": "48958491",
+			"name": "비와",
+			"screen_name": "beewaa_",
+			"location": "",
+			"description": "🍅 모든 글은 거의 메모 \n🍋 인용 금지 \n\n쓰고 싶으면 니 글로 쓰세요. 희석하지 마세요~ 니 생각을 내 생각에. 책, 맥주, 커피, 여행, 걷기, 글쓰기, 메모장 그리고 '지금부터~' 컨설팅, 프리랜서, Ph.D. E&OE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1056,
+			"friends_count": 20,
+			"listed_count": 7,
+			"created_at": "Sat Jun 20 08:07:06 +0000 2009",
+			"favourites_count": 1890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185886100528619521/ngbw3RkD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185886100528619521/ngbw3RkD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48958491/1580751437",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E32820",
+			"profile_text_color": "843AA9",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 397,
+		"favorite_count": 521,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"불안장애를 겪는 사람에게 가장 필요한 것은 믿을 수 있는 누군가의 존재이다. 내 옆의 누군가가 불안장애를 겪는다면 그냥 그의 이야기를 들어주며 옆에 있어 주면 된다. 당신이 그토록 무서워하는 것들보다 내가 더 가까이에서 당신을 지켜주고 있음을 깨닫게 해주는 것이 가장 중요하기 때문이다\" https://t.co/TSAad42AHn"
+	},
+	{
+		"created_at": "Wed Feb 12 04:18:51 +0000 2020",
+		"id": 1227319566109495300,
+		"id_str": "1227446944290787328",
+		"full_text": "다들 안주무시는거 같아서 탐랩 보시고 들으시라구 짧게 편집 해왔어뇨💜 https://t.co/ztb0G7VgqI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227318898917171200,
+					"id_str": "1227318898917171200",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227318898917171200/pu/img/nxgQ7-t26qv3Qlca.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227318898917171200/pu/img/nxgQ7-t26qv3Qlca.jpg",
+					"url": "https://t.co/ztb0G7VgqI",
+					"display_url": "pic.twitter.com/ztb0G7VgqI",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1227319566109495297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227318898917171200,
+					"id_str": "1227318898917171200",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227318898917171200/pu/img/nxgQ7-t26qv3Qlca.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227318898917171200/pu/img/nxgQ7-t26qv3Qlca.jpg",
+					"url": "https://t.co/ztb0G7VgqI",
+					"display_url": "pic.twitter.com/ztb0G7VgqI",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1227319566109495297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 96000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227318898917171200/pu/pl/e-JenIjE-HVockCT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227318898917171200/pu/vid/480x270/V32Iyd9TUTEafteu.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227318898917171200/pu/vid/640x360/r7u5rHVmhwcOwtRt.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227318898917171200/pu/vid/854x480/4KWoKIaBChn_Fiuy.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3247398667,
+			"id_str": "3247398667",
+			"name": "Alluring voice",
+			"screen_name": "alluring_voice",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/0Hbtw9STT5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Hbtw9STT5",
+							"expanded_url": "http://taeyeon.smtown.com",
+							"display_url": "taeyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34652,
+			"friends_count": 4,
+			"listed_count": 1076,
+			"created_at": "Wed Jun 17 02:13:44 +0000 2015",
+			"favourites_count": 231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217379575044296704/ZGLkDC1z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217379575044296704/ZGLkDC1z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3247398667/1579081147",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1076,
+		"favorite_count": 1440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다들 안주무시는거 같아서 탐랩 보시고 들으시라구 짧게 편집 해왔어뇨💜 https://t.co/ztb0G7VgqI"
+	},
+	{
+		"created_at": "Wed Feb 12 04:08:23 +0000 2020",
+		"id": 1227434291099046000,
+		"id_str": "1227444312675360770",
+		"full_text": "&lt;김해원 X 황예지 X 김사월 '마고' 작업 이야기&gt; 의 인터뷰 진행과 정리를 맡았습니다. 애정하는 작가들의 이야기를 가까이에서 듣는 것이 이렇게 기쁘고 벅찬 일이로군요. 서로에 대한 신의와 존경을 확인한 시간이었어요. 멜론 매거진 스페셜에서 전문을 확인해보세요\n🌟 https://t.co/uXtA7UfAbP https://t.co/rTLgYyw1pS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uXtA7UfAbP",
+					"expanded_url": "http://kko.to/Db7e3mI0p",
+					"display_url": "kko.to/Db7e3mI0p",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227434272199528400,
+					"id_str": "1227434272199528448",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EQi496OX0AAGYL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQi496OX0AAGYL3.jpg",
+					"url": "https://t.co/rTLgYyw1pS",
+					"display_url": "pic.twitter.com/rTLgYyw1pS",
+					"expanded_url": "https://twitter.com/aprilsour/status/1227434291099045890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227434272199528400,
+					"id_str": "1227434272199528448",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EQi496OX0AAGYL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQi496OX0AAGYL3.jpg",
+					"url": "https://t.co/rTLgYyw1pS",
+					"display_url": "pic.twitter.com/rTLgYyw1pS",
+					"expanded_url": "https://twitter.com/aprilsour/status/1227434291099045890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227434272203706400,
+					"id_str": "1227434272203706369",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EQi496PXkAE8hw0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQi496PXkAE8hw0.jpg",
+					"url": "https://t.co/rTLgYyw1pS",
+					"display_url": "pic.twitter.com/rTLgYyw1pS",
+					"expanded_url": "https://twitter.com/aprilsour/status/1227434291099045890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 782,
+							"h": 782,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227434272220491800,
+					"id_str": "1227434272220491778",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EQi496TXsAI7tcV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQi496TXsAI7tcV.jpg",
+					"url": "https://t.co/rTLgYyw1pS",
+					"display_url": "pic.twitter.com/rTLgYyw1pS",
+					"expanded_url": "https://twitter.com/aprilsour/status/1227434291099045890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227434272195334100,
+					"id_str": "1227434272195334144",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EQi496NX0AAehSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQi496NX0AAehSx.jpg",
+					"url": "https://t.co/rTLgYyw1pS",
+					"display_url": "pic.twitter.com/rTLgYyw1pS",
+					"expanded_url": "https://twitter.com/aprilsour/status/1227434291099045890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 899,
+							"h": 899,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/C6oTOCoR0W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C6oTOCoR0W",
+							"expanded_url": "https://youtu.be/lrTG-21xYCM",
+							"display_url": "youtu.be/lrTG-21xYCM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10982,
+			"friends_count": 731,
+			"listed_count": 71,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 9743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214103762161131522/1tQK-eHX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214103762161131522/1tQK-eHX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1573442302",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;김해원 X 황예지 X 김사월 '마고' 작업 이야기&gt; 의 인터뷰 진행과 정리를 맡았습니다. 애정하는 작가들의 이야기를 가까이에서 듣는 것이 이렇게 기쁘고 벅찬 일이로군요. 서로에 대한 신의와 존경을 확인한 시간이었어요. 멜론 매거진 스페셜에서 전문을 확인해보세요\n🌟 https://t.co/uXtA7UfAbP https://t.co/rTLgYyw1pS"
+	},
+	{
+		"created_at": "Wed Feb 12 04:07:47 +0000 2020",
+		"id": 1227432555835621400,
+		"id_str": "1227444161084784642",
+		"full_text": "김해원 'Mago: Music For Photography (feat. 김사월)' 오늘 정오 발매 되었습니다. 음원사이트에서 들으실 수 있어요! https://t.co/UTCPlgrQa5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227432458884280300,
+					"id_str": "1227432458884280320",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227432458884280320/pu/img/i6cZlclMXdLuXe_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227432458884280320/pu/img/i6cZlclMXdLuXe_R.jpg",
+					"url": "https://t.co/UTCPlgrQa5",
+					"display_url": "pic.twitter.com/UTCPlgrQa5",
+					"expanded_url": "https://twitter.com/aprilsour/status/1227432555835621377/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227432458884280300,
+					"id_str": "1227432458884280320",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227432458884280320/pu/img/i6cZlclMXdLuXe_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227432458884280320/pu/img/i6cZlclMXdLuXe_R.jpg",
+					"url": "https://t.co/UTCPlgrQa5",
+					"display_url": "pic.twitter.com/UTCPlgrQa5",
+					"expanded_url": "https://twitter.com/aprilsour/status/1227432555835621377/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60118,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227432458884280320/pu/vid/320x320/eCs2umoPZ1f4e_9_.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227432458884280320/pu/vid/480x480/utgUHK4A-dFmputS.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227432458884280320/pu/vid/720x720/0k2TIDqV8RVA_Q8_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227432458884280320/pu/pl/BVLqWNf8ptLDxGeW.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/C6oTOCoR0W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C6oTOCoR0W",
+							"expanded_url": "https://youtu.be/lrTG-21xYCM",
+							"display_url": "youtu.be/lrTG-21xYCM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10982,
+			"friends_count": 731,
+			"listed_count": 71,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 9743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214103762161131522/1tQK-eHX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214103762161131522/1tQK-eHX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1573442302",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김해원 'Mago: Music For Photography (feat. 김사월)' 오늘 정오 발매 되었습니다. 음원사이트에서 들으실 수 있어요! https://t.co/UTCPlgrQa5"
+	},
+	{
 		"created_at": "Wed Feb 12 03:40:38 +0000 2020",
 		"id": 1227435042600882200,
 		"id_str": "1227437326659465217",
