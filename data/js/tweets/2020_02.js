@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 15:40:38 +0000 2020",
+		"id": 1227974459090321400,
+		"id_str": "1227980909602885633",
+		"full_text": "Get ready to rock!🎵\nCheck out the #TrollsWorldTour soundtrack track listing and click here to pre-order the album: https://t.co/5PjuGVl46z\n\n#레드벨벳 #RedVelvet #Trolls @Trolls https://t.co/jn6jV6IdaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TrollsWorldTour",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Trolls",
+					"name": "DreamWorks Trolls",
+					"id": 4579155913,
+					"id_str": "4579155913",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5PjuGVl46z",
+					"expanded_url": "https://www.twtsoundtrack.com/",
+					"display_url": "twtsoundtrack.com",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227968327009489000,
+					"id_str": "1227968327009488896",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqfe5zUEAUiH8G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqfe5zUEAUiH8G.jpg",
+					"url": "https://t.co/jn6jV6IdaZ",
+					"display_url": "pic.twitter.com/jn6jV6IdaZ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1227974459090321408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227968327009489000,
+					"id_str": "1227968327009488896",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqfe5zUEAUiH8G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqfe5zUEAUiH8G.jpg",
+					"url": "https://t.co/jn6jV6IdaZ",
+					"display_url": "pic.twitter.com/jn6jV6IdaZ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1227974459090321408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227968327009488896/vid/320x568/vSOPHZMlRVz9O6eE.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227968327009488896/vid/360x640/43i7C1NypLz3fsCF.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227968327009488896/vid/720x1280/kubvvtmCofhBE3DW.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1227968327009488896/pl/bJIco_kT9jO8ns4Z.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2288933,
+			"friends_count": 2,
+			"listed_count": 6646,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6064,
+		"favorite_count": 11715,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get ready to rock!🎵\nCheck out the #TrollsWorldTour soundtrack track listing and click here to pre-order the album: https://t.co/5PjuGVl46z\n\n#레드벨벳 #RedVelvet #Trolls @Trolls https://t.co/jn6jV6IdaZ"
+	},
+	{
+		"created_at": "Thu Feb 13 15:30:42 +0000 2020",
+		"id": 1227966472124649500,
+		"id_str": "1227978410716213248",
+		"full_text": "200213 #MCOUNTDOWN 현장포토\n오빛들... 112 좀 불러주세요. 저 미아거든요... 이달소 마음속에서 길 잃은 미아... 도저히 탈출구를 찾을 수가 없어요.. 이달소 매력이 너무 블랙홀이라서♥ #이달의소녀 #LOONA #SoWhat\n\n📺 https://t.co/qCi7rZ7IBi https://t.co/Td9c8n8TCM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						130,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qCi7rZ7IBi",
+					"expanded_url": "https://tv.naver.com/v/12343185",
+					"display_url": "tv.naver.com/v/12343185",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227966452629590000,
+					"id_str": "1227966452629590016",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc-40VUAAI9ru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc-40VUAAI9ru.jpg",
+					"url": "https://t.co/Td9c8n8TCM",
+					"display_url": "pic.twitter.com/Td9c8n8TCM",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966472124649473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227966452629590000,
+					"id_str": "1227966452629590016",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc-40VUAAI9ru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc-40VUAAI9ru.jpg",
+					"url": "https://t.co/Td9c8n8TCM",
+					"display_url": "pic.twitter.com/Td9c8n8TCM",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966472124649473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227966452696699000,
+					"id_str": "1227966452696698881",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc-5EVUAErWZL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc-5EVUAErWZL.jpg",
+					"url": "https://t.co/Td9c8n8TCM",
+					"display_url": "pic.twitter.com/Td9c8n8TCM",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966472124649473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227966452776308700,
+					"id_str": "1227966452776308738",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc-5XUEAIiPMS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc-5XUEAIiPMS.jpg",
+					"url": "https://t.co/Td9c8n8TCM",
+					"display_url": "pic.twitter.com/Td9c8n8TCM",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966472124649473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227966452830859300,
+					"id_str": "1227966452830859264",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc-5kUcAAm1Vy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc-5kUcAAm1Vy.jpg",
+					"url": "https://t.co/Td9c8n8TCM",
+					"display_url": "pic.twitter.com/Td9c8n8TCM",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966472124649473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3900008,
+			"friends_count": 2,
+			"listed_count": 5792,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1566284082",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 606,
+		"favorite_count": 1231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200213 #MCOUNTDOWN 현장포토\n오빛들... 112 좀 불러주세요. 저 미아거든요... 이달소 마음속에서 길 잃은 미아... 도저히 탈출구를 찾을 수가 없어요.. 이달소 매력이 너무 블랙홀이라서♥ #이달의소녀 #LOONA #SoWhat\n\n📺 https://t.co/qCi7rZ7IBi https://t.co/Td9c8n8TCM"
+	},
+	{
+		"created_at": "Thu Feb 13 15:30:34 +0000 2020",
+		"id": 1227966410346901500,
+		"id_str": "1227978376662650881",
+		"full_text": "200213 #MCOUNTDOWN 현장포토\n오빛들... 112 좀 불러주세요. 저 미아거든요... 이달소 마음속에서 길 잃은 미아... 도저히 탈출구를 찾을 수가 없어요.. 이달소 매력이 너무 블랙홀이라서♥ #이달의소녀 #LOONA #SoWhat\n\n📺 https://t.co/qCi7rZpjZS https://t.co/FRrmBdbaN2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						130,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qCi7rZpjZS",
+					"expanded_url": "https://tv.naver.com/v/12343185",
+					"display_url": "tv.naver.com/v/12343185",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227966354608623600,
+					"id_str": "1227966354608623619",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc5LqUEAMN0fr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc5LqUEAMN0fr.jpg",
+					"url": "https://t.co/FRrmBdbaN2",
+					"display_url": "pic.twitter.com/FRrmBdbaN2",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966410346901504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227966354608623600,
+					"id_str": "1227966354608623619",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc5LqUEAMN0fr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc5LqUEAMN0fr.jpg",
+					"url": "https://t.co/FRrmBdbaN2",
+					"display_url": "pic.twitter.com/FRrmBdbaN2",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966410346901504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227966354654843000,
+					"id_str": "1227966354654842881",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc5L1VUAE4YiY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc5L1VUAE4YiY.jpg",
+					"url": "https://t.co/FRrmBdbaN2",
+					"display_url": "pic.twitter.com/FRrmBdbaN2",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966410346901504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227966354738667500,
+					"id_str": "1227966354738667522",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc5MJUYAIu8F4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc5MJUYAIu8F4.jpg",
+					"url": "https://t.co/FRrmBdbaN2",
+					"display_url": "pic.twitter.com/FRrmBdbaN2",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966410346901504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227966354789040000,
+					"id_str": "1227966354789040128",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqc5MVVAAASTVq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqc5MVVAAASTVq.jpg",
+					"url": "https://t.co/FRrmBdbaN2",
+					"display_url": "pic.twitter.com/FRrmBdbaN2",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1227966410346901504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3900008,
+			"friends_count": 2,
+			"listed_count": 5792,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1566284082",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 504,
+		"favorite_count": 1101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200213 #MCOUNTDOWN 현장포토\n오빛들... 112 좀 불러주세요. 저 미아거든요... 이달소 마음속에서 길 잃은 미아... 도저히 탈출구를 찾을 수가 없어요.. 이달소 매력이 너무 블랙홀이라서♥ #이달의소녀 #LOONA #SoWhat\n\n📺 https://t.co/qCi7rZpjZS https://t.co/FRrmBdbaN2"
+	},
+	{
 		"created_at": "Thu Feb 13 15:09:35 +0000 2020",
 		"id": 1227973097627832300,
 		"id_str": "1227973097627832322",
