@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 12:23:17 +0000 2020",
+		"id": 1227745671354179600,
+		"id_str": "1227931243758514177",
+		"full_text": "우린 체감하지 못하지만 노르웨이가 기후 변화로 겪고있는 현재 상황을 너무 잘 보여주며 그 심각함을 일깨워주는 웹사이트. 어떤 변화가 있는지만 보여주는 것이 아니라 기후변화로 인한 변화들이 인간의 생활을 어떻게 바뀌었는지,또 우리는 어떻게 대비할지에 대해 질문 https://t.co/3OrxdLhI5M https://t.co/bN9t4xjR4d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3OrxdLhI5M",
+					"expanded_url": "https://www.nrk.no/chasing-climate-change-1.14859595",
+					"display_url": "nrk.no/chasing-climat…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227745669168980000,
+					"id_str": "1227745669168979970",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQnULmVXYAINdGC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQnULmVXYAINdGC.jpg",
+					"url": "https://t.co/bN9t4xjR4d",
+					"display_url": "pic.twitter.com/bN9t4xjR4d",
+					"expanded_url": "https://twitter.com/minist/status/1227745671354179585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227745669168980000,
+					"id_str": "1227745669168979970",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQnULmVXYAINdGC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQnULmVXYAINdGC.jpg",
+					"url": "https://t.co/bN9t4xjR4d",
+					"display_url": "pic.twitter.com/bN9t4xjR4d",
+					"expanded_url": "https://twitter.com/minist/status/1227745671354179585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64598,
+			"friends_count": 717,
+			"listed_count": 931,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우린 체감하지 못하지만 노르웨이가 기후 변화로 겪고있는 현재 상황을 너무 잘 보여주며 그 심각함을 일깨워주는 웹사이트. 어떤 변화가 있는지만 보여주는 것이 아니라 기후변화로 인한 변화들이 인간의 생활을 어떻게 바뀌었는지,또 우리는 어떻게 대비할지에 대해 질문 https://t.co/3OrxdLhI5M https://t.co/bN9t4xjR4d"
+	},
+	{
+		"created_at": "Thu Feb 13 12:14:17 +0000 2020",
+		"id": 1227854651208302600,
+		"id_str": "1227928980671483905",
+		"full_text": "@MakeA_better 안녕하세요:) 데일리패드는 제가 운영하는 문구브랜드 라 자르디니에에서 제작했어요. 여기에서 구매하실 수 있답니다😊\nhttps://t.co/dNUYPXgpBT",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MakeA_better",
+					"name": "ㅌㄲ",
+					"id": 419980297,
+					"id_str": "419980297",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dNUYPXgpBT",
+					"expanded_url": "https://m.smartstore.naver.com/la_jardiniere/products/4796482619",
+					"display_url": "m.smartstore.naver.com/la_jardiniere/…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227853677785780200,
+		"in_reply_to_status_id_str": "1227853677785780224",
+		"in_reply_to_user_id": 419980297,
+		"in_reply_to_user_id_str": "419980297",
+		"in_reply_to_screen_name": "MakeA_better",
+		"user": {
+			"id": 982618987598000100,
+			"id_str": "982618987598000128",
+			"name": "일상정원사",
+			"screen_name": "la_jardiniere_",
+			"location": "",
+			"description": "기분장애를 위한 문구브랜드 라 자르디니에, 개 두마리, 고양이 두마리와 함께 살며 가지고 싶은 것을 만들어요. 테라피북과 오르빗북은 네이버스토어에서 주문가능하세요:)",
+			"url": "https://t.co/CWTJwgvrTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CWTJwgvrTk",
+							"expanded_url": "https://smartstore.naver.com/la_jardiniere",
+							"display_url": "smartstore.naver.com/la_jardiniere",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1878,
+			"friends_count": 419,
+			"listed_count": 15,
+			"created_at": "Sat Apr 07 13:59:57 +0000 2018",
+			"favourites_count": 23618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982623118249230336/mD7CBBVM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982623118249230336/mD7CBBVM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/982618987598000128/1563228771",
+			"profile_link_color": "FFB6C1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@MakeA_better 안녕하세요:) 데일리패드는 제가 운영하는 문구브랜드 라 자르디니에에서 제작했어요. 여기에서 구매하실 수 있답니다😊\nhttps://t.co/dNUYPXgpBT"
+	},
+	{
+		"created_at": "Thu Feb 13 12:14:08 +0000 2020",
+		"id": 1227829177136472000,
+		"id_str": "1227928941446385665",
+		"full_text": "제가 작성한 데일리패드 낱장 일부. \n파랑색:집안일이나 최소한의 자기돌봄\n노랑색:업무\n회색:휴식\n분홍색:자기개발\n인데 데일리패드 쓰면서 내가 너무 일밖에 모르는구나를 깨닫고 초반에 깨닫고 흥미위주의 자기개발로 행동풍부화를 했더니ㅋㅋ사는 게 좀 긍정적이 되었어요. https://t.co/i5qArn28kx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227829155808440300,
+					"id_str": "1227829155808440321",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EQogHKTUcAEb-5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQogHKTUcAEb-5q.jpg",
+					"url": "https://t.co/i5qArn28kx",
+					"display_url": "pic.twitter.com/i5qArn28kx",
+					"expanded_url": "https://twitter.com/la_jardiniere_/status/1227829177136472067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227829155808440300,
+					"id_str": "1227829155808440321",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EQogHKTUcAEb-5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQogHKTUcAEb-5q.jpg",
+					"url": "https://t.co/i5qArn28kx",
+					"display_url": "pic.twitter.com/i5qArn28kx",
+					"expanded_url": "https://twitter.com/la_jardiniere_/status/1227829177136472067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 982618987598000100,
+			"id_str": "982618987598000128",
+			"name": "일상정원사",
+			"screen_name": "la_jardiniere_",
+			"location": "",
+			"description": "기분장애를 위한 문구브랜드 라 자르디니에, 개 두마리, 고양이 두마리와 함께 살며 가지고 싶은 것을 만들어요. 테라피북과 오르빗북은 네이버스토어에서 주문가능하세요:)",
+			"url": "https://t.co/CWTJwgvrTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CWTJwgvrTk",
+							"expanded_url": "https://smartstore.naver.com/la_jardiniere",
+							"display_url": "smartstore.naver.com/la_jardiniere",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1878,
+			"friends_count": 419,
+			"listed_count": 15,
+			"created_at": "Sat Apr 07 13:59:57 +0000 2018",
+			"favourites_count": 23618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982623118249230336/mD7CBBVM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982623118249230336/mD7CBBVM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/982618987598000128/1563228771",
+			"profile_link_color": "FFB6C1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제가 작성한 데일리패드 낱장 일부. \n파랑색:집안일이나 최소한의 자기돌봄\n노랑색:업무\n회색:휴식\n분홍색:자기개발\n인데 데일리패드 쓰면서 내가 너무 일밖에 모르는구나를 깨닫고 초반에 깨닫고 흥미위주의 자기개발로 행동풍부화를 했더니ㅋㅋ사는 게 좀 긍정적이 되었어요. https://t.co/i5qArn28kx"
+	},
+	{
+		"created_at": "Thu Feb 13 12:13:13 +0000 2020",
+		"id": 1227928711380385800,
+		"id_str": "1227928711380385792",
+		"full_text": "하박국님 소니 WF-1000XM3 리뷰 보고 사야겠다고 결심했는데 사고 싶은 게 자꾸 생겨서 못 사는 중.\nhttps://t.co/oBpdkujTXv\n\n디렘 E3과 QCY-T5 쓰다가 이번에 디렘 KASA 샀음. 폰바꾸면 버즈 살 꺼라서 언제 살 지 기일이 없음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oBpdkujTXv",
+					"expanded_url": "https://youtu.be/VdiQ2N4GMRE",
+					"display_url": "youtu.be/VdiQ2N4GMRE",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하박국님 소니 WF-1000XM3 리뷰 보고 사야겠다고 결심했는데 사고 싶은 게 자꾸 생겨서 못 사는 중.\nhttps://t.co/oBpdkujTXv\n\n디렘 E3과 QCY-T5 쓰다가 이번에 디렘 KASA 샀음. 폰바꾸면 버즈 살 꺼라서 언제 살 지 기일이 없음."
+	},
+	{
 		"created_at": "Thu Feb 13 11:40:43 +0000 2020",
 		"id": 1227909537383895000,
 		"id_str": "1227920534345785344",
