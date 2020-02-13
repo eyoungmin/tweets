@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 11:40:43 +0000 2020",
+		"id": 1227909537383895000,
+		"id_str": "1227920534345785344",
+		"full_text": "[#예술경영 웹진 제441호] 발행! 👏👏👏\n\n&lt;공공기관 기획자의 전문성은 어떻게 희석되는가&gt;\n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 🔽\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/vJX5NmNgWc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						165,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nnJOswx4up",
+					"expanded_url": "http://www.gokams.or.kr/webzine/",
+					"display_url": "gokams.or.kr/webzine/",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/ot3uNW18eC",
+					"expanded_url": "http://www.gokams.or.kr/webzine/mobile/",
+					"display_url": "gokams.or.kr/webzine/mobile/",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227909528160632800,
+					"id_str": "1227909528160632832",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EQppNcpVAAAgjJ1.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQppNcpVAAAgjJ1.png",
+					"url": "https://t.co/vJX5NmNgWc",
+					"display_url": "pic.twitter.com/vJX5NmNgWc",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1227909537383895040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 606,
+							"h": 439,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 606,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 606,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227909528160632800,
+					"id_str": "1227909528160632832",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EQppNcpVAAAgjJ1.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQppNcpVAAAgjJ1.png",
+					"url": "https://t.co/vJX5NmNgWc",
+					"display_url": "pic.twitter.com/vJX5NmNgWc",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1227909537383895040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 606,
+							"h": 439,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 606,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 606,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6845,
+			"friends_count": 3106,
+			"listed_count": 121,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 제441호] 발행! 👏👏👏\n\n&lt;공공기관 기획자의 전문성은 어떻게 희석되는가&gt;\n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 🔽\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/vJX5NmNgWc"
+	},
+	{
 		"created_at": "Thu Feb 13 10:49:55 +0000 2020",
 		"id": 1227895189341012000,
 		"id_str": "1227907747322171393",
@@ -922,7 +1144,7 @@ Grailbird.data.tweets_2020_02 =
 		"created_at": "Thu Feb 13 10:40:37 +0000 2020",
 		"id": 1227895319448281000,
 		"id_str": "1227905409941475328",
-		"full_text": "[MULTI/VERSE] Butterfly-이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/ZqtN521Q9D\nHD PHOTO▶️ https://t.co/Ow2EJB3OK6\nMULTI/VERSE▶️ https://t.co/JPdYI2XjyB\n​\n#브이라이브 #멀티버스 #이달의소녀 #버터플라이 #VLIVE #MULTIVERSE #LOONA #Butterfly",
+		"full_text": "[MULTI/VERSE] Butterfly-이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/ZqtN521Q9D\nHD PHOTO▶️ https://t.co/Ow2EJB3OK6\nMULTI/VERSE▶️ https://t.co/JPdYI2XjyB\n\n#브이라이브 #멀티버스 #이달의소녀 #버터플라이 #VLIVE #MULTIVERSE #LOONA #Butterfly",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1097,7 +1319,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[MULTI/VERSE] Butterfly-이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/ZqtN521Q9D\nHD PHOTO▶️ https://t.co/Ow2EJB3OK6\nMULTI/VERSE▶️ https://t.co/JPdYI2XjyB\n​\n#브이라이브 #멀티버스 #이달의소녀 #버터플라이 #VLIVE #MULTIVERSE #LOONA #Butterfly"
+		"text": "[MULTI/VERSE] Butterfly-이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/ZqtN521Q9D\nHD PHOTO▶️ https://t.co/Ow2EJB3OK6\nMULTI/VERSE▶️ https://t.co/JPdYI2XjyB\n\n#브이라이브 #멀티버스 #이달의소녀 #버터플라이 #VLIVE #MULTIVERSE #LOONA #Butterfly"
 	},
 	{
 		"created_at": "Thu Feb 13 10:36:11 +0000 2020",
