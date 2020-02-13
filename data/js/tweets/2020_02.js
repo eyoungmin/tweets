@@ -1,6 +1,1320 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 10:49:55 +0000 2020",
+		"id": 1227895189341012000,
+		"id_str": "1227907747322171393",
+		"full_text": "[#원덕후의직캠] 토끼 같은 게 So What! 큐트핸썸걸크러쉬 만능토끼 희진🐰\n#이달의소녀 #희진 #LOONA #HeeJin #SoWhat @loonatheworld https://t.co/zo3zlGUwma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "원덕후의직캠",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						79,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227815725915467800,
+					"id_str": "1227815725915467776",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227815725915467776/img/oFoKKiSzV6PSVr32.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227815725915467776/img/oFoKKiSzV6PSVr32.jpg",
+					"url": "https://t.co/zo3zlGUwma",
+					"display_url": "pic.twitter.com/zo3zlGUwma",
+					"expanded_url": "https://twitter.com/1theK/status/1227895189341011968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227815725915467800,
+					"id_str": "1227815725915467776",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227815725915467776/img/oFoKKiSzV6PSVr32.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227815725915467776/img/oFoKKiSzV6PSVr32.jpg",
+					"url": "https://t.co/zo3zlGUwma",
+					"display_url": "pic.twitter.com/zo3zlGUwma",
+					"expanded_url": "https://twitter.com/1theK/status/1227895189341011968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 201250,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227815725915467776/vid/360x640/R-LRN7t7N8VsqKby.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227815725915467776/vid/720x1280/ZaA4mrYksQ-ixM4b.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227815725915467776/vid/320x568/Yy7zlHXlaJNetBsL.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1227815725915467776/pl/K2Jb8zW_RIyyswmx.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[1theK Fancam] 이달의 소녀(LOONA) - So What (희진 HeeJin ver.)",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/fxbVM-3Txs8"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832354,
+			"friends_count": 807,
+			"listed_count": 2768,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 325,
+		"favorite_count": 592,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#원덕후의직캠] 토끼 같은 게 So What! 큐트핸썸걸크러쉬 만능토끼 희진🐰\n#이달의소녀 #희진 #LOONA #HeeJin #SoWhat @loonatheworld https://t.co/zo3zlGUwma"
+	},
+	{
+		"created_at": "Thu Feb 13 10:49:48 +0000 2020",
+		"id": 1227895187885695000,
+		"id_str": "1227907721514622976",
+		"full_text": "[#원덕후의직캠] 리리리 자로 끝나는 것 중 가장 최고라는 최리 세로캠🍒\n#이달의소녀 #최리 #LOONA #Choerry #SoWhat @loonatheworld https://t.co/i8aLQLVK3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "원덕후의직캠",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						76,
+						90
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227815725969969200,
+					"id_str": "1227815725969969152",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227815725969969152/img/aKhwuSfNP-YmCovu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227815725969969152/img/aKhwuSfNP-YmCovu.jpg",
+					"url": "https://t.co/i8aLQLVK3E",
+					"display_url": "pic.twitter.com/i8aLQLVK3E",
+					"expanded_url": "https://twitter.com/1theK/status/1227895187885694976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227815725969969200,
+					"id_str": "1227815725969969152",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227815725969969152/img/aKhwuSfNP-YmCovu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227815725969969152/img/aKhwuSfNP-YmCovu.jpg",
+					"url": "https://t.co/i8aLQLVK3E",
+					"display_url": "pic.twitter.com/i8aLQLVK3E",
+					"expanded_url": "https://twitter.com/1theK/status/1227895187885694976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 201250,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227815725969969152/vid/720x1280/6L5kYgiSYEVFWzLw.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227815725969969152/vid/320x568/wOTRNPAABrkuYhD0.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1227815725969969152/pl/BN0ED2m5NrOXSiHS.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227815725969969152/vid/360x640/IJYDWvorIqhybrEo.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[1theK Fancam] 이달의 소녀(LOONA) - So What (최리 Choerry ver.)",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/Lq1nuViEVX4"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832354,
+			"friends_count": 807,
+			"listed_count": 2768,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 291,
+		"favorite_count": 567,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#원덕후의직캠] 리리리 자로 끝나는 것 중 가장 최고라는 최리 세로캠🍒\n#이달의소녀 #최리 #LOONA #Choerry #SoWhat @loonatheworld https://t.co/i8aLQLVK3E"
+	},
+	{
+		"created_at": "Thu Feb 13 10:49:44 +0000 2020",
+		"id": 1227895187281563600,
+		"id_str": "1227907704313827328",
+		"full_text": "[1theK Dance Cover Contest] #LOONA (@loonatheworld) 'So What'\n#이달의소녀 가 직접 뽑는 'So What' 댄스 커버 콘테스트!\n\n아래 폼을 작성하여 참여해주세요 👇\nFill out this form to participate in ▶ https://t.co/iZayzJ1SVS (~2/28) https://t.co/xjwjPwEaxu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						36,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iZayzJ1SVS",
+					"expanded_url": "http://bit.ly/31MsGSK",
+					"display_url": "bit.ly/31MsGSK",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227790698558025700,
+					"id_str": "1227790698558025729",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227790698558025729/img/bYNkEUU2pmvlE11O.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227790698558025729/img/bYNkEUU2pmvlE11O.jpg",
+					"url": "https://t.co/xjwjPwEaxu",
+					"display_url": "pic.twitter.com/xjwjPwEaxu",
+					"expanded_url": "https://twitter.com/1theK/status/1227895187281563649/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227790698558025700,
+					"id_str": "1227790698558025729",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227790698558025729/img/bYNkEUU2pmvlE11O.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227790698558025729/img/bYNkEUU2pmvlE11O.jpg",
+					"url": "https://t.co/xjwjPwEaxu",
+					"display_url": "pic.twitter.com/xjwjPwEaxu",
+					"expanded_url": "https://twitter.com/1theK/status/1227895187281563649/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 235777,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227790698558025729/vid/640x360/5E6DCVnNenyJ4NNu.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227790698558025729/vid/480x270/9A0pXidWqMDwK290.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227790698558025729/vid/1280x720/kxChgUkhWDedommc.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1227790698558025729/pl/fbdqftbTh97boq16.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[1theK Dance Cover Contest] 이달의 소녀(LOONA) - So What",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/KraPZ7qt8fA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832354,
+			"friends_count": 807,
+			"listed_count": 2768,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 509,
+		"favorite_count": 826,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[1theK Dance Cover Contest] #LOONA (@loonatheworld) 'So What'\n#이달의소녀 가 직접 뽑는 'So What' 댄스 커버 콘테스트!\n\n아래 폼을 작성하여 참여해주세요 👇\nFill out this form to participate in ▶ https://t.co/iZayzJ1SVS (~2/28) https://t.co/xjwjPwEaxu"
+	},
+	{
+		"created_at": "Thu Feb 13 10:42:19 +0000 2020",
+		"id": 1227905836573282300,
+		"id_str": "1227905836573282304",
+		"full_text": "#Twitter #트위터 #트위터검색 #덕질꿀팁\n\n아이돌/K-POP 관련 콘텐츠 중에서 내가 좋아하는 그룹의 트윗만 보는 방법\n\nlist:fromminn/entertainment \"그룹명\" OR \"그룹명 영문\"\n\ne.g.)\nhttps://t.co/BN0cUvB6ND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "트위터",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "트위터검색",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "덕질꿀팁",
+					"indices": [
+						21,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BN0cUvB6ND",
+					"expanded_url": "https://twitter.com/search?q=list%3Afromminn%2Fentertainment%20%22%ED%83%9C%EC%97%B0%22%20OR%20%22TAEYEON%22",
+					"display_url": "twitter.com/search?q=list%…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 893,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #트위터 #트위터검색 #덕질꿀팁\n\n아이돌/K-POP 관련 콘텐츠 중에서 내가 좋아하는 그룹의 트윗만 보는 방법\n\nlist:fromminn/entertainment \"그룹명\" OR \"그룹명 영문\"\n\ne.g.)\nhttps://t.co/BN0cUvB6ND"
+	},
+	{
+		"created_at": "Thu Feb 13 10:40:37 +0000 2020",
+		"id": 1227895319448281000,
+		"id_str": "1227905409941475328",
+		"full_text": "[MULTI/VERSE] Butterfly-이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/ZqtN521Q9D\nHD PHOTO▶️ https://t.co/Ow2EJB3OK6\nMULTI/VERSE▶️ https://t.co/JPdYI2XjyB\n​\n#브이라이브 #멀티버스 #이달의소녀 #버터플라이 #VLIVE #MULTIVERSE #LOONA #Butterfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브이라이브",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "멀티버스",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "버터플라이",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "MULTIVERSE",
+					"indices": [
+						206,
+						217
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						218,
+						224
+					]
+				},
+				{
+					"text": "Butterfly",
+					"indices": [
+						225,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZqtN521Q9D",
+					"expanded_url": "https://www.vlive.tv/video/175186",
+					"display_url": "vlive.tv/video/175186",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/Ow2EJB3OK6",
+					"expanded_url": "https://bit.ly/2HwkVal",
+					"display_url": "bit.ly/2HwkVal",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/JPdYI2XjyB",
+					"expanded_url": "https://www.vlive.tv/video/175180",
+					"display_url": "vlive.tv/video/175180",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3572828,
+			"friends_count": 168,
+			"listed_count": 1950,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1209,
+		"favorite_count": 2903,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MULTI/VERSE] Butterfly-이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/ZqtN521Q9D\nHD PHOTO▶️ https://t.co/Ow2EJB3OK6\nMULTI/VERSE▶️ https://t.co/JPdYI2XjyB\n​\n#브이라이브 #멀티버스 #이달의소녀 #버터플라이 #VLIVE #MULTIVERSE #LOONA #Butterfly"
+	},
+	{
+		"created_at": "Thu Feb 13 10:36:11 +0000 2020",
+		"id": 1227863230325780500,
+		"id_str": "1227904294537482245",
+		"full_text": "제92회 #아카데미시상식 의상상🏆\n#작은아씨들 2/12일 개봉!\n상상마당 시네마 절찬 상영중!\n📍예고편 : https://t.co/ZCxtbJZmGl\n\n• 장소 : KT&amp;G #상상마당시네마\n• 시간 : 135분\n• 장르 : 드라마, 로맨스\n• 예매 : https://t.co/UkyoAwHDLP https://t.co/cEwSqS8L8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아카데미시상식",
+					"indices": [
+						5,
+						13
+					]
+				},
+				{
+					"text": "작은아씨들",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "상상마당시네마",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZCxtbJZmGl",
+					"expanded_url": "http://bit.ly/2P5wM3l",
+					"display_url": "bit.ly/2P5wM3l",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/UkyoAwHDLP",
+					"expanded_url": "http://bit.ly/33uNn6a",
+					"display_url": "bit.ly/33uNn6a",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227863202664304600,
+					"id_str": "1227863202664304640",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQo_E8uUUAAIhnS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQo_E8uUUAAIhnS.jpg",
+					"url": "https://t.co/cEwSqS8L8u",
+					"display_url": "pic.twitter.com/cEwSqS8L8u",
+					"expanded_url": "https://twitter.com/SSmadang/status/1227863230325780481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227863202664304600,
+					"id_str": "1227863202664304640",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQo_E8uUUAAIhnS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQo_E8uUUAAIhnS.jpg",
+					"url": "https://t.co/cEwSqS8L8u",
+					"display_url": "pic.twitter.com/cEwSqS8L8u",
+					"expanded_url": "https://twitter.com/SSmadang/status/1227863230325780481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18936,
+			"friends_count": 1991,
+			"listed_count": 315,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제92회 #아카데미시상식 의상상🏆\n#작은아씨들 2/12일 개봉!\n상상마당 시네마 절찬 상영중!\n📍예고편 : https://t.co/ZCxtbJZmGl\n\n• 장소 : KT&amp;G #상상마당시네마\n• 시간 : 135분\n• 장르 : 드라마, 로맨스\n• 예매 : https://t.co/UkyoAwHDLP https://t.co/cEwSqS8L8u"
+	},
+	{
 		"created_at": "Thu Feb 13 09:50:10 +0000 2020",
 		"id": 1227870057578950700,
 		"id_str": "1227892714638905344",
