@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 18:12:18 +0000 2020",
+		"id": 1227749224457986000,
+		"id_str": "1228019080554110976",
+		"full_text": "잠들지 않고 눈만 감고 있어도 피로 해소 효과가 있다고 합니다. #수면 #불면증 #스마트리빙 https://t.co/X1oARHwTA8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "수면",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "불면증",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "스마트리빙",
+					"indices": [
+						45,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227725565743882200,
+					"id_str": "1227725565743882240",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227725565743882240/img/_516GEnG_tebKEiM.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227725565743882240/img/_516GEnG_tebKEiM.jpg",
+					"url": "https://t.co/X1oARHwTA8",
+					"display_url": "pic.twitter.com/X1oARHwTA8",
+					"expanded_url": "https://twitter.com/mbcnews/status/1227749224457986048/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227725565743882200,
+					"id_str": "1227725565743882240",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1227725565743882240/img/_516GEnG_tebKEiM.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1227725565743882240/img/_516GEnG_tebKEiM.jpg",
+					"url": "https://t.co/X1oARHwTA8",
+					"display_url": "pic.twitter.com/X1oARHwTA8",
+					"expanded_url": "https://twitter.com/mbcnews/status/1227749224457986048/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 59167,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1227725565743882240/pl/JtM1AZ-BDorLGkuY.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227725565743882240/vid/480x272/avkGIJHIjuiEImyx.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "눈만 감고 있어도 피로 풀려요",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://imnews.imbc.com/replay/2020/nwtoday/article/5660424_32531.html"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390997,
+			"friends_count": 149958,
+			"listed_count": 3670,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 139213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3970,
+		"favorite_count": 1652,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠들지 않고 눈만 감고 있어도 피로 해소 효과가 있다고 합니다. #수면 #불면증 #스마트리빙 https://t.co/X1oARHwTA8"
+	},
+	{
 		"created_at": "Thu Feb 13 17:33:10 +0000 2020",
 		"id": 1228009230084530200,
 		"id_str": "1228009230084530181",
