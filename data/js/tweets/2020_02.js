@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 09:30:32 +0000 2020",
+		"id": 1228246450414309400,
+		"id_str": "1228250157852057602",
+		"full_text": "Participate in this #ASCSurvey and request missions for @loonatheworld! #LOONA_ASC #arirang_ASC \nLINK: https://t.co/5VXAgA6eMW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ASCSurvey",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"text": "LOONA_ASC",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "arirang_ASC",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5VXAgA6eMW",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSekZaUTBkGd5JKNtfyMvf3JzqzkH9nPA5rOUA_8lY8oKKULEw/viewform",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698596,
+			"friends_count": 239,
+			"listed_count": 1301,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Participate in this #ASCSurvey and request missions for @loonatheworld! #LOONA_ASC #arirang_ASC \nLINK: https://t.co/5VXAgA6eMW"
+	},
+	{
 		"created_at": "Fri Feb 14 08:30:31 +0000 2020",
 		"id": 1228226866709811200,
 		"id_str": "1228235057728352258",
