@@ -1,6 +1,1442 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 08:30:31 +0000 2020",
+		"id": 1228226866709811200,
+		"id_str": "1228235057728352258",
+		"full_text": "오빛들 쏘왓챌린지 연습 잠깐 쉬는시간✋ 킹달소 현장포토 보고가용💖\n현포 보고 있는 ❕당신도 이달의 소녀입니다❕ (연구원도,,)\n\n📷☞https://t.co/o8mUxRZuJ7\n\n200208 #쇼음악중심 #음중 #LOONA #이달의소녀 #SoWhat @loonatheworld https://t.co/FrwFwWpX2Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						139,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o8mUxRZuJ7",
+					"expanded_url": "http://naver.me/FR7S9X6E",
+					"display_url": "naver.me/FR7S9X6E",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228226853741023200,
+					"id_str": "1228226853741023233",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuJ0OjUUAEXOOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuJ0OjUUAEXOOH.jpg",
+					"url": "https://t.co/FrwFwWpX2Q",
+					"display_url": "pic.twitter.com/FrwFwWpX2Q",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1228226866709811203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228226853741023200,
+					"id_str": "1228226853741023233",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuJ0OjUUAEXOOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuJ0OjUUAEXOOH.jpg",
+					"url": "https://t.co/FrwFwWpX2Q",
+					"display_url": "pic.twitter.com/FrwFwWpX2Q",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1228226866709811203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228226853741027300,
+					"id_str": "1228226853741027330",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuJ0OjUYAI9l0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuJ0OjUYAI9l0F.jpg",
+					"url": "https://t.co/FrwFwWpX2Q",
+					"display_url": "pic.twitter.com/FrwFwWpX2Q",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1228226866709811203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228226853971718100,
+					"id_str": "1228226853971718152",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuJ0PaUcAg3I4x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuJ0PaUcAg3I4x.jpg",
+					"url": "https://t.co/FrwFwWpX2Q",
+					"display_url": "pic.twitter.com/FrwFwWpX2Q",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1228226866709811203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228226853741088800,
+					"id_str": "1228226853741088769",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuJ0OjVUAEPobK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuJ0OjVUAEPobK.jpg",
+					"url": "https://t.co/FrwFwWpX2Q",
+					"display_url": "pic.twitter.com/FrwFwWpX2Q",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1228226866709811203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 786108,
+			"friends_count": 5,
+			"listed_count": 1271,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 309,
+		"favorite_count": 570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛들 쏘왓챌린지 연습 잠깐 쉬는시간✋ 킹달소 현장포토 보고가용💖\n현포 보고 있는 ❕당신도 이달의 소녀입니다❕ (연구원도,,)\n\n📷☞https://t.co/o8mUxRZuJ7\n\n200208 #쇼음악중심 #음중 #LOONA #이달의소녀 #SoWhat @loonatheworld https://t.co/FrwFwWpX2Q"
+	},
+	{
+		"created_at": "Fri Feb 14 08:29:57 +0000 2020",
+		"id": 1228234913251385300,
+		"id_str": "1228234913251385349",
+		"full_text": "프로필 이미지 뿐 아니라 프로필 수정해도 체크해서 트윗하는 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1228230206629896200,
+		"in_reply_to_status_id_str": "1228230206629896195",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 900,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "프로필 이미지 뿐 아니라 프로필 수정해도 체크해서 트윗하는 듯."
+	},
+	{
+		"created_at": "Fri Feb 14 08:25:47 +0000 2020",
+		"id": 1228185205338280000,
+		"id_str": "1228233866390859777",
+		"full_text": "현재 판매중인 슈퍼얼리버드 티켓은 월요일 오전 9시까지 예매가 가능합니다. 지금 가장 할인율이 높은 티켓이니, 구매를 원하시는 분들은 예매를 서둘러주세요!\n\n바로 예매➡\n티켓링크 https://t.co/Ya37Ojr8MA\n네이버예약 https://t.co/pimYvoYNL9\n(양일권 110,000원 / 일일권 66,000원)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ya37Ojr8MA",
+					"expanded_url": "https://bit.ly/30D3Kwm",
+					"display_url": "bit.ly/30D3Kwm",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/pimYvoYNL9",
+					"expanded_url": "https://bit.ly/379eyEN",
+					"display_url": "bit.ly/379eyEN",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228183750040682500,
+		"in_reply_to_status_id_str": "1228183750040682499",
+		"in_reply_to_user_id": 116351905,
+		"in_reply_to_user_id_str": "116351905",
+		"in_reply_to_screen_name": "GREENPLUGGED",
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12340,
+			"friends_count": 167,
+			"listed_count": 251,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현재 판매중인 슈퍼얼리버드 티켓은 월요일 오전 9시까지 예매가 가능합니다. 지금 가장 할인율이 높은 티켓이니, 구매를 원하시는 분들은 예매를 서둘러주세요!\n\n바로 예매➡\n티켓링크 https://t.co/Ya37Ojr8MA\n네이버예약 https://t.co/pimYvoYNL9\n(양일권 110,000원 / 일일권 66,000원)"
+	},
+	{
+		"created_at": "Fri Feb 14 08:25:45 +0000 2020",
+		"id": 1228183750040682500,
+		"id_str": "1228233856781668352",
+		"full_text": "그린랜드의 문이 열리면, 그 안에선 어떤 특별한 것들이 우리를 기다리고 있을까요? 우선 그린랜드를 빛내줄 2차 라인업 아티스트부터 확인해보세요🤗\n2월 17일 월요일 오후 2시, 잊지마세요!\n\n✔️2월 17일(월) 오후 2시✔️\n👉 2차라인업 발표\n👉 아티스트별 출연일 공개\n👉 얼리버드 티켓오픈 https://t.co/Zy5zJHWG56",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228183576207736800,
+					"id_str": "1228183576207736832",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228183576207736832/pu/img/WEMzoYPOlXiVy_ux.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228183576207736832/pu/img/WEMzoYPOlXiVy_ux.jpg",
+					"url": "https://t.co/Zy5zJHWG56",
+					"display_url": "pic.twitter.com/Zy5zJHWG56",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1228183750040682499/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228183576207736800,
+					"id_str": "1228183576207736832",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228183576207736832/pu/img/WEMzoYPOlXiVy_ux.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228183576207736832/pu/img/WEMzoYPOlXiVy_ux.jpg",
+					"url": "https://t.co/Zy5zJHWG56",
+					"display_url": "pic.twitter.com/Zy5zJHWG56",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1228183750040682499/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57958,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228183576207736832/pu/vid/480x270/8Z2quJ8PjNDerfNu.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228183576207736832/pu/vid/1280x720/TruYTEFxYksB5RSN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1228183576207736832/pu/pl/ZLhS6hGwwhGkc3oF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228183576207736832/pu/vid/640x360/bbZjWZbqUE6RtWbQ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12340,
+			"friends_count": 167,
+			"listed_count": 251,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그린랜드의 문이 열리면, 그 안에선 어떤 특별한 것들이 우리를 기다리고 있을까요? 우선 그린랜드를 빛내줄 2차 라인업 아티스트부터 확인해보세요🤗\n2월 17일 월요일 오후 2시, 잊지마세요!\n\n✔️2월 17일(월) 오후 2시✔️\n👉 2차라인업 발표\n👉 아티스트별 출연일 공개\n👉 얼리버드 티켓오픈 https://t.co/Zy5zJHWG56"
+	},
+	{
+		"created_at": "Fri Feb 14 08:14:57 +0000 2020",
+		"id": 1228156031915581400,
+		"id_str": "1228231137236897800",
+		"full_text": "섬처럼 동떨어진 곳이 (서울시 표현을 빌려) '활성화'되려면 대단히 강력한 참여를 이끌 수 있는 프로그램이 필요. UE가 북서울미술관에서 해도 미어터지는 것처럼. 그런데 이런 유인도 며칠이지 장기 유지되기는 불가능.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228152656494907400,
+		"in_reply_to_status_id_str": "1228152656494907392",
+		"in_reply_to_user_id": 87339588,
+		"in_reply_to_user_id_str": "87339588",
+		"in_reply_to_screen_name": "saabung",
+		"user": {
+			"id": 87339588,
+			"id_str": "87339588",
+			"name": "more bass!",
+			"screen_name": "saabung",
+			"location": "서울, Seoul, Republic of Korea",
+			"description": "editor & architecture critic. Mati Books, Spectres of the State Avant-Garde 편집자 & 건축비평가, 도서출판 마티, 국가 아방가르드의 유령",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 643,
+			"listed_count": 44,
+			"created_at": "Wed Nov 04 02:02:01 +0000 2009",
+			"favourites_count": 7909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87339588/1560995267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "섬처럼 동떨어진 곳이 (서울시 표현을 빌려) '활성화'되려면 대단히 강력한 참여를 이끌 수 있는 프로그램이 필요. UE가 북서울미술관에서 해도 미어터지는 것처럼. 그런데 이런 유인도 며칠이지 장기 유지되기는 불가능."
+	},
+	{
+		"created_at": "Fri Feb 14 08:14:51 +0000 2020",
+		"id": 1228152656494907400,
+		"id_str": "1228231112423378944",
+		"full_text": "홍대 앞 청춘마루가 잘 작동하는 건 (설계를 잘 한 것 이전에) 홍대 9번 출구 앞이기 때문이다. 쉬고 앉을 곳만 있으면 무슨 일이든 벌어질 수밖에 없는 곳.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228151075561062400,
+		"in_reply_to_status_id_str": "1228151075561062401",
+		"in_reply_to_user_id": 87339588,
+		"in_reply_to_user_id_str": "87339588",
+		"in_reply_to_screen_name": "saabung",
+		"user": {
+			"id": 87339588,
+			"id_str": "87339588",
+			"name": "more bass!",
+			"screen_name": "saabung",
+			"location": "서울, Seoul, Republic of Korea",
+			"description": "editor & architecture critic. Mati Books, Spectres of the State Avant-Garde 편집자 & 건축비평가, 도서출판 마티, 국가 아방가르드의 유령",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 643,
+			"listed_count": 44,
+			"created_at": "Wed Nov 04 02:02:01 +0000 2009",
+			"favourites_count": 7909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87339588/1560995267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "홍대 앞 청춘마루가 잘 작동하는 건 (설계를 잘 한 것 이전에) 홍대 9번 출구 앞이기 때문이다. 쉬고 앉을 곳만 있으면 무슨 일이든 벌어질 수밖에 없는 곳."
+	},
+	{
+		"created_at": "Fri Feb 14 08:14:48 +0000 2020",
+		"id": 1228151075561062400,
+		"id_str": "1228231102449377286",
+		"full_text": "부천 아트 벙커가 처한 위치도 마찬가지. 건축의 성취와 무관하게 실패한 문화 재생 프로젝트가 될 수밖에 없는 입지. 공공 공간의 성패는 첫째도 입지, 둘째도 입지. 시민들의 자연스러운 점유와 행위는 절대 섬처럼 떨어진 곳에서는 일어나지 않는다는 건 다 아는 이야기 아닌가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228149422376177700,
+		"in_reply_to_status_id_str": "1228149422376177664",
+		"in_reply_to_user_id": 87339588,
+		"in_reply_to_user_id_str": "87339588",
+		"in_reply_to_screen_name": "saabung",
+		"user": {
+			"id": 87339588,
+			"id_str": "87339588",
+			"name": "more bass!",
+			"screen_name": "saabung",
+			"location": "서울, Seoul, Republic of Korea",
+			"description": "editor & architecture critic. Mati Books, Spectres of the State Avant-Garde 편집자 & 건축비평가, 도서출판 마티, 국가 아방가르드의 유령",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 643,
+			"listed_count": 44,
+			"created_at": "Wed Nov 04 02:02:01 +0000 2009",
+			"favourites_count": 7909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87339588/1560995267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "부천 아트 벙커가 처한 위치도 마찬가지. 건축의 성취와 무관하게 실패한 문화 재생 프로젝트가 될 수밖에 없는 입지. 공공 공간의 성패는 첫째도 입지, 둘째도 입지. 시민들의 자연스러운 점유와 행위는 절대 섬처럼 떨어진 곳에서는 일어나지 않는다는 건 다 아는 이야기 아닌가."
+	},
+	{
+		"created_at": "Fri Feb 14 08:14:46 +0000 2020",
+		"id": 1228149422376177700,
+		"id_str": "1228231093616168961",
+		"full_text": "도시 내 산업시설 헐고 체육관 &amp; 수영장 지읍시다!! 지역민들의 삶이 달라지는 시설 1순위는 체육관 &amp; 수영장. 초등생 생존 수영 제대로 가르칠 수도 있고. 농구도 실내에서 좀 하고. 배구도 하고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228147681417023500,
+		"in_reply_to_status_id_str": "1228147681417023488",
+		"in_reply_to_user_id": 87339588,
+		"in_reply_to_user_id_str": "87339588",
+		"in_reply_to_screen_name": "saabung",
+		"user": {
+			"id": 87339588,
+			"id_str": "87339588",
+			"name": "more bass!",
+			"screen_name": "saabung",
+			"location": "서울, Seoul, Republic of Korea",
+			"description": "editor & architecture critic. Mati Books, Spectres of the State Avant-Garde 편집자 & 건축비평가, 도서출판 마티, 국가 아방가르드의 유령",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 643,
+			"listed_count": 44,
+			"created_at": "Wed Nov 04 02:02:01 +0000 2009",
+			"favourites_count": 7909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87339588/1560995267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "도시 내 산업시설 헐고 체육관 &amp; 수영장 지읍시다!! 지역민들의 삶이 달라지는 시설 1순위는 체육관 &amp; 수영장. 초등생 생존 수영 제대로 가르칠 수도 있고. 농구도 실내에서 좀 하고. 배구도 하고"
+	},
+	{
+		"created_at": "Fri Feb 14 08:14:31 +0000 2020",
+		"id": 1228147681417023500,
+		"id_str": "1228231031284592640",
+		"full_text": "오며 가며 들르지 못하는 섬처럼 있는 최종 목적지로서 문화시설이 잘 유지되도록 할 만한 건 잘 없다. 디아 비컨 같은 거 자꾸 생각하나 본데, 얼른 환상에서 깨야. 그런 작품이 있고 난 다음에, 개인이 하는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1228147678598484000,
+		"in_reply_to_status_id_str": "1228147678598483969",
+		"in_reply_to_user_id": 87339588,
+		"in_reply_to_user_id_str": "87339588",
+		"in_reply_to_screen_name": "saabung",
+		"user": {
+			"id": 87339588,
+			"id_str": "87339588",
+			"name": "more bass!",
+			"screen_name": "saabung",
+			"location": "서울, Seoul, Republic of Korea",
+			"description": "editor & architecture critic. Mati Books, Spectres of the State Avant-Garde 편집자 & 건축비평가, 도서출판 마티, 국가 아방가르드의 유령",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 643,
+			"listed_count": 44,
+			"created_at": "Wed Nov 04 02:02:01 +0000 2009",
+			"favourites_count": 7909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87339588/1560995267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오며 가며 들르지 못하는 섬처럼 있는 최종 목적지로서 문화시설이 잘 유지되도록 할 만한 건 잘 없다. 디아 비컨 같은 거 자꾸 생각하나 본데, 얼른 환상에서 깨야. 그런 작품이 있고 난 다음에, 개인이 하는 것."
+	},
+	{
+		"created_at": "Fri Feb 14 08:13:59 +0000 2020",
+		"id": 1228147678598484000,
+		"id_str": "1228230894109876224",
+		"full_text": "리) 문화비축기지처럼 시 외곽에 문화시설 그만 지어야 한다. 누가 두번 가겠는가. 산업시설 복합문화 공간으로 리노베이션하는 것 그만해야. 헐고 체육관, 수영장 만들어서 지역주민들이 매일 같이 활용하게 하는 편이 훨씬 낫지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87339588,
+			"id_str": "87339588",
+			"name": "more bass!",
+			"screen_name": "saabung",
+			"location": "서울, Seoul, Republic of Korea",
+			"description": "editor & architecture critic. Mati Books, Spectres of the State Avant-Garde 편집자 & 건축비평가, 도서출판 마티, 국가 아방가르드의 유령",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 643,
+			"listed_count": 44,
+			"created_at": "Wed Nov 04 02:02:01 +0000 2009",
+			"favourites_count": 7909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200797800209907713/73-EresN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87339588/1560995267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "리) 문화비축기지처럼 시 외곽에 문화시설 그만 지어야 한다. 누가 두번 가겠는가. 산업시설 복합문화 공간으로 리노베이션하는 것 그만해야. 헐고 체육관, 수영장 만들어서 지역주민들이 매일 같이 활용하게 하는 편이 훨씬 낫지."
+	},
+	{
+		"created_at": "Fri Feb 14 08:12:05 +0000 2020",
+		"id": 1228159136044503000,
+		"id_str": "1228230415795666944",
+		"full_text": "남극 지역에서 관측 기온이 20도를 넘은 것은 이번이 처음입니다. #KBS뉴스 #KBS\nhttps://t.co/GJFlLyeCiS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS뉴스",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						44,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GJFlLyeCiS",
+					"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=4381579",
+					"display_url": "news.kbs.co.kr/news/view.do?n…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 412811,
+			"friends_count": 110277,
+			"listed_count": 4869,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 134231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1580169793",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1292,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남극 지역에서 관측 기온이 20도를 넘은 것은 이번이 처음입니다. #KBS뉴스 #KBS\nhttps://t.co/GJFlLyeCiS"
+	},
+	{
+		"created_at": "Fri Feb 14 08:11:15 +0000 2020",
+		"id": 1228230206629896200,
+		"id_str": "1228230206629896195",
+		"full_text": "레드벨벳 인스타그램봇 생겼었구나. 라이브스트림과 트위터API를 이용한 봇.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 900,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "레드벨벳 인스타그램봇 생겼었구나. 라이브스트림과 트위터API를 이용한 봇."
+	},
+	{
 		"created_at": "Fri Feb 14 07:59:07 +0000 2020",
 		"id": 1228227155286360000,
 		"id_str": "1228227155286360068",
