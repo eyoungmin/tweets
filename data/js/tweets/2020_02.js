@@ -1,6 +1,1033 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 11:40:46 +0000 2020",
+		"id": 1228268786593124400,
+		"id_str": "1228282932223148033",
+		"full_text": "그리고 새소년의 새 EP [비적응]은\n2020. 02. 18. TUE 6PM KST에 발매됩니다.\n⠀\n#새소년 #SESONEON #EP #비적응 #Nonadaptation #20200218 https://t.co/LO0EVcWajw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "비적응",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "Nonadaptation",
+					"indices": [
+						81,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228268763272761300,
+					"id_str": "1228268763272761344",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv7ruU0AAlGUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv7ruU0AAlGUm.jpg",
+					"url": "https://t.co/LO0EVcWajw",
+					"display_url": "pic.twitter.com/LO0EVcWajw",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268786593124352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228268763272761300,
+					"id_str": "1228268763272761344",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv7ruU0AAlGUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv7ruU0AAlGUm.jpg",
+					"url": "https://t.co/LO0EVcWajw",
+					"display_url": "pic.twitter.com/LO0EVcWajw",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268786593124352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228268764354887700,
+					"id_str": "1228268764354887682",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv7vwUwAIgGY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv7vwUwAIgGY7.jpg",
+					"url": "https://t.co/LO0EVcWajw",
+					"display_url": "pic.twitter.com/LO0EVcWajw",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268786593124352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228268763813838800,
+					"id_str": "1228268763813838848",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv7tvVAAAvAZd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv7tvVAAAvAZd.jpg",
+					"url": "https://t.co/LO0EVcWajw",
+					"display_url": "pic.twitter.com/LO0EVcWajw",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268786593124352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228268764942102500,
+					"id_str": "1228268764942102529",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv7x8U8AEur_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv7x8U8AEur_r.jpg",
+					"url": "https://t.co/LO0EVcWajw",
+					"display_url": "pic.twitter.com/LO0EVcWajw",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268786593124352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1228268757593686000,
+		"in_reply_to_status_id_str": "1228268757593686017",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7671,
+			"friends_count": 365,
+			"listed_count": 48,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그리고 새소년의 새 EP [비적응]은\n2020. 02. 18. TUE 6PM KST에 발매됩니다.\n⠀\n#새소년 #SESONEON #EP #비적응 #Nonadaptation #20200218 https://t.co/LO0EVcWajw"
+	},
+	{
+		"created_at": "Fri Feb 14 11:40:37 +0000 2020",
+		"id": 1228268757593686000,
+		"id_str": "1228282898018656256",
+		"full_text": "[새소년 new EP \"비적응\" D-4]\n많은 이들의 노력으로 새 EP는 만들어졌습니다.\n⠀\n지금도 누군가의 땀으로 무엇인가 만들어지고 있어요.\n그 정체는 발매 전날인 19일 월요일에 공개합니다. https://t.co/TJRrazZ7ZW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228268735099621400,
+					"id_str": "1228268735099621377",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv6CxU0AErCBG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv6CxU0AErCBG.jpg",
+					"url": "https://t.co/TJRrazZ7ZW",
+					"display_url": "pic.twitter.com/TJRrazZ7ZW",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268757593686017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228268735099621400,
+					"id_str": "1228268735099621377",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv6CxU0AErCBG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv6CxU0AErCBG.jpg",
+					"url": "https://t.co/TJRrazZ7ZW",
+					"display_url": "pic.twitter.com/TJRrazZ7ZW",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268757593686017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228268735149904000,
+					"id_str": "1228268735149903872",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv6C9UEAAUoxL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv6C9UEAAUoxL.jpg",
+					"url": "https://t.co/TJRrazZ7ZW",
+					"display_url": "pic.twitter.com/TJRrazZ7ZW",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268757593686017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228268735082877000,
+					"id_str": "1228268735082876930",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv6CtVUAI-jCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv6CtVUAI-jCP.jpg",
+					"url": "https://t.co/TJRrazZ7ZW",
+					"display_url": "pic.twitter.com/TJRrazZ7ZW",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268757593686017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228268735082877000,
+					"id_str": "1228268735082876931",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuv6CtVUAMquJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuv6CtVUAMquJ9.jpg",
+					"url": "https://t.co/TJRrazZ7ZW",
+					"display_url": "pic.twitter.com/TJRrazZ7ZW",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1228268757593686017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7671,
+			"friends_count": 365,
+			"listed_count": 48,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[새소년 new EP \"비적응\" D-4]\n많은 이들의 노력으로 새 EP는 만들어졌습니다.\n⠀\n지금도 누군가의 땀으로 무엇인가 만들어지고 있어요.\n그 정체는 발매 전날인 19일 월요일에 공개합니다. https://t.co/TJRrazZ7ZW"
+	},
+	{
+		"created_at": "Fri Feb 14 11:30:31 +0000 2020",
+		"id": 1228265330369151000,
+		"id_str": "1228280355700035586",
+		"full_text": "&lt;본말&gt; 배우들과 함께하는 주접 댓글 읽기!\n신박한 댓글에 뒷목 잡았다는데..!😂🤣\n\n풀버전이 보고싶다면?\n👉OCN YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/dsq9XYIj54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228265270394802200,
+					"id_str": "1228265270394802178",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228265270394802178/pu/img/m_VtnURUcX558Evq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228265270394802178/pu/img/m_VtnURUcX558Evq.jpg",
+					"url": "https://t.co/dsq9XYIj54",
+					"display_url": "pic.twitter.com/dsq9XYIj54",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1228265330369150977/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228265270394802200,
+					"id_str": "1228265270394802178",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228265270394802178/pu/img/m_VtnURUcX558Evq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228265270394802178/pu/img/m_VtnURUcX558Evq.jpg",
+					"url": "https://t.co/dsq9XYIj54",
+					"display_url": "pic.twitter.com/dsq9XYIj54",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1228265330369150977/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 49750,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228265270394802178/pu/vid/480x270/L9r23pWIjqChx2NR.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228265270394802178/pu/vid/720x404/Uw2eg27Ki_9C7oPH.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1228265270394802178/pu/pl/53fMd3rq1lBSNuCF.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44658,
+			"friends_count": 0,
+			"listed_count": 252,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;본말&gt; 배우들과 함께하는 주접 댓글 읽기!\n신박한 댓글에 뒷목 잡았다는데..!😂🤣\n\n풀버전이 보고싶다면?\n👉OCN YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/dsq9XYIj54"
+	},
+	{
+		"created_at": "Fri Feb 14 11:14:26 +0000 2020",
+		"id": 1228267961535750100,
+		"id_str": "1228276307433181184",
+		"full_text": "달달달~한 예뽀MC 있으면\n초콜릿두 필요 없쥬?\n\nHappy Valentine's Day🤎 https://t.co/E3zBCfbrhn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228267946792763400,
+					"id_str": "1228267946792763396",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuvMKGUwAQF8nW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuvMKGUwAQF8nW.jpg",
+					"url": "https://t.co/E3zBCfbrhn",
+					"display_url": "pic.twitter.com/E3zBCfbrhn",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1228267961535750145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228267946792763400,
+					"id_str": "1228267946792763396",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuvMKGUwAQF8nW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuvMKGUwAQF8nW.jpg",
+					"url": "https://t.co/E3zBCfbrhn",
+					"display_url": "pic.twitter.com/E3zBCfbrhn",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1228267961535750145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228267946792763400,
+					"id_str": "1228267946792763392",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EQuvMKGUwAAyWh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQuvMKGUwAAyWh8.jpg",
+					"url": "https://t.co/E3zBCfbrhn",
+					"display_url": "pic.twitter.com/E3zBCfbrhn",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1228267961535750145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:00 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 117개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1849780,
+			"friends_count": 13,
+			"listed_count": 5168,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132120975451885568/0YlQJlD7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132120975451885568/0YlQJlD7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 439,
+		"favorite_count": 1413,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "달달달~한 예뽀MC 있으면\n초콜릿두 필요 없쥬?\n\nHappy Valentine's Day🤎 https://t.co/E3zBCfbrhn"
+	},
+	{
 		"created_at": "Fri Feb 14 10:53:53 +0000 2020",
 		"id": 1228193033776009200,
 		"id_str": "1228271136636407813",
@@ -1084,7 +2111,7 @@ Grailbird.data.tweets_2020_02 =
 		"created_at": "Fri Feb 14 10:30:31 +0000 2020",
 		"id": 1228257660539064300,
 		"id_str": "1228265256914444289",
-		"full_text": "[MULTI/VERSE]  Hi High - 이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/MhP4BVS58B\nHD PHOTO▶️ https://t.co/PWf92oKsW8\nMULTI/VERSE▶️ https://t.co/YsyItH9zap\n​\n#브이라이브 #멀티버스 #이달의소녀 #하이하이 #VLIVE #MULTIVERSE #LOONA #HiHigh",
+		"full_text": "[MULTI/VERSE]  Hi High - 이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/MhP4BVS58B\nHD PHOTO▶️ https://t.co/PWf92oKsW8\nMULTI/VERSE▶️ https://t.co/YsyItH9zap\n\n#브이라이브 #멀티버스 #이달의소녀 #하이하이 #VLIVE #MULTIVERSE #LOONA #HiHigh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1259,7 +2286,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[MULTI/VERSE]  Hi High - 이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/MhP4BVS58B\nHD PHOTO▶️ https://t.co/PWf92oKsW8\nMULTI/VERSE▶️ https://t.co/YsyItH9zap\n​\n#브이라이브 #멀티버스 #이달의소녀 #하이하이 #VLIVE #MULTIVERSE #LOONA #HiHigh"
+		"text": "[MULTI/VERSE]  Hi High - 이달의 소녀(LOONA) 영상이 공개됐습니다💖 지금 바로 만나보세요😍\n\nBEHIND▶️ https://t.co/MhP4BVS58B\nHD PHOTO▶️ https://t.co/PWf92oKsW8\nMULTI/VERSE▶️ https://t.co/YsyItH9zap\n\n#브이라이브 #멀티버스 #이달의소녀 #하이하이 #VLIVE #MULTIVERSE #LOONA #HiHigh"
 	},
 	{
 		"created_at": "Fri Feb 14 10:24:22 +0000 2020",
