@@ -1,6 +1,1484 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 07:01:20 +0000 2020",
+		"id": 1228143515336462300,
+		"id_str": "1228212613194010629",
+		"full_text": "NextDNS - 광고차단 DNS https://t.co/VZJtXFT9Q6 \nPi-Hole과 유사한 광고차단 DNS. DoH, DoT 지원\n베타 기간까지는 모두 무료고 그 이후 부터는 DNS 쿼리 300,000개까지 무료",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VZJtXFT9Q6",
+					"expanded_url": "http://j.mp/31TUKDJ",
+					"display_url": "j.mp/31TUKDJ",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2190,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NextDNS - 광고차단 DNS https://t.co/VZJtXFT9Q6 \nPi-Hole과 유사한 광고차단 DNS. DoH, DoT 지원\n베타 기간까지는 모두 무료고 그 이후 부터는 DNS 쿼리 300,000개까지 무료"
+	},
+	{
+		"created_at": "Fri Feb 14 07:01:10 +0000 2020",
+		"id": 1228109860006314000,
+		"id_str": "1228212571750068225",
+		"full_text": "Coolest shit I have ever seen in my fucking life https://t.co/CPbBxn6t5H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CPbBxn6t5H",
+					"expanded_url": "https://twitter.com/mgm_studios/status/1228107776020238336",
+					"display_url": "twitter.com/mgm_studios/st…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1573265498,
+			"id_str": "1573265498",
+			"name": "FINNEAS",
+			"screen_name": "finneas",
+			"location": "HIGHLAND PARK",
+			"description": "lefty",
+			"url": "https://t.co/l2dMQEVIbh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l2dMQEVIbh",
+							"expanded_url": "https://finneas.lnk.to/ilaf-remix",
+							"display_url": "finneas.lnk.to/ilaf-remix",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247129,
+			"friends_count": 304,
+			"listed_count": 278,
+			"created_at": "Sat Jul 06 17:22:52 +0000 2013",
+			"favourites_count": 18412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208588838039408640/MWRz2O3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208588838039408640/MWRz2O3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1573265498/1570161602",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1228107776020238300,
+		"quoted_status_id_str": "1228107776020238336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CPbBxn6t5H",
+			"expanded": "https://twitter.com/mgm_studios/status/1228107776020238336",
+			"display": "twitter.com/mgm_studios/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 14 00:04:45 +0000 2020",
+			"id": 1228107776020238300,
+			"id_str": "1228107776020238336",
+			"full_text": "“No Time To Die” by @billieeilish – the theme song for the 25th James Bond film is OUT NOW. https://t.co/X1SnyC91UX\n\nBillie will perform the song at the 2020 @BRITs on 18 Feb accompanied by @FINNEAS, @HansZimmer and @Johnny_Marr #NoTimeToDie #Bond25 https://t.co/kHjcY903x0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NoTimeToDie",
+						"indices": [
+							229,
+							241
+						]
+					},
+					{
+						"text": "Bond25",
+						"indices": [
+							242,
+							249
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "billieeilish",
+						"name": "billie eilish",
+						"id": 2150327072,
+						"id_str": "2150327072",
+						"indices": [
+							20,
+							33
+						]
+					},
+					{
+						"screen_name": "BRITs",
+						"name": "BRIT Awards",
+						"id": 88442109,
+						"id_str": "88442109",
+						"indices": [
+							158,
+							164
+						]
+					},
+					{
+						"screen_name": "finneas",
+						"name": "FINNEAS",
+						"id": 1573265498,
+						"id_str": "1573265498",
+						"indices": [
+							190,
+							198
+						]
+					},
+					{
+						"screen_name": "HansZimmer",
+						"name": "Hans Zimmer",
+						"id": 407137170,
+						"id_str": "407137170",
+						"indices": [
+							200,
+							211
+						]
+					},
+					{
+						"screen_name": "Johnny_Marr",
+						"name": "Johnny Marr",
+						"id": 19238548,
+						"id_str": "19238548",
+						"indices": [
+							216,
+							228
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/X1SnyC91UX",
+						"expanded_url": "http://smarturl.it/NoTimeToDie",
+						"display_url": "smarturl.it/NoTimeToDie",
+						"indices": [
+							92,
+							115
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1228107739311722500,
+						"id_str": "1228107739311722496",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228107739311722496/pu/img/3AKSNvE2-yMVPvYI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228107739311722496/pu/img/3AKSNvE2-yMVPvYI.jpg",
+						"url": "https://t.co/kHjcY903x0",
+						"display_url": "pic.twitter.com/kHjcY903x0",
+						"expanded_url": "https://twitter.com/MGM_Studios/status/1228107776020238336/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1228107739311722500,
+						"id_str": "1228107739311722496",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228107739311722496/pu/img/3AKSNvE2-yMVPvYI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228107739311722496/pu/img/3AKSNvE2-yMVPvYI.jpg",
+						"url": "https://t.co/kHjcY903x0",
+						"display_url": "pic.twitter.com/kHjcY903x0",
+						"expanded_url": "https://twitter.com/MGM_Studios/status/1228107776020238336/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 46046,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1228107739311722496/pu/vid/640x360/FcEXBKbsV6A71t0T.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1228107739311722496/pu/vid/480x270/9WYNfUNHzmamrIOT.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1228107739311722496/pu/pl/O3T9D50YsWXGprfm.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1228107739311722496/pu/vid/1280x720/vnsC-lD-wECSVD8k.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14840869,
+				"id_str": "14840869",
+				"name": "MGM Studios",
+				"screen_name": "MGM_Studios",
+				"location": "Beverly Hills, CA",
+				"description": "Welcome to the Official Twitter Page for #MGMStudios. Follow us on Instagram: https://t.co/2zFwgnHkUA",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2zFwgnHkUA",
+								"expanded_url": "http://www.instagram.com/mgm_studios",
+								"display_url": "instagram.com/mgm_studios",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2176806,
+				"friends_count": 376,
+				"listed_count": 6179,
+				"created_at": "Tue May 20 02:27:53 +0000 2008",
+				"favourites_count": 2345,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6798,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "151617",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1217896306745626626/d1dkIn0r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217896306745626626/d1dkIn0r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14840869/1579117792",
+				"profile_link_color": "CF9D38",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F2F5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1306,
+			"favorite_count": 5239,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1443,
+		"favorite_count": 10535,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coolest shit I have ever seen in my fucking life https://t.co/CPbBxn6t5H"
+	},
+	{
+		"created_at": "Fri Feb 14 07:01:03 +0000 2020",
+		"id": 1228107776020238300,
+		"id_str": "1228212541467181062",
+		"full_text": "“No Time To Die” by @billieeilish – the theme song for the 25th James Bond film is OUT NOW. https://t.co/X1SnyC91UX\n\nBillie will perform the song at the 2020 @BRITs on 18 Feb accompanied by @FINNEAS, @HansZimmer and @Johnny_Marr #NoTimeToDie #Bond25 https://t.co/kHjcY903x0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoTimeToDie",
+					"indices": [
+						229,
+						241
+					]
+				},
+				{
+					"text": "Bond25",
+					"indices": [
+						242,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "BRITs",
+					"name": "BRIT Awards",
+					"id": 88442109,
+					"id_str": "88442109",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"screen_name": "finneas",
+					"name": "FINNEAS",
+					"id": 1573265498,
+					"id_str": "1573265498",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"screen_name": "HansZimmer",
+					"name": "Hans Zimmer",
+					"id": 407137170,
+					"id_str": "407137170",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"screen_name": "Johnny_Marr",
+					"name": "Johnny Marr",
+					"id": 19238548,
+					"id_str": "19238548",
+					"indices": [
+						216,
+						228
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X1SnyC91UX",
+					"expanded_url": "http://smarturl.it/NoTimeToDie",
+					"display_url": "smarturl.it/NoTimeToDie",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228107739311722500,
+					"id_str": "1228107739311722496",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228107739311722496/pu/img/3AKSNvE2-yMVPvYI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228107739311722496/pu/img/3AKSNvE2-yMVPvYI.jpg",
+					"url": "https://t.co/kHjcY903x0",
+					"display_url": "pic.twitter.com/kHjcY903x0",
+					"expanded_url": "https://twitter.com/MGM_Studios/status/1228107776020238336/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228107739311722500,
+					"id_str": "1228107739311722496",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228107739311722496/pu/img/3AKSNvE2-yMVPvYI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228107739311722496/pu/img/3AKSNvE2-yMVPvYI.jpg",
+					"url": "https://t.co/kHjcY903x0",
+					"display_url": "pic.twitter.com/kHjcY903x0",
+					"expanded_url": "https://twitter.com/MGM_Studios/status/1228107776020238336/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46046,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228107739311722496/pu/vid/640x360/FcEXBKbsV6A71t0T.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228107739311722496/pu/vid/480x270/9WYNfUNHzmamrIOT.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1228107739311722496/pu/pl/O3T9D50YsWXGprfm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228107739311722496/pu/vid/1280x720/vnsC-lD-wECSVD8k.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14840869,
+			"id_str": "14840869",
+			"name": "MGM Studios",
+			"screen_name": "MGM_Studios",
+			"location": "Beverly Hills, CA",
+			"description": "Welcome to the Official Twitter Page for #MGMStudios. Follow us on Instagram: https://t.co/2zFwgnHkUA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2zFwgnHkUA",
+							"expanded_url": "http://www.instagram.com/mgm_studios",
+							"display_url": "instagram.com/mgm_studios",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2176806,
+			"friends_count": 376,
+			"listed_count": 6179,
+			"created_at": "Tue May 20 02:27:53 +0000 2008",
+			"favourites_count": 2345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "151617",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217896306745626626/d1dkIn0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217896306745626626/d1dkIn0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14840869/1579117792",
+			"profile_link_color": "CF9D38",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F2F5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1306,
+		"favorite_count": 5239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“No Time To Die” by @billieeilish – the theme song for the 25th James Bond film is OUT NOW. https://t.co/X1SnyC91UX\n\nBillie will perform the song at the 2020 @BRITs on 18 Feb accompanied by @FINNEAS, @HansZimmer and @Johnny_Marr #NoTimeToDie #Bond25 https://t.co/kHjcY903x0"
+	},
+	{
+		"created_at": "Fri Feb 14 07:00:25 +0000 2020",
+		"id": 1228106244725985300,
+		"id_str": "1228212380946984962",
+		"full_text": "페이스북, 핀터레스트와 비슷한 앱 Hobbi 출시 https://t.co/lkc8izKPN6 \n계속 다양한 앱을 만들어 테스트 하는 NPE Team이 제작\n프로젝트용 사진을 저장하고 관리 \n사진들을 묶어서 단계별로 진행사항을 볼수 있도록 콜렉션으로 정리\n작업을 비디오로 만들고 친구와 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lkc8izKPN6",
+					"expanded_url": "http://j.mp/2wdQEuh",
+					"display_url": "j.mp/2wdQEuh",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2190,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북, 핀터레스트와 비슷한 앱 Hobbi 출시 https://t.co/lkc8izKPN6 \n계속 다양한 앱을 만들어 테스트 하는 NPE Team이 제작\n프로젝트용 사진을 저장하고 관리 \n사진들을 묶어서 단계별로 진행사항을 볼수 있도록 콜렉션으로 정리\n작업을 비디오로 만들고 친구와 공유"
+	},
+	{
+		"created_at": "Fri Feb 14 06:58:46 +0000 2020",
+		"id": 1228106482010341400,
+		"id_str": "1228211967157886976",
+		"full_text": "자부심과 자기도취의 경계는 불분명하다. 성숙에는 못 미친다. 한류는 어떤가. 나는 왜 K팝 아이돌을 포기했나. 영국에서 K팝 보고 아이돌 꿈꾸며 한국 와서 기획사 심사 거쳐 오랜 훈련 끝에 데뷔 앞두고 그만둔 소녀의 회고. 청소년의 꿈을 원료로 대중상품을 찍어내는 공장 https://t.co/V5rVxNO1wW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V5rVxNO1wW",
+					"expanded_url": "https://www.bbc.co.uk/news/stories-51476159",
+					"display_url": "bbc.co.uk/news/stories-5…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103007,
+			"friends_count": 2443,
+			"listed_count": 396,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 296,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자부심과 자기도취의 경계는 불분명하다. 성숙에는 못 미친다. 한류는 어떤가. 나는 왜 K팝 아이돌을 포기했나. 영국에서 K팝 보고 아이돌 꿈꾸며 한국 와서 기획사 심사 거쳐 오랜 훈련 끝에 데뷔 앞두고 그만둔 소녀의 회고. 청소년의 꿈을 원료로 대중상품을 찍어내는 공장 https://t.co/V5rVxNO1wW"
+	},
+	{
+		"created_at": "Fri Feb 14 06:58:31 +0000 2020",
+		"id": 1228109605189742600,
+		"id_str": "1228211902758576130",
+		"full_text": "@007 Billie’s premiere performance of “No Time To Die” will be at the 2020 #BRITs on 2/18. Billie will be accompanied by @FINNEAS, @HansZimmer, and @Johnny_Marr. The performance will be live on ITV in the UK and livestreamed on YouTube everywhere else in the world.",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BRITs",
+					"indices": [
+						75,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "007",
+					"name": "James Bond",
+					"id": 389229444,
+					"id_str": "389229444",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"screen_name": "finneas",
+					"name": "FINNEAS",
+					"id": 1573265498,
+					"id_str": "1573265498",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"screen_name": "HansZimmer",
+					"name": "Hans Zimmer",
+					"id": 407137170,
+					"id_str": "407137170",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"screen_name": "Johnny_Marr",
+					"name": "Johnny Marr",
+					"id": 19238548,
+					"id_str": "19238548",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228109300574244900,
+		"in_reply_to_status_id_str": "1228109300574244865",
+		"in_reply_to_user_id": 2150327072,
+		"in_reply_to_user_id_str": "2150327072",
+		"in_reply_to_screen_name": "billieeilish",
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3707596,
+			"friends_count": 0,
+			"listed_count": 2969,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1562,
+		"favorite_count": 10150,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@007 Billie’s premiere performance of “No Time To Die” will be at the 2020 #BRITs on 2/18. Billie will be accompanied by @FINNEAS, @HansZimmer, and @Johnny_Marr. The performance will be live on ITV in the UK and livestreamed on YouTube everywhere else in the world."
+	},
+	{
+		"created_at": "Fri Feb 14 06:58:12 +0000 2020",
+		"id": 1228109300574244900,
+		"id_str": "1228211824203403265",
+		"full_text": "Billie Eilish - “No Time To Die”\nThe theme song for the upcoming @007 film.\nOut now. https://t.co/XctmJBzVRA\n#NoTimeToDie https://t.co/Q2xjFfaWvJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoTimeToDie",
+					"indices": [
+						109,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "007",
+					"name": "James Bond",
+					"id": 389229444,
+					"id_str": "389229444",
+					"indices": [
+						65,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XctmJBzVRA",
+					"expanded_url": "https://smarturl.it/NoTimeToDie",
+					"display_url": "smarturl.it/NoTimeToDie",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228109072907395000,
+					"id_str": "1228109072907395072",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1228109072907395072/img/KWjMQrvgKVHz3wMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1228109072907395072/img/KWjMQrvgKVHz3wMH.jpg",
+					"url": "https://t.co/Q2xjFfaWvJ",
+					"display_url": "pic.twitter.com/Q2xjFfaWvJ",
+					"expanded_url": "https://twitter.com/billieeilish/status/1228109300574244865/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228109072907395000,
+					"id_str": "1228109072907395072",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1228109072907395072/img/KWjMQrvgKVHz3wMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1228109072907395072/img/KWjMQrvgKVHz3wMH.jpg",
+					"url": "https://t.co/Q2xjFfaWvJ",
+					"display_url": "pic.twitter.com/Q2xjFfaWvJ",
+					"expanded_url": "https://twitter.com/billieeilish/status/1228109300574244865/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 48629,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1228109072907395072/vid/320x320/TrpucJ70-bklAqBf.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1228109072907395072/vid/640x640/1aePFExV9SDcroJ2.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1228109072907395072/pl/giMWkDAxvvMZmbCO.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1228109072907395072/vid/480x480/pKMyqVr9SpS4oA1I.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3707596,
+			"friends_count": 0,
+			"listed_count": 2969,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19579,
+		"favorite_count": 73376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish - “No Time To Die”\nThe theme song for the upcoming @007 film.\nOut now. https://t.co/XctmJBzVRA\n#NoTimeToDie https://t.co/Q2xjFfaWvJ"
+	},
+	{
+		"created_at": "Fri Feb 14 06:57:53 +0000 2020",
+		"id": 1228151288564572200,
+		"id_str": "1228211745161768961",
+		"full_text": "올해 오스카에서 단편 애니메이션 상을 수상한 \"Hair Love”의 전편의 무료 유튜브 링크. 불과 6분 47초의 짧은 애니메이션이지만 흑인 아빠가 처음으로 어린 딸의 머리를 해주면서 생기는 가슴 뭉클해지는 스토리를 만나보실 수 있습니다. 안보신 모든 분들께 추천드립니다! https://t.co/YDNtTf08ks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YDNtTf08ks",
+					"expanded_url": "https://youtu.be/kNw8V_Fkw28",
+					"display_url": "youtu.be/kNw8V_Fkw28",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64644,
+			"friends_count": 718,
+			"listed_count": 930,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올해 오스카에서 단편 애니메이션 상을 수상한 \"Hair Love”의 전편의 무료 유튜브 링크. 불과 6분 47초의 짧은 애니메이션이지만 흑인 아빠가 처음으로 어린 딸의 머리를 해주면서 생기는 가슴 뭉클해지는 스토리를 만나보실 수 있습니다. 안보신 모든 분들께 추천드립니다! https://t.co/YDNtTf08ks"
+	},
+	{
 		"created_at": "Fri Feb 14 04:30:32 +0000 2020",
 		"id": 1228167262571356200,
 		"id_str": "1228174660535087104",
