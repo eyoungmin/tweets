@@ -1,6 +1,843 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 07:59:07 +0000 2020",
+		"id": 1228227155286360000,
+		"id_str": "1228227155286360068",
+		"full_text": "@dis1co 저도 가격측정이나 경쟁력에서 떨어진다고 생각해요.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dis1co",
+					"name": "스큅입니다😷",
+					"id": 881495345049378800,
+					"id_str": "881495345049378816",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1227987967743905800,
+		"in_reply_to_status_id_str": "1227987967743905794",
+		"in_reply_to_user_id": 881495345049378800,
+		"in_reply_to_user_id_str": "881495345049378816",
+		"in_reply_to_screen_name": "dis1co",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 899,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@dis1co 저도 가격측정이나 경쟁력에서 떨어진다고 생각해요."
+	},
+	{
+		"created_at": "Fri Feb 14 07:58:16 +0000 2020",
+		"id": 1228226941607538700,
+		"id_str": "1228226941607538688",
+		"full_text": "IFTTT는 곧 수정한다고 함. https://t.co/gXRPrS2cmB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gXRPrS2cmB",
+					"expanded_url": "https://twitter.com/fromminn/status/1224625838047428608",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 899,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1224625838047428600,
+		"quoted_status_id_str": "1224625838047428608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gXRPrS2cmB",
+			"expanded": "https://twitter.com/fromminn/status/1224625838047428608",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 04 09:28:46 +0000 2020",
+			"id": 1224625838047428600,
+			"id_str": "1224625838047428608",
+			"full_text": "페이스북 외부 활동 차단하니까 IFTTT 연결이 풀렸다. IFTTT, Zapier 같은 Automate 서비스만 허용하고 앞으로 허용 안하게 하고 싶은데 옵션이 없는 것 같다.\nhttps://t.co/vyVy3K4O6K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vyVy3K4O6K",
+						"expanded_url": "https://www.facebook.com/off_facebook_activity/",
+						"display_url": "facebook.com/off_facebook_a…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "Founder @SOLPLPARTY",
+				"url": "https://t.co/pEO2Gdl415",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEO2Gdl415",
+								"expanded_url": "http://about.solplparty.com",
+								"display_url": "about.solplparty.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 296,
+				"friends_count": 899,
+				"listed_count": 9,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 37801,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54712,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IFTTT는 곧 수정한다고 함. https://t.co/gXRPrS2cmB"
+	},
+	{
+		"created_at": "Fri Feb 14 07:55:30 +0000 2020",
+		"id": 1228152085629194200,
+		"id_str": "1228226244400930817",
+		"full_text": "[BIRF Website]\nhttps://t.co/koRLhviQIc\n#2020부산국제록페스티벌 #부산국제록페스티벌 #부산록페 #부산락페 #부락 #페스티벌 #여름페스티벌 #여름축제 #부산축제 #부산놀거리 #부산볼거리 #삼락생태공원 #부산문화관광축제조직위원회 #BusanRockFestival #BusanRock #BuRock #Festival #Busan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020부산국제록페스티벌",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "여름페스티벌",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "여름축제",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "부산놀거리",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "부산볼거리",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "삼락생태공원",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "부산문화관광축제조직위원회",
+					"indices": [
+						129,
+						143
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						144,
+						162
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						192,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/koRLhviQIc",
+					"expanded_url": "http://busanrockfestival.com",
+					"display_url": "busanrockfestival.com",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228152082395349000,
+		"in_reply_to_status_id_str": "1228152082395348992",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 972,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1581470045",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[BIRF Website]\nhttps://t.co/koRLhviQIc\n#2020부산국제록페스티벌 #부산국제록페스티벌 #부산록페 #부산락페 #부락 #페스티벌 #여름페스티벌 #여름축제 #부산축제 #부산놀거리 #부산볼거리 #삼락생태공원 #부산문화관광축제조직위원회 #BusanRockFestival #BusanRock #BuRock #Festival #Busan"
+	},
+	{
+		"created_at": "Fri Feb 14 07:55:27 +0000 2020",
+		"id": 1228152082395349000,
+		"id_str": "1228226230735892481",
+		"full_text": "[2020 부산국제록페스티벌 개최발표]⠀\n⠀\n일시 : 7.24(금)~7.25(토)⠀\n장소 : 삼락생태공원⠀\n\n1차라인업 및 티켓오픈안내는 3월 중 공지됩니다⠀\n-⠀\n\nDate : 7.24(Fri)~7.25(Sat)⠀\nVenue : Samnak Ecological Park⠀\n\n1st line up and ticket sales information will be available later in March. https://t.co/At9U2ki7kn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228152062057173000,
+					"id_str": "1228152062057172993",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EQtFyx0U0AE_kDS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQtFyx0U0AE_kDS.jpg",
+					"url": "https://t.co/At9U2ki7kn",
+					"display_url": "pic.twitter.com/At9U2ki7kn",
+					"expanded_url": "https://twitter.com/busan_rock/status/1228152082395348992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1452,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228152062057173000,
+					"id_str": "1228152062057172993",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EQtFyx0U0AE_kDS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQtFyx0U0AE_kDS.jpg",
+					"url": "https://t.co/At9U2ki7kn",
+					"display_url": "pic.twitter.com/At9U2ki7kn",
+					"expanded_url": "https://twitter.com/busan_rock/status/1228152082395348992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1452,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 972,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1581470045",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 부산국제록페스티벌 개최발표]⠀\n⠀\n일시 : 7.24(금)~7.25(토)⠀\n장소 : 삼락생태공원⠀\n\n1차라인업 및 티켓오픈안내는 3월 중 공지됩니다⠀\n-⠀\n\nDate : 7.24(Fri)~7.25(Sat)⠀\nVenue : Samnak Ecological Park⠀\n\n1st line up and ticket sales information will be available later in March. https://t.co/At9U2ki7kn"
+	},
+	{
+		"created_at": "Fri Feb 14 07:54:03 +0000 2020",
+		"id": 1228176821012717600,
+		"id_str": "1228225880838684672",
+		"full_text": "네이버에서 발행하는 FE News!\n'FE News는 네이버 FE 엔지니어들이 엄선한 양질의 FE 및 주요한 기술 소식들을 큐레이션해 공유하는 것을 목표로 합니다. 이를통해 국내 개발자들에게 지식 공유에 대한 가치 인식과 성장에 도움을 주고자 합니다.'\n라고 하네요!\nhttps://t.co/mnVcQG7G9a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mnVcQG7G9a",
+					"expanded_url": "https://github.com/naver/fe-news",
+					"display_url": "github.com/naver/fe-news",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 733895511590109200,
+			"id_str": "733895511590109186",
+			"name": "Jbee🐝",
+			"screen_name": "JbeeLjyhanll",
+			"location": "대한민국 성남시",
+			"description": "FrontEnd Engineer🤔",
+			"url": "https://t.co/38oqQG3oYb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/38oqQG3oYb",
+							"expanded_url": "https://jbee.io",
+							"display_url": "jbee.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 833,
+			"friends_count": 254,
+			"listed_count": 5,
+			"created_at": "Sat May 21 05:41:39 +0000 2016",
+			"favourites_count": 2700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986091558406467584/U0ST7sLW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986091558406467584/U0ST7sLW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/733895511590109186/1513687790",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버에서 발행하는 FE News!\n'FE News는 네이버 FE 엔지니어들이 엄선한 양질의 FE 및 주요한 기술 소식들을 큐레이션해 공유하는 것을 목표로 합니다. 이를통해 국내 개발자들에게 지식 공유에 대한 가치 인식과 성장에 도움을 주고자 합니다.'\n라고 하네요!\nhttps://t.co/mnVcQG7G9a"
+	},
+	{
 		"created_at": "Fri Feb 14 07:01:20 +0000 2020",
 		"id": 1228143515336462300,
 		"id_str": "1228212613194010629",
