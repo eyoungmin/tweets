@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 15 04:30:32 +0000 2020",
+		"id": 1228529782733717500,
+		"id_str": "1228537049269096448",
+		"full_text": "Something getting you a little down? Say ‘So What’! @loonatheworld will make it all better! #LOONA_ASC #arirang_ASC 200218 TUESDAY 1:00PM KST https://t.co/U09x5ilC3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_ASC",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "arirang_ASC",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228529620632424400,
+					"id_str": "1228529620632424450",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228529620632424450/pu/img/_tCXP7Vx7M0jIVZk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228529620632424450/pu/img/_tCXP7Vx7M0jIVZk.jpg",
+					"url": "https://t.co/U09x5ilC3C",
+					"display_url": "pic.twitter.com/U09x5ilC3C",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1228529782733717504/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228529620632424400,
+					"id_str": "1228529620632424450",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228529620632424450/pu/img/_tCXP7Vx7M0jIVZk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228529620632424450/pu/img/_tCXP7Vx7M0jIVZk.jpg",
+					"url": "https://t.co/U09x5ilC3C",
+					"display_url": "pic.twitter.com/U09x5ilC3C",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1228529782733717504/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39039,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228529620632424450/pu/vid/480x270/iujzST36HAi_7Mxl.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1228529620632424450/pu/pl/54rGRzr7-9dYrcDg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228529620632424450/pu/vid/1280x720/BpjaxnCh_fQnk9ez.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228529620632424450/pu/vid/640x360/EFiUeFdHH_k-ctTw.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698527,
+			"friends_count": 239,
+			"listed_count": 1301,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 479,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Something getting you a little down? Say ‘So What’! @loonatheworld will make it all better! #LOONA_ASC #arirang_ASC 200218 TUESDAY 1:00PM KST https://t.co/U09x5ilC3C"
+	},
+	{
 		"created_at": "Sat Feb 15 03:00:25 +0000 2020",
 		"id": 1228514371145470000,
 		"id_str": "1228514371145469952",
