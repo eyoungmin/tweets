@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 15 08:40:38 +0000 2020",
+		"id": 1228599259601100800,
+		"id_str": "1228599988009259008",
+		"full_text": "'Turn on that Blue Vinyl' Official MD Online Release🕊\n⠀\n단독공연에서 판매했던 백예린 공식 굿즈를 이제 온라인에서도 구매하실 수 있습니다. (해외 구매 가능)\n⠀\n#백예린 #yerinbaek #백예린굿즈 https://t.co/6m8jDD0Ljq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "백예린굿즈",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228599245877366800,
+					"id_str": "1228599245877366786",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQzcgTXVUAIip3O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQzcgTXVUAIip3O.jpg",
+					"url": "https://t.co/6m8jDD0Ljq",
+					"display_url": "pic.twitter.com/6m8jDD0Ljq",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1228599259601100800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228599245877366800,
+					"id_str": "1228599245877366786",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQzcgTXVUAIip3O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQzcgTXVUAIip3O.jpg",
+					"url": "https://t.co/6m8jDD0Ljq",
+					"display_url": "pic.twitter.com/6m8jDD0Ljq",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1228599259601100800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5776,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'Turn on that Blue Vinyl' Official MD Online Release🕊\n⠀\n단독공연에서 판매했던 백예린 공식 굿즈를 이제 온라인에서도 구매하실 수 있습니다. (해외 구매 가능)\n⠀\n#백예린 #yerinbaek #백예린굿즈 https://t.co/6m8jDD0Ljq"
+	},
+	{
 		"created_at": "Sat Feb 15 07:40:37 +0000 2020",
 		"id": 1228575266915508200,
 		"id_str": "1228584886921048064",
