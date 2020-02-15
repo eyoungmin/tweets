@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 15 12:40:38 +0000 2020",
+		"id": 1228658318538760200,
+		"id_str": "1228660386079133696",
+		"full_text": "[Fender Next 2020]\n새소년이 세계적인 기타 브랜드 펜더(Fender)의 ‘글로벌’ 아티스트 25인’에 선정되었습니다. 국내에서는 유일하다고 하네요. 더불어 2020 새소년의 세계적 활동도 많이 기대해주세요! https://t.co/nxUbjSqzzB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nxUbjSqzzB",
+					"expanded_url": "https://twitter.com/fender/status/1227638623849328640",
+					"display_url": "twitter.com/fender/status/…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7730,
+			"friends_count": 365,
+			"listed_count": 48,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227638623849328600,
+		"quoted_status_id_str": "1227638623849328640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nxUbjSqzzB",
+			"expanded": "https://twitter.com/fender/status/1227638623849328640",
+			"display": "twitter.com/fender/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 12 17:00:31 +0000 2020",
+			"id": 1227638623849328600,
+			"id_str": "1227638623849328640",
+			"full_text": "Meet the Fender Next Class of 2020: 25 artists expanding the world of guitar. Throughout the year, we’ll get to know these artists, and showcase their unique sound and vision with live performances, in-depth interviews and must-have gear recs. Learn more: https://t.co/hFOuekqv1G https://t.co/p8473A2v4a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hFOuekqv1G",
+						"expanded_url": "http://bit.ly/2SnaFHi",
+						"display_url": "bit.ly/2SnaFHi",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1227638552097325000,
+						"id_str": "1227638552097325056",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227638552097325056/pu/img/rMC-7Q66M7d6OHKG.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227638552097325056/pu/img/rMC-7Q66M7d6OHKG.jpg",
+						"url": "https://t.co/p8473A2v4a",
+						"display_url": "pic.twitter.com/p8473A2v4a",
+						"expanded_url": "https://twitter.com/Fender/status/1227638623849328640/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1227638552097325000,
+						"id_str": "1227638552097325056",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227638552097325056/pu/img/rMC-7Q66M7d6OHKG.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227638552097325056/pu/img/rMC-7Q66M7d6OHKG.jpg",
+						"url": "https://t.co/p8473A2v4a",
+						"display_url": "pic.twitter.com/p8473A2v4a",
+						"expanded_url": "https://twitter.com/Fender/status/1227638623849328640/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 46129,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1227638552097325056/pu/vid/720x720/LKXkgIxKDUw0Mweu.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1227638552097325056/pu/vid/480x480/xqnQx6EA9rzOdAM9.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1227638552097325056/pu/vid/320x320/Z80mDl1TRauHBHpX.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1227638552097325056/pu/pl/P1E_Ab3SJW_pkgTO.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Khoros Marketing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 707913,
+				"id_str": "707913",
+				"name": "Fender",
+				"screen_name": "Fender",
+				"location": "www.instagram.com/fender",
+				"description": "Since 1946, Fender has been the world’s foremost manufacturer of electric and acoustic guitars, bass guitars, amplifiers & accessories. https://t.co/7wY6Do1Kpu",
+				"url": "http://t.co/QkGWpWtQXe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QkGWpWtQXe",
+								"expanded_url": "http://www.fender.com/",
+								"display_url": "fender.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7wY6Do1Kpu",
+								"expanded_url": "http://www.facebook.com/Fender",
+								"display_url": "facebook.com/Fender",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 658992,
+				"friends_count": 11812,
+				"listed_count": 4401,
+				"created_at": "Fri Jan 26 12:02:00 +0000 2007",
+				"favourites_count": 37727,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30698,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783743036043866112/XeOiqdgp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783743036043866112/XeOiqdgp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/707913/1581699611",
+				"profile_link_color": "D52B1E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1A1B1F",
+				"profile_text_color": "AAAAAA",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 111,
+			"favorite_count": 560,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 114,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Fender Next 2020]\n새소년이 세계적인 기타 브랜드 펜더(Fender)의 ‘글로벌’ 아티스트 25인’에 선정되었습니다. 국내에서는 유일하다고 하네요. 더불어 2020 새소년의 세계적 활동도 많이 기대해주세요! https://t.co/nxUbjSqzzB"
+	},
+	{
 		"created_at": "Sat Feb 15 09:40:38 +0000 2020",
 		"id": 1228604867691724800,
 		"id_str": "1228615087428194304",
