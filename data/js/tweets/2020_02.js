@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 16 14:52:28 +0000 2020",
+		"id": 1229055950700433400,
+		"id_str": "1229055950700433408",
+		"full_text": "만화계성폭력대책위원회도 일베하나요? 라고 몰아가면 되는 건가요? 도대체 이게 뭐하는 짓인지 모르겠습니다. 사상검증과 뭐가 다릅니까? @csc_2019 https://t.co/5t0LuAol9X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "csc_2019",
+					"name": "만화계성폭력대책위원회",
+					"id": 979315994500857900,
+					"id_str": "979315994500857856",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229055944861999000,
+					"id_str": "1229055944861999104",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ573rqU4AABSu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ573rqU4AABSu0.jpg",
+					"url": "https://t.co/5t0LuAol9X",
+					"display_url": "pic.twitter.com/5t0LuAol9X",
+					"expanded_url": "https://twitter.com/fromminn/status/1229055950700433408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 903,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229055944861999000,
+					"id_str": "1229055944861999104",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ573rqU4AABSu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ573rqU4AABSu0.jpg",
+					"url": "https://t.co/5t0LuAol9X",
+					"display_url": "pic.twitter.com/5t0LuAol9X",
+					"expanded_url": "https://twitter.com/fromminn/status/1229055950700433408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 903,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1229054774844117000,
+		"in_reply_to_status_id_str": "1229054774844116992",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 901,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "만화계성폭력대책위원회도 일베하나요? 라고 몰아가면 되는 건가요? 도대체 이게 뭐하는 짓인지 모르겠습니다. 사상검증과 뭐가 다릅니까? @csc_2019 https://t.co/5t0LuAol9X"
+	},
+	{
+		"created_at": "Sun Feb 16 14:47:47 +0000 2020",
+		"id": 1229054774844117000,
+		"id_str": "1229054774844116992",
+		"full_text": "대책위원회 계정에서 확인도 제대로 하지 않고 특정 작가의 이메일을 넣고 일베하냐고 몰아가는 행동이 적절하지 않다고 보이네요. 신중하게 트윗해주시길 부탁드립니다. https://t.co/8XhSkKM8BR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8XhSkKM8BR",
+					"expanded_url": "https://twitter.com/csc_2019/status/1229034868111073282",
+					"display_url": "twitter.com/csc_2019/statu…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 901,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229034868111073300,
+		"quoted_status_id_str": "1229034868111073282",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8XhSkKM8BR",
+			"expanded": "https://twitter.com/csc_2019/status/1229034868111073282",
+			"display": "twitter.com/csc_2019/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 16 13:28:41 +0000 2020",
+			"id": 1229034868111073300,
+			"id_str": "1229034868111073282",
+			"full_text": "제보가 와서 올립니다.\n본인 인증까지 완료된 거 같은데 레바 작가님 일베 하시나요? 해명 부탁드립니다. https://t.co/LTPMNgpoiJ https://t.co/KIbMzpcO4n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LTPMNgpoiJ",
+						"expanded_url": "https://twitter.com/HUEME_/status/1228971225742921728",
+						"display_url": "twitter.com/HUEME_/status/…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1229034857088442400,
+						"id_str": "1229034857088442368",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ5osNlUYAAi9gC.png",
+						"media_url_https": "https://pbs.twimg.com/media/EQ5osNlUYAAi9gC.png",
+						"url": "https://t.co/KIbMzpcO4n",
+						"display_url": "pic.twitter.com/KIbMzpcO4n",
+						"expanded_url": "https://twitter.com/csc_2019/status/1229034868111073282/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 606,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 606,
+								"h": 442,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 606,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1229034857088442400,
+						"id_str": "1229034857088442368",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ5osNlUYAAi9gC.png",
+						"media_url_https": "https://pbs.twimg.com/media/EQ5osNlUYAAi9gC.png",
+						"url": "https://t.co/KIbMzpcO4n",
+						"display_url": "pic.twitter.com/KIbMzpcO4n",
+						"expanded_url": "https://twitter.com/csc_2019/status/1229034868111073282/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 606,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 606,
+								"h": 442,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 606,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1229034857138778000,
+						"id_str": "1229034857138778112",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ5osNxUcAAEP-K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQ5osNxUcAAEP-K.jpg",
+						"url": "https://t.co/KIbMzpcO4n",
+						"display_url": "pic.twitter.com/KIbMzpcO4n",
+						"expanded_url": "https://twitter.com/csc_2019/status/1229034868111073282/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 946,
+								"h": 1466,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 774,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 439,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 979315994500857900,
+				"id_str": "979315994500857856",
+				"name": "만화계성폭력대책위원회",
+				"screen_name": "csc_2019",
+				"location": "",
+				"description": "만화계 성폭력·성차별 근절에 행동합니다.\n문의 및 도움이 필요하시면 DM/메일 주세요.\nemc0330@naver.com\n\n▼사건 제보 및 상담 오픈채팅\nhttps://t.co/tZJeDge8CW",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tZJeDge8CW",
+								"expanded_url": "http://open.kakao.com/o/sgPbhCIb",
+								"display_url": "open.kakao.com/o/sgPbhCIb",
+								"indices": [
+									85,
+									108
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1274,
+				"friends_count": 62,
+				"listed_count": 8,
+				"created_at": "Thu Mar 29 11:15:02 +0000 2018",
+				"favourites_count": 125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 677,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160162997882372096/5TfSjQ4d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/979315994500857856/1573397777",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1228971225742921700,
+			"quoted_status_id_str": "1228971225742921728",
+			"quoted_status_permalink": {
+				"url": "https://t.co/LTPMNgpoiJ",
+				"expanded": "https://twitter.com/HUEME_/status/1228971225742921728",
+				"display": "twitter.com/HUEME_/status/…"
+			},
+			"retweet_count": 7845,
+			"favorite_count": 650,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대책위원회 계정에서 확인도 제대로 하지 않고 특정 작가의 이메일을 넣고 일베하냐고 몰아가는 행동이 적절하지 않다고 보이네요. 신중하게 트윗해주시길 부탁드립니다. https://t.co/8XhSkKM8BR"
+	},
+	{
 		"created_at": "Sun Feb 16 12:41:05 +0000 2020",
 		"id": 1229022888340197400,
 		"id_str": "1229022888340197377",
