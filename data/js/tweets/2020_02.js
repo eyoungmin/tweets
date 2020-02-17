@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 21:19:26 +0000 2020",
+		"id": 1229284339457777700,
+		"id_str": "1229515723946352646",
+		"full_text": "자신의 방식으로, 자신의 목소리를 내는\n테일러 스위프트 그녀를 응원합니다.\n.\n#미스아메리카나 #MissAmericana #테일러스위프트 #TaylorSwift #넷플릭스 #넷플릭스오리지널 https://t.co/3yuOhfOsoq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스아메리카나",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "MissAmericana",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"text": "테일러스위프트",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "TaylorSwift",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"text": "넷플릭스",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "넷플릭스오리지널",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229221155950583800,
+					"id_str": "1229221155950583809",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ8TZ8eU0AEyPq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ8TZ8eU0AEyPq1.jpg",
+					"url": "https://t.co/3yuOhfOsoq",
+					"display_url": "pic.twitter.com/3yuOhfOsoq",
+					"expanded_url": "https://twitter.com/NetflixKR/status/1229284339457777667/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229221155950583800,
+					"id_str": "1229221155950583809",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ8TZ8eU0AEyPq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ8TZ8eU0AEyPq1.jpg",
+					"url": "https://t.co/3yuOhfOsoq",
+					"display_url": "pic.twitter.com/3yuOhfOsoq",
+					"expanded_url": "https://twitter.com/NetflixKR/status/1229284339457777667/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 85085,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1229221155950583809/pl/FyhSwkkKUXMaKSr1.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229221155950583809/vid/1280x720/3pchw6DIWePNJeZP.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229221155950583809/vid/480x270/yscId9YMrk-iCCYP.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229221155950583809/vid/640x360/UnJI5jhTZqKaDsug.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3026881800,
+			"id_str": "3026881800",
+			"name": "Netflix Korea",
+			"screen_name": "NetflixKR",
+			"location": "대한민국 서울",
+			"description": "세계 최대 온라인 스트리밍 서비스 넷플릭스의 한국 공식 페이지입니다! 넷플릭스의 최신 소식을 발 빠르게 전해드립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97278,
+			"friends_count": 240,
+			"listed_count": 255,
+			"created_at": "Wed Feb 18 18:46:33 +0000 2015",
+			"favourites_count": 368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744938017106714624/agbT591Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744938017106714624/agbT591Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3026881800/1579752964",
+			"profile_link_color": "E50913",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 305,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자신의 방식으로, 자신의 목소리를 내는\n테일러 스위프트 그녀를 응원합니다.\n.\n#미스아메리카나 #MissAmericana #테일러스위프트 #TaylorSwift #넷플릭스 #넷플릭스오리지널 https://t.co/3yuOhfOsoq"
+	},
+	{
 		"created_at": "Mon Feb 17 20:46:15 +0000 2020",
 		"id": 1229507372055433200,
 		"id_str": "1229507372055433216",
