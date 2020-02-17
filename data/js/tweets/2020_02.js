@@ -1,6 +1,1379 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 13:40:38 +0000 2020",
+		"id": 1229390091430137900,
+		"id_str": "1229400261522841601",
+		"full_text": "오늘 저녁 11시(KST) #츄 와 함께 tvN 더 짠내투어로 강화도 여행 함께 떠날 오빛 있츄~?🍓\n\n#이달의소녀 #LOONA #Chuu https://t.co/s5DlMz0qsN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						15,
+						17
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						72,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229390079451263000,
+					"id_str": "1229390079451262976",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ-rw4AU8AALKrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ-rw4AU8AALKrm.jpg",
+					"url": "https://t.co/s5DlMz0qsN",
+					"display_url": "pic.twitter.com/s5DlMz0qsN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1229390091430137858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229390079451263000,
+					"id_str": "1229390079451262976",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ-rw4AU8AALKrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ-rw4AU8AALKrm.jpg",
+					"url": "https://t.co/s5DlMz0qsN",
+					"display_url": "pic.twitter.com/s5DlMz0qsN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1229390091430137858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420291,
+			"friends_count": 0,
+			"listed_count": 5862,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5776,
+		"favorite_count": 14140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 저녁 11시(KST) #츄 와 함께 tvN 더 짠내투어로 강화도 여행 함께 떠날 오빛 있츄~?🍓\n\n#이달의소녀 #LOONA #Chuu https://t.co/s5DlMz0qsN"
+	},
+	{
+		"created_at": "Mon Feb 17 13:14:08 +0000 2020",
+		"id": 1229239042803458000,
+		"id_str": "1229393594999427073",
+		"full_text": "IMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV Teaser\n\nIMLAY The 3rd EP Album [‘DYSTOPIA’]\n\n🎧 2020.02.19 \n\n#IMLAY #임레이 @leimlay #Asteroid #아스테로이드 #DYSTOPIA #디스토피아 #YANGYANG #양양 #WayV @WayV_official https://t.co/JGKuNoNju0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IMLAY",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "Asteroid",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "아스테로이드",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "DYSTOPIA",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "디스토피아",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "YANGYANG",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "양양",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						175,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leimlay",
+					"name": "IMLAY",
+					"id": 2773953697,
+					"id_str": "2773953697",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"screen_name": "WayV_official",
+					"name": "WayV",
+					"id": 1033994695595065300,
+					"id_str": "1033994695595065347",
+					"indices": [
+						181,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229222923262521300,
+					"id_str": "1229222923262521344",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ8XmqrUUAAjyNb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ8XmqrUUAAjyNb.jpg",
+					"url": "https://t.co/JGKuNoNju0",
+					"display_url": "pic.twitter.com/JGKuNoNju0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1229239042803458048/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229222923262521300,
+					"id_str": "1229222923262521344",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ8XmqrUUAAjyNb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ8XmqrUUAAjyNb.jpg",
+					"url": "https://t.co/JGKuNoNju0",
+					"display_url": "pic.twitter.com/JGKuNoNju0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1229239042803458048/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24892,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229222923262521344/vid/480x270/0IAGl92HPGMnX43x.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229222923262521344/vid/1280x720/lms2yVu9vqreOimN.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229222923262521344/vid/640x360/MMDK7NW6DS0AA07L.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1229222923262521344/pl/U2DqkD5zKYvNBU1J.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8124132,
+			"friends_count": 49,
+			"listed_count": 10049,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14125,
+		"favorite_count": 20319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "IMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV Teaser\n\nIMLAY The 3rd EP Album [‘DYSTOPIA’]\n\n🎧 2020.02.19 \n\n#IMLAY #임레이 @leimlay #Asteroid #아스테로이드 #DYSTOPIA #디스토피아 #YANGYANG #양양 #WayV @WayV_official https://t.co/JGKuNoNju0"
+	},
+	{
+		"created_at": "Mon Feb 17 13:14:04 +0000 2020",
+		"id": 1229242112463405000,
+		"id_str": "1229393578222178305",
+		"full_text": "IMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV Teaser 공개합니다! https://t.co/QUtOh1KQKi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QUtOh1KQKi",
+					"expanded_url": "https://twitter.com/smtownglobal/status/1229239042803458048",
+					"display_url": "twitter.com/smtownglobal/s…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2773953697,
+			"id_str": "2773953697",
+			"name": "IMLAY",
+			"screen_name": "leimlay",
+			"location": "Seoul",
+			"description": "@SMTOWNGLOBAL @ScreaM_Records IMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV Teaser✨",
+			"url": "https://t.co/O3xSqSQBxe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O3xSqSQBxe",
+							"expanded_url": "https://youtu.be/P91ih_4h5Nc",
+							"display_url": "youtu.be/P91ih_4h5Nc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1001,
+			"friends_count": 172,
+			"listed_count": 17,
+			"created_at": "Wed Aug 27 17:19:34 +0000 2014",
+			"favourites_count": 2333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226771768523644929/Gh0k8BTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226771768523644929/Gh0k8BTG_normal.jpg",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229239042803458000,
+		"quoted_status_id_str": "1229239042803458048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QUtOh1KQKi",
+			"expanded": "https://twitter.com/smtownglobal/status/1229239042803458048",
+			"display": "twitter.com/smtownglobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 17 03:00:00 +0000 2020",
+			"id": 1229239042803458000,
+			"id_str": "1229239042803458048",
+			"full_text": "IMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV Teaser\n\nIMLAY The 3rd EP Album [‘DYSTOPIA’]\n\n🎧 2020.02.19 \n\n#IMLAY #임레이 @leimlay #Asteroid #아스테로이드 #DYSTOPIA #디스토피아 #YANGYANG #양양 #WayV @WayV_official https://t.co/JGKuNoNju0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IMLAY",
+						"indices": [
+							105,
+							111
+						]
+					},
+					{
+						"text": "임레이",
+						"indices": [
+							112,
+							116
+						]
+					},
+					{
+						"text": "Asteroid",
+						"indices": [
+							126,
+							135
+						]
+					},
+					{
+						"text": "아스테로이드",
+						"indices": [
+							136,
+							143
+						]
+					},
+					{
+						"text": "DYSTOPIA",
+						"indices": [
+							144,
+							153
+						]
+					},
+					{
+						"text": "디스토피아",
+						"indices": [
+							154,
+							160
+						]
+					},
+					{
+						"text": "YANGYANG",
+						"indices": [
+							161,
+							170
+						]
+					},
+					{
+						"text": "양양",
+						"indices": [
+							171,
+							174
+						]
+					},
+					{
+						"text": "WayV",
+						"indices": [
+							175,
+							180
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "leimlay",
+						"name": "IMLAY",
+						"id": 2773953697,
+						"id_str": "2773953697",
+						"indices": [
+							117,
+							125
+						]
+					},
+					{
+						"screen_name": "WayV_official",
+						"name": "WayV",
+						"id": 1033994695595065300,
+						"id_str": "1033994695595065347",
+						"indices": [
+							181,
+							195
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1229222923262521300,
+						"id_str": "1229222923262521344",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ8XmqrUUAAjyNb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQ8XmqrUUAAjyNb.jpg",
+						"url": "https://t.co/JGKuNoNju0",
+						"display_url": "pic.twitter.com/JGKuNoNju0",
+						"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1229239042803458048/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1229222923262521300,
+						"id_str": "1229222923262521344",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ8XmqrUUAAjyNb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQ8XmqrUUAAjyNb.jpg",
+						"url": "https://t.co/JGKuNoNju0",
+						"display_url": "pic.twitter.com/JGKuNoNju0",
+						"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1229239042803458048/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 24892,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1229222923262521344/vid/480x270/0IAGl92HPGMnX43x.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1229222923262521344/vid/1280x720/lms2yVu9vqreOimN.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1229222923262521344/vid/640x360/MMDK7NW6DS0AA07L.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1229222923262521344/pl/U2DqkD5zKYvNBU1J.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 884378714,
+				"id_str": "884378714",
+				"name": "SMTOWN",
+				"screen_name": "SMTOWNGLOBAL",
+				"location": "",
+				"description": "SM Entertainment Group Official Twitter Page",
+				"url": "https://t.co/vbjfZGuM9Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vbjfZGuM9Y",
+								"expanded_url": "http://www.smtown.com",
+								"display_url": "smtown.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8124132,
+				"friends_count": 49,
+				"listed_count": 10049,
+				"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+				"favourites_count": 565,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7094,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F08BA0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14125,
+			"favorite_count": 20319,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 513,
+		"favorite_count": 569,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV Teaser 공개합니다! https://t.co/QUtOh1KQKi"
+	},
+	{
+		"created_at": "Mon Feb 17 13:13:58 +0000 2020",
+		"id": 1229246521587032000,
+		"id_str": "1229393553379356672",
+		"full_text": "최소한의 노력으로 소프트웨어 스타트업 운영하기 https://t.co/bic7614wyM \nCrankWheel 창업자가 5년동안 운영하며 겪은 것들을 \"이렇게는 하지마세요\" 라는 23가지 룰로 정리\n#1 반복매출만이 살길\n#2 년단위보다 월단위 가격 플랜으로 \n#3 No 후불\n#4 가능하면 빌링+구독등을 아웃...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bic7614wyM",
+					"expanded_url": "http://j.mp/2HvCNBW",
+					"display_url": "j.mp/2HvCNBW",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2227,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최소한의 노력으로 소프트웨어 스타트업 운영하기 https://t.co/bic7614wyM \nCrankWheel 창업자가 5년동안 운영하며 겪은 것들을 \"이렇게는 하지마세요\" 라는 23가지 룰로 정리\n#1 반복매출만이 살길\n#2 년단위보다 월단위 가격 플랜으로 \n#3 No 후불\n#4 가능하면 빌링+구독등을 아웃..."
+	},
+	{
+		"created_at": "Mon Feb 17 13:13:50 +0000 2020",
+		"id": 1229393519149584400,
+		"id_str": "1229393519149584384",
+		"full_text": "@seoulrain 무료도 지원하지만 자동으로 여러채널을 다운로드 받으려면 유료 플랜을 이용하는 것이 좋습니다. 개발지식이 있으면 깃헙에서 라이브스트림 찾아서 로컬에 깔아서 이용하면 편해요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seoulrain",
+					"name": "서울비",
+					"id": 14941102,
+					"id_str": "14941102",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1229241571842953200,
+		"in_reply_to_status_id_str": "1229241571842953218",
+		"in_reply_to_user_id": 14941102,
+		"in_reply_to_user_id_str": "14941102",
+		"in_reply_to_screen_name": "seoulrain",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@seoulrain 무료도 지원하지만 자동으로 여러채널을 다운로드 받으려면 유료 플랜을 이용하는 것이 좋습니다. 개발지식이 있으면 깃헙에서 라이브스트림 찾아서 로컬에 깔아서 이용하면 편해요."
+	},
+	{
+		"created_at": "Mon Feb 17 13:07:33 +0000 2020",
+		"id": 1229345846950383600,
+		"id_str": "1229391937620197377",
+		"full_text": "https://t.co/sdEF2falkL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229345835286028300,
+					"id_str": "1229345835286028293",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ-DhhpUYAUpJ03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ-DhhpUYAUpJ03.jpg",
+					"url": "https://t.co/sdEF2falkL",
+					"display_url": "pic.twitter.com/sdEF2falkL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1229345846950383616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229345835286028300,
+					"id_str": "1229345835286028293",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ-DhhpUYAUpJ03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ-DhhpUYAUpJ03.jpg",
+					"url": "https://t.co/sdEF2falkL",
+					"display_url": "pic.twitter.com/sdEF2falkL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1229345846950383616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1229336766575870000,
+		"in_reply_to_status_id_str": "1229336766575869952",
+		"in_reply_to_user_id": 206117108,
+		"in_reply_to_user_id_str": "206117108",
+		"in_reply_to_screen_name": "Warner_Music_Kr",
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아의 공식 트위터. 워너뮤직 아티스트들의 공연 & 음반 발매 소식과 다양한 영상들을 전달해 드립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9703,
+			"friends_count": 565,
+			"listed_count": 131,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800527316610752512/RWApzxk__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800527316610752512/RWApzxk__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1571967210",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/sdEF2falkL"
+	},
+	{
+		"created_at": "Mon Feb 17 13:07:26 +0000 2020",
+		"id": 1229336766575870000,
+		"id_str": "1229391905894461440",
+		"full_text": "📣#앤마리, 잠시 후 7시 &lt;배철수의 음악캠프 - Live at the BBC&gt; 특별 생방송 출연! 런던에서 전하는 라이브와 인터뷰 절대 놓치지 마세요!\n\n👉생중계 보기 https://t.co/j4MbiUps8Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "앤마리",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j4MbiUps8Q",
+					"expanded_url": "https://youtu.be/bKZhD584jR8",
+					"display_url": "youtu.be/bKZhD584jR8",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아의 공식 트위터. 워너뮤직 아티스트들의 공연 & 음반 발매 소식과 다양한 영상들을 전달해 드립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9703,
+			"friends_count": 565,
+			"listed_count": 131,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800527316610752512/RWApzxk__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800527316610752512/RWApzxk__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1571967210",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣#앤마리, 잠시 후 7시 &lt;배철수의 음악캠프 - Live at the BBC&gt; 특별 생방송 출연! 런던에서 전하는 라이브와 인터뷰 절대 놓치지 마세요!\n\n👉생중계 보기 https://t.co/j4MbiUps8Q"
+	},
+	{
 		"created_at": "Mon Feb 17 11:30:32 +0000 2020",
 		"id": 1229354895817371600,
 		"id_str": "1229367520924229632",
