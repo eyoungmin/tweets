@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 15:38:03 +0000 2020",
+		"id": 1229207903267016700,
+		"id_str": "1229429809765179392",
+		"full_text": "1대1 면담시 사용할 질문 리스트 https://t.co/cnJul4dgdO \n약 300개 정도의 질문 모음\n- 매니저 로서 물어보기\n- 커리어 개발 관련\n- 시작하는 질문\n- 업무 만족도 \n- 팀과 회사에 대해\n- 워라밸",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cnJul4dgdO",
+					"expanded_url": "http://j.mp/2Htyp6r",
+					"display_url": "j.mp/2Htyp6r",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2229,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1대1 면담시 사용할 질문 리스트 https://t.co/cnJul4dgdO \n약 300개 정도의 질문 모음\n- 매니저 로서 물어보기\n- 커리어 개발 관련\n- 시작하는 질문\n- 업무 만족도 \n- 팀과 회사에 대해\n- 워라밸"
+	},
+	{
+		"created_at": "Mon Feb 17 15:37:03 +0000 2020",
+		"id": 1229321274297446400,
+		"id_str": "1229429561353330688",
+		"full_text": "정보를 많이 접하는 것과, 그게 흡수되고 확신과 행동의 변화로 이어지는건 꽤나 다른 것인데, 대부분은 내가 똑똑해진다는 느낌을 좋아하거나 일종의 자기계발 강박을 해소하는 정도가 아닐까. 물론 누적되며 학습되는 효과는 작지 않겠지만 나는 어느정도 고통이 있어야 내것이 된다고 믿는 사람",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1229321272821026800,
+		"in_reply_to_status_id_str": "1229321272821026816",
+		"in_reply_to_user_id": 221350155,
+		"in_reply_to_user_id_str": "221350155",
+		"in_reply_to_screen_name": "cnookie",
+		"user": {
+			"id": 221350155,
+			"id_str": "221350155",
+			"name": "정신욱",
+			"screen_name": "cnookie",
+			"location": "",
+			"description": "Portfolio Manager",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3915,
+			"friends_count": 89,
+			"listed_count": 89,
+			"created_at": "Tue Nov 30 12:33:19 +0000 2010",
+			"favourites_count": 1274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080806807155630080/BYuRJ6v__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080806807155630080/BYuRJ6v__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221350155/1540173966",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정보를 많이 접하는 것과, 그게 흡수되고 확신과 행동의 변화로 이어지는건 꽤나 다른 것인데, 대부분은 내가 똑똑해진다는 느낌을 좋아하거나 일종의 자기계발 강박을 해소하는 정도가 아닐까. 물론 누적되며 학습되는 효과는 작지 않겠지만 나는 어느정도 고통이 있어야 내것이 된다고 믿는 사람"
+	},
+	{
+		"created_at": "Mon Feb 17 15:37:02 +0000 2020",
+		"id": 1229321272821026800,
+		"id_str": "1229429554730524672",
+		"full_text": "투자업에 있으면서 유튜브에 나오는 분들, 그리고 아예 현업을 떠나 유튜버로 전향하는 사람들이 늘었다. 안면이 있던 사람도 있어서 반가운데 이제 정말 이 분야에도 양질의 정보들이 늘어나면서, 대중들도 보다 educated 되고 문화적으로도 성숙한 자본시장이 될 수 있을 것인가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221350155,
+			"id_str": "221350155",
+			"name": "정신욱",
+			"screen_name": "cnookie",
+			"location": "",
+			"description": "Portfolio Manager",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3915,
+			"friends_count": 89,
+			"listed_count": 89,
+			"created_at": "Tue Nov 30 12:33:19 +0000 2010",
+			"favourites_count": 1274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080806807155630080/BYuRJ6v__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080806807155630080/BYuRJ6v__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221350155/1540173966",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "투자업에 있으면서 유튜브에 나오는 분들, 그리고 아예 현업을 떠나 유튜버로 전향하는 사람들이 늘었다. 안면이 있던 사람도 있어서 반가운데 이제 정말 이 분야에도 양질의 정보들이 늘어나면서, 대중들도 보다 educated 되고 문화적으로도 성숙한 자본시장이 될 수 있을 것인가"
+	},
+	{
+		"created_at": "Mon Feb 17 15:32:43 +0000 2020",
+		"id": 1229428469072744400,
+		"id_str": "1229428469072744449",
+		"full_text": "트위터 토픽을 팔로잉하니 좋은 점은 다양한 이야기나 팬콘텐츠를 놓치지 않는다는 장점이 있지만 그로테스크 돌덤 문화도 함께 봐야 한다는 단점이 있다. 키워드 뮤트로 해결하면 되지만. 공앱에서만 작동하기 때문에 토픽 제외하고 보려면 서드파티 이용하면 되고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 토픽을 팔로잉하니 좋은 점은 다양한 이야기나 팬콘텐츠를 놓치지 않는다는 장점이 있지만 그로테스크 돌덤 문화도 함께 봐야 한다는 단점이 있다. 키워드 뮤트로 해결하면 되지만. 공앱에서만 작동하기 때문에 토픽 제외하고 보려면 서드파티 이용하면 되고."
+	},
+	{
+		"created_at": "Mon Feb 17 15:25:34 +0000 2020",
+		"id": 1229338136301277200,
+		"id_str": "1229426670718730240",
+		"full_text": "https://t.co/zAHkS6h7vO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zAHkS6h7vO",
+					"expanded_url": "https://www.instagram.com/p/B8qarOcF3zS/?igshid=i2133w8ky2kz",
+					"display_url": "instagram.com/p/B8qarOcF3zS/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 515802851,
+			"id_str": "515802851",
+			"name": "서지음",
+			"screen_name": "jium1215",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 1,
+			"listed_count": 4,
+			"created_at": "Mon Mar 05 19:51:17 +0000 2012",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214181585311846401/fGGUhJ1o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214181585311846401/fGGUhJ1o_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/zAHkS6h7vO"
+	},
+	{
+		"created_at": "Mon Feb 17 15:25:17 +0000 2020",
+		"id": 1229424800449253400,
+		"id_str": "1229426596911534080",
+		"full_text": "청각장애인이 된 이후로는 한국 영화나 드라마를 본 적이 거의 없다. 자막이 없으니까. 영상 각본 제안이 종종 들어오는 편인데 대부분 거절한 이유도 그때문이다. 내가 제대로 본 적이 없어서. 1인치 자막은 누군가에게는 장벽이 아닌 장벽의 해체다. 한글자막 영화 상영이 확대되었으면 좋겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051759866535075800,
+			"id_str": "1051759866535075840",
+			"name": "초엽",
+			"screen_name": "choyeop_",
+			"location": "",
+			"description": "SF를 씁니다 👩‍🚀\nhttps://t.co/4x2ze1ycec",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4x2ze1ycec",
+							"expanded_url": "http://www.blossomcreative.co.kr/",
+							"display_url": "blossomcreative.co.kr",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6565,
+			"friends_count": 80,
+			"listed_count": 27,
+			"created_at": "Mon Oct 15 09:01:07 +0000 2018",
+			"favourites_count": 1000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052810919762321409/Q3t1_jOn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052810919762321409/Q3t1_jOn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051759866535075840/1539595481",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 773,
+		"favorite_count": 554,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "청각장애인이 된 이후로는 한국 영화나 드라마를 본 적이 거의 없다. 자막이 없으니까. 영상 각본 제안이 종종 들어오는 편인데 대부분 거절한 이유도 그때문이다. 내가 제대로 본 적이 없어서. 1인치 자막은 누군가에게는 장벽이 아닌 장벽의 해체다. 한글자막 영화 상영이 확대되었으면 좋겠다."
+	},
+	{
+		"created_at": "Mon Feb 17 15:25:12 +0000 2020",
+		"id": 1229382957250400300,
+		"id_str": "1229426579949834240",
+		"full_text": "“우리사회가 여대를 만든 건 성평등한 사회를 만들기 위해서다. 여대의 소멸과 성평등은 이어져 있다. 젠더 위계 속에서 더 차별받는 트랜스젠더, 젠더 퀴어 등 소수자들에게 자리를 내어주는 게 여대의 역할이 아닐까 싶다.”\n\nhttps://t.co/6niGDLRII0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6niGDLRII0",
+					"expanded_url": "http://m.pressian.com/m/m_article/?no=278679#08gq",
+					"display_url": "m.pressian.com/m/m_article/?n…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174556876,
+			"id_str": "174556876",
+			"name": "홍성수",
+			"screen_name": "sungsooh",
+			"location": "Republic of Korea",
+			"description": "법사회학/법철학/인권 연구자. 블로그 참조. 트위터는 외부 글 링크용으로만 사용합니다. 연락은 이메일로 부탁드립니다. sungsooh@gmail.com",
+			"url": "https://t.co/HlMdKviSff",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HlMdKviSff",
+							"expanded_url": "http://transproms.tistory.com",
+							"display_url": "transproms.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49517,
+			"friends_count": 8946,
+			"listed_count": 851,
+			"created_at": "Wed Aug 04 06:16:41 +0000 2010",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896423579578806272/ZfK8FPJB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896423579578806272/ZfK8FPJB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174556876/1386733770",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“우리사회가 여대를 만든 건 성평등한 사회를 만들기 위해서다. 여대의 소멸과 성평등은 이어져 있다. 젠더 위계 속에서 더 차별받는 트랜스젠더, 젠더 퀴어 등 소수자들에게 자리를 내어주는 게 여대의 역할이 아닐까 싶다.”\n\nhttps://t.co/6niGDLRII0"
+	},
+	{
 		"created_at": "Mon Feb 17 15:19:06 +0000 2020",
 		"id": 1229425041672028200,
 		"id_str": "1229425041672028160",
