@@ -1,6 +1,804 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 15:19:06 +0000 2020",
+		"id": 1229425041672028200,
+		"id_str": "1229425041672028160",
+		"full_text": "진보정당과 진보적 액션을 취하는 시민 단체에 실망한 적이 있고 끼리끼리 문화와 친목, 비판없는 사고의 콜라보로 다시 쳐다볼 일은 없을 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "진보정당과 진보적 액션을 취하는 시민 단체에 실망한 적이 있고 끼리끼리 문화와 친목, 비판없는 사고의 콜라보로 다시 쳐다볼 일은 없을 것이다."
+	},
+	{
+		"created_at": "Mon Feb 17 15:16:46 +0000 2020",
+		"id": 1229424455438434300,
+		"id_str": "1229424455438434304",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n31-2]사회보는 상지/제2의 n번방을 막으려면\nhttps://t.co/A5QH0lcK69\n팟티: https://t.co/rJaHe9QG9u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A5QH0lcK69",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1581936753702.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/rJaHe9QG9u",
+					"expanded_url": "https://www.podty.me/episode/12921956",
+					"display_url": "podty.me/episode/129219…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n31-2]사회보는 상지/제2의 n번방을 막으려면\nhttps://t.co/A5QH0lcK69\n팟티: https://t.co/rJaHe9QG9u"
+	},
+	{
+		"created_at": "Mon Feb 17 15:16:11 +0000 2020",
+		"id": 1229424307387764700,
+		"id_str": "1229424307387764738",
+		"full_text": "자신의 생각과 비슷한 말을 누군가 해준다는 것이 트위터의 장점이라고 호응을 많이 받았지만 같은 문제에도 여러가지 당위와 층위가 존재하는데 확실하게 생각이 겹치는 경우는 매우 드물다. 이런 생각도 있구나 하며 비판적으로 사고하고 주체적으로 생각해야지 이 생각이 곧 내생각은 매우 위험.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1229423604409831400,
+		"in_reply_to_status_id_str": "1229423604409831426",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "자신의 생각과 비슷한 말을 누군가 해준다는 것이 트위터의 장점이라고 호응을 많이 받았지만 같은 문제에도 여러가지 당위와 층위가 존재하는데 확실하게 생각이 겹치는 경우는 매우 드물다. 이런 생각도 있구나 하며 비판적으로 사고하고 주체적으로 생각해야지 이 생각이 곧 내생각은 매우 위험."
+	},
+	{
+		"created_at": "Mon Feb 17 15:13:23 +0000 2020",
+		"id": 1229423604409831400,
+		"id_str": "1229423604409831426",
+		"full_text": "트위터에는 운영주체가 불투명한 연대체가 여럿보이는데 조심할 필요가 있다 생각이 든다. 주체적으로 생각하고 행동하기.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터에는 운영주체가 불투명한 연대체가 여럿보이는데 조심할 필요가 있다 생각이 든다. 주체적으로 생각하고 행동하기."
+	},
+	{
+		"created_at": "Mon Feb 17 15:11:12 +0000 2020",
+		"id": 1229420344550641700,
+		"id_str": "1229423055241281536",
+		"full_text": "인스타그램의 좋아요, 트위터의 리트윗과 마음으로 응원해주세요.\n각 곡의 응원 수치가 NCT 127 멤버들이 정한 목표에 도달하면 각 트랙 비디오의 리워드 이미지가 제공됩니다.\nWANT SOME MORE?\n차트쇼 1위 곡에는 특별한 선물이 기다립니다.\n\nhttps://t.co/Px1vf9bzwO\n\n#NCT127 #NeoZone_TrackVideo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT127",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "NeoZone_TrackVideo",
+					"indices": [
+						174,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Px1vf9bzwO",
+					"expanded_url": "http://www.NCT127.com",
+					"display_url": "NCT127.com",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 869875390465982500,
+			"id_str": "869875390465982465",
+			"name": "NCT 127",
+			"screen_name": "NCTsmtown_127",
+			"location": "",
+			"description": "🔊 Pre-order NCT 127’s 2nd Album\n‘NCT #127 Neo Zone’ (N & C Ver.) from the links below💚👇🏻👇🏻",
+			"url": "https://t.co/P4lXHTwZ4a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P4lXHTwZ4a",
+							"expanded_url": "http://nct127.lnk.to/neozoneTB",
+							"display_url": "nct127.lnk.to/neozoneTB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2558569,
+			"friends_count": 4,
+			"listed_count": 9626,
+			"created_at": "Wed May 31 11:17:09 +0000 2017",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227245947169562625/lIBLBD9-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227245947169562625/lIBLBD9-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/869875390465982465/1581433211",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26665,
+		"favorite_count": 32847,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인스타그램의 좋아요, 트위터의 리트윗과 마음으로 응원해주세요.\n각 곡의 응원 수치가 NCT 127 멤버들이 정한 목표에 도달하면 각 트랙 비디오의 리워드 이미지가 제공됩니다.\nWANT SOME MORE?\n차트쇼 1위 곡에는 특별한 선물이 기다립니다.\n\nhttps://t.co/Px1vf9bzwO\n\n#NCT127 #NeoZone_TrackVideo"
+	},
+	{
+		"created_at": "Mon Feb 17 15:11:06 +0000 2020",
+		"id": 1229423031740616700,
+		"id_str": "1229423031740616706",
+		"full_text": "유튜브 말고 트위터로 리워드성 공개하는 프로모션은 처음 본다.\n\n#SMTOWN #NCT127 #마케팅 #뮤직비지니스 https://t.co/DO6xq7rL13",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "마케팅",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DO6xq7rL13",
+					"expanded_url": "https://twitter.com/NCTsmtown_127/status/1229420344550641667",
+					"display_url": "twitter.com/NCTsmtown_127/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229420344550641700,
+		"quoted_status_id_str": "1229420344550641667",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DO6xq7rL13",
+			"expanded": "https://twitter.com/NCTsmtown_127/status/1229420344550641667",
+			"display": "twitter.com/NCTsmtown_127/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 17 15:00:26 +0000 2020",
+			"id": 1229420344550641700,
+			"id_str": "1229420344550641667",
+			"full_text": "인스타그램의 좋아요, 트위터의 리트윗과 마음으로 응원해주세요.\n각 곡의 응원 수치가 NCT 127 멤버들이 정한 목표에 도달하면 각 트랙 비디오의 리워드 이미지가 제공됩니다.\nWANT SOME MORE?\n차트쇼 1위 곡에는 특별한 선물이 기다립니다.\n\nhttps://t.co/Px1vf9bzwO\n\n#NCT127 #NeoZone_TrackVideo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NCT127",
+						"indices": [
+							166,
+							173
+						]
+					},
+					{
+						"text": "NeoZone_TrackVideo",
+						"indices": [
+							174,
+							193
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Px1vf9bzwO",
+						"expanded_url": "http://www.NCT127.com",
+						"display_url": "NCT127.com",
+						"indices": [
+							141,
+							164
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 869875390465982500,
+				"id_str": "869875390465982465",
+				"name": "NCT 127",
+				"screen_name": "NCTsmtown_127",
+				"location": "",
+				"description": "🔊 Pre-order NCT 127’s 2nd Album\n‘NCT #127 Neo Zone’ (N & C Ver.) from the links below💚👇🏻👇🏻",
+				"url": "https://t.co/P4lXHTwZ4a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P4lXHTwZ4a",
+								"expanded_url": "http://nct127.lnk.to/neozoneTB",
+								"display_url": "nct127.lnk.to/neozoneTB",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2558569,
+				"friends_count": 4,
+				"listed_count": 9626,
+				"created_at": "Wed May 31 11:17:09 +0000 2017",
+				"favourites_count": 117,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2843,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1227245947169562625/lIBLBD9-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227245947169562625/lIBLBD9-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/869875390465982465/1581433211",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26665,
+			"favorite_count": 32847,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유튜브 말고 트위터로 리워드성 공개하는 프로모션은 처음 본다.\n\n#SMTOWN #NCT127 #마케팅 #뮤직비지니스 https://t.co/DO6xq7rL13"
+	},
+	{
 		"created_at": "Mon Feb 17 15:00:31 +0000 2020",
 		"id": 1229420366508036000,
 		"id_str": "1229420366508036099",
