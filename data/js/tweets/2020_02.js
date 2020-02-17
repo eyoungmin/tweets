@@ -1,6 +1,1092 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 07:54:09 +0000 2020",
+		"id": 1229313066392858600,
+		"id_str": "1229313066392858625",
+		"full_text": "#SMTOWN #News\n에스팀 NYC, 신인 아티스트 발굴 위한 ‘캐스팅 콜’ 뉴욕서 성황리 개최\nhttps://t.co/nkkOxQF7sV\n#SM엔터테인먼트 #minfav https://t.co/oXZXdFPkND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nkkOxQF7sV",
+					"expanded_url": "https://www.smtown.com/news/detail/219",
+					"display_url": "smtown.com/news/detail/219",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229313065369378800,
+					"id_str": "1229313065369378817",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9luEMWoAEtTJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9luEMWoAEtTJq.jpg",
+					"url": "https://t.co/oXZXdFPkND",
+					"display_url": "pic.twitter.com/oXZXdFPkND",
+					"expanded_url": "https://twitter.com/fromminn/status/1229313066392858625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229313065369378800,
+					"id_str": "1229313065369378817",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9luEMWoAEtTJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9luEMWoAEtTJq.jpg",
+					"url": "https://t.co/oXZXdFPkND",
+					"display_url": "pic.twitter.com/oXZXdFPkND",
+					"expanded_url": "https://twitter.com/fromminn/status/1229313066392858625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #News\n에스팀 NYC, 신인 아티스트 발굴 위한 ‘캐스팅 콜’ 뉴욕서 성황리 개최\nhttps://t.co/nkkOxQF7sV\n#SM엔터테인먼트 #minfav https://t.co/oXZXdFPkND"
+	},
+	{
+		"created_at": "Mon Feb 17 07:30:59 +0000 2020",
+		"id": 1229306578089599000,
+		"id_str": "1229307238419922944",
+		"full_text": "[#아이돌라디오 앨범 20200216] \n\nep495. 아이돌 플레이리스트 \n스페셜 DJ 이달의 소녀 희진&amp;이브 with 현진,고원,최리\n\n#IDOLRADIO #이달의소녀 #LOONA #희진 #이브 https://t.co/JxWTkUXxAi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "IDOLRADIO",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229300457815724000,
+					"id_str": "1229300457815724033",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9aQNZU0AEK95I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9aQNZU0AEK95I.jpg",
+					"url": "https://t.co/JxWTkUXxAi",
+					"display_url": "pic.twitter.com/JxWTkUXxAi",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1229306578089598977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229300457815724000,
+					"id_str": "1229300457815724033",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9aQNZU0AEK95I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9aQNZU0AEK95I.jpg",
+					"url": "https://t.co/JxWTkUXxAi",
+					"display_url": "pic.twitter.com/JxWTkUXxAi",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1229306578089598977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1229300457824108500,
+					"id_str": "1229300457824108544",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9aQNbUwAANLDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9aQNbUwAANLDn.jpg",
+					"url": "https://t.co/JxWTkUXxAi",
+					"display_url": "pic.twitter.com/JxWTkUXxAi",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1229306578089598977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1229300457908031500,
+					"id_str": "1229300457908031488",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9aQNvVUAAubgZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9aQNvVUAAubgZ.jpg",
+					"url": "https://t.co/JxWTkUXxAi",
+					"display_url": "pic.twitter.com/JxWTkUXxAi",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1229306578089598977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1229306572846715000,
+		"in_reply_to_status_id_str": "1229306572846714880",
+		"in_reply_to_user_id": 1012698432757100500,
+		"in_reply_to_user_id_str": "1012698432757100545",
+		"in_reply_to_screen_name": "idolradiokorea",
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/weA2TATSpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/weA2TATSpl",
+							"expanded_url": "http://www.vlive.tv/channels/C6571B",
+							"display_url": "vlive.tv/channels/C6571B",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56245,
+			"friends_count": 3,
+			"listed_count": 200,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1530630332",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌라디오 앨범 20200216] \n\nep495. 아이돌 플레이리스트 \n스페셜 DJ 이달의 소녀 희진&amp;이브 with 현진,고원,최리\n\n#IDOLRADIO #이달의소녀 #LOONA #희진 #이브 https://t.co/JxWTkUXxAi"
+	},
+	{
+		"created_at": "Mon Feb 17 07:30:56 +0000 2020",
+		"id": 1229306572846715000,
+		"id_str": "1229307225388306432",
+		"full_text": "[#아이돌라디오 앨범 20200216] \n\nep495. 아이돌 플레이리스트 \n스페셜 DJ 이달의 소녀 희진&amp;이브 with 현진,고원,최리\n\n#IDOLRADIO #이달의소녀 #LOONA #희진 #이브 #현진 #고원 #최리 https://t.co/9aSIpoCh3l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "IDOLRADIO",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						123,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229300417269399600,
+					"id_str": "1229300417269399552",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9aN2WVAAAG6VT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9aN2WVAAAG6VT.jpg",
+					"url": "https://t.co/9aSIpoCh3l",
+					"display_url": "pic.twitter.com/9aSIpoCh3l",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1229306572846714880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229300417269399600,
+					"id_str": "1229300417269399552",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9aN2WVAAAG6VT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9aN2WVAAAG6VT.jpg",
+					"url": "https://t.co/9aSIpoCh3l",
+					"display_url": "pic.twitter.com/9aSIpoCh3l",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1229306572846714880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1229300417269383200,
+					"id_str": "1229300417269383169",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9aN2WUwAEzBgb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9aN2WUwAEzBgb.jpg",
+					"url": "https://t.co/9aSIpoCh3l",
+					"display_url": "pic.twitter.com/9aSIpoCh3l",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1229306572846714880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1229300417273585700,
+					"id_str": "1229300417273585664",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9aN2XU4AANT8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9aN2XU4AANT8v.jpg",
+					"url": "https://t.co/9aSIpoCh3l",
+					"display_url": "pic.twitter.com/9aSIpoCh3l",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1229306572846714880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/weA2TATSpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/weA2TATSpl",
+							"expanded_url": "http://www.vlive.tv/channels/C6571B",
+							"display_url": "vlive.tv/channels/C6571B",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56245,
+			"friends_count": 3,
+			"listed_count": 200,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1530630332",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌라디오 앨범 20200216] \n\nep495. 아이돌 플레이리스트 \n스페셜 DJ 이달의 소녀 희진&amp;이브 with 현진,고원,최리\n\n#IDOLRADIO #이달의소녀 #LOONA #희진 #이브 #현진 #고원 #최리 https://t.co/9aSIpoCh3l"
+	},
+	{
+		"created_at": "Mon Feb 17 07:30:50 +0000 2020",
+		"id": 1229298751392510000,
+		"id_str": "1229307199794618368",
+		"full_text": "★더쇼 215회 라인업★ EVERGLOW, H&amp;D(한결, 도현), KARD, KOKKON(코쿤), THE BOYZ, VERIVERY, 골든차일드, 드림노트(DreamNote), 로켓펀치, 문별, 비오브유(B.O.Y), 여자친구, 영기, 이달의 소녀, 체리블렛(Cherry Bullet), 펜타곤 #THESHOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 762423,
+			"friends_count": 145,
+			"listed_count": 1753,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 750,
+		"favorite_count": 917,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "★더쇼 215회 라인업★ EVERGLOW, H&amp;D(한결, 도현), KARD, KOKKON(코쿤), THE BOYZ, VERIVERY, 골든차일드, 드림노트(DreamNote), 로켓펀치, 문별, 비오브유(B.O.Y), 여자친구, 영기, 이달의 소녀, 체리블렛(Cherry Bullet), 펜타곤 #THESHOW"
+	},
+	{
+		"created_at": "Mon Feb 17 07:30:41 +0000 2020",
+		"id": 1229298158355677200,
+		"id_str": "1229307161207066625",
+		"full_text": "TAEYEON WALL SCROLL POSTER 💖\n\n태연을 월 스크롤 포스터로 만나보세요. \n여러분의 공간을 더욱 멋지게 만들어줄 거예요. \nSMTOWNandSTORE 온라인에서 예약판매로 진행중입니다! 오프라인은 3월 27일에 만나보실 수 있습니다! \n\nhttps://t.co/InCQ9YJMR1 https://t.co/5Tvl0RvSLV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/InCQ9YJMR1",
+					"expanded_url": "https://bit.ly/2uIQVFo",
+					"display_url": "bit.ly/2uIQVFo",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229298153645494300,
+					"id_str": "1229298153645494272",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9YKFsVUAAYeug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9YKFsVUAAYeug.jpg",
+					"url": "https://t.co/5Tvl0RvSLV",
+					"display_url": "pic.twitter.com/5Tvl0RvSLV",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1229298158355677184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229298153645494300,
+					"id_str": "1229298153645494272",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9YKFsVUAAYeug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9YKFsVUAAYeug.jpg",
+					"url": "https://t.co/5Tvl0RvSLV",
+					"display_url": "pic.twitter.com/5Tvl0RvSLV",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1229298158355677184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31612,
+			"friends_count": 0,
+			"listed_count": 111,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON WALL SCROLL POSTER 💖\n\n태연을 월 스크롤 포스터로 만나보세요. \n여러분의 공간을 더욱 멋지게 만들어줄 거예요. \nSMTOWNandSTORE 온라인에서 예약판매로 진행중입니다! 오프라인은 3월 27일에 만나보실 수 있습니다! \n\nhttps://t.co/InCQ9YJMR1 https://t.co/5Tvl0RvSLV"
+	},
+	{
 		"created_at": "Mon Feb 17 06:25:12 +0000 2020",
 		"id": 1229269541399625700,
 		"id_str": "1229290684575731712",
