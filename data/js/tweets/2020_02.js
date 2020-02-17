@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 06:25:12 +0000 2020",
+		"id": 1229269541399625700,
+		"id_str": "1229290684575731712",
+		"full_text": "[‘그린플러그드 서울 2020’ 2차라인업 발표｜얼리버드티켓 오픈]\n\n환경 캠페인 뮤직 페스티벌 '그린플러그드 서울 2020'의 2차라인업을 공개합니다! 우리와 함께 더 나은 내일을 위해 생각하고 노력할 그린프렌즈 11팀과, 각 아티스트별 출연일자를 확인해보세요🙌 \n\n&gt;자세히 https://t.co/33NUmZg94R https://t.co/xC95RbUmiV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/33NUmZg94R",
+					"expanded_url": "https://bit.ly/38zgwz9",
+					"display_url": "bit.ly/38zgwz9",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229263816711495700,
+					"id_str": "1229263816711495680",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ847apUYAAfMUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ847apUYAAfMUm.jpg",
+					"url": "https://t.co/xC95RbUmiV",
+					"display_url": "pic.twitter.com/xC95RbUmiV",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1229269541399625728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229263816711495700,
+					"id_str": "1229263816711495680",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ847apUYAAfMUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ847apUYAAfMUm.jpg",
+					"url": "https://t.co/xC95RbUmiV",
+					"display_url": "pic.twitter.com/xC95RbUmiV",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1229269541399625728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12354,
+			"friends_count": 167,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[‘그린플러그드 서울 2020’ 2차라인업 발표｜얼리버드티켓 오픈]\n\n환경 캠페인 뮤직 페스티벌 '그린플러그드 서울 2020'의 2차라인업을 공개합니다! 우리와 함께 더 나은 내일을 위해 생각하고 노력할 그린프렌즈 11팀과, 각 아티스트별 출연일자를 확인해보세요🙌 \n\n&gt;자세히 https://t.co/33NUmZg94R https://t.co/xC95RbUmiV"
+	},
+	{
 		"created_at": "Mon Feb 17 03:30:31 +0000 2020",
 		"id": 1229239629577998300,
 		"id_str": "1229246723509440512",
