@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 08:30:32 +0000 2020",
+		"id": 1229310063770095600,
+		"id_str": "1229322222193586176",
+		"full_text": "[Current Feburary Chart] \n2월 3주차 현재 아챔차트 순위는?\n\n1⃣ #SUPERJUNIOR ❤ 2,077,624\n2⃣ #LOONA ❤ 1,252,069\n3⃣ #PENTAGON ❤ 876,298\n4⃣ #KANGDANIEL ❤ 570,120\n5⃣ #GFRIEND ❤ 428,933\n\n🌟IDOL MAP🌟 ▶ https://t.co/f3ZibKWHq5 https://t.co/L6f9SgLNaQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						123,
+						134
+					]
+				},
+				{
+					"text": "GFRIEND",
+					"indices": [
+						148,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f3ZibKWHq5",
+					"expanded_url": "http://bit.ly/2HNp8ri",
+					"display_url": "bit.ly/2HNp8ri",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229310024477864000,
+					"id_str": "1229310024477863936",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9i9D_UcAAqNp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9i9D_UcAAqNp5.jpg",
+					"url": "https://t.co/L6f9SgLNaQ",
+					"display_url": "pic.twitter.com/L6f9SgLNaQ",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1229310063770095616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229310024477864000,
+					"id_str": "1229310024477863936",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ9i9D_UcAAqNp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ9i9D_UcAAqNp5.jpg",
+					"url": "https://t.co/L6f9SgLNaQ",
+					"display_url": "pic.twitter.com/L6f9SgLNaQ",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1229310063770095616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC MUSIC 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57901,
+			"friends_count": 1169,
+			"listed_count": 130,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Current Feburary Chart] \n2월 3주차 현재 아챔차트 순위는?\n\n1⃣ #SUPERJUNIOR ❤ 2,077,624\n2⃣ #LOONA ❤ 1,252,069\n3⃣ #PENTAGON ❤ 876,298\n4⃣ #KANGDANIEL ❤ 570,120\n5⃣ #GFRIEND ❤ 428,933\n\n🌟IDOL MAP🌟 ▶ https://t.co/f3ZibKWHq5 https://t.co/L6f9SgLNaQ"
+	},
+	{
 		"created_at": "Mon Feb 17 07:54:09 +0000 2020",
 		"id": 1229313066392858600,
 		"id_str": "1229313066392858625",
@@ -434,7 +641,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/weA2TATSpl",
 			"entities": {
 				"url": {
@@ -744,7 +951,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/weA2TATSpl",
 			"entities": {
 				"url": {
