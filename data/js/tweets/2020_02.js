@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 12:59:56 +0000 2020",
+		"id": 1229720513435463700,
+		"id_str": "1229752407925514242",
+		"full_text": "리뷰: 태연 “Purpose” (2020) - 태연의 Me, Myself and I: \"My Voice\", \"Purpose\" 그리고 \"I\" https://t.co/fVJWFmoq7I by 스큅\n\n\"‘불티’에서 ‘내게 들려주고 싶은 말’로 돌아온 “Purpose”는 외부를 향하던 목소리를 다시 자기 자신에게로 수렴시키는 과정처럼 보인다.\" https://t.co/455UqoCg5s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fVJWFmoq7I",
+					"expanded_url": "http://idology.kr/12894",
+					"display_url": "idology.kr/12894",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229720502970667000,
+					"id_str": "1229720502970667009",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDYSDiU0AElM6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDYSDiU0AElM6I.jpg",
+					"url": "https://t.co/455UqoCg5s",
+					"display_url": "pic.twitter.com/455UqoCg5s",
+					"expanded_url": "https://twitter.com/idologykr/status/1229720513435463680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229720502970667000,
+					"id_str": "1229720502970667009",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDYSDiU0AElM6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDYSDiU0AElM6I.jpg",
+					"url": "https://t.co/455UqoCg5s",
+					"display_url": "pic.twitter.com/455UqoCg5s",
+					"expanded_url": "https://twitter.com/idologykr/status/1229720513435463680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2370674196,
+			"id_str": "2370674196",
+			"name": "아이돌로지",
+			"screen_name": "idologykr",
+			"location": "",
+			"description": "다르게 말하는 아이돌팝 웹진, 아이돌로지입니다.",
+			"url": "https://t.co/iNzLTVDeRH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iNzLTVDeRH",
+							"expanded_url": "http://idology.kr",
+							"display_url": "idology.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7090,
+			"friends_count": 67,
+			"listed_count": 60,
+			"created_at": "Mon Mar 03 16:50:27 +0000 2014",
+			"favourites_count": 335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/445979354716069888/CK21Rmxa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/445979354716069888/CK21Rmxa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2370674196/1406071135",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리뷰: 태연 “Purpose” (2020) - 태연의 Me, Myself and I: \"My Voice\", \"Purpose\" 그리고 \"I\" https://t.co/fVJWFmoq7I by 스큅\n\n\"‘불티’에서 ‘내게 들려주고 싶은 말’로 돌아온 “Purpose”는 외부를 향하던 목소리를 다시 자기 자신에게로 수렴시키는 과정처럼 보인다.\" https://t.co/455UqoCg5s"
+	},
+	{
 		"created_at": "Tue Feb 18 11:48:04 +0000 2020",
 		"id": 1229734322812473300,
 		"id_str": "1229734322812473344",
