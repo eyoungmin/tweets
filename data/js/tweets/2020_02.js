@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 11:48:04 +0000 2020",
+		"id": 1229734322812473300,
+		"id_str": "1229734322812473344",
+		"full_text": "텔레그램은 'N번방 신고'에 뭐라고 답변했을까\nhttps://t.co/4nZuwDInjU\n#닷페이스 #Dotface #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "닷페이스",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "Dotface",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4nZuwDInjU",
+					"expanded_url": "https://youtu.be/0xxLLrxpuJg",
+					"display_url": "youtu.be/0xxLLrxpuJg",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 901,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "텔레그램은 'N번방 신고'에 뭐라고 답변했을까\nhttps://t.co/4nZuwDInjU\n#닷페이스 #Dotface #minfav"
+	},
+	{
 		"created_at": "Tue Feb 18 10:30:46 +0000 2020",
 		"id": 1229714443627425800,
 		"id_str": "1229714869055885312",
@@ -490,7 +618,7 @@ Grailbird.data.tweets_2020_02 =
 		"created_at": "Tue Feb 18 10:30:40 +0000 2020",
 		"id": 1229713513960001500,
 		"id_str": "1229714842875056128",
-		"full_text": "[LOONA]\n⠀\n예쁜 천사 옆에 예쁜 공주 옆에\n예쁜 요정 옆에 예쁜 엔젤 ˗ˏˋ♡ˎˊ˗\n오늘 울 공주들 나온 에엣씨보고 셀카보느라\n하루가 어떻게 지나갔는지 모르겠어요 💁🏻‍♀️⠀\n⠀\n#LOONA #이달의소녀 https://t.co/7zOYWh8fKG",
+		"full_text": "[LOONA]\n⠀\n예쁜 천사 옆에 예쁜 공주 옆에\n예쁜 요정 옆에 예쁜 엔젤 ˗ˏˋ♡ˎˊ˗\n오늘 울 공주들 나온 에엣씨보고 셀카보느라\n하루가 어떻게 지나갔는지 모르겠어요 💁🏻♀️⠀\n⠀\n#LOONA #이달의소녀 https://t.co/7zOYWh8fKG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -781,7 +909,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[LOONA]\n⠀\n예쁜 천사 옆에 예쁜 공주 옆에\n예쁜 요정 옆에 예쁜 엔젤 ˗ˏˋ♡ˎˊ˗\n오늘 울 공주들 나온 에엣씨보고 셀카보느라\n하루가 어떻게 지나갔는지 모르겠어요 💁🏻‍♀️⠀\n⠀\n#LOONA #이달의소녀 https://t.co/7zOYWh8fKG"
+		"text": "[LOONA]\n⠀\n예쁜 천사 옆에 예쁜 공주 옆에\n예쁜 요정 옆에 예쁜 엔젤 ˗ˏˋ♡ˎˊ˗\n오늘 울 공주들 나온 에엣씨보고 셀카보느라\n하루가 어떻게 지나갔는지 모르겠어요 💁🏻♀️⠀\n⠀\n#LOONA #이달의소녀 https://t.co/7zOYWh8fKG"
 	},
 	{
 		"created_at": "Tue Feb 18 09:40:51 +0000 2020",
