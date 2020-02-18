@@ -1,6 +1,1444 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 13:43:14 +0000 2020",
+		"id": 1229763306006683600,
+		"id_str": "1229763306006683648",
+		"full_text": "#사망여우TV #사망여우\n수동 프린터?..프린큐브\nhttps://t.co/jrDJ7hNGmm\n#크라우드펀딩 #소비자권리 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사망여우TV",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "사망여우",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "크라우드펀딩",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "소비자권리",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jrDJ7hNGmm",
+					"expanded_url": "https://youtu.be/GQQH7g3pnc0",
+					"display_url": "youtu.be/GQQH7g3pnc0",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 901,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사망여우TV #사망여우\n수동 프린터?..프린큐브\nhttps://t.co/jrDJ7hNGmm\n#크라우드펀딩 #소비자권리 #minfav"
+	},
+	{
+		"created_at": "Tue Feb 18 13:30:51 +0000 2020",
+		"id": 1229748280608751600,
+		"id_str": "1229760188850282498",
+		"full_text": "[LOONA]\n🎬 Closing greetings by LOONA\n⠀\n이제 마지막으로\n울 공주들하고 인사할 시간♥\n오늘 넘넘 고마웠어요 😍\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/CYD1BWVKS5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						94,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229748104590577700,
+					"id_str": "1229748104590577664",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229748104590577664/pu/img/6n5vseKuwUgSRA1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229748104590577664/pu/img/6n5vseKuwUgSRA1G.jpg",
+					"url": "https://t.co/CYD1BWVKS5",
+					"display_url": "pic.twitter.com/CYD1BWVKS5",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229748280608751617/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229748104590577700,
+					"id_str": "1229748104590577664",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229748104590577664/pu/img/6n5vseKuwUgSRA1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229748104590577664/pu/img/6n5vseKuwUgSRA1G.jpg",
+					"url": "https://t.co/CYD1BWVKS5",
+					"display_url": "pic.twitter.com/CYD1BWVKS5",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229748280608751617/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22422,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229748104590577664/pu/vid/480x270/PMrPCHwHaROdoUgy.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229748104590577664/pu/pl/k03ipgVq-7E9z_Np.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229748104590577664/pu/vid/640x360/WYcVqu5W-1YGWHiF.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229748104590577664/pu/vid/1280x720/yNIPC-StIgM-qU9J.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1229748067995271200,
+		"in_reply_to_status_id_str": "1229748067995271168",
+		"in_reply_to_user_id": 1321765501,
+		"in_reply_to_user_id_str": "1321765501",
+		"in_reply_to_screen_name": "arirang_ASC",
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698484,
+			"friends_count": 239,
+			"listed_count": 1304,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONA]\n🎬 Closing greetings by LOONA\n⠀\n이제 마지막으로\n울 공주들하고 인사할 시간♥\n오늘 넘넘 고마웠어요 😍\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/CYD1BWVKS5"
+	},
+	{
+		"created_at": "Tue Feb 18 13:30:44 +0000 2020",
+		"id": 1229746894420627500,
+		"id_str": "1229760158936584193",
+		"full_text": "[LOONA]\n🎬 Greetings from LOONA (clean ver.)\n⠀\n이달의 소녀와 함께한 에엣씨의 시작♡\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/C01xTU2i2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229746476827336700,
+					"id_str": "1229746476827336706",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229746476827336706/pu/img/SoSl83IyMD1kfVeT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229746476827336706/pu/img/SoSl83IyMD1kfVeT.jpg",
+					"url": "https://t.co/C01xTU2i2P",
+					"display_url": "pic.twitter.com/C01xTU2i2P",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229746894420627456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229746476827336700,
+					"id_str": "1229746476827336706",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229746476827336706/pu/img/SoSl83IyMD1kfVeT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229746476827336706/pu/img/SoSl83IyMD1kfVeT.jpg",
+					"url": "https://t.co/C01xTU2i2P",
+					"display_url": "pic.twitter.com/C01xTU2i2P",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229746894420627456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54388,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229746476827336706/pu/vid/1280x720/qgyRUIrfuct4AEqD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229746476827336706/pu/pl/SL0YH7JoSv996er2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229746476827336706/pu/vid/640x360/1GG1aXd9VzuGNjN2.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229746476827336706/pu/vid/480x270/SYmjg7VfVItLXUJQ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698484,
+			"friends_count": 239,
+			"listed_count": 1304,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 330,
+		"favorite_count": 845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONA]\n🎬 Greetings from LOONA (clean ver.)\n⠀\n이달의 소녀와 함께한 에엣씨의 시작♡\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/C01xTU2i2P"
+	},
+	{
+		"created_at": "Tue Feb 18 13:30:41 +0000 2020",
+		"id": 1229745045957267500,
+		"id_str": "1229760145414139904",
+		"full_text": "오늘의 #ASC_ARCHIVE 주인공은\n💗이달의 소녀💗\nASC에 출연한 이달의 소녀의\n모든 것을 알아볼까요? 🙇🏻‍♀️🙇🏻 https://t.co/KeakBZlMPy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ASC_ARCHIVE",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229745029272391700,
+					"id_str": "1229745029272391680",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDulrIVUAA3PbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDulrIVUAA3PbK.jpg",
+					"url": "https://t.co/KeakBZlMPy",
+					"display_url": "pic.twitter.com/KeakBZlMPy",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229745045957267456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1988,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1165,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229745029272391700,
+					"id_str": "1229745029272391680",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDulrIVUAA3PbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDulrIVUAA3PbK.jpg",
+					"url": "https://t.co/KeakBZlMPy",
+					"display_url": "pic.twitter.com/KeakBZlMPy",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229745045957267456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1988,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1165,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1229745029469499400,
+					"id_str": "1229745029469499393",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDulr3U8AEh00g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDulr3U8AEh00g.jpg",
+					"url": "https://t.co/KeakBZlMPy",
+					"display_url": "pic.twitter.com/KeakBZlMPy",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229745045957267456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 731,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1248,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1229745029549154300,
+					"id_str": "1229745029549154304",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDulsKUYAAp5D3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDulsKUYAAp5D3.jpg",
+					"url": "https://t.co/KeakBZlMPy",
+					"display_url": "pic.twitter.com/KeakBZlMPy",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229745045957267456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 430,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 734,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1229745026265038800,
+		"in_reply_to_status_id_str": "1229745026265038848",
+		"in_reply_to_user_id": 1321765501,
+		"in_reply_to_user_id_str": "1321765501",
+		"in_reply_to_screen_name": "arirang_ASC",
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698484,
+			"friends_count": 239,
+			"listed_count": 1304,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 #ASC_ARCHIVE 주인공은\n💗이달의 소녀💗\nASC에 출연한 이달의 소녀의\n모든 것을 알아볼까요? 🙇🏻‍♀️🙇🏻 https://t.co/KeakBZlMPy"
+	},
+	{
+		"created_at": "Tue Feb 18 13:30:32 +0000 2020",
+		"id": 1229745026265038800,
+		"id_str": "1229760107086524416",
+		"full_text": "#ASC_ARCHIVE\n'ASC Archive LOONA Edition📚'\nHere are the TMIs from today's show with @loonatheworld!\nWhat was your fave moment from the show ASCers? https://t.co/uN8G9nJUmn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ASC_ARCHIVE",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229745005759123500,
+					"id_str": "1229745005759123456",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDukTiVUAAqqjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDukTiVUAAqqjE.jpg",
+					"url": "https://t.co/uN8G9nJUmn",
+					"display_url": "pic.twitter.com/uN8G9nJUmn",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229745026265038848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1540,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229745005759123500,
+					"id_str": "1229745005759123456",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDukTiVUAAqqjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDukTiVUAAqqjE.jpg",
+					"url": "https://t.co/uN8G9nJUmn",
+					"display_url": "pic.twitter.com/uN8G9nJUmn",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229745026265038848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1540,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1229745005763285000,
+					"id_str": "1229745005763284992",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDukTjU0AAw-83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDukTjU0AAw-83.jpg",
+					"url": "https://t.co/uN8G9nJUmn",
+					"display_url": "pic.twitter.com/uN8G9nJUmn",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229745026265038848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1003,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1229745005763235800,
+					"id_str": "1229745005763235840",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDukTjUEAA3ivo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDukTjUEAA3ivo.jpg",
+					"url": "https://t.co/uN8G9nJUmn",
+					"display_url": "pic.twitter.com/uN8G9nJUmn",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229745026265038848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 972,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698484,
+			"friends_count": 239,
+			"listed_count": 1304,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 374,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ASC_ARCHIVE\n'ASC Archive LOONA Edition📚'\nHere are the TMIs from today's show with @loonatheworld!\nWhat was your fave moment from the show ASCers? https://t.co/uN8G9nJUmn"
+	},
+	{
+		"created_at": "Tue Feb 18 13:11:46 +0000 2020",
+		"id": 1229224831243055000,
+		"id_str": "1229755387571605504",
+		"full_text": "혹독한 조언이 나를 살릴까? https://t.co/B1kcM0PN3v \n종종 혹독한 조언, 소위 뼈 때리는 조언을 해주기로 유명한 사람들이 있습니다. \"좋은 약은 입에 쓰다\"는 아포리즘으로 이 폭력성을 정당화하기도 합니다. 정말 이런 혹독함이 우리를 성장하게 할까요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B1kcM0PN3v",
+					"expanded_url": "http://j.mp/37x2rkk",
+					"display_url": "j.mp/37x2rkk",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2244,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혹독한 조언이 나를 살릴까? https://t.co/B1kcM0PN3v \n종종 혹독한 조언, 소위 뼈 때리는 조언을 해주기로 유명한 사람들이 있습니다. \"좋은 약은 입에 쓰다\"는 아포리즘으로 이 폭력성을 정당화하기도 합니다. 정말 이런 혹독함이 우리를 성장하게 할까요."
+	},
+	{
+		"created_at": "Tue Feb 18 13:06:34 +0000 2020",
+		"id": 1229723409979850800,
+		"id_str": "1229754076218265601",
+		"full_text": "TAEMIN CONCERT - Never Gonna Dance Again\n\n2020. 03. 13 FRI 8PM\n2020. 03. 14 SAT 6PM\n2020. 03. 15 SUN 4PM\n\nSK Olympic Handball Gymnasium\n\nTICKET OPEN @ YES24\nFanclub: 2020. 02. 20 THU 8:00~8:30PM\nRegular: 2020. 02. 21 FRI 8PM\n\n#TAEMIN #태민 #SHINee #샤이니 #Never_Gonna_Dance_Again https://t.co/HztDiGhVTs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						226,
+						233
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						234,
+						237
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						238,
+						245
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						246,
+						250
+					]
+				},
+				{
+					"text": "Never_Gonna_Dance_Again",
+					"indices": [
+						251,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229723399884116000,
+					"id_str": "1229723399884115969",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDa6rYUEAENMbV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDa6rYUEAENMbV.jpg",
+					"url": "https://t.co/HztDiGhVTs",
+					"display_url": "pic.twitter.com/HztDiGhVTs",
+					"expanded_url": "https://twitter.com/SHINee/status/1229723409979850752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 944,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229723399884116000,
+					"id_str": "1229723399884115969",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/ERDa6rYUEAENMbV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERDa6rYUEAENMbV.jpg",
+					"url": "https://t.co/HztDiGhVTs",
+					"display_url": "pic.twitter.com/HztDiGhVTs",
+					"expanded_url": "https://twitter.com/SHINee/status/1229723409979850752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 944,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/NAMin5AzxD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NAMin5AzxD",
+							"expanded_url": "https://www.youtube.com/watch?v=_E5JtAcc3cY",
+							"display_url": "youtube.com/watch?v=_E5JtA…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1127679,
+			"friends_count": 2,
+			"listed_count": 3369,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100938828838166533/iVBeVW3d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100938828838166533/iVBeVW3d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1551319259",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6232,
+		"favorite_count": 15449,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN CONCERT - Never Gonna Dance Again\n\n2020. 03. 13 FRI 8PM\n2020. 03. 14 SAT 6PM\n2020. 03. 15 SUN 4PM\n\nSK Olympic Handball Gymnasium\n\nTICKET OPEN @ YES24\nFanclub: 2020. 02. 20 THU 8:00~8:30PM\nRegular: 2020. 02. 21 FRI 8PM\n\n#TAEMIN #태민 #SHINee #샤이니 #Never_Gonna_Dance_Again https://t.co/HztDiGhVTs"
+	},
+	{
 		"created_at": "Tue Feb 18 12:59:56 +0000 2020",
 		"id": 1229720513435463700,
 		"id_str": "1229752407925514242",
