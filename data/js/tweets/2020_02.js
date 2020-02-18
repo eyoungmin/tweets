@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 09:40:51 +0000 2020",
+		"id": 1229696302419566600,
+		"id_str": "1229702306540724224",
+		"full_text": "You can listen to new EP on streaming services including Spotify and Apple Music.\n⠀\n그리고 타이틀곡 \"심야행\"의 뮤직비디오가 함께 공개되었습니다.\n⠀\nAnd the music video of title track \"Midnight Train\" was released as well.\n\nhttps://t.co/WzFQuDmvIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WzFQuDmvIq",
+					"expanded_url": "https://www.youtube.com/watch?v=MgyhJ-F-IpM",
+					"display_url": "youtube.com/watch?v=MgyhJ-…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1229696299684905000,
+		"in_reply_to_status_id_str": "1229696299684904960",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7810,
+			"friends_count": 365,
+			"listed_count": 51,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "You can listen to new EP on streaming services including Spotify and Apple Music.\n⠀\n그리고 타이틀곡 \"심야행\"의 뮤직비디오가 함께 공개되었습니다.\n⠀\nAnd the music video of title track \"Midnight Train\" was released as well.\n\nhttps://t.co/WzFQuDmvIq"
+	},
+	{
+		"created_at": "Tue Feb 18 09:40:42 +0000 2020",
+		"id": 1229696299684905000,
+		"id_str": "1229702268192251904",
+		"full_text": "[새소년 new EP \"비적응\" D-Day]\n새소년의 두 번째 EP \"비적응\"이 오늘(18일 화) 오후 6시 발매되었습니다. SE SO NEON's 2nd EP \"Nonadaptation\" has released today at 6pm KST.\n⠀\n#멜론 #지니 #Flo #Vibe #벅스 #AppleMusic #Spotify 등 주요 스트리밍 서비스에서 들으실 수 있습니다. https://t.co/GOtGGOEONe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "Flo",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "Vibe",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						162,
+						173
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229695712629125000,
+					"id_str": "1229695712629125121",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229695712629125121/pu/img/cZj4lJac3igwrJvu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229695712629125121/pu/img/cZj4lJac3igwrJvu.jpg",
+					"url": "https://t.co/GOtGGOEONe",
+					"display_url": "pic.twitter.com/GOtGGOEONe",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1229696299684904960/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229695712629125000,
+					"id_str": "1229695712629125121",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229695712629125121/pu/img/cZj4lJac3igwrJvu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229695712629125121/pu/img/cZj4lJac3igwrJvu.jpg",
+					"url": "https://t.co/GOtGGOEONe",
+					"display_url": "pic.twitter.com/GOtGGOEONe",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1229696299684904960/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 60102,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229695712629125121/pu/vid/960x720/JmIl8nanK8cJ9yLI.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229695712629125121/pu/vid/480x360/S7lSPe5PqgEvcPDU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229695712629125121/pu/pl/3DAYwiHwo3n9JvI5.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229695712629125121/pu/vid/360x270/Z9pblwA45nCd-M_M.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7810,
+			"friends_count": 365,
+			"listed_count": 51,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[새소년 new EP \"비적응\" D-Day]\n새소년의 두 번째 EP \"비적응\"이 오늘(18일 화) 오후 6시 발매되었습니다. SE SO NEON's 2nd EP \"Nonadaptation\" has released today at 6pm KST.\n⠀\n#멜론 #지니 #Flo #Vibe #벅스 #AppleMusic #Spotify 등 주요 스트리밍 서비스에서 들으실 수 있습니다. https://t.co/GOtGGOEONe"
+	},
+	{
 		"created_at": "Tue Feb 18 06:30:44 +0000 2020",
 		"id": 1229647180463345700,
 		"id_str": "1229654462043697155",
