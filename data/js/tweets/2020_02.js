@@ -1,6 +1,819 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 18:10:09 +0000 2020",
+		"id": 1229830477248258000,
+		"id_str": "1229830477248258048",
+		"full_text": "도메인 이전하려고 했는데 국내 도메인 사이트에서 답변을 너무 늦게 줘서 프로모션 기간이 끝나버림.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "도메인 이전하려고 했는데 국내 도메인 사이트에서 답변을 너무 늦게 줘서 프로모션 기간이 끝나버림."
+	},
+	{
+		"created_at": "Tue Feb 18 18:05:23 +0000 2020",
+		"id": 1229263916741447700,
+		"id_str": "1229829276117037057",
+		"full_text": "우리를 설레게 했던 CU편의점의 1+1, 2+1...!!\n\"납품업자의 눈물이었네\"(2014. 1.~2016. 10.)\n\n1+1 행사비용을 납품업자에게 절반 넘게 떠넘긴 CU!\n시정명령·과징금 16억 7,400만 원 부과\n\n#CU편의점 #행사비용 #편의점 #1+1 https://t.co/JCFP7U69p8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CU편의점",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "행사비용",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "편의점",
+					"indices": [
+						137,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229263908306731000,
+					"id_str": "1229263908306731009",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ85Av3UwAEEA8N.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQ85Av3UwAEEA8N.png",
+					"url": "https://t.co/JCFP7U69p8",
+					"display_url": "pic.twitter.com/JCFP7U69p8",
+					"expanded_url": "https://twitter.com/kftcnews/status/1229263916741447681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229263908306731000,
+					"id_str": "1229263908306731009",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ85Av3UwAEEA8N.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQ85Av3UwAEEA8N.png",
+					"url": "https://t.co/JCFP7U69p8",
+					"display_url": "pic.twitter.com/JCFP7U69p8",
+					"expanded_url": "https://twitter.com/kftcnews/status/1229263916741447681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1229263908306768000,
+					"id_str": "1229263908306767872",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ85Av3VUAAXZaZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQ85Av3VUAAXZaZ.png",
+					"url": "https://t.co/JCFP7U69p8",
+					"display_url": "pic.twitter.com/JCFP7U69p8",
+					"expanded_url": "https://twitter.com/kftcnews/status/1229263916741447681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1229263908310900700,
+					"id_str": "1229263908310900738",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ85Av4UYAIRPck.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQ85Av4UYAIRPck.png",
+					"url": "https://t.co/JCFP7U69p8",
+					"display_url": "pic.twitter.com/JCFP7U69p8",
+					"expanded_url": "https://twitter.com/kftcnews/status/1229263916741447681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1229263908310900700,
+					"id_str": "1229263908310900736",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ85Av4UYAAX65t.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQ85Av4UYAAX65t.png",
+					"url": "https://t.co/JCFP7U69p8",
+					"display_url": "pic.twitter.com/JCFP7U69p8",
+					"expanded_url": "https://twitter.com/kftcnews/status/1229263916741447681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60856026,
+			"id_str": "60856026",
+			"name": "공정거래위원회",
+			"screen_name": "kftcnews",
+			"location": "seoul korea",
+			"description": "안녕하세요~ 공정거래위원회입니다.\r\nHere is Korea Fair Trade Commission",
+			"url": "https://t.co/GNxx35QaGY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GNxx35QaGY",
+							"expanded_url": "https://twitter.com/kftcnews",
+							"display_url": "twitter.com/kftcnews",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51808,
+			"friends_count": 28976,
+			"listed_count": 756,
+			"created_at": "Tue Jul 28 09:03:47 +0000 2009",
+			"favourites_count": 204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057157930590527488/tsim42wa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057157930590527488/tsim42wa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60856026/1577841460",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2588,
+		"favorite_count": 375,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리를 설레게 했던 CU편의점의 1+1, 2+1...!!\n\"납품업자의 눈물이었네\"(2014. 1.~2016. 10.)\n\n1+1 행사비용을 납품업자에게 절반 넘게 떠넘긴 CU!\n시정명령·과징금 16억 7,400만 원 부과\n\n#CU편의점 #행사비용 #편의점 #1+1 https://t.co/JCFP7U69p8"
+	},
+	{
+		"created_at": "Tue Feb 18 18:05:04 +0000 2020",
+		"id": 1229827962511315000,
+		"id_str": "1229829195586404352",
+		"full_text": "Billie will perform #NoTimeToDie, the theme song for the upcoming @007 film, for the first time tonight on the #BRITs. Watch at 8pm GMT / 3pm ET / 12pm PT on ITV or STV in the UK or on YouTube everywhere else in the world. @BRITs https://t.co/gDkOFsZn4n https://t.co/QGPUyWdSEZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoTimeToDie",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"text": "BRITs",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "007",
+					"name": "James Bond",
+					"id": 389229444,
+					"id_str": "389229444",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"screen_name": "BRITs",
+					"name": "BRIT Awards",
+					"id": 88442109,
+					"id_str": "88442109",
+					"indices": [
+						223,
+						229
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gDkOFsZn4n",
+					"expanded_url": "http://smarturl.it/WatchTheBRITs2020",
+					"display_url": "smarturl.it/WatchTheBRITs2…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229815045099417600,
+					"id_str": "1229815045099417600",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EREuRIaU8AAkAmJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EREuRIaU8AAkAmJ.jpg",
+					"url": "https://t.co/QGPUyWdSEZ",
+					"display_url": "pic.twitter.com/QGPUyWdSEZ",
+					"expanded_url": "https://twitter.com/billieeilish/status/1229827962511314944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229815045099417600,
+					"id_str": "1229815045099417600",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EREuRIaU8AAkAmJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EREuRIaU8AAkAmJ.jpg",
+					"url": "https://t.co/QGPUyWdSEZ",
+					"display_url": "pic.twitter.com/QGPUyWdSEZ",
+					"expanded_url": "https://twitter.com/billieeilish/status/1229827962511314944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3744363,
+			"friends_count": 0,
+			"listed_count": 3000,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1223,
+		"favorite_count": 9336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie will perform #NoTimeToDie, the theme song for the upcoming @007 film, for the first time tonight on the #BRITs. Watch at 8pm GMT / 3pm ET / 12pm PT on ITV or STV in the UK or on YouTube everywhere else in the world. @BRITs https://t.co/gDkOFsZn4n https://t.co/QGPUyWdSEZ"
+	},
+	{
+		"created_at": "Tue Feb 18 18:03:50 +0000 2020",
+		"id": 1229805343976255500,
+		"id_str": "1229828888991154177",
+		"full_text": "🎪한국대중음악상 유튜브 GRAND OPEN🎪\n⠀\n제17회 한국대중음악상 시상식을 준비하는 자세, 그 첫 번째! (๑❛ڡ❛๑)☆\n⠀\n한대음 유튜브 채널 구독하기! 🤳💕\n⠀\n이번 시상식은 유튜브로 중계되는 거 알고 계시죠??\n〰️(❁´▽`❁)〰️\n구독과 관심 부탁드려요 👍\n\n✔️ https://t.co/GHWu57ubpU\n⠀ https://t.co/1mFk7C3YGI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GHWu57ubpU",
+					"expanded_url": "http://bitly.kr/EPQkaKlZ",
+					"display_url": "bitly.kr/EPQkaKlZ",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229805333977022500,
+					"id_str": "1229805333977022464",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/ERElb3qUwAA8-Hc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERElb3qUwAA8-Hc.jpg",
+					"url": "https://t.co/1mFk7C3YGI",
+					"display_url": "pic.twitter.com/1mFk7C3YGI",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1229805343976255489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229805333977022500,
+					"id_str": "1229805333977022464",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/ERElb3qUwAA8-Hc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERElb3qUwAA8-Hc.jpg",
+					"url": "https://t.co/1mFk7C3YGI",
+					"display_url": "pic.twitter.com/1mFk7C3YGI",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1229805343976255489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456487957,
+			"id_str": "456487957",
+			"name": "한국대중음악상",
+			"screen_name": "kmusicawards",
+			"location": "Everywhere",
+			"description": "2020 제17회 한국대중음악상 시상식",
+			"url": "https://t.co/WbaqJd68sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbaqJd68sV",
+							"expanded_url": "http://www.koreanmusicawards.com",
+							"display_url": "koreanmusicawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3393,
+			"friends_count": 276,
+			"listed_count": 71,
+			"created_at": "Fri Jan 06 09:22:11 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456487957/1578390540",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎪한국대중음악상 유튜브 GRAND OPEN🎪\n⠀\n제17회 한국대중음악상 시상식을 준비하는 자세, 그 첫 번째! (๑❛ڡ❛๑)☆\n⠀\n한대음 유튜브 채널 구독하기! 🤳💕\n⠀\n이번 시상식은 유튜브로 중계되는 거 알고 계시죠??\n〰️(❁´▽`❁)〰️\n구독과 관심 부탁드려요 👍\n\n✔️ https://t.co/GHWu57ubpU\n⠀ https://t.co/1mFk7C3YGI"
+	},
+	{
 		"created_at": "Tue Feb 18 15:10:45 +0000 2020",
 		"id": 1229785329248489500,
 		"id_str": "1229785329248489473",
