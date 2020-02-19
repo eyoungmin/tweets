@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 05:30:32 +0000 2020",
+		"id": 1230001182862495700,
+		"id_str": "1230001699328348163",
+		"full_text": "[#MCOUNTDOWN] Ep.653 Line up\n골든차일드/THE BOYZ/드림캐쳐/로켓펀치/문별/VERIVERY/시그니처/IZ*ONE/About U(어바우츄)/에버글로우/H&amp;D(한결, 도현)/여자친구/위키미키(Weki Meki)/이달의 소녀/이대휘(AB6IX)/이브/이이경/체리블렛(Cherry Bullet)/KARD/펜타곤 https://t.co/AeADBZhTfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230001150536994800,
+					"id_str": "1230001150536994816",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/ERHXh5MUUAAp31p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERHXh5MUUAAp31p.jpg",
+					"url": "https://t.co/AeADBZhTfp",
+					"display_url": "pic.twitter.com/AeADBZhTfp",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1230001182862495744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1097,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230001150536994800,
+					"id_str": "1230001150536994816",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/ERHXh5MUUAAp31p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERHXh5MUUAAp31p.jpg",
+					"url": "https://t.co/AeADBZhTfp",
+					"display_url": "pic.twitter.com/AeADBZhTfp",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1230001182862495744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1097,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3900617,
+			"friends_count": 2,
+			"listed_count": 5783,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1566284082",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1493,
+		"favorite_count": 1983,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MCOUNTDOWN] Ep.653 Line up\n골든차일드/THE BOYZ/드림캐쳐/로켓펀치/문별/VERIVERY/시그니처/IZ*ONE/About U(어바우츄)/에버글로우/H&amp;D(한결, 도현)/여자친구/위키미키(Weki Meki)/이달의 소녀/이대휘(AB6IX)/이브/이이경/체리블렛(Cherry Bullet)/KARD/펜타곤 https://t.co/AeADBZhTfp"
+	},
+	{
 		"created_at": "Wed Feb 19 04:40:37 +0000 2020",
 		"id": 1229986303229358000,
 		"id_str": "1229989140772642816",
