@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 21:32:58 +0000 2020",
+		"id": 1230237563064991700,
+		"id_str": "1230243906542899200",
+		"full_text": "Watch Billie’s performance of “No Time To Die” live from the 2020 #BRITs. https://t.co/eBnpofz74P @007 https://t.co/0u4ivCPnRM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BRITs",
+					"indices": [
+						66,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "007",
+					"name": "James Bond",
+					"id": 389229444,
+					"id_str": "389229444",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eBnpofz74P",
+					"expanded_url": "https://youtu.be/2I1ZU5g1QNo",
+					"display_url": "youtu.be/2I1ZU5g1QNo",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230236892760723500,
+					"id_str": "1230236892760723456",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/ERKuQtlVUAAZmwV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERKuQtlVUAAZmwV.jpg",
+					"url": "https://t.co/0u4ivCPnRM",
+					"display_url": "pic.twitter.com/0u4ivCPnRM",
+					"expanded_url": "https://twitter.com/billieeilish/status/1230237563064991744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1432,
+							"h": 1430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230236892760723500,
+					"id_str": "1230236892760723456",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/ERKuQtlVUAAZmwV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERKuQtlVUAAZmwV.jpg",
+					"url": "https://t.co/0u4ivCPnRM",
+					"display_url": "pic.twitter.com/0u4ivCPnRM",
+					"expanded_url": "https://twitter.com/billieeilish/status/1230237563064991744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1432,
+							"h": 1430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 26593,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230236892760723456/vid/720x720/lQzOM3l5eykKyGr0.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1230236892760723456/pl/tgEQudXyz2nF60k1.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230236892760723456/vid/480x480/6twq-IUDI0gRRJRS.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230236892760723456/vid/320x320/VQFFY23tAcTGcPr4.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3758277,
+			"friends_count": 0,
+			"listed_count": 3005,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3280,
+		"favorite_count": 17156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch Billie’s performance of “No Time To Die” live from the 2020 #BRITs. https://t.co/eBnpofz74P @007 https://t.co/0u4ivCPnRM"
+	},
+	{
 		"created_at": "Wed Feb 19 20:40:38 +0000 2020",
 		"id": 1230220177326801000,
 		"id_str": "1230230734486622209",
