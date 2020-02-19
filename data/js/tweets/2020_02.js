@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 03:40:45 +0000 2020",
+		"id": 1229965807985148000,
+		"id_str": "1229974071397449729",
+		"full_text": "백예린이 '제 14회 서울재즈페스티벌 2020(The 14th Seoul Jazz Festival 2020)'로 찾아갑니다. 양일 중 5월 24일(일)에 출연하니 모두 그날 만나요💐\n⠀\n▫️출연 일자 : 2020.05.24(일)\n▫️공연 장소 : 올림픽공원 일대\n▫️티켓 예매 : 인터파크, 위메프\n\n#백예린 #yerinbaek #서울재즈페스티벌 https://t.co/zGEw6avBGC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "서울재즈페스티벌",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229965799340662800,
+					"id_str": "1229965799340662784",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/ERG3YLuUYAAKBhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERG3YLuUYAAKBhG.jpg",
+					"url": "https://t.co/zGEw6avBGC",
+					"display_url": "pic.twitter.com/zGEw6avBGC",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1229965807985147904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229965799340662800,
+					"id_str": "1229965799340662784",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/ERG3YLuUYAAKBhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERG3YLuUYAAKBhG.jpg",
+					"url": "https://t.co/zGEw6avBGC",
+					"display_url": "pic.twitter.com/zGEw6avBGC",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1229965807985147904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5880,
+			"friends_count": 0,
+			"listed_count": 56,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백예린이 '제 14회 서울재즈페스티벌 2020(The 14th Seoul Jazz Festival 2020)'로 찾아갑니다. 양일 중 5월 24일(일)에 출연하니 모두 그날 만나요💐\n⠀\n▫️출연 일자 : 2020.05.24(일)\n▫️공연 장소 : 올림픽공원 일대\n▫️티켓 예매 : 인터파크, 위메프\n\n#백예린 #yerinbaek #서울재즈페스티벌 https://t.co/zGEw6avBGC"
+	},
+	{
+		"created_at": "Wed Feb 19 03:40:37 +0000 2020",
+		"id": 1229963810821116000,
+		"id_str": "1229974041420816384",
+		"full_text": "[이달의소녀탐구 #573]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/3gubNFY2TF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229962677784432600,
+					"id_str": "1229962677784432640",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229962677784432640/pu/img/ZyjaEZQ0FIJlQ-q5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229962677784432640/pu/img/ZyjaEZQ0FIJlQ-q5.jpg",
+					"url": "https://t.co/3gubNFY2TF",
+					"display_url": "pic.twitter.com/3gubNFY2TF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1229963810821115904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229962677784432600,
+					"id_str": "1229962677784432640",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229962677784432640/pu/img/ZyjaEZQ0FIJlQ-q5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229962677784432640/pu/img/ZyjaEZQ0FIJlQ-q5.jpg",
+					"url": "https://t.co/3gubNFY2TF",
+					"display_url": "pic.twitter.com/3gubNFY2TF",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1229963810821115904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59993,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229962677784432640/pu/vid/1280x720/XZmomzm8gJ4ynYhw.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229962677784432640/pu/vid/480x270/Bbajm_vKpDxN5PNH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229962677784432640/pu/vid/640x360/EwzplKVWDuDPdJLi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229962677784432640/pu/pl/S1FewcEFoMt5IXMO.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 421617,
+			"friends_count": 0,
+			"listed_count": 5874,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2404,
+		"favorite_count": 6547,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #573]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/3gubNFY2TF"
+	},
+	{
+		"created_at": "Wed Feb 19 03:33:23 +0000 2020",
+		"id": 1229972217678778400,
+		"id_str": "1229972217678778369",
+		"full_text": "이달의소녀탐구 #573 (LOONA TV #573)\nhttps://t.co/4HJMEld71x\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4HJMEld71x",
+					"expanded_url": "https://youtu.be/Gyxbm-vopXk",
+					"display_url": "youtu.be/Gyxbm-vopXk",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의소녀탐구 #573 (LOONA TV #573)\nhttps://t.co/4HJMEld71x\n#이달의소녀 #LOONA"
+	},
+	{
 		"created_at": "Wed Feb 19 03:00:49 +0000 2020",
 		"id": 1229964024797896700,
 		"id_str": "1229964024797896704",
@@ -1923,7 +2461,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
@@ -2097,7 +2635,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
@@ -2193,7 +2731,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
@@ -2298,7 +2836,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
