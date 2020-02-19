@@ -1,6 +1,720 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 13:30:41 +0000 2020",
+		"id": 1230113540821995500,
+		"id_str": "1230122535305535489",
+		"full_text": "#이달의소녀 #Loona #Heejin #Hyunjin #Haseul #Yeojin #Vivi #Kimlip #Jinsoul #Choerry #Yves #Chuu #Gowon #Oliviahye #SoWhat\n#희진 #현진 #하슬 #여진 #비비 #김립\n#진솔 #최리 #이브 #츄 #고원 #올리비아혜\n#KPOP #IDOL #FactiNStar @tbs 시민의 방송 https://t.co/C0Ah8zbTGz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Loona",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "Heejin",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "Hyunjin",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "Haseul",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "Yeojin",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"text": "Vivi",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "Kimlip",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "Jinsoul",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "Gowon",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "Oliviahye",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						153,
+						155
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "IDOL",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "FactiNStar",
+					"indices": [
+						179,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TBS",
+					"name": "TBS",
+					"id": 5764492,
+					"id_str": "5764492",
+					"indices": [
+						191,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C0Ah8zbTGz",
+					"expanded_url": "https://www.instagram.com/p/B8v8uyfhYyr/?igshid=i48rvxibb5te",
+					"display_url": "instagram.com/p/B8v8uyfhYyr/…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "TBS오픈스튜디오 서울 마포구 매봉산로 31 에스플렉스센터 1층 /유튜브 (금) 저녁 9시 선공개 / TBS TV (토) 낮 12시 본방송",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3349,
+			"friends_count": 2896,
+			"listed_count": 53,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110724701301596161/iWGyhDeZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110724701301596161/iWGyhDeZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1576025828",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.57550117,
+				126.89005136
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.89005136,
+				37.57550117
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #Loona #Heejin #Hyunjin #Haseul #Yeojin #Vivi #Kimlip #Jinsoul #Choerry #Yves #Chuu #Gowon #Oliviahye #SoWhat\n#희진 #현진 #하슬 #여진 #비비 #김립\n#진솔 #최리 #이브 #츄 #고원 #올리비아혜\n#KPOP #IDOL #FactiNStar @tbs 시민의 방송 https://t.co/C0Ah8zbTGz"
+	},
+	{
+		"created_at": "Wed Feb 19 13:30:32 +0000 2020",
+		"id": 1230110166198042600,
+		"id_str": "1230122496864768000",
+		"full_text": "https://t.co/VVvVBewRGp\n법인카드가 왜 막혔는지\n해도해도 도가 지나치네…'예쁨 한도 초과'\nSo What? ♥이달의 소녀가 미래다♥\n#이달의소녀 #LOONA #SoWhat https://t.co/Kx12R9IBHS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VVvVBewRGp",
+					"expanded_url": "https://youtu.be/UYUvREemG4o",
+					"display_url": "youtu.be/UYUvREemG4o",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230110150326751200,
+					"id_str": "1230110150326751233",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ERI6qhDUEAEf51X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERI6qhDUEAEf51X.jpg",
+					"url": "https://t.co/Kx12R9IBHS",
+					"display_url": "pic.twitter.com/Kx12R9IBHS",
+					"expanded_url": "https://twitter.com/factinstar/status/1230110166198042624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230110150326751200,
+					"id_str": "1230110150326751233",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ERI6qhDUEAEf51X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERI6qhDUEAEf51X.jpg",
+					"url": "https://t.co/Kx12R9IBHS",
+					"display_url": "pic.twitter.com/Kx12R9IBHS",
+					"expanded_url": "https://twitter.com/factinstar/status/1230110166198042624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "TBS오픈스튜디오 서울 마포구 매봉산로 31 에스플렉스센터 1층 /유튜브 (금) 저녁 9시 선공개 / TBS TV (토) 낮 12시 본방송",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3349,
+			"friends_count": 2896,
+			"listed_count": 53,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110724701301596161/iWGyhDeZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110724701301596161/iWGyhDeZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1576025828",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/VVvVBewRGp\n법인카드가 왜 막혔는지\n해도해도 도가 지나치네…'예쁨 한도 초과'\nSo What? ♥이달의 소녀가 미래다♥\n#이달의소녀 #LOONA #SoWhat https://t.co/Kx12R9IBHS"
+	},
+	{
+		"created_at": "Wed Feb 19 13:28:13 +0000 2020",
+		"id": 1230121913323851800,
+		"id_str": "1230121913323851777",
+		"full_text": "#EO\n극초기 스타트업을 위한 2,000만 원 마케팅비 + 역세권 사무실 지원 사업\nhttps://t.co/LdbcSaxFng\n#스타트업 #태용 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EO",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LdbcSaxFng",
+					"expanded_url": "https://youtu.be/ubA-dV_2H-k",
+					"display_url": "youtu.be/ubA-dV_2H-k",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EO\n극초기 스타트업을 위한 2,000만 원 마케팅비 + 역세권 사무실 지원 사업\nhttps://t.co/LdbcSaxFng\n#스타트업 #태용 #minfav"
+	},
+	{
 		"created_at": "Wed Feb 19 12:49:12 +0000 2020",
 		"id": 1230112094021988400,
 		"id_str": "1230112094021988352",
