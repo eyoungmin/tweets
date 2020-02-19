@@ -1,6 +1,2334 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 17:50:53 +0000 2020",
+		"id": 1230188014300586000,
+		"id_str": "1230188014300585984",
+		"full_text": "스레드 트윗이 누락된다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스레드 트윗이 누락된다."
+	},
+	{
+		"created_at": "Wed Feb 19 17:49:52 +0000 2020",
+		"id": 1229748280608751600,
+		"id_str": "1230187761518297088",
+		"full_text": "[LOONA]\n🎬 Closing greetings by LOONA\n⠀\n이제 마지막으로\n울 공주들하고 인사할 시간♥\n오늘 넘넘 고마웠어요 😍\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/CYD1BWVKS5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						94,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229748104590577700,
+					"id_str": "1229748104590577664",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229748104590577664/pu/img/6n5vseKuwUgSRA1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229748104590577664/pu/img/6n5vseKuwUgSRA1G.jpg",
+					"url": "https://t.co/CYD1BWVKS5",
+					"display_url": "pic.twitter.com/CYD1BWVKS5",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229748280608751617/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229748104590577700,
+					"id_str": "1229748104590577664",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229748104590577664/pu/img/6n5vseKuwUgSRA1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229748104590577664/pu/img/6n5vseKuwUgSRA1G.jpg",
+					"url": "https://t.co/CYD1BWVKS5",
+					"display_url": "pic.twitter.com/CYD1BWVKS5",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229748280608751617/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22422,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229748104590577664/pu/vid/480x270/PMrPCHwHaROdoUgy.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229748104590577664/pu/pl/k03ipgVq-7E9z_Np.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229748104590577664/pu/vid/640x360/WYcVqu5W-1YGWHiF.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229748104590577664/pu/vid/1280x720/yNIPC-StIgM-qU9J.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1229748067995271200,
+		"in_reply_to_status_id_str": "1229748067995271168",
+		"in_reply_to_user_id": 1321765501,
+		"in_reply_to_user_id_str": "1321765501",
+		"in_reply_to_screen_name": "arirang_ASC",
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 556,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONA]\n🎬 Closing greetings by LOONA\n⠀\n이제 마지막으로\n울 공주들하고 인사할 시간♥\n오늘 넘넘 고마웠어요 😍\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/CYD1BWVKS5"
+	},
+	{
+		"created_at": "Wed Feb 19 17:49:34 +0000 2020",
+		"id": 1229748067995271200,
+		"id_str": "1230187685739806720",
+		"full_text": "[LOONA]\n🎬 LOONAs 5959 song (rehearsal)\n⠀\n아 물론 11인 버전의 오구오구송도 있음 .ᐟ \n리허설에서 잠깐 해봤죠 ~♡\n울 이달소 다 너무 귀여워서\n에엣씨 오늘 잠 못 자 (o̴̶̷᷄﹏o̴̶̷̥᷅ )\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/BMAvBldLhu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						145,
+						159
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229747854706536400,
+					"id_str": "1229747854706536448",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229747854706536448/pu/img/kUjuofg6QFXd5_8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229747854706536448/pu/img/kUjuofg6QFXd5_8P.jpg",
+					"url": "https://t.co/BMAvBldLhu",
+					"display_url": "pic.twitter.com/BMAvBldLhu",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229748067995271168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229747854706536400,
+					"id_str": "1229747854706536448",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229747854706536448/pu/img/kUjuofg6QFXd5_8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229747854706536448/pu/img/kUjuofg6QFXd5_8P.jpg",
+					"url": "https://t.co/BMAvBldLhu",
+					"display_url": "pic.twitter.com/BMAvBldLhu",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229748067995271168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49049,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229747854706536448/pu/vid/1280x720/RyaS3m8pOAffZdg3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229747854706536448/pu/pl/s8j2-sJHtG1haFJe.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229747854706536448/pu/vid/480x270/_--abXxDvEpv_zUJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229747854706536448/pu/vid/640x360/X2tVRk-FnNkk6JaR.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 1237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONA]\n🎬 LOONAs 5959 song (rehearsal)\n⠀\n아 물론 11인 버전의 오구오구송도 있음 .ᐟ \n리허설에서 잠깐 해봤죠 ~♡\n울 이달소 다 너무 귀여워서\n에엣씨 오늘 잠 못 자 (o̴̶̷᷄﹏o̴̶̷̥᷅ )\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/BMAvBldLhu"
+	},
+	{
+		"created_at": "Wed Feb 19 17:49:12 +0000 2020",
+		"id": 1229747734413893600,
+		"id_str": "1230187590621396992",
+		"full_text": "[LOONA]\n🎬 LOONAs So What speed up dance\n⠀\n안 시켰으면 진짜 서운할 뻔!\n너무 잘해 울 공주들 ♥.♥\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/dzDZ1cKRb3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						84,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229747461008150500,
+					"id_str": "1229747461008150528",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229747461008150528/pu/img/cNjP3PbEQeCEoxQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229747461008150528/pu/img/cNjP3PbEQeCEoxQe.jpg",
+					"url": "https://t.co/dzDZ1cKRb3",
+					"display_url": "pic.twitter.com/dzDZ1cKRb3",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229747734413893632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229747461008150500,
+					"id_str": "1229747461008150528",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229747461008150528/pu/img/cNjP3PbEQeCEoxQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229747461008150528/pu/img/cNjP3PbEQeCEoxQe.jpg",
+					"url": "https://t.co/dzDZ1cKRb3",
+					"display_url": "pic.twitter.com/dzDZ1cKRb3",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229747734413893632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53420,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229747461008150528/pu/vid/640x360/QewxGai_kfUy4G0j.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229747461008150528/pu/vid/1280x720/bFwlD2K7Vzg5c5kS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229747461008150528/pu/pl/5TpGGuE8JO5MT_XF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229747461008150528/pu/vid/480x270/dwGcWMXL55t4pD6J.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1229747380737560600,
+		"in_reply_to_status_id_str": "1229747380737560576",
+		"in_reply_to_user_id": 1321765501,
+		"in_reply_to_user_id_str": "1321765501",
+		"in_reply_to_screen_name": "arirang_ASC",
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 408,
+		"favorite_count": 937,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONA]\n🎬 LOONAs So What speed up dance\n⠀\n안 시켰으면 진짜 서운할 뻔!\n너무 잘해 울 공주들 ♥.♥\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/dzDZ1cKRb3"
+	},
+	{
+		"created_at": "Wed Feb 19 17:48:56 +0000 2020",
+		"id": 1229747380737560600,
+		"id_str": "1230187524984733696",
+		"full_text": "[LOONA]\n🎬  HyunJin &amp; Chuus 5959 song\n⠀\n울 이달소 기염댕들의 오구오구송 💗\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/bOybuu2bCe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						79,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229746977161629700,
+					"id_str": "1229746977161629696",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229746977161629696/pu/img/vR7W-ATKP4Ce5FQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229746977161629696/pu/img/vR7W-ATKP4Ce5FQz.jpg",
+					"url": "https://t.co/bOybuu2bCe",
+					"display_url": "pic.twitter.com/bOybuu2bCe",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229747380737560576/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229746977161629700,
+					"id_str": "1229746977161629696",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229746977161629696/pu/img/vR7W-ATKP4Ce5FQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229746977161629696/pu/img/vR7W-ATKP4Ce5FQz.jpg",
+					"url": "https://t.co/bOybuu2bCe",
+					"display_url": "pic.twitter.com/bOybuu2bCe",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229747380737560576/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54488,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229746977161629696/pu/vid/480x270/L5W6LNA3kPIhFyKk.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229746977161629696/pu/vid/640x360/-Ory9gIPRkYq9auO.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229746977161629696/pu/pl/gCXxmqrPJUacCZHF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229746977161629696/pu/vid/1280x720/FGBu2ckGTDv5KBWd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1229746894420627500,
+		"in_reply_to_status_id_str": "1229746894420627456",
+		"in_reply_to_user_id": 1321765501,
+		"in_reply_to_user_id_str": "1321765501",
+		"in_reply_to_screen_name": "arirang_ASC",
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 317,
+		"favorite_count": 795,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONA]\n🎬  HyunJin &amp; Chuus 5959 song\n⠀\n울 이달소 기염댕들의 오구오구송 💗\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/bOybuu2bCe"
+	},
+	{
+		"created_at": "Wed Feb 19 17:48:53 +0000 2020",
+		"id": 1229746894420627500,
+		"id_str": "1230187514373107717",
+		"full_text": "[LOONA]\n🎬 Greetings from LOONA (clean ver.)\n⠀\n이달의 소녀와 함께한 에엣씨의 시작♡\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/C01xTU2i2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229746476827336700,
+					"id_str": "1229746476827336706",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229746476827336706/pu/img/SoSl83IyMD1kfVeT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229746476827336706/pu/img/SoSl83IyMD1kfVeT.jpg",
+					"url": "https://t.co/C01xTU2i2P",
+					"display_url": "pic.twitter.com/C01xTU2i2P",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229746894420627456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229746476827336700,
+					"id_str": "1229746476827336706",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229746476827336706/pu/img/SoSl83IyMD1kfVeT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229746476827336706/pu/img/SoSl83IyMD1kfVeT.jpg",
+					"url": "https://t.co/C01xTU2i2P",
+					"display_url": "pic.twitter.com/C01xTU2i2P",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229746894420627456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54388,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229746476827336706/pu/vid/1280x720/qgyRUIrfuct4AEqD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229746476827336706/pu/pl/SL0YH7JoSv996er2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229746476827336706/pu/vid/640x360/1GG1aXd9VzuGNjN2.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229746476827336706/pu/vid/480x270/SYmjg7VfVItLXUJQ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 783,
+		"favorite_count": 2278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONA]\n🎬 Greetings from LOONA (clean ver.)\n⠀\n이달의 소녀와 함께한 에엣씨의 시작♡\n⠀\n#이달의소녀 #LOONA @loonatheworld https://t.co/C01xTU2i2P"
+	},
+	{
+		"created_at": "Wed Feb 19 17:48:08 +0000 2020",
+		"id": 1229965508876750800,
+		"id_str": "1230187322076876800",
+		"full_text": "Who wants to rewatch #LOONA_ASC ?\nhttps://t.co/SzOXI7m6V2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_ASC",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SzOXI7m6V2",
+					"expanded_url": "https://youtu.be/aHBCMmJynOg",
+					"display_url": "youtu.be/aHBCMmJynOg",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 228,
+		"favorite_count": 594,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who wants to rewatch #LOONA_ASC ?\nhttps://t.co/SzOXI7m6V2"
+	},
+	{
+		"created_at": "Wed Feb 19 17:47:43 +0000 2020",
+		"id": 1229936620041715700,
+		"id_str": "1230187219182182400",
+		"full_text": "Ep.408 @loonatheworld 👉 LOONA's Story 🧩 Pt.3\n\n#LOONA #LOONA_ASC #arirang_ASC https://t.co/JkYTPmpxn7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "LOONA_ASC",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"text": "arirang_ASC",
+					"indices": [
+						64,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229932375800307700,
+					"id_str": "1229932375800307712",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1229932375800307712/img/Z4PsamnpK4zvGSQU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1229932375800307712/img/Z4PsamnpK4zvGSQU.jpg",
+					"url": "https://t.co/JkYTPmpxn7",
+					"display_url": "pic.twitter.com/JkYTPmpxn7",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229936620041715712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229932375800307700,
+					"id_str": "1229932375800307712",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1229932375800307712/img/Z4PsamnpK4zvGSQU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1229932375800307712/img/Z4PsamnpK4zvGSQU.jpg",
+					"url": "https://t.co/JkYTPmpxn7",
+					"display_url": "pic.twitter.com/JkYTPmpxn7",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229936620041715712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 263130,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229932375800307712/vid/1280x720/I1f1q3NENPCVTama.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229932375800307712/vid/480x270/bvPPxw4coWpaQR9X.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229932375800307712/vid/640x360/15XQUYcvb_1OaNql.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1229932375800307712/pl/68O9hwFK4CyFkRkr.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Ep.408 @loonatheworld 👉 LOONA's Story 🧩 Pt.3\n\n#LOONA #LOONA_ASC #arirang_ASC https://t.co/JkYTPmpxn7"
+	},
+	{
+		"created_at": "Wed Feb 19 17:46:46 +0000 2020",
+		"id": 1229936528962359300,
+		"id_str": "1230186981977538560",
+		"full_text": "Ep.408 @loonatheworld 👉 Album Story 💿 Pt.2\n\n#LOONA #LOONA_ASC #arirang_ASC https://t.co/rdOCKsSb85",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "LOONA_ASC",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "arirang_ASC",
+					"indices": [
+						62,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229926912996171800,
+					"id_str": "1229926912996171777",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1229926912996171777/img/66nc33rdzPGStIXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1229926912996171777/img/66nc33rdzPGStIXh.jpg",
+					"url": "https://t.co/rdOCKsSb85",
+					"display_url": "pic.twitter.com/rdOCKsSb85",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229936528962359296/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229926912996171800,
+					"id_str": "1229926912996171777",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1229926912996171777/img/66nc33rdzPGStIXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1229926912996171777/img/66nc33rdzPGStIXh.jpg",
+					"url": "https://t.co/rdOCKsSb85",
+					"display_url": "pic.twitter.com/rdOCKsSb85",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229936528962359296/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 594794,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229926912996171777/vid/1280x720/TVdX6u9KpblCv5qy.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229926912996171777/vid/480x270/RdVeK2xE8Rs3CFlW.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229926912996171777/vid/640x360/CGa6TMucj3nruher.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1229926912996171777/pl/QqpDkPq_PEbvcCZx.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ep.408 @loonatheworld 👉 Album Story 💿 Pt.2\n\n#LOONA #LOONA_ASC #arirang_ASC https://t.co/rdOCKsSb85"
+	},
+	{
+		"created_at": "Wed Feb 19 17:46:38 +0000 2020",
+		"id": 1229936501913292800,
+		"id_str": "1230186947198369792",
+		"full_text": "Ep.408 @loonatheworld 👉 Album Story 💿 Pt.1\n\n#LOONA #LOONA_ASC #arirang_ASC https://t.co/sbaVlMiRxy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "LOONA_ASC",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "arirang_ASC",
+					"indices": [
+						62,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229925753657016300,
+					"id_str": "1229925753657016320",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1229925753657016320/img/kteWI6JwHzPSZjHB.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1229925753657016320/img/kteWI6JwHzPSZjHB.jpg",
+					"url": "https://t.co/sbaVlMiRxy",
+					"display_url": "pic.twitter.com/sbaVlMiRxy",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229936501913292800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229925753657016300,
+					"id_str": "1229925753657016320",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1229925753657016320/img/kteWI6JwHzPSZjHB.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1229925753657016320/img/kteWI6JwHzPSZjHB.jpg",
+					"url": "https://t.co/sbaVlMiRxy",
+					"display_url": "pic.twitter.com/sbaVlMiRxy",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229936501913292800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 585885,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229925753657016320/vid/480x270/K_2Uj2GzvEGh73oN.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229925753657016320/vid/640x360/D5nlekzujwprP2vf.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229925753657016320/vid/1280x720/uz30cEeCvx7AHeZ1.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1229925753657016320/pl/ao1AwmGSsra1zYSf.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ep.408 @loonatheworld 👉 Album Story 💿 Pt.1\n\n#LOONA #LOONA_ASC #arirang_ASC https://t.co/sbaVlMiRxy"
+	},
+	{
+		"created_at": "Wed Feb 19 17:46:24 +0000 2020",
+		"id": 1229936455474004000,
+		"id_str": "1230186886800371712",
+		"full_text": "Ep.408 @loonatheworld 👉 Grand Opening 🎊\n\n#LOONA #LOONA_ASC #arirang_ASC https://t.co/NGew0fB3Oe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "LOONA_ASC",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "arirang_ASC",
+					"indices": [
+						59,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229924763486675000,
+					"id_str": "1229924763486674944",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1229924763486674944/img/VD7HeXDBFdjeEMvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1229924763486674944/img/VD7HeXDBFdjeEMvR.jpg",
+					"url": "https://t.co/NGew0fB3Oe",
+					"display_url": "pic.twitter.com/NGew0fB3Oe",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229936455474003968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229924763486675000,
+					"id_str": "1229924763486674944",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1229924763486674944/img/VD7HeXDBFdjeEMvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1229924763486674944/img/VD7HeXDBFdjeEMvR.jpg",
+					"url": "https://t.co/NGew0fB3Oe",
+					"display_url": "pic.twitter.com/NGew0fB3Oe",
+					"expanded_url": "https://twitter.com/arirang_ASC/status/1229936455474003968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 378612,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229924763486674944/vid/640x360/e6lFzwoiZonS7Uc4.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229924763486674944/vid/1280x720/7n-NtOhBAqvn5VGS.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229924763486674944/vid/480x270/y0BnOTN_tj8dBcny.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1229924763486674944/pl/U3xVM8kM3zI88Rry.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/VHIStmz02h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VHIStmz02h",
+							"expanded_url": "https://www.facebook.com/afterschoolclub.arirangtv/",
+							"display_url": "facebook.com/afterschoolclu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698400,
+			"friends_count": 239,
+			"listed_count": 1309,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1578299394",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Ep.408 @loonatheworld 👉 Grand Opening 🎊\n\n#LOONA #LOONA_ASC #arirang_ASC https://t.co/NGew0fB3Oe"
+	},
+	{
 		"created_at": "Wed Feb 19 16:44:13 +0000 2020",
 		"id": 1230171239903309800,
 		"id_str": "1230171239903309825",
