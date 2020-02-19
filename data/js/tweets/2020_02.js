@@ -1,6 +1,1851 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 11:56:26 +0000 2020",
+		"id": 1230098816952459300,
+		"id_str": "1230098816952459269",
+		"full_text": "댓글필터 손봐야하는데 언제 하지...\nhttps://t.co/6sXMIrLDbb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6sXMIrLDbb",
+					"expanded_url": "https://github.com/KMCF/KMCF",
+					"display_url": "github.com/KMCF/KMCF",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 902,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "댓글필터 손봐야하는데 언제 하지...\nhttps://t.co/6sXMIrLDbb"
+	},
+	{
+		"created_at": "Wed Feb 19 11:54:19 +0000 2020",
+		"id": 1230027351972569000,
+		"id_str": "1230098283466350594",
+		"full_text": "[INSTAGRAM STORY] sooyoungchoi: 멋진 파도처럼 살다가 \n방파제가 되어준 아이 https://t.co/o1KIT4m9S1 https://t.co/FxErOh5RTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o1KIT4m9S1",
+					"expanded_url": "https://scontent-ort2-2.cdninstagram.com/v/t51.12442-15/e35/84867682_899320567173191_2351500203700587293_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=111&_nc_ohc=302mqWCC5PYAX9xjrm1&se=7&oh=febed34016b9330e2da8c00c066b5467&oe=5E4F9541&ig_cache_key=MjI0NzEwOTQyNDE0NDM3MzU3MQ%3D%3D.2",
+					"display_url": "scontent-ort2-2.cdninstagram.com/v/t51.12442-15…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230027350244544500,
+					"id_str": "1230027350244544512",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/ERHvW6tXUAAo_Uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERHvW6tXUAAo_Uw.jpg",
+					"url": "https://t.co/FxErOh5RTo",
+					"display_url": "pic.twitter.com/FxErOh5RTo",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1230027351972569089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230027350244544500,
+					"id_str": "1230027350244544512",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/ERHvW6tXUAAo_Uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERHvW6tXUAAo_Uw.jpg",
+					"url": "https://t.co/FxErOh5RTo",
+					"display_url": "pic.twitter.com/FxErOh5RTo",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1230027351972569089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://soo.soshistagram.com\" rel=\"nofollow\">Syoungstagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2345049169,
+			"id_str": "2345049169",
+			"name": "Syoungstagram",
+			"screen_name": "syoungstagram",
+			"location": "Sooyoung's phone",
+			"description": "Tweets Sooyoung's updates & comments on Instagram & Weibo. Acct unmonitored. Also @yulstagrm @yoongstagrm @seostagrm @miyoungstagram @sicafeed @taengstagramcom",
+			"url": "https://t.co/WNNnY2W84j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNNnY2W84j",
+							"expanded_url": "https://syoungstagram.tumblr.com/",
+							"display_url": "syoungstagram.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38493,
+			"friends_count": 0,
+			"listed_count": 794,
+			"created_at": "Sat Feb 15 12:17:41 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 678,
+		"favorite_count": 336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM STORY] sooyoungchoi: 멋진 파도처럼 살다가 \n방파제가 되어준 아이 https://t.co/o1KIT4m9S1 https://t.co/FxErOh5RTo"
+	},
+	{
+		"created_at": "Wed Feb 19 11:43:53 +0000 2020",
+		"id": 1230095387492601900,
+		"id_str": "1230095656087240704",
+		"full_text": "Fenix is particularly optimized for the iPad, where you can organize all your \"Very Important Twitter Content™\" over multiple columns.\n\nhttps://t.co/IL6V7sOnFZ https://t.co/vWMkPIIw9y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IL6V7sOnFZ",
+					"expanded_url": "https://apps.apple.com/us/app/fenix-for-twitter/id1437821840",
+					"display_url": "apps.apple.com/us/app/fenix-f…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230095253811712000,
+					"id_str": "1230095253811712000",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230095253811712000/pu/img/M_0SLoJT_ZV-IJzS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230095253811712000/pu/img/M_0SLoJT_ZV-IJzS.jpg",
+					"url": "https://t.co/vWMkPIIw9y",
+					"display_url": "pic.twitter.com/vWMkPIIw9y",
+					"expanded_url": "https://twitter.com/fenix_app/status/1230095387492601856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230095253811712000,
+					"id_str": "1230095253811712000",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230095253811712000/pu/img/M_0SLoJT_ZV-IJzS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230095253811712000/pu/img/M_0SLoJT_ZV-IJzS.jpg",
+					"url": "https://t.co/vWMkPIIw9y",
+					"display_url": "pic.twitter.com/vWMkPIIw9y",
+					"expanded_url": "https://twitter.com/fenix_app/status/1230095387492601856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 26020,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230095253811712000/pu/vid/480x360/zIQ1Kuq3mQ37msem.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230095253811712000/pu/pl/jaf5Fz4mDI_YLYqd.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230095253811712000/pu/vid/360x270/yUOK-tkbtZB2TSHO.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230095253811712000/pu/vid/960x720/oV8NqBCPMEKaormd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1230092659357819000,
+		"in_reply_to_status_id_str": "1230092659357818880",
+		"in_reply_to_user_id": 2326966093,
+		"in_reply_to_user_id_str": "2326966093",
+		"in_reply_to_screen_name": "fenix_app",
+		"user": {
+			"id": 2326966093,
+			"id_str": "2326966093",
+			"name": "Fenix",
+			"screen_name": "fenix_app",
+			"location": "",
+			"description": "I'm a new Twitter client for Android, iPhone and iPad. \nBrought to you by @mttvll",
+			"url": "http://t.co/TYfFPtNPIn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TYfFPtNPIn",
+							"expanded_url": "http://mvilla.it/fenix",
+							"display_url": "mvilla.it/fenix",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26075,
+			"friends_count": 7,
+			"listed_count": 312,
+			"created_at": "Tue Feb 04 11:31:28 +0000 2014",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2326966093/1391514163",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fenix is particularly optimized for the iPad, where you can organize all your \"Very Important Twitter Content™\" over multiple columns.\n\nhttps://t.co/IL6V7sOnFZ https://t.co/vWMkPIIw9y"
+	},
+	{
+		"created_at": "Wed Feb 19 11:43:49 +0000 2020",
+		"id": 1230092659357819000,
+		"id_str": "1230095641595891713",
+		"full_text": "📣📣 Fenix is on sale for a few days!\n\nIf you are looking for an ad-free and customizable Twitter experience, give it a try.\n\niOS: https://t.co/IL6V7sOnFZ\n\nAndroid: https://t.co/Fpw21FQiUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IL6V7sOnFZ",
+					"expanded_url": "https://apps.apple.com/us/app/fenix-for-twitter/id1437821840",
+					"display_url": "apps.apple.com/us/app/fenix-f…",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/Fpw21FQiUU",
+					"expanded_url": "https://play.google.com/store/apps/details?id=it.mvilla.android.fenix2",
+					"display_url": "play.google.com/store/apps/det…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2326966093,
+			"id_str": "2326966093",
+			"name": "Fenix",
+			"screen_name": "fenix_app",
+			"location": "",
+			"description": "I'm a new Twitter client for Android, iPhone and iPad. \nBrought to you by @mttvll",
+			"url": "http://t.co/TYfFPtNPIn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TYfFPtNPIn",
+							"expanded_url": "http://mvilla.it/fenix",
+							"display_url": "mvilla.it/fenix",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26075,
+			"friends_count": 7,
+			"listed_count": 312,
+			"created_at": "Tue Feb 04 11:31:28 +0000 2014",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058063116209188864/yH33oTHu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2326966093/1391514163",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📣📣 Fenix is on sale for a few days!\n\nIf you are looking for an ad-free and customizable Twitter experience, give it a try.\n\niOS: https://t.co/IL6V7sOnFZ\n\nAndroid: https://t.co/Fpw21FQiUU"
+	},
+	{
+		"created_at": "Wed Feb 19 11:40:38 +0000 2020",
+		"id": 1230090976862949400,
+		"id_str": "1230094838563049472",
+		"full_text": "[새소년 new EP \"비적응\" live clip #1]\n\"심야행 (Midnight Train)\"\nfrom 단독 콘서트 \"2020/NEON\" (19.12.07 YES24 Live Hall)\n\n'심야행'은 2020년 2월 18일 발매된 새소년의 두번째 EP [비적응]의 타이틀곡입니다.\n\nhttps://t.co/8ca9tn4MGJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8ca9tn4MGJ",
+					"expanded_url": "https://www.youtube.com/watch?v=snniI5HTp_k",
+					"display_url": "youtube.com/watch?v=snniI5…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 365,
+			"listed_count": 51,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180047208172769282/S62_6lQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[새소년 new EP \"비적응\" live clip #1]\n\"심야행 (Midnight Train)\"\nfrom 단독 콘서트 \"2020/NEON\" (19.12.07 YES24 Live Hall)\n\n'심야행'은 2020년 2월 18일 발매된 새소년의 두번째 EP [비적응]의 타이틀곡입니다.\n\nhttps://t.co/8ca9tn4MGJ"
+	},
+	{
+		"created_at": "Wed Feb 19 11:23:42 +0000 2020",
+		"id": 1230056377076330500,
+		"id_str": "1230090579809202176",
+		"full_text": "#SMTOWN\nIMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV\nhttps://t.co/nQxHUmAZo3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nQxHUmAZo3",
+					"expanded_url": "https://youtu.be/r2dAhHvbhI4",
+					"display_url": "youtu.be/r2dAhHvbhI4",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "#SMTOWN\nIMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV\nhttps://t.co/nQxHUmAZo3"
+	},
+	{
+		"created_at": "Wed Feb 19 11:22:43 +0000 2020",
+		"id": 1230057234974953500,
+		"id_str": "1230090328960466946",
+		"full_text": "안녕하세요 임레이입니다! 저의 3번째 EP ‘DYSTOPIA’ 가 발매되었습니다! 이번 앨범의 타이틀 곡인 ‘Asteroid (Feat.양양 of WayV) 도 많이 사랑해주세요! 항상 감사드립니다!\n\n01 DYSTOPIA\n02 Asteroid (Feat. 양양 of WayV)🔥\n03 Theory\n04 Without U (Feat. Danyka Nadeau)\n05 It's Ok https://t.co/sUmHmA2MR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sUmHmA2MR3",
+					"expanded_url": "https://twitter.com/smtownglobal/status/1230055550013952000",
+					"display_url": "twitter.com/smtownglobal/s…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2773953697,
+			"id_str": "2773953697",
+			"name": "IMLAY",
+			"screen_name": "leimlay",
+			"location": "Seoul",
+			"description": "@SMTOWNGLOBAL @ScreaM_Records IMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV is OUT NOW✨",
+			"url": "https://t.co/ekAJ9HAdLI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ekAJ9HAdLI",
+							"expanded_url": "https://youtu.be/r2dAhHvbhI4",
+							"display_url": "youtu.be/r2dAhHvbhI4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1071,
+			"friends_count": 172,
+			"listed_count": 17,
+			"created_at": "Wed Aug 27 17:19:34 +0000 2014",
+			"favourites_count": 2342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226771768523644929/Gh0k8BTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226771768523644929/Gh0k8BTG_normal.jpg",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230055550013952000,
+		"quoted_status_id_str": "1230055550013952000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sUmHmA2MR3",
+			"expanded": "https://twitter.com/smtownglobal/status/1230055550013952000",
+			"display": "twitter.com/smtownglobal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 19 09:04:31 +0000 2020",
+			"id": 1230055550013952000,
+			"id_str": "1230055550013952000",
+			"full_text": "IMLAY 임레이 ['DYSTOPIA']\n\n🎧Melon: https://t.co/zUNb5P6ViD\n🎧FLO: https://t.co/dw2S2PJp0V\n🎧genie: https://t.co/YpGwMBhPzB\n🎧NAVER MUSIC: https://t.co/Qprmy9Menl\n\n#IMLAY #임레이 @leimlay #Asteroid #아스테로이드 #DYSTOPIA #디스토피아",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IMLAY",
+						"indices": [
+							157,
+							163
+						]
+					},
+					{
+						"text": "임레이",
+						"indices": [
+							164,
+							168
+						]
+					},
+					{
+						"text": "Asteroid",
+						"indices": [
+							178,
+							187
+						]
+					},
+					{
+						"text": "아스테로이드",
+						"indices": [
+							188,
+							195
+						]
+					},
+					{
+						"text": "DYSTOPIA",
+						"indices": [
+							196,
+							205
+						]
+					},
+					{
+						"text": "디스토피아",
+						"indices": [
+							206,
+							212
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "leimlay",
+						"name": "IMLAY",
+						"id": 2773953697,
+						"id_str": "2773953697",
+						"indices": [
+							169,
+							177
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zUNb5P6ViD",
+						"expanded_url": "http://kko.to/kmpj0lJ0T",
+						"display_url": "kko.to/kmpj0lJ0T",
+						"indices": [
+							32,
+							55
+						]
+					},
+					{
+						"url": "https://t.co/dw2S2PJp0V",
+						"expanded_url": "http://flomuz.io/s/a.BwI36",
+						"display_url": "flomuz.io/s/a.BwI36",
+						"indices": [
+							62,
+							85
+						]
+					},
+					{
+						"url": "https://t.co/YpGwMBhPzB",
+						"expanded_url": "http://www.genie.co.kr/3PM4R3",
+						"display_url": "genie.co.kr/3PM4R3",
+						"indices": [
+							94,
+							117
+						]
+					},
+					{
+						"url": "https://t.co/Qprmy9Menl",
+						"expanded_url": "https://music.naver.com/album/index.nhn?albumId=4451496",
+						"display_url": "music.naver.com/album/index.nh…",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 884378714,
+				"id_str": "884378714",
+				"name": "SMTOWN",
+				"screen_name": "SMTOWNGLOBAL",
+				"location": "",
+				"description": "SM Entertainment Group Official Twitter Page",
+				"url": "https://t.co/vbjfZGuM9Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vbjfZGuM9Y",
+								"expanded_url": "http://www.smtown.com",
+								"display_url": "smtown.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8124317,
+				"friends_count": 49,
+				"listed_count": 10050,
+				"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+				"favourites_count": 568,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7107,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F08BA0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2274,
+			"favorite_count": 3771,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "de"
+		},
+		"retweet_count": 27,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 임레이입니다! 저의 3번째 EP ‘DYSTOPIA’ 가 발매되었습니다! 이번 앨범의 타이틀 곡인 ‘Asteroid (Feat.양양 of WayV) 도 많이 사랑해주세요! 항상 감사드립니다!\n\n01 DYSTOPIA\n02 Asteroid (Feat. 양양 of WayV)🔥\n03 Theory\n04 Without U (Feat. Danyka Nadeau)\n05 It's Ok https://t.co/sUmHmA2MR3"
+	},
+	{
+		"created_at": "Wed Feb 19 11:22:37 +0000 2020",
+		"id": 1230055550013952000,
+		"id_str": "1230090306604765185",
+		"full_text": "IMLAY 임레이 ['DYSTOPIA']\n\n🎧Melon: https://t.co/zUNb5P6ViD\n🎧FLO: https://t.co/dw2S2PJp0V\n🎧genie: https://t.co/YpGwMBhPzB\n🎧NAVER MUSIC: https://t.co/Qprmy9Menl\n\n#IMLAY #임레이 @leimlay #Asteroid #아스테로이드 #DYSTOPIA #디스토피아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IMLAY",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "Asteroid",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"text": "아스테로이드",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "DYSTOPIA",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "디스토피아",
+					"indices": [
+						206,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leimlay",
+					"name": "IMLAY",
+					"id": 2773953697,
+					"id_str": "2773953697",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zUNb5P6ViD",
+					"expanded_url": "http://kko.to/kmpj0lJ0T",
+					"display_url": "kko.to/kmpj0lJ0T",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/dw2S2PJp0V",
+					"expanded_url": "http://flomuz.io/s/a.BwI36",
+					"display_url": "flomuz.io/s/a.BwI36",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/YpGwMBhPzB",
+					"expanded_url": "http://www.genie.co.kr/3PM4R3",
+					"display_url": "genie.co.kr/3PM4R3",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/Qprmy9Menl",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=4451496",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8124317,
+			"friends_count": 49,
+			"listed_count": 10050,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2274,
+		"favorite_count": 3771,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "de",
+		"text": "IMLAY 임레이 ['DYSTOPIA']\n\n🎧Melon: https://t.co/zUNb5P6ViD\n🎧FLO: https://t.co/dw2S2PJp0V\n🎧genie: https://t.co/YpGwMBhPzB\n🎧NAVER MUSIC: https://t.co/Qprmy9Menl\n\n#IMLAY #임레이 @leimlay #Asteroid #아스테로이드 #DYSTOPIA #디스토피아"
+	},
+	{
+		"created_at": "Wed Feb 19 11:21:18 +0000 2020",
+		"id": 1230059589288128500,
+		"id_str": "1230089976198512640",
+		"full_text": "IMLAY 임레이 ['DYSTOPIA']\n\nListen now on your favorite platform\n🎧https://t.co/WSvKOAw0tG\n\n#IMLAY #임레이 @leimlay #Asteroid #아스테로이드 #DYSTOPIA #디스토피아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IMLAY",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "Asteroid",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "아스테로이드",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "DYSTOPIA",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "디스토피아",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leimlay",
+					"name": "IMLAY",
+					"id": 2773953697,
+					"id_str": "2773953697",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WSvKOAw0tG",
+					"expanded_url": "https://smarturl.it/IMLAY_DYSTOPIA",
+					"display_url": "smarturl.it/IMLAY_DYSTOPIA",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8124317,
+			"friends_count": 49,
+			"listed_count": 10050,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1926,
+		"favorite_count": 3504,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "IMLAY 임레이 ['DYSTOPIA']\n\nListen now on your favorite platform\n🎧https://t.co/WSvKOAw0tG\n\n#IMLAY #임레이 @leimlay #Asteroid #아스테로이드 #DYSTOPIA #디스토피아"
+	},
+	{
+		"created_at": "Wed Feb 19 11:20:50 +0000 2020",
+		"id": 1230062320769880000,
+		"id_str": "1230089856883118081",
+		"full_text": "타다는 어떻게 ‘무죄’가 됐나 https://t.co/w3boO8kNbL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w3boO8kNbL",
+					"expanded_url": "http://www.bloter.net/archives/371740",
+					"display_url": "bloter.net/archives/371740",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56265,
+			"friends_count": 9,
+			"listed_count": 2516,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "타다는 어떻게 ‘무죄’가 됐나 https://t.co/w3boO8kNbL"
+	},
+	{
+		"created_at": "Wed Feb 19 11:18:18 +0000 2020",
+		"id": 1230085754795126800,
+		"id_str": "1230089219189526531",
+		"full_text": "GUEST | #이달의소녀 @loonatheworld \n\n🎥 이달소한테 깝치지 마세요;;\nㄴ 영상 보기: https://t.co/vyRue48dY2\n\n#LOONA #KPOP #Cover #So_What #낰낰낰 #낰낰펀치 https://t.co/jKxFMHcp5B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "Cover",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "So_What",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "낰낰낰",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "낰낰펀치",
+					"indices": [
+						118,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vyRue48dY2",
+					"expanded_url": "https://youtu.be/yjBjJQ7fycs",
+					"display_url": "youtu.be/yjBjJQ7fycs",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230085747736117200,
+					"id_str": "1230085747736117248",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ERIkeGUVAAAxpUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERIkeGUVAAAxpUp.jpg",
+					"url": "https://t.co/jKxFMHcp5B",
+					"display_url": "pic.twitter.com/jKxFMHcp5B",
+					"expanded_url": "https://twitter.com/MuFully/status/1230085754795126785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230085747736117200,
+					"id_str": "1230085747736117248",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ERIkeGUVAAAxpUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERIkeGUVAAAxpUp.jpg",
+					"url": "https://t.co/jKxFMHcp5B",
+					"display_url": "pic.twitter.com/jKxFMHcp5B",
+					"expanded_url": "https://twitter.com/MuFully/status/1230085754795126785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1226823167080943600,
+		"in_reply_to_status_id_str": "1226823167080943620",
+		"in_reply_to_user_id": 1112618601356226600,
+		"in_reply_to_user_id_str": "1112618601356226561",
+		"in_reply_to_screen_name": "MuFully",
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "mu:fully (뮤플리)",
+			"screen_name": "MuFully",
+			"location": "",
+			"description": "KPOP을 더 즐겁게! 풀 영상은 아래 링크 클릭!👇",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7876,
+			"friends_count": 31,
+			"listed_count": 15,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112618709258915841/V5YmFm0g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1582110170",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 300,
+		"favorite_count": 403,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "GUEST | #이달의소녀 @loonatheworld \n\n🎥 이달소한테 깝치지 마세요;;\nㄴ 영상 보기: https://t.co/vyRue48dY2\n\n#LOONA #KPOP #Cover #So_What #낰낰낰 #낰낰펀치 https://t.co/jKxFMHcp5B"
+	},
+	{
 		"created_at": "Wed Feb 19 10:40:34 +0000 2020",
 		"id": 1230079723616604200,
 		"id_str": "1230079723616604160",
