@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 11:52:57 +0000 2020",
+		"id": 1230393440212402200,
+		"id_str": "1230460327478747137",
+		"full_text": "다들 이렇게 일하고 있나요? Getting things done 중에서. \n\n&lt;쏟아지는일완벽하게해내는법&gt; 이라는 제목으로 한국어 번역판이 나와 있다. https://t.co/O3GU8Bxc98",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230393433899991000,
+					"id_str": "1230393433899991040",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM8TymVAAA4nM8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM8TymVAAA4nM8.jpg",
+					"url": "https://t.co/O3GU8Bxc98",
+					"display_url": "pic.twitter.com/O3GU8Bxc98",
+					"expanded_url": "https://twitter.com/January19_/status/1230393440212402176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230393433899991000,
+					"id_str": "1230393433899991040",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM8TymVAAA4nM8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM8TymVAAA4nM8.jpg",
+					"url": "https://t.co/O3GU8Bxc98",
+					"display_url": "pic.twitter.com/O3GU8Bxc98",
+					"expanded_url": "https://twitter.com/January19_/status/1230393440212402176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067401196,
+			"id_str": "1067401196",
+			"name": "박소령 | Soryoung Park",
+			"screen_name": "January19_",
+			"location": "",
+			"description": "일하는 사람들의 콘텐츠 플랫폼, 퍼블리를 만듭니다. 트위터에서는 일하는 사람들과 일하는 마인드에 대한 이야기를 주로 소개합니다. 그리고 재밌는 콘텐츠 추천도. -:) CEO of PUBLY @publy_",
+			"url": "https://t.co/BPqHYGGmHS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BPqHYGGmHS",
+							"expanded_url": "http://publy.co",
+							"display_url": "publy.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16502,
+			"friends_count": 31,
+			"listed_count": 149,
+			"created_at": "Mon Jan 07 04:10:56 +0000 2013",
+			"favourites_count": 6769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213443284577615872/CtWSya8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213443284577615872/CtWSya8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067401196/1578142251",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다들 이렇게 일하고 있나요? Getting things done 중에서. \n\n&lt;쏟아지는일완벽하게해내는법&gt; 이라는 제목으로 한국어 번역판이 나와 있다. https://t.co/O3GU8Bxc98"
+	},
+	{
 		"created_at": "Thu Feb 20 10:19:18 +0000 2020",
 		"id": 1230436757801459700,
 		"id_str": "1230436757801459712",
