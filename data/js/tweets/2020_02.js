@@ -1,6 +1,1773 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 05:57:32 +0000 2020",
+		"id": 1230206114647535600,
+		"id_str": "1230370884046610432",
+		"full_text": "we added mute and permission options for role pings. \nit only took us 4 years. \nhope you see this Potato McNugget. https://t.co/BlvUDcV4fl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BlvUDcV4fl",
+					"expanded_url": "https://twitter.com/PotatoMcNugget/status/811721490659999744",
+					"display_url": "twitter.com/PotatoMcNugget…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discordapp",
+			"location": "San Francisco, CA",
+			"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+			"url": "https://t.co/vBo0wJuUlu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBo0wJuUlu",
+							"expanded_url": "http://dis.gd/website",
+							"display_url": "dis.gd/website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1663819,
+			"friends_count": 1039,
+			"listed_count": 2354,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 33001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 428484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1577993997",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 811721490659999700,
+		"quoted_status_id_str": "811721490659999744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BlvUDcV4fl",
+			"expanded": "https://twitter.com/PotatoMcNugget/status/811721490659999744",
+			"display": "twitter.com/PotatoMcNugget…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 21 23:54:19 +0000 2016",
+			"id": 811721490659999700,
+			"id_str": "811721490659999744",
+			"full_text": "@discordapp Any chance for better permissions for Role mentions? I just want moderators to be able to use them, not the entire server",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "discordapp",
+						"name": "Discord",
+						"id": 3065618342,
+						"id_str": "3065618342",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 3065618342,
+			"in_reply_to_user_id_str": "3065618342",
+			"in_reply_to_screen_name": "discordapp",
+			"user": {
+				"id": 4363342995,
+				"id_str": "4363342995",
+				"name": "Potato McNugget",
+				"screen_name": "PotatoMcNugget",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 114,
+				"friends_count": 31,
+				"listed_count": 0,
+				"created_at": "Thu Dec 03 17:19:43 +0000 2015",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/672466957069893632/ZtT0ettn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/672466957069893632/ZtT0ettn_normal.jpg",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 1186,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3523,
+		"favorite_count": 38431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we added mute and permission options for role pings. \nit only took us 4 years. \nhope you see this Potato McNugget. https://t.co/BlvUDcV4fl"
+	},
+	{
+		"created_at": "Thu Feb 20 05:57:04 +0000 2020",
+		"id": 1230326206270070800,
+		"id_str": "1230370767818280960",
+		"full_text": "여러분 전적으로 이 다큐를 보셔야합니다. 다큐를 관통하는 메시지를 담은 노래, &lt;Only the Young&gt;도 들으셔야 하구요. 끝까지 보시면 이 노래의 의미를 알게 되실거예요.\n.\n#미스아메리카나 #MissAmericana #넷플릭스 https://t.co/1FJBrxeS81",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스아메리카나",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "MissAmericana",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"text": "넷플릭스",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230315267353280500,
+					"id_str": "1230315267353280512",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ERL1sp6UcAENtFr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERL1sp6UcAENtFr.jpg",
+					"url": "https://t.co/1FJBrxeS81",
+					"display_url": "pic.twitter.com/1FJBrxeS81",
+					"expanded_url": "https://twitter.com/NetflixKR/status/1230326206270070785/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230315267353280500,
+					"id_str": "1230315267353280512",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ERL1sp6UcAENtFr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERL1sp6UcAENtFr.jpg",
+					"url": "https://t.co/1FJBrxeS81",
+					"display_url": "pic.twitter.com/1FJBrxeS81",
+					"expanded_url": "https://twitter.com/NetflixKR/status/1230326206270070785/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58892,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230315267353280512/vid/1280x720/ivtvVGgjeQf3q7OF.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230315267353280512/vid/480x270/drkToQbBxtX4uDQU.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230315267353280512/vid/640x360/95CgmRXG46nKOr8j.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1230315267353280512/pl/y1TMBBgHcuoXWVxS.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3026881800,
+			"id_str": "3026881800",
+			"name": "Netflix Korea",
+			"screen_name": "NetflixKR",
+			"location": "대한민국 서울",
+			"description": "세계 최대 온라인 스트리밍 서비스 넷플릭스의 한국 공식 페이지입니다! 넷플릭스의 최신 소식을 발 빠르게 전해드립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97803,
+			"friends_count": 240,
+			"listed_count": 259,
+			"created_at": "Wed Feb 18 18:46:33 +0000 2015",
+			"favourites_count": 367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744938017106714624/agbT591Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744938017106714624/agbT591Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3026881800/1581985817",
+			"profile_link_color": "E50913",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 전적으로 이 다큐를 보셔야합니다. 다큐를 관통하는 메시지를 담은 노래, &lt;Only the Young&gt;도 들으셔야 하구요. 끝까지 보시면 이 노래의 의미를 알게 되실거예요.\n.\n#미스아메리카나 #MissAmericana #넷플릭스 https://t.co/1FJBrxeS81"
+	},
+	{
+		"created_at": "Thu Feb 20 05:49:18 +0000 2020",
+		"id": 1230046744118845400,
+		"id_str": "1230368810084864000",
+		"full_text": "롯데리아가 내놓은 채식버거인 '미라클 버거', 하루에 20개정도 팔리고 있다. 베스트셀러인 불고기 버거가 평균 65개정도 팔리는것에 비하면 적지 않은 판매량이다. 롯데리아 관계자는 예상을 뛰어넘는 성과라고 평했다. #채식 #비건 #롯데리아\n\nhttps://t.co/ukejS8p9c2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "채식",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "비건",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "롯데리아",
+					"indices": [
+						128,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ukejS8p9c2",
+					"expanded_url": "https://vegilog.com/miracle-vegan-burger-lotteria-20day/",
+					"display_url": "vegilog.com/miracle-vegan-…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 593331848,
+			"id_str": "593331848",
+			"name": "베지로그",
+			"screen_name": "Vegilog",
+			"location": "",
+			"description": "채식 정보의 모든 것 데일리 비건, 베지로그 입니다. 채식이 대세다! 레시피, 비건카페, 베이커리 제보 받아요. 광고문의는 vegilog.com@gmail.com",
+			"url": "https://t.co/fs15Yf8D2l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fs15Yf8D2l",
+							"expanded_url": "http://www.vegilog.com",
+							"display_url": "vegilog.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2972,
+			"friends_count": 110,
+			"listed_count": 8,
+			"created_at": "Tue May 29 03:58:02 +0000 2012",
+			"favourites_count": 3170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185038665665470466/nMFo2ym8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185038665665470466/nMFo2ym8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/593331848/1571370015",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1128,
+		"favorite_count": 411,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "롯데리아가 내놓은 채식버거인 '미라클 버거', 하루에 20개정도 팔리고 있다. 베스트셀러인 불고기 버거가 평균 65개정도 팔리는것에 비하면 적지 않은 판매량이다. 롯데리아 관계자는 예상을 뛰어넘는 성과라고 평했다. #채식 #비건 #롯데리아\n\nhttps://t.co/ukejS8p9c2"
+	},
+	{
+		"created_at": "Thu Feb 20 05:48:58 +0000 2020",
+		"id": 1229952937834639400,
+		"id_str": "1230368726567899137",
+		"full_text": "TensorFlow.js 로 웹 비디오에서 실시간으로 사람 지우기 https://t.co/DHAcDsWwWK \n- 약 250줄의 js코드로 \n- 웹캠 영상을 받아서 \n- Tensorflow.js + BodyPix 로 \n- 사람을 지우고 비디오로 보여주는 샘플",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DHAcDsWwWK",
+					"expanded_url": "http://j.mp/2SFr6PG",
+					"display_url": "j.mp/2SFr6PG",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2268,
+			"friends_count": 0,
+			"listed_count": 40,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 55,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TensorFlow.js 로 웹 비디오에서 실시간으로 사람 지우기 https://t.co/DHAcDsWwWK \n- 약 250줄의 js코드로 \n- 웹캠 영상을 받아서 \n- Tensorflow.js + BodyPix 로 \n- 사람을 지우고 비디오로 보여주는 샘플"
+	},
+	{
+		"created_at": "Thu Feb 20 05:46:57 +0000 2020",
+		"id": 1230311576365719600,
+		"id_str": "1230368221036892166",
+		"full_text": "[SJF ANNOUNCEMENT- 1일권 프리세일 티켓오픈]\n.\n잠시 후 한 시간 뒤,\n1일권 프리세일 티켓이 오픈됩니다!\n.\n★ 1일권 프리세일 티켓오픈: 오늘 낮 12시 ★\n▶ 티켓가: 1일권 할인가 145,000원 (한정 수량 / 1일권 정가: 165,000원)\n▶ 예매처: 인터파크(https://t.co/kCzAwJcHUF / 1544-1555) https://t.co/L85MDVJbwv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kCzAwJcHUF",
+					"expanded_url": "https://bit.ly/37DdZ5w",
+					"display_url": "bit.ly/37DdZ5w",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230311564143579100,
+					"id_str": "1230311564143579136",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLx2V_VUAAETjG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERLx2V_VUAAETjG.jpg",
+					"url": "https://t.co/L85MDVJbwv",
+					"display_url": "pic.twitter.com/L85MDVJbwv",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1230311576365719552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230311564143579100,
+					"id_str": "1230311564143579136",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLx2V_VUAAETjG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERLx2V_VUAAETjG.jpg",
+					"url": "https://t.co/L85MDVJbwv",
+					"display_url": "pic.twitter.com/L85MDVJbwv",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1230311576365719552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230311564244222000,
+					"id_str": "1230311564244221952",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLx2WXVAAAmIJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERLx2WXVAAAmIJX.jpg",
+					"url": "https://t.co/L85MDVJbwv",
+					"display_url": "pic.twitter.com/L85MDVJbwv",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1230311576365719552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3667,
+			"friends_count": 40,
+			"listed_count": 36,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1582081596",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SJF ANNOUNCEMENT- 1일권 프리세일 티켓오픈]\n.\n잠시 후 한 시간 뒤,\n1일권 프리세일 티켓이 오픈됩니다!\n.\n★ 1일권 프리세일 티켓오픈: 오늘 낮 12시 ★\n▶ 티켓가: 1일권 할인가 145,000원 (한정 수량 / 1일권 정가: 165,000원)\n▶ 예매처: 인터파크(https://t.co/kCzAwJcHUF / 1544-1555) https://t.co/L85MDVJbwv"
+	},
+	{
+		"created_at": "Thu Feb 20 05:43:44 +0000 2020",
+		"id": 1230151181973897200,
+		"id_str": "1230367410022039554",
+		"full_text": "오늘 포토샵이 30주년을 맞이했다고. 그걸 맞이해서 데스크톱과 아이패드 앱에 기능 업데이트. 사진은 아이패드용 신기능인 object selection tool. https://t.co/ZkZfyCBDgw https://t.co/OuFsIiO5Bt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZkZfyCBDgw",
+					"expanded_url": "https://www.engadget.com/2020/02/19/adobe-photoshop-on-ipad-desktop-update-object-selection/",
+					"display_url": "engadget.com/2020/02/19/ado…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230151163439440000,
+					"id_str": "1230151163439439874",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERJf9yzXYAIXubR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERJf9yzXYAIXubR.jpg",
+					"url": "https://t.co/OuFsIiO5Bt",
+					"display_url": "pic.twitter.com/OuFsIiO5Bt",
+					"expanded_url": "https://twitter.com/purengom/status/1230151181973897216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230151163439440000,
+					"id_str": "1230151163439439874",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERJf9yzXYAIXubR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERJf9yzXYAIXubR.jpg",
+					"url": "https://t.co/OuFsIiO5Bt",
+					"display_url": "pic.twitter.com/OuFsIiO5Bt",
+					"expanded_url": "https://twitter.com/purengom/status/1230151181973897216/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ERJf9yzXYAIXubR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63764417,
+			"id_str": "63764417",
+			"name": "푸른곰",
+			"screen_name": "purengom",
+			"location": "Gyeonggi Province, South Korea",
+			"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+			"url": "https://t.co/axyNeG94zY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/axyNeG94zY",
+							"expanded_url": "http://purengom.com",
+							"display_url": "purengom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3627,
+			"friends_count": 3098,
+			"listed_count": 137,
+			"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+			"favourites_count": 55952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 214591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 포토샵이 30주년을 맞이했다고. 그걸 맞이해서 데스크톱과 아이패드 앱에 기능 업데이트. 사진은 아이패드용 신기능인 object selection tool. https://t.co/ZkZfyCBDgw https://t.co/OuFsIiO5Bt"
+	},
+	{
+		"created_at": "Thu Feb 20 05:43:24 +0000 2020",
+		"id": 1230285679575195600,
+		"id_str": "1230367328593793024",
+		"full_text": "미국 밀레니얼 세대 사이에서 'FIRE' 운동이 번지고 있다고. FIRE는 Financial Independence, Retire Early의 줄임말. 복지제도의 미래는 불투명하고, 디플레이션이 지속되니 극도로 절약하는 사람들이 늘어난다는 것. 개인적으론 현명한 선택이나, 경제 전반엔 상당한 부담. https://t.co/zuE8IpuOrK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zuE8IpuOrK",
+					"expanded_url": "https://nyti.ms/2Ht7ibT",
+					"display_url": "nyti.ms/2Ht7ibT",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63476989,
+			"id_str": "63476989",
+			"name": "박태인(Taein Park)",
+			"screen_name": "TellYouMore",
+			"location": "Seoul",
+			"description": "중앙일보 기자. 좋은 글을 쓰겠습니다. ※트윗 인용 보도 금지\nhttps://t.co/LISzgr3buo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LISzgr3buo",
+							"expanded_url": "http://brunch.co.kr/@taeinpark",
+							"display_url": "brunch.co.kr/@taeinpark",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20975,
+			"friends_count": 14017,
+			"listed_count": 677,
+			"created_at": "Thu Aug 06 15:30:08 +0000 2009",
+			"favourites_count": 14773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63476989/1411280422",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국 밀레니얼 세대 사이에서 'FIRE' 운동이 번지고 있다고. FIRE는 Financial Independence, Retire Early의 줄임말. 복지제도의 미래는 불투명하고, 디플레이션이 지속되니 극도로 절약하는 사람들이 늘어난다는 것. 개인적으론 현명한 선택이나, 경제 전반엔 상당한 부담. https://t.co/zuE8IpuOrK"
+	},
+	{
+		"created_at": "Thu Feb 20 05:43:16 +0000 2020",
+		"id": 1230303961619419100,
+		"id_str": "1230367292673777665",
+		"full_text": "당신의 소스코드를 오케스트라로 들어보세요 https://t.co/pPzaimVRfZ \n웹에서 소스로 훌륭한 오케스트라 연주를 만들어 주는 오픈소스\nTypeScript Parser로 분석하여 음악의 무드를 결정\n행복한 단어들이 많으면 장조로, 슬프면 단조로\n피아노,첼로,드럼,플룻,하프,투바,베이스,코러스까지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pPzaimVRfZ",
+					"expanded_url": "http://j.mp/37L0vEW",
+					"display_url": "j.mp/37L0vEW",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2268,
+			"friends_count": 0,
+			"listed_count": 40,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신의 소스코드를 오케스트라로 들어보세요 https://t.co/pPzaimVRfZ \n웹에서 소스로 훌륭한 오케스트라 연주를 만들어 주는 오픈소스\nTypeScript Parser로 분석하여 음악의 무드를 결정\n행복한 단어들이 많으면 장조로, 슬프면 단조로\n피아노,첼로,드럼,플룻,하프,투바,베이스,코러스까지"
+	},
+	{
+		"created_at": "Thu Feb 20 05:43:12 +0000 2020",
+		"id": 1230265902744117200,
+		"id_str": "1230367274973794304",
+		"full_text": "카페24가 다양한 무료 폰트를 공개했습니다.\n용도에 따른 라이선스 걱정 없는 폰트로 지속해서 폰트를 추가하고 있네요.💻\nhttps://t.co/NPK1Qfpqwu\n#design #font https://t.co/s4o2bqcEhl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "design",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "font",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NPK1Qfpqwu",
+					"expanded_url": "https://buff.ly/37IInvk",
+					"display_url": "buff.ly/37IInvk",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230265900986773500,
+					"id_str": "1230265900986773504",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLIUZeXsAAbPXJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERLIUZeXsAAbPXJ.png",
+					"url": "https://t.co/s4o2bqcEhl",
+					"display_url": "pic.twitter.com/s4o2bqcEhl",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1230265902744117250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230265900986773500,
+					"id_str": "1230265900986773504",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLIUZeXsAAbPXJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERLIUZeXsAAbPXJ.png",
+					"url": "https://t.co/s4o2bqcEhl",
+					"display_url": "pic.twitter.com/s4o2bqcEhl",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1230265902744117250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1230265900902862800,
+					"id_str": "1230265900902862848",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLIUZKXUAA11iQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERLIUZKXUAA11iQ.png",
+					"url": "https://t.co/s4o2bqcEhl",
+					"display_url": "pic.twitter.com/s4o2bqcEhl",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1230265902744117250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230265901318131700,
+					"id_str": "1230265901318131717",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLIUatX0AUhAqH.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERLIUatX0AUhAqH.png",
+					"url": "https://t.co/s4o2bqcEhl",
+					"display_url": "pic.twitter.com/s4o2bqcEhl",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1230265902744117250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230265901150331000,
+					"id_str": "1230265901150330880",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLIUaFXYAAmLwi.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERLIUaFXYAAmLwi.png",
+					"url": "https://t.co/s4o2bqcEhl",
+					"display_url": "pic.twitter.com/s4o2bqcEhl",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1230265902744117250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214347436,
+			"id_str": "214347436",
+			"name": "개발자스럽다",
+			"screen_name": "gaeraecom",
+			"location": "Seoul, Korea",
+			"description": "개발자를 위한 다양한 정보를 공유합니다.\n다른 플랫폼에서 정보를 받고 싶다면 아래 링크로 접속해주세요❤️https://t.co/iHkINJk6f2",
+			"url": "https://t.co/BDUu9ojQrw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BDUu9ojQrw",
+							"expanded_url": "https://gaerae.com",
+							"display_url": "gaerae.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iHkINJk6f2",
+							"expanded_url": "http://blog.gaerae.com",
+							"display_url": "blog.gaerae.com",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2606,
+			"friends_count": 270,
+			"listed_count": 88,
+			"created_at": "Thu Nov 11 05:21:10 +0000 2010",
+			"favourites_count": 1245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223878327225614336/qNIKFS5W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223878327225614336/qNIKFS5W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214347436/1580630308",
+			"profile_link_color": "282C34",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카페24가 다양한 무료 폰트를 공개했습니다.\n용도에 따른 라이선스 걱정 없는 폰트로 지속해서 폰트를 추가하고 있네요.💻\nhttps://t.co/NPK1Qfpqwu\n#design #font https://t.co/s4o2bqcEhl"
+	},
+	{
+		"created_at": "Thu Feb 20 05:37:54 +0000 2020",
+		"id": 1230276703768981500,
+		"id_str": "1230365941084459008",
+		"full_text": "MS가 워드/엑셀/파워포인트를 하나로 합친 모바일용 생산성앱인 \"오피스\"앱의 공개 프리뷰 버전을 iOS/안드로이드용으로 공개. 각 프로그램이 필요없이 모두 포함된데다 용량도 훨씬 적고 오피스 렌즈 통합,노트,PDF 사인,QR코드,기기간 파일 전송등의 새 기능도 제공 https://t.co/6DOejBWa1W https://t.co/uqm1DKFvuj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6DOejBWa1W",
+					"expanded_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/02/19/new-office-app-android-ios-available/",
+					"display_url": "microsoft.com/en-us/microsof…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230276701441208300,
+					"id_str": "1230276701441208323",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLSJETXsAMGPj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERLSJETXsAMGPj8.jpg",
+					"url": "https://t.co/uqm1DKFvuj",
+					"display_url": "pic.twitter.com/uqm1DKFvuj",
+					"expanded_url": "https://twitter.com/minist/status/1230276703768981511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230276701441208300,
+					"id_str": "1230276701441208323",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ERLSJETXsAMGPj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERLSJETXsAMGPj8.jpg",
+					"url": "https://t.co/uqm1DKFvuj",
+					"display_url": "pic.twitter.com/uqm1DKFvuj",
+					"expanded_url": "https://twitter.com/minist/status/1230276703768981511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64672,
+			"friends_count": 718,
+			"listed_count": 929,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 457,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MS가 워드/엑셀/파워포인트를 하나로 합친 모바일용 생산성앱인 \"오피스\"앱의 공개 프리뷰 버전을 iOS/안드로이드용으로 공개. 각 프로그램이 필요없이 모두 포함된데다 용량도 훨씬 적고 오피스 렌즈 통합,노트,PDF 사인,QR코드,기기간 파일 전송등의 새 기능도 제공 https://t.co/6DOejBWa1W https://t.co/uqm1DKFvuj"
+	},
+	{
 		"created_at": "Thu Feb 20 03:40:38 +0000 2020",
 		"id": 1230328928222380000,
 		"id_str": "1230336430125330437",
