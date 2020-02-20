@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 15:59:32 +0000 2020",
+		"id": 1230522257170022400,
+		"id_str": "1230522379899723776",
+		"full_text": "벌써 2020년 2월이 다 지나갔어🌬️\n그런데! 2월 달이 다 가기 전에 이달의 소녀💎가 왔네?!\n그래! 우리의 이달은 이제 시작이야~🔆\n이달소의 ‘So What’ 금요일 1시 다 함께 본방사수~! 💗\n#이달의소녀 #LOONA #쏘왓 #SoWhat #So_What #SimplyKpop https://t.co/YYIhw9Qyhq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "쏘왓",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "So_What",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "SimplyKpop",
+					"indices": [
+						148,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230522051640713200,
+					"id_str": "1230522051640713219",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EROxSVBUYAMIewa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EROxSVBUYAMIewa.jpg",
+					"url": "https://t.co/YYIhw9Qyhq",
+					"display_url": "pic.twitter.com/YYIhw9Qyhq",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1230522257170022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230522051640713200,
+					"id_str": "1230522051640713219",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EROxSVBUYAMIewa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EROxSVBUYAMIewa.jpg",
+					"url": "https://t.co/YYIhw9Qyhq",
+					"display_url": "pic.twitter.com/YYIhw9Qyhq",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1230522257170022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230522051649163300,
+					"id_str": "1230522051649163264",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EROxSVDVUAA8-2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EROxSVDVUAA8-2i.jpg",
+					"url": "https://t.co/YYIhw9Qyhq",
+					"display_url": "pic.twitter.com/YYIhw9Qyhq",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1230522257170022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230522051657552000,
+					"id_str": "1230522051657551872",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EROxSVFVUAA_Suv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EROxSVFVUAA_Suv.jpg",
+					"url": "https://t.co/YYIhw9Qyhq",
+					"display_url": "pic.twitter.com/YYIhw9Qyhq",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1230522257170022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230522122356682800,
+					"id_str": "1230522122356682753",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EROxWcdUcAEeq1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EROxWcdUcAEeq1B.jpg",
+					"url": "https://t.co/YYIhw9Qyhq",
+					"display_url": "pic.twitter.com/YYIhw9Qyhq",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1230522257170022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505587119,
+			"id_str": "505587119",
+			"name": "Simplykpop",
+			"screen_name": "_Simplykpop",
+			"location": "",
+			"description": "∎해외 아리랑월드채널: 금요일 PM 1시  ∎한국 아리랑채널: 금요일 PM 1시 ∎World Arirang Channel: Friday 1PM KST   ∎Korea Arirang Channel: Friday 1PM KST https://t.co/Wh92uO9fSs",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Wh92uO9fSs",
+							"expanded_url": "http://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 356486,
+			"friends_count": 241,
+			"listed_count": 1391,
+			"created_at": "Mon Feb 27 07:32:00 +0000 2012",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184481211789365248/FtY-a-LE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184481211789365248/FtY-a-LE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505587119/1571237354",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벌써 2020년 2월이 다 지나갔어🌬️\n그런데! 2월 달이 다 가기 전에 이달의 소녀💎가 왔네?!\n그래! 우리의 이달은 이제 시작이야~🔆\n이달소의 ‘So What’ 금요일 1시 다 함께 본방사수~! 💗\n#이달의소녀 #LOONA #쏘왓 #SoWhat #So_What #SimplyKpop https://t.co/YYIhw9Qyhq"
+	},
+	{
 		"created_at": "Thu Feb 20 14:40:38 +0000 2020",
 		"id": 1230493789589889000,
 		"id_str": "1230502524018479105",
