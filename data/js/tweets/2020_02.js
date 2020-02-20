@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 09:40:43 +0000 2020",
+		"id": 1230418815051272200,
+		"id_str": "1230427047564054535",
+		"full_text": "2년 전 오늘 레드벨벳의 2018 평창 동계 올림픽 메달플라자 공연은 잊을 수 없어요!😍🎶🎤 #레드벨벳 #평창동계올림픽 #빨간맛 #현곰완둥옒 🍉🍍🍊🥝🍇 #RedVelvet #PyeongChang2018 #Olympics @RVsmtown https://t.co/cazy8qYkrG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "평창동계올림픽",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "빨간맛",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "현곰완둥옒",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "PyeongChang2018",
+					"indices": [
+						96,
+						112
+					]
+				},
+				{
+					"text": "Olympics",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230398896133660700,
+					"id_str": "1230398896133660672",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/ERNCXVdUUAA4TCd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERNCXVdUUAA4TCd.jpg",
+					"url": "https://t.co/cazy8qYkrG",
+					"display_url": "pic.twitter.com/cazy8qYkrG",
+					"expanded_url": "https://twitter.com/olympiko/status/1230418815051272192/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230398896133660700,
+					"id_str": "1230398896133660672",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/ERNCXVdUUAA4TCd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERNCXVdUUAA4TCd.jpg",
+					"url": "https://t.co/cazy8qYkrG",
+					"display_url": "pic.twitter.com/cazy8qYkrG",
+					"expanded_url": "https://twitter.com/olympiko/status/1230418815051272192/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 190023,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1230398896133660672/pl/0PXk-p5kYN2c5bls.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230398896133660672/vid/1280x720/XxZGHqeyHU-qgIBi.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230398896133660672/vid/480x270/r5pLEKnO8dAtFQRW.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230398896133660672/vid/640x360/GzyzNcSGpdmDO8HB.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2220078308,
+			"id_str": "2220078308",
+			"name": "올림픽",
+			"screen_name": "olympiko",
+			"location": "로잔, 스위스",
+			"description": "국제올림픽위원회(IOC) 공식 한국어 계정입니다.",
+			"url": "https://t.co/ReYjXCfYRH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ReYjXCfYRH",
+							"expanded_url": "http://olympic.org",
+							"display_url": "olympic.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20749,
+			"friends_count": 162,
+			"listed_count": 165,
+			"created_at": "Thu Nov 28 17:15:05 +0000 2013",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788645801354522624/yZpCtElO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788645801354522624/yZpCtElO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2220078308/1569890640",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2395,
+		"favorite_count": 4957,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2년 전 오늘 레드벨벳의 2018 평창 동계 올림픽 메달플라자 공연은 잊을 수 없어요!😍🎶🎤 #레드벨벳 #평창동계올림픽 #빨간맛 #현곰완둥옒 🍉🍍🍊🥝🍇 #RedVelvet #PyeongChang2018 #Olympics @RVsmtown https://t.co/cazy8qYkrG"
+	},
+	{
 		"created_at": "Thu Feb 20 07:40:38 +0000 2020",
 		"id": 1230387530572296200,
 		"id_str": "1230396827910000640",
