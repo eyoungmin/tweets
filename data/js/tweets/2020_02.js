@@ -1,6 +1,2623 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 13:40:25 +0000 2020",
+		"id": 1230342625577726000,
+		"id_str": "1230487371818254337",
+		"full_text": "인스타그램은 섭식장애 관련 이미지를 단속해야만 합니다\nhttps://t.co/4xXBLoDLFl\n\n“소위 ‘프로아나’나 ‘프로미아’라고 불리는 거식증 옹호 콘텐츠는 소셜미디어에 널리 퍼져 있고, 이는 거식증으로 고통받는 사람에게 매우 해로울 수 있습니다.”\n\n“이런 이미지는 거식증을 낭만적으로 묘사합니다.” https://t.co/0ujD8M6w3A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4xXBLoDLFl",
+					"expanded_url": "http://ppss.kr/archives/187367",
+					"display_url": "ppss.kr/archives/187367",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230342618808115200,
+					"id_str": "1230342618808115202",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ERMOF9oU4AIoElU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERMOF9oU4AIoElU.jpg",
+					"url": "https://t.co/0ujD8M6w3A",
+					"display_url": "pic.twitter.com/0ujD8M6w3A",
+					"expanded_url": "https://twitter.com/ppsskr/status/1230342625577725952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230342618808115200,
+					"id_str": "1230342618808115202",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ERMOF9oU4AIoElU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERMOF9oU4AIoElU.jpg",
+					"url": "https://t.co/0ujD8M6w3A",
+					"display_url": "pic.twitter.com/0ujD8M6w3A",
+					"expanded_url": "https://twitter.com/ppsskr/status/1230342625577725952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992831082,
+			"id_str": "992831082",
+			"name": "ㅍㅍㅅㅅ",
+			"screen_name": "ppsskr",
+			"location": "",
+			"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+			"url": "http://t.co/22eKl3pLgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/22eKl3pLgd",
+							"expanded_url": "http://ppss.kr",
+							"display_url": "ppss.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240080,
+			"friends_count": 111,
+			"listed_count": 496,
+			"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+			"favourites_count": 1771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1531144326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인스타그램은 섭식장애 관련 이미지를 단속해야만 합니다\nhttps://t.co/4xXBLoDLFl\n\n“소위 ‘프로아나’나 ‘프로미아’라고 불리는 거식증 옹호 콘텐츠는 소셜미디어에 널리 퍼져 있고, 이는 거식증으로 고통받는 사람에게 매우 해로울 수 있습니다.”\n\n“이런 이미지는 거식증을 낭만적으로 묘사합니다.” https://t.co/0ujD8M6w3A"
+	},
+	{
+		"created_at": "Thu Feb 20 13:37:11 +0000 2020",
+		"id": 1230426507601821700,
+		"id_str": "1230486557351497730",
+		"full_text": "Red Velvet과 Good Luck Trolls가 만나 사랑스러운 캐릭터가 탄생했어요!💖\n\n🔸ONLINE 출시 : 02/21(금) 2:00 PM\n🔸OFFLINE 출시 : 02/22(토)\n✔출시 매장 :\nSMTOWN &amp;STORE@SMTOWN coexartium\nSMTOWN &amp;STORE@SM communication center\nSMTOWN &amp;STORE@DDP\nhttps://t.co/hz1gfVvJx4 https://t.co/ZVbu3ThpqH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hz1gfVvJx4",
+					"expanded_url": "http://SMTOWNandSTORE.com",
+					"display_url": "SMTOWNandSTORE.com",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230423978927243300,
+					"id_str": "1230423978927243265",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/ERNYFvsUwAEg8d8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERNYFvsUwAEg8d8.jpg",
+					"url": "https://t.co/ZVbu3ThpqH",
+					"display_url": "pic.twitter.com/ZVbu3ThpqH",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230426507601821699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230423978927243300,
+					"id_str": "1230423978927243265",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/ERNYFvsUwAEg8d8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERNYFvsUwAEg8d8.jpg",
+					"url": "https://t.co/ZVbu3ThpqH",
+					"display_url": "pic.twitter.com/ZVbu3ThpqH",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230426507601821699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32392,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 490,
+		"favorite_count": 906,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet과 Good Luck Trolls가 만나 사랑스러운 캐릭터가 탄생했어요!💖\n\n🔸ONLINE 출시 : 02/21(금) 2:00 PM\n🔸OFFLINE 출시 : 02/22(토)\n✔출시 매장 :\nSMTOWN &amp;STORE@SMTOWN coexartium\nSMTOWN &amp;STORE@SM communication center\nSMTOWN &amp;STORE@DDP\nhttps://t.co/hz1gfVvJx4 https://t.co/ZVbu3ThpqH"
+	},
+	{
+		"created_at": "Thu Feb 20 13:36:56 +0000 2020",
+		"id": 1230415310567559200,
+		"id_str": "1230486494587998208",
+		"full_text": "Red Velvet x Good Luck Trolls\n“There is always time for a hug.. and singing! 🎼”\n“아무리 시간이 없어도 허그와 노래할 시간은 있다구! 🎼” – SEULGI Trolls\n\n#RedVelvet #레드벨벳 #SEULGI #슬기 #Trolls #SEULGITrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/m22st1vH8W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "SEULGITrolls",
+					"indices": [
+						167,
+						180
+					]
+				},
+				{
+					"text": "RedVelvetTrolls",
+					"indices": [
+						181,
+						197
+					]
+				},
+				{
+					"text": "RedVelvetlovesGoodLuckTrolls",
+					"indices": [
+						198,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230415180997087200,
+					"id_str": "1230415180997087232",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230415180997087232/pu/img/lWIemrIi8rmtZenZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230415180997087232/pu/img/lWIemrIi8rmtZenZ.jpg",
+					"url": "https://t.co/m22st1vH8W",
+					"display_url": "pic.twitter.com/m22st1vH8W",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230415310567559168/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230415180997087200,
+					"id_str": "1230415180997087232",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230415180997087232/pu/img/lWIemrIi8rmtZenZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230415180997087232/pu/img/lWIemrIi8rmtZenZ.jpg",
+					"url": "https://t.co/m22st1vH8W",
+					"display_url": "pic.twitter.com/m22st1vH8W",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230415310567559168/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 1709,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230415180997087232/pu/vid/320x320/WYggstpYz8Y7HV52.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230415180997087232/pu/pl/RhEEKAprDRxdfd5j.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230415180997087232/pu/vid/480x480/xCxzwZ70odGq5RZ3.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32392,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 841,
+		"favorite_count": 1844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet x Good Luck Trolls\n“There is always time for a hug.. and singing! 🎼”\n“아무리 시간이 없어도 허그와 노래할 시간은 있다구! 🎼” – SEULGI Trolls\n\n#RedVelvet #레드벨벳 #SEULGI #슬기 #Trolls #SEULGITrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/m22st1vH8W"
+	},
+	{
+		"created_at": "Thu Feb 20 13:36:53 +0000 2020",
+		"id": 1230415067121762300,
+		"id_str": "1230486482202189824",
+		"full_text": "Red Velvet x Good Luck Trolls\n“Troll Alert! Peace, Love &amp; Hair!”\n\n#RedVelvet #Trolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/eD5z2kvmwD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "RedVelvetTrolls",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"text": "RedVelvetlovesGoodLuckTrolls",
+					"indices": [
+						106,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230415047563739100,
+					"id_str": "1230415047563739136",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230415047563739136/pu/img/vPBAXD-GGb33EHUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230415047563739136/pu/img/vPBAXD-GGb33EHUo.jpg",
+					"url": "https://t.co/eD5z2kvmwD",
+					"display_url": "pic.twitter.com/eD5z2kvmwD",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230415067121762304/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230415047563739100,
+					"id_str": "1230415047563739136",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230415047563739136/pu/img/vPBAXD-GGb33EHUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230415047563739136/pu/img/vPBAXD-GGb33EHUo.jpg",
+					"url": "https://t.co/eD5z2kvmwD",
+					"display_url": "pic.twitter.com/eD5z2kvmwD",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230415067121762304/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 4750,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230415047563739136/pu/vid/480x480/x9COxuuIiMbhQ9tt.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230415047563739136/pu/vid/320x320/xo8zwdAeDqqNzBDP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230415047563739136/pu/pl/wg9P8Yigd6rYUpkg.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32392,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1461,
+		"favorite_count": 2418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet x Good Luck Trolls\n“Troll Alert! Peace, Love &amp; Hair!”\n\n#RedVelvet #Trolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/eD5z2kvmwD"
+	},
+	{
+		"created_at": "Thu Feb 20 13:36:50 +0000 2020",
+		"id": 1230413965718515700,
+		"id_str": "1230486468541308928",
+		"full_text": "Red Velvet x Good Luck Trolls\n“It’s party time! Let’s get SPARKLY ✨”\n“파티 타임이야! 반짝반짝 신나게 놀아보자구! ✨” – YERI Trolls\n\n#RedVelvet #레드벨벳 #YERI #예리 #Trolls #YERITrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/23ouFZOyJ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "YERITrolls",
+					"indices": [
+						148,
+						159
+					]
+				},
+				{
+					"text": "RedVelvetTrolls",
+					"indices": [
+						160,
+						176
+					]
+				},
+				{
+					"text": "RedVelvetlovesGoodLuckTrolls",
+					"indices": [
+						177,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230413777247465500,
+					"id_str": "1230413777247465472",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230413777247465472/pu/img/MMW17M-9EziFgbHQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230413777247465472/pu/img/MMW17M-9EziFgbHQ.jpg",
+					"url": "https://t.co/23ouFZOyJ6",
+					"display_url": "pic.twitter.com/23ouFZOyJ6",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230413965718515718/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230413777247465500,
+					"id_str": "1230413777247465472",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230413777247465472/pu/img/MMW17M-9EziFgbHQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230413777247465472/pu/img/MMW17M-9EziFgbHQ.jpg",
+					"url": "https://t.co/23ouFZOyJ6",
+					"display_url": "pic.twitter.com/23ouFZOyJ6",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230413965718515718/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 2000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230413777247465472/pu/vid/480x480/AQGGhSKClDwjTZAQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230413777247465472/pu/vid/320x320/KrY53zNlgRV3nauW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230413777247465472/pu/pl/m8ImnH1T2BpQxdUi.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32392,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 644,
+		"favorite_count": 1204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet x Good Luck Trolls\n“It’s party time! Let’s get SPARKLY ✨”\n“파티 타임이야! 반짝반짝 신나게 놀아보자구! ✨” – YERI Trolls\n\n#RedVelvet #레드벨벳 #YERI #예리 #Trolls #YERITrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/23ouFZOyJ6"
+	},
+	{
+		"created_at": "Thu Feb 20 13:36:47 +0000 2020",
+		"id": 1230413708024660000,
+		"id_str": "1230486456684011520",
+		"full_text": "Red Velvet x Good Luck Trolls\n“The hug will set you free! Free Hugs!! 💖”\n“허그가 널 자유케 하리라! 프리 허그!! 💖” – JOY Trolls\n\n#RedVelvet #레드벨벳 #JOY #조이 #Trolls #JOYTrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/88hKjmqERv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "JOYTrolls",
+					"indices": [
+						148,
+						158
+					]
+				},
+				{
+					"text": "RedVelvetTrolls",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"text": "RedVelvetlovesGoodLuckTrolls",
+					"indices": [
+						176,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230413588625383400,
+					"id_str": "1230413588625383425",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230413588625383425/pu/img/1v6FWYM5ongoGlXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230413588625383425/pu/img/1v6FWYM5ongoGlXK.jpg",
+					"url": "https://t.co/88hKjmqERv",
+					"display_url": "pic.twitter.com/88hKjmqERv",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230413708024659969/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230413588625383400,
+					"id_str": "1230413588625383425",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230413588625383425/pu/img/1v6FWYM5ongoGlXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230413588625383425/pu/img/1v6FWYM5ongoGlXK.jpg",
+					"url": "https://t.co/88hKjmqERv",
+					"display_url": "pic.twitter.com/88hKjmqERv",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230413708024659969/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 2500,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230413588625383425/pu/vid/320x320/r_IJ5X7xCCr-XBQT.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230413588625383425/pu/vid/480x480/qf1OcCWEc1wQgc8Z.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230413588625383425/pu/pl/NzzaLGeXoQQ12Nlr.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32392,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 801,
+		"favorite_count": 1561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet x Good Luck Trolls\n“The hug will set you free! Free Hugs!! 💖”\n“허그가 널 자유케 하리라! 프리 허그!! 💖” – JOY Trolls\n\n#RedVelvet #레드벨벳 #JOY #조이 #Trolls #JOYTrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/88hKjmqERv"
+	},
+	{
+		"created_at": "Thu Feb 20 13:36:44 +0000 2020",
+		"id": 1230413474024394800,
+		"id_str": "1230486444537331712",
+		"full_text": "Red Velvet x Good Luck Trolls\n“Sparkles! Happiness comes from inside us! 🌈”\n“있지! 즐거움은 우리 안에서 나오는거야! 🌈” – WENDY Trolls\n\n#RedVelvet #레드벨벳 #WENDY #웬디 #Trolls #WENDYTrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/LUbtmgA1nP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "WENDYTrolls",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "RedVelvetTrolls",
+					"indices": [
+						168,
+						184
+					]
+				},
+				{
+					"text": "RedVelvetlovesGoodLuckTrolls",
+					"indices": [
+						185,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230413464192999400,
+					"id_str": "1230413464192999424",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230413464192999424/pu/img/wcQV8JeIM_W5gX1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230413464192999424/pu/img/wcQV8JeIM_W5gX1Q.jpg",
+					"url": "https://t.co/LUbtmgA1nP",
+					"display_url": "pic.twitter.com/LUbtmgA1nP",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230413474024394757/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230413464192999400,
+					"id_str": "1230413464192999424",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230413464192999424/pu/img/wcQV8JeIM_W5gX1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230413464192999424/pu/img/wcQV8JeIM_W5gX1Q.jpg",
+					"url": "https://t.co/LUbtmgA1nP",
+					"display_url": "pic.twitter.com/LUbtmgA1nP",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230413474024394757/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 1417,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230413464192999424/pu/pl/Zlz0QirT7p-05taW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230413464192999424/pu/vid/320x320/xUGypFGBemDntS78.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230413464192999424/pu/vid/480x480/e-DiSp3usdBqaSYB.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32392,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 774,
+		"favorite_count": 1473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet x Good Luck Trolls\n“Sparkles! Happiness comes from inside us! 🌈”\n“있지! 즐거움은 우리 안에서 나오는거야! 🌈” – WENDY Trolls\n\n#RedVelvet #레드벨벳 #WENDY #웬디 #Trolls #WENDYTrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/LUbtmgA1nP"
+	},
+	{
+		"created_at": "Thu Feb 20 13:36:41 +0000 2020",
+		"id": 1230413353501085700,
+		"id_str": "1230486433250496512",
+		"full_text": "Red Velvet x Good Luck Trolls\n“Happy Hugs! You are my favorite hug! 🍉”\n“안아줘! 난 너와의 허그가 제일 좋아!🍉” - IRENE Trolls\n\n#RedVelvet #레드벨벳 #IRENE #아이린 #Trolls #IRENETrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/ABPOltx6c5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "IRENETrolls",
+					"indices": [
+						149,
+						161
+					]
+				},
+				{
+					"text": "RedVelvetTrolls",
+					"indices": [
+						162,
+						178
+					]
+				},
+				{
+					"text": "RedVelvetlovesGoodLuckTrolls",
+					"indices": [
+						179,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230412737626247200,
+					"id_str": "1230412737626247168",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230412737626247168/pu/img/oeHz9N-PetqghLqI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230412737626247168/pu/img/oeHz9N-PetqghLqI.jpg",
+					"url": "https://t.co/ABPOltx6c5",
+					"display_url": "pic.twitter.com/ABPOltx6c5",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230413353501085696/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230412737626247200,
+					"id_str": "1230412737626247168",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230412737626247168/pu/img/oeHz9N-PetqghLqI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230412737626247168/pu/img/oeHz9N-PetqghLqI.jpg",
+					"url": "https://t.co/ABPOltx6c5",
+					"display_url": "pic.twitter.com/ABPOltx6c5",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1230413353501085696/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 2209,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230412737626247168/pu/pl/cEVwsySFKwpMgHWJ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230412737626247168/pu/vid/480x480/ZGo_oM8XFL2JDiye.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230412737626247168/pu/vid/320x320/xvP0rsJXGceco7la.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32392,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 742,
+		"favorite_count": 1395,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet x Good Luck Trolls\n“Happy Hugs! You are my favorite hug! 🍉”\n“안아줘! 난 너와의 허그가 제일 좋아!🍉” - IRENE Trolls\n\n#RedVelvet #레드벨벳 #IRENE #아이린 #Trolls #IRENETrolls #RedVelvetTrolls\n#RedVelvetlovesGoodLuckTrolls https://t.co/ABPOltx6c5"
+	},
+	{
+		"created_at": "Thu Feb 20 13:36:24 +0000 2020",
+		"id": 1230391853922435000,
+		"id_str": "1230486361875992577",
+		"full_text": "(번쩍) 뭐예요!! 이달소 찍었지❤🖤\n힙달소 사진집 발간 기원하는 오빛들 위해 가져온 현포😆\n\n📷 ☞ https://t.co/SqZ7wVTLRc\n\n200215 #쇼음악중심 #음중 #LOONA #이달의소녀 #SoWhat @loonatheworld https://t.co/rGUATNOiqb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SqZ7wVTLRc",
+					"expanded_url": "http://naver.me/FR7KSZjX",
+					"display_url": "naver.me/FR7KSZjX",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230391721646641200,
+					"id_str": "1230391721646641152",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM6wH9UUAAKQbO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM6wH9UUAAKQbO.jpg",
+					"url": "https://t.co/rGUATNOiqb",
+					"display_url": "pic.twitter.com/rGUATNOiqb",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1230391853922435074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230391721646641200,
+					"id_str": "1230391721646641152",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM6wH9UUAAKQbO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM6wH9UUAAKQbO.jpg",
+					"url": "https://t.co/rGUATNOiqb",
+					"display_url": "pic.twitter.com/rGUATNOiqb",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1230391853922435074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230391746938278000,
+					"id_str": "1230391746938277889",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM6xmLUEAEGJFX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM6xmLUEAEGJFX.jpg",
+					"url": "https://t.co/rGUATNOiqb",
+					"display_url": "pic.twitter.com/rGUATNOiqb",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1230391853922435074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230391793247649800,
+					"id_str": "1230391793247649792",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM60SsVAAAsvVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM60SsVAAAsvVs.jpg",
+					"url": "https://t.co/rGUATNOiqb",
+					"display_url": "pic.twitter.com/rGUATNOiqb",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1230391853922435074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230391801975988200,
+					"id_str": "1230391801975988224",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM60zNU4AAWsFY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM60zNU4AAWsFY.jpg",
+					"url": "https://t.co/rGUATNOiqb",
+					"display_url": "pic.twitter.com/rGUATNOiqb",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1230391853922435074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 787074,
+			"friends_count": 5,
+			"listed_count": 1270,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 562,
+		"favorite_count": 1224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(번쩍) 뭐예요!! 이달소 찍었지❤🖤\n힙달소 사진집 발간 기원하는 오빛들 위해 가져온 현포😆\n\n📷 ☞ https://t.co/SqZ7wVTLRc\n\n200215 #쇼음악중심 #음중 #LOONA #이달의소녀 #SoWhat @loonatheworld https://t.co/rGUATNOiqb"
+	},
+	{
+		"created_at": "Thu Feb 20 13:36:21 +0000 2020",
+		"id": 1230388254244925400,
+		"id_str": "1230486350157107200",
+		"full_text": "매주 봐도 보고싶은 게 쏘 왓??!! 비주얼은 물론 무대도 잘 하는 게 쏘 왓??!! #이달의소녀 안무 보고 감탄하며 따라하다가 내 몸이 뚝딱대도 쏘 왓??!! (강렬한 샼샼 따라해봤다 손?🙋🏻) 오늘 #이달소 무대 보고싶은 오빛은 #엠카 로 팔로 미~ https://t.co/ubNLqJJHS3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "엠카",
+					"indices": [
+						130,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230388202197794800,
+					"id_str": "1230388202197794816",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM3jQ_UwAAjwNe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM3jQ_UwAAjwNe.jpg",
+					"url": "https://t.co/ubNLqJJHS3",
+					"display_url": "pic.twitter.com/ubNLqJJHS3",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1230388254244925441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230388202197794800,
+					"id_str": "1230388202197794816",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM3jQ_UwAAjwNe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM3jQ_UwAAjwNe.jpg",
+					"url": "https://t.co/ubNLqJJHS3",
+					"display_url": "pic.twitter.com/ubNLqJJHS3",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1230388254244925441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230388202248142800,
+					"id_str": "1230388202248142849",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM3jRLVAAE03-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM3jRLVAAE03-m.jpg",
+					"url": "https://t.co/ubNLqJJHS3",
+					"display_url": "pic.twitter.com/ubNLqJJHS3",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1230388254244925441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230388203313459200,
+					"id_str": "1230388203313459200",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ERM3jVJUcAAP5k7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERM3jVJUcAAP5k7.jpg",
+					"url": "https://t.co/ubNLqJJHS3",
+					"display_url": "pic.twitter.com/ubNLqJJHS3",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1230388254244925441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3901965,
+			"friends_count": 2,
+			"listed_count": 5793,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113386692998615041/O4J6Vs8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1566284082",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1515,
+		"favorite_count": 3302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매주 봐도 보고싶은 게 쏘 왓??!! 비주얼은 물론 무대도 잘 하는 게 쏘 왓??!! #이달의소녀 안무 보고 감탄하며 따라하다가 내 몸이 뚝딱대도 쏘 왓??!! (강렬한 샼샼 따라해봤다 손?🙋🏻) 오늘 #이달소 무대 보고싶은 오빛은 #엠카 로 팔로 미~ https://t.co/ubNLqJJHS3"
+	},
+	{
+		"created_at": "Thu Feb 20 13:19:07 +0000 2020",
+		"id": 1230482011669848000,
+		"id_str": "1230482011669848065",
+		"full_text": "노력하면 우울증을 극복할 수 있다고요?\nhttps://t.co/OHmQmlG0Lt\n#닷페이스 #Dotface #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "닷페이스",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "Dotface",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OHmQmlG0Lt",
+					"expanded_url": "https://youtu.be/gS-koJUFkt4",
+					"display_url": "youtu.be/gS-koJUFkt4",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 903,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노력하면 우울증을 극복할 수 있다고요?\nhttps://t.co/OHmQmlG0Lt\n#닷페이스 #Dotface #minfav"
+	},
+	{
 		"created_at": "Thu Feb 20 13:00:26 +0000 2020",
 		"id": 1230462291549638700,
 		"id_str": "1230477309024575488",
