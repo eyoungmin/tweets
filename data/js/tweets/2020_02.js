@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 15:45:30 +0000 2020",
+		"id": 1230876529455841300,
+		"id_str": "1230881239554375680",
+		"full_text": "닷페이스에서 정신건강에 대해 이야기 했다. 영상에는 다 담기지 못했지만... 정부가 지역에서 정신건강을 위해 일하시는 전문가들에게 부디 돈을 좀 써야한다고 열심히 성토했다.\n\n노력하면 우울증을 극복할 수 있다고요? https://t.co/FwENOKEAIA - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						146,
+						154
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FwENOKEAIA",
+					"expanded_url": "https://youtu.be/gS-koJUFkt4",
+					"display_url": "youtu.be/gS-koJUFkt4",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110121306,
+			"id_str": "110121306",
+			"name": "서밤",
+			"screen_name": "alreadytaken0_0",
+			"location": "",
+			"description": "'우리의 사랑은 언제 불행해질까’ 작가. 틈틈이 그림일기 그립니다, 팟캐스트 '서늘한 마음썰'. 인스타 @seobam_breeze 반말멘션과 알계는 자동차단중",
+			"url": "https://t.co/IRePmo51Dq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IRePmo51Dq",
+							"expanded_url": "https://bit.ly/38qZ0xd",
+							"display_url": "bit.ly/38qZ0xd",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31825,
+			"friends_count": 1474,
+			"listed_count": 112,
+			"created_at": "Sun Jan 31 12:11:21 +0000 2010",
+			"favourites_count": 31468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012942356117479425/gaObSV8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110121306/1489064492",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "닷페이스에서 정신건강에 대해 이야기 했다. 영상에는 다 담기지 못했지만... 정부가 지역에서 정신건강을 위해 일하시는 전문가들에게 부디 돈을 좀 써야한다고 열심히 성토했다.\n\n노력하면 우울증을 극복할 수 있다고요? https://t.co/FwENOKEAIA - @YouTube"
+	},
+	{
 		"created_at": "Fri Feb 21 14:24:27 +0000 2020",
 		"id": 1230854692080582700,
 		"id_str": "1230860840913510407",
