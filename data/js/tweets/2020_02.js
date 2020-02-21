@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 17:36:26 +0000 2020",
+		"id": 1230909157496234000,
+		"id_str": "1230909157496233984",
+		"full_text": "김앤박의 BEST NEW K-POP #101 (IZ*ONE, 드림캐쳐, 뉴이스트, BTS) | CASPER RADIO\nhttps://t.co/pR021xo7hn\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤하",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "평론가",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "박희아",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "기자",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "케이팝",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "IDOL",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "BEST_NEW_KPOP",
+					"indices": [
+						133,
+						147
+					]
+				},
+				{
+					"text": "베스트뉴케이팝",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR021xo7hn",
+					"expanded_url": "http://www.vlive.tv/video/175867",
+					"display_url": "vlive.tv/video/175867",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 907,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 37985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김앤박의 BEST NEW K-POP #101 (IZ*ONE, 드림캐쳐, 뉴이스트, BTS) | CASPER RADIO\nhttps://t.co/pR021xo7hn\n　\n#김윤하 #평론가 #박희아 #기자\n#KPOP #케이팝 #IDOL #아이돌\n#BEST_NEW_KPOP #베스트뉴케이팝\n#CASPER_RADIO #캐스퍼라디오"
+	},
+	{
 		"created_at": "Fri Feb 21 15:45:30 +0000 2020",
 		"id": 1230876529455841300,
 		"id_str": "1230881239554375680",
