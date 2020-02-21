@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 10:40:38 +0000 2020",
+		"id": 1230794319633608700,
+		"id_str": "1230804515156303872",
+		"full_text": "[#IDOL_LEAGUE] #이달소 \n\n1⃣ https://t.co/zBxY6OZY8p\n2⃣ https://t.co/ksEGGjwC01\n3⃣ https://t.co/YvL0YEJODP\n4⃣ https://t.co/CqHMlm5JDK\n\n#아이돌리그 #이달의소녀 #LOONA @loonatheworld https://t.co/SFcfIwM1gt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IDOL_LEAGUE",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "아이돌리그",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						152,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zBxY6OZY8p",
+					"expanded_url": "http://youtu.be/X282mcc3W5w",
+					"display_url": "youtu.be/X282mcc3W5w",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/ksEGGjwC01",
+					"expanded_url": "http://youtu.be/n33tJaUbYAQ",
+					"display_url": "youtu.be/n33tJaUbYAQ",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/YvL0YEJODP",
+					"expanded_url": "http://youtu.be/thoH8TwvKy0",
+					"display_url": "youtu.be/thoH8TwvKy0",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/CqHMlm5JDK",
+					"expanded_url": "http://youtu.be/se9L18WI7Qw",
+					"display_url": "youtu.be/se9L18WI7Qw",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230794311106646000,
+					"id_str": "1230794311106646021",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ERSo56kVUAU8BZI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERSo56kVUAU8BZI.jpg",
+					"url": "https://t.co/SFcfIwM1gt",
+					"display_url": "pic.twitter.com/SFcfIwM1gt",
+					"expanded_url": "https://twitter.com/STARK__OFFICIAL/status/1230794319633608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230794311106646000,
+					"id_str": "1230794311106646021",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ERSo56kVUAU8BZI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERSo56kVUAU8BZI.jpg",
+					"url": "https://t.co/SFcfIwM1gt",
+					"display_url": "pic.twitter.com/SFcfIwM1gt",
+					"expanded_url": "https://twitter.com/STARK__OFFICIAL/status/1230794319633608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230794311106580500,
+					"id_str": "1230794311106580481",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ERSo56kUUAE_gBv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERSo56kUUAE_gBv.jpg",
+					"url": "https://t.co/SFcfIwM1gt",
+					"display_url": "pic.twitter.com/SFcfIwM1gt",
+					"expanded_url": "https://twitter.com/STARK__OFFICIAL/status/1230794319633608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 976446175598460900,
+			"id_str": "976446175598460928",
+			"name": "STARK",
+			"screen_name": "STARK__OFFICIAL",
+			"location": "대한민국",
+			"description": "💫 Leader of global KPOP, STAR K / IDOL LEAGUE 👉 Moment🔍\n\n💫 글로벌 KPOP의 선두주자, 스타케이 https://t.co/c9AO49l22o",
+			"url": "https://t.co/y36GDYxBiD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y36GDYxBiD",
+							"expanded_url": "http://www.star-k.tv/",
+							"display_url": "star-k.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9AO49l22o",
+							"expanded_url": "http://youtube.com/STARK_official",
+							"display_url": "youtube.com/STARK_official",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17758,
+			"friends_count": 718,
+			"listed_count": 130,
+			"created_at": "Wed Mar 21 13:11:24 +0000 2018",
+			"favourites_count": 277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979755129363574784/Y9ouhieC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979755129363574784/Y9ouhieC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/976446175598460928/1582163937",
+			"profile_link_color": "E6357F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1316,
+		"favorite_count": 3052,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#IDOL_LEAGUE] #이달소 \n\n1⃣ https://t.co/zBxY6OZY8p\n2⃣ https://t.co/ksEGGjwC01\n3⃣ https://t.co/YvL0YEJODP\n4⃣ https://t.co/CqHMlm5JDK\n\n#아이돌리그 #이달의소녀 #LOONA @loonatheworld https://t.co/SFcfIwM1gt"
+	},
+	{
+		"created_at": "Fri Feb 21 10:24:31 +0000 2020",
+		"id": 1230800357204226000,
+		"id_str": "1230800458463301635",
+		"full_text": "200220 #엠카운트다운 포토타임 비하인드\n다운받을사람 다운받아가ㅋ\n★하두리 얼짱 포즈(๑ᴖ ᴈᴖ)★\n\n▼비하인드▼\nhttps://t.co/aTKAtb9iGr\n\n#한결도현 #IZONE #KARD #THEBOYZ #VERIVERY #골든차일드 #드림캐쳐 #로켓펀치 #시그니처 #에버글로우 #여자친구 #위키미키 #이달의소녀 #체리블렛 #펜타곤 https://t.co/B4LOexNcSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "한결도현",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "IZONE",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "시그니처",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "에버글로우",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "여자친구",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "체리블렛",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "펜타곤",
+					"indices": [
+						186,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aTKAtb9iGr",
+					"expanded_url": "https://youtu.be/6g-GStFYr-Q",
+					"display_url": "youtu.be/6g-GStFYr-Q",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230800342830309400,
+					"id_str": "1230800342830309376",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ERSuZAfUYAAp8vR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERSuZAfUYAAp8vR.jpg",
+					"url": "https://t.co/B4LOexNcSN",
+					"display_url": "pic.twitter.com/B4LOexNcSN",
+					"expanded_url": "https://twitter.com/MnetKR/status/1230800357204226048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230800342830309400,
+					"id_str": "1230800342830309376",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ERSuZAfUYAAp8vR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERSuZAfUYAAp8vR.jpg",
+					"url": "https://t.co/B4LOexNcSN",
+					"display_url": "pic.twitter.com/B4LOexNcSN",
+					"expanded_url": "https://twitter.com/MnetKR/status/1230800357204226048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2726884,
+			"friends_count": 22149,
+			"listed_count": 3349,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/687562624523829248/SbSEyFaw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/687562624523829248/SbSEyFaw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1575507161",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 382,
+		"favorite_count": 644,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200220 #엠카운트다운 포토타임 비하인드\n다운받을사람 다운받아가ㅋ\n★하두리 얼짱 포즈(๑ᴖ ᴈᴖ)★\n\n▼비하인드▼\nhttps://t.co/aTKAtb9iGr\n\n#한결도현 #IZONE #KARD #THEBOYZ #VERIVERY #골든차일드 #드림캐쳐 #로켓펀치 #시그니처 #에버글로우 #여자친구 #위키미키 #이달의소녀 #체리블렛 #펜타곤 https://t.co/B4LOexNcSN"
+	},
+	{
 		"created_at": "Fri Feb 21 09:49:08 +0000 2020",
 		"id": 1230791555725897700,
 		"id_str": "1230791555725897729",
