@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 04:35:24 +0000 2020",
+		"id": 1230711108488421400,
+		"id_str": "1230712600045834240",
+		"full_text": "쩐의전쟁, 뿌리깊은나무, 별에서 온 그대\n그리고 2020년 &lt;하이에나&gt;\n이번에도 #장태유 감독의\n미친 연출력 믿어요🙏🏻\n\n#하이에나\n오늘 [금] 밤 10시 첫 방송\n #HYENA #김혜수 #주지훈 #별에서온그대 #뿌리깊은나무 #바람의화원 #쩐의전쟁 #장태유PD #KimHyeSoo #JooJiHoon https://t.co/QHSmIaiwDK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장태유",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "하이에나",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "HYENA",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "김혜수",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "주지훈",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "별에서온그대",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "뿌리깊은나무",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "바람의화원",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "쩐의전쟁",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "장태유PD",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "KimHyeSoo",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "JooJiHoon",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230710840807968800,
+					"id_str": "1230710840807968771",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230710840807968771/pu/img/Fz7UOz0KTdLunrGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230710840807968771/pu/img/Fz7UOz0KTdLunrGU.jpg",
+					"url": "https://t.co/QHSmIaiwDK",
+					"display_url": "pic.twitter.com/QHSmIaiwDK",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1230711108488421378/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230710840807968800,
+					"id_str": "1230710840807968771",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230710840807968771/pu/img/Fz7UOz0KTdLunrGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230710840807968771/pu/img/Fz7UOz0KTdLunrGU.jpg",
+					"url": "https://t.co/QHSmIaiwDK",
+					"display_url": "pic.twitter.com/QHSmIaiwDK",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1230711108488421378/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230710840807968771/pu/vid/480x270/hgwC7XPMPOzzgJb6.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230710840807968771/pu/vid/640x360/fsBBGrHetuXh9GsB.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230710840807968771/pu/pl/oA3FQhhThF_MoJvH.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230710840807968771/pu/vid/1280x720/u50YG3cEA7PSfPsL.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1544554,
+			"friends_count": 6893,
+			"listed_count": 3176,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217002699171872771/rkA0yudz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217002699171872771/rkA0yudz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1578991119",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쩐의전쟁, 뿌리깊은나무, 별에서 온 그대\n그리고 2020년 &lt;하이에나&gt;\n이번에도 #장태유 감독의\n미친 연출력 믿어요🙏🏻\n\n#하이에나\n오늘 [금] 밤 10시 첫 방송\n #HYENA #김혜수 #주지훈 #별에서온그대 #뿌리깊은나무 #바람의화원 #쩐의전쟁 #장태유PD #KimHyeSoo #JooJiHoon https://t.co/QHSmIaiwDK"
+	},
+	{
+		"created_at": "Fri Feb 21 04:24:51 +0000 2020",
+		"id": 1230703826786668500,
+		"id_str": "1230709945194074120",
+		"full_text": "#LIVE :[Simply K-Pop] Ep.402 Down for your love💕\n\n#PENTAGON #TheBoyz #Dreamcatcher #EVERGLOW #KARD #LOONA #RocketPunch #BLACK6IX #3YE #DKB #JUNE #cignature #Kpop https://t.co/I7esOp9eQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIVE",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "TheBoyz",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "EVERGLOW",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "RocketPunch",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "BLACK6IX",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "3YE",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "DKB",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "JUNE",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "cignature",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "Kpop",
+					"indices": [
+						156,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I7esOp9eQz",
+					"expanded_url": "https://twitter.com/i/broadcasts/1dRKZQpWDPzxB",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505587119,
+			"id_str": "505587119",
+			"name": "Simplykpop",
+			"screen_name": "_Simplykpop",
+			"location": "",
+			"description": "∎해외 아리랑월드채널: 금요일 PM 1시  ∎한국 아리랑채널: 금요일 PM 1시 ∎World Arirang Channel: Friday 1PM KST   ∎Korea Arirang Channel: Friday 1PM KST https://t.co/Wh92uO9fSs",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Wh92uO9fSs",
+							"expanded_url": "http://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 356527,
+			"friends_count": 241,
+			"listed_count": 1391,
+			"created_at": "Mon Feb 27 07:32:00 +0000 2012",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184481211789365248/FtY-a-LE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184481211789365248/FtY-a-LE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505587119/1571237354",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LIVE :[Simply K-Pop] Ep.402 Down for your love💕\n\n#PENTAGON #TheBoyz #Dreamcatcher #EVERGLOW #KARD #LOONA #RocketPunch #BLACK6IX #3YE #DKB #JUNE #cignature #Kpop https://t.co/I7esOp9eQz"
+	},
+	{
 		"created_at": "Fri Feb 21 03:53:06 +0000 2020",
 		"id": 1230371503864049700,
 		"id_str": "1230701958555529217",
