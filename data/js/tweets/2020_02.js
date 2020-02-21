@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 14:24:27 +0000 2020",
+		"id": 1230854692080582700,
+		"id_str": "1230860840913510407",
+		"full_text": "[#ShowbizKorea] Lee Yu-bi(#이유비💕) &amp; Joy(#조이, Red Velvet💕)! Celebrities' Long boots Fashion🌟\n\n#Longboots #LeeYubi #Joy #레드벨벳 https://t.co/BkOUbNruQE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShowbizKorea",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"text": "이유비",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "Longboots",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "LeeYubi",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "Joy",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230647127413383200,
+					"id_str": "1230647127413383168",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ERQlEzuVAAAGlnB.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERQlEzuVAAAGlnB.png",
+					"url": "https://t.co/BkOUbNruQE",
+					"display_url": "pic.twitter.com/BkOUbNruQE",
+					"expanded_url": "https://twitter.com/arirangworld/status/1230854692080582657/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230647127413383200,
+					"id_str": "1230647127413383168",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ERQlEzuVAAAGlnB.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERQlEzuVAAAGlnB.png",
+					"url": "https://t.co/BkOUbNruQE",
+					"display_url": "pic.twitter.com/BkOUbNruQE",
+					"expanded_url": "https://twitter.com/arirangworld/status/1230854692080582657/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 274700,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1230647127413383168/pl/UH9HxEEmddXUgC3j.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230647127413383168/vid/480x270/Gcs1N9MGZFO3T6Mx.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230647127413383168/vid/640x360/6CoiSrdeFB4ET_7b.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230647127413383168/vid/1280x720/ySnw_JQqRM6WtB2h.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163157,
+			"friends_count": 215,
+			"listed_count": 1358,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 5667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#ShowbizKorea] Lee Yu-bi(#이유비💕) &amp; Joy(#조이, Red Velvet💕)! Celebrities' Long boots Fashion🌟\n\n#Longboots #LeeYubi #Joy #레드벨벳 https://t.co/BkOUbNruQE"
+	},
+	{
 		"created_at": "Fri Feb 21 14:00:13 +0000 2020",
 		"id": 1230381657443590100,
 		"id_str": "1230854741103562752",
