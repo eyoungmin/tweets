@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 00:47:30 +0000 2020",
+		"id": 1230999859991171000,
+		"id_str": "1231017635380264960",
+		"full_text": "페이스북 “음성 녹음 정보 준 사용자에 5달러 현금 보상” https://t.co/wWiYGx6B1C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wWiYGx6B1C",
+					"expanded_url": "http://www.bloter.net/archives/372013",
+					"display_url": "bloter.net/archives/372013",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56320,
+			"friends_count": 9,
+			"listed_count": 2514,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북 “음성 녹음 정보 준 사용자에 5달러 현금 보상” https://t.co/wWiYGx6B1C"
+	},
+	{
+		"created_at": "Sat Feb 22 00:40:44 +0000 2020",
+		"id": 1231013256094871600,
+		"id_str": "1231015932358799360",
+		"full_text": "#ROSÉ sneak peek. The new BLACKPINK collectible line coming this Summer @Jazwares\n\n#Jazwares #BLACKPINK #블랙핑크 #로제 #YG https://t.co/FzI6J9suaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Jazwares",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						114,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jazwares",
+					"name": "Jazwares",
+					"id": 42682694,
+					"id_str": "42682694",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230761401683079200,
+					"id_str": "1230761401683079168",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ERSLhpKUcAAMv5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERSLhpKUcAAMv5u.jpg",
+					"url": "https://t.co/FzI6J9suaZ",
+					"display_url": "pic.twitter.com/FzI6J9suaZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1231013256094871552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1148,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230761401683079200,
+					"id_str": "1230761401683079168",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ERSLhpKUcAAMv5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERSLhpKUcAAMv5u.jpg",
+					"url": "https://t.co/FzI6J9suaZ",
+					"display_url": "pic.twitter.com/FzI6J9suaZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1231013256094871552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1148,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18727,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230761401683079168/vid/640x360/rGQ1FdOiLxqPqvr9.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230761401683079168/vid/1280x720/EKJ6ergPiwyQapIp.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1230761401683079168/vid/480x270/Ie9KAgLFyKjgikqF.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1230761401683079168/pl/Tmn3suOyEsu4Mjeo.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK New Collectible Dolls_ROSÉ ver.",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5740078,
+			"friends_count": 41,
+			"listed_count": 7808,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2772,
+		"favorite_count": 9027,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ROSÉ sneak peek. The new BLACKPINK collectible line coming this Summer @Jazwares\n\n#Jazwares #BLACKPINK #블랙핑크 #로제 #YG https://t.co/FzI6J9suaZ"
+	},
+	{
 		"created_at": "Fri Feb 21 23:40:47 +0000 2020",
 		"id": 1230998147758870500,
 		"id_str": "1231000846965575682",
