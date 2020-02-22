@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 09:40:37 +0000 2020",
+		"id": 1231141682852196400,
+		"id_str": "1231151801967300608",
+		"full_text": "🚂이달의 탐탐탐 (LOONA the TAM) EP.03\n⠀\n#이달의소녀 를 떨게 한 놀이기구에 당당히 도전한 멤버들🔥\n그리고 엉망진창 상징 동물 찾기의 미션 결과가 밝혀집니다!\n\n▶️ https://t.co/6b3fnzfTZl\n\n#이달의탐탐탐 #LOONA #LOONATHETAM #TravelAndMore",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "이달의탐탐탐",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "LOONATHETAM",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "TravelAndMore",
+					"indices": [
+						156,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6b3fnzfTZl",
+					"expanded_url": "https://youtu.be/fdBv9NGU-r8",
+					"display_url": "youtu.be/fdBv9NGU-r8",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423368,
+			"friends_count": 0,
+			"listed_count": 5897,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1147,
+		"favorite_count": 2720,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🚂이달의 탐탐탐 (LOONA the TAM) EP.03\n⠀\n#이달의소녀 를 떨게 한 놀이기구에 당당히 도전한 멤버들🔥\n그리고 엉망진창 상징 동물 찾기의 미션 결과가 밝혀집니다!\n\n▶️ https://t.co/6b3fnzfTZl\n\n#이달의탐탐탐 #LOONA #LOONATHETAM #TravelAndMore"
+	},
+	{
+		"created_at": "Sat Feb 22 09:24:26 +0000 2020",
+		"id": 1231141778465493000,
+		"id_str": "1231147729432326145",
+		"full_text": "👉&lt;본 대로 말하라&gt; 7화 미리보기👉\n납치 된 아이를 찾아야 한다!😢\n\n현재에게 공조를 요청한 수영!😎\n그런데, 용의자의 차량이 버려진채 발견됐다?!\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/tpLESy91Sn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231141766457254000,
+					"id_str": "1231141766457253893",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXk6enU4AUqFr6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXk6enU4AUqFr6.jpg",
+					"url": "https://t.co/tpLESy91Sn",
+					"display_url": "pic.twitter.com/tpLESy91Sn",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231141778465492993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231141766457254000,
+					"id_str": "1231141766457253893",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXk6enU4AUqFr6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXk6enU4AUqFr6.jpg",
+					"url": "https://t.co/tpLESy91Sn",
+					"display_url": "pic.twitter.com/tpLESy91Sn",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231141778465492993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231141769900785700,
+					"id_str": "1231141769900785665",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXk6rcVAAE2wf4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXk6rcVAAE2wf4.jpg",
+					"url": "https://t.co/tpLESy91Sn",
+					"display_url": "pic.twitter.com/tpLESy91Sn",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231141778465492993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231141772912259000,
+					"id_str": "1231141772912259073",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXk62qUcAEhpx1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXk62qUcAEhpx1.jpg",
+					"url": "https://t.co/tpLESy91Sn",
+					"display_url": "pic.twitter.com/tpLESy91Sn",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231141778465492993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231141775986675700,
+					"id_str": "1231141775986675713",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXk7CHUUAEoAKc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXk7CHUUAEoAKc.jpg",
+					"url": "https://t.co/tpLESy91Sn",
+					"display_url": "pic.twitter.com/tpLESy91Sn",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231141778465492993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44739,
+			"friends_count": 1,
+			"listed_count": 250,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👉&lt;본 대로 말하라&gt; 7화 미리보기👉\n납치 된 아이를 찾아야 한다!😢\n\n현재에게 공조를 요청한 수영!😎\n그런데, 용의자의 차량이 버려진채 발견됐다?!\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/tpLESy91Sn"
+	},
+	{
 		"created_at": "Sat Feb 22 08:40:41 +0000 2020",
 		"id": 1231128122231115800,
 		"id_str": "1231136716326658049",
