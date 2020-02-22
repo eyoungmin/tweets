@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 12:28:37 +0000 2020",
+		"id": 1231194077678338000,
+		"id_str": "1231194077678338048",
+		"full_text": "구찌는 프로모션 광고도 엄청 하는데 정작 패션에 관심많고 옷 좋아하는 사람들도 싫다는 의견이 다수임. 그로테스크한 것을 넘어서 비인간적인 컬렉션이라 보기가 싫음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 907,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "구찌는 프로모션 광고도 엄청 하는데 정작 패션에 관심많고 옷 좋아하는 사람들도 싫다는 의견이 다수임. 그로테스크한 것을 넘어서 비인간적인 컬렉션이라 보기가 싫음."
+	},
+	{
+		"created_at": "Sat Feb 22 12:04:44 +0000 2020",
+		"id": 1231140302318010400,
+		"id_str": "1231188070201823232",
+		"full_text": "구찌는 꾸준히 그로테스크한걸 밀더니 이젠 사리분간&amp;시대흐름 파악 못하고 거식증 환자같은 성냥같은 여자 모델들을 쇼에 세워서 패션 일러스트같은 룩을 보여주고.패션쪽에서 지나친 마른 모델 선호로 꾸준히 문제제기 하는 사람들이 있는데도 빅 메종들이 이러고 있으니. + 정상체중은 역시 수요x https://t.co/5EbDQECYW0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231140293015064600,
+					"id_str": "1231140293015064576",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXjktnVUAARiaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXjktnVUAARiaO.jpg",
+					"url": "https://t.co/5EbDQECYW0",
+					"display_url": "pic.twitter.com/5EbDQECYW0",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1231140302318010368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1052,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1052,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231140293015064600,
+					"id_str": "1231140293015064576",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXjktnVUAARiaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXjktnVUAARiaO.jpg",
+					"url": "https://t.co/5EbDQECYW0",
+					"display_url": "pic.twitter.com/5EbDQECYW0",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1231140302318010368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1052,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1052,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231140293015027700,
+					"id_str": "1231140293015027712",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXjktnUwAALMYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXjktnUwAALMYe.jpg",
+					"url": "https://t.co/5EbDQECYW0",
+					"display_url": "pic.twitter.com/5EbDQECYW0",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1231140302318010368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 464,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 464,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231140293010837500,
+					"id_str": "1231140293010837505",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXjktmU0AEweok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXjktmU0AEweok.jpg",
+					"url": "https://t.co/5EbDQECYW0",
+					"display_url": "pic.twitter.com/5EbDQECYW0",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1231140302318010368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231140293006643200,
+					"id_str": "1231140293006643201",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ERXjktlU0AElckc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERXjktlU0AElckc.jpg",
+					"url": "https://t.co/5EbDQECYW0",
+					"display_url": "pic.twitter.com/5EbDQECYW0",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1231140302318010368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114251007,
+			"id_str": "1114251007",
+			"name": "𝐿𝑒𝑠𝑠 𝑖𝑠 𝐿𝑒𝑠𝑠",
+			"screen_name": "lessislessxx",
+			"location": "미술과패션일을하던(旧)외노자",
+			"description": "無人島 | 너의 생각 궁금하지 않습니다 | #소비생활백과 해시주인 | 📓@lessisless_ |체인미러블락사용 | 비팔알림뮤트중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6187,
+			"friends_count": 975,
+			"listed_count": 20,
+			"created_at": "Wed Jan 23 12:20:24 +0000 2013",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209533218233278464/GFHMnRM6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209533218233278464/GFHMnRM6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114251007/1581609481",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 858,
+		"favorite_count": 319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구찌는 꾸준히 그로테스크한걸 밀더니 이젠 사리분간&amp;시대흐름 파악 못하고 거식증 환자같은 성냥같은 여자 모델들을 쇼에 세워서 패션 일러스트같은 룩을 보여주고.패션쪽에서 지나친 마른 모델 선호로 꾸준히 문제제기 하는 사람들이 있는데도 빅 메종들이 이러고 있으니. + 정상체중은 역시 수요x https://t.co/5EbDQECYW0"
+	},
+	{
 		"created_at": "Sat Feb 22 11:38:40 +0000 2020",
 		"id": 1231181506963329000,
 		"id_str": "1231181506963329024",
