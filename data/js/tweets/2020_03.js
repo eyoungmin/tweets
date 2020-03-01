@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 01 04:24:26 +0000 2020",
+		"id": 1233965183388635100,
+		"id_str": "1233971334423699456",
+		"full_text": "#소녀시대 춤신춤왕이자 취미 부자 #효연\n\n인턴 판매 요정 #신동 과 3MC의 판매왕\n자리를 두고 펼펴진 직거래 추격전?!\n\n과연, 중고거래 서바이벌의 최종 승자는?\n▶오늘(일) 저녁 7시 40분 #유랑마켓\n\n※ 공지 ※\n포털사이트에서 ‘유랑마켓’으로 운영되고\n있는 상품 판매 스토어는 방송과 무관합니다. https://t.co/WQy0ectedP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "신동",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "유랑마켓",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1233312081992007700,
+					"id_str": "1233312081992007682",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ER2pGXVUcAAlVzr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER2pGXVUcAAlVzr.jpg",
+					"url": "https://t.co/WQy0ectedP",
+					"display_url": "pic.twitter.com/WQy0ectedP",
+					"expanded_url": "https://twitter.com/jtbclove/status/1233965183388635137/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233312081992007700,
+					"id_str": "1233312081992007682",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ER2pGXVUcAAlVzr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER2pGXVUcAAlVzr.jpg",
+					"url": "https://t.co/WQy0ectedP",
+					"display_url": "pic.twitter.com/WQy0ectedP",
+					"expanded_url": "https://twitter.com/jtbclove/status/1233965183388635137/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44044,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1233312081992007682/vid/480x270/HSf2VM9s-sAzhiXM.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1233312081992007682/vid/640x360/KSzbXaHvDRiG65VP.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1233312081992007682/vid/1280x720/zk_zpp8GpIwc3AQ7.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1233312081992007682/pl/h1oSqky__LxfYmo0.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[유랑마켓] 3회 예고",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/trailer/pr10011169/pm10057181/vo10355326/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "JTBC",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 432669,
+			"friends_count": 114,
+			"listed_count": 753,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813661224802009088/sSSxXuV5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813661224802009088/sSSxXuV5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1581469262",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소녀시대 춤신춤왕이자 취미 부자 #효연\n\n인턴 판매 요정 #신동 과 3MC의 판매왕\n자리를 두고 펼펴진 직거래 추격전?!\n\n과연, 중고거래 서바이벌의 최종 승자는?\n▶오늘(일) 저녁 7시 40분 #유랑마켓\n\n※ 공지 ※\n포털사이트에서 ‘유랑마켓’으로 운영되고\n있는 상품 판매 스토어는 방송과 무관합니다. https://t.co/WQy0ectedP"
+	},
+	{
 		"created_at": "Sun Mar 01 04:01:47 +0000 2020",
 		"id": 1233965631512334300,
 		"id_str": "1233965631512334342",
