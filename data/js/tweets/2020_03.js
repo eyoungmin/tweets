@@ -1,6 +1,1315 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 01 16:24:26 +0000 2020",
+		"id": 1234138992968269800,
+		"id_str": "1234152528822120453",
+		"full_text": "[11화예고] 수영, 엄마를 죽인 뺑소니의 진실과 대면하다?\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/ezEfNFUolv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234138848440934400,
+					"id_str": "1234138848440934400",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234138848440934400/pu/img/ENHzWSttBlo8jbKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234138848440934400/pu/img/ENHzWSttBlo8jbKZ.jpg",
+					"url": "https://t.co/ezEfNFUolv",
+					"display_url": "pic.twitter.com/ezEfNFUolv",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234138992968269824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234138848440934400,
+					"id_str": "1234138848440934400",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234138848440934400/pu/img/ENHzWSttBlo8jbKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234138848440934400/pu/img/ENHzWSttBlo8jbKZ.jpg",
+					"url": "https://t.co/ezEfNFUolv",
+					"display_url": "pic.twitter.com/ezEfNFUolv",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234138992968269824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							641,
+							360
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1234138848440934400/pu/pl/WpFHro8waNDRyTXh.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234138848440934400/pu/vid/1282x720/rQfDANZLflwr5OpZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234138848440934400/pu/vid/480x270/IwH8A28LCREsDDsM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234138848440934400/pu/vid/640x360/5kuDsuFn51zSw0X8.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44807,
+			"friends_count": 1,
+			"listed_count": 252,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[11화예고] 수영, 엄마를 죽인 뺑소니의 진실과 대면하다?\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/ezEfNFUolv"
+	},
+	{
+		"created_at": "Sun Mar 01 16:17:41 +0000 2020",
+		"id": 1233454326460252200,
+		"id_str": "1234150827826110464",
+		"full_text": "💜순수함과 완벽함의 열망을 표현한 백조 같은 7, 화려하고 능수능란한 흑조를 닮은 7, 강렬한 직선미로 멤버들의 사명감을 강조한 7, 방탄소년단 본연의 모습을 보여주는 개성적 7. 이렇듯 다채로운 이미지의 변주로 '7'과 방탄소년단 멤버들을 시각적으로 조응시켰습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1233354542223220700,
+		"in_reply_to_status_id_str": "1233354542223220739",
+		"in_reply_to_user_id": 190907246,
+		"in_reply_to_user_id_str": "190907246",
+		"in_reply_to_screen_name": "sparksedition",
+		"user": {
+			"id": 190907246,
+			"id_str": "190907246",
+			"name": "sparks edition",
+			"screen_name": "sparksedition",
+			"location": "seoul",
+			"description": "Art & Graphic Design Studio by Jang Joonoh, A Jihye https://t.co/xV1ReoG4sl sparksedition@gmail.com",
+			"url": "https://t.co/hZgeJbVPMh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hZgeJbVPMh",
+							"expanded_url": "http://www.sparksedition.com",
+							"display_url": "sparksedition.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xV1ReoG4sl",
+							"expanded_url": "http://instagram.com/sparksedition",
+							"display_url": "instagram.com/sparksedition",
+							"indices": [
+								52,
+								75
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 735,
+			"friends_count": 59,
+			"listed_count": 4,
+			"created_at": "Wed Sep 15 03:45:05 +0000 2010",
+			"favourites_count": 434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579337304369557504/MiNA4EWb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579337304369557504/MiNA4EWb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190907246/1426959838",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 422,
+		"favorite_count": 1082,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💜순수함과 완벽함의 열망을 표현한 백조 같은 7, 화려하고 능수능란한 흑조를 닮은 7, 강렬한 직선미로 멤버들의 사명감을 강조한 7, 방탄소년단 본연의 모습을 보여주는 개성적 7. 이렇듯 다채로운 이미지의 변주로 '7'과 방탄소년단 멤버들을 시각적으로 조응시켰습니다."
+	},
+	{
+		"created_at": "Sun Mar 01 16:17:38 +0000 2020",
+		"id": 1233354542223220700,
+		"id_str": "1234150814735683584",
+		"full_text": "방탄소년단의 이번 앨범 ‘MAP OF THE SOUL : 7’의 브랜딩과 아트워크, 디자인을 진행했습니다.  \n그림자와 페르소나 사이에서 끊임없이 자신들의 자아를 찾아가는 방탄소년단 멤버들의 데뷔 후 7년간의 이야기를 7이라는 브랜드 마크에 담았습니다.\n#방탄소년단  #bts  #mapofthesoul7  #sparksedition https://t.co/awEK31Yyd7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방탄소년단",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "bts",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "mapofthesoul7",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"text": "sparksedition",
+					"indices": [
+						172,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1233354507284668400,
+					"id_str": "1233354507284668418",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/ER3BY8jUYAImXlI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER3BY8jUYAImXlI.jpg",
+					"url": "https://t.co/awEK31Yyd7",
+					"display_url": "pic.twitter.com/awEK31Yyd7",
+					"expanded_url": "https://twitter.com/sparksedition/status/1233354542223220739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233354507284668400,
+					"id_str": "1233354507284668418",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/ER3BY8jUYAImXlI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER3BY8jUYAImXlI.jpg",
+					"url": "https://t.co/awEK31Yyd7",
+					"display_url": "pic.twitter.com/awEK31Yyd7",
+					"expanded_url": "https://twitter.com/sparksedition/status/1233354542223220739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1233354507288862700,
+					"id_str": "1233354507288862722",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/ER3BY8kUYAInO22.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER3BY8kUYAInO22.jpg",
+					"url": "https://t.co/awEK31Yyd7",
+					"display_url": "pic.twitter.com/awEK31Yyd7",
+					"expanded_url": "https://twitter.com/sparksedition/status/1233354542223220739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1233354507288903700,
+					"id_str": "1233354507288903681",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/ER3BY8kVAAEETqP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER3BY8kVAAEETqP.jpg",
+					"url": "https://t.co/awEK31Yyd7",
+					"display_url": "pic.twitter.com/awEK31Yyd7",
+					"expanded_url": "https://twitter.com/sparksedition/status/1233354542223220739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1233354507288895500,
+					"id_str": "1233354507288895488",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/ER3BY8kU4AABaH4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER3BY8kU4AABaH4.jpg",
+					"url": "https://t.co/awEK31Yyd7",
+					"display_url": "pic.twitter.com/awEK31Yyd7",
+					"expanded_url": "https://twitter.com/sparksedition/status/1233354542223220739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 190907246,
+			"id_str": "190907246",
+			"name": "sparks edition",
+			"screen_name": "sparksedition",
+			"location": "seoul",
+			"description": "Art & Graphic Design Studio by Jang Joonoh, A Jihye https://t.co/xV1ReoG4sl sparksedition@gmail.com",
+			"url": "https://t.co/hZgeJbVPMh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hZgeJbVPMh",
+							"expanded_url": "http://www.sparksedition.com",
+							"display_url": "sparksedition.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xV1ReoG4sl",
+							"expanded_url": "http://instagram.com/sparksedition",
+							"display_url": "instagram.com/sparksedition",
+							"indices": [
+								52,
+								75
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 735,
+			"friends_count": 59,
+			"listed_count": 4,
+			"created_at": "Wed Sep 15 03:45:05 +0000 2010",
+			"favourites_count": 434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579337304369557504/MiNA4EWb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579337304369557504/MiNA4EWb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190907246/1426959838",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5785,
+		"favorite_count": 11995,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "방탄소년단의 이번 앨범 ‘MAP OF THE SOUL : 7’의 브랜딩과 아트워크, 디자인을 진행했습니다.  \n그림자와 페르소나 사이에서 끊임없이 자신들의 자아를 찾아가는 방탄소년단 멤버들의 데뷔 후 7년간의 이야기를 7이라는 브랜드 마크에 담았습니다.\n#방탄소년단  #bts  #mapofthesoul7  #sparksedition https://t.co/awEK31Yyd7"
+	},
+	{
+		"created_at": "Sun Mar 01 16:17:24 +0000 2020",
+		"id": 1234133537537704000,
+		"id_str": "1234150757617684480",
+		"full_text": "각 멤버별 마크입니다. #MapOfTheSoul7 #mots7 @BTS_twt https://t.co/y1PMU2wKBM https://t.co/S9INLxTFSf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MapOfTheSoul7",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"text": "mots7",
+					"indices": [
+						28,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y1PMU2wKBM",
+					"expanded_url": "https://twitter.com/sparksedition/status/1234133034904899590",
+					"display_url": "twitter.com/sparksedition/…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234133512929677300,
+					"id_str": "1234133512929677317",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/ESCF5CuUEAUvdxk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESCF5CuUEAUvdxk.jpg",
+					"url": "https://t.co/S9INLxTFSf",
+					"display_url": "pic.twitter.com/S9INLxTFSf",
+					"expanded_url": "https://twitter.com/sparksedition/status/1234133537537703936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234133512929677300,
+					"id_str": "1234133512929677317",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/ESCF5CuUEAUvdxk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESCF5CuUEAUvdxk.jpg",
+					"url": "https://t.co/S9INLxTFSf",
+					"display_url": "pic.twitter.com/S9INLxTFSf",
+					"expanded_url": "https://twitter.com/sparksedition/status/1234133537537703936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234133512988422100,
+					"id_str": "1234133512988422144",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/ESCF5C8UcAAq3Hd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESCF5C8UcAAq3Hd.jpg",
+					"url": "https://t.co/S9INLxTFSf",
+					"display_url": "pic.twitter.com/S9INLxTFSf",
+					"expanded_url": "https://twitter.com/sparksedition/status/1234133537537703936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234133513059725300,
+					"id_str": "1234133513059725317",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/ESCF5DNUcAU_kwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESCF5DNUcAU_kwy.jpg",
+					"url": "https://t.co/S9INLxTFSf",
+					"display_url": "pic.twitter.com/S9INLxTFSf",
+					"expanded_url": "https://twitter.com/sparksedition/status/1234133537537703936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234133513181352000,
+					"id_str": "1234133513181351937",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/ESCF5DqUUAE7Giu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESCF5DqUUAE7Giu.jpg",
+					"url": "https://t.co/S9INLxTFSf",
+					"display_url": "pic.twitter.com/S9INLxTFSf",
+					"expanded_url": "https://twitter.com/sparksedition/status/1234133537537703936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1234133034904899600,
+		"in_reply_to_status_id_str": "1234133034904899590",
+		"in_reply_to_user_id": 190907246,
+		"in_reply_to_user_id_str": "190907246",
+		"in_reply_to_screen_name": "sparksedition",
+		"user": {
+			"id": 190907246,
+			"id_str": "190907246",
+			"name": "sparks edition",
+			"screen_name": "sparksedition",
+			"location": "seoul",
+			"description": "Art & Graphic Design Studio by Jang Joonoh, A Jihye https://t.co/xV1ReoG4sl sparksedition@gmail.com",
+			"url": "https://t.co/hZgeJbVPMh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hZgeJbVPMh",
+							"expanded_url": "http://www.sparksedition.com",
+							"display_url": "sparksedition.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xV1ReoG4sl",
+							"expanded_url": "http://instagram.com/sparksedition",
+							"display_url": "instagram.com/sparksedition",
+							"indices": [
+								52,
+								75
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 735,
+			"friends_count": 59,
+			"listed_count": 4,
+			"created_at": "Wed Sep 15 03:45:05 +0000 2010",
+			"favourites_count": 434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579337304369557504/MiNA4EWb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579337304369557504/MiNA4EWb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190907246/1426959838",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234133034904899600,
+		"quoted_status_id_str": "1234133034904899590",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y1PMU2wKBM",
+			"expanded": "https://twitter.com/sparksedition/status/1234133034904899590",
+			"display": "twitter.com/sparksedition/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 01 15:06:59 +0000 2020",
+			"id": 1234133034904899600,
+			"id_str": "1234133034904899590",
+			"full_text": "#방탄소년단 의 이번 앨범 ‘MAP OF THE SOUL : 7’의 브랜딩과 아트워크, 디자인을 진행했습니다.\n-\n레이어되는 일곱가지의 7을 통해 멤버들의 7년간의 불안과 그림자, 그리고 그들의 사명감이 축적되고 중첩되어 하나의 이미지로 표현되는 점을 가장 중요하게 작업했습니다.\n#sparksedition #bts https://t.co/gejZMeEK0V",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "방탄소년단",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "sparksedition",
+						"indices": [
+							157,
+							171
+						]
+					},
+					{
+						"text": "bts",
+						"indices": [
+							172,
+							176
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1234133021323739100,
+						"id_str": "1234133021323739137",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/ESCFcbWUwAEGOMD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESCFcbWUwAEGOMD.jpg",
+						"url": "https://t.co/gejZMeEK0V",
+						"display_url": "pic.twitter.com/gejZMeEK0V",
+						"expanded_url": "https://twitter.com/sparksedition/status/1234133034904899590/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1234133021323739100,
+						"id_str": "1234133021323739137",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/ESCFcbWUwAEGOMD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESCFcbWUwAEGOMD.jpg",
+						"url": "https://t.co/gejZMeEK0V",
+						"display_url": "pic.twitter.com/gejZMeEK0V",
+						"expanded_url": "https://twitter.com/sparksedition/status/1234133034904899590/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1234133021319544800,
+						"id_str": "1234133021319544832",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/ESCFcbVUwAAAXHL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESCFcbVUwAAAXHL.jpg",
+						"url": "https://t.co/gejZMeEK0V",
+						"display_url": "pic.twitter.com/gejZMeEK0V",
+						"expanded_url": "https://twitter.com/sparksedition/status/1234133034904899590/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 689,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 689,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1234133021323751400,
+						"id_str": "1234133021323751424",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/ESCFcbWU8AAUYzX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESCFcbWU8AAUYzX.jpg",
+						"url": "https://t.co/gejZMeEK0V",
+						"display_url": "pic.twitter.com/gejZMeEK0V",
+						"expanded_url": "https://twitter.com/sparksedition/status/1234133034904899590/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 689,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 689,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1234133021323751400,
+						"id_str": "1234133021323751425",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/ESCFcbWU8AECLMR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESCFcbWU8AECLMR.jpg",
+						"url": "https://t.co/gejZMeEK0V",
+						"display_url": "pic.twitter.com/gejZMeEK0V",
+						"expanded_url": "https://twitter.com/sparksedition/status/1234133034904899590/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 689,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 689,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 190907246,
+				"id_str": "190907246",
+				"name": "sparks edition",
+				"screen_name": "sparksedition",
+				"location": "seoul",
+				"description": "Art & Graphic Design Studio by Jang Joonoh, A Jihye https://t.co/xV1ReoG4sl sparksedition@gmail.com",
+				"url": "https://t.co/hZgeJbVPMh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hZgeJbVPMh",
+								"expanded_url": "http://www.sparksedition.com",
+								"display_url": "sparksedition.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xV1ReoG4sl",
+								"expanded_url": "http://instagram.com/sparksedition",
+								"display_url": "instagram.com/sparksedition",
+								"indices": [
+									52,
+									75
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 735,
+				"friends_count": 59,
+				"listed_count": 4,
+				"created_at": "Wed Sep 15 03:45:05 +0000 2010",
+				"favourites_count": 434,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/579337304369557504/MiNA4EWb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/579337304369557504/MiNA4EWb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/190907246/1426959838",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3755,
+			"favorite_count": 6341,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 1868,
+		"favorite_count": 3398,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "각 멤버별 마크입니다. #MapOfTheSoul7 #mots7 @BTS_twt https://t.co/y1PMU2wKBM https://t.co/S9INLxTFSf"
+	},
+	{
 		"created_at": "Sun Mar 01 14:40:38 +0000 2020",
 		"id": 1234123746488672300,
 		"id_str": "1234126402838024193",
