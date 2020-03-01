@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 01 19:50:38 +0000 2020",
+		"id": 1234015514449633300,
+		"id_str": "1234204419941490689",
+		"full_text": "대법원은 “합리적 근거가 없는 의심만으로 피해자 진술을 배척해서는 안 된다”며 “피해자의 명확한 거부 의사가 없었더라도 몰래 촬영하는 것은 성폭력 범죄가 될 수 있다”고 판단했다.\nhttps://t.co/hWceUmUUlH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hWceUmUUlH",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202003011513001&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 744481,
+			"friends_count": 80360,
+			"listed_count": 6439,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 82464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대법원은 “합리적 근거가 없는 의심만으로 피해자 진술을 배척해서는 안 된다”며 “피해자의 명확한 거부 의사가 없었더라도 몰래 촬영하는 것은 성폭력 범죄가 될 수 있다”고 판단했다.\nhttps://t.co/hWceUmUUlH"
+	},
+	{
+		"created_at": "Sun Mar 01 19:50:12 +0000 2020",
+		"id": 1234198838719565800,
+		"id_str": "1234204311208386560",
+		"full_text": "모두 힘있는 걸음으로 나를 따르라",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1234196538269716500,
+		"in_reply_to_status_id_str": "1234196538269716480",
+		"in_reply_to_user_id": 737696418492645400,
+		"in_reply_to_user_id_str": "737696418492645376",
+		"in_reply_to_screen_name": "iam_so_yoon",
+		"user": {
+			"id": 737696418492645400,
+			"id_str": "737696418492645376",
+			"name": "황소윤",
+			"screen_name": "iam_so_yoon",
+			"location": "",
+			"description": "새소윤",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4141,
+			"friends_count": 95,
+			"listed_count": 16,
+			"created_at": "Tue May 31 17:25:06 +0000 2016",
+			"favourites_count": 403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234200432089518080/r9alReRT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234200432089518080/r9alReRT_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "모두 힘있는 걸음으로 나를 따르라"
+	},
+	{
 		"created_at": "Sun Mar 01 17:37:23 +0000 2020",
 		"id": 1234170883914125300,
 		"id_str": "1234170883914125312",
