@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 15:40:38 +0000 2020",
+		"id": 1234493690652942300,
+		"id_str": "1234503890500018176",
+		"full_text": "전 세계 이달의 소녀와 함께 변화의 물결을 만들어 낸 #이달의소녀 의 #SoWhat 연습실 안무 영상이 공개되었습니다! 이달의 소녀 공식 유튜브 채널에서 풀버전 영상을 확인해 보세요🔥\n\n▶️ https://t.co/i2f59zTe28\n\n #LOONA https://t.co/dbSrt6xknr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i2f59zTe28",
+					"expanded_url": "https://youtu.be/Rr89LafnGKI",
+					"display_url": "youtu.be/Rr89LafnGKI",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234493683329687600,
+					"id_str": "1234493683329687555",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ESHNduBUYAMYkYD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESHNduBUYAMYkYD.jpg",
+					"url": "https://t.co/dbSrt6xknr",
+					"display_url": "pic.twitter.com/dbSrt6xknr",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1234493690652942336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1414,
+							"h": 791,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234493683329687600,
+					"id_str": "1234493683329687555",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ESHNduBUYAMYkYD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESHNduBUYAMYkYD.jpg",
+					"url": "https://t.co/dbSrt6xknr",
+					"display_url": "pic.twitter.com/dbSrt6xknr",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1234493690652942336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1414,
+							"h": 791,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428891,
+			"friends_count": 0,
+			"listed_count": 5966,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5501,
+		"favorite_count": 11296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전 세계 이달의 소녀와 함께 변화의 물결을 만들어 낸 #이달의소녀 의 #SoWhat 연습실 안무 영상이 공개되었습니다! 이달의 소녀 공식 유튜브 채널에서 풀버전 영상을 확인해 보세요🔥\n\n▶️ https://t.co/i2f59zTe28\n\n #LOONA https://t.co/dbSrt6xknr"
+	},
+	{
 		"created_at": "Mon Mar 02 15:13:15 +0000 2020",
 		"id": 1234497001284423700,
 		"id_str": "1234497001284423681",
