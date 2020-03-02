@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 08:40:09 +0000 2020",
+		"id": 1234379119447511000,
+		"id_str": "1234398074904014854",
+		"full_text": "코로나19 확산으로 피해를 입은 기업을 위한\n'코로나19 세정지원 전담 대응반'이 개설되었어요.\n자세히 보기 : https://t.co/mPMCulDlKy\n　\n#국세청 #코로나19 #세정지원 #코로나피해 #신종코로나바이러스 #코로나피해기업 https://t.co/Q67BCjiD8S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "국세청",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "세정지원",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "코로나피해",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "신종코로나바이러스",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "코로나피해기업",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mPMCulDlKy",
+					"expanded_url": "http://bit.ly/3cpqpBB",
+					"display_url": "bit.ly/3cpqpBB",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234379092482355200,
+					"id_str": "1234379092482355204",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ESFlPp2UcAQBi1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESFlPp2UcAQBi1i.jpg",
+					"url": "https://t.co/Q67BCjiD8S",
+					"display_url": "pic.twitter.com/Q67BCjiD8S",
+					"expanded_url": "https://twitter.com/ntskorea/status/1234379119447511040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234379092482355200,
+					"id_str": "1234379092482355204",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ESFlPp2UcAQBi1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESFlPp2UcAQBi1i.jpg",
+					"url": "https://t.co/Q67BCjiD8S",
+					"display_url": "pic.twitter.com/Q67BCjiD8S",
+					"expanded_url": "https://twitter.com/ntskorea/status/1234379119447511040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234379092474003500,
+					"id_str": "1234379092474003456",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ESFlPp0VAAAqD0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESFlPp0VAAAqD0x.jpg",
+					"url": "https://t.co/Q67BCjiD8S",
+					"display_url": "pic.twitter.com/Q67BCjiD8S",
+					"expanded_url": "https://twitter.com/ntskorea/status/1234379119447511040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144767345,
+			"id_str": "144767345",
+			"name": "국세청",
+			"screen_name": "ntskorea",
+			"location": "Republic of Korea",
+			"description": "안녕하세요? 국세청(세정홍보과)에서 운영하는 공식 트위터입니다.",
+			"url": "http://t.co/qxZQNeYEnK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qxZQNeYEnK",
+							"expanded_url": "http://nts.go.kr",
+							"display_url": "nts.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46541,
+			"friends_count": 12414,
+			"listed_count": 658,
+			"created_at": "Mon May 17 07:16:39 +0000 2010",
+			"favourites_count": 1801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/735017023097307136/067IMyH8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/735017023097307136/067IMyH8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144767345/1575621693",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 확산으로 피해를 입은 기업을 위한\n'코로나19 세정지원 전담 대응반'이 개설되었어요.\n자세히 보기 : https://t.co/mPMCulDlKy\n　\n#국세청 #코로나19 #세정지원 #코로나피해 #신종코로나바이러스 #코로나피해기업 https://t.co/Q67BCjiD8S"
+	},
+	{
+		"created_at": "Mon Mar 02 08:39:40 +0000 2020",
+		"id": 1234309793549996000,
+		"id_str": "1234397950299623425",
+		"full_text": "코로나19 피해\n중소·중견기업 및 소상공인을 위한\n금융지원을 대폭 강화합니다.\n\n신규자금, 기존 대출·보증 연장 등\n도움이 필요한 분들께서는\n가까운 정책금융기관 및 시중은행에\n문의해주시기 바랍니다.\n\n* 더 자세히 보기\nhttps://t.co/l8IpVnr0tU https://t.co/wQc4nxiVN9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l8IpVnr0tU",
+					"expanded_url": "https://blog.naver.com/blogfsc/221829106142",
+					"display_url": "blog.naver.com/blogfsc/221829…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234309712121696300,
+					"id_str": "1234309712121696256",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ESEmJL3UEAAuKvY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESEmJL3UEAAuKvY.jpg",
+					"url": "https://t.co/wQc4nxiVN9",
+					"display_url": "pic.twitter.com/wQc4nxiVN9",
+					"expanded_url": "https://twitter.com/fsckorea/status/1234309793549996034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234309712121696300,
+					"id_str": "1234309712121696256",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ESEmJL3UEAAuKvY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESEmJL3UEAAuKvY.jpg",
+					"url": "https://t.co/wQc4nxiVN9",
+					"display_url": "pic.twitter.com/wQc4nxiVN9",
+					"expanded_url": "https://twitter.com/fsckorea/status/1234309793549996034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234309749128102000,
+					"id_str": "1234309749128101888",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ESEmLVuVAAAZWBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESEmLVuVAAAZWBn.jpg",
+					"url": "https://t.co/wQc4nxiVN9",
+					"display_url": "pic.twitter.com/wQc4nxiVN9",
+					"expanded_url": "https://twitter.com/fsckorea/status/1234309793549996034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234309749291675600,
+					"id_str": "1234309749291675648",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ESEmLWVU8AAwr0o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESEmLWVU8AAwr0o.jpg",
+					"url": "https://t.co/wQc4nxiVN9",
+					"display_url": "pic.twitter.com/wQc4nxiVN9",
+					"expanded_url": "https://twitter.com/fsckorea/status/1234309793549996034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112578971,
+			"id_str": "112578971",
+			"name": "금융위원회",
+			"screen_name": "fsckorea",
+			"location": "37.523410,126.921873",
+			"description": "대한민국 정부 금융위원회 대변인실 입니다",
+			"url": "http://t.co/AnrLpf74aC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AnrLpf74aC",
+							"expanded_url": "http://www.fsc.go.kr",
+							"display_url": "fsc.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47212,
+			"friends_count": 9369,
+			"listed_count": 514,
+			"created_at": "Tue Feb 09 00:51:17 +0000 2010",
+			"favourites_count": 3512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/714602836965912576/wNWbvFps_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/714602836965912576/wNWbvFps_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112578971/1574990676",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 피해\n중소·중견기업 및 소상공인을 위한\n금융지원을 대폭 강화합니다.\n\n신규자금, 기존 대출·보증 연장 등\n도움이 필요한 분들께서는\n가까운 정책금융기관 및 시중은행에\n문의해주시기 바랍니다.\n\n* 더 자세히 보기\nhttps://t.co/l8IpVnr0tU https://t.co/wQc4nxiVN9"
+	},
+	{
 		"created_at": "Mon Mar 02 06:40:37 +0000 2020",
 		"id": 1234349442930634800,
 		"id_str": "1234367994517692416",
