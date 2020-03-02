@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 17:16:27 +0000 2020",
+		"id": 1234481113742971000,
+		"id_str": "1234528003968815107",
+		"full_text": "📸 M2 LIVE.#SnapShot\n\n🎤 https://t.co/YYlNCsM0H2\n\n#청하 #CHUNGHA\n#솔직히_지친다 #M2\n#M2라이브 #M2LIVE\n#New_wav Project https://t.co/mB6c8OCTb5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SnapShot",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "솔직히_지친다",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "M2",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "M2라이브",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "M2LIVE",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "New_wav",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YYlNCsM0H2",
+					"expanded_url": "https://bit.ly/3alpalf",
+					"display_url": "bit.ly/3alpalf",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234481090460389400,
+					"id_str": "1234481090460389376",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ESHCAt7UEAAwSU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESHCAt7UEAAwSU_.jpg",
+					"url": "https://t.co/mB6c8OCTb5",
+					"display_url": "pic.twitter.com/mB6c8OCTb5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1234481113742970883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234481090460389400,
+					"id_str": "1234481090460389376",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ESHCAt7UEAAwSU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESHCAt7UEAAwSU_.jpg",
+					"url": "https://t.co/mB6c8OCTb5",
+					"display_url": "pic.twitter.com/mB6c8OCTb5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1234481113742970883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234481090464637000,
+					"id_str": "1234481090464636928",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ESHCAt8U4AAz4Qr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESHCAt8U4AAz4Qr.jpg",
+					"url": "https://t.co/mB6c8OCTb5",
+					"display_url": "pic.twitter.com/mB6c8OCTb5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1234481113742970883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234481105060786200,
+					"id_str": "1234481105060786176",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ESHCBkUUcAAyROi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESHCBkUUcAAyROi.jpg",
+					"url": "https://t.co/mB6c8OCTb5",
+					"display_url": "pic.twitter.com/mB6c8OCTb5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1234481113742970883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234481105064956000,
+					"id_str": "1234481105064955904",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ESHCBkVUEAAIWjK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESHCBkVUEAAIWjK.jpg",
+					"url": "https://t.co/mB6c8OCTb5",
+					"display_url": "pic.twitter.com/mB6c8OCTb5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1234481113742970883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225744,
+			"friends_count": 0,
+			"listed_count": 1672,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1320,
+		"favorite_count": 5590,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📸 M2 LIVE.#SnapShot\n\n🎤 https://t.co/YYlNCsM0H2\n\n#청하 #CHUNGHA\n#솔직히_지친다 #M2\n#M2라이브 #M2LIVE\n#New_wav Project https://t.co/mB6c8OCTb5"
+	},
+	{
 		"created_at": "Mon Mar 02 15:40:38 +0000 2020",
 		"id": 1234493690652942300,
 		"id_str": "1234503890500018176",
