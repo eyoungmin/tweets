@@ -1,6 +1,888 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 03:01:13 +0000 2020",
+		"id": 1234312779382870000,
+		"id_str": "1234312779382870016",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Mar 2) https://t.co/71NSYv0e9m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/71NSYv0e9m",
+					"expanded_url": "https://nzzl.us/UM9S9kj",
+					"display_url": "nzzl.us/UM9S9kj",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Mar 2) https://t.co/71NSYv0e9m"
+	},
+	{
+		"created_at": "Mon Mar 02 02:24:26 +0000 2020",
+		"id": 1234297493455663000,
+		"id_str": "1234303523245953025",
+		"full_text": "“우리가 하는 일이,\n피해자들한테 조금이라도 위로가 되기를”\n\n비하인드 스틸로 10화 복습하기\n더 많은 고화질 스틸은▶️본말_공홈에서\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/kswb2jtVjm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						136,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234297482877661200,
+					"id_str": "1234297482877661185",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ESEbBWYU8AETGBV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESEbBWYU8AETGBV.jpg",
+					"url": "https://t.co/kswb2jtVjm",
+					"display_url": "pic.twitter.com/kswb2jtVjm",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234297493455663105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234297482877661200,
+					"id_str": "1234297482877661185",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ESEbBWYU8AETGBV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESEbBWYU8AETGBV.jpg",
+					"url": "https://t.co/kswb2jtVjm",
+					"display_url": "pic.twitter.com/kswb2jtVjm",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234297493455663105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234297485683642400,
+					"id_str": "1234297485683642368",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ESEbBg1U0AA-5H6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESEbBg1U0AA-5H6.jpg",
+					"url": "https://t.co/kswb2jtVjm",
+					"display_url": "pic.twitter.com/kswb2jtVjm",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234297493455663105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234297488443502600,
+					"id_str": "1234297488443502594",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ESEbBrHU8AIg6l_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESEbBrHU8AIg6l_.jpg",
+					"url": "https://t.co/kswb2jtVjm",
+					"display_url": "pic.twitter.com/kswb2jtVjm",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234297493455663105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234297491132039200,
+					"id_str": "1234297491132039170",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ESEbB1IUwAIO_7S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESEbB1IUwAIO_7S.jpg",
+					"url": "https://t.co/kswb2jtVjm",
+					"display_url": "pic.twitter.com/kswb2jtVjm",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234297493455663105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44814,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“우리가 하는 일이,\n피해자들한테 조금이라도 위로가 되기를”\n\n비하인드 스틸로 10화 복습하기\n더 많은 고화질 스틸은▶️본말_공홈에서\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/kswb2jtVjm"
+	},
+	{
+		"created_at": "Mon Mar 02 02:13:31 +0000 2020",
+		"id": 1234061765555540000,
+		"id_str": "1234300774244470785",
+		"full_text": "28.소녀시대 https://t.co/RyHDKRYPrk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234061759050158000,
+					"id_str": "1234061759050158080",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/ESBEoasUEAA3K-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESBEoasUEAA3K-b.jpg",
+					"url": "https://t.co/RyHDKRYPrk",
+					"display_url": "pic.twitter.com/RyHDKRYPrk",
+					"expanded_url": "https://twitter.com/custom_mic/status/1234061765555539968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234061759050158000,
+					"id_str": "1234061759050158080",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/ESBEoasUEAA3K-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESBEoasUEAA3K-b.jpg",
+					"url": "https://t.co/RyHDKRYPrk",
+					"display_url": "pic.twitter.com/RyHDKRYPrk",
+					"expanded_url": "https://twitter.com/custom_mic/status/1234061765555539968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234061759054352400,
+					"id_str": "1234061759054352386",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/ESBEoatUEAISHHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESBEoatUEAISHHy.jpg",
+					"url": "https://t.co/RyHDKRYPrk",
+					"display_url": "pic.twitter.com/RyHDKRYPrk",
+					"expanded_url": "https://twitter.com/custom_mic/status/1234061765555539968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234061759058567200,
+					"id_str": "1234061759058567168",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/ESBEoauUYAA_4aJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESBEoauUYAA_4aJ.jpg",
+					"url": "https://t.co/RyHDKRYPrk",
+					"display_url": "pic.twitter.com/RyHDKRYPrk",
+					"expanded_url": "https://twitter.com/custom_mic/status/1234061765555539968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219250009691971600,
+			"id_str": "1219250009691971584",
+			"name": "가수의 커스텀마이크봇",
+			"screen_name": "custom_mic",
+			"location": "틀린정보는 디엠으로 말씀해주세요!",
+			"description": "가수분들의 커스텀 마이크를 올립니다 | 디엠으로 제보해주세요🤍",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Mon Jan 20 13:27:15 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233618414473596929/faXQCw0k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233618414473596929/faXQCw0k_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 556,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "28.소녀시대 https://t.co/RyHDKRYPrk"
+	},
+	{
+		"created_at": "Mon Mar 02 02:12:27 +0000 2020",
+		"id": 1234131321334591500,
+		"id_str": "1234300504437485568",
+		"full_text": "MARCH 2nd, 2020\n1000 Days With CHUNG HA\n\n2017. 06. 07 ~ 2020. 03. 02\n청하의 솔로데뷔 1000일을 축하합니다🥳\n\n#청하 #CHUNGHA 💚💙💜\n#1000DaysWithCHUNGHA #1000DaysAnniversary\n#달과_별이_함께한_1000일 https://t.co/tIt2ZN7rgG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "1000DaysWithCHUNGHA",
+					"indices": [
+						110,
+						130
+					]
+				},
+				{
+					"text": "1000DaysAnniversary",
+					"indices": [
+						131,
+						151
+					]
+				},
+				{
+					"text": "달과_별이_함께한_1000일",
+					"indices": [
+						152,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234131290036699100,
+					"id_str": "1234131290036699136",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ESCD3pzVAAA5q1g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESCD3pzVAAA5q1g.jpg",
+					"url": "https://t.co/tIt2ZN7rgG",
+					"display_url": "pic.twitter.com/tIt2ZN7rgG",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1234131321334591488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234131290036699100,
+					"id_str": "1234131290036699136",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ESCD3pzVAAA5q1g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESCD3pzVAAA5q1g.jpg",
+					"url": "https://t.co/tIt2ZN7rgG",
+					"display_url": "pic.twitter.com/tIt2ZN7rgG",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1234131321334591488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225451,
+			"friends_count": 0,
+			"listed_count": 1675,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101853809888813056/hGFooHZ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1551535851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4868,
+		"favorite_count": 18470,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MARCH 2nd, 2020\n1000 Days With CHUNG HA\n\n2017. 06. 07 ~ 2020. 03. 02\n청하의 솔로데뷔 1000일을 축하합니다🥳\n\n#청하 #CHUNGHA 💚💙💜\n#1000DaysWithCHUNGHA #1000DaysAnniversary\n#달과_별이_함께한_1000일 https://t.co/tIt2ZN7rgG"
+	},
+	{
 		"created_at": "Mon Mar 02 01:40:40 +0000 2020",
 		"id": 1234290717205266400,
 		"id_str": "1234292505971060737",
