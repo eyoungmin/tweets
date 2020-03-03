@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 06:24:27 +0000 2020",
+		"id": 1234724422684008400,
+		"id_str": "1234726310112563200",
+		"full_text": "#주간아이돌 #주간아 @mbcweeklyidol\n#이달의소녀\n\n🗣이달의 소녀 좀 보면 안 돼요?\n세상 멋짐 다 가진 줄 알았더니\n💓뿌띠뿌띠💓까지 하잖아요🤭\n\n내일(3/4) 오후 5시‼️\n당신 &lt;주간아&gt; 본방사수하겠습니까?👌\n\n#비비 #이브 #진솔 #김립 #츄 \n#희진 #현진 #고원 #최리 \n#올리비아혜 #여진 https://t.co/wzv2pHjeqw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "주간아",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						148,
+						150
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mbcweeklyidol",
+					"name": "주간아이돌 (공식계정)",
+					"id": 1077860639928770600,
+					"id_str": "1077860639928770560",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234724408943530000,
+					"id_str": "1234724408943529986",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/ESKfTt6VUAIy-mr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESKfTt6VUAIy-mr.jpg",
+					"url": "https://t.co/wzv2pHjeqw",
+					"display_url": "pic.twitter.com/wzv2pHjeqw",
+					"expanded_url": "https://twitter.com/mbcweeklyidol/status/1234724422684008448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234724408943530000,
+					"id_str": "1234724408943529986",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/ESKfTt6VUAIy-mr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESKfTt6VUAIy-mr.jpg",
+					"url": "https://t.co/wzv2pHjeqw",
+					"display_url": "pic.twitter.com/wzv2pHjeqw",
+					"expanded_url": "https://twitter.com/mbcweeklyidol/status/1234724422684008448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1234724408935116800,
+					"id_str": "1234724408935116808",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/ESKfTt4U8AgRE_m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESKfTt4U8AgRE_m.jpg",
+					"url": "https://t.co/wzv2pHjeqw",
+					"display_url": "pic.twitter.com/wzv2pHjeqw",
+					"expanded_url": "https://twitter.com/mbcweeklyidol/status/1234724422684008448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077860639928770600,
+			"id_str": "1077860639928770560",
+			"name": "주간아이돌 (공식계정)",
+			"screen_name": "mbcweeklyidol",
+			"location": "",
+			"description": "❣️MBC M & every1 매주 수요일 오후 5시 방송❣️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32549,
+			"friends_count": 8,
+			"listed_count": 65,
+			"created_at": "Wed Dec 26 09:36:17 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229291978191323136/G_IQIfnl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229291978191323136/G_IQIfnl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077860639928770560/1581923218",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#주간아이돌 #주간아 @mbcweeklyidol\n#이달의소녀\n\n🗣이달의 소녀 좀 보면 안 돼요?\n세상 멋짐 다 가진 줄 알았더니\n💓뿌띠뿌띠💓까지 하잖아요🤭\n\n내일(3/4) 오후 5시‼️\n당신 &lt;주간아&gt; 본방사수하겠습니까?👌\n\n#비비 #이브 #진솔 #김립 #츄 \n#희진 #현진 #고원 #최리 \n#올리비아혜 #여진 https://t.co/wzv2pHjeqw"
+	},
+	{
 		"created_at": "Tue Mar 03 05:24:27 +0000 2020",
 		"id": 1234706241684852700,
 		"id_str": "1234711210312044545",
