@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 03:40:38 +0000 2020",
+		"id": 1234675030073626600,
+		"id_str": "1234685084336132098",
+		"full_text": "[이달의소녀탐구 #582]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/98ztBWJGlJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234674872015413200,
+					"id_str": "1234674872015413248",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234674872015413248/pu/img/eklJjgw4WL5zypdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234674872015413248/pu/img/eklJjgw4WL5zypdP.jpg",
+					"url": "https://t.co/98ztBWJGlJ",
+					"display_url": "pic.twitter.com/98ztBWJGlJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1234675030073626627/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234674872015413200,
+					"id_str": "1234674872015413248",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234674872015413248/pu/img/eklJjgw4WL5zypdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234674872015413248/pu/img/eklJjgw4WL5zypdP.jpg",
+					"url": "https://t.co/98ztBWJGlJ",
+					"display_url": "pic.twitter.com/98ztBWJGlJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1234675030073626627/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 60084,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234674872015413248/pu/vid/854x480/bJGzHppz495yRNi5.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234674872015413248/pu/vid/480x270/4aHxJM32aD6-m9AA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1234674872015413248/pu/pl/hM-GqnPS9a4IeLRC.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234674872015413248/pu/vid/640x360/n6G_5_HAgpZhU6bR.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429104,
+			"friends_count": 0,
+			"listed_count": 5964,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1916,
+		"favorite_count": 5579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #582]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/98ztBWJGlJ"
+	},
+	{
+		"created_at": "Tue Mar 03 03:31:08 +0000 2020",
+		"id": 1234682695080276000,
+		"id_str": "1234682695080275968",
+		"full_text": "1만 번의 순간 (1978화 | 2020년 03월 02일 방송) (4분 37초)\nhttps://t.co/kThBldYTMb\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kThBldYTMb",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20240389",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1만 번의 순간 (1978화 | 2020년 03월 02일 방송) (4분 37초)\nhttps://t.co/kThBldYTMb\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Tue Mar 03 03:25:22 +0000 2020",
+		"id": 1234486408187801600,
+		"id_str": "1234681245935603713",
+		"full_text": "내 결혼 기사에 달린 악플 중 약 20%가 \"사회가 무너지고 가정이 해체대고 블라블라\"였다. 50%를 차지하는 단순 욕설 다음으로 많았다. 그런데 또 한 쪽에서는 \"기성사회의 악습을 답습하고 가부장제에 부역하는 블라\" 얘기를 듣다니 같은 사건이라도 관찰자에 따라 코멘트가 갈리는게 흥미롭다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1160334914811621400,
+			"id_str": "1160334914811621377",
+			"name": "규지니어스",
+			"screen_name": "kyugenius",
+			"location": "",
+			"description": "김규진. 30세. 한국 국적 유부녀 레즈비언. 노빠꾸 오픈퀴어 인생 🌈\nhttps://t.co/9F8F7Q7RrK\n다 읽지만, 다 답하진 않습니다",
+			"url": "https://t.co/UQLphlZemV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQLphlZemV",
+							"expanded_url": "http://m.blog.naver.com/kyugenius",
+							"display_url": "m.blog.naver.com/kyugenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9F8F7Q7RrK",
+							"expanded_url": "http://peing.net/ko/kyugenius",
+							"display_url": "peing.net/ko/kyugenius",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15758,
+			"friends_count": 39,
+			"listed_count": 34,
+			"created_at": "Sat Aug 10 23:39:36 +0000 2019",
+			"favourites_count": 2412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194591234435629058/pnA5h_pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160334914811621377/1573649861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2440,
+		"favorite_count": 1263,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내 결혼 기사에 달린 악플 중 약 20%가 \"사회가 무너지고 가정이 해체대고 블라블라\"였다. 50%를 차지하는 단순 욕설 다음으로 많았다. 그런데 또 한 쪽에서는 \"기성사회의 악습을 답습하고 가부장제에 부역하는 블라\" 얘기를 듣다니 같은 사건이라도 관찰자에 따라 코멘트가 갈리는게 흥미롭다!"
+	},
+	{
+		"created_at": "Tue Mar 03 03:24:27 +0000 2020",
+		"id": 1234676145817129000,
+		"id_str": "1234681014108049408",
+		"full_text": "[쇼챔피언 344회(0304) 생방송 출연진]\n⭐방탄소년단의 스페셜 셀프 앨범 리뷰 영상 &lt;음.소.거&gt;⭐\n\n아이즈원 / 펜타곤 / 위키미키 / 드림캐쳐 / 이달의 소녀 / 체리블렛/ 스펙트럼 / 엘리스 / 다크비 / 3YE / About U / XENEX/ 천단비 / 안예은 / 퍼플레인 / 이본, 태라 / 데이드림",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 저녁 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/kg7On1VCNH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kg7On1VCNH",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1096166,
+			"friends_count": 1423,
+			"listed_count": 2580,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1024,
+		"favorite_count": 1502,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[쇼챔피언 344회(0304) 생방송 출연진]\n⭐방탄소년단의 스페셜 셀프 앨범 리뷰 영상 &lt;음.소.거&gt;⭐\n\n아이즈원 / 펜타곤 / 위키미키 / 드림캐쳐 / 이달의 소녀 / 체리블렛/ 스펙트럼 / 엘리스 / 다크비 / 3YE / About U / XENEX/ 천단비 / 안예은 / 퍼플레인 / 이본, 태라 / 데이드림"
+	},
+	{
 		"created_at": "Tue Mar 03 03:00:39 +0000 2020",
 		"id": 1234675022301548500,
 		"id_str": "1234675022301548547",
