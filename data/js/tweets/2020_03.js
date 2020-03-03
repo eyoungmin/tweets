@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 11:21:52 +0000 2020",
+		"id": 1234795656222347300,
+		"id_str": "1234801157546971137",
+		"full_text": "'청량' 청하냐 '분위기' 청하냐 뭣이 고민이여\n청하 IS 뭔들 아닙니까  ((ヽ(๑╹◡╹๑)ﾉ))♬\n　\n양자택일 보러가기 ☞ https://t.co/R55izMXLvo\n　\n[양자택일] 청하(CHUNG HA)\n　\n#청하 #CHUNGHA #솔직히지친다 https://t.co/SHWqgOJlns",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "솔직히지친다",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R55izMXLvo",
+					"expanded_url": "https://youtu.be/qxhEgMoizqM",
+					"display_url": "youtu.be/qxhEgMoizqM",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234765568076435500,
+					"id_str": "1234765568076435456",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ESLEvfoUUAAkiuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESLEvfoUUAAkiuL.jpg",
+					"url": "https://t.co/SHWqgOJlns",
+					"display_url": "pic.twitter.com/SHWqgOJlns",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1234795656222347268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234765568076435500,
+					"id_str": "1234765568076435456",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ESLEvfoUUAAkiuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESLEvfoUUAAkiuL.jpg",
+					"url": "https://t.co/SHWqgOJlns",
+					"display_url": "pic.twitter.com/SHWqgOJlns",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1234795656222347268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127719346,
+			"id_str": "127719346",
+			"name": "Stone Music Entertainment",
+			"screen_name": "StoneMusicEnt",
+			"location": "Korea",
+			"description": "Stone Music Entertainment Official Twitter",
+			"url": "https://t.co/Bv4HE5mLVt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bv4HE5mLVt",
+							"expanded_url": "http://bit.ly/StoneMusicYOUTUBE",
+							"display_url": "bit.ly/StoneMusicYOUT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102153,
+			"friends_count": 28,
+			"listed_count": 479,
+			"created_at": "Tue Mar 30 01:51:47 +0000 2010",
+			"favourites_count": 442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196980643709648896/Urw2i74z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196980643709648896/Urw2i74z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127719346/1580188102",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'청량' 청하냐 '분위기' 청하냐 뭣이 고민이여\n청하 IS 뭔들 아닙니까  ((ヽ(๑╹◡╹๑)ﾉ))♬\n　\n양자택일 보러가기 ☞ https://t.co/R55izMXLvo\n　\n[양자택일] 청하(CHUNG HA)\n　\n#청하 #CHUNGHA #솔직히지친다 https://t.co/SHWqgOJlns"
+	},
+	{
 		"created_at": "Tue Mar 03 11:00:27 +0000 2020",
 		"id": 1234795768164311000,
 		"id_str": "1234795768164311040",
