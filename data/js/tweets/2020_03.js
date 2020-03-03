@@ -1,6 +1,1806 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 09:54:38 +0000 2020",
+		"id": 1234754225655054300,
+		"id_str": "1234779204647972865",
+		"full_text": "#주간아이돌 #주간아 @mbcweeklyidol\n#이달의소녀 [선공개]\n\n애교 장관 효정이 인정한\n⭐️오또케송⭐️ 장인이 있다고요?\n바로 애교 자판기 츄에용💘\n\n내일(3/4) 오후 5시\n&lt;주간아이돌&gt; 본방사수‼️\nhttps://t.co/08ioVeTeyP\n\n#비비 #이브 #진솔 #김립 #츄 \n#희진 #현진 #고원 #최리 \n#올리비아혜 #여진",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "주간아",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						166,
+						168
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						194,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mbcweeklyidol",
+					"name": "주간아이돌 (공식계정)",
+					"id": 1077860639928770600,
+					"id_str": "1077860639928770560",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/08ioVeTeyP",
+					"expanded_url": "http://naver.me/5fS1Pu5S",
+					"display_url": "naver.me/5fS1Pu5S",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077860639928770600,
+			"id_str": "1077860639928770560",
+			"name": "주간아이돌 (공식계정)",
+			"screen_name": "mbcweeklyidol",
+			"location": "",
+			"description": "❣️MBC M & every1 매주 수요일 오후 5시 방송❣️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32559,
+			"friends_count": 8,
+			"listed_count": 66,
+			"created_at": "Wed Dec 26 09:36:17 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229291978191323136/G_IQIfnl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229291978191323136/G_IQIfnl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077860639928770560/1581923218",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 272,
+		"favorite_count": 393,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#주간아이돌 #주간아 @mbcweeklyidol\n#이달의소녀 [선공개]\n\n애교 장관 효정이 인정한\n⭐️오또케송⭐️ 장인이 있다고요?\n바로 애교 자판기 츄에용💘\n\n내일(3/4) 오후 5시\n&lt;주간아이돌&gt; 본방사수‼️\nhttps://t.co/08ioVeTeyP\n\n#비비 #이브 #진솔 #김립 #츄 \n#희진 #현진 #고원 #최리 \n#올리비아혜 #여진"
+	},
+	{
+		"created_at": "Tue Mar 03 09:54:29 +0000 2020",
+		"id": 1234720424228880400,
+		"id_str": "1234779169000550400",
+		"full_text": "[본말클립] 폭발사건의 유일한 증인 찾아내다?!\n드디어 맞닥뜨린 두 사람! 4789는 대체 무엇?🤔\n#10화_엔딩복습 #주말_존버_합니다ㅠㅠ\n\n오감 서스펜스 #본대로말하라 \n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/6XuRMDLZ2b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "10화_엔딩복습",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "주말_존버_합니다ㅠㅠ",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"text": "본대로말하라",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						141,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234720229789294600,
+					"id_str": "1234720229789294593",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234720229789294593/pu/img/yuzhzcAQLodmIhfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234720229789294593/pu/img/yuzhzcAQLodmIhfQ.jpg",
+					"url": "https://t.co/6XuRMDLZ2b",
+					"display_url": "pic.twitter.com/6XuRMDLZ2b",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234720424228880384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234720229789294600,
+					"id_str": "1234720229789294593",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234720229789294593/pu/img/yuzhzcAQLodmIhfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234720229789294593/pu/img/yuzhzcAQLodmIhfQ.jpg",
+					"url": "https://t.co/6XuRMDLZ2b",
+					"display_url": "pic.twitter.com/6XuRMDLZ2b",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234720424228880384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							641,
+							360
+						],
+						"duration_millis": 58225,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234720229789294593/pu/vid/480x270/BgXGfx3KRhhfHAAH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234720229789294593/pu/vid/640x360/NF84gxonSnE2OBMp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1234720229789294593/pu/pl/Ki8ThjiOStSZacqe.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234720229789294593/pu/vid/1282x720/BlnUqJDTiG2MgdSf.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44825,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1583151463",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[본말클립] 폭발사건의 유일한 증인 찾아내다?!\n드디어 맞닥뜨린 두 사람! 4789는 대체 무엇?🤔\n#10화_엔딩복습 #주말_존버_합니다ㅠㅠ\n\n오감 서스펜스 #본대로말하라 \n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/6XuRMDLZ2b"
+	},
+	{
+		"created_at": "Tue Mar 03 09:54:26 +0000 2020",
+		"id": 1234710910368768000,
+		"id_str": "1234779153854918656",
+		"full_text": "[#레벨업프로젝트] 전 회차 몰아보기!\n잠시 후 3시 (KST) SM C&amp;C STUDIO 채널!\n#레드벨벳 과 함께 태국으로 떠나볼까요?\n👉 https://t.co/Zl1uogl4Ah\n\n잊지말고 알림🔔 설정 해두기🎶\n#SMCC_Studio 좋아요&amp;구독도 꾹꾹 눌러주세용❤\n\n#LevelUpProject #레드벨벳 #RedVelvet https://t.co/kTWy1LVtOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업프로젝트",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "SMCC_Studio",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "LevelUpProject",
+					"indices": [
+						161,
+						176
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						183,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zl1uogl4Ah",
+					"expanded_url": "https://youtu.be/Jt0wGE9TACg",
+					"display_url": "youtu.be/Jt0wGE9TACg",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234710890240299000,
+					"id_str": "1234710890240299008",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/ESKTA00UUAAnbku.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESKTA00UUAAnbku.jpg",
+					"url": "https://t.co/kTWy1LVtOL",
+					"display_url": "pic.twitter.com/kTWy1LVtOL",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1234710910368768000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234710890240299000,
+					"id_str": "1234710890240299008",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/ESKTA00UUAAnbku.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESKTA00UUAAnbku.jpg",
+					"url": "https://t.co/kTWy1LVtOL",
+					"display_url": "pic.twitter.com/kTWy1LVtOL",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1234710910368768000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C Studio",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C Studio Official Twitter Page\n🔴AnalogTrip 👉🏻 매주 수요일 밤 10시 https://t.co/DjmXAA4tcN \n🔴NCTLIFE in 춘천&홍천👉🏻매주 월,수,금 오후 6시 KT Seezn (국내) & V LIVE (Overseas)",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DjmXAA4tcN",
+							"expanded_url": "http://youtu.be/ioWAoEVYaP0",
+							"display_url": "youtu.be/ioWAoEVYaP0",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2397,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1573099495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 319,
+		"favorite_count": 525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업프로젝트] 전 회차 몰아보기!\n잠시 후 3시 (KST) SM C&amp;C STUDIO 채널!\n#레드벨벳 과 함께 태국으로 떠나볼까요?\n👉 https://t.co/Zl1uogl4Ah\n\n잊지말고 알림🔔 설정 해두기🎶\n#SMCC_Studio 좋아요&amp;구독도 꾹꾹 눌러주세용❤\n\n#LevelUpProject #레드벨벳 #RedVelvet https://t.co/kTWy1LVtOL"
+	},
+	{
+		"created_at": "Tue Mar 03 09:54:19 +0000 2020",
+		"id": 1234403506452254700,
+		"id_str": "1234779127254675456",
+		"full_text": "[본말클립] 5년 전 사건의 키 4789 정체는?!\n#9화_소름엔딩 #새로운_떡밥_오픈🎁\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/emfQccDW4t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9화_소름엔딩",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "새로운_떡밥_오픈",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"text": "본대로말하라",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234403299673047000,
+					"id_str": "1234403299673047041",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234403299673047041/pu/img/bOCOhzsFoEiGmm8E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234403299673047041/pu/img/bOCOhzsFoEiGmm8E.jpg",
+					"url": "https://t.co/emfQccDW4t",
+					"display_url": "pic.twitter.com/emfQccDW4t",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234403506452254722/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234403299673047000,
+					"id_str": "1234403299673047041",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234403299673047041/pu/img/bOCOhzsFoEiGmm8E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234403299673047041/pu/img/bOCOhzsFoEiGmm8E.jpg",
+					"url": "https://t.co/emfQccDW4t",
+					"display_url": "pic.twitter.com/emfQccDW4t",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234403506452254722/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							641,
+							360
+						],
+						"duration_millis": 58793,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234403299673047041/pu/vid/480x270/AahiofHlA118I8hd.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234403299673047041/pu/vid/640x360/jKSZg1fmS8dAZVjx.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234403299673047041/pu/vid/1282x720/1QRBMrMX9Q9FDGxp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1234403299673047041/pu/pl/pGviWMN1dfFIpogi.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44825,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1583151463",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[본말클립] 5년 전 사건의 키 4789 정체는?!\n#9화_소름엔딩 #새로운_떡밥_오픈🎁\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/emfQccDW4t"
+	},
+	{
+		"created_at": "Tue Mar 03 09:42:19 +0000 2020",
+		"id": 1234776107024633900,
+		"id_str": "1234776107024633856",
+		"full_text": "#팩트체크 #SNU팩트체크\n'락스 분무기' 안전하다？\n▶ 대체로 사실이 아님\nhttps://t.co/O17RmXXDWK\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O17RmXXDWK",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2114",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n'락스 분무기' 안전하다？\n▶ 대체로 사실이 아님\nhttps://t.co/O17RmXXDWK\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Tue Mar 03 09:42:19 +0000 2020",
+		"id": 1234776104986083300,
+		"id_str": "1234776104986083328",
+		"full_text": "#팩트체크 #SNU팩트체크\n이만희 신천지예수교회 총회장이 기자회견 때 착용한 '박근혜 시계'는 가짜다?\n▶ 사실\nhttps://t.co/zbZatEfoZa\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zbZatEfoZa",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2115",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n이만희 신천지예수교회 총회장이 기자회견 때 착용한 '박근혜 시계'는 가짜다?\n▶ 사실\nhttps://t.co/zbZatEfoZa\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Tue Mar 03 09:40:38 +0000 2020",
+		"id": 1234771591034048500,
+		"id_str": "1234775681873125377",
+		"full_text": "[2nd EP \"Nonadaptation\" Preorders]\n“Nonadaptation” preorder is now available. Shipment and offline sales will be available on 18th Mar. 🥳\n\n- Track List -\n1. 심야행 Midnight Train\n2. 집에 go back\n3. 이방인 Stranger\n4. 눈 Winter\n5. 엉 Ung\n6. 덩 Dong\n7. 이 E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1234771356643774500,
+		"in_reply_to_status_id_str": "1234771356643774464",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8033,
+			"friends_count": 319,
+			"listed_count": 51,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "[2nd EP \"Nonadaptation\" Preorders]\n“Nonadaptation” preorder is now available. Shipment and offline sales will be available on 18th Mar. 🥳\n\n- Track List -\n1. 심야행 Midnight Train\n2. 집에 go back\n3. 이방인 Stranger\n4. 눈 Winter\n5. 엉 Ung\n6. 덩 Dong\n7. 이 E"
+	},
+	{
+		"created_at": "Tue Mar 03 09:35:06 +0000 2020",
+		"id": 1234774288651182000,
+		"id_str": "1234774288651182080",
+		"full_text": "#SMTOWN #Artist_News\n태연, 9일 신곡 ‘Happy’ 공개!\nhttps://t.co/rf1ahfePFD\n#태연 #TAEYEON https://t.co/FUVxZsb2yg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rf1ahfePFD",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3235",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234774287061602300,
+					"id_str": "1234774287061602305",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ESLMrAYX0AExsXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESLMrAYX0AExsXv.jpg",
+					"url": "https://t.co/FUVxZsb2yg",
+					"display_url": "pic.twitter.com/FUVxZsb2yg",
+					"expanded_url": "https://twitter.com/fromminn/status/1234774288651182080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234774287061602300,
+					"id_str": "1234774287061602305",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ESLMrAYX0AExsXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESLMrAYX0AExsXv.jpg",
+					"url": "https://t.co/FUVxZsb2yg",
+					"display_url": "pic.twitter.com/FUVxZsb2yg",
+					"expanded_url": "https://twitter.com/fromminn/status/1234774288651182080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n태연, 9일 신곡 ‘Happy’ 공개!\nhttps://t.co/rf1ahfePFD\n#태연 #TAEYEON https://t.co/FUVxZsb2yg"
+	},
+	{
+		"created_at": "Tue Mar 03 09:22:12 +0000 2020",
+		"id": 1234771043761430500,
+		"id_str": "1234771043761430529",
+		"full_text": "#대한민국 #보건복지부\n[요약] 3월3일12시30분│대구1생활치료센터 현황│정부브리핑\nhttps://t.co/Prgza5eHM0\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Prgza5eHM0",
+					"expanded_url": "https://www.youtube.com/watch?v=Ahyg9jUUS-8",
+					"display_url": "youtube.com/watch?v=Ahyg9j…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 3월3일12시30분│대구1생활치료센터 현황│정부브리핑\nhttps://t.co/Prgza5eHM0\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Tue Mar 03 09:22:12 +0000 2020",
+		"id": 1234771042121535500,
+		"id_str": "1234771042121535488",
+		"full_text": "#대한민국 #보건복지부\n[요약] 3월3일14시10분│단순한 검체 채취보다는 치료에 집중│정부브리핑\nhttps://t.co/AcwWmaZFy4\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						79,
+						92
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AcwWmaZFy4",
+					"expanded_url": "https://www.youtube.com/watch?v=QMPFwTf5u-Y",
+					"display_url": "youtube.com/watch?v=QMPFwT…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 3월3일14시10분│단순한 검체 채취보다는 치료에 집중│정부브리핑\nhttps://t.co/AcwWmaZFy4\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Tue Mar 03 08:50:32 +0000 2020",
 		"id": 1038336180004089900,
 		"id_str": "1234763073430286336",
