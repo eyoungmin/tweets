@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 07:52:40 +0000 2020",
+		"id": 1232168343597199400,
+		"id_str": "1234748512857837568",
+		"full_text": "[#PopsinSeoul] LOONA(#이달의소녀)'s Interview for 'So What'💥\n\n\"가시 돋친 게 So What?! 얼음 같은 게 So What😉❓\"\n美친 카리스마로 돌아온 #이달소!🔥🔥\n그 멋쁨 터지는 인터뷰 현장으로 고고💘\n\n#LOONA #SoWhat @loonatheworld https://t.co/mWbsruUgXJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PopsinSeoul",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						154,
+						168
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232126784843333600,
+					"id_str": "1232126784843333632",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1232126784843333632/img/AtNweE8YRGzYmmed.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1232126784843333632/img/AtNweE8YRGzYmmed.jpg",
+					"url": "https://t.co/mWbsruUgXJ",
+					"display_url": "pic.twitter.com/mWbsruUgXJ",
+					"expanded_url": "https://twitter.com/arirangworld/status/1232168343597199360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232126784843333600,
+					"id_str": "1232126784843333632",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1232126784843333632/img/AtNweE8YRGzYmmed.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1232126784843333632/img/AtNweE8YRGzYmmed.jpg",
+					"url": "https://t.co/mWbsruUgXJ",
+					"display_url": "pic.twitter.com/mWbsruUgXJ",
+					"expanded_url": "https://twitter.com/arirangworld/status/1232168343597199360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 446013,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1232126784843333632/pl/oPtQ1GT6WInSrp8Y.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1232126784843333632/vid/640x360/AIC8Lt-v4044nzop.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1232126784843333632/vid/480x270/vyBlgEvGQvUVh3qr.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1232126784843333632/vid/1280x720/X88QcVp_q9HU92AK.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163185,
+			"friends_count": 215,
+			"listed_count": 1366,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 5666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[#PopsinSeoul] LOONA(#이달의소녀)'s Interview for 'So What'💥\n\n\"가시 돋친 게 So What?! 얼음 같은 게 So What😉❓\"\n美친 카리스마로 돌아온 #이달소!🔥🔥\n그 멋쁨 터지는 인터뷰 현장으로 고고💘\n\n#LOONA #SoWhat @loonatheworld https://t.co/mWbsruUgXJ"
+	},
+	{
+		"created_at": "Tue Mar 03 07:51:13 +0000 2020",
+		"id": 1231768436864209000,
+		"id_str": "1234748148955807744",
+		"full_text": "@loonatheworld ⭐시청소감 인증 이벤트⭐\n이달의소녀 편을 시청한 뒤 시청소감 멘션을 보내주세요\n(STARK 유튜브 구독&amp;좋아요 꾹!❤️)\n추첨을 통하여 총 11분께 랜덤 폴라로이드를 드립니다.\n\n✔ 기간 : ~2/26\n✔ 발표 : 2/27  (DM개별연락)\n✔ Foreign residents are eligible to participate too. https://t.co/XZhc3w84xL",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231768302554251300,
+					"id_str": "1231768302554251264",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/ERgevrdVAAAS_zz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERgevrdVAAAS_zz.jpg",
+					"url": "https://t.co/XZhc3w84xL",
+					"display_url": "pic.twitter.com/XZhc3w84xL",
+					"expanded_url": "https://twitter.com/STARK__OFFICIAL/status/1231768436864208896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1159,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231768302554251300,
+					"id_str": "1231768302554251264",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/ERgevrdVAAAS_zz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERgevrdVAAAS_zz.jpg",
+					"url": "https://t.co/XZhc3w84xL",
+					"display_url": "pic.twitter.com/XZhc3w84xL",
+					"expanded_url": "https://twitter.com/STARK__OFFICIAL/status/1231768436864208896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1159,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231768302562594800,
+					"id_str": "1231768302562594822",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/ERgevrfUUAYNC-0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERgevrfUUAYNC-0.jpg",
+					"url": "https://t.co/XZhc3w84xL",
+					"display_url": "pic.twitter.com/XZhc3w84xL",
+					"expanded_url": "https://twitter.com/STARK__OFFICIAL/status/1231768436864208896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1159,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1230794319633608700,
+		"in_reply_to_status_id_str": "1230794319633608704",
+		"in_reply_to_user_id": 976446175598460900,
+		"in_reply_to_user_id_str": "976446175598460928",
+		"in_reply_to_screen_name": "STARK__OFFICIAL",
+		"user": {
+			"id": 976446175598460900,
+			"id_str": "976446175598460928",
+			"name": "STARK",
+			"screen_name": "STARK__OFFICIAL",
+			"location": "대한민국",
+			"description": "💫 Leader of global KPOP, STAR K / IDOL LEAGUE 👉 Moment🔍\n\n💫 글로벌 KPOP의 선두주자, 스타케이 https://t.co/c9AO49l22o",
+			"url": "https://t.co/y36GDYxBiD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y36GDYxBiD",
+							"expanded_url": "http://www.star-k.tv/",
+							"display_url": "star-k.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9AO49l22o",
+							"expanded_url": "http://youtube.com/STARK_official",
+							"display_url": "youtube.com/STARK_official",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17908,
+			"friends_count": 717,
+			"listed_count": 134,
+			"created_at": "Wed Mar 21 13:11:24 +0000 2018",
+			"favourites_count": 277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979755129363574784/Y9ouhieC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979755129363574784/Y9ouhieC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/976446175598460928/1582163937",
+			"profile_link_color": "E6357F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 353,
+		"favorite_count": 529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@loonatheworld ⭐시청소감 인증 이벤트⭐\n이달의소녀 편을 시청한 뒤 시청소감 멘션을 보내주세요\n(STARK 유튜브 구독&amp;좋아요 꾹!❤️)\n추첨을 통하여 총 11분께 랜덤 폴라로이드를 드립니다.\n\n✔ 기간 : ~2/26\n✔ 발표 : 2/27  (DM개별연락)\n✔ Foreign residents are eligible to participate too. https://t.co/XZhc3w84xL"
+	},
+	{
 		"created_at": "Tue Mar 03 06:24:27 +0000 2020",
 		"id": 1234724422684008400,
 		"id_str": "1234726310112563200",
