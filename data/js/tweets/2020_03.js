@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 03:00:39 +0000 2020",
+		"id": 1234675022301548500,
+		"id_str": "1234675022301548547",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Mar 3) https://t.co/vFW81P9s9B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vFW81P9s9B",
+					"expanded_url": "https://nzzl.us/HqqfV7G",
+					"display_url": "nzzl.us/HqqfV7G",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Mar 3) https://t.co/vFW81P9s9B"
+	},
+	{
+		"created_at": "Tue Mar 03 02:40:38 +0000 2020",
+		"id": 1234413742697238500,
+		"id_str": "1234669985215045632",
+		"full_text": "[#아이돌차트]\n#이달의소녀 가 아이돌차트를 찾아옵니다☺️💞\n#SoWhat 으로 사랑받고 있는 #이달소 의 #현진 #올리비아혜 #이브 #진솔 에게 궁금했거나 전하고 싶은 말이 있는 팬분들은 아래의 링크 확인 후 댓글로 남겨주세요🤲\n#LOONA\n\n👉https://t.co/O1gZ7XcVec https://t.co/XID8eKFSDs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌차트",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O1gZ7XcVec",
+					"expanded_url": "https://url.kr/7SEsrC",
+					"display_url": "url.kr/7SEsrC",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234413664628699100,
+					"id_str": "1234413664628699137",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ESGEsBIU8AEuK3j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESGEsBIU8AEuK3j.jpg",
+					"url": "https://t.co/XID8eKFSDs",
+					"display_url": "pic.twitter.com/XID8eKFSDs",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1234413742697238529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234413664628699100,
+					"id_str": "1234413664628699137",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ESGEsBIU8AEuK3j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESGEsBIU8AEuK3j.jpg",
+					"url": "https://t.co/XID8eKFSDs",
+					"display_url": "pic.twitter.com/XID8eKFSDs",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1234413742697238529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1688,
+			"friends_count": 33,
+			"listed_count": 14,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 920,
+		"favorite_count": 3339,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌차트]\n#이달의소녀 가 아이돌차트를 찾아옵니다☺️💞\n#SoWhat 으로 사랑받고 있는 #이달소 의 #현진 #올리비아혜 #이브 #진솔 에게 궁금했거나 전하고 싶은 말이 있는 팬분들은 아래의 링크 확인 후 댓글로 남겨주세요🤲\n#LOONA\n\n👉https://t.co/O1gZ7XcVec https://t.co/XID8eKFSDs"
+	},
+	{
 		"created_at": "Tue Mar 03 01:40:38 +0000 2020",
 		"id": 1234644551727370200,
 		"id_str": "1234654885179777026",
