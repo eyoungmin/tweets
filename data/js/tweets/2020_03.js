@@ -1,6 +1,710 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 06:40:37 +0000 2020",
+		"id": 1235080637612036000,
+		"id_str": "1235092769925816321",
+		"full_text": "🍪🥛 https://t.co/7Bap9Rj1Gf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235080625779949600,
+					"id_str": "1235080625779949569",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPjSRCUwAEID2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPjSRCUwAEID2g.jpg",
+					"url": "https://t.co/7Bap9Rj1Gf",
+					"display_url": "pic.twitter.com/7Bap9Rj1Gf",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1235080637612036097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235080625779949600,
+					"id_str": "1235080625779949569",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPjSRCUwAEID2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPjSRCUwAEID2g.jpg",
+					"url": "https://t.co/7Bap9Rj1Gf",
+					"display_url": "pic.twitter.com/7Bap9Rj1Gf",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1235080637612036097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341742,
+			"friends_count": 176,
+			"listed_count": 1028,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3227,
+		"favorite_count": 6670,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🍪🥛 https://t.co/7Bap9Rj1Gf"
+	},
+	{
+		"created_at": "Wed Mar 04 06:35:20 +0000 2020",
+		"id": 1235091439484166100,
+		"id_str": "1235091439484166144",
+		"full_text": "#SMTOWN #Artist_News\n음원퀸 ‘태연’ 2집 리패키지 앨범 'Purpose' 촬영현장\nhttps://t.co/lELOIcPWZW\n#태연 #TAEYEON https://t.co/mbnAnVzPRB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lELOIcPWZW",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3238",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235091438423011300,
+					"id_str": "1235091438423011330",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPtHpRUcAI0KAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPtHpRUcAI0KAy.jpg",
+					"url": "https://t.co/mbnAnVzPRB",
+					"display_url": "pic.twitter.com/mbnAnVzPRB",
+					"expanded_url": "https://twitter.com/fromminn/status/1235091439484166144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235091438423011300,
+					"id_str": "1235091438423011330",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPtHpRUcAI0KAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPtHpRUcAI0KAy.jpg",
+					"url": "https://t.co/mbnAnVzPRB",
+					"display_url": "pic.twitter.com/mbnAnVzPRB",
+					"expanded_url": "https://twitter.com/fromminn/status/1235091439484166144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n음원퀸 ‘태연’ 2집 리패키지 앨범 'Purpose' 촬영현장\nhttps://t.co/lELOIcPWZW\n#태연 #TAEYEON https://t.co/mbnAnVzPRB"
+	},
+	{
+		"created_at": "Wed Mar 04 06:32:12 +0000 2020",
+		"id": 1235090095578837000,
+		"id_str": "1235090649617010688",
+		"full_text": "코로나19 확산을 틈타 마스크 판매로 폭리를 취하려던 업체들이 무더기로 적발됐다\nhttps://t.co/URjD4wex7O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/URjD4wex7O",
+					"expanded_url": "http://www.hani.co.kr/arti/area/capital/931051.html",
+					"display_url": "hani.co.kr/arti/area/capi…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문, 한겨레 공식 트위터입니다. https://t.co/gaFSERTpRb",
+			"url": "https://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gaFSERTpRb",
+							"expanded_url": "http://youtube.com/hanitv",
+							"display_url": "youtube.com/hanitv",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 559316,
+			"friends_count": 142426,
+			"listed_count": 7672,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 확산을 틈타 마스크 판매로 폭리를 취하려던 업체들이 무더기로 적발됐다\nhttps://t.co/URjD4wex7O"
+	},
+	{
+		"created_at": "Wed Mar 04 06:28:15 +0000 2020",
+		"id": 1235089654644224000,
+		"id_str": "1235089654644224000",
+		"full_text": "에어라파 분무기는 투명 색상은 품절. 에탄올 어느정도 들어간 소독 스프레이라고 이곳저곳에서 팔기 시작해서 에어라파 분무기도 구하기 힘들어짐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235089107908358100,
+		"in_reply_to_status_id_str": "1235089107908358144",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "에어라파 분무기는 투명 색상은 품절. 에탄올 어느정도 들어간 소독 스프레이라고 이곳저곳에서 팔기 시작해서 에어라파 분무기도 구하기 힘들어짐."
+	},
+	{
+		"created_at": "Wed Mar 04 06:26:04 +0000 2020",
+		"id": 1235089107908358100,
+		"id_str": "1235089107908358144",
+		"full_text": "쨍하고해뜰집 실리카겔 액티브다용도 습기제거제 부직포 50g x 20p \nhttps://t.co/laPNmNzG5j \n\n쿠팡에서 7700원에 팔고 있다. 코로나19 때문에 이것도 가격이 오른 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/laPNmNzG5j",
+					"expanded_url": "https://www.coupang.com/vp/products/68791884",
+					"display_url": "coupang.com/vp/products/68…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235088373552795600,
+		"in_reply_to_status_id_str": "1235088373552795649",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쨍하고해뜰집 실리카겔 액티브다용도 습기제거제 부직포 50g x 20p \nhttps://t.co/laPNmNzG5j \n\n쿠팡에서 7700원에 팔고 있다. 코로나19 때문에 이것도 가격이 오른 듯."
+	},
+	{
 		"created_at": "Wed Mar 04 05:54:23 +0000 2020",
 		"id": 1235077512675246000,
 		"id_str": "1235081131625611264",
