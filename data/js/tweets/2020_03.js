@@ -1,6 +1,901 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 00:39:14 +0000 2020",
+		"id": 1234808047983194000,
+		"id_str": "1235001823682973696",
+		"full_text": "중국의 대대적인 바이러스 차단 조치에 공기가 극적으로 맑아졌다. 연초와 2월 중국 상공 촬영한 위성사진 비교. 산업시설과 차량 배출 주요 매연인 이산화질소 수치 격감한 모습. 한국도 수도권 외곽에서 뚜렷한 차이를 보인다. https://t.co/6dQxuXrM0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6dQxuXrM0o",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2020-03-01/air-pollution-vanishes-across-china-s-industrial-heartland",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102896,
+			"friends_count": 2442,
+			"listed_count": 395,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중국의 대대적인 바이러스 차단 조치에 공기가 극적으로 맑아졌다. 연초와 2월 중국 상공 촬영한 위성사진 비교. 산업시설과 차량 배출 주요 매연인 이산화질소 수치 격감한 모습. 한국도 수도권 외곽에서 뚜렷한 차이를 보인다. https://t.co/6dQxuXrM0o"
+	},
+	{
+		"created_at": "Wed Mar 04 00:37:36 +0000 2020",
+		"id": 1234817321694138400,
+		"id_str": "1235001410883743744",
+		"full_text": "바이러스는 눈에 안 보이기 때문에 불안을 키우고, 불확실성은 늘 빗나간 목적에 조종될 위험을 낳는다. 이럴 때 존중해야 할 대상은 과학자와 공중보건인들. 이들에 대한 경청과 지원 정도에 따라 정치인을 판단해야 한다. 한 사회의 역량은 이런 위기에 고스란히 드러난다. https://t.co/IIGP31fAxq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IIGP31fAxq",
+					"expanded_url": "https://www.theatlantic.com/ideas/archive/2020/03/italys-response-to-coronavirus/607306/",
+					"display_url": "theatlantic.com/ideas/archive/…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102896,
+			"friends_count": 2442,
+			"listed_count": 395,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바이러스는 눈에 안 보이기 때문에 불안을 키우고, 불확실성은 늘 빗나간 목적에 조종될 위험을 낳는다. 이럴 때 존중해야 할 대상은 과학자와 공중보건인들. 이들에 대한 경청과 지원 정도에 따라 정치인을 판단해야 한다. 한 사회의 역량은 이런 위기에 고스란히 드러난다. https://t.co/IIGP31fAxq"
+	},
+	{
+		"created_at": "Wed Mar 04 00:25:10 +0000 2020",
+		"id": 1234798114608832500,
+		"id_str": "1234998283912695808",
+		"full_text": "알리바바 AI, 코로나바이러스 감염 96% 발견. 5-15분 걸리는 CT 스캔 사진 판독에 단 20초 소요.\n- 이는 AI가 인류에 선한 목적으로 사용된 좋은 예로 감염 검사 및 치료 절차를 더 빠르게 할 것\n- AI, 감염 여부 발견 위해 5000명 이상 환자 사진 통해 알고리즘 트레이닝시켜\nhttps://t.co/qxYG3AI35f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qxYG3AI35f",
+					"expanded_url": "https://www.gizchina.com/2020/03/03/alibaba-artificial-intelligence-detects-96-of-coronavirus-infections/",
+					"display_url": "gizchina.com/2020/03/03/ali…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45571,
+			"friends_count": 217,
+			"listed_count": 284,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알리바바 AI, 코로나바이러스 감염 96% 발견. 5-15분 걸리는 CT 스캔 사진 판독에 단 20초 소요.\n- 이는 AI가 인류에 선한 목적으로 사용된 좋은 예로 감염 검사 및 치료 절차를 더 빠르게 할 것\n- AI, 감염 여부 발견 위해 5000명 이상 환자 사진 통해 알고리즘 트레이닝시켜\nhttps://t.co/qxYG3AI35f"
+	},
+	{
+		"created_at": "Wed Mar 04 00:23:20 +0000 2020",
+		"id": 1232807696472125400,
+		"id_str": "1234997820794392576",
+		"full_text": "Season 3 is almost here! We’re going live tonight at 8:05PT at @ucla_roycehall with the creators of #COSMOS to talk about the new season, #PossibleWorlds. https://t.co/QhcwtBN0rR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COSMOS",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "PossibleWorlds",
+					"indices": [
+						138,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ucla_roycehall",
+					"name": "UCLA Royce Hall",
+					"id": 3992583612,
+					"id_str": "3992583612",
+					"indices": [
+						63,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232807137253957600,
+					"id_str": "1232807137253957633",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ERvP7uAWsAMaj_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERvP7uAWsAMaj_k.jpg",
+					"url": "https://t.co/QhcwtBN0rR",
+					"display_url": "pic.twitter.com/QhcwtBN0rR",
+					"expanded_url": "https://twitter.com/COSMOSonTV/status/1232807696472125440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232807137253957600,
+					"id_str": "1232807137253957633",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ERvP7uAWsAMaj_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERvP7uAWsAMaj_k.jpg",
+					"url": "https://t.co/QhcwtBN0rR",
+					"display_url": "pic.twitter.com/QhcwtBN0rR",
+					"expanded_url": "https://twitter.com/COSMOSonTV/status/1232807696472125440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 612,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17017,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1232807137253957633/pl/buJoUWPtoEsVJ50M.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1232807137253957633/vid/640x360/MHNY2XgBfi6zMuJw.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1232807137253957633/vid/480x270/k2P8Eer3NR9Qgh7Y.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1232807137253957633/vid/1280x720/t-UxdF122hGYOwD5.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Cosmos - Livestream",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 951643930214346800,
+			"id_str": "951643930214346752",
+			"name": "COSMOS",
+			"screen_name": "COSMOSonTV",
+			"location": "",
+			"description": "The official Twitter of #COSMOS: Possible Worlds. Brand-new season premieres Monday, March 9 on @NatGeoChannel",
+			"url": "https://t.co/N331IuuHpy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N331IuuHpy",
+							"expanded_url": "http://fox.tv/CosmosOnTV",
+							"display_url": "fox.tv/CosmosOnTV",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9875,
+			"friends_count": 157,
+			"listed_count": 51,
+			"created_at": "Fri Jan 12 02:36:08 +0000 2018",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 92,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192892155762593794/y4rEgv8-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192892155762593794/y4rEgv8-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/951643930214346752/1579212502",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Season 3 is almost here! We’re going live tonight at 8:05PT at @ucla_roycehall with the creators of #COSMOS to talk about the new season, #PossibleWorlds. https://t.co/QhcwtBN0rR"
+	},
+	{
+		"created_at": "Wed Mar 04 00:23:16 +0000 2020",
+		"id": 1234771351522697200,
+		"id_str": "1234997805665546240",
+		"full_text": "전설적인 과학 다큐 칼 세이건의 「코스모스」가 시즌 3로 돌아옵니다!\n\n2014년 「코스모스: 스페이스타임 오디세이」 후속편인 「코스모스: 가능한 세계들(Cosmos: Possible Worlds)」이 2020년 3월 10일 오전 9시 내셔널 지오그래픽 채널에서 방영됩니다. https://t.co/nEoO6MMyoh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nEoO6MMyoh",
+					"expanded_url": "https://twitter.com/COSMOSonTV/status/1232807696472125440?s=20",
+					"display_url": "twitter.com/COSMOSonTV/sta…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132054160,
+			"id_str": "132054160",
+			"name": "사이언스북스",
+			"screen_name": "science_books",
+			"location": "Seoul, Korea",
+			"description": "과학의 대중화, 대중의 과학화를 위해 노력하는 사이언스북스입니다.\r\nhttp://t.co/mUICkPdN",
+			"url": "http://t.co/an91RvlPyD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/an91RvlPyD",
+							"expanded_url": "http://www.facebook.com/ScienceBooksFB",
+							"display_url": "facebook.com/ScienceBooksFB",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/mUICkPdN",
+							"expanded_url": "http://sciencebooks.tistory.com",
+							"display_url": "sciencebooks.tistory.com",
+							"indices": [
+								38,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14518,
+			"friends_count": 4456,
+			"listed_count": 713,
+			"created_at": "Mon Apr 12 04:28:24 +0000 2010",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869058887/sciencebooks-logo_white_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869058887/sciencebooks-logo_white_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132054160/1582877584",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232807696472125400,
+		"quoted_status_id_str": "1232807696472125440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nEoO6MMyoh",
+			"expanded": "https://twitter.com/COSMOSonTV/status/1232807696472125440?s=20",
+			"display": "twitter.com/COSMOSonTV/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 26 23:20:33 +0000 2020",
+			"id": 1232807696472125400,
+			"id_str": "1232807696472125440",
+			"full_text": "Season 3 is almost here! We’re going live tonight at 8:05PT at @ucla_roycehall with the creators of #COSMOS to talk about the new season, #PossibleWorlds. https://t.co/QhcwtBN0rR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COSMOS",
+						"indices": [
+							100,
+							107
+						]
+					},
+					{
+						"text": "PossibleWorlds",
+						"indices": [
+							138,
+							153
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ucla_roycehall",
+						"name": "UCLA Royce Hall",
+						"id": 3992583612,
+						"id_str": "3992583612",
+						"indices": [
+							63,
+							78
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1232807137253957600,
+						"id_str": "1232807137253957633",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/ERvP7uAWsAMaj_k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERvP7uAWsAMaj_k.jpg",
+						"url": "https://t.co/QhcwtBN0rR",
+						"display_url": "pic.twitter.com/QhcwtBN0rR",
+						"expanded_url": "https://twitter.com/COSMOSonTV/status/1232807696472125440/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1044,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 347,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 612,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232807137253957600,
+						"id_str": "1232807137253957633",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/ERvP7uAWsAMaj_k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERvP7uAWsAMaj_k.jpg",
+						"url": "https://t.co/QhcwtBN0rR",
+						"display_url": "pic.twitter.com/QhcwtBN0rR",
+						"expanded_url": "https://twitter.com/COSMOSonTV/status/1232807696472125440/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1044,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 347,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 612,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 17017,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1232807137253957633/pl/buJoUWPtoEsVJ50M.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1232807137253957633/vid/640x360/MHNY2XgBfi6zMuJw.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1232807137253957633/vid/480x270/k2P8Eer3NR9Qgh7Y.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1232807137253957633/vid/1280x720/t-UxdF122hGYOwD5.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Cosmos - Livestream",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 951643930214346800,
+				"id_str": "951643930214346752",
+				"name": "COSMOS",
+				"screen_name": "COSMOSonTV",
+				"location": "",
+				"description": "The official Twitter of #COSMOS: Possible Worlds. Brand-new season premieres Monday, March 9 on @NatGeoChannel",
+				"url": "https://t.co/N331IuuHpy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N331IuuHpy",
+								"expanded_url": "http://fox.tv/CosmosOnTV",
+								"display_url": "fox.tv/CosmosOnTV",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9875,
+				"friends_count": 157,
+				"listed_count": 51,
+				"created_at": "Fri Jan 12 02:36:08 +0000 2018",
+				"favourites_count": 80,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 92,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1192892155762593794/y4rEgv8-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192892155762593794/y4rEgv8-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/951643930214346752/1579212502",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 90,
+			"favorite_count": 258,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 139,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전설적인 과학 다큐 칼 세이건의 「코스모스」가 시즌 3로 돌아옵니다!\n\n2014년 「코스모스: 스페이스타임 오디세이」 후속편인 「코스모스: 가능한 세계들(Cosmos: Possible Worlds)」이 2020년 3월 10일 오전 9시 내셔널 지오그래픽 채널에서 방영됩니다. https://t.co/nEoO6MMyoh"
+	},
+	{
 		"created_at": "Tue Mar 03 22:01:21 +0000 2020",
 		"id": 1234962089720078300,
 		"id_str": "1234962089720078336",
