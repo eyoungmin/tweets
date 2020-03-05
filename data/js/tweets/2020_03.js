@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 05 07:01:47 +0000 2020",
+		"id": 1235460484226310100,
+		"id_str": "1235460484226310146",
+		"full_text": "#팩트체크 #SNU팩트체크\n중국에서 한국인만 차별한다?\n▶ 대체로 사실이 아님\nhttps://t.co/VjfTAh7TT8\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VjfTAh7TT8",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2116",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n중국에서 한국인만 차별한다?\n▶ 대체로 사실이 아님\nhttps://t.co/VjfTAh7TT8\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Thu Mar 05 06:05:17 +0000 2020",
+		"id": 1235445288547975200,
+		"id_str": "1235446262457143297",
+		"full_text": "[#아이돌챔프_투표]\n🌟VOTE for Show Champion CLOSE UP SHOT🌟\n\n확신의 카감픽\n노굴욕 클로졉🔎 \n얼빡샷도 예쁜 아이돌에게 투표해주세요❣\n\n#IZONE #JANWONWOUNG\n#PENTAGON #JINHO\n#WekiMeki #KIMDOYEON\n#LOONA #OLYVIAHYE\n#DREAMCATCHER #SUA\n\nVote Here▶https://t.co/NM78GHvrWa(~3/9 18:00 KST) https://t.co/gV5niwkfc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌챔프_투표",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "IZONE",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "JANWONWOUNG",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "JINHO",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "WekiMeki",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "KIMDOYEON",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "OLYVIAHYE",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "DREAMCATCHER",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"text": "SUA",
+					"indices": [
+						183,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NM78GHvrWa",
+					"expanded_url": "http://bit.ly/2VHkGS1",
+					"display_url": "bit.ly/2VHkGS1",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235445271628148700,
+					"id_str": "1235445271628148737",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/ESUu7crU8AEsCC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESUu7crU8AEsCC7.jpg",
+					"url": "https://t.co/gV5niwkfc4",
+					"display_url": "pic.twitter.com/gV5niwkfc4",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1235445288547975168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235445271628148700,
+					"id_str": "1235445271628148737",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/ESUu7crU8AEsCC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESUu7crU8AEsCC7.jpg",
+					"url": "https://t.co/gV5niwkfc4",
+					"display_url": "pic.twitter.com/gV5niwkfc4",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1235445288547975168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프(아챔이)",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58127,
+			"friends_count": 1007,
+			"listed_count": 134,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌챔프_투표]\n🌟VOTE for Show Champion CLOSE UP SHOT🌟\n\n확신의 카감픽\n노굴욕 클로졉🔎 \n얼빡샷도 예쁜 아이돌에게 투표해주세요❣\n\n#IZONE #JANWONWOUNG\n#PENTAGON #JINHO\n#WekiMeki #KIMDOYEON\n#LOONA #OLYVIAHYE\n#DREAMCATCHER #SUA\n\nVote Here▶https://t.co/NM78GHvrWa(~3/9 18:00 KST) https://t.co/gV5niwkfc4"
+	},
+	{
 		"created_at": "Thu Mar 05 05:24:14 +0000 2020",
 		"id": 1235435932901429200,
 		"id_str": "1235435932901429248",
