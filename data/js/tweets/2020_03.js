@@ -1,6 +1,2837 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 05 00:42:25 +0000 2020",
+		"id": 1235365012748857300,
+		"id_str": "1235365012748857344",
+		"full_text": "#대한민국 #보건복지부\n병원 일단 피해라?｜직접알려드립니다｜💡【Q&amp;A】\nhttps://t.co/dv92XQwa2C\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dv92XQwa2C",
+					"expanded_url": "https://www.youtube.com/watch?v=B6kqdK0xDOY",
+					"display_url": "youtube.com/watch?v=B6kqdK…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n병원 일단 피해라?｜직접알려드립니다｜💡【Q&amp;A】\nhttps://t.co/dv92XQwa2C\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Thu Mar 05 00:35:44 +0000 2020",
+		"id": 1235363328903479300,
+		"id_str": "1235363328903479301",
+		"full_text": "모멘트랑 트윗덱에 있는 컬렉션 기능이나 제대로 손봐야지.\n\n관심글로 계정 공지 쓰는 사람도 많은데 이런 부분에서 해결을 먼저 하지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235362347956367400,
+		"in_reply_to_status_id_str": "1235362347956367360",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "모멘트랑 트윗덱에 있는 컬렉션 기능이나 제대로 손봐야지.\n\n관심글로 계정 공지 쓰는 사람도 많은데 이런 부분에서 해결을 먼저 하지."
+	},
+	{
+		"created_at": "Thu Mar 05 00:32:37 +0000 2020",
+		"id": 1235362547634786300,
+		"id_str": "1235362547634786307",
+		"full_text": "인스타그램 스토리도 긁어다가 트위터에 봇으로 붙이는데 트위터에도 그걸 만들면 어차피 재업로딩 엄청 할 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인스타그램 스토리도 긁어다가 트위터에 봇으로 붙이는데 트위터에도 그걸 만들면 어차피 재업로딩 엄청 할 듯."
+	},
+	{
+		"created_at": "Thu Mar 05 00:31:50 +0000 2020",
+		"id": 1235362347956367400,
+		"id_str": "1235362347956367360",
+		"full_text": "트위터는 동영상 화질이랑 미리보기 개선부터 했으면.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터는 동영상 화질이랑 미리보기 개선부터 했으면."
+	},
+	{
+		"created_at": "Thu Mar 05 00:29:44 +0000 2020",
+		"id": 1235361818253488000,
+		"id_str": "1235361818253488128",
+		"full_text": "트위터에 시간제한 인스턴트 콘텐츠 만드네. 인스타그램 스토리 같은. https://t.co/dP5tCT58wB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dP5tCT58wB",
+					"expanded_url": "https://twitter.com/kayvz/status/1235248673136635909",
+					"display_url": "twitter.com/kayvz/status/1…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235248673136636000,
+		"quoted_status_id_str": "1235248673136635909",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dP5tCT58wB",
+			"expanded": "https://twitter.com/kayvz/status/1235248673136635909",
+			"display": "twitter.com/kayvz/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 04 17:00:08 +0000 2020",
+			"id": 1235248673136636000,
+			"id_str": "1235248673136635909",
+			"full_text": "Every day, people come to Twitter to see what’s happening. One of the unique things about Twitter is that “what’s happening” is fueled by people sharing their thoughts openly, through Tweets. But sharing your thoughts publicly can be intimidating! 🧵",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14897303,
+				"id_str": "14897303",
+				"name": "Kayvon Beykpour",
+				"screen_name": "kayvz",
+				"location": "San Francisco",
+				"description": "product lead @twitter & co-founder of @Periscopeco. SORRY I’M NOT THE “VERIFICATION GOD” AND WON’T BE ABLE TO VERIFY YOU",
+				"url": "https://t.co/rKqvr9wGRs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rKqvr9wGRs",
+								"expanded_url": "https://pscp.tv/",
+								"display_url": "pscp.tv",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44256,
+				"friends_count": 2524,
+				"listed_count": 930,
+				"created_at": "Sun May 25 08:06:34 +0000 2008",
+				"favourites_count": 20426,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6891,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897303/1480485887",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 184,
+			"favorite_count": 613,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터에 시간제한 인스턴트 콘텐츠 만드네. 인스타그램 스토리 같은. https://t.co/dP5tCT58wB"
+	},
+	{
+		"created_at": "Thu Mar 05 00:29:14 +0000 2020",
+		"id": 1235248954356318200,
+		"id_str": "1235361693011775488",
+		"full_text": "E para vocês aí no Brasil: estamos ansiosos para saber o que acharam da novidade. Compartilhe sua opinião e feedback sobre Fleets usando a hashtag #FleetsFeedback 🙏🇧🇷.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FleetsFeedback",
+					"indices": [
+						147,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+		"in_reply_to_status_id": 1235248953362268200,
+		"in_reply_to_status_id_str": "1235248953362268160",
+		"in_reply_to_user_id": 14897303,
+		"in_reply_to_user_id_str": "14897303",
+		"in_reply_to_screen_name": "kayvz",
+		"user": {
+			"id": 14897303,
+			"id_str": "14897303",
+			"name": "Kayvon Beykpour",
+			"screen_name": "kayvz",
+			"location": "San Francisco",
+			"description": "product lead @twitter & co-founder of @Periscopeco. SORRY I’M NOT THE “VERIFICATION GOD” AND WON’T BE ABLE TO VERIFY YOU",
+			"url": "https://t.co/rKqvr9wGRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rKqvr9wGRs",
+							"expanded_url": "https://pscp.tv/",
+							"display_url": "pscp.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44256,
+			"friends_count": 2524,
+			"listed_count": 930,
+			"created_at": "Sun May 25 08:06:34 +0000 2008",
+			"favourites_count": 20426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897303/1480485887",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "pt",
+		"text": "E para vocês aí no Brasil: estamos ansiosos para saber o que acharam da novidade. Compartilhe sua opinião e feedback sobre Fleets usando a hashtag #FleetsFeedback 🙏🇧🇷."
+	},
+	{
+		"created_at": "Thu Mar 05 00:29:12 +0000 2020",
+		"id": 1235248953362268200,
+		"id_str": "1235361684094455811",
+		"full_text": "We’re hoping that Fleets can help people share the fleeting thoughts that they would have been unlikely to Tweet. This is a substantial change to Twitter, so we’re excited to learn by testing it (starting with the rollout today in Brazil) and seeing how our customers use it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+		"in_reply_to_status_id": 1235248951294439400,
+		"in_reply_to_status_id_str": "1235248951294439424",
+		"in_reply_to_user_id": 14897303,
+		"in_reply_to_user_id_str": "14897303",
+		"in_reply_to_screen_name": "kayvz",
+		"user": {
+			"id": 14897303,
+			"id_str": "14897303",
+			"name": "Kayvon Beykpour",
+			"screen_name": "kayvz",
+			"location": "San Francisco",
+			"description": "product lead @twitter & co-founder of @Periscopeco. SORRY I’M NOT THE “VERIFICATION GOD” AND WON’T BE ABLE TO VERIFY YOU",
+			"url": "https://t.co/rKqvr9wGRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rKqvr9wGRs",
+							"expanded_url": "https://pscp.tv/",
+							"display_url": "pscp.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44256,
+			"friends_count": 2524,
+			"listed_count": 930,
+			"created_at": "Sun May 25 08:06:34 +0000 2008",
+			"favourites_count": 20426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897303/1480485887",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We’re hoping that Fleets can help people share the fleeting thoughts that they would have been unlikely to Tweet. This is a substantial change to Twitter, so we’re excited to learn by testing it (starting with the rollout today in Brazil) and seeing how our customers use it."
+	},
+	{
+		"created_at": "Thu Mar 05 00:29:07 +0000 2020",
+		"id": 1235248951294439400,
+		"id_str": "1235361666126266368",
+		"full_text": "I know what you're thinking: “THIS SOUNDS A LOT LIKE STORIES!”. Yes, there are many similarities with the Stories format that will feel familiar to people. There are also a few intentional differences to make the experience more focused on sharing and seeing people’s thoughts. https://t.co/OaGYZpChcN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235248862840918000,
+					"id_str": "1235248862840918018",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235248862840918018/pu/img/zyE6BTUAFzsVcOEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235248862840918018/pu/img/zyE6BTUAFzsVcOEd.jpg",
+					"url": "https://t.co/OaGYZpChcN",
+					"display_url": "pic.twitter.com/OaGYZpChcN",
+					"expanded_url": "https://twitter.com/kayvz/status/1235248951294439424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235248862840918000,
+					"id_str": "1235248862840918018",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235248862840918018/pu/img/zyE6BTUAFzsVcOEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235248862840918018/pu/img/zyE6BTUAFzsVcOEd.jpg",
+					"url": "https://t.co/OaGYZpChcN",
+					"display_url": "pic.twitter.com/OaGYZpChcN",
+					"expanded_url": "https://twitter.com/kayvz/status/1235248951294439424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							80
+						],
+						"duration_millis": 20148,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235248862840918018/pu/vid/592x1280/UzOScscMNgSy_cFK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1235248862840918018/pu/pl/HiTNC2Iyw89Gzaf6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235248862840918018/pu/vid/320x690/f7qr3oUhGtmye-da.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235248862840918018/pu/vid/360x778/GomqkPAWcmm6P6TM.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+		"in_reply_to_status_id": 1235248857308487700,
+		"in_reply_to_status_id_str": "1235248857308487682",
+		"in_reply_to_user_id": 14897303,
+		"in_reply_to_user_id_str": "14897303",
+		"in_reply_to_screen_name": "kayvz",
+		"user": {
+			"id": 14897303,
+			"id_str": "14897303",
+			"name": "Kayvon Beykpour",
+			"screen_name": "kayvz",
+			"location": "San Francisco",
+			"description": "product lead @twitter & co-founder of @Periscopeco. SORRY I’M NOT THE “VERIFICATION GOD” AND WON’T BE ABLE TO VERIFY YOU",
+			"url": "https://t.co/rKqvr9wGRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rKqvr9wGRs",
+							"expanded_url": "https://pscp.tv/",
+							"display_url": "pscp.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44256,
+			"friends_count": 2524,
+			"listed_count": 930,
+			"created_at": "Sun May 25 08:06:34 +0000 2008",
+			"favourites_count": 20426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897303/1480485887",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I know what you're thinking: “THIS SOUNDS A LOT LIKE STORIES!”. Yes, there are many similarities with the Stories format that will feel familiar to people. There are also a few intentional differences to make the experience more focused on sharing and seeing people’s thoughts. https://t.co/OaGYZpChcN"
+	},
+	{
+		"created_at": "Thu Mar 05 00:29:04 +0000 2020",
+		"id": 1235248857308487700,
+		"id_str": "1235361653421740034",
+		"full_text": "Fleets are a way to share fleeting thoughts. Unlike Tweets, Fleets disappear after 24 hours and don’t get Retweets, Likes, or public replies-- people can only react to your Fleets with DMs. Instead of showing up in people’s timelines, Fleets are viewed by tapping on your avatar. https://t.co/sWwsExRLcJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235248846177005600,
+					"id_str": "1235248846177005575",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ESR8R-2XcAc0tKF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESR8R-2XcAc0tKF.jpg",
+					"url": "https://t.co/sWwsExRLcJ",
+					"display_url": "pic.twitter.com/sWwsExRLcJ",
+					"expanded_url": "https://twitter.com/kayvz/status/1235248857308487682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235248846177005600,
+					"id_str": "1235248846177005575",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ESR8R-2XcAc0tKF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESR8R-2XcAc0tKF.jpg",
+					"url": "https://t.co/sWwsExRLcJ",
+					"display_url": "pic.twitter.com/sWwsExRLcJ",
+					"expanded_url": "https://twitter.com/kayvz/status/1235248857308487682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1235248846181195800,
+					"id_str": "1235248846181195782",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ESR8R-3XYAYnktF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESR8R-3XYAYnktF.jpg",
+					"url": "https://t.co/sWwsExRLcJ",
+					"display_url": "pic.twitter.com/sWwsExRLcJ",
+					"expanded_url": "https://twitter.com/kayvz/status/1235248857308487682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1235248846189531100,
+					"id_str": "1235248846189531137",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ESR8R-5WkAE5CTm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESR8R-5WkAE5CTm.jpg",
+					"url": "https://t.co/sWwsExRLcJ",
+					"display_url": "pic.twitter.com/sWwsExRLcJ",
+					"expanded_url": "https://twitter.com/kayvz/status/1235248857308487682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+		"in_reply_to_status_id": 1235248842196398000,
+		"in_reply_to_status_id_str": "1235248842196398080",
+		"in_reply_to_user_id": 14897303,
+		"in_reply_to_user_id_str": "14897303",
+		"in_reply_to_screen_name": "kayvz",
+		"user": {
+			"id": 14897303,
+			"id_str": "14897303",
+			"name": "Kayvon Beykpour",
+			"screen_name": "kayvz",
+			"location": "San Francisco",
+			"description": "product lead @twitter & co-founder of @Periscopeco. SORRY I’M NOT THE “VERIFICATION GOD” AND WON’T BE ABLE TO VERIFY YOU",
+			"url": "https://t.co/rKqvr9wGRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rKqvr9wGRs",
+							"expanded_url": "https://pscp.tv/",
+							"display_url": "pscp.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44256,
+			"friends_count": 2524,
+			"listed_count": 930,
+			"created_at": "Sun May 25 08:06:34 +0000 2008",
+			"favourites_count": 20426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897303/1480485887",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 742,
+		"favorite_count": 1529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fleets are a way to share fleeting thoughts. Unlike Tweets, Fleets disappear after 24 hours and don’t get Retweets, Likes, or public replies-- people can only react to your Fleets with DMs. Instead of showing up in people’s timelines, Fleets are viewed by tapping on your avatar. https://t.co/sWwsExRLcJ"
+	},
+	{
+		"created_at": "Thu Mar 05 00:29:02 +0000 2020",
+		"id": 1235248842196398000,
+		"id_str": "1235361642243739649",
+		"full_text": "We’ve been listening to this feedback and working to create new capabilities that address some of the anxieties that hold people back from talking on Twitter. Today, in Brazil only, we’re starting a test (on Android and iOS) for one of those new capabilities. It’s called Fleets. https://t.co/6MLs8irb0c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235248766116155400,
+					"id_str": "1235248766116155396",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235248766116155396/pu/img/LsElZgNTaDyFyJWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235248766116155396/pu/img/LsElZgNTaDyFyJWd.jpg",
+					"url": "https://t.co/6MLs8irb0c",
+					"display_url": "pic.twitter.com/6MLs8irb0c",
+					"expanded_url": "https://twitter.com/kayvz/status/1235248842196398080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235248766116155400,
+					"id_str": "1235248766116155396",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235248766116155396/pu/img/LsElZgNTaDyFyJWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235248766116155396/pu/img/LsElZgNTaDyFyJWd.jpg",
+					"url": "https://t.co/6MLs8irb0c",
+					"display_url": "pic.twitter.com/6MLs8irb0c",
+					"expanded_url": "https://twitter.com/kayvz/status/1235248842196398080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34167,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1235248766116155396/pu/pl/r4O7KHMpq1vvKtgo.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235248766116155396/pu/vid/480x270/ORjieQXctdOPc6Lo.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235248766116155396/pu/vid/1280x720/qxyfTgynOxz_BuXy.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235248766116155396/pu/vid/640x360/lb52vuUKAYCyx-0Z.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+		"in_reply_to_status_id": 1235248675149869000,
+		"in_reply_to_status_id_str": "1235248675149869057",
+		"in_reply_to_user_id": 14897303,
+		"in_reply_to_user_id_str": "14897303",
+		"in_reply_to_screen_name": "kayvz",
+		"user": {
+			"id": 14897303,
+			"id_str": "14897303",
+			"name": "Kayvon Beykpour",
+			"screen_name": "kayvz",
+			"location": "San Francisco",
+			"description": "product lead @twitter & co-founder of @Periscopeco. SORRY I’M NOT THE “VERIFICATION GOD” AND WON’T BE ABLE TO VERIFY YOU",
+			"url": "https://t.co/rKqvr9wGRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rKqvr9wGRs",
+							"expanded_url": "https://pscp.tv/",
+							"display_url": "pscp.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44256,
+			"friends_count": 2524,
+			"listed_count": 930,
+			"created_at": "Sun May 25 08:06:34 +0000 2008",
+			"favourites_count": 20426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897303/1480485887",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 571,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’ve been listening to this feedback and working to create new capabilities that address some of the anxieties that hold people back from talking on Twitter. Today, in Brazil only, we’re starting a test (on Android and iOS) for one of those new capabilities. It’s called Fleets. https://t.co/6MLs8irb0c"
+	},
+	{
+		"created_at": "Thu Mar 05 00:28:55 +0000 2020",
+		"id": 1235248675149869000,
+		"id_str": "1235361613504339968",
+		"full_text": "People often tell us that they don’t feel comfortable Tweeting because Tweets can be seen and replied to by anybody, feel permanent and performative (how many Likes &amp; Retweets will this get!?). Many of us can probably empathize with this:  https://t.co/LW2xWlctZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LW2xWlctZi",
+					"expanded_url": "https://twitter.com/Hocclevefanboy/status/1234331475874656256",
+					"display_url": "twitter.com/Hocclevefanboy…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+		"in_reply_to_status_id": 1235248673136636000,
+		"in_reply_to_status_id_str": "1235248673136635909",
+		"in_reply_to_user_id": 14897303,
+		"in_reply_to_user_id_str": "14897303",
+		"in_reply_to_screen_name": "kayvz",
+		"user": {
+			"id": 14897303,
+			"id_str": "14897303",
+			"name": "Kayvon Beykpour",
+			"screen_name": "kayvz",
+			"location": "San Francisco",
+			"description": "product lead @twitter & co-founder of @Periscopeco. SORRY I’M NOT THE “VERIFICATION GOD” AND WON’T BE ABLE TO VERIFY YOU",
+			"url": "https://t.co/rKqvr9wGRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rKqvr9wGRs",
+							"expanded_url": "https://pscp.tv/",
+							"display_url": "pscp.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44256,
+			"friends_count": 2524,
+			"listed_count": 930,
+			"created_at": "Sun May 25 08:06:34 +0000 2008",
+			"favourites_count": 20426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897303/1480485887",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234331475874656300,
+		"quoted_status_id_str": "1234331475874656256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LW2xWlctZi",
+			"expanded": "https://twitter.com/Hocclevefanboy/status/1234331475874656256",
+			"display": "twitter.com/Hocclevefanboy…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 02 04:15:31 +0000 2020",
+			"id": 1234331475874656300,
+			"id_str": "1234331475874656256",
+			"full_text": "My draft folder is full of funny tweets I’m afraid to tweet.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 556540105,
+				"id_str": "556540105",
+				"name": "Will Rogers",
+				"screen_name": "Hocclevefanboy",
+				"location": "",
+				"description": "I have a Winona-Ryder-winning-for-Stranger-Things face. My tweets = my own views. Retweets aren't endorsements. he/his/him. Not memorable but meme-able.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1021,
+				"friends_count": 748,
+				"listed_count": 8,
+				"created_at": "Wed Apr 18 04:15:44 +0000 2012",
+				"favourites_count": 12930,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8402,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1226683268592013313/fXGDhGHQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226683268592013313/fXGDhGHQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/556540105/1580301798",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 49,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People often tell us that they don’t feel comfortable Tweeting because Tweets can be seen and replied to by anybody, feel permanent and performative (how many Likes &amp; Retweets will this get!?). Many of us can probably empathize with this:  https://t.co/LW2xWlctZi"
+	},
+	{
+		"created_at": "Thu Mar 05 00:28:35 +0000 2020",
+		"id": 1235248673136636000,
+		"id_str": "1235361532009013248",
+		"full_text": "Every day, people come to Twitter to see what’s happening. One of the unique things about Twitter is that “what’s happening” is fueled by people sharing their thoughts openly, through Tweets. But sharing your thoughts publicly can be intimidating! 🧵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14897303,
+			"id_str": "14897303",
+			"name": "Kayvon Beykpour",
+			"screen_name": "kayvz",
+			"location": "San Francisco",
+			"description": "product lead @twitter & co-founder of @Periscopeco. SORRY I’M NOT THE “VERIFICATION GOD” AND WON’T BE ABLE TO VERIFY YOU",
+			"url": "https://t.co/rKqvr9wGRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rKqvr9wGRs",
+							"expanded_url": "https://pscp.tv/",
+							"display_url": "pscp.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44256,
+			"friends_count": 2524,
+			"listed_count": 930,
+			"created_at": "Sun May 25 08:06:34 +0000 2008",
+			"favourites_count": 20426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096175091300200448/APDWZUMo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897303/1480485887",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 613,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Every day, people come to Twitter to see what’s happening. One of the unique things about Twitter is that “what’s happening” is fueled by people sharing their thoughts openly, through Tweets. But sharing your thoughts publicly can be intimidating! 🧵"
+	},
+	{
+		"created_at": "Thu Mar 05 00:28:26 +0000 2020",
+		"id": 1235337611100729300,
+		"id_str": "1235361491278127104",
+		"full_text": "트위터가 브라질에서 인스타그램 스토리처럼 24시간 후 트윗이 사라지는 새 기능을 실험 중이라는 소식. 이름은 플릿(Fleets)이고, 이 형태는 리트윗, 마음, 코멘트도 없다고 합니다. https://t.co/e8Wiky8faw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e8Wiky8faw",
+					"expanded_url": "https://deadline.com/2020/03/twitter-tweets-disappear-brazil-fleets-1202874444/",
+					"display_url": "deadline.com/2020/03/twitte…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15018,
+			"friends_count": 748,
+			"listed_count": 132,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994448983786336256/DZXGeDHk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994448983786336256/DZXGeDHk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1525930080",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터가 브라질에서 인스타그램 스토리처럼 24시간 후 트윗이 사라지는 새 기능을 실험 중이라는 소식. 이름은 플릿(Fleets)이고, 이 형태는 리트윗, 마음, 코멘트도 없다고 합니다. https://t.co/e8Wiky8faw"
+	},
+	{
+		"created_at": "Thu Mar 05 00:28:18 +0000 2020",
+		"id": 1235287210716430300,
+		"id_str": "1235361457702760448",
+		"full_text": "트위터, 24시간 후 사라지는 트윗 막 테스트 시작해.\n- 'Fleets'로 불리는 이 실험, 스냅챗에서 영감을 받은 것\n- 이는 트윗이 제거되기 전 24시간 동안 게시되는 것\n- 이 기능, 오늘 브라질에서 배포되고 어떻게 받아들여지는가에 따라 확장될 것이라고 말해 https://t.co/no37z8utXe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/no37z8utXe",
+					"expanded_url": "https://bgr.com/2020/03/04/fleets-twitter-feature-disappear-24-hours/",
+					"display_url": "bgr.com/2020/03/04/fle…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45569,
+			"friends_count": 217,
+			"listed_count": 284,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터, 24시간 후 사라지는 트윗 막 테스트 시작해.\n- 'Fleets'로 불리는 이 실험, 스냅챗에서 영감을 받은 것\n- 이는 트윗이 제거되기 전 24시간 동안 게시되는 것\n- 이 기능, 오늘 브라질에서 배포되고 어떻게 받아들여지는가에 따라 확장될 것이라고 말해 https://t.co/no37z8utXe"
+	},
+	{
+		"created_at": "Thu Mar 05 00:28:10 +0000 2020",
+		"id": 1235350667419684900,
+		"id_str": "1235361427092721665",
+		"full_text": "트위터가 트위터 버전 '스토리' 서비스인 \"Fleets\"를 브라질에서 공개 테스트. 일반 트윗고 달리 이 Fleet은 좋아요나 답장,리트윗이 불가능하고 24시간 후에 사라지는게 특징. Fleet은 전체공개가 아니라 만일 팔로우를 하지 않았다면 해당 트위터 프로필에 가서 봐야해 https://t.co/WeWcCcuvXH https://t.co/7vTbjPHjHn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WeWcCcuvXH",
+					"expanded_url": "https://blog.twitter.com/pt_br/topics/product/2019/explorando-uma-nova-forma-de-iniciar-conversas-no-brasil.html",
+					"display_url": "blog.twitter.com/pt_br/topics/p…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235350665947422700,
+					"id_str": "1235350665947422721",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ESTY4rDWoAE2afi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESTY4rDWoAE2afi.jpg",
+					"url": "https://t.co/7vTbjPHjHn",
+					"display_url": "pic.twitter.com/7vTbjPHjHn",
+					"expanded_url": "https://twitter.com/minist/status/1235350667419684864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235350665947422700,
+					"id_str": "1235350665947422721",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ESTY4rDWoAE2afi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESTY4rDWoAE2afi.jpg",
+					"url": "https://t.co/7vTbjPHjHn",
+					"display_url": "pic.twitter.com/7vTbjPHjHn",
+					"expanded_url": "https://twitter.com/minist/status/1235350667419684864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64623,
+			"friends_count": 719,
+			"listed_count": 929,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터가 트위터 버전 '스토리' 서비스인 \"Fleets\"를 브라질에서 공개 테스트. 일반 트윗고 달리 이 Fleet은 좋아요나 답장,리트윗이 불가능하고 24시간 후에 사라지는게 특징. Fleet은 전체공개가 아니라 만일 팔로우를 하지 않았다면 해당 트위터 프로필에 가서 봐야해 https://t.co/WeWcCcuvXH https://t.co/7vTbjPHjHn"
+	},
+	{
+		"created_at": "Thu Mar 05 00:21:05 +0000 2020",
+		"id": 1235354336860885000,
+		"id_str": "1235359643804651520",
+		"full_text": "치매센터가 문을 닫고 복지관 아동센터도 비어버린 이때, 누군가는 노인과 아동이 살고 있는 곳을 방문해 안부를 묻고 음식을 나누며 간극을 메우고 있다.\nhttps://t.co/1FRvJOUQvc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1FRvJOUQvc",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202003050600035&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 744440,
+			"friends_count": 80346,
+			"listed_count": 6439,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 82524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "치매센터가 문을 닫고 복지관 아동센터도 비어버린 이때, 누군가는 노인과 아동이 살고 있는 곳을 방문해 안부를 묻고 음식을 나누며 간극을 메우고 있다.\nhttps://t.co/1FRvJOUQvc"
+	},
+	{
+		"created_at": "Thu Mar 05 00:15:39 +0000 2020",
+		"id": 1235358274666426400,
+		"id_str": "1235358274666426368",
+		"full_text": "마스크 사재기랑 ㄹ혜 시계 키워드로 검색해보면 저열한 미디어회사들 널린 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "마스크 사재기랑 ㄹ혜 시계 키워드로 검색해보면 저열한 미디어회사들 널린 듯."
+	},
+	{
+		"created_at": "Thu Mar 05 00:13:51 +0000 2020",
+		"id": 1235351326273368000,
+		"id_str": "1235357822453297152",
+		"full_text": "Tidal, 바다를 지키기 위한 알파벳(구글)X의 새 문샷 프로젝트 https://t.co/3L6zIbOFQc \n바다를 보호하고 인류에게 지속적으로 식량을 공급하도록 보존하기 위해,\n해저에서 어떤 일이 일어나는지를 알게 하는 것이 초기 목표\n첫 작업으로 양식업자들이 환경 친화적으로 생선 양식을 할수 있게 해...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3L6zIbOFQc",
+					"expanded_url": "http://j.mp/2vEjaW4",
+					"display_url": "j.mp/2vEjaW4",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2406,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Tidal, 바다를 지키기 위한 알파벳(구글)X의 새 문샷 프로젝트 https://t.co/3L6zIbOFQc \n바다를 보호하고 인류에게 지속적으로 식량을 공급하도록 보존하기 위해,\n해저에서 어떤 일이 일어나는지를 알게 하는 것이 초기 목표\n첫 작업으로 양식업자들이 환경 친화적으로 생선 양식을 할수 있게 해..."
+	},
+	{
+		"created_at": "Thu Mar 05 00:13:30 +0000 2020",
+		"id": 1235351049126301700,
+		"id_str": "1235357736965029888",
+		"full_text": "궁금했던 화상회의 솔루션 회사인 Zoom의 지난해 4분기 실적발표. 매출이 188M로 전년 동기 대비 78% 상승. 고객수도 61% 증가. 지난 한달간 주가도 30% 정도 상승. https://t.co/uTpFBkkWU8 대표적인 글로벌 코로나 수혜주…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uTpFBkkWU8",
+					"expanded_url": "https://www.cnbc.com/2020/03/04/zoom-zm-earnings-q4-2020.html",
+					"display_url": "cnbc.com/2020/03/04/zoo…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 379598,
+			"friends_count": 2296,
+			"listed_count": 4779,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "궁금했던 화상회의 솔루션 회사인 Zoom의 지난해 4분기 실적발표. 매출이 188M로 전년 동기 대비 78% 상승. 고객수도 61% 증가. 지난 한달간 주가도 30% 정도 상승. https://t.co/uTpFBkkWU8 대표적인 글로벌 코로나 수혜주…"
+	},
+	{
+		"created_at": "Thu Mar 05 00:12:13 +0000 2020",
+		"id": 1235357411440865300,
+		"id_str": "1235357411440865280",
+		"full_text": "아카이빙 하거나 링크 트윗을 전송해 협업툴이나 메신저로 보내데도 관심글과 리트윗에 있는 기사나 아티클을 챙겨보고 필요할 때 나중에 다시 보기가 힘든데 주구장창 누르며 제목만 보고 코멘트 달아대는 소셜미디어 중독자는 (절레절레)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235357123489329200,
+		"in_reply_to_status_id_str": "1235357123489329153",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아카이빙 하거나 링크 트윗을 전송해 협업툴이나 메신저로 보내데도 관심글과 리트윗에 있는 기사나 아티클을 챙겨보고 필요할 때 나중에 다시 보기가 힘든데 주구장창 누르며 제목만 보고 코멘트 달아대는 소셜미디어 중독자는 (절레절레)"
+	},
+	{
+		"created_at": "Thu Mar 05 00:11:04 +0000 2020",
+		"id": 1235357123489329200,
+		"id_str": "1235357123489329153",
+		"full_text": "자극적인 제목이거나 내가 원하는 방향의 내용일 때 단순이 하고자 하는 말을 하기위해 목적을 달성하기 위해 사용하는 것을 너무 많이 봐왔음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235356300353003500,
+		"in_reply_to_status_id_str": "1235356300353003527",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "자극적인 제목이거나 내가 원하는 방향의 내용일 때 단순이 하고자 하는 말을 하기위해 목적을 달성하기 위해 사용하는 것을 너무 많이 봐왔음."
+	},
+	{
+		"created_at": "Thu Mar 05 00:07:48 +0000 2020",
+		"id": 1235356300353003500,
+		"id_str": "1235356300353003527",
+		"full_text": "리트윗 수를 보고 내용은 읽지도 않고 리트윗을 누르거나 나중에라도 읽으려고 리트윗 하는 경우도 있지만 결국 안 읽는다거나.\n\n트윗을 채팅처럼 이용하는 사람의 리트윗은 신뢰가 많이 낮은 편. 아마 이 사람이 다른 방식으로 전송하거나 아카이빙 하지 않는다면 힘들다고 봐야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235355667264761900,
+		"in_reply_to_status_id_str": "1235355667264761856",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "리트윗 수를 보고 내용은 읽지도 않고 리트윗을 누르거나 나중에라도 읽으려고 리트윗 하는 경우도 있지만 결국 안 읽는다거나.\n\n트윗을 채팅처럼 이용하는 사람의 리트윗은 신뢰가 많이 낮은 편. 아마 이 사람이 다른 방식으로 전송하거나 아카이빙 하지 않는다면 힘들다고 봐야."
+	},
+	{
 		"created_at": "Thu Mar 05 00:00:56 +0000 2020",
 		"id": 1235354571683164200,
 		"id_str": "1235354571683164160",
