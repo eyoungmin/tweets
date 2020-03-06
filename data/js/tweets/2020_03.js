@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 06 10:58:48 +0000 2020",
+		"id": 1235882519905497000,
+		"id_str": "1235882519905497090",
+		"full_text": "#BBC코리아\n백예린 인터뷰: 'JYP와 지금 회사, 너무 달라… 두려운 마음 컸다'\nhttps://t.co/P6lW8AAssJ\n백예린은 지난해 10년 넘게 몸담았던 JYP를 떠났다. 그는 \"많은 게 달라졌다\"고 말한다.\n\n#백예린 #YerinBaek #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "YerinBaek",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P6lW8AAssJ",
+					"expanded_url": "https://www.bbc.com/korean/news-51754782",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n백예린 인터뷰: 'JYP와 지금 회사, 너무 달라… 두려운 마음 컸다'\nhttps://t.co/P6lW8AAssJ\n백예린은 지난해 10년 넘게 몸담았던 JYP를 떠났다. 그는 \"많은 게 달라졌다\"고 말한다.\n\n#백예린 #YerinBaek #minfav"
+	},
+	{
+		"created_at": "Fri Mar 06 10:54:14 +0000 2020",
+		"id": 1235881370070597600,
+		"id_str": "1235881370070597632",
+		"full_text": "#세바시 #세상을바꾸는시간\n세상을 바꾸고 싶었던 타다 대표의 7년 전 이야기, 이 청년 기업가의 꿈을 꺾지 마세요. | 박재욱 VCNC 대표 | 타다 혁신 꿈 도전 | 세바시 355회\nhttps://t.co/Ycuc6JiaTf\n#박재욱 #타다 #타다금지법 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세바시",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "세상을바꾸는시간",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "박재욱",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "타다",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "타다금지법",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						143,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ycuc6JiaTf",
+					"expanded_url": "https://youtu.be/rBnGZQ5o5Yc",
+					"display_url": "youtu.be/rBnGZQ5o5Yc",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235407215139229700,
+		"in_reply_to_status_id_str": "1235407215139229696",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#세바시 #세상을바꾸는시간\n세상을 바꾸고 싶었던 타다 대표의 7년 전 이야기, 이 청년 기업가의 꿈을 꺾지 마세요. | 박재욱 VCNC 대표 | 타다 혁신 꿈 도전 | 세바시 355회\nhttps://t.co/Ycuc6JiaTf\n#박재욱 #타다 #타다금지법 #minfav"
+	},
+	{
 		"created_at": "Fri Mar 06 09:42:20 +0000 2020",
 		"id": 1235863273917911000,
 		"id_str": "1235863273917911042",
