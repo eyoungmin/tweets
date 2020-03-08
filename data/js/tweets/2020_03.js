@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 08 16:25:00 +0000 2020",
+		"id": 1236048680337182700,
+		"id_str": "1236689385296281601",
+		"full_text": "An Update on SXSW 2020. Please read our full statement here: https://t.co/P56nF8KFmE https://t.co/ouJPKM9GNy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P56nF8KFmE",
+					"expanded_url": "https://www.sxsw.com/2020-event-update/",
+					"display_url": "sxsw.com/2020-event-upd…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236047114238603300,
+					"id_str": "1236047114238603266",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ESdSTTHWsAI5fSS.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESdSTTHWsAI5fSS.png",
+					"url": "https://t.co/ouJPKM9GNy",
+					"display_url": "pic.twitter.com/ouJPKM9GNy",
+					"expanded_url": "https://twitter.com/sxsw/status/1236048680337182724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 552,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 552,
+							"h": 303,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 303,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236047114238603300,
+					"id_str": "1236047114238603266",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ESdSTTHWsAI5fSS.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESdSTTHWsAI5fSS.png",
+					"url": "https://t.co/ouJPKM9GNy",
+					"display_url": "pic.twitter.com/ouJPKM9GNy",
+					"expanded_url": "https://twitter.com/sxsw/status/1236048680337182724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 552,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 552,
+							"h": 303,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 303,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 784304,
+			"id_str": "784304",
+			"name": "SXSW",
+			"screen_name": "sxsw",
+			"location": "Austin, TX",
+			"description": "SXSW Conference & Festivals | March 13–22, 2020",
+			"url": "http://t.co/WkBxRez7pi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WkBxRez7pi",
+							"expanded_url": "http://sxsw.com",
+							"display_url": "sxsw.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 663139,
+			"friends_count": 11637,
+			"listed_count": 15222,
+			"created_at": "Tue Feb 20 20:39:13 +0000 2007",
+			"favourites_count": 4536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160941785444696064/tjhf85jw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160941785444696064/tjhf85jw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/784304/1561503596",
+			"profile_link_color": "FCC42D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "343434",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8339,
+		"favorite_count": 12294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An Update on SXSW 2020. Please read our full statement here: https://t.co/P56nF8KFmE https://t.co/ouJPKM9GNy"
+	},
+	{
 		"created_at": "Sun Mar 08 15:24:32 +0000 2020",
 		"id": 1236668000410861600,
 		"id_str": "1236674166427979777",
