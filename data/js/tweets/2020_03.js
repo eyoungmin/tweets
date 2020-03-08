@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 08 15:14:24 +0000 2020",
+		"id": 1236671615921983500,
+		"id_str": "1236671615921983490",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n42] 이명박 전 대통령 재석방과 전광훈 목사 수사 (f. 채윤경 기자)\nhttps://t.co/T8x00GL1Wx\n팟티: https://t.co/WGNj7ZtSd7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T8x00GL1Wx",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1583621177270.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/WGNj7ZtSd7",
+					"expanded_url": "https://www.podty.me/episode/13005686",
+					"display_url": "podty.me/episode/130056…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n42] 이명박 전 대통령 재석방과 전광훈 목사 수사 (f. 채윤경 기자)\nhttps://t.co/T8x00GL1Wx\n팟티: https://t.co/WGNj7ZtSd7"
+	},
+	{
+		"created_at": "Sun Mar 08 15:06:36 +0000 2020",
+		"id": 1236540987540942800,
+		"id_str": "1236669653788667904",
+		"full_text": "\"외국인들은 항상 당당하잖아요. 전 더 잘하고 싶어서 한번 더 생각하고, 좀 더 겸손해지려고 해요. 그래서 겸손해 보이는 거지 '나 잘 못 해' 이런 의미는 아니에요.\" : 허프포스트가 '여성의 날'을 맞아 넷플릭스 '넥스트 인 패션' 우승자인 디자이너 김민주를 만났다. \nhttps://t.co/z2dT48LLeH https://t.co/df8ieBFzw4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z2dT48LLeH",
+					"expanded_url": "http://huffp.st/COoS5bc",
+					"display_url": "huffp.st/COoS5bc",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236540985515167700,
+					"id_str": "1236540985515167744",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ESkTeY_X0AAPXZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESkTeY_X0AAPXZb.jpg",
+					"url": "https://t.co/df8ieBFzw4",
+					"display_url": "pic.twitter.com/df8ieBFzw4",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1236540987540942848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236540985515167700,
+					"id_str": "1236540985515167744",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ESkTeY_X0AAPXZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESkTeY_X0AAPXZb.jpg",
+					"url": "https://t.co/df8ieBFzw4",
+					"display_url": "pic.twitter.com/df8ieBFzw4",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1236540987540942848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 543778633,
+			"id_str": "543778633",
+			"name": "허프포스트코리아",
+			"screen_name": "HuffPostKorea",
+			"location": "SEOUL",
+			"description": "글로벌 온라인 뉴스 미디어 https://t.co/e7LG5sl4oo",
+			"url": "https://t.co/Xkw1g4GZOB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xkw1g4GZOB",
+							"expanded_url": "http://www.huffpost.kr",
+							"display_url": "huffpost.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e7LG5sl4oo",
+							"expanded_url": "https://www.facebook.com/huffpostkorea",
+							"display_url": "facebook.com/huffpostkorea",
+							"indices": [
+								15,
+								38
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 692451,
+			"friends_count": 22,
+			"listed_count": 1175,
+			"created_at": "Mon Apr 02 22:23:12 +0000 2012",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 125922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E7060",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/543778633/1493168298",
+			"profile_link_color": "2E7060",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 885,
+		"favorite_count": 518,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"외국인들은 항상 당당하잖아요. 전 더 잘하고 싶어서 한번 더 생각하고, 좀 더 겸손해지려고 해요. 그래서 겸손해 보이는 거지 '나 잘 못 해' 이런 의미는 아니에요.\" : 허프포스트가 '여성의 날'을 맞아 넷플릭스 '넥스트 인 패션' 우승자인 디자이너 김민주를 만났다. \nhttps://t.co/z2dT48LLeH https://t.co/df8ieBFzw4"
+	},
+	{
 		"created_at": "Sun Mar 08 13:00:22 +0000 2020",
 		"id": 1236637885438230500,
 		"id_str": "1236637885438230529",
