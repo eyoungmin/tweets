@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 15:01:59 +0000 2020",
+		"id": 1236650729407840300,
+		"id_str": "1237030879555276806",
+		"full_text": "🏆제17회 #한국대중음악상 트로피 배달 No. 13 🚚\n\n17회 한대음 3관왕의 주인공 #백예린 ‼️◕ܫ◕ \n#트로피인증샷 🏆📸\n\n-\n💿올해의 음반 \n백예린 [Our love is great]\n\n💿최우수 팝 음반\n백예린 [Our love is great]\n\n🎵최우수 팝 노래\n‘그건 아마 우리의 잘못은 아닐 거야’\n- https://t.co/huW44FlFfu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한국대중음악상",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "트로피인증샷",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236650587795509200,
+					"id_str": "1236650587795509255",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ESl3KFTUUAcwjty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESl3KFTUUAcwjty.jpg",
+					"url": "https://t.co/huW44FlFfu",
+					"display_url": "pic.twitter.com/huW44FlFfu",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1236650729407840256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236650587795509200,
+					"id_str": "1236650587795509255",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ESl3KFTUUAcwjty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESl3KFTUUAcwjty.jpg",
+					"url": "https://t.co/huW44FlFfu",
+					"display_url": "pic.twitter.com/huW44FlFfu",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1236650729407840256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456487957,
+			"id_str": "456487957",
+			"name": "한국대중음악상",
+			"screen_name": "kmusicawards",
+			"location": "Everywhere",
+			"description": "2020 제17회 한국대중음악상 시상식",
+			"url": "https://t.co/WbaqJd68sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbaqJd68sV",
+							"expanded_url": "http://www.koreanmusicawards.com",
+							"display_url": "koreanmusicawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3433,
+			"friends_count": 276,
+			"listed_count": 73,
+			"created_at": "Fri Jan 06 09:22:11 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456487957/1578390540",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏆제17회 #한국대중음악상 트로피 배달 No. 13 🚚\n\n17회 한대음 3관왕의 주인공 #백예린 ‼️◕ܫ◕ \n#트로피인증샷 🏆📸\n\n-\n💿올해의 음반 \n백예린 [Our love is great]\n\n💿최우수 팝 음반\n백예린 [Our love is great]\n\n🎵최우수 팝 노래\n‘그건 아마 우리의 잘못은 아닐 거야’\n- https://t.co/huW44FlFfu"
+	},
+	{
 		"created_at": "Mon Mar 09 11:52:14 +0000 2020",
 		"id": 1236983130185220000,
 		"id_str": "1236983130185220097",
