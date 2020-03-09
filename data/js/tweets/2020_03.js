@@ -1,6 +1,1148 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 05:01:16 +0000 2020",
+		"id": 1236871836383637500,
+		"id_str": "1236879704419794945",
+		"full_text": "세계 여성의 날 기념! 슬로워크 여성 리더 4인을 만났습니다\nhttps://t.co/GLnAmjb4XL\n\n“자신을 믿고, 자신 있게 해나가면 돼요.”\n“능력을 과시하시고요. 나대세요.”\n“하고 싶은 대로, 더 막살아봐요.”\n“뭐든 혼자서 다 하긴 어렵잖아요. 주변 사람들, 동료들을 좀 더 믿고 내려놓는 연습을 해봐요.” https://t.co/nRhgoBSQiN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GLnAmjb4XL",
+					"expanded_url": "http://ppss.kr/archives/213809",
+					"display_url": "ppss.kr/archives/213809",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236870102676471800,
+					"id_str": "1236870102676471808",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/ESo-zh9VAAAfIrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESo-zh9VAAAfIrB.jpg",
+					"url": "https://t.co/nRhgoBSQiN",
+					"display_url": "pic.twitter.com/nRhgoBSQiN",
+					"expanded_url": "https://twitter.com/ppsskr/status/1236871836383637505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236870102676471800,
+					"id_str": "1236870102676471808",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/ESo-zh9VAAAfIrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESo-zh9VAAAfIrB.jpg",
+					"url": "https://t.co/nRhgoBSQiN",
+					"display_url": "pic.twitter.com/nRhgoBSQiN",
+					"expanded_url": "https://twitter.com/ppsskr/status/1236871836383637505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992831082,
+			"id_str": "992831082",
+			"name": "ㅍㅍㅅㅅ",
+			"screen_name": "ppsskr",
+			"location": "",
+			"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+			"url": "http://t.co/22eKl3pLgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/22eKl3pLgd",
+							"expanded_url": "http://ppss.kr",
+							"display_url": "ppss.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239963,
+			"friends_count": 111,
+			"listed_count": 496,
+			"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+			"favourites_count": 1768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1531144326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계 여성의 날 기념! 슬로워크 여성 리더 4인을 만났습니다\nhttps://t.co/GLnAmjb4XL\n\n“자신을 믿고, 자신 있게 해나가면 돼요.”\n“능력을 과시하시고요. 나대세요.”\n“하고 싶은 대로, 더 막살아봐요.”\n“뭐든 혼자서 다 하긴 어렵잖아요. 주변 사람들, 동료들을 좀 더 믿고 내려놓는 연습을 해봐요.” https://t.co/nRhgoBSQiN"
+	},
+	{
+		"created_at": "Mon Mar 09 04:52:21 +0000 2020",
+		"id": 1236877461260042200,
+		"id_str": "1236877461260042241",
+		"full_text": "세계 여성의 날 기념 전격 인터뷰! 슬로워크 여성 리더 4인을 만났습니다\nhttps://t.co/F0vWooKp50\n#슬로워크 #Slowalk #ppss #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬로워크",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "Slowalk",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "ppss",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F0vWooKp50",
+					"expanded_url": "https://ppss.kr/archives/213809",
+					"display_url": "ppss.kr/archives/213809",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계 여성의 날 기념 전격 인터뷰! 슬로워크 여성 리더 4인을 만났습니다\nhttps://t.co/F0vWooKp50\n#슬로워크 #Slowalk #ppss #minfav"
+	},
+	{
+		"created_at": "Mon Mar 09 04:50:04 +0000 2020",
+		"id": 1236151973336043500,
+		"id_str": "1236876885901991936",
+		"full_text": "#멜론티켓 #티켓오픈소식\n[오픈]20.03.09(월) : ［프롬의 봄 뮤직＆토크 스테이지］티켓 오픈 안내\nhttps://t.co/Gune0P4W07 https://t.co/KlUclnUtzv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gune0P4W07",
+					"expanded_url": "http://bit.ly/2VYEK26",
+					"display_url": "bit.ly/2VYEK26",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236151972262264800,
+					"id_str": "1236151972262264832",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ESexq1sXQAAdweP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESexq1sXQAAdweP.jpg",
+					"url": "https://t.co/KlUclnUtzv",
+					"display_url": "pic.twitter.com/KlUclnUtzv",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1236151973336043521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236151972262264800,
+					"id_str": "1236151972262264832",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ESexq1sXQAAdweP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESexq1sXQAAdweP.jpg",
+					"url": "https://t.co/KlUclnUtzv",
+					"display_url": "pic.twitter.com/KlUclnUtzv",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1236151973336043521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2400267686,
+			"id_str": "2400267686",
+			"name": "멜론 티켓 - 티켓오픈소식",
+			"screen_name": "MelonTicketOpen",
+			"location": "",
+			"description": "#멜론티켓 #티켓오픈소식 비공식 봇\n\n @InterTicketOpen @YES24TicketOpen",
+			"url": "https://t.co/XUApYV815i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XUApYV815i",
+							"expanded_url": "https://ticket.melon.com/csoon/index.htm",
+							"display_url": "ticket.melon.com/csoon/index.htm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42,
+			"friends_count": 6,
+			"listed_count": 3,
+			"created_at": "Thu Mar 20 18:19:10 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400267686/1575564440",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론티켓 #티켓오픈소식\n[오픈]20.03.09(월) : ［프롬의 봄 뮤직＆토크 스테이지］티켓 오픈 안내\nhttps://t.co/Gune0P4W07 https://t.co/KlUclnUtzv"
+	},
+	{
+		"created_at": "Mon Mar 09 04:40:24 +0000 2020",
+		"id": 1236872093934870500,
+		"id_str": "1236874452324896768",
+		"full_text": "8년간 운영해온 300만 다운로드앱 개발자계정이 해지당했습니다 https://t.co/Tmkw32MzI2 \n- 운영중인 여러 개인앱에서 개인정보처리방침 URL을 입력하라는 경고메일을 받음\n- 메일을 받은지 24시간도 되지 않아서 개발자 계정이 해지\n- 해지이유도 명확하지 않음\n- Google Play 개발자지원팀에...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tmkw32MzI2",
+					"expanded_url": "http://j.mp/2IBGUwJ",
+					"display_url": "j.mp/2IBGUwJ",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8년간 운영해온 300만 다운로드앱 개발자계정이 해지당했습니다 https://t.co/Tmkw32MzI2 \n- 운영중인 여러 개인앱에서 개인정보처리방침 URL을 입력하라는 경고메일을 받음\n- 메일을 받은지 24시간도 되지 않아서 개발자 계정이 해지\n- 해지이유도 명확하지 않음\n- Google Play 개발자지원팀에..."
+	},
+	{
+		"created_at": "Mon Mar 09 04:39:38 +0000 2020",
+		"id": 1236874263061135400,
+		"id_str": "1236874263061135363",
+		"full_text": "Authy 2단계 인증을 더 선호해서 구글은 꼭 구글을 써야하는 거 아니면 잘 안 씀.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 913,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Authy 2단계 인증을 더 선호해서 구글은 꼭 구글을 써야하는 거 아니면 잘 안 씀."
+	},
+	{
+		"created_at": "Mon Mar 09 04:29:49 +0000 2020",
+		"id": 1236867857314504700,
+		"id_str": "1236871791076761600",
+		"full_text": "5월까지 예정된 행사들이 코로나 바이러스로 인해 전부 취소/연기되었습니다. 너무나 한가하기 때문에 공연 때 팔려고 가지고 있던 라이브 앨범을 통신판매합니다. (50장 정도 있음) 자세한 사항은 신청폼에 쓰여 있습니다. 잘 부탁드립니다.😷https://t.co/uPQD5Xmxka",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPQD5Xmxka",
+					"expanded_url": "https://forms.gle/vVULwGS59hU2tMfJ9",
+					"display_url": "forms.gle/vVULwGS59hU2tM…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "🥕자영업자🔥의뢰|문의 📧 info.langlee@gmail.com 📧 日本の仕事は info.sweetdreams@gmail.comでお願いします. STAFF @info_langlee",
+			"url": "https://t.co/bUYoYg3RHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUYoYg3RHg",
+							"expanded_url": "http://www.youtube.com/user/langleeschool",
+							"display_url": "youtube.com/user/langleesc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31020,
+			"friends_count": 913,
+			"listed_count": 228,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1575387914",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5월까지 예정된 행사들이 코로나 바이러스로 인해 전부 취소/연기되었습니다. 너무나 한가하기 때문에 공연 때 팔려고 가지고 있던 라이브 앨범을 통신판매합니다. (50장 정도 있음) 자세한 사항은 신청폼에 쓰여 있습니다. 잘 부탁드립니다.😷https://t.co/uPQD5Xmxka"
+	},
+	{
+		"created_at": "Mon Mar 09 04:29:41 +0000 2020",
+		"id": 1236869292282404900,
+		"id_str": "1236871758788964352",
+		"full_text": "네이버 ‘바이브’,  음원정산 방식 왜 바꾸나 https://t.co/ml1o1bzSUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ml1o1bzSUU",
+					"expanded_url": "http://www.bloter.net/archives/373821",
+					"display_url": "bloter.net/archives/373821",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56554,
+			"friends_count": 9,
+			"listed_count": 2518,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버 ‘바이브’,  음원정산 방식 왜 바꾸나 https://t.co/ml1o1bzSUU"
+	},
+	{
+		"created_at": "Mon Mar 09 04:23:22 +0000 2020",
+		"id": 1236776075327197200,
+		"id_str": "1236870165385474049",
+		"full_text": "지난주에 발견된 안드로이드용 구글 인증자 앱 해킹의 수법이 공개. 원격으로 앱을 실행해 코드의 스샷을 찍어 전송해 그걸 보고 로그인한다고. 안드로이드에는 스샷금지기능이 있지만 구글이 이를 설정하지 않았고 14년부터 수차례 경고를 받았지만 수정하지 않음. https://t.co/I6lZeDS5Lc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I6lZeDS5Lc",
+					"expanded_url": "https://www.zdnet.com/article/google-could-have-fixed-2fa-code-stealing-flaw-in-authenticator-app-years-ago/",
+					"display_url": "zdnet.com/article/google…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63764417,
+			"id_str": "63764417",
+			"name": "푸른곰",
+			"screen_name": "purengom",
+			"location": "Gyeonggi Province, South Korea",
+			"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+			"url": "https://t.co/axyNeG94zY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/axyNeG94zY",
+							"expanded_url": "http://purengom.com",
+							"display_url": "purengom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3709,
+			"friends_count": 3102,
+			"listed_count": 139,
+			"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+			"favourites_count": 56269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 215586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난주에 발견된 안드로이드용 구글 인증자 앱 해킹의 수법이 공개. 원격으로 앱을 실행해 코드의 스샷을 찍어 전송해 그걸 보고 로그인한다고. 안드로이드에는 스샷금지기능이 있지만 구글이 이를 설정하지 않았고 14년부터 수차례 경고를 받았지만 수정하지 않음. https://t.co/I6lZeDS5Lc"
+	},
+	{
+		"created_at": "Mon Mar 09 04:23:04 +0000 2020",
+		"id": 1236427081988182000,
+		"id_str": "1236870090265481217",
+		"full_text": "폰으로 주문부터 계산까지…’테이블 오더’ 확산 https://t.co/7AF4uP433Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7AF4uP433Z",
+					"expanded_url": "http://www.bloter.net/archives/373674",
+					"display_url": "bloter.net/archives/373674",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56554,
+			"friends_count": 9,
+			"listed_count": 2518,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "폰으로 주문부터 계산까지…’테이블 오더’ 확산 https://t.co/7AF4uP433Z"
+	},
+	{
 		"created_at": "Mon Mar 09 03:24:32 +0000 2020",
 		"id": 1236849319912722400,
 		"id_str": "1236855359622520834",
