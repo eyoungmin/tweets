@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 15:15:10 +0000 2020",
+		"id": 1236819257641422800,
+		"id_str": "1237034196524122112",
+		"full_text": "진짜 날개는 태연이 아니면 누가 부를수 있어🥺🥺 올라가는거 너무 편안해서 더 놀라워😭😭😭\n#HAPPYTAEYEONDAY\n#TAEYEON https://t.co/gwZWUbc43o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPYTAEYEONDAY",
+					"indices": [
+						50,
+						66
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236819139634880500,
+					"id_str": "1236819139634880512",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236819139634880512/pu/img/q_OgijYqk-XxSgVH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236819139634880512/pu/img/q_OgijYqk-XxSgVH.jpg",
+					"url": "https://t.co/gwZWUbc43o",
+					"display_url": "pic.twitter.com/gwZWUbc43o",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1236819257641422848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236819139634880500,
+					"id_str": "1236819139634880512",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236819139634880512/pu/img/q_OgijYqk-XxSgVH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236819139634880512/pu/img/q_OgijYqk-XxSgVH.jpg",
+					"url": "https://t.co/gwZWUbc43o",
+					"display_url": "pic.twitter.com/gwZWUbc43o",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1236819257641422848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42688,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236819139634880512/pu/vid/640x360/AOnfmv54WksSgAQg.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236819139634880512/pu/vid/480x270/CnIHrreT-bX_67_E.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1236819139634880512/pu/pl/fwB2GngE5Wu4QuSN.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236819139634880512/pu/vid/1280x720/Tzr6z1ZpkHtulO2E.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3247398667,
+			"id_str": "3247398667",
+			"name": "Alluring voice",
+			"screen_name": "alluring_voice",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/0Hbtw9STT5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Hbtw9STT5",
+							"expanded_url": "http://taeyeon.smtown.com",
+							"display_url": "taeyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34950,
+			"friends_count": 4,
+			"listed_count": 1091,
+			"created_at": "Wed Jun 17 02:13:44 +0000 2015",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236669784114126848/8gdjcEiO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236669784114126848/8gdjcEiO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3247398667/1582536459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1394,
+		"favorite_count": 1729,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진짜 날개는 태연이 아니면 누가 부를수 있어🥺🥺 올라가는거 너무 편안해서 더 놀라워😭😭😭\n#HAPPYTAEYEONDAY\n#TAEYEON https://t.co/gwZWUbc43o"
+	},
+	{
+		"created_at": "Mon Mar 09 15:11:11 +0000 2020",
+		"id": 1236914375467778000,
+		"id_str": "1237033195964530688",
+		"full_text": "Youka - Youtube to Karaoke https://t.co/4ifjdA45Bv \n- 유튜브의 어떤 노래든 노래방 영상으로 만들어 주는 오픈소스\n- 윈/맥 실행파일 제공\n- ytdl로 다운, Spleeter로 음성 분리, 가사 검색하여 aeneas로 가사 싱크\n- ffmpeg 으로 반주/보컬/오리지널 세개의 동영상을 인코딩한후 Plyr로 재생",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ifjdA45Bv",
+					"expanded_url": "http://j.mp/3cB23VI",
+					"display_url": "j.mp/3cB23VI",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2458,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Youka - Youtube to Karaoke https://t.co/4ifjdA45Bv \n- 유튜브의 어떤 노래든 노래방 영상으로 만들어 주는 오픈소스\n- 윈/맥 실행파일 제공\n- ytdl로 다운, Spleeter로 음성 분리, 가사 검색하여 aeneas로 가사 싱크\n- ffmpeg 으로 반주/보컬/오리지널 세개의 동영상을 인코딩한후 Plyr로 재생"
+	},
+	{
+		"created_at": "Mon Mar 09 15:06:22 +0000 2020",
+		"id": 1237031982900674600,
+		"id_str": "1237031982900674560",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n43]코로나 쇼크, 미국 중앙은행이 나섰다(f. 조현숙 기자)\nhttps://t.co/inraKro89n\n팟티: https://t.co/Q3uroLEmOp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/inraKro89n",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1583736872739.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/Q3uroLEmOp",
+					"expanded_url": "https://www.podty.me/episode/13009626",
+					"display_url": "podty.me/episode/130096…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n43]코로나 쇼크, 미국 중앙은행이 나섰다(f. 조현숙 기자)\nhttps://t.co/inraKro89n\n팟티: https://t.co/Q3uroLEmOp"
+	},
+	{
 		"created_at": "Mon Mar 09 15:01:59 +0000 2020",
 		"id": 1236650729407840300,
 		"id_str": "1237030879555276806",
