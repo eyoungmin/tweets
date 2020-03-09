@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 15:51:42 +0000 2020",
+		"id": 1236544043078660000,
+		"id_str": "1237043391709327361",
+		"full_text": "오늘은 세계 여성의 날 입니다!🙆‍♀❤\n#세계여성의날 #InternationalWomensDay https://t.co/T8SvxF4xUF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세계여성의날",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "InternationalWomensDay",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236542784850423800,
+					"id_str": "1236542784850423808",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1236542784850423808/img/gdfPJIGGa1F4VIQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1236542784850423808/img/gdfPJIGGa1F4VIQD.jpg",
+					"url": "https://t.co/T8SvxF4xUF",
+					"display_url": "pic.twitter.com/T8SvxF4xUF",
+					"expanded_url": "https://twitter.com/olympiko/status/1236544043078660096/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236542784850423800,
+					"id_str": "1236542784850423808",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1236542784850423808/img/gdfPJIGGa1F4VIQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1236542784850423808/img/gdfPJIGGa1F4VIQD.jpg",
+					"url": "https://t.co/T8SvxF4xUF",
+					"display_url": "pic.twitter.com/T8SvxF4xUF",
+					"expanded_url": "https://twitter.com/olympiko/status/1236544043078660096/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 174080,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1236542784850423808/vid/480x270/PwE0rCzGaLGcClGj.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1236542784850423808/pl/J0A_HG8ck3VOU951.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1236542784850423808/vid/1280x720/NFXqefeVNvb6AZaX.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1236542784850423808/vid/640x360/R0QfbtDLrf_DMV8-.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2220078308,
+			"id_str": "2220078308",
+			"name": "올림픽",
+			"screen_name": "olympiko",
+			"location": "로잔, 스위스",
+			"description": "국제올림픽위원회(IOC) 공식 한국어 계정입니다.",
+			"url": "https://t.co/ReYjXCfYRH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ReYjXCfYRH",
+							"expanded_url": "http://olympic.org",
+							"display_url": "olympic.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20765,
+			"friends_count": 162,
+			"listed_count": 167,
+			"created_at": "Thu Nov 28 17:15:05 +0000 2013",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788645801354522624/yZpCtElO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788645801354522624/yZpCtElO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2220078308/1569890640",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5648,
+		"favorite_count": 3998,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 세계 여성의 날 입니다!🙆‍♀❤\n#세계여성의날 #InternationalWomensDay https://t.co/T8SvxF4xUF"
+	},
+	{
 		"created_at": "Mon Mar 09 15:15:10 +0000 2020",
 		"id": 1236819257641422800,
 		"id_str": "1237034196524122112",
