@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 05:24:31 +0000 2020",
+		"id": 1237245190923939800,
+		"id_str": "1237247946204348417",
+		"full_text": "👩‍💻재택근무가 어려운 분들을 위한 온라인 세미나👨‍💻\n조선비즈(@ChosunBiz) 컨벤션클럽에서 오랜시간 동안 리모트 워크를 도입하고 유지해 온 전문가들의 노하우를 나누는 자리가 열려요. 평소 궁금했던 점을 해소할 수 있는 좋은 시간이 되겠죠? 자세한 정보는 링크에서!🙏https://t.co/0YI8o445sv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChosunBiz",
+					"name": "ChosunBiz",
+					"id": 138254533,
+					"id_str": "138254533",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0YI8o445sv",
+					"expanded_url": "https://convention.chosunbiz.com/%EB%AC%B4%EB%A3%8C%ED%96%89%EC%82%AC/%EC%BB%A8%EB%B2%A4%EC%85%98%ED%81%B4%EB%9F%BD-%EA%B8%B0%ED%9A%8D%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9B%90%EA%B2%A9%EA%B7%BC%EB%AC%B4",
+					"display_url": "convention.chosunbiz.com/%EB%AC%B4%EB%A…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4976,
+			"friends_count": 3448,
+			"listed_count": 226,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👩‍💻재택근무가 어려운 분들을 위한 온라인 세미나👨‍💻\n조선비즈(@ChosunBiz) 컨벤션클럽에서 오랜시간 동안 리모트 워크를 도입하고 유지해 온 전문가들의 노하우를 나누는 자리가 열려요. 평소 궁금했던 점을 해소할 수 있는 좋은 시간이 되겠죠? 자세한 정보는 링크에서!🙏https://t.co/0YI8o445sv"
+	},
+	{
 		"created_at": "Tue Mar 10 04:51:19 +0000 2020",
 		"id": 1237239590701981700,
 		"id_str": "1237239590701981696",
