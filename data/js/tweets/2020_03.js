@@ -1,10 +1,127 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 06:27:33 +0000 2020",
+		"id": 1237219571431395300,
+		"id_str": "1237263807732273152",
+		"full_text": "청하(@CHUNGHA_MNHent)가 글로벌 에이전시 ICM Partners와 손을 잡았습니다. 이로써 청하는 세계 시장으로 커리어를 확장해나갈 것으로 예상됩니다.\n\nhttps://t.co/G8L1bfv7Nk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G8L1bfv7Nk",
+					"expanded_url": "https://www.billboard.com/articles/news/international/9330759/k-pop-chung-ha-signs-with-icm-partners?utm_medium=social&utm_source=twitter",
+					"display_url": "billboard.com/articles/news/…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19977,
+			"friends_count": 16,
+			"listed_count": 76,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1583207273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청하(@CHUNGHA_MNHent)가 글로벌 에이전시 ICM Partners와 손을 잡았습니다. 이로써 청하는 세계 시장으로 커리어를 확장해나갈 것으로 예상됩니다.\n\nhttps://t.co/G8L1bfv7Nk"
+	},
+	{
 		"created_at": "Tue Mar 10 05:24:31 +0000 2020",
 		"id": 1237245190923939800,
 		"id_str": "1237247946204348417",
-		"full_text": "👩‍💻재택근무가 어려운 분들을 위한 온라인 세미나👨‍💻\n조선비즈(@ChosunBiz) 컨벤션클럽에서 오랜시간 동안 리모트 워크를 도입하고 유지해 온 전문가들의 노하우를 나누는 자리가 열려요. 평소 궁금했던 점을 해소할 수 있는 좋은 시간이 되겠죠? 자세한 정보는 링크에서!🙏https://t.co/0YI8o445sv",
+		"full_text": "👩💻재택근무가 어려운 분들을 위한 온라인 세미나👨💻\n조선비즈(@ChosunBiz) 컨벤션클럽에서 오랜시간 동안 리모트 워크를 도입하고 유지해 온 전문가들의 노하우를 나누는 자리가 열려요. 평소 궁금했던 점을 해소할 수 있는 좋은 시간이 되겠죠? 자세한 정보는 링크에서!🙏https://t.co/0YI8o445sv",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -115,7 +232,7 @@ Grailbird.data.tweets_2020_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "👩‍💻재택근무가 어려운 분들을 위한 온라인 세미나👨‍💻\n조선비즈(@ChosunBiz) 컨벤션클럽에서 오랜시간 동안 리모트 워크를 도입하고 유지해 온 전문가들의 노하우를 나누는 자리가 열려요. 평소 궁금했던 점을 해소할 수 있는 좋은 시간이 되겠죠? 자세한 정보는 링크에서!🙏https://t.co/0YI8o445sv"
+		"text": "👩💻재택근무가 어려운 분들을 위한 온라인 세미나👨💻\n조선비즈(@ChosunBiz) 컨벤션클럽에서 오랜시간 동안 리모트 워크를 도입하고 유지해 온 전문가들의 노하우를 나누는 자리가 열려요. 평소 궁금했던 점을 해소할 수 있는 좋은 시간이 되겠죠? 자세한 정보는 링크에서!🙏https://t.co/0YI8o445sv"
 	},
 	{
 		"created_at": "Tue Mar 10 04:51:19 +0000 2020",
