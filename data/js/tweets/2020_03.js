@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 14:29:12 +0000 2020",
+		"id": 1237362571788894200,
+		"id_str": "1237385018323787779",
+		"full_text": "보건 당국이 우리 몸 안에 침투한 코로나19 바이러스와 싸울 항체를 찾아내는, 탐지용 단백질 개발에 성공했습니다. https://t.co/niDqI2bai5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237338087249739800,
+					"id_str": "1237338087249739777",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1237338087249739777/img/pePmkO9FezvB4ltF.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1237338087249739777/img/pePmkO9FezvB4ltF.jpg",
+					"url": "https://t.co/niDqI2bai5",
+					"display_url": "pic.twitter.com/niDqI2bai5",
+					"expanded_url": "https://twitter.com/mbcnews/status/1237362571788894210/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237338087249739800,
+					"id_str": "1237338087249739777",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1237338087249739777/img/pePmkO9FezvB4ltF.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1237338087249739777/img/pePmkO9FezvB4ltF.jpg",
+					"url": "https://t.co/niDqI2bai5",
+					"display_url": "pic.twitter.com/niDqI2bai5",
+					"expanded_url": "https://twitter.com/mbcnews/status/1237362571788894210/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 139375,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1237338087249739777/pl/VlFKVlPZkLVyc9RJ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1237338087249739777/vid/480x272/9DRujLjjEbWt-Y-E.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "치료제 첫 단추‥\"항체 탐지 단백질 제작 성공\"",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://imnews.imbc.com/replay/2020/nwdesk/article/5670668_32524.html"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395907,
+			"friends_count": 149621,
+			"listed_count": 3680,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 126,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보건 당국이 우리 몸 안에 침투한 코로나19 바이러스와 싸울 항체를 찾아내는, 탐지용 단백질 개발에 성공했습니다. https://t.co/niDqI2bai5"
+	},
+	{
 		"created_at": "Tue Mar 10 13:55:22 +0000 2020",
 		"id": 1237376504289321000,
 		"id_str": "1237376504289320960",
