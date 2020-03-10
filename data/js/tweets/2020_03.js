@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 23:57:58 +0000 2020",
+		"id": 1236983942525276200,
+		"id_str": "1237165763313553409",
+		"full_text": "우리는 익숙한 위험은 과소평가, 새 위협은 과대평가한다. 코로나19 사망율이 다른 질병/사고보다 턱없이 낮아도 연일 보도되는 감염자수에 공포감. 자기 잘못이 남 해친다는 사실 강조하면 방역에 도움. 아픈데도 외출하거나 손 안 씻으면 타인 해친다고 엄중 경고하면 효과. https://t.co/2b4Ep1Y9GD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2b4Ep1Y9GD",
+					"expanded_url": "https://www.nytimes.com/2020/03/08/opinion/coronavirus-altruism.html",
+					"display_url": "nytimes.com/2020/03/08/opi…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102867,
+			"friends_count": 2441,
+			"listed_count": 393,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리는 익숙한 위험은 과소평가, 새 위협은 과대평가한다. 코로나19 사망율이 다른 질병/사고보다 턱없이 낮아도 연일 보도되는 감염자수에 공포감. 자기 잘못이 남 해친다는 사실 강조하면 방역에 도움. 아픈데도 외출하거나 손 안 씻으면 타인 해친다고 엄중 경고하면 효과. https://t.co/2b4Ep1Y9GD"
+	},
+	{
 		"created_at": "Mon Mar 09 21:41:18 +0000 2020",
 		"id": 1237131371719659500,
 		"id_str": "1237131371719659527",
