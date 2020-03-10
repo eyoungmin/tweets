@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 01:24:32 +0000 2020",
+		"id": 1237187109598838800,
+		"id_str": "1237187548570673154",
+		"full_text": "왜 조직에 새로운 도구를 도입하는 게 어려울까?\n왜 어떤 조직은 쉽게 변하지 못할까?\n그렇다면 빠띠는 어떻게 조직과 사람들의 변화를 도울 수 있을까?\n\n‘우리는 어떻게 일하는지, 어떻게 실험을 도입하고 변화를 포용하며 일하고 있는지’ 돌아보게 되었습니다.\n\n🚢🧭 https://t.co/ywLAkE6Cw7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ywLAkE6Cw7",
+					"expanded_url": "https://parti.coop/posts/152",
+					"display_url": "parti.coop/posts/152",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 147,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜 조직에 새로운 도구를 도입하는 게 어려울까?\n왜 어떤 조직은 쉽게 변하지 못할까?\n그렇다면 빠띠는 어떻게 조직과 사람들의 변화를 도울 수 있을까?\n\n‘우리는 어떻게 일하는지, 어떻게 실험을 도입하고 변화를 포용하며 일하고 있는지’ 돌아보게 되었습니다.\n\n🚢🧭 https://t.co/ywLAkE6Cw7"
+	},
+	{
 		"created_at": "Mon Mar 09 23:57:58 +0000 2020",
 		"id": 1236983942525276200,
 		"id_str": "1237165763313553409",
