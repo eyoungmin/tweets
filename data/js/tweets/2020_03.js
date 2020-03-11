@@ -1,6 +1,1102 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 16:57:19 +0000 2020",
+		"id": 1237784679261954000,
+		"id_str": "1237784679261954048",
+		"full_text": "갤럭시S20 유튜브 광고 보면 별도의 콘텐츠를 기획하는 것이 아니라 기존 콘텐츠를 활용하는 방식. 인플루언서 뿐 아니라 연예인과 방송사 채널도 활용.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "갤럭시S20 유튜브 광고 보면 별도의 콘텐츠를 기획하는 것이 아니라 기존 콘텐츠를 활용하는 방식. 인플루언서 뿐 아니라 연예인과 방송사 채널도 활용."
+	},
+	{
+		"created_at": "Wed Mar 11 16:55:46 +0000 2020",
+		"id": 1237679662479753200,
+		"id_str": "1237784289615310848",
+		"full_text": "[VIDEO]\n⠀\n[미야네캠] EP.24 : Galaxy S20+ 언박싱🎁\n🔗 https://t.co/616EouFpW3\n⠀\n#선미 #갤럭시S20 #Galaxys20\n#SUNMI #미야네캠 #MIYANECAM\n#앗_요새_가장_핫하다던_선미🙊 https://t.co/MEzv3wQQzq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "갤럭시S20",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "Galaxys20",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "미야네캠",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "MIYANECAM",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "앗_요새_가장_핫하다던_선미",
+					"indices": [
+						117,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/616EouFpW3",
+					"expanded_url": "https://youtu.be/WAQoqiZpVFA",
+					"display_url": "youtu.be/WAQoqiZpVFA",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237667145871265800,
+					"id_str": "1237667145871265792",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/ES0TtjPUEAAJhTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES0TtjPUEAAJhTC.jpg",
+					"url": "https://t.co/MEzv3wQQzq",
+					"display_url": "pic.twitter.com/MEzv3wQQzq",
+					"expanded_url": "https://twitter.com/official_sunmi_/status/1237679662479753218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237667145871265800,
+					"id_str": "1237667145871265792",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/ES0TtjPUEAAJhTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES0TtjPUEAAJhTC.jpg",
+					"url": "https://t.co/MEzv3wQQzq",
+					"display_url": "pic.twitter.com/MEzv3wQQzq",
+					"expanded_url": "https://twitter.com/official_sunmi_/status/1237679662479753218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895202531978104800,
+			"id_str": "895202531978104832",
+			"name": "선미 SUNMI",
+			"screen_name": "official_sunmi_",
+			"location": "",
+			"description": "SUNMI Official Twitter",
+			"url": "https://t.co/j9kgBMrEdJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j9kgBMrEdJ",
+							"expanded_url": "https://www.facebook.com/groups/officialsunmi/",
+							"display_url": "facebook.com/groups/officia…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231451,
+			"friends_count": 2,
+			"listed_count": 1240,
+			"created_at": "Wed Aug 09 08:38:10 +0000 2017",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166274031479181313/2s5CIaLV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166274031479181313/2s5CIaLV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895202531978104832/1566896375",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 286,
+		"favorite_count": 2057,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO]\n⠀\n[미야네캠] EP.24 : Galaxy S20+ 언박싱🎁\n🔗 https://t.co/616EouFpW3\n⠀\n#선미 #갤럭시S20 #Galaxys20\n#SUNMI #미야네캠 #MIYANECAM\n#앗_요새_가장_핫하다던_선미🙊 https://t.co/MEzv3wQQzq"
+	},
+	{
+		"created_at": "Wed Mar 11 16:52:34 +0000 2020",
+		"id": 1237783483465863200,
+		"id_str": "1237783483465863169",
+		"full_text": "문제를 어떻게 해결해야 하는지 피드백을 어디에 요구해야 하는지 제대로 알고 있는 사람이 적고 이것은 민주사회 시민교육과 연관된다고 생각.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "문제를 어떻게 해결해야 하는지 피드백을 어디에 요구해야 하는지 제대로 알고 있는 사람이 적고 이것은 민주사회 시민교육과 연관된다고 생각."
+	},
+	{
+		"created_at": "Wed Mar 11 16:50:25 +0000 2020",
+		"id": 1237248891705122800,
+		"id_str": "1237782944439128065",
+		"full_text": "약국은 원래 담당해야할 조제/상담 업무, 약과 상품을 정리하고 배치하는 업무를 뒷전으로 미룰 수 밖에 없다. 마스크가 있냐고 물어보는 전화는 5분마다 한 번씩 걸려오고 마스크를 얻지 못했다는 이유로 약사를 욕하는 사람들을 매일매일 상대해야 하기 때문이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237248890316836900,
+		"in_reply_to_status_id_str": "1237248890316836866",
+		"in_reply_to_user_id": 1063860372459814900,
+		"in_reply_to_user_id_str": "1063860372459814913",
+		"in_reply_to_screen_name": "vanishingsummer",
+		"user": {
+			"id": 1063860372459814900,
+			"id_str": "1063860372459814913",
+			"name": "소하연",
+			"screen_name": "vanishingsummer",
+			"location": "",
+			"description": "책 만들고 글 씁니다!\n궁금한 게 많은 호기심천국",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37,
+			"friends_count": 240,
+			"listed_count": 0,
+			"created_at": "Sat Nov 17 18:24:13 +0000 2018",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215469143102672897/wAguj_um_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215469143102672897/wAguj_um_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063860372459814913/1578625401",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 360,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "약국은 원래 담당해야할 조제/상담 업무, 약과 상품을 정리하고 배치하는 업무를 뒷전으로 미룰 수 밖에 없다. 마스크가 있냐고 물어보는 전화는 5분마다 한 번씩 걸려오고 마스크를 얻지 못했다는 이유로 약사를 욕하는 사람들을 매일매일 상대해야 하기 때문이다."
+	},
+	{
+		"created_at": "Wed Mar 11 16:50:18 +0000 2020",
+		"id": 1237248890316836900,
+		"id_str": "1237782914395303936",
+		"full_text": "약국을 힘들게 만드는 큰 원인 중의 하나는 공정에 대한 '자기만의 감각'이다. 마스크를 오픈시간부터 선착순으로 방문한 사람에게 번호표를 나눠주든, 마스크를 판매하는 시간을 정해놓고 팔든, 언제나 '공정하지 않다'고 말하는 사람들이 찾아온다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237244305707634700,
+		"in_reply_to_status_id_str": "1237244305707634688",
+		"in_reply_to_user_id": 1063860372459814900,
+		"in_reply_to_user_id_str": "1063860372459814913",
+		"in_reply_to_screen_name": "vanishingsummer",
+		"user": {
+			"id": 1063860372459814900,
+			"id_str": "1063860372459814913",
+			"name": "소하연",
+			"screen_name": "vanishingsummer",
+			"location": "",
+			"description": "책 만들고 글 씁니다!\n궁금한 게 많은 호기심천국",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37,
+			"friends_count": 240,
+			"listed_count": 0,
+			"created_at": "Sat Nov 17 18:24:13 +0000 2018",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215469143102672897/wAguj_um_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215469143102672897/wAguj_um_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063860372459814913/1578625401",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 712,
+		"favorite_count": 222,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "약국을 힘들게 만드는 큰 원인 중의 하나는 공정에 대한 '자기만의 감각'이다. 마스크를 오픈시간부터 선착순으로 방문한 사람에게 번호표를 나눠주든, 마스크를 판매하는 시간을 정해놓고 팔든, 언제나 '공정하지 않다'고 말하는 사람들이 찾아온다."
+	},
+	{
+		"created_at": "Wed Mar 11 16:50:15 +0000 2020",
+		"id": 1237244305707634700,
+		"id_str": "1237782904492576769",
+		"full_text": "요즘 약국에서 엄마를 도와드리고 있는데 거의 매번 이런 사람들의 '적의'를 마주하게 된다. 오로지 자기가 마스크를 못 샀다는 이유다. 약사의 잘못이 없다는 게 명백해도 적의는 사그라들지 않는다.\n엄마는 매일 이런 사람들을 마주할텐데, 약사들의 정신적 피로와 공포감이 어느정도일지 아득하다.. https://t.co/C5Qkeyl5Vk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C5Qkeyl5Vk",
+					"expanded_url": "https://twitter.com/myungjung0905/status/1237204149801906176",
+					"display_url": "twitter.com/myungjung0905/…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1063860372459814900,
+			"id_str": "1063860372459814913",
+			"name": "소하연",
+			"screen_name": "vanishingsummer",
+			"location": "",
+			"description": "책 만들고 글 씁니다!\n궁금한 게 많은 호기심천국",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37,
+			"friends_count": 240,
+			"listed_count": 0,
+			"created_at": "Sat Nov 17 18:24:13 +0000 2018",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215469143102672897/wAguj_um_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215469143102672897/wAguj_um_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063860372459814913/1578625401",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237204149801906200,
+		"quoted_status_id_str": "1237204149801906176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/C5Qkeyl5Vk",
+			"expanded": "https://twitter.com/myungjung0905/status/1237204149801906176",
+			"display": "twitter.com/myungjung0905/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 10 02:30:30 +0000 2020",
+			"id": 1237204149801906200,
+			"id_str": "1237204149801906176",
+			"full_text": "\"마스크 떨어졌다\" 하자\n '낫' 들고 협박한 남성 https://t.co/eCr3vtQkgI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				28
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1237204100535603200,
+						"id_str": "1237204100535603201",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237204100535603201/pu/img/ybMpo9ez0htsrisb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237204100535603201/pu/img/ybMpo9ez0htsrisb.jpg",
+						"url": "https://t.co/eCr3vtQkgI",
+						"display_url": "pic.twitter.com/eCr3vtQkgI",
+						"expanded_url": "https://twitter.com/myungjung0905/status/1237204149801906176/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1237204100535603200,
+						"id_str": "1237204100535603201",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237204100535603201/pu/img/ybMpo9ez0htsrisb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237204100535603201/pu/img/ybMpo9ez0htsrisb.jpg",
+						"url": "https://t.co/eCr3vtQkgI",
+						"display_url": "pic.twitter.com/eCr3vtQkgI",
+						"expanded_url": "https://twitter.com/myungjung0905/status/1237204149801906176/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 37337,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1237204100535603201/pu/pl/OoWY2GbL3bL8NKBw.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1237204100535603201/pu/vid/640x360/i2dVtrtomh7S9-uJ.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1237204100535603201/pu/vid/480x270/WWY4bq2NwgEakW-r.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1176342378036097000,
+				"id_str": "1176342378036097024",
+				"name": "따람따람",
+				"screen_name": "myungjung0905",
+				"location": "서울(강남을민주당원)",
+				"description": "시가눈물이되어 흐를때...",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2684,
+				"friends_count": 2805,
+				"listed_count": 5,
+				"created_at": "Tue Sep 24 03:47:44 +0000 2019",
+				"favourites_count": 12486,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15377,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232547186484711424/iQBnKpa__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232547186484711424/iQBnKpa__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1176342378036097024/1579232709",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2218,
+			"favorite_count": 487,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 14481,
+		"favorite_count": 3215,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 약국에서 엄마를 도와드리고 있는데 거의 매번 이런 사람들의 '적의'를 마주하게 된다. 오로지 자기가 마스크를 못 샀다는 이유다. 약사의 잘못이 없다는 게 명백해도 적의는 사그라들지 않는다.\n엄마는 매일 이런 사람들을 마주할텐데, 약사들의 정신적 피로와 공포감이 어느정도일지 아득하다.. https://t.co/C5Qkeyl5Vk"
+	},
+	{
+		"created_at": "Wed Mar 11 16:47:08 +0000 2020",
+		"id": 1237778490214060000,
+		"id_str": "1237782116319891456",
+		"full_text": "[1보] WHO, 코로나19에 팬데믹 선언 https://t.co/9ZYibkrJBU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ZYibkrJBU",
+					"expanded_url": "http://yna.kr/AKR20200312002100088",
+					"display_url": "yna.kr/AKR20200312002…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.yonhapnews.co.kr\" rel=\"nofollow\">Yonhap News</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312792,
+			"friends_count": 71912,
+			"listed_count": 4777,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 206739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 600,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[1보] WHO, 코로나19에 팬데믹 선언 https://t.co/9ZYibkrJBU"
+	},
+	{
+		"created_at": "Wed Mar 11 16:46:06 +0000 2020",
+		"id": 1236788789659476000,
+		"id_str": "1237781859217498112",
+		"full_text": "“어느 사회에서든 주류라고 인정받지 않으면 혐오와 차별 대상이 될 수 있다. 코로나19가 전 세계에서 약자들에게 가해지는 차별과 혐오 문제를 한국 사회가 공유하는 계기가 되길 바란다.”\n\nhttps://t.co/p6NEx5dzn7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p6NEx5dzn7",
+					"expanded_url": "https://news.khan.kr/qoh5",
+					"display_url": "news.khan.kr/qoh5",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 744180,
+			"friends_count": 80315,
+			"listed_count": 6433,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 82637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1216,
+		"favorite_count": 583,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“어느 사회에서든 주류라고 인정받지 않으면 혐오와 차별 대상이 될 수 있다. 코로나19가 전 세계에서 약자들에게 가해지는 차별과 혐오 문제를 한국 사회가 공유하는 계기가 되길 바란다.”\n\nhttps://t.co/p6NEx5dzn7"
+	},
+	{
 		"created_at": "Wed Mar 11 16:01:19 +0000 2020",
 		"id": 1237770588950683600,
 		"id_str": "1237770588950683648",
