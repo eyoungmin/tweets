@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 04:51:31 +0000 2020",
+		"id": 1237602026617327600,
+		"id_str": "1237602026617327619",
+		"full_text": "#TED_Talks #한국어자막\n공룡이 지구를 점령할 수 있게 한 비밀 무기 by. Emma Schachner (Jan 2020)\nhttps://t.co/pcsmoBZ8ft\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pcsmoBZ8ft",
+					"expanded_url": "https://www.ted.com/talks/emma_schachner_the_secret_weapon_that_let_dinosaurs_take_over_the_planet?language=ko",
+					"display_url": "ted.com/talks/emma_sch…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2Gdl415",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2Gdl415",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 914,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\n공룡이 지구를 점령할 수 있게 한 비밀 무기 by. Emma Schachner (Jan 2020)\nhttps://t.co/pcsmoBZ8ft\n#TED #테드 #minfav"
+	},
+	{
 		"created_at": "Wed Mar 11 03:42:22 +0000 2020",
 		"id": 1237584625406361600,
 		"id_str": "1237584625406361600",
