@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 10:30:40 +0000 2020",
+		"id": 1237626535059705900,
+		"id_str": "1237687376509464576",
+		"full_text": "https://t.co/AK7jdCIRs7\n\n한국대중음악상을 지켜봐 주시는 여러분의 비판과 의견을 겸허히 듣고 발전의 계기로 삼아 앞으로도 신중히 개선해나가겠습니다. 고맙습니다.\n\n- 한국대중음악상 선정위원회 -",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AK7jdCIRs7",
+					"expanded_url": "http://bitly.kr/NZsNEJhX",
+					"display_url": "bitly.kr/NZsNEJhX",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456487957,
+			"id_str": "456487957",
+			"name": "한국대중음악상",
+			"screen_name": "kmusicawards",
+			"location": "Everywhere",
+			"description": "2020 제17회 한국대중음악상 시상식",
+			"url": "https://t.co/WbaqJd68sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbaqJd68sV",
+							"expanded_url": "http://www.koreanmusicawards.com",
+							"display_url": "koreanmusicawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3434,
+			"friends_count": 276,
+			"listed_count": 73,
+			"created_at": "Fri Jan 06 09:22:11 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456487957/1578390540",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/AK7jdCIRs7\n\n한국대중음악상을 지켜봐 주시는 여러분의 비판과 의견을 겸허히 듣고 발전의 계기로 삼아 앞으로도 신중히 개선해나가겠습니다. 고맙습니다.\n\n- 한국대중음악상 선정위원회 -"
+	},
+	{
+		"created_at": "Wed Mar 11 10:05:18 +0000 2020",
+		"id": 1237679933993844700,
+		"id_str": "1237680991931633664",
+		"full_text": "[TMI NEWS]\n연예계 정보 과부하 차트쇼 \nTMI NEWS 매주 (수) 저녁 8시\n\n#전현무 #장도연 #TMI_NEWS #Mnet\n#이달의소녀 #LOONA #츄 #현진",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전현무",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "장도연",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "TMI_NEWS",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						90,
+						92
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						93,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237679659854303200,
+		"in_reply_to_status_id_str": "1237679659854303233",
+		"in_reply_to_user_id": 128466223,
+		"in_reply_to_user_id_str": "128466223",
+		"in_reply_to_screen_name": "MnetKR",
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2731312,
+			"friends_count": 22121,
+			"listed_count": 3364,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[TMI NEWS]\n연예계 정보 과부하 차트쇼 \nTMI NEWS 매주 (수) 저녁 8시\n\n#전현무 #장도연 #TMI_NEWS #Mnet\n#이달의소녀 #LOONA #츄 #현진"
+	},
+	{
 		"created_at": "Wed Mar 11 09:09:07 +0000 2020",
 		"id": 1237666852790304800,
 		"id_str": "1237666852790304768",
