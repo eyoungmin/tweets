@@ -1,6 +1,2258 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 08:54:00 +0000 2020",
+		"id": 1237839283530031000,
+		"id_str": "1238025437772574722",
+		"full_text": "표면에는 이런 제품 사용하시면 됩니다. 애플에서 자사 모든 제품의 화면과 표면에(가죽 제외) 써도 된다고 아예 기술문서에 상품명을 거론 했을 정도로 믿을 수 있고 인플루엔자등 바이러스를 99% 살균합니다. 안타깝지만 알콜스왑보다는 비싸지만 한장으로 더 많이 닦을수는 있습니다. https://t.co/vi2ALkWo8b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237839271026811000,
+					"id_str": "1237839271026810880",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ES2wQjaU4AAIOAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES2wQjaU4AAIOAV.jpg",
+					"url": "https://t.co/vi2ALkWo8b",
+					"display_url": "pic.twitter.com/vi2ALkWo8b",
+					"expanded_url": "https://twitter.com/purengom/status/1237839283530031107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237839271026811000,
+					"id_str": "1237839271026810880",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ES2wQjaU4AAIOAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES2wQjaU4AAIOAV.jpg",
+					"url": "https://t.co/vi2ALkWo8b",
+					"display_url": "pic.twitter.com/vi2ALkWo8b",
+					"expanded_url": "https://twitter.com/purengom/status/1237839283530031107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1237839271265878000,
+					"id_str": "1237839271265878017",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ES2wQkTUwAEmYTs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES2wQkTUwAEmYTs.jpg",
+					"url": "https://t.co/vi2ALkWo8b",
+					"display_url": "pic.twitter.com/vi2ALkWo8b",
+					"expanded_url": "https://twitter.com/purengom/status/1237839283530031107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1237766719675875300,
+		"in_reply_to_status_id_str": "1237766719675875335",
+		"in_reply_to_user_id": 63764417,
+		"in_reply_to_user_id_str": "63764417",
+		"in_reply_to_screen_name": "purengom",
+		"user": {
+			"id": 63764417,
+			"id_str": "63764417",
+			"name": "푸른곰",
+			"screen_name": "purengom",
+			"location": "Gyeonggi Province, South Korea",
+			"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+			"url": "https://t.co/axyNeG94zY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/axyNeG94zY",
+							"expanded_url": "http://purengom.com",
+							"display_url": "purengom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3738,
+			"friends_count": 3105,
+			"listed_count": 138,
+			"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+			"favourites_count": 56396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 215855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 503,
+		"favorite_count": 196,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "표면에는 이런 제품 사용하시면 됩니다. 애플에서 자사 모든 제품의 화면과 표면에(가죽 제외) 써도 된다고 아예 기술문서에 상품명을 거론 했을 정도로 믿을 수 있고 인플루엔자등 바이러스를 99% 살균합니다. 안타깝지만 알콜스왑보다는 비싸지만 한장으로 더 많이 닦을수는 있습니다. https://t.co/vi2ALkWo8b"
+	},
+	{
+		"created_at": "Thu Mar 12 08:38:00 +0000 2020",
+		"id": 1238021410510876700,
+		"id_str": "1238021410510876672",
+		"full_text": "트위터에만 가볍게 쓸려면 안붙여도 되는게 트위터는 자체 애널리틱스를 제공해줌.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1238020939788333000,
+		"in_reply_to_status_id_str": "1238020939788333058",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터에만 가볍게 쓸려면 안붙여도 되는게 트위터는 자체 애널리틱스를 제공해줌."
+	},
+	{
+		"created_at": "Thu Mar 12 08:36:08 +0000 2020",
+		"id": 1238020939788333000,
+		"id_str": "1238020939788333058",
+		"full_text": "단축 주소의 문제는 리디렉팅 과정에 수집되는 데이터, 광고수익, 납치문제, 서비스 종료 시 데드링크 등인데 이런 문제에서 누군지도 모르는 개인이 만든 단축주소 서비스는 불안함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "단축 주소의 문제는 리디렉팅 과정에 수집되는 데이터, 광고수익, 납치문제, 서비스 종료 시 데드링크 등인데 이런 문제에서 누군지도 모르는 개인이 만든 단축주소 서비스는 불안함."
+	},
+	{
+		"created_at": "Thu Mar 12 08:31:08 +0000 2020",
+		"id": 1238019684571598800,
+		"id_str": "1238019684571598849",
+		"full_text": "인터파크는 자체 단축주소를 보유하지 않고 왜 개인사업자가 만든 것을 쓰는 거지?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인터파크는 자체 단축주소를 보유하지 않고 왜 개인사업자가 만든 것을 쓰는 거지?"
+	},
+	{
+		"created_at": "Thu Mar 12 08:29:38 +0000 2020",
+		"id": 1238014440848511000,
+		"id_str": "1238019307516260353",
+		"full_text": "라이브 즐거우셨나요- #브로콜리너마저 #편지 손악보 그려보았어요. 맘껏 퍼가세요. 악보는 제가, 손글씨는 류지가. https://t.co/NkBj33KCvn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로콜리너마저",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "편지",
+					"indices": [
+						21,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238014428643090400,
+					"id_str": "1238014428643090432",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5PkEYUYAAvzzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5PkEYUYAAvzzX.jpg",
+					"url": "https://t.co/NkBj33KCvn",
+					"display_url": "pic.twitter.com/NkBj33KCvn",
+					"expanded_url": "https://twitter.com/IamJANDI/status/1238014440848510978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1537,
+							"h": 1961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238014428643090400,
+					"id_str": "1238014428643090432",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5PkEYUYAAvzzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5PkEYUYAAvzzX.jpg",
+					"url": "https://t.co/NkBj33KCvn",
+					"display_url": "pic.twitter.com/NkBj33KCvn",
+					"expanded_url": "https://twitter.com/IamJANDI/status/1238014440848510978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1537,
+							"h": 1961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74460388,
+			"id_str": "74460388",
+			"name": "Jandi_Broccoliyoutoo",
+			"screen_name": "IamJANDI",
+			"location": "Seoul, Korea",
+			"description": "브로콜리너마저 (Broccoli You Too)  • 건반 • 민이엄마(2014-) • 봄이엄마(2016-) • jandi@broccoliyoutoo.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4456,
+			"friends_count": 1194,
+			"listed_count": 163,
+			"created_at": "Tue Sep 15 14:29:28 +0000 2009",
+			"favourites_count": 2883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125376001255432193/xgewb_pC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125376001255432193/xgewb_pC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74460388/1559486065",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라이브 즐거우셨나요- #브로콜리너마저 #편지 손악보 그려보았어요. 맘껏 퍼가세요. 악보는 제가, 손글씨는 류지가. https://t.co/NkBj33KCvn"
+	},
+	{
+		"created_at": "Thu Mar 12 08:29:27 +0000 2020",
+		"id": 1238014373253140500,
+		"id_str": "1238019260607115265",
+		"full_text": "신승은, 이랑, 성진영, 슬릭, 이호. 여성 뮤지션 5인의 인터뷰+음반집 &lt;이야기, 멀고도 가까운&gt; 텀블벅이 열렸습니다. 무척 기쁩니다. \nhttps://t.co/Yi66jraCVQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yi66jraCVQ",
+					"expanded_url": "https://tumblbug.com/female_music",
+					"display_url": "tumblbug.com/female_music",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "🥕자영업자🔥의뢰|문의 📧 info.langlee@gmail.com 📧 日本の仕事は info.sweetdreams@gmail.comでお願いします. STAFF @info_langlee",
+			"url": "https://t.co/bUYoYg3RHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUYoYg3RHg",
+							"expanded_url": "http://www.youtube.com/user/langleeschool",
+							"display_url": "youtube.com/user/langleesc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31012,
+			"friends_count": 914,
+			"listed_count": 0,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1575387914",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신승은, 이랑, 성진영, 슬릭, 이호. 여성 뮤지션 5인의 인터뷰+음반집 &lt;이야기, 멀고도 가까운&gt; 텀블벅이 열렸습니다. 무척 기쁩니다. \nhttps://t.co/Yi66jraCVQ"
+	},
+	{
+		"created_at": "Thu Mar 12 08:27:15 +0000 2020",
+		"id": 1237969319331369000,
+		"id_str": "1238018707458162688",
+		"full_text": "실제 오픈소스 프로젝트와 코드, 파일 검색은 이 페이지를 이용하시면 됩니다. https://t.co/g5Jq0vwaNM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g5Jq0vwaNM",
+					"expanded_url": "https://cs.opensource.google/",
+					"display_url": "cs.opensource.google",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1237969179707428900,
+		"in_reply_to_status_id_str": "1237969179707428864",
+		"in_reply_to_user_id": 13113612,
+		"in_reply_to_user_id_str": "13113612",
+		"in_reply_to_screen_name": "minist",
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64614,
+			"friends_count": 720,
+			"listed_count": 928,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실제 오픈소스 프로젝트와 코드, 파일 검색은 이 페이지를 이용하시면 됩니다. https://t.co/g5Jq0vwaNM"
+	},
+	{
+		"created_at": "Thu Mar 12 08:27:09 +0000 2020",
+		"id": 1237969179707428900,
+		"id_str": "1238018679339544578",
+		"full_text": "구글 오픈소스 프로젝트 사이트인 Google Open Source 사이트를 런칭하고 다른 기여자의 소스코드나 파일 전용 검색을 지원 https://t.co/3dRyc2JNpO 구글이 사용하거나,구글이 만든 수천개의 프로젝트와 코드를 한곳에서 검색이 가능하며 이후 구글의 오픈소스도 이 사이트를 통해 공개하게 될 예정 https://t.co/sZtp0yiyLo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3dRyc2JNpO",
+					"expanded_url": "https://opensource.google/",
+					"display_url": "opensource.google",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237969178268766200,
+					"id_str": "1237969178268766209",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ES4maJmXkAEAJ51.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES4maJmXkAEAJ51.jpg",
+					"url": "https://t.co/sZtp0yiyLo",
+					"display_url": "pic.twitter.com/sZtp0yiyLo",
+					"expanded_url": "https://twitter.com/minist/status/1237969179707428864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 824,
+							"h": 824,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 824,
+							"h": 824,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237969178268766200,
+					"id_str": "1237969178268766209",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ES4maJmXkAEAJ51.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES4maJmXkAEAJ51.jpg",
+					"url": "https://t.co/sZtp0yiyLo",
+					"display_url": "pic.twitter.com/sZtp0yiyLo",
+					"expanded_url": "https://twitter.com/minist/status/1237969179707428864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 824,
+							"h": 824,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 824,
+							"h": 824,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64614,
+			"friends_count": 720,
+			"listed_count": 928,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 오픈소스 프로젝트 사이트인 Google Open Source 사이트를 런칭하고 다른 기여자의 소스코드나 파일 전용 검색을 지원 https://t.co/3dRyc2JNpO 구글이 사용하거나,구글이 만든 수천개의 프로젝트와 코드를 한곳에서 검색이 가능하며 이후 구글의 오픈소스도 이 사이트를 통해 공개하게 될 예정 https://t.co/sZtp0yiyLo"
+	},
+	{
+		"created_at": "Thu Mar 12 08:27:02 +0000 2020",
+		"id": 1237969829128065000,
+		"id_str": "1238018652483379200",
+		"full_text": "첫 2년 반 동안 스타트업이 걸어야 할 여정 (요약 번역) https://t.co/SznJ2mezEf \n- 창업자들이 잘 깨닫지 못하는 사실\n- 왜 그리고 어떻게 펀딩을 할 것인지에 대해서 이해하는 것이 필요\n- 지난 10년간 스타트업 투자에 자금이 더 많이 몰리면서 투자 라운딩의 정의가 다소 변화해 옴\n- 이상...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SznJ2mezEf",
+					"expanded_url": "http://j.mp/38IKzDN",
+					"display_url": "j.mp/38IKzDN",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2478,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "첫 2년 반 동안 스타트업이 걸어야 할 여정 (요약 번역) https://t.co/SznJ2mezEf \n- 창업자들이 잘 깨닫지 못하는 사실\n- 왜 그리고 어떻게 펀딩을 할 것인지에 대해서 이해하는 것이 필요\n- 지난 10년간 스타트업 투자에 자금이 더 많이 몰리면서 투자 라운딩의 정의가 다소 변화해 옴\n- 이상..."
+	},
+	{
+		"created_at": "Thu Mar 12 08:23:23 +0000 2020",
+		"id": 1238017734991949800,
+		"id_str": "1238017734991949825",
+		"full_text": "해투 안경짤 원래 그런 안경이래. 😄😄😄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1238014715298582500,
+		"in_reply_to_status_id_str": "1238014715298582529",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "해투 안경짤 원래 그런 안경이래. 😄😄😄"
+	},
+	{
+		"created_at": "Thu Mar 12 08:19:41 +0000 2020",
+		"id": 1238016802954727400,
+		"id_str": "1238016802954727425",
+		"full_text": "❝ 어디로 목표를 잡느냐가 중요한 것 같아. 그러니까 아직도 나는 성공을 향해 가고 있는 거지. 인생 끝날 때쯤 되면 알 수 있지 않을까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1238016695924482000,
+		"in_reply_to_status_id_str": "1238016695924482048",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 어디로 목표를 잡느냐가 중요한 것 같아. 그러니까 아직도 나는 성공을 향해 가고 있는 거지. 인생 끝날 때쯤 되면 알 수 있지 않을까?"
+	},
+	{
+		"created_at": "Thu Mar 12 08:19:16 +0000 2020",
+		"id": 1238016695924482000,
+		"id_str": "1238016695924482048",
+		"full_text": "13:05 언니가 생각하는 성공이란?\n❝ 끝까지 잘 살아남는 것. 결국 성공이라는 게 부와 명예가 아니라 끝까지 내가 하고 싶은 일을 얼마나 오래 버티면서 잘 할 수 있다라는 거 그게 난 성공이라고 생각해.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1238015001660555300,
+		"in_reply_to_status_id_str": "1238015001660555266",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "13:05 언니가 생각하는 성공이란?\n❝ 끝까지 잘 살아남는 것. 결국 성공이라는 게 부와 명예가 아니라 끝까지 내가 하고 싶은 일을 얼마나 오래 버티면서 잘 할 수 있다라는 거 그게 난 성공이라고 생각해."
+	},
+	{
+		"created_at": "Thu Mar 12 08:12:32 +0000 2020",
+		"id": 1238015001660555300,
+		"id_str": "1238015001660555266",
+		"full_text": "#박미선\n질문 보내랬더니 왜이렇게 주접들을 해놨어...❤ 주접 댓글 보는 미선 언니 반응 진짜 우리 엄마 같아ㅋㅋㅋㅋ🤣😍 [#미선임파서블]\nhttps://t.co/ureOPutHAX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박미선",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "미선임파서블",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ureOPutHAX",
+					"expanded_url": "https://youtu.be/Vb6ual7jJVA",
+					"display_url": "youtu.be/Vb6ual7jJVA",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#박미선\n질문 보내랬더니 왜이렇게 주접들을 해놨어...❤ 주접 댓글 보는 미선 언니 반응 진짜 우리 엄마 같아ㅋㅋㅋㅋ🤣😍 [#미선임파서블]\nhttps://t.co/ureOPutHAX"
+	},
+	{
+		"created_at": "Thu Mar 12 08:11:23 +0000 2020",
+		"id": 1238014715298582500,
+		"id_str": "1238014715298582529",
+		"full_text": "#박미선\n[ENG] 언니 입담에 치여버렸다...^_ㅠ❤ 짤 비하인드마저 웃긴 짤대모 박미선의 최애짤 월드컵🤣🤣 [ #미선임파서블 No.6 ]\nhttps://t.co/sPej60QsdC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박미선",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "미선임파서블",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sPej60QsdC",
+					"expanded_url": "https://youtu.be/CKlHgjZK9Cs",
+					"display_url": "youtu.be/CKlHgjZK9Cs",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#박미선\n[ENG] 언니 입담에 치여버렸다...^_ㅠ❤ 짤 비하인드마저 웃긴 짤대모 박미선의 최애짤 월드컵🤣🤣 [ #미선임파서블 No.6 ]\nhttps://t.co/sPej60QsdC"
+	},
+	{
+		"created_at": "Thu Mar 12 08:08:14 +0000 2020",
+		"id": 1237966684998099000,
+		"id_str": "1238013919194578945",
+		"full_text": "지구에서 약 640광년 떨어진 물고기자리에서 외계행성이 관측됐습니다. #KBS뉴스 #KBS https://t.co/YPj9wyxayu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS뉴스",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						46,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YPj9wyxayu",
+					"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=4399584",
+					"display_url": "news.kbs.co.kr/news/view.do?n…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164509454,
+			"id_str": "164509454",
+			"name": "KBS 뉴스",
+			"screen_name": "KBSnews",
+			"location": "seoul korea",
+			"description": "'독보적 신뢰의 기준'  KBS뉴스 공식 트위터 \n  #현장영상 #제보 #뉴스제보 #KBSNEWS #KBS #Official",
+			"url": "https://t.co/W00bCvFZZ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W00bCvFZZ0",
+							"expanded_url": "https://www.youtube.com/newskbs",
+							"display_url": "youtube.com/newskbs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418916,
+			"friends_count": 110018,
+			"listed_count": 4889,
+			"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 135414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC4D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061163214715506690/jxfMNRE-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1580169793",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 109,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지구에서 약 640광년 떨어진 물고기자리에서 외계행성이 관측됐습니다. #KBS뉴스 #KBS https://t.co/YPj9wyxayu"
+	},
+	{
+		"created_at": "Thu Mar 12 08:08:04 +0000 2020",
+		"id": 1238012935609278500,
+		"id_str": "1238013877738065920",
+		"full_text": "[벨로주 소식] 망원의 음향 콘솔이 중간에 있어 불편했었는데 객석 뒤쪽으로 빼고 좌석 앞뒤 간격도 조금 늘렸습니다. 대기실도 2배로 넓어졌고요. 객석은 조금 줄었지만 대신 대관료도 줄었어요. 공연에 더 최적화되었다는 뜻. 편하게 문의주세요. 모두 기운냅시다! 안내 : https://t.co/wszCybYrxT https://t.co/n8cUXhFHco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wszCybYrxT",
+					"expanded_url": "https://c11.kr/dw55",
+					"display_url": "c11.kr/dw55",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238012563478081500,
+					"id_str": "1238012563478081536",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5N3gGU8AAoP3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5N3gGU8AAoP3K.jpg",
+					"url": "https://t.co/n8cUXhFHco",
+					"display_url": "pic.twitter.com/n8cUXhFHco",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1238012935609278465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238012563478081500,
+					"id_str": "1238012563478081536",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5N3gGU8AAoP3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5N3gGU8AAoP3K.jpg",
+					"url": "https://t.co/n8cUXhFHco",
+					"display_url": "pic.twitter.com/n8cUXhFHco",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1238012935609278465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238012563654238200,
+					"id_str": "1238012563654238208",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5N3gwU4AAfEFX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5N3gwU4AAfEFX.jpg",
+					"url": "https://t.co/n8cUXhFHco",
+					"display_url": "pic.twitter.com/n8cUXhFHco",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1238012935609278465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238012563842953200,
+					"id_str": "1238012563842953216",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5N3hdUcAASZ1D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5N3hdUcAASZ1D.jpg",
+					"url": "https://t.co/n8cUXhFHco",
+					"display_url": "pic.twitter.com/n8cUXhFHco",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1238012935609278465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9042,
+			"friends_count": 149,
+			"listed_count": 161,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[벨로주 소식] 망원의 음향 콘솔이 중간에 있어 불편했었는데 객석 뒤쪽으로 빼고 좌석 앞뒤 간격도 조금 늘렸습니다. 대기실도 2배로 넓어졌고요. 객석은 조금 줄었지만 대신 대관료도 줄었어요. 공연에 더 최적화되었다는 뜻. 편하게 문의주세요. 모두 기운냅시다! 안내 : https://t.co/wszCybYrxT https://t.co/n8cUXhFHco"
+	},
+	{
+		"created_at": "Thu Mar 12 08:06:53 +0000 2020",
+		"id": 1237764883833409500,
+		"id_str": "1238013582173818880",
+		"full_text": "이 판결은 위력에 의한 성폭행이랑 점에서 안희정 판결과도 닮았습니다. 재판에 나선 피해자에게 와인스틴의 변호인은 \"왜 거절하지 않았나\"\"왜 성폭행 후에도 와인스틴과 잘 지냈냐\"고 몰아 붙였습니다. 한 피해 여성은 선고 뒤 \"나는 완벽한 피해자가 아니라, 한 인간으로 나선 것\"이라 말했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1237762698193977300,
+		"in_reply_to_status_id_str": "1237762698193977345",
+		"in_reply_to_user_id": 63476989,
+		"in_reply_to_user_id_str": "63476989",
+		"in_reply_to_screen_name": "TellYouMore",
+		"user": {
+			"id": 63476989,
+			"id_str": "63476989",
+			"name": "박태인(Taein Park)",
+			"screen_name": "TellYouMore",
+			"location": "Seoul",
+			"description": "중앙일보 기자. 좋은 글을 쓰겠습니다. ※트윗 인용 보도 금지 @mujschool graduate\nhttps://t.co/LISzgr3buo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LISzgr3buo",
+							"expanded_url": "http://brunch.co.kr/@taeinpark",
+							"display_url": "brunch.co.kr/@taeinpark",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21099,
+			"friends_count": 14074,
+			"listed_count": 679,
+			"created_at": "Thu Aug 06 15:30:08 +0000 2009",
+			"favourites_count": 14933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63476989/1411280422",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 판결은 위력에 의한 성폭행이랑 점에서 안희정 판결과도 닮았습니다. 재판에 나선 피해자에게 와인스틴의 변호인은 \"왜 거절하지 않았나\"\"왜 성폭행 후에도 와인스틴과 잘 지냈냐\"고 몰아 붙였습니다. 한 피해 여성은 선고 뒤 \"나는 완벽한 피해자가 아니라, 한 인간으로 나선 것\"이라 말했습니다."
+	},
+	{
+		"created_at": "Thu Mar 12 08:06:52 +0000 2020",
+		"id": 1237762698193977300,
+		"id_str": "1238013576280862721",
+		"full_text": "하비 와인스틴에게 23년형이 선고됐습니다. 미국의 첫 #미투 판결입니다. 피해자의 진술이 유일한 증거였던 재판에서 인정된 피해자는 두 명. 5년~29년형이 가능했던 상황에서 예상을 뛰어넘는 중형이 나왔습니다. 와인스틴의 나이(67)를 고려하면 사실상 종신형입니다.\nhttps://t.co/9qAjiaA7QJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미투",
+					"indices": [
+						30,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9qAjiaA7QJ",
+					"expanded_url": "https://www.washingtonpost.com/lifestyle/harvey-weinstein-sentence-trial-sexual-assault/2020/03/11/398f2cf6-630b-11ea-acca-80c22bbee96f_story.html",
+					"display_url": "washingtonpost.com/lifestyle/harv…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63476989,
+			"id_str": "63476989",
+			"name": "박태인(Taein Park)",
+			"screen_name": "TellYouMore",
+			"location": "Seoul",
+			"description": "중앙일보 기자. 좋은 글을 쓰겠습니다. ※트윗 인용 보도 금지 @mujschool graduate\nhttps://t.co/LISzgr3buo",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LISzgr3buo",
+							"expanded_url": "http://brunch.co.kr/@taeinpark",
+							"display_url": "brunch.co.kr/@taeinpark",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21099,
+			"friends_count": 14074,
+			"listed_count": 679,
+			"created_at": "Thu Aug 06 15:30:08 +0000 2009",
+			"favourites_count": 14933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962334661841108992/hnvKMxwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63476989/1411280422",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2317,
+		"favorite_count": 637,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하비 와인스틴에게 23년형이 선고됐습니다. 미국의 첫 #미투 판결입니다. 피해자의 진술이 유일한 증거였던 재판에서 인정된 피해자는 두 명. 5년~29년형이 가능했던 상황에서 예상을 뛰어넘는 중형이 나왔습니다. 와인스틴의 나이(67)를 고려하면 사실상 종신형입니다.\nhttps://t.co/9qAjiaA7QJ"
+	},
+	{
 		"created_at": "Thu Mar 12 07:59:05 +0000 2020",
 		"id": 1237910795456921600,
 		"id_str": "1238011616534212608",
