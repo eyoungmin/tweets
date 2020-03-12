@@ -1,6 +1,774 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 01:46:56 +0000 2020",
+		"id": 1237775110582554600,
+		"id_str": "1237917962587103235",
+		"full_text": "There’s been a lot of discussion around monetization on videos about COVID-19. To better support the sharing of information we’re enabling ads for content on the virus for a limited number of channels, expanding to more soon. Read more from @SusanWojcicki: https://t.co/fZnvHXQ3AB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SusanWojcicki",
+					"name": "Susan Wojcicki",
+					"id": 15828408,
+					"id_str": "15828408",
+					"indices": [
+						241,
+						255
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fZnvHXQ3AB",
+					"expanded_url": "https://yt.be/p9Es",
+					"display_url": "yt.be/p9Es",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239760107,
+			"id_str": "239760107",
+			"name": "YouTube Creators",
+			"screen_name": "ytcreators",
+			"location": "San Bruno, CA",
+			"description": "Educating, inspiring and championing the @YouTube Creator community.",
+			"url": "https://t.co/FA6q3pyPQ8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FA6q3pyPQ8",
+							"expanded_url": "https://youtu.be/2lAe1cqCOXo",
+							"display_url": "youtu.be/2lAe1cqCOXo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6245490,
+			"friends_count": 2114,
+			"listed_count": 5031,
+			"created_at": "Tue Jan 18 10:58:51 +0000 2011",
+			"favourites_count": 7645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C9191D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148364735034691585/OVoeKZYC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148364735034691585/OVoeKZYC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239760107/1579878648",
+			"profile_link_color": "1B7FCC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s been a lot of discussion around monetization on videos about COVID-19. To better support the sharing of information we’re enabling ads for content on the virus for a limited number of channels, expanding to more soon. Read more from @SusanWojcicki: https://t.co/fZnvHXQ3AB"
+	},
+	{
+		"created_at": "Thu Mar 12 01:46:53 +0000 2020",
+		"id": 1237775624921481200,
+		"id_str": "1237917952050991104",
+		"full_text": "A letter from @SusanWojcicki to our creators about coronavirus: https://t.co/SKs2jfkJ8T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SusanWojcicki",
+					"name": "Susan Wojcicki",
+					"id": 15828408,
+					"id_str": "15828408",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SKs2jfkJ8T",
+					"expanded_url": "https://twitter.com/ytcreators/status/1237775110582554624",
+					"display_url": "twitter.com/ytcreators/sta…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10228272,
+			"id_str": "10228272",
+			"name": "YouTube",
+			"screen_name": "YouTube",
+			"location": "San Bruno, CA",
+			"description": "Like and subscribe.",
+			"url": "https://t.co/qkVaJFk2CG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qkVaJFk2CG",
+							"expanded_url": "https://www.youtube.com/",
+							"display_url": "youtube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72402319,
+			"friends_count": 1061,
+			"listed_count": 81968,
+			"created_at": "Tue Nov 13 21:43:46 +0000 2007",
+			"favourites_count": 2911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AF0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209179754273730567/ocZKRu9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209179754273730567/ocZKRu9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1579878841",
+			"profile_link_color": "C9191D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237775110582554600,
+		"quoted_status_id_str": "1237775110582554624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SKs2jfkJ8T",
+			"expanded": "https://twitter.com/ytcreators/status/1237775110582554624",
+			"display": "twitter.com/ytcreators/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 11 16:19:17 +0000 2020",
+			"id": 1237775110582554600,
+			"id_str": "1237775110582554624",
+			"full_text": "There’s been a lot of discussion around monetization on videos about COVID-19. To better support the sharing of information we’re enabling ads for content on the virus for a limited number of channels, expanding to more soon. Read more from @SusanWojcicki: https://t.co/fZnvHXQ3AB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SusanWojcicki",
+						"name": "Susan Wojcicki",
+						"id": 15828408,
+						"id_str": "15828408",
+						"indices": [
+							241,
+							255
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fZnvHXQ3AB",
+						"expanded_url": "https://yt.be/p9Es",
+						"display_url": "yt.be/p9Es",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239760107,
+				"id_str": "239760107",
+				"name": "YouTube Creators",
+				"screen_name": "ytcreators",
+				"location": "San Bruno, CA",
+				"description": "Educating, inspiring and championing the @YouTube Creator community.",
+				"url": "https://t.co/FA6q3pyPQ8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FA6q3pyPQ8",
+								"expanded_url": "https://youtu.be/2lAe1cqCOXo",
+								"display_url": "youtu.be/2lAe1cqCOXo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6245490,
+				"friends_count": 2114,
+				"listed_count": 5031,
+				"created_at": "Tue Jan 18 10:58:51 +0000 2011",
+				"favourites_count": 7645,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13671,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C9191D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1148364735034691585/OVoeKZYC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148364735034691585/OVoeKZYC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239760107/1579878648",
+				"profile_link_color": "1B7FCC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84,
+			"favorite_count": 784,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 71,
+		"favorite_count": 671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A letter from @SusanWojcicki to our creators about coronavirus: https://t.co/SKs2jfkJ8T"
+	},
+	{
+		"created_at": "Thu Mar 12 01:46:38 +0000 2020",
+		"id": 1237777021742338000,
+		"id_str": "1237917889849524224",
+		"full_text": "🚨 BREAKING 🚨\n\n\"We have therefore made the assessment that #COVID19 can be characterized as a pandemic\"-@DrTedros #coronavirus https://t.co/JqdsM2051A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "coronavirus",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrTedros",
+					"name": "Tedros Adhanom Ghebreyesus",
+					"id": 189868631,
+					"id_str": "189868631",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237777012909105200,
+					"id_str": "1237777012909105153",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/ES13op2XYAEZcPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES13op2XYAEZcPh.jpg",
+					"url": "https://t.co/JqdsM2051A",
+					"display_url": "pic.twitter.com/JqdsM2051A",
+					"expanded_url": "https://twitter.com/WHO/status/1237777021742338049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237777012909105200,
+					"id_str": "1237777012909105153",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/ES13op2XYAEZcPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES13op2XYAEZcPh.jpg",
+					"url": "https://t.co/JqdsM2051A",
+					"display_url": "pic.twitter.com/JqdsM2051A",
+					"expanded_url": "https://twitter.com/WHO/status/1237777021742338049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237776967526764500,
+		"in_reply_to_status_id_str": "1237776967526764544",
+		"in_reply_to_user_id": 14499829,
+		"in_reply_to_user_id_str": "14499829",
+		"in_reply_to_screen_name": "WHO",
+		"user": {
+			"id": 14499829,
+			"id_str": "14499829",
+			"name": "World Health Organization (WHO)",
+			"screen_name": "WHO",
+			"location": "Geneva, Switzerland",
+			"description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+			"url": "https://t.co/wVulKuROWG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wVulKuROWG",
+							"expanded_url": "http://www.who.int",
+							"display_url": "who.int",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5847749,
+			"friends_count": 1715,
+			"listed_count": 28352,
+			"created_at": "Wed Apr 23 19:56:27 +0000 2008",
+			"favourites_count": 10509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D0ECF8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+			"profile_link_color": "0396DB",
+			"profile_sidebar_border_color": "8C8C8C",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51247,
+		"favorite_count": 44114,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨 BREAKING 🚨\n\n\"We have therefore made the assessment that #COVID19 can be characterized as a pandemic\"-@DrTedros #coronavirus https://t.co/JqdsM2051A"
+	},
+	{
+		"created_at": "Thu Mar 12 01:45:50 +0000 2020",
+		"id": 1237863913296760800,
+		"id_str": "1237917684618035200",
+		"full_text": "유튜브, 일부 크리에이터들에 코로나19 영상 수익화 허용 https://t.co/q4w4NOUcgy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q4w4NOUcgy",
+					"expanded_url": "http://www.bloter.net/archives/374240",
+					"display_url": "bloter.net/archives/374240",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56534,
+			"friends_count": 9,
+			"listed_count": 2519,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유튜브, 일부 크리에이터들에 코로나19 영상 수익화 허용 https://t.co/q4w4NOUcgy"
+	},
+	{
+		"created_at": "Thu Mar 12 01:45:00 +0000 2020",
+		"id": 1237626065914192000,
+		"id_str": "1237917476681175040",
+		"full_text": "종단암호화 지원하는 무제한 용량 실시간 파일전송 서비스  https://t.co/FGN2ytIAiH \n쑥쓰럽지만 올려봅니다.\n대기시간을 없애고 빠르게 공유한다는 한가지 목표만 가지고 만들었습니다.\n-업로드중 다운로드 가능, mp4는 바로 재생도 됨\n-종단암호화\n-무가입\n-웹폴더 방식으로 공동업로드 가...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FGN2ytIAiH",
+					"expanded_url": "http://j.mp/3aHoW8j",
+					"display_url": "j.mp/3aHoW8j",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2472,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "종단암호화 지원하는 무제한 용량 실시간 파일전송 서비스  https://t.co/FGN2ytIAiH \n쑥쓰럽지만 올려봅니다.\n대기시간을 없애고 빠르게 공유한다는 한가지 목표만 가지고 만들었습니다.\n-업로드중 다운로드 가능, mp4는 바로 재생도 됨\n-종단암호화\n-무가입\n-웹폴더 방식으로 공동업로드 가..."
+	},
+	{
 		"created_at": "Thu Mar 12 00:48:12 +0000 2020",
 		"id": 1237884967448764400,
 		"id_str": "1237903182971301888",
