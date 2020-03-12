@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 12:24:46 +0000 2020",
+		"id": 1238077811270619100,
+		"id_str": "1238078479809294338",
+		"full_text": "그리고 이번에는 11명이지만 저희는 언제나 12명이라는 사실을 잊지 마세용 하슬 언니 보고 있죠? 언니 다음에는 꼭 함께해요❤❤ 사랑해요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238077759521341400,
+		"in_reply_to_status_id_str": "1238077759521341441",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435035,
+			"friends_count": 0,
+			"listed_count": 6131,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2584,
+		"favorite_count": 6268,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 이번에는 11명이지만 저희는 언제나 12명이라는 사실을 잊지 마세용 하슬 언니 보고 있죠? 언니 다음에는 꼭 함께해요❤❤ 사랑해요"
+	},
+	{
+		"created_at": "Thu Mar 12 12:24:41 +0000 2020",
+		"id": 1238077759521341400,
+		"id_str": "1238078458326134784",
+		"full_text": "이번 활동 오빛도 제대로 못 만나면서 활동해서 사실 너무 허전했는데 다음 번엔 이번에 함께 하지 못한 시간보다 더 많은 시간을 함께 보내요 항상 너무 고맙고 사랑하는 거 알죠 ??",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238077708170481700,
+		"in_reply_to_status_id_str": "1238077708170481665",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435035,
+			"friends_count": 0,
+			"listed_count": 6131,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2168,
+		"favorite_count": 6065,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이번 활동 오빛도 제대로 못 만나면서 활동해서 사실 너무 허전했는데 다음 번엔 이번에 함께 하지 못한 시간보다 더 많은 시간을 함께 보내요 항상 너무 고맙고 사랑하는 거 알죠 ??"
+	},
+	{
+		"created_at": "Thu Mar 12 12:24:39 +0000 2020",
+		"id": 1238077708170481700,
+		"id_str": "1238078449320894466",
+		"full_text": "[#김립 / #KimLip] 오빛!! 1위 했어요!!!!! 일단 너무 고마워요 ㅠㅠ❤❤ 이건 모두 전 세계에 있는 우리 오빛들 덕분이에요 1위라는 큰 상을 줘서 너무 고마워요 6주 활동했는데 1위라니 정말 생각도 못 했는데 열심히 활동하고 선물 받은 기분이라서 뭔가 더 소중하고 눈물 나요... https://t.co/CFw7HSJRVq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						7,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238077696564818000,
+					"id_str": "1238077696564817921",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ES6JGvwUcAE3FFS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES6JGvwUcAE3FFS.jpg",
+					"url": "https://t.co/CFw7HSJRVq",
+					"display_url": "pic.twitter.com/CFw7HSJRVq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1238077708170481665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238077696564818000,
+					"id_str": "1238077696564817921",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ES6JGvwUcAE3FFS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES6JGvwUcAE3FFS.jpg",
+					"url": "https://t.co/CFw7HSJRVq",
+					"display_url": "pic.twitter.com/CFw7HSJRVq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1238077708170481665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238077696418054100,
+					"id_str": "1238077696418054145",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ES6JGvNVAAE1DRA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES6JGvNVAAE1DRA.jpg",
+					"url": "https://t.co/CFw7HSJRVq",
+					"display_url": "pic.twitter.com/CFw7HSJRVq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1238077708170481665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435035,
+			"friends_count": 0,
+			"listed_count": 6131,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8183,
+		"favorite_count": 15376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김립 / #KimLip] 오빛!! 1위 했어요!!!!! 일단 너무 고마워요 ㅠㅠ❤❤ 이건 모두 전 세계에 있는 우리 오빛들 덕분이에요 1위라는 큰 상을 줘서 너무 고마워요 6주 활동했는데 1위라니 정말 생각도 못 했는데 열심히 활동하고 선물 받은 기분이라서 뭔가 더 소중하고 눈물 나요... https://t.co/CFw7HSJRVq"
+	},
+	{
+		"created_at": "Thu Mar 12 12:24:32 +0000 2020",
+		"id": 1238065544470777900,
+		"id_str": "1238078419394531330",
+		"full_text": "오빛! 오빛 덕분에 #이달의소녀 가 데뷔 후 첫 음악방송 1위라는 영광을 얻을 수 있었어요 너무 감사합니다😭 만날 기회가 적어 아쉬웠는데 늘 응원해 주고 있다는 걸 깨닫게 해 줘서 고마워요💕 지금보다 더 멋진 이달의 소녀가 될 테니까 지금처럼만 우리 곁에 있어 줘요! 사랑해요 오빛❤️\n\n#LOONA https://t.co/uGh1xnZwei",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238065533360025600,
+					"id_str": "1238065533360025600",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5-CwSUMAA-3EJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5-CwSUMAA-3EJ.jpg",
+					"url": "https://t.co/uGh1xnZwei",
+					"display_url": "pic.twitter.com/uGh1xnZwei",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1238065544470777856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1287,
+							"h": 977,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 911,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238065533360025600,
+					"id_str": "1238065533360025600",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5-CwSUMAA-3EJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5-CwSUMAA-3EJ.jpg",
+					"url": "https://t.co/uGh1xnZwei",
+					"display_url": "pic.twitter.com/uGh1xnZwei",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1238065544470777856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1287,
+							"h": 977,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 911,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435035,
+			"friends_count": 0,
+			"listed_count": 6131,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19525,
+		"favorite_count": 28300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛! 오빛 덕분에 #이달의소녀 가 데뷔 후 첫 음악방송 1위라는 영광을 얻을 수 있었어요 너무 감사합니다😭 만날 기회가 적어 아쉬웠는데 늘 응원해 주고 있다는 걸 깨닫게 해 줘서 고마워요💕 지금보다 더 멋진 이달의 소녀가 될 테니까 지금처럼만 우리 곁에 있어 줘요! 사랑해요 오빛❤️\n\n#LOONA https://t.co/uGh1xnZwei"
+	},
+	{
 		"created_at": "Thu Mar 12 11:25:35 +0000 2020",
 		"id": 1238046347032318000,
 		"id_str": "1238063585936330753",
