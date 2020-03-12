@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 11:25:35 +0000 2020",
+		"id": 1238046347032318000,
+		"id_str": "1238063585936330753",
+		"full_text": "[#MCOUNTDOWN On-Air] @loonatheworld\n\n#LOONA #SoWhat\n\nWatch Now ▶ https://t.co/8nDdKxkTdP https://t.co/bxMBqRascM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						44,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						21,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8nDdKxkTdP",
+					"expanded_url": "http://bit.ly/MCD_onair",
+					"display_url": "bit.ly/MCD_onair",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238046235182788600,
+					"id_str": "1238046235182788609",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238046235182788609/pu/img/dmqWWDq18yWx8jyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238046235182788609/pu/img/dmqWWDq18yWx8jyi.jpg",
+					"url": "https://t.co/bxMBqRascM",
+					"display_url": "pic.twitter.com/bxMBqRascM",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1238046347032317952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238046235182788600,
+					"id_str": "1238046235182788609",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238046235182788609/pu/img/dmqWWDq18yWx8jyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238046235182788609/pu/img/dmqWWDq18yWx8jyi.jpg",
+					"url": "https://t.co/bxMBqRascM",
+					"display_url": "pic.twitter.com/bxMBqRascM",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1238046347032317952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15800,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238046235182788609/pu/pl/WlAq0xEHiJP5gYTA.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238046235182788609/pu/vid/480x270/W6DK6o9CYpZ1lVZ_.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238046235182788609/pu/vid/640x360/qji4XPU0wWUZYXfS.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238046235182788609/pu/vid/1280x720/rHtIGnwB4_Xo24q3.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1636083,
+			"friends_count": 418,
+			"listed_count": 2431,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1559616428",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2291,
+		"favorite_count": 4091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#MCOUNTDOWN On-Air] @loonatheworld\n\n#LOONA #SoWhat\n\nWatch Now ▶ https://t.co/8nDdKxkTdP https://t.co/bxMBqRascM"
+	},
+	{
+		"created_at": "Thu Mar 12 11:24:31 +0000 2020",
+		"id": 1238050785050550300,
+		"id_str": "1238063318507675648",
+		"full_text": "D-3\n\n\"Beautiful Creature\"\n\n2020.03.15 12PM (KST)\n\nPhoto by Kim moon dog\nH&amp;M by Lee eun seo\nStyling by Mo eun seo\nThx to Beautiful Eyewear by godsomware\n\nProduced by YESEO\nComposed by YESEO\nArranged by YESEO\nLyrics by YESEO\n\nMixed &amp; Mastered by IMLAY\nDistributionby Poclanos https://t.co/aZKHSTZ9LR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238050774833193000,
+					"id_str": "1238050774833192960",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5wnsfUYAAeo_H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5wnsfUYAAeo_H.jpg",
+					"url": "https://t.co/aZKHSTZ9LR",
+					"display_url": "pic.twitter.com/aZKHSTZ9LR",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1238050785050550277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238050774833193000,
+					"id_str": "1238050774833192960",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5wnsfUYAAeo_H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5wnsfUYAAeo_H.jpg",
+					"url": "https://t.co/aZKHSTZ9LR",
+					"display_url": "pic.twitter.com/aZKHSTZ9LR",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1238050785050550277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 2,
+			"listed_count": 9,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026823160602095619/8gD_B9Xv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026823160602095619/8gD_B9Xv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1533648695",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "D-3\n\n\"Beautiful Creature\"\n\n2020.03.15 12PM (KST)\n\nPhoto by Kim moon dog\nH&amp;M by Lee eun seo\nStyling by Mo eun seo\nThx to Beautiful Eyewear by godsomware\n\nProduced by YESEO\nComposed by YESEO\nArranged by YESEO\nLyrics by YESEO\n\nMixed &amp; Mastered by IMLAY\nDistributionby Poclanos https://t.co/aZKHSTZ9LR"
+	},
+	{
+		"created_at": "Thu Mar 12 11:19:04 +0000 2020",
+		"id": 1238053731318423600,
+		"id_str": "1238061944218812416",
+		"full_text": "[#MCOUNTDOWN On-Air] @loonatheworld\n\nCongratulations!! \nThis week’s winner is #LOONA #SoWhat \n\nEncore stage will be available on Mwave soon!! ▶️ https://t.co/nrvmgcxUNs https://t.co/B7Kr6VO44g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						21,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nrvmgcxUNs",
+					"expanded_url": "https://www.mwave.me/kr/mcountdown/video/list",
+					"display_url": "mwave.me/kr/mcountdown/…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238053468327145500,
+					"id_str": "1238053468327145472",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238053468327145472/pu/img/q70reRo7WyUb1LfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238053468327145472/pu/img/q70reRo7WyUb1LfF.jpg",
+					"url": "https://t.co/B7Kr6VO44g",
+					"display_url": "pic.twitter.com/B7Kr6VO44g",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1238053731318423555/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238053468327145500,
+					"id_str": "1238053468327145472",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238053468327145472/pu/img/q70reRo7WyUb1LfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238053468327145472/pu/img/q70reRo7WyUb1LfF.jpg",
+					"url": "https://t.co/B7Kr6VO44g",
+					"display_url": "pic.twitter.com/B7Kr6VO44g",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1238053731318423555/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 88633,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238053468327145472/pu/vid/1280x720/xdEQZpJhfBOtpjuH.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238053468327145472/pu/pl/sIBj_LcOrb4eSqe_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238053468327145472/pu/vid/480x270/f6n2H719INCxAuGq.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238053468327145472/pu/vid/640x360/xP88LRQiNUhfRQYg.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1636083,
+			"friends_count": 418,
+			"listed_count": 2431,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1559616428",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5659,
+		"favorite_count": 7562,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#MCOUNTDOWN On-Air] @loonatheworld\n\nCongratulations!! \nThis week’s winner is #LOONA #SoWhat \n\nEncore stage will be available on Mwave soon!! ▶️ https://t.co/nrvmgcxUNs https://t.co/B7Kr6VO44g"
+	},
+	{
+		"created_at": "Thu Mar 12 11:13:13 +0000 2020",
+		"id": 1237595857865695200,
+		"id_str": "1238060471598473216",
+		"full_text": "코로나바이러스, IT로 극복하자. 오늘은 COVID-19 극복을 위해 노력하는 전 세계 IT하는 분들과 인공지능, 데이터과학자 등이 협력하는 여러 프로젝트와 리소스들을 소개하고자 합니다. https://t.co/xD6rJ0euSh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xD6rJ0euSh",
+					"expanded_url": "https://youtu.be/oAGBYWLrg4w",
+					"display_url": "youtu.be/oAGBYWLrg4w",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18358070,
+			"id_str": "18358070",
+			"name": "정지훈 Jihoon Jeong",
+			"screen_name": "hiconcep",
+			"location": "37.518042,127.041889",
+			"description": "CEO of https://t.co/PoHAHYxUZA. Prof. of KHCU. Artificial Intelligence and Blockchain Tech Evangelist. Advisor @ Lunit. Chief Vision Officer @ ModuLabs (Lab4All)",
+			"url": "https://t.co/XGxHhcSHKJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XGxHhcSHKJ",
+							"expanded_url": "https://www.linkedin.com/in/jihoonjeong/",
+							"display_url": "linkedin.com/in/jihoonjeong/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PoHAHYxUZA",
+							"expanded_url": "http://EM.Works",
+							"display_url": "EM.Works",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 138571,
+			"friends_count": 2343,
+			"listed_count": 3439,
+			"created_at": "Wed Dec 24 14:39:01 +0000 2008",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075752021569859584/m5u3kKQX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075752021569859584/m5u3kKQX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18358070/1398207912",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나바이러스, IT로 극복하자. 오늘은 COVID-19 극복을 위해 노력하는 전 세계 IT하는 분들과 인공지능, 데이터과학자 등이 협력하는 여러 프로젝트와 리소스들을 소개하고자 합니다. https://t.co/xD6rJ0euSh"
+	},
+	{
 		"created_at": "Thu Mar 12 10:54:41 +0000 2020",
 		"id": 1238055811131162600,
 		"id_str": "1238055811131162625",
