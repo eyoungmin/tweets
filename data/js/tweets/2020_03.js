@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 12:25:31 +0000 2020",
+		"id": 1238426613160620000,
+		"id_str": "1238441054996533248",
+		"full_text": "‼️모두 주목‼️\nNEW 디제이를 모시고 시작하는 첫 #베뉴팝 과연 어떤 K-POP 신보들을 이야기 할까요? 그리고 두 DJ (@romanflare , @HAVAQQUQ )가 선정한 이주의 앨범 🔥Pick vs Pick🔥도 기대해주세요!🎵\n\n#예지 #NCT127 #ITZY #있지 #빅톤 #VICTON \n\n잠시후 9시 생방송🎙\n👉https://t.co/vKbUipfpkw https://t.co/1OLdfdguxy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "베뉴팝",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "예지",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "빅톤",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "VICTON",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "romanflare",
+					"name": "김윤하 kim yoonha",
+					"id": 113674917,
+					"id_str": "113674917",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"screen_name": "HAVAQQUQ",
+					"name": "하박국HAVAQQUQ",
+					"id": 8098922,
+					"id_str": "8098922",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vKbUipfpkw",
+					"expanded_url": "https://www.vlive.tv/video/179467",
+					"display_url": "vlive.tv/video/179467",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238426598082318300,
+					"id_str": "1238426598082318337",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ES_GbfMXkAEhONN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES_GbfMXkAEhONN.jpg",
+					"url": "https://t.co/1OLdfdguxy",
+					"display_url": "pic.twitter.com/1OLdfdguxy",
+					"expanded_url": "https://twitter.com/casperradio_/status/1238426613160620032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238426598082318300,
+					"id_str": "1238426598082318337",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ES_GbfMXkAEhONN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES_GbfMXkAEhONN.jpg",
+					"url": "https://t.co/1OLdfdguxy",
+					"display_url": "pic.twitter.com/1OLdfdguxy",
+					"expanded_url": "https://twitter.com/casperradio_/status/1238426613160620032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2311,
+			"friends_count": 7,
+			"listed_count": 7,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‼️모두 주목‼️\nNEW 디제이를 모시고 시작하는 첫 #베뉴팝 과연 어떤 K-POP 신보들을 이야기 할까요? 그리고 두 DJ (@romanflare , @HAVAQQUQ )가 선정한 이주의 앨범 🔥Pick vs Pick🔥도 기대해주세요!🎵\n\n#예지 #NCT127 #ITZY #있지 #빅톤 #VICTON \n\n잠시후 9시 생방송🎙\n👉https://t.co/vKbUipfpkw https://t.co/1OLdfdguxy"
+	},
+	{
 		"created_at": "Fri Mar 13 11:24:32 +0000 2020",
 		"id": 1238411545945591800,
 		"id_str": "1238425707023347712",
