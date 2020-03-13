@@ -1,6 +1,4045 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 05:52:02 +0000 2020",
+		"id": 1238342034445893600,
+		"id_str": "1238342034445893632",
+		"full_text": "인터넷 커뮤니티가 주식 커뮤니티화 됐네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인터넷 커뮤니티가 주식 커뮤니티화 됐네."
+	},
+	{
+		"created_at": "Fri Mar 13 05:51:11 +0000 2020",
+		"id": 1238326931604426800,
+		"id_str": "1238341818493726720",
+		"full_text": "Cloudflare - 코로나바이러스로 근무형태 변화가 필요한 소기업에게 Cloudflare for Teams 무료 제공 https://t.co/mdDjSj5USE \nCloudflare 는 코로나바이러스(COVID-19) 로 원격근무를 하는 소기업에게 2020년 9월 1일까지 무료로 제공하기로 하였습니다.- 2020년 9월 1일까지 무료로 500 seat 를...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mdDjSj5USE",
+					"expanded_url": "http://j.mp/33iMyOa",
+					"display_url": "j.mp/33iMyOa",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2485,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Cloudflare - 코로나바이러스로 근무형태 변화가 필요한 소기업에게 Cloudflare for Teams 무료 제공 https://t.co/mdDjSj5USE \nCloudflare 는 코로나바이러스(COVID-19) 로 원격근무를 하는 소기업에게 2020년 9월 1일까지 무료로 제공하기로 하였습니다.- 2020년 9월 1일까지 무료로 500 seat 를..."
+	},
+	{
+		"created_at": "Fri Mar 13 05:50:26 +0000 2020",
+		"id": 1238341630945398800,
+		"id_str": "1238341630945398784",
+		"full_text": "국내 오픈마켓 자사페이 도입하고 다크패턴 장난 아니지. 강제하지 않지만 강제하는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "국내 오픈마켓 자사페이 도입하고 다크패턴 장난 아니지. 강제하지 않지만 강제하는."
+	},
+	{
+		"created_at": "Fri Mar 13 05:47:00 +0000 2020",
+		"id": 1237345007050219500,
+		"id_str": "1238340767954821120",
+		"full_text": "@SofieSunny12 11번가 결제창 다크패턴 (https://t.co/1GvjeoyoC9) 3개나 되더군요. 인터넷 쇼핑 결제에서 이런곳은 처음봤습니다. \n\n1 혜택 제공 개인정보 제공 2 광고 수신 동의 3 결제창 UI와 동일한 형태의 추가 쿠폰 확인 명칭의 광고 배너\n\n저도 트위터에 이 내용 3번인가 썼었네요. 이건 법적으로 막아야될듯",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SofieSunny12",
+					"name": "Sofie",
+					"id": 157850147,
+					"id_str": "157850147",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1GvjeoyoC9",
+					"expanded_url": "http://bit.ly/2v9K9IV",
+					"display_url": "bit.ly/2v9K9IV",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237274056098869200,
+		"in_reply_to_status_id_str": "1237274056098869248",
+		"in_reply_to_user_id": 157850147,
+		"in_reply_to_user_id_str": "157850147",
+		"in_reply_to_screen_name": "SofieSunny12",
+		"user": {
+			"id": 815050,
+			"id_str": "815050",
+			"name": "lunamoth",
+			"screen_name": "lunamoth",
+			"location": "Seoul, South Korea",
+			"description": "인생은 간단하지 않더군요. 탐정 소설이 아니라서요.",
+			"url": "https://t.co/Vr6uUkEjWu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vr6uUkEjWu",
+							"expanded_url": "http://lunamoth.com",
+							"display_url": "lunamoth.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1944,
+			"friends_count": 201,
+			"listed_count": 267,
+			"created_at": "Tue Mar 06 14:38:17 +0000 2007",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 209383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "799AC3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/812980440713732097/SpO2yaD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/812980440713732097/SpO2yaD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815050/1486344431",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E7F5F3",
+			"profile_text_color": "180B26",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@SofieSunny12 11번가 결제창 다크패턴 (https://t.co/1GvjeoyoC9) 3개나 되더군요. 인터넷 쇼핑 결제에서 이런곳은 처음봤습니다. \n\n1 혜택 제공 개인정보 제공 2 광고 수신 동의 3 결제창 UI와 동일한 형태의 추가 쿠폰 확인 명칭의 광고 배너\n\n저도 트위터에 이 내용 3번인가 썼었네요. 이건 법적으로 막아야될듯"
+	},
+	{
+		"created_at": "Fri Mar 13 05:46:57 +0000 2020",
+		"id": 1237274056098869200,
+		"id_str": "1238340753547378688",
+		"full_text": "어르신들의 인터넷문맹을 논하기 이전에, 기업들의 다분히 악의적인 default 설정이 문제다. 1.본인들이 원하는 결제방식을 유도하기 위해》기본적인 카드결제/무통장입금 등을 찾기 힘듦.\n 2. 결제하기 버튼 밑에 \"광고\"를 통한 쿠폰을 거의 동일한 크기로 배치. 반면 \"AD\"글자는 너무나도 작다 https://t.co/4rDP2plfdv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237273955779498000,
+					"id_str": "1237273955779497985",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ESuuG4AUUAEq3I9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESuuG4AUUAEq3I9.jpg",
+					"url": "https://t.co/4rDP2plfdv",
+					"display_url": "pic.twitter.com/4rDP2plfdv",
+					"expanded_url": "https://twitter.com/SofieSunny12/status/1237274056098869248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237273955779498000,
+					"id_str": "1237273955779497985",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ESuuG4AUUAEq3I9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESuuG4AUUAEq3I9.jpg",
+					"url": "https://t.co/4rDP2plfdv",
+					"display_url": "pic.twitter.com/4rDP2plfdv",
+					"expanded_url": "https://twitter.com/SofieSunny12/status/1237274056098869248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1237273991577927700,
+					"id_str": "1237273991577927686",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ESuuI9XVAAY0bup.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESuuI9XVAAY0bup.jpg",
+					"url": "https://t.co/4rDP2plfdv",
+					"display_url": "pic.twitter.com/4rDP2plfdv",
+					"expanded_url": "https://twitter.com/SofieSunny12/status/1237274056098869248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1237274020984131600,
+					"id_str": "1237274020984131584",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ESuuKq6UEAAsM-a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESuuKq6UEAAsM-a.jpg",
+					"url": "https://t.co/4rDP2plfdv",
+					"display_url": "pic.twitter.com/4rDP2plfdv",
+					"expanded_url": "https://twitter.com/SofieSunny12/status/1237274056098869248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157850147,
+			"id_str": "157850147",
+			"name": "Sofie",
+			"screen_name": "SofieSunny12",
+			"location": "Seoul",
+			"description": "Medical Doctor ,의학적 인간학,세계정신,자유,Mahler,Pain,그 통증의 치료,생의 에너지, 함께 숨쉬는 자유,森山直太郎,LG twins",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1937,
+			"friends_count": 4407,
+			"listed_count": 60,
+			"created_at": "Mon Jun 21 02:26:14 +0000 2010",
+			"favourites_count": 13016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163347672507359232/IdPmEHob_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163347672507359232/IdPmEHob_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157850147/1438862995",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "648794",
+			"profile_text_color": "373B15",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1416,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어르신들의 인터넷문맹을 논하기 이전에, 기업들의 다분히 악의적인 default 설정이 문제다. 1.본인들이 원하는 결제방식을 유도하기 위해》기본적인 카드결제/무통장입금 등을 찾기 힘듦.\n 2. 결제하기 버튼 밑에 \"광고\"를 통한 쿠폰을 거의 동일한 크기로 배치. 반면 \"AD\"글자는 너무나도 작다 https://t.co/4rDP2plfdv"
+	},
+	{
+		"created_at": "Fri Mar 13 05:44:50 +0000 2020",
+		"id": 1238340222036766700,
+		"id_str": "1238340222036766721",
+		"full_text": "재난문자 보내주는 앱이나 봇은 노티를 가져다가 쓰는 건가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "재난문자 보내주는 앱이나 봇은 노티를 가져다가 쓰는 건가?"
+	},
+	{
+		"created_at": "Fri Mar 13 05:40:13 +0000 2020",
+		"id": 1238276592171806700,
+		"id_str": "1238339057265983490",
+		"full_text": "※ MCC별 경보 조사는 CellBroadcastReceiver의 커밋 d6fbebc(2020-03-10)을 기준으로 하며, 다음 스크립트를 사용함: https://t.co/LBsAI8d3ba\n\n※ 이 지나치게 길기만 한 타래의 조사에 큰 도움을 준 전문가 지인 @ad_ili_rai 에게 감사를... 최근 KPAS 관련 트윗을 썼었다: https://t.co/ARngglK48x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ad_ili_rai",
+					"name": "Shinjo Park",
+					"id": 253043045,
+					"id_str": "253043045",
+					"indices": [
+						147,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LBsAI8d3ba",
+					"expanded_url": "https://gist.github.com/lifthrasiir/4ce6e3ce2b62919e7ec5c8a0d7d3705e",
+					"display_url": "gist.github.com/lifthrasiir/4c…",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/ARngglK48x",
+					"expanded_url": "https://twitter.com/ad_ili_rai/status/1236972777556631552",
+					"display_url": "twitter.com/ad_ili_rai/sta…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276590569541600,
+		"in_reply_to_status_id_str": "1238276590569541632",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236972777556631600,
+		"quoted_status_id_str": "1236972777556631552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ARngglK48x",
+			"expanded": "https://twitter.com/ad_ili_rai/status/1236972777556631552",
+			"display": "twitter.com/ad_ili_rai/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 09 11:11:06 +0000 2020",
+			"id": 1236972777556631600,
+			"id_str": "1236972777556631552",
+			"full_text": "한국 정부가 국내용으로는 재난문자 알림을 3단계로 만들어 놓고 이걸 3GPP에 보내는 걸 깜빡하는 \"중대한\" 실수를 저질러 놓은 듯. 3GPP TS 22.268, V16.3.0(현재 시점에서의 최신 버전). 내가 알기로는 이거 나눈다는 말이 2016년부터 나왔다고 알고 있는데... https://t.co/9sNdHylwyW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236972513441255400,
+						"id_str": "1236972513441255425",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/ESqb8nyWkAEDoJ_.png",
+						"media_url_https": "https://pbs.twimg.com/media/ESqb8nyWkAEDoJ_.png",
+						"url": "https://t.co/9sNdHylwyW",
+						"display_url": "pic.twitter.com/9sNdHylwyW",
+						"expanded_url": "https://twitter.com/ad_ili_rai/status/1236972777556631552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 634,
+								"h": 821,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 634,
+								"h": 821,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236972513441255400,
+						"id_str": "1236972513441255425",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/ESqb8nyWkAEDoJ_.png",
+						"media_url_https": "https://pbs.twimg.com/media/ESqb8nyWkAEDoJ_.png",
+						"url": "https://t.co/9sNdHylwyW",
+						"display_url": "pic.twitter.com/9sNdHylwyW",
+						"expanded_url": "https://twitter.com/ad_ili_rai/status/1236972777556631552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 634,
+								"h": 821,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 634,
+								"h": 821,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 253043045,
+				"id_str": "253043045",
+				"name": "Shinjo Park",
+				"screen_name": "ad_ili_rai",
+				"location": "Berlin, Germany",
+				"description": "트윗 RT/특정인에 대한 팔로우는 항상 동의의 의미가 아닙니다. 체인블락 AUT! Infosec, Mobile, Train, Sex positive. For non-Korean speakers please follow @ad_ili_rai_en",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 192,
+				"friends_count": 235,
+				"listed_count": 17,
+				"created_at": "Wed Feb 16 12:51:40 +0000 2011",
+				"favourites_count": 208,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16538,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/520888414464253952/ePaI9jRX_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/520888414464253952/ePaI9jRX_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 18,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "※ MCC별 경보 조사는 CellBroadcastReceiver의 커밋 d6fbebc(2020-03-10)을 기준으로 하며, 다음 스크립트를 사용함: https://t.co/LBsAI8d3ba\n\n※ 이 지나치게 길기만 한 타래의 조사에 큰 도움을 준 전문가 지인 @ad_ili_rai 에게 감사를... 최근 KPAS 관련 트윗을 썼었다: https://t.co/ARngglK48x"
+	},
+	{
+		"created_at": "Fri Mar 13 05:40:08 +0000 2020",
+		"id": 1238276590569541600,
+		"id_str": "1238339039289208833",
+		"full_text": "비판해야 할 점은 다른 데 있다. 한국의 PWS는 한참 된 기술이지만 실제 운용은 2016년 대규모 지진 뒤에서야 부랴부랴 체계화되었고, 그 때 시작한 거 치고는 못 봐 줄 정도는 아니지만 아직도 시행착오를 겪고 있다. 훌륭한 표준이라도 운용이 뒷받침해야만 쓸모가 있다—그걸 지적하여야 옳다. (끝)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276588958937000,
+		"in_reply_to_status_id_str": "1238276588958937088",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "비판해야 할 점은 다른 데 있다. 한국의 PWS는 한참 된 기술이지만 실제 운용은 2016년 대규모 지진 뒤에서야 부랴부랴 체계화되었고, 그 때 시작한 거 치고는 못 봐 줄 정도는 아니지만 아직도 시행착오를 겪고 있다. 훌륭한 표준이라도 운용이 뒷받침해야만 쓸모가 있다—그걸 지적하여야 옳다. (끝)"
+	},
+	{
+		"created_at": "Fri Mar 13 05:40:06 +0000 2020",
+		"id": 1238276588958937000,
+		"id_str": "1238339029029941248",
+		"full_text": "4. 맺는말\n물론 KPAS를 표준화한 TTA가 아주 잘 했다는 소리를 하려는 건 아니다. KPAS class 1이 표시 요구사항 말고 큰 차이가 없다고는 해도 3GPP 표준에 설명하는 게 안하는 것보다 상황이 나을 것. 하지만 전 세계 PWS의 상황을 보면 3GPP에 표준이라도 넣은 한국을 다른 국가가 따라오긴 어렵다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276587306414000,
+		"in_reply_to_status_id_str": "1238276587306414080",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "4. 맺는말\n물론 KPAS를 표준화한 TTA가 아주 잘 했다는 소리를 하려는 건 아니다. KPAS class 1이 표시 요구사항 말고 큰 차이가 없다고는 해도 3GPP 표준에 설명하는 게 안하는 것보다 상황이 나을 것. 하지만 전 세계 PWS의 상황을 보면 3GPP에 표준이라도 넣은 한국을 다른 국가가 따라오긴 어렵다."
+	},
+	{
+		"created_at": "Fri Mar 13 05:40:02 +0000 2020",
+		"id": 1238276587306414000,
+		"id_str": "1238339012760227843",
+		"full_text": "사실 이래서 iOS는 비판을 피할 수 없다. iOS고 안드로이드고 같은 CMAS 호환 메시지라 하더라도 적게는 표시 방법 차이, 크게는 메시지 식별자 사용이 따로 놀 수 있다. 안드로이드도 8까지는 몇 가지 케이스만 하드코딩했다가 9에서 구조를 완전히 바꿔서 현재에 이르는데, iOS가 못 할 이유는 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276585238585300,
+		"in_reply_to_status_id_str": "1238276585238585344",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사실 이래서 iOS는 비판을 피할 수 없다. iOS고 안드로이드고 같은 CMAS 호환 메시지라 하더라도 적게는 표시 방법 차이, 크게는 메시지 식별자 사용이 따로 놀 수 있다. 안드로이드도 8까지는 몇 가지 케이스만 하드코딩했다가 9에서 구조를 완전히 바꿔서 현재에 이르는데, iOS가 못 할 이유는 없다."
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:58 +0000 2020",
+		"id": 1238276585238585300,
+		"id_str": "1238338994951163905",
+		"full_text": "물론 다국어 메시지(그러니까 \"긴급 재난 경보\" 같은 텍스트) 차이도 많지만, 저기서 mcc### 꼴로 되어 있는 건 모두 각 국가별로 다른 재난 경보 설정을 가리킨다(MCC = 모바일 국가 코드). 조사하는 김에 각 MCC별 설정의 차이를 대략 요약한 걸 아래에 올려 보았다. (대강만 봤으니 틀릴 수 있다;) https://t.co/14JzjmJWnO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238275679025647600,
+					"id_str": "1238275679025647617",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/ES89K15UUAEybWe.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES89K15UUAEybWe.png",
+					"url": "https://t.co/14JzjmJWnO",
+					"display_url": "pic.twitter.com/14JzjmJWnO",
+					"expanded_url": "https://twitter.com/senokay/status/1238276585238585344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 596,
+							"h": 879,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 596,
+							"h": 879,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238275679025647600,
+					"id_str": "1238275679025647617",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/ES89K15UUAEybWe.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES89K15UUAEybWe.png",
+					"url": "https://t.co/14JzjmJWnO",
+					"display_url": "pic.twitter.com/14JzjmJWnO",
+					"expanded_url": "https://twitter.com/senokay/status/1238276585238585344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 596,
+							"h": 879,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 596,
+							"h": 879,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276582822662100,
+		"in_reply_to_status_id_str": "1238276582822662145",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "물론 다국어 메시지(그러니까 \"긴급 재난 경보\" 같은 텍스트) 차이도 많지만, 저기서 mcc### 꼴로 되어 있는 건 모두 각 국가별로 다른 재난 경보 설정을 가리킨다(MCC = 모바일 국가 코드). 조사하는 김에 각 MCC별 설정의 차이를 대략 요약한 걸 아래에 올려 보았다. (대강만 봤으니 틀릴 수 있다;) https://t.co/14JzjmJWnO"
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:54 +0000 2020",
+		"id": 1238276582822662100,
+		"id_str": "1238338980908654592",
+		"full_text": "애시당초 CMAS와 호환이 어중간하게만 되는 KPAS는 어떻게 구현되었을까? iOS에도 대응되는 게 있지만 분석하기 귀찮으니 생략하고, 안드로이드에서는 CellBroadcastReceiver라는 내부 앱이 셀 브로드캐스팅을 담당한다. 그런데 이 앱의 리소스 파일을 찾아 보면… 어… https://t.co/dqWk8T7cWn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238275472330346500,
+					"id_str": "1238275472330346496",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ES88-z5UUAA9ghi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES88-z5UUAA9ghi.jpg",
+					"url": "https://t.co/dqWk8T7cWn",
+					"display_url": "pic.twitter.com/dqWk8T7cWn",
+					"expanded_url": "https://twitter.com/senokay/status/1238276582822662145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 688,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1216,
+							"h": 697,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238275472330346500,
+					"id_str": "1238275472330346496",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ES88-z5UUAA9ghi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES88-z5UUAA9ghi.jpg",
+					"url": "https://t.co/dqWk8T7cWn",
+					"display_url": "pic.twitter.com/dqWk8T7cWn",
+					"expanded_url": "https://twitter.com/senokay/status/1238276582822662145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 688,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1216,
+							"h": 697,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276581241413600,
+		"in_reply_to_status_id_str": "1238276581241413632",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애시당초 CMAS와 호환이 어중간하게만 되는 KPAS는 어떻게 구현되었을까? iOS에도 대응되는 게 있지만 분석하기 귀찮으니 생략하고, 안드로이드에서는 CellBroadcastReceiver라는 내부 앱이 셀 브로드캐스팅을 담당한다. 그런데 이 앱의 리소스 파일을 찾아 보면… 어… https://t.co/dqWk8T7cWn"
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:52 +0000 2020",
+		"id": 1238276581241413600,
+		"id_str": "1238338970309652481",
+		"full_text": "3. 사실 현실은 표준보다 복잡하다.\n자, 백보 양보해서 KPAS가 2015년에는 안전안내문자를 4372에 배당했어도 이제 WEA에 대응되는 메시지가 있으니 거기에 맞춰야 한다고 주장할 수도 있다. 기존 기기 호환성은 어떻게 해결했다고 치자. 그럼 모두가 CMAS 호환 표준을 사용하는 아름다운 세상이 될까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276579635019800,
+		"in_reply_to_status_id_str": "1238276579635019777",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "3. 사실 현실은 표준보다 복잡하다.\n자, 백보 양보해서 KPAS가 2015년에는 안전안내문자를 4372에 배당했어도 이제 WEA에 대응되는 메시지가 있으니 거기에 맞춰야 한다고 주장할 수도 있다. 기존 기기 호환성은 어떻게 해결했다고 치자. 그럼 모두가 CMAS 호환 표준을 사용하는 아름다운 세상이 될까?"
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:49 +0000 2020",
+		"id": 1238276579635019800,
+		"id_str": "1238338958641123328",
+		"full_text": "이렇게 되고 보니 KPAS도 별로 이상하진 않다. 처음부터 KPAS는 위급재난문자(class 0)는 CMAS 대통령령과, 나머지(class 1)는 CMAS 위기·심각 경보와 호환되었다. 안전안내문자는 WEA 안전안내보다 전(2015년)에 추가되었으니, EU-Info가 그랬듯 예약된 class 1 식별자 중 고른 게 당연한 걸 수 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276578049585200,
+		"in_reply_to_status_id_str": "1238276578049585153",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이렇게 되고 보니 KPAS도 별로 이상하진 않다. 처음부터 KPAS는 위급재난문자(class 0)는 CMAS 대통령령과, 나머지(class 1)는 CMAS 위기·심각 경보와 호환되었다. 안전안내문자는 WEA 안전안내보다 전(2015년)에 추가되었으니, EU-Info가 그랬듯 예약된 class 1 식별자 중 고른 게 당연한 걸 수 있다."
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:47 +0000 2020",
+		"id": 1238276578049585200,
+		"id_str": "1238338950424432640",
+		"full_text": "CMAS가 2017년에 WEA로 개명한 뒤에야 대응되는 메시지(4396)가 새로 할당되었고, 유럽은 CMAS에 호환시키려고 EU-Alert level 4를 만들고 EU-Info를 폐기해 버렸다. 하지만 3GPP 명세(2019년 12월 현재)에는 아직도 안 쓰여 있다! CMAS 호환이 목표라고 했으니 둘이 같은 식별자겠거니 추측할 뿐이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276576451518500,
+		"in_reply_to_status_id_str": "1238276576451518464",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "CMAS가 2017년에 WEA로 개명한 뒤에야 대응되는 메시지(4396)가 새로 할당되었고, 유럽은 CMAS에 호환시키려고 EU-Alert level 4를 만들고 EU-Info를 폐기해 버렸다. 하지만 3GPP 명세(2019년 12월 현재)에는 아직도 안 쓰여 있다! CMAS 호환이 목표라고 했으니 둘이 같은 식별자겠거니 추측할 뿐이다."
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:45 +0000 2020",
+		"id": 1238276576451518500,
+		"id_str": "1238338941721296901",
+		"full_text": "CMAS와는 달리 EU-ALERT 명세(ETSI TS 102 900)에는 level 2와 3 안에 별도의 구분이 없으므로, 이를테면 즉각적인 경보 아니면 반응하고 싶지 않다고 해도 EU-ALERT에서는 불가능하다. 그걸로 끝이 아니라, 이를테면 대략 한국의 안전안내문자에 대응하는 EU-Info에 대응되는 CMAS 메시지는… 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276574882828300,
+		"in_reply_to_status_id_str": "1238276574882828288",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "CMAS와는 달리 EU-ALERT 명세(ETSI TS 102 900)에는 level 2와 3 안에 별도의 구분이 없으므로, 이를테면 즉각적인 경보 아니면 반응하고 싶지 않다고 해도 EU-ALERT에서는 불가능하다. 그걸로 끝이 아니라, 이를테면 대략 한국의 안전안내문자에 대응하는 EU-Info에 대응되는 CMAS 메시지는… 없다."
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:44 +0000 2020",
+		"id": 1238276574882828300,
+		"id_str": "1238338935530508290",
+		"full_text": "그러니까 CMAS에서는 수신 거부가 불가능한 최상위 경보(presidential)와 함께 위기(extreme)/심각(severe), 즉각(immediate)/예고(expected), 관측됨(observed)/가능성(likely)의 세 측도로 차상위 경보를 8개로 나누었는데, EU-ALERT 차상위 경보(level 2)는 위기+즉각 경보 두개에만 겹치는 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276573012213800,
+		"in_reply_to_status_id_str": "1238276573012213760",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러니까 CMAS에서는 수신 거부가 불가능한 최상위 경보(presidential)와 함께 위기(extreme)/심각(severe), 즉각(immediate)/예고(expected), 관측됨(observed)/가능성(likely)의 세 측도로 차상위 경보를 8개로 나누었는데, EU-ALERT 차상위 경보(level 2)는 위기+즉각 경보 두개에만 겹치는 것이다."
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:42 +0000 2020",
+		"id": 1238276573012213800,
+		"id_str": "1238338928018522112",
+		"full_text": "2. PWS들 사이의 호환은 어디까지나 차선책이다.\nETWS는 뭐 그렇다 치고 다른 모든 시스템은 CMAS와 호환되는 것 같으니까 걔네들끼리는 맞춰야 하는 거 아니야? 라는 생각을 할 수도 있다. 좋다. 이미지를 다시 보고 오자. CMAS와 EU-ALERT의 차이가 보이시는가? https://t.co/V9aVeegLye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238275096613015600,
+					"id_str": "1238275096613015552",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ES88o8PU0AAqnMi.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES88o8PU0AAqnMi.png",
+					"url": "https://t.co/V9aVeegLye",
+					"display_url": "pic.twitter.com/V9aVeegLye",
+					"expanded_url": "https://twitter.com/senokay/status/1238276573012213760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 379,
+							"h": 259,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 379,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 379,
+							"h": 259,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238275096613015600,
+					"id_str": "1238275096613015552",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/ES88o8PU0AAqnMi.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES88o8PU0AAqnMi.png",
+					"url": "https://t.co/V9aVeegLye",
+					"display_url": "pic.twitter.com/V9aVeegLye",
+					"expanded_url": "https://twitter.com/senokay/status/1238276573012213760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 379,
+							"h": 259,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 379,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 379,
+							"h": 259,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276571292549000,
+		"in_reply_to_status_id_str": "1238276571292549120",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2. PWS들 사이의 호환은 어디까지나 차선책이다.\nETWS는 뭐 그렇다 치고 다른 모든 시스템은 CMAS와 호환되는 것 같으니까 걔네들끼리는 맞춰야 하는 거 아니야? 라는 생각을 할 수도 있다. 좋다. 이미지를 다시 보고 오자. CMAS와 EU-ALERT의 차이가 보이시는가? https://t.co/V9aVeegLye"
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:40 +0000 2020",
+		"id": 1238276571292549000,
+		"id_str": "1238338919051096064",
+		"full_text": "ETWS는 지진·해일 경보 지연을 줄이려고 메시지를 두 단계로 나눠 보내는 과정에서 CMAS와의 호환을 포기했다(메시지 식별자도 완전히 달라서 맨 첫 표에 포함되지 않았다). 3GPP 표준에서는 국가별로 PWS 요구사항이 다를 수 있다는 걸 인정하고, 공통 요소 뒤에 개별 시스템을 하나씩 설명하고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276569187016700,
+		"in_reply_to_status_id_str": "1238276569187016704",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "ETWS는 지진·해일 경보 지연을 줄이려고 메시지를 두 단계로 나눠 보내는 과정에서 CMAS와의 호환을 포기했다(메시지 식별자도 완전히 달라서 맨 첫 표에 포함되지 않았다). 3GPP 표준에서는 국가별로 PWS 요구사항이 다를 수 있다는 걸 인정하고, 공통 요소 뒤에 개별 시스템을 하나씩 설명하고 있다."
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:38 +0000 2020",
+		"id": 1238276569187016700,
+		"id_str": "1238338913174872068",
+		"full_text": "1. 현존하는 LTE용 PWS는 세 종류가 아니다!\n미국(구 CMAS 현 WEA), 유럽(EU-ALERT), 한국(KPAS)만 있을 것 같지만 사실 하나 더 있다. 일본(ETWS)이다. 사실 3GPP의 PWS 요구사항 표준(TS 22.268) 자체가 2008년에 제정되었을 때는 딱 CMAS와 ETWS만 있었고 EU-ALERT와 KPAS는 나중에 추가된 것이다. https://t.co/GqOv6xGSHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238274933920116700,
+					"id_str": "1238274933920116736",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/ES88feKUMAAX4wJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES88feKUMAAX4wJ.png",
+					"url": "https://t.co/GqOv6xGSHP",
+					"display_url": "pic.twitter.com/GqOv6xGSHP",
+					"expanded_url": "https://twitter.com/senokay/status/1238276569187016704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 899,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 745,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238274933920116700,
+					"id_str": "1238274933920116736",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/ES88feKUMAAX4wJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES88feKUMAAX4wJ.png",
+					"url": "https://t.co/GqOv6xGSHP",
+					"display_url": "pic.twitter.com/GqOv6xGSHP",
+					"expanded_url": "https://twitter.com/senokay/status/1238276569187016704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 899,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 745,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276567509241900,
+		"in_reply_to_status_id_str": "1238276567509241856",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1. 현존하는 LTE용 PWS는 세 종류가 아니다!\n미국(구 CMAS 현 WEA), 유럽(EU-ALERT), 한국(KPAS)만 있을 것 같지만 사실 하나 더 있다. 일본(ETWS)이다. 사실 3GPP의 PWS 요구사항 표준(TS 22.268) 자체가 2008년에 제정되었을 때는 딱 CMAS와 ETWS만 있었고 EU-ALERT와 KPAS는 나중에 추가된 것이다. https://t.co/GqOv6xGSHP"
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:36 +0000 2020",
+		"id": 1238276567509241900,
+		"id_str": "1238338904949788674",
+		"full_text": "표가 뭔가 범상치 않다는 느낌이 든다면 이 타래를 바로 이해한 것이다. 이번에도 타래가 길어질 것 같으니(총 16개!…) 세 줄 요약부터 쓰면,\n\n1. 현존하는 LTE용 PWS는 세 종류가 끝이 아니다.\n2. 호환이 되는 것처럼 보이는 PWS들끼리도 세부 요구 사항은 다르다.\n3. 어차피 현실에선 다 쓸모없어…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276565370163200,
+		"in_reply_to_status_id_str": "1238276565370163200",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "표가 뭔가 범상치 않다는 느낌이 든다면 이 타래를 바로 이해한 것이다. 이번에도 타래가 길어질 것 같으니(총 16개!…) 세 줄 요약부터 쓰면,\n\n1. 현존하는 LTE용 PWS는 세 종류가 끝이 아니다.\n2. 호환이 되는 것처럼 보이는 PWS들끼리도 세부 요구 사항은 다르다.\n3. 어차피 현실에선 다 쓸모없어…"
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:35 +0000 2020",
+		"id": 1238276565370163200,
+		"id_str": "1238338897739796481",
+		"full_text": "현재 널리 쓰이는 LTE(4G) 통신망 기준으로 재난 \"문자\", 즉 공공 경보는 System Information Block(SIB)이라 하는 특수한 패킷에 실려 온다. 여기엔 패킷의 종류를 구분하고 무슨 메시지인지 알려 주는 식별자가 붙어 있는데, 아래 표가 바로 3개 공중 경보 시스템(PWS)에서 쓰는 메시지 목록이다. https://t.co/ut1fnQhdU2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238274765841825800,
+					"id_str": "1238274765841825792",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/ES88VsBVAAAYCGc.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES88VsBVAAAYCGc.png",
+					"url": "https://t.co/ut1fnQhdU2",
+					"display_url": "pic.twitter.com/ut1fnQhdU2",
+					"expanded_url": "https://twitter.com/senokay/status/1238276565370163200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 482,
+							"h": 617,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 617,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 482,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238274765841825800,
+					"id_str": "1238274765841825792",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/ES88VsBVAAAYCGc.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES88VsBVAAAYCGc.png",
+					"url": "https://t.co/ut1fnQhdU2",
+					"display_url": "pic.twitter.com/ut1fnQhdU2",
+					"expanded_url": "https://twitter.com/senokay/status/1238276565370163200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 482,
+							"h": 617,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 617,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 482,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1238276563637919700,
+		"in_reply_to_status_id_str": "1238276563637919748",
+		"in_reply_to_user_id": 59092295,
+		"in_reply_to_user_id_str": "59092295",
+		"in_reply_to_screen_name": "senokay",
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현재 널리 쓰이는 LTE(4G) 통신망 기준으로 재난 \"문자\", 즉 공공 경보는 System Information Block(SIB)이라 하는 특수한 패킷에 실려 온다. 여기엔 패킷의 종류를 구분하고 무슨 메시지인지 알려 주는 식별자가 붙어 있는데, 아래 표가 바로 3개 공중 경보 시스템(PWS)에서 쓰는 메시지 목록이다. https://t.co/ut1fnQhdU2"
+	},
+	{
+		"created_at": "Fri Mar 13 05:39:33 +0000 2020",
+		"id": 1238276563637919700,
+		"id_str": "1238338890492022784",
+		"full_text": "재난·안전안내문자가 \"국제 표준에 부합하지 않아\" 문제를 일으킨다는 주장은 그간 몇 번 들은 얘긴데(가장 최근엔 https://t.co/pEs5HPKW4u), 들을 때마다 *왜* 그리 되었는진 한 번도 못 들어 봤다. 이 참에 이동통신 보안 전문가인 지인의 도움을 받아 조사해 봤다. (물론 오류는 모두 내 탓이리라)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pEs5HPKW4u",
+					"expanded_url": "https://slownews.kr/75532",
+					"display_url": "slownews.kr/75532",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59092295,
+			"id_str": "59092295",
+			"name": "Kang Seonghoon",
+			"screen_name": "senokay",
+			"location": "Planet Earth",
+			"description": "Kang Seonghoon, an esoteric polyglot (sorta) programmer, avid rhythm action gamer, heavy thinker and proud preservationist. / 이 계정은 개인 계정으로 소속 회사·단체의 의견과 무관합니다.",
+			"url": "http://t.co/88xWEK6NqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88xWEK6NqZ",
+							"expanded_url": "http://mearie.org/",
+							"display_url": "mearie.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 58,
+			"listed_count": 49,
+			"created_at": "Wed Jul 22 10:31:47 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915682353840128/CS_xGMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59092295/1465479131",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 103,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재난·안전안내문자가 \"국제 표준에 부합하지 않아\" 문제를 일으킨다는 주장은 그간 몇 번 들은 얘긴데(가장 최근엔 https://t.co/pEs5HPKW4u), 들을 때마다 *왜* 그리 되었는진 한 번도 못 들어 봤다. 이 참에 이동통신 보안 전문가인 지인의 도움을 받아 조사해 봤다. (물론 오류는 모두 내 탓이리라)"
+	},
+	{
+		"created_at": "Fri Mar 13 05:37:34 +0000 2020",
+		"id": 1238262508214980600,
+		"id_str": "1238338391885807616",
+		"full_text": "사회적 거리두기(Social distancing)의 효과에 대해서 잘 설명한 쿼츠기사 https://t.co/KpYEFv3cUJ 1918년 스페인독감이 유행했을 때 대처가 늦은 필라델피아에서는 병상이 넘쳐 사망자가 급증, 반면 빠르게 대처한 세인트루이스는 잘 대처할 수 있었다고. https://t.co/ytF6vTOywp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KpYEFv3cUJ",
+					"expanded_url": "https://qz.com/1816060/a-chart-of-the-1918-spanish-flu-shows-why-social-distancing-works/",
+					"display_url": "qz.com/1816060/a-char…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238262494335918000,
+					"id_str": "1238262494335918080",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ES8xLZGU4AAAGg6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES8xLZGU4AAAGg6.jpg",
+					"url": "https://t.co/ytF6vTOywp",
+					"display_url": "pic.twitter.com/ytF6vTOywp",
+					"expanded_url": "https://twitter.com/estima7/status/1238262508214980610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 389,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 389,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238262494335918000,
+					"id_str": "1238262494335918080",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ES8xLZGU4AAAGg6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES8xLZGU4AAAGg6.jpg",
+					"url": "https://t.co/ytF6vTOywp",
+					"display_url": "pic.twitter.com/ytF6vTOywp",
+					"expanded_url": "https://twitter.com/estima7/status/1238262508214980610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 389,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 389,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 379343,
+			"friends_count": 2294,
+			"listed_count": 4776,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사회적 거리두기(Social distancing)의 효과에 대해서 잘 설명한 쿼츠기사 https://t.co/KpYEFv3cUJ 1918년 스페인독감이 유행했을 때 대처가 늦은 필라델피아에서는 병상이 넘쳐 사망자가 급증, 반면 빠르게 대처한 세인트루이스는 잘 대처할 수 있었다고. https://t.co/ytF6vTOywp"
+	},
+	{
+		"created_at": "Fri Mar 13 05:24:34 +0000 2020",
+		"id": 1238107286322602000,
+		"id_str": "1238335119372554240",
+		"full_text": "[Official]\n스텔라장 KBS &lt;뮤직뱅크&gt; 출연 안내\n\n이번엔 뮤뱅이닷!⭐️ 모노트리와 함께한 #레시피 무대를 KBS 뮤직뱅크에서 선보입니다. 코로나19로 인해 아티스트와 팬분들의 안전을 위하여 뮤직뱅크는 관객 없이 진행됩니다. 내일(금) 5시 KBS 생방송으로 함께해주세요!\n\n#스텔라장 #Stellajang https://t.co/JtU7HESiyZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레시피",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "Stellajang",
+					"indices": [
+						171,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238107275488710700,
+					"id_str": "1238107275488710657",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ES6kAd1U0AEFYub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES6kAd1U0AEFYub.jpg",
+					"url": "https://t.co/JtU7HESiyZ",
+					"display_url": "pic.twitter.com/JtU7HESiyZ",
+					"expanded_url": "https://twitter.com/interstellajang/status/1238107286322601984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238107275488710700,
+					"id_str": "1238107275488710657",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ES6kAd1U0AEFYub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES6kAd1U0AEFYub.jpg",
+					"url": "https://t.co/JtU7HESiyZ",
+					"display_url": "pic.twitter.com/JtU7HESiyZ",
+					"expanded_url": "https://twitter.com/interstellajang/status/1238107286322601984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1460678490,
+			"id_str": "1460678490",
+			"name": "스텔라장 Stella Jang",
+			"screen_name": "interstellajang",
+			"location": "대한민국",
+			"description": "Official account💙 Stella Jang's IG : @interstellajang",
+			"url": "https://t.co/hwB1hpI2gc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hwB1hpI2gc",
+							"expanded_url": "https://www.youtube.com/stellajangtv",
+							"display_url": "youtube.com/stellajangtv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 882,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Sun May 26 21:40:33 +0000 2013",
+			"favourites_count": 604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191153819305926656/IqjqEU8p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191153819305926656/IqjqEU8p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1460678490/1572828131",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Official]\n스텔라장 KBS &lt;뮤직뱅크&gt; 출연 안내\n\n이번엔 뮤뱅이닷!⭐️ 모노트리와 함께한 #레시피 무대를 KBS 뮤직뱅크에서 선보입니다. 코로나19로 인해 아티스트와 팬분들의 안전을 위하여 뮤직뱅크는 관객 없이 진행됩니다. 내일(금) 5시 KBS 생방송으로 함께해주세요!\n\n#스텔라장 #Stellajang https://t.co/JtU7HESiyZ"
+	},
+	{
+		"created_at": "Fri Mar 13 05:24:32 +0000 2020",
+		"id": 1238327455468798000,
+		"id_str": "1238335110455480320",
+		"full_text": "[코로나 수혜주의 성공 법칙을 알려Zoom]\n\n왠지 본 수법 같기도 하네요? 은근하게 접근하고, 무리하게 정체를 드러내지도 않아서, 이미 널리 쓰이고 있던 기존 시장을 마치 그러니까 추수하듯 새로운 하늘과 땅을 먹어치우는 그런.. 아 아닙니다.\n\nhttps://t.co/C6kCqlRFWe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C6kCqlRFWe",
+					"expanded_url": "https://ebadak.news/2020/03/12/success-secrets-of-zoom/",
+					"display_url": "ebadak.news/2020/03/12/suc…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114700851778449400,
+			"id_str": "1114700851778449408",
+			"name": "이바닥늬우스",
+			"screen_name": "ebadaknews",
+			"location": "",
+			"description": "찰지고 신나는 테크바닥 늬우스",
+			"url": "https://t.co/L0rYnRELas",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L0rYnRELas",
+							"expanded_url": "https://ebadak.news",
+							"display_url": "ebadak.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 584,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Sun Apr 07 01:26:07 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114700932934029313/VXZnypQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114700851778449408/1555415622",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코로나 수혜주의 성공 법칙을 알려Zoom]\n\n왠지 본 수법 같기도 하네요? 은근하게 접근하고, 무리하게 정체를 드러내지도 않아서, 이미 널리 쓰이고 있던 기존 시장을 마치 그러니까 추수하듯 새로운 하늘과 땅을 먹어치우는 그런.. 아 아닙니다.\n\nhttps://t.co/C6kCqlRFWe"
+	},
+	{
+		"created_at": "Fri Mar 13 05:21:55 +0000 2020",
+		"id": 1238238340337389600,
+		"id_str": "1238334452880699393",
+		"full_text": "확진 판정을 받은 녹즙 배달원. 그는 집단감염이 발생한 구로구 콜센터 직원이었다. 여의도에서 새벽 배달이 끝나면 콜센터로 두 번째 출근을 했다.\nhttps://t.co/O6TC5CE7IW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O6TC5CE7IW",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202003130600095&code=940702",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 744154,
+			"friends_count": 80304,
+			"listed_count": 6432,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 82670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 598,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "확진 판정을 받은 녹즙 배달원. 그는 집단감염이 발생한 구로구 콜센터 직원이었다. 여의도에서 새벽 배달이 끝나면 콜센터로 두 번째 출근을 했다.\nhttps://t.co/O6TC5CE7IW"
+	},
+	{
+		"created_at": "Fri Mar 13 05:21:35 +0000 2020",
+		"id": 1238242725675188200,
+		"id_str": "1238334370903019520",
+		"full_text": "코로나바이러스에 대해 궁금한 9가지 질문에 답하는 VOX기사. 데이터에 기반해서 알기 쉽게 도식화해서 보여주는데 뛰어나다. 그중 각국별로 인구 백만명당 코로나검사 숫자를 비교해 보여주는 차트가 인상적. 한국이 백만명당 약 3천7백명으로 1위. https://t.co/kz4cTLT8Ia https://t.co/PSHKUtlzot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kz4cTLT8Ia",
+					"expanded_url": "https://www.vox.com/2020/1/31/21113178/what-is-coronavirus-symptoms-travel-china-map",
+					"display_url": "vox.com/2020/1/31/2111…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238242716758106000,
+					"id_str": "1238242716758106112",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ES8fML4U4AA_izN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES8fML4U4AA_izN.jpg",
+					"url": "https://t.co/PSHKUtlzot",
+					"display_url": "pic.twitter.com/PSHKUtlzot",
+					"expanded_url": "https://twitter.com/estima7/status/1238242725675188224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 920,
+							"h": 1150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238242716758106000,
+					"id_str": "1238242716758106112",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ES8fML4U4AA_izN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES8fML4U4AA_izN.jpg",
+					"url": "https://t.co/PSHKUtlzot",
+					"display_url": "pic.twitter.com/PSHKUtlzot",
+					"expanded_url": "https://twitter.com/estima7/status/1238242725675188224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 920,
+							"h": 1150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 379343,
+			"friends_count": 2294,
+			"listed_count": 4776,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나바이러스에 대해 궁금한 9가지 질문에 답하는 VOX기사. 데이터에 기반해서 알기 쉽게 도식화해서 보여주는데 뛰어나다. 그중 각국별로 인구 백만명당 코로나검사 숫자를 비교해 보여주는 차트가 인상적. 한국이 백만명당 약 3천7백명으로 1위. https://t.co/kz4cTLT8Ia https://t.co/PSHKUtlzot"
+	},
+	{
+		"created_at": "Fri Mar 13 05:12:21 +0000 2020",
+		"id": 1238332044129820700,
+		"id_str": "1238332044129820672",
+		"full_text": "#BBC코리아\n코로나19: 미 보건당국자 '미국, 코로나 진단검사 실패'\nhttps://t.co/InuCL07Ojv\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/InuCL07Ojv",
+					"expanded_url": "https://www.bbc.com/korean/news-51867200",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 미 보건당국자 '미국, 코로나 진단검사 실패'\nhttps://t.co/InuCL07Ojv\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Mar 13 05:05:14 +0000 2020",
+		"id": 1238320397159825400,
+		"id_str": "1238330256995606528",
+		"full_text": "#Dreamworks animation 'Troll' OST with Red Velvet released!\n\nJangan lupa saksikan film animasi “Troll: World Tour” yg akan rilis 29 April ya! 🤘\n\n#RedVelvet #Trolls https://t.co/Kt2bDbg36t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dreamworks",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238320361101389800,
+					"id_str": "1238320361101389827",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ES9lzrmU8AMaOQE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES9lzrmU8AMaOQE.jpg",
+					"url": "https://t.co/Kt2bDbg36t",
+					"display_url": "pic.twitter.com/Kt2bDbg36t",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1238320397159825409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238320361101389800,
+					"id_str": "1238320361101389827",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ES9lzrmU8AMaOQE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES9lzrmU8AMaOQE.jpg",
+					"url": "https://t.co/Kt2bDbg36t",
+					"display_url": "pic.twitter.com/Kt2bDbg36t",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1238320397159825409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103978,
+			"friends_count": 24,
+			"listed_count": 103,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 490,
+		"favorite_count": 1498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "#Dreamworks animation 'Troll' OST with Red Velvet released!\n\nJangan lupa saksikan film animasi “Troll: World Tour” yg akan rilis 29 April ya! 🤘\n\n#RedVelvet #Trolls https://t.co/Kt2bDbg36t"
+	},
+	{
 		"created_at": "Fri Mar 13 04:38:22 +0000 2020",
 		"id": 1238323495370666000,
 		"id_str": "1238323495370665984",
