@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 01:24:31 +0000 2020",
+		"id": 1238273258606063600,
+		"id_str": "1238274711425093632",
+		"full_text": "#레드벨벳 참여한 드림웍스 애니메이션 ‘트롤’ OST 오늘 공개!\n레드벨벳의 목소리가 담긴 ‘트롤: 월드 투어’ OST 앨범 ‘Don't Slack (from #TrollsWorldTour)’가 오늘 낮 12시에 공개됩니다!\n오는 4월 29일 개봉하는 애니메이션 ‘트롤: 월드 투어’도 기대 많이 해주세요!🤘\n\n#RedVelvet #Trolls https://t.co/sHXo2hueNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "TrollsWorldTour",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "Trolls",
+					"indices": [
+						185,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238269572500689000,
+					"id_str": "1238269572500688896",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/ES83nZUUEAA3YtP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES83nZUUEAA3YtP.jpg",
+					"url": "https://t.co/sHXo2hueNX",
+					"display_url": "pic.twitter.com/sHXo2hueNX",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1238273258606063617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 242,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 728,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238269572500689000,
+					"id_str": "1238269572500688896",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/ES83nZUUEAA3YtP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES83nZUUEAA3YtP.jpg",
+					"url": "https://t.co/sHXo2hueNX",
+					"display_url": "pic.twitter.com/sHXo2hueNX",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1238273258606063617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 242,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 728,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238269572509094000,
+					"id_str": "1238269572509093890",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/ES83nZWUUAInN_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES83nZWUUAInN_P.jpg",
+					"url": "https://t.co/sHXo2hueNX",
+					"display_url": "pic.twitter.com/sHXo2hueNX",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1238273258606063617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238270693474619400,
+					"id_str": "1238270693474619393",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/ES84opRU0AEcM35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES84opRU0AEcM35.jpg",
+					"url": "https://t.co/sHXo2hueNX",
+					"display_url": "pic.twitter.com/sHXo2hueNX",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1238273258606063617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2337346,
+			"friends_count": 2,
+			"listed_count": 7007,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5869,
+		"favorite_count": 13792,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳 참여한 드림웍스 애니메이션 ‘트롤’ OST 오늘 공개!\n레드벨벳의 목소리가 담긴 ‘트롤: 월드 투어’ OST 앨범 ‘Don't Slack (from #TrollsWorldTour)’가 오늘 낮 12시에 공개됩니다!\n오는 4월 29일 개봉하는 애니메이션 ‘트롤: 월드 투어’도 기대 많이 해주세요!🤘\n\n#RedVelvet #Trolls https://t.co/sHXo2hueNX"
+	},
+	{
 		"created_at": "Thu Mar 12 23:52:43 +0000 2020",
 		"id": 1238071940432023600,
 		"id_str": "1238251607592177664",
