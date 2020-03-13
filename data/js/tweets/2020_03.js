@@ -1,6 +1,1303 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 04:38:22 +0000 2020",
+		"id": 1238323495370666000,
+		"id_str": "1238323495370665984",
+		"full_text": "#대한민국 #보건복지부\n[요약] 3월12일14시│WHO '코로나19 전세계 대유행' 선언│정부브리핑\nhttps://t.co/f8PJOKFt2F\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						80,
+						93
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f8PJOKFt2F",
+					"expanded_url": "https://www.youtube.com/watch?v=Ap88KRsaiV4",
+					"display_url": "youtube.com/watch?v=Ap88KR…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 3월12일14시│WHO '코로나19 전세계 대유행' 선언│정부브리핑\nhttps://t.co/f8PJOKFt2F\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Mar 13 04:38:22 +0000 2020",
+		"id": 1238323494066274300,
+		"id_str": "1238323494066274304",
+		"full_text": "#대한민국 #보건복지부\n[요약] 3월12일11시│특별입국절차 적용 대상 국가 확대 계획│정부브리핑\nhttps://t.co/41lZZgLVtO\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						79,
+						92
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/41lZZgLVtO",
+					"expanded_url": "https://www.youtube.com/watch?v=fvf05KyTw84",
+					"display_url": "youtube.com/watch?v=fvf05K…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n[요약] 3월12일11시│특별입국절차 적용 대상 국가 확대 계획│정부브리핑\nhttps://t.co/41lZZgLVtO\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Mar 13 04:27:17 +0000 2020",
+		"id": 1238282135158448000,
+		"id_str": "1238320703226523648",
+		"full_text": "GitLab의 완전원격근무(All-Remote) 가이드 https://t.co/XJ7UtZW7VH \n깃랩은 65개국 1200명이 모두 All-Remote 인 세계 최대의 완전 원격 근무 회사\n장점과 단점 부터 팀을 구성하는 방법, 문화로 만들기, 매니저를 위한 가이드, 채용과 보상, 핸드북 기반 문서화, 커뮤니케이션 방법 등 \n원격근...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XJ7UtZW7VH",
+					"expanded_url": "http://j.mp/2TKZ1GX",
+					"display_url": "j.mp/2TKZ1GX",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2485,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "GitLab의 완전원격근무(All-Remote) 가이드 https://t.co/XJ7UtZW7VH \n깃랩은 65개국 1200명이 모두 All-Remote 인 세계 최대의 완전 원격 근무 회사\n장점과 단점 부터 팀을 구성하는 방법, 문화로 만들기, 매니저를 위한 가이드, 채용과 보상, 핸드북 기반 문서화, 커뮤니케이션 방법 등 \n원격근..."
+	},
+	{
+		"created_at": "Fri Mar 13 04:27:05 +0000 2020",
+		"id": 1238287925537693700,
+		"id_str": "1238320656183218176",
+		"full_text": "DataSchool - ChartIO의 무료 온라인 DB 학교 https://t.co/36v7CTGBHr \n· Cloud Data Management\n· 대쉬보드 디자인 하는법\n· 사람들에게 SQL을 가르치는 법\n· SQL 배우기\n· 잘못된 데이터 해석 피하기\n· SQL 최적화\n· 분석의 기초",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/36v7CTGBHr",
+					"expanded_url": "http://j.mp/3aUwGnB",
+					"display_url": "j.mp/3aUwGnB",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2485,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DataSchool - ChartIO의 무료 온라인 DB 학교 https://t.co/36v7CTGBHr \n· Cloud Data Management\n· 대쉬보드 디자인 하는법\n· 사람들에게 SQL을 가르치는 법\n· SQL 배우기\n· 잘못된 데이터 해석 피하기\n· SQL 최적화\n· 분석의 기초"
+	},
+	{
+		"created_at": "Fri Mar 13 04:24:32 +0000 2020",
+		"id": 1238309421295394800,
+		"id_str": "1238320010759745540",
+		"full_text": "코로나19 공공데이터 공동대응 '공동데이터 제안하다' 인터뷰 \n\n\"필요한 내용과 형식으로 공공데이터가 있으면 시빅해커들이 시민들과 문제를 해결하는데 도움됩니다.\"\n\nhttps://t.co/8UaKhlJpRZ\n\n* 빠띠의 민주주의랩이 함께 합니다.\n여러분도 함께 하고 싶으신가요? https://t.co/nzvXR30Gz9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8UaKhlJpRZ",
+					"expanded_url": "https://youtu.be/wPrn0Lzf4ck",
+					"display_url": "youtu.be/wPrn0Lzf4ck",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/nzvXR30Gz9",
+					"expanded_url": "http://bit.ly/covid19kr",
+					"display_url": "bit.ly/covid19kr",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 148,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 공공데이터 공동대응 '공동데이터 제안하다' 인터뷰 \n\n\"필요한 내용과 형식으로 공공데이터가 있으면 시빅해커들이 시민들과 문제를 해결하는데 도움됩니다.\"\n\nhttps://t.co/8UaKhlJpRZ\n\n* 빠띠의 민주주의랩이 함께 합니다.\n여러분도 함께 하고 싶으신가요? https://t.co/nzvXR30Gz9"
+	},
+	{
+		"created_at": "Fri Mar 13 04:16:05 +0000 2020",
+		"id": 1237612819299754000,
+		"id_str": "1238317884742352896",
+		"full_text": "['코로나 예방용 목걸이' 주의!]\n최근 코로나19 확산의 국민 불안심리를 악용하는 목걸이 형태 살균·소독 제품 유통 사례가 증가하고 있습니다.\n\n안전성이 검증되지 않은 제품으로 각별한 주의를 당부드립니다.\n👉https://t.co/YCUxkW3l6J\n\n#환경부 #코로나19 #힘내라_대구경북 #힘내라_대한민국 https://t.co/9k0ebTWPmC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "환경부",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "힘내라_대구경북",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "힘내라_대한민국",
+					"indices": [
+						164,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YCUxkW3l6J",
+					"expanded_url": "http://bit.ly/2IyS0Tt",
+					"display_url": "bit.ly/2IyS0Tt",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237612806754545700,
+					"id_str": "1237612806754545664",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ESziSmQUMAAz9JF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESziSmQUMAAz9JF.jpg",
+					"url": "https://t.co/9k0ebTWPmC",
+					"display_url": "pic.twitter.com/9k0ebTWPmC",
+					"expanded_url": "https://twitter.com/mevpr/status/1237612819299753984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237612806754545700,
+					"id_str": "1237612806754545664",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ESziSmQUMAAz9JF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESziSmQUMAAz9JF.jpg",
+					"url": "https://t.co/9k0ebTWPmC",
+					"display_url": "pic.twitter.com/9k0ebTWPmC",
+					"expanded_url": "https://twitter.com/mevpr/status/1237612819299753984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119216031,
+			"id_str": "119216031",
+			"name": "환경부",
+			"screen_name": "mevpr",
+			"location": "korea",
+			"description": "안녕하세요. 환경부 트위터에 오신 것을 환영합니다.",
+			"url": "https://t.co/umXi3frZu9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/umXi3frZu9",
+							"expanded_url": "http://www.fb.com/mevpr",
+							"display_url": "fb.com/mevpr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57216,
+			"friends_count": 31434,
+			"listed_count": 666,
+			"created_at": "Wed Mar 03 00:38:32 +0000 2010",
+			"favourites_count": 1590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232229708290387968/IQYp3_tf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232229708290387968/IQYp3_tf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119216031/1583284607",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "307501",
+			"profile_text_color": "173800",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 512,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "['코로나 예방용 목걸이' 주의!]\n최근 코로나19 확산의 국민 불안심리를 악용하는 목걸이 형태 살균·소독 제품 유통 사례가 증가하고 있습니다.\n\n안전성이 검증되지 않은 제품으로 각별한 주의를 당부드립니다.\n👉https://t.co/YCUxkW3l6J\n\n#환경부 #코로나19 #힘내라_대구경북 #힘내라_대한민국 https://t.co/9k0ebTWPmC"
+	},
+	{
+		"created_at": "Fri Mar 13 04:16:03 +0000 2020",
+		"id": 1238317877297442800,
+		"id_str": "1238317877297442816",
+		"full_text": "공간제균 제품 구입하지 맙시다. 이산화염소, 차아염소산나트륨을 목에 걸고 있다고 해서 바이러스를 막을 수 없습니다. 반경 1m의 세균을 막는다는 결과는 어디서도 제공하지 못합니다. 공포 마케팅에 속지마세요!\n#공간제균 #블록커 https://t.co/r0MBfdWTpb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공간제균",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "블록커",
+					"indices": [
+						122,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r0MBfdWTpb",
+					"expanded_url": "https://twitter.com/mevpr/status/1237612819299753984",
+					"display_url": "twitter.com/mevpr/status/1…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237612819299754000,
+		"quoted_status_id_str": "1237612819299753984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r0MBfdWTpb",
+			"expanded": "https://twitter.com/mevpr/status/1237612819299753984",
+			"display": "twitter.com/mevpr/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 11 05:34:24 +0000 2020",
+			"id": 1237612819299754000,
+			"id_str": "1237612819299753984",
+			"full_text": "['코로나 예방용 목걸이' 주의!]\n최근 코로나19 확산의 국민 불안심리를 악용하는 목걸이 형태 살균·소독 제품 유통 사례가 증가하고 있습니다.\n\n안전성이 검증되지 않은 제품으로 각별한 주의를 당부드립니다.\n👉https://t.co/YCUxkW3l6J\n\n#환경부 #코로나19 #힘내라_대구경북 #힘내라_대한민국 https://t.co/9k0ebTWPmC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "환경부",
+						"indices": [
+							142,
+							146
+						]
+					},
+					{
+						"text": "코로나19",
+						"indices": [
+							147,
+							153
+						]
+					},
+					{
+						"text": "힘내라_대구경북",
+						"indices": [
+							154,
+							163
+						]
+					},
+					{
+						"text": "힘내라_대한민국",
+						"indices": [
+							164,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YCUxkW3l6J",
+						"expanded_url": "http://bit.ly/2IyS0Tt",
+						"display_url": "bit.ly/2IyS0Tt",
+						"indices": [
+							117,
+							140
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1237612806754545700,
+						"id_str": "1237612806754545664",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/ESziSmQUMAAz9JF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESziSmQUMAAz9JF.jpg",
+						"url": "https://t.co/9k0ebTWPmC",
+						"display_url": "pic.twitter.com/9k0ebTWPmC",
+						"expanded_url": "https://twitter.com/mevpr/status/1237612819299753984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1237612806754545700,
+						"id_str": "1237612806754545664",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/ESziSmQUMAAz9JF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESziSmQUMAAz9JF.jpg",
+						"url": "https://t.co/9k0ebTWPmC",
+						"display_url": "pic.twitter.com/9k0ebTWPmC",
+						"expanded_url": "https://twitter.com/mevpr/status/1237612819299753984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119216031,
+				"id_str": "119216031",
+				"name": "환경부",
+				"screen_name": "mevpr",
+				"location": "korea",
+				"description": "안녕하세요. 환경부 트위터에 오신 것을 환영합니다.",
+				"url": "https://t.co/umXi3frZu9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/umXi3frZu9",
+								"expanded_url": "http://www.fb.com/mevpr",
+								"display_url": "fb.com/mevpr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57216,
+				"friends_count": 31434,
+				"listed_count": 666,
+				"created_at": "Wed Mar 03 00:38:32 +0000 2010",
+				"favourites_count": 1590,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12785,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232229708290387968/IQYp3_tf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232229708290387968/IQYp3_tf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119216031/1583284607",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "307501",
+				"profile_text_color": "173800",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 512,
+			"favorite_count": 173,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공간제균 제품 구입하지 맙시다. 이산화염소, 차아염소산나트륨을 목에 걸고 있다고 해서 바이러스를 막을 수 없습니다. 반경 1m의 세균을 막는다는 결과는 어디서도 제공하지 못합니다. 공포 마케팅에 속지마세요!\n#공간제균 #블록커 https://t.co/r0MBfdWTpb"
+	},
+	{
+		"created_at": "Fri Mar 13 04:12:13 +0000 2020",
+		"id": 1238316914843287600,
+		"id_str": "1238316914843287552",
+		"full_text": "#BBC코리아\n코로나19: 세계 곳곳에서 휴교와 행사 취소가 잇따랐다\nhttps://t.co/0TnvrZmSgn\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0TnvrZmSgn",
+					"expanded_url": "https://www.bbc.com/korean/news-51866735",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 세계 곳곳에서 휴교와 행사 취소가 잇따랐다\nhttps://t.co/0TnvrZmSgn\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Fri Mar 13 03:24:36 +0000 2020",
 		"id": 1238301348463960000,
 		"id_str": "1238304928965242880",
