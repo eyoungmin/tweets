@@ -1,6 +1,898 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 06:38:09 +0000 2020",
+		"id": 1238353639456018400,
+		"id_str": "1238353639456018433",
+		"full_text": "#대한민국 #보건복지부\n한국 이렇게 대응해요 (feat.외신 기자단)\nhttps://t.co/ws8411pzCi\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ws8411pzCi",
+					"expanded_url": "https://www.youtube.com/watch?v=h5RSGcDTHSo",
+					"display_url": "youtube.com/watch?v=h5RSGc…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n한국 이렇게 대응해요 (feat.외신 기자단)\nhttps://t.co/ws8411pzCi\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Mar 13 06:19:34 +0000 2020",
+		"id": 1238346379115638800,
+		"id_str": "1238348962853031937",
+		"full_text": "계실거라 믿어요. 마지막으로 함께 걱정해주시고 최선을 다 해 주신 모든 분들께 감사드리고 아빠! 저 태연이가 정말 많이 사랑해요👨‍👧💜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": 1238346375529521200,
+		"in_reply_to_status_id_str": "1238346375529521152",
+		"in_reply_to_user_id": 1144258562094456800,
+		"in_reply_to_user_id_str": "1144258562094456832",
+		"in_reply_to_screen_name": "taengstagram_39",
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": "I Do",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4908,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1578968177",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "계실거라 믿어요. 마지막으로 함께 걱정해주시고 최선을 다 해 주신 모든 분들께 감사드리고 아빠! 저 태연이가 정말 많이 사랑해요👨‍👧💜"
+	},
+	{
+		"created_at": "Fri Mar 13 06:19:31 +0000 2020",
+		"id": 1238346375529521200,
+		"id_str": "1238348947308949504",
+		"full_text": "못할 날이 될 것 같습니다. 저희 아빠는 제가 어렸을 적 음악을 시작한 첫 날 부터 함께 해 주셨어요. 먼저 나서서 차에 시동을 걸어놓으시고 딸을 위해 그렇게 움직이셨어요. 지금도 어디선가 우리 모두를 위해 먼저 움직이고 계실 거예요. 좋은 곳에서 내려다 보시며 우리를 지켜주고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": 1238346372006334500,
+		"in_reply_to_status_id_str": "1238346372006334464",
+		"in_reply_to_user_id": 1144258562094456800,
+		"in_reply_to_user_id_str": "1144258562094456832",
+		"in_reply_to_screen_name": "taengstagram_39",
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": "I Do",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4908,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1578968177",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 180,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "못할 날이 될 것 같습니다. 저희 아빠는 제가 어렸을 적 음악을 시작한 첫 날 부터 함께 해 주셨어요. 먼저 나서서 차에 시동을 걸어놓으시고 딸을 위해 그렇게 움직이셨어요. 지금도 어디선가 우리 모두를 위해 먼저 움직이고 계실 거예요. 좋은 곳에서 내려다 보시며 우리를 지켜주고"
+	},
+	{
+		"created_at": "Fri Mar 13 06:19:29 +0000 2020",
+		"id": 1238346372006334500,
+		"id_str": "1238348939809542145",
+		"full_text": "깊은 사랑과 따뜻한 위로를 안은 채 앞으로도 잘 살아가겠습니다. 먼 걸음 한 번에 달려와주신 분들, 그리고 멀리서도 정성껏 진심으로 마음 전해주신 분들.. 감사한 분들께 일일이 다 찾아뵙고 인사드리지 못하는 점 깊은 양해부탁드려요. 저를 비롯한 우리 가족들에게 3월 9일은 정말 잊지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": 1238346367900061700,
+		"in_reply_to_status_id_str": "1238346367900061697",
+		"in_reply_to_user_id": 1144258562094456800,
+		"in_reply_to_user_id_str": "1144258562094456832",
+		"in_reply_to_screen_name": "taengstagram_39",
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": "I Do",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4908,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1578968177",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "깊은 사랑과 따뜻한 위로를 안은 채 앞으로도 잘 살아가겠습니다. 먼 걸음 한 번에 달려와주신 분들, 그리고 멀리서도 정성껏 진심으로 마음 전해주신 분들.. 감사한 분들께 일일이 다 찾아뵙고 인사드리지 못하는 점 깊은 양해부탁드려요. 저를 비롯한 우리 가족들에게 3월 9일은 정말 잊지"
+	},
+	{
+		"created_at": "Fri Mar 13 06:19:27 +0000 2020",
+		"id": 1238346367900061700,
+		"id_str": "1238348932385669121",
+		"full_text": "[INSTAGRAM] taeyeon_ss : 2020년 3월 9일 저에게 많은 축하와 위로를 해주신 모든 분들께 깊은 감사의 인사를 전하고 싶습니다. 숫자로 가늠할 수 없을 만큼의 많은 분들이 저에게 닿았고 저를 따뜻하게 안아주시고 토닥여 주셨어요. 저는\nhttps://t.co/xiv13oR7uu\nhttps://t.co/eiEGG8XZWd https://t.co/NcbwTy2Zfs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xiv13oR7uu",
+					"expanded_url": "https://www.instagram.com/p/B9qck40hlXi",
+					"display_url": "instagram.com/p/B9qck40hlXi",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/eiEGG8XZWd",
+					"expanded_url": "https://instagram.ftpe3-2.fna.fbcdn.net/v/t51.2885-15/e35/90031307_203468117382377_7351887435488247329_n.jpg?_nc_ht=instagram.ftpe3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=i-JLX8F4VqsAX-cEBuL&se=8&oh=50dcf97e07cd62fb89af8c25b1d3b4da&oe=5E93A118&ig_cache_key=MjI2Mzc0NzQ0MjkyMTMzMDE0Ng%3D%3D.2",
+					"display_url": "instagram.ftpe3-2.fna.fbcdn.net/v/t51.2885-15/…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238346363068248000,
+					"id_str": "1238346363068248075",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ES99dMeUcAsK4z9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES99dMeUcAsK4z9.jpg",
+					"url": "https://t.co/NcbwTy2Zfs",
+					"display_url": "pic.twitter.com/NcbwTy2Zfs",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1238346367900061697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 953,
+							"h": 953,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 953,
+							"h": 953,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238346363068248000,
+					"id_str": "1238346363068248075",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ES99dMeUcAsK4z9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES99dMeUcAsK4z9.jpg",
+					"url": "https://t.co/NcbwTy2Zfs",
+					"display_url": "pic.twitter.com/NcbwTy2Zfs",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1238346367900061697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 953,
+							"h": 953,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 953,
+							"h": 953,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": "I Do",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4908,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1578968177",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1493,
+		"favorite_count": 1238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM] taeyeon_ss : 2020년 3월 9일 저에게 많은 축하와 위로를 해주신 모든 분들께 깊은 감사의 인사를 전하고 싶습니다. 숫자로 가늠할 수 없을 만큼의 많은 분들이 저에게 닿았고 저를 따뜻하게 안아주시고 토닥여 주셨어요. 저는\nhttps://t.co/xiv13oR7uu\nhttps://t.co/eiEGG8XZWd https://t.co/NcbwTy2Zfs"
+	},
+	{
+		"created_at": "Fri Mar 13 06:05:09 +0000 2020",
+		"id": 1238344037494485000,
+		"id_str": "1238345335329755142",
+		"full_text": "[CHANGE CAM] 이달의 소녀 - So What (LOONA - So What)\n\n울 달소 1위 추카해 ꒰⋆ᶿ̴͈᷇⌣ᶿ̴͈᷆⋆꒱ 체인지캠으로 1위 가수 이달소 쏘왓 복습할 오빛이들 여기 모여라~!\n💃 https://t.co/l57NRdJvBZ\n\n#체인지캠 #이달의소녀 #SoWhat\n#CHANGECAM #LOONA @loonatheworld https://t.co/4ug5sld2DW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "체인지캠",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "SoWhat",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "CHANGECAM",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						172,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						179,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l57NRdJvBZ",
+					"expanded_url": "https://youtu.be/pHvovSzCU4k",
+					"display_url": "youtu.be/pHvovSzCU4k",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238331997736415200,
+					"id_str": "1238331997736415232",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/ES9wZBcUMAAz5Ps.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES9wZBcUMAAz5Ps.jpg",
+					"url": "https://t.co/4ug5sld2DW",
+					"display_url": "pic.twitter.com/4ug5sld2DW",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1238344037494484994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238331997736415200,
+					"id_str": "1238331997736415232",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/ES9wZBcUMAAz5Ps.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES9wZBcUMAAz5Ps.jpg",
+					"url": "https://t.co/4ug5sld2DW",
+					"display_url": "pic.twitter.com/4ug5sld2DW",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1238344037494484994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27463,
+			"friends_count": 4872,
+			"listed_count": 219,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[CHANGE CAM] 이달의 소녀 - So What (LOONA - So What)\n\n울 달소 1위 추카해 ꒰⋆ᶿ̴͈᷇⌣ᶿ̴͈᷆⋆꒱ 체인지캠으로 1위 가수 이달소 쏘왓 복습할 오빛이들 여기 모여라~!\n💃 https://t.co/l57NRdJvBZ\n\n#체인지캠 #이달의소녀 #SoWhat\n#CHANGECAM #LOONA @loonatheworld https://t.co/4ug5sld2DW"
+	},
+	{
+		"created_at": "Fri Mar 13 06:04:30 +0000 2020",
+		"id": 1238182912874262500,
+		"id_str": "1238345170262749184",
+		"full_text": "뉴욕시, 코로나바이러스 확산 방지 위해 브로드웨이 최소 한달 간 폐쇄.\n- 뉴욕 주 쿠오모 주지사, 500명 이상 대형 집회 금지해\n- 오늘 5시부터 브로드웨이 전체, 내일 5시부터 뉴욕시 콘서트 장소들 모두 폐쇄\n- 미팅 장소, 박물관, 스포츠 게임 등다른 비즈니스도 폐쇄 https://t.co/8FSWr3wgVI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8FSWr3wgVI",
+					"expanded_url": "https://www.theverge.com/2020/3/12/21177162/new-york-coronavirus-ban-public-gathering-broadway-concerts-museums",
+					"display_url": "theverge.com/2020/3/12/2117…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45610,
+			"friends_count": 217,
+			"listed_count": 286,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 432,
+		"favorite_count": 47,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴욕시, 코로나바이러스 확산 방지 위해 브로드웨이 최소 한달 간 폐쇄.\n- 뉴욕 주 쿠오모 주지사, 500명 이상 대형 집회 금지해\n- 오늘 5시부터 브로드웨이 전체, 내일 5시부터 뉴욕시 콘서트 장소들 모두 폐쇄\n- 미팅 장소, 박물관, 스포츠 게임 등다른 비즈니스도 폐쇄 https://t.co/8FSWr3wgVI"
+	},
+	{
 		"created_at": "Fri Mar 13 05:52:02 +0000 2020",
 		"id": 1238342034445893600,
 		"id_str": "1238342034445893632",
