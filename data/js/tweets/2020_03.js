@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 07:25:02 +0000 2020",
+		"id": 1238365437475336200,
+		"id_str": "1238365437475336192",
+		"full_text": "#BBC코리아\n코로나19: 네팔 정부, 에베레스트 폐쇄 결정\nhttps://t.co/2JxEYnBT4R\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2JxEYnBT4R",
+					"expanded_url": "https://www.bbc.com/korean/news-51867201",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 네팔 정부, 에베레스트 폐쇄 결정\nhttps://t.co/2JxEYnBT4R\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Fri Mar 13 06:38:09 +0000 2020",
 		"id": 1238353639456018400,
 		"id_str": "1238353639456018433",
@@ -146,7 +281,7 @@ Grailbird.data.tweets_2020_03 =
 		"created_at": "Fri Mar 13 06:19:34 +0000 2020",
 		"id": 1238346379115638800,
 		"id_str": "1238348962853031937",
-		"full_text": "계실거라 믿어요. 마지막으로 함께 걱정해주시고 최선을 다 해 주신 모든 분들께 감사드리고 아빠! 저 태연이가 정말 많이 사랑해요👨‍👧💜",
+		"full_text": "계실거라 믿어요. 마지막으로 함께 걱정해주시고 최선을 다 해 주신 모든 분들께 감사드리고 아빠! 저 태연이가 정말 많이 사랑해요👨👧💜",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -222,7 +357,7 @@ Grailbird.data.tweets_2020_03 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "계실거라 믿어요. 마지막으로 함께 걱정해주시고 최선을 다 해 주신 모든 분들께 감사드리고 아빠! 저 태연이가 정말 많이 사랑해요👨‍👧💜"
+		"text": "계실거라 믿어요. 마지막으로 함께 걱정해주시고 최선을 다 해 주신 모든 분들께 감사드리고 아빠! 저 태연이가 정말 많이 사랑해요👨👧💜"
 	},
 	{
 		"created_at": "Fri Mar 13 06:19:31 +0000 2020",
