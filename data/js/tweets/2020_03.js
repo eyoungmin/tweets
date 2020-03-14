@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 11:38:00 +0000 2020",
+		"id": 1238791485115400200,
+		"id_str": "1238791485115400193",
+		"full_text": "[SE SO NEON On Air] 새소년의 '비적응 적응'' REAL\nhttps://t.co/YPhXNCVY7I\n#새소년 #SESONEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YPhXNCVY7I",
+					"expanded_url": "https://youtu.be/ZQS0hU_ScAo",
+					"display_url": "youtu.be/ZQS0hU_ScAo",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SE SO NEON On Air] 새소년의 '비적응 적응'' REAL\nhttps://t.co/YPhXNCVY7I\n#새소년 #SESONEON"
+	},
+	{
+		"created_at": "Sat Mar 14 11:37:50 +0000 2020",
+		"id": 1238786533966004200,
+		"id_str": "1238791442593546242",
+		"full_text": "D-1 💥Teaser Video💥\n\"Beautiful Creature\"\n\n2020.03.15 12PM (KST)\n\nPhoto by Kimmoondog\nH&amp;M by Lee eun seo\nStyling by Mo eun seo\nThx to Eyewear by godsomware\n\nProduced by YESEO\nComposed by YESEO\nArranged by YESEO\nLyrics by YESEO\n\nMixed &amp; Mastered by IMLAY\nDistributionby Poclanos https://t.co/vxErrYXh00",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238786450469965800,
+					"id_str": "1238786450469965824",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238786450469965824/pu/img/-MsUtTQNgWsw-znM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238786450469965824/pu/img/-MsUtTQNgWsw-znM.jpg",
+					"url": "https://t.co/vxErrYXh00",
+					"display_url": "pic.twitter.com/vxErrYXh00",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1238786533966004224/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238786450469965800,
+					"id_str": "1238786450469965824",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238786450469965824/pu/img/-MsUtTQNgWsw-znM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238786450469965824/pu/img/-MsUtTQNgWsw-znM.jpg",
+					"url": "https://t.co/vxErrYXh00",
+					"display_url": "pic.twitter.com/vxErrYXh00",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1238786533966004224/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 44958,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238786450469965824/pu/vid/640x360/SPutE4ZHoQsV0S5w.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238786450469965824/pu/vid/480x270/71mBSuEFZkuQHAaE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238786450469965824/pu/pl/nJNPnrUasmZFbjvG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238786450469965824/pu/vid/854x480/dsjtRwybf7IjRdNB.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 555,
+			"friends_count": 2,
+			"listed_count": 9,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026823160602095619/8gD_B9Xv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026823160602095619/8gD_B9Xv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1533648695",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "D-1 💥Teaser Video💥\n\"Beautiful Creature\"\n\n2020.03.15 12PM (KST)\n\nPhoto by Kimmoondog\nH&amp;M by Lee eun seo\nStyling by Mo eun seo\nThx to Eyewear by godsomware\n\nProduced by YESEO\nComposed by YESEO\nArranged by YESEO\nLyrics by YESEO\n\nMixed &amp; Mastered by IMLAY\nDistributionby Poclanos https://t.co/vxErrYXh00"
+	},
+	{
 		"created_at": "Sat Mar 14 10:24:31 +0000 2020",
 		"id": 1238768289729282000,
 		"id_str": "1238772994291441664",
