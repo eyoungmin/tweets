@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 00:58:09 +0000 2020",
+		"id": 1238615469763907600,
+		"id_str": "1238630460508393472",
+		"full_text": "https://t.co/bTC4nmVfmk https://t.co/pMKwnSPLmO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bTC4nmVfmk",
+					"expanded_url": "https://instagram.ftpe3-1.fna.fbcdn.net/v/t51.2885-15/e35/89439422_607537983159586_7364945628227397363_n.jpg?_nc_ht=instagram.ftpe3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=csBG8yFdEioAX8wPA1B&se=7&oh=6c7ad97461d0bc1a43e6de4b89907823&oe=5EA5ED80&ig_cache_key=MjI2NDI4NTU3MDAyNzMxNDg0Nw%3D%3D.2",
+					"display_url": "instagram.ftpe3-1.fna.fbcdn.net/v/t51.2885-15/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238615465112432600,
+					"id_str": "1238615465112432641",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/ETByM_tU8AEqnGb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETByM_tU8AEqnGb.jpg",
+					"url": "https://t.co/pMKwnSPLmO",
+					"display_url": "pic.twitter.com/pMKwnSPLmO",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1238615469763907584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238615465112432600,
+					"id_str": "1238615465112432641",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/ETByM_tU8AEqnGb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETByM_tU8AEqnGb.jpg",
+					"url": "https://t.co/pMKwnSPLmO",
+					"display_url": "pic.twitter.com/pMKwnSPLmO",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1238615469763907584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": 1238615458460217300,
+		"in_reply_to_status_id_str": "1238615458460217345",
+		"in_reply_to_user_id": 1144258562094456800,
+		"in_reply_to_user_id_str": "1144258562094456832",
+		"in_reply_to_screen_name": "taengstagram_39",
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": "I Do",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5024,
+			"friends_count": 0,
+			"listed_count": 98,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231237028571795456/MRoKYQ1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1578968177",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/bTC4nmVfmk https://t.co/pMKwnSPLmO"
+	},
+	{
 		"created_at": "Fri Mar 13 23:24:32 +0000 2020",
 		"id": 1238599346725073000,
 		"id_str": "1238606901379825665",
