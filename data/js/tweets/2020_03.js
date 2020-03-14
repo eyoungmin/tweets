@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 04:36:19 +0000 2020",
+		"id": 1232169135301255200,
+		"id_str": "1238685364631392258",
+		"full_text": "그런데 새롭게 다시 써서 지금 연재하는 시즌4의 이야기는 지금 벌어지고 있는 일을 반보차이로 먼저 쓴 느낌이 조금 든다. 개인적으로는 몇년 정도 후의 일이 되지 않을까 생각했는데 내 생각보다 모든게 빠르다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1232169132918894600,
+		"in_reply_to_status_id_str": "1232169132918894592",
+		"in_reply_to_user_id": 56320308,
+		"in_reply_to_user_id_str": "56320308",
+		"in_reply_to_screen_name": "JongBeom",
+		"user": {
+			"id": 56320308,
+			"id_str": "56320308",
+			"name": "만화가 이종범",
+			"screen_name": "JongBeom",
+			"location": "대한민국 성남시",
+			"description": "닥터프로스트 시즌4 연재중",
+			"url": "https://t.co/PTmpH4W5s0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTmpH4W5s0",
+							"expanded_url": "http://blog.naver.com/elmarbum",
+							"display_url": "blog.naver.com/elmarbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89511,
+			"friends_count": 254,
+			"listed_count": 228,
+			"created_at": "Mon Jul 13 08:08:19 +0000 2009",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094984522964189185/jA_LUeIR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094984522964189185/jA_LUeIR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56320308/1569907076",
+			"profile_link_color": "7DD1B0",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 222,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런데 새롭게 다시 써서 지금 연재하는 시즌4의 이야기는 지금 벌어지고 있는 일을 반보차이로 먼저 쓴 느낌이 조금 든다. 개인적으로는 몇년 정도 후의 일이 되지 않을까 생각했는데 내 생각보다 모든게 빠르다."
+	},
+	{
+		"created_at": "Sat Mar 14 04:36:17 +0000 2020",
+		"id": 1232169132918894600,
+		"id_str": "1238685358822309888",
+		"full_text": "8년전에 이미 써뒀던 시즌4의 이야기는 반보 차이로 현실로 벌어져버려서 폐기하고 결국 전부 다시 썼었다. 그 당시 폐기된 이야기가 바로 ‘사이비종교 교주의 자손이 대통령을 만들어버리는 플롯’. 담당자 마저도 태블릿피씨 보도가 나온 날 연락와서 어떡할까 물어봤었던 기억이 난다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56320308,
+			"id_str": "56320308",
+			"name": "만화가 이종범",
+			"screen_name": "JongBeom",
+			"location": "대한민국 성남시",
+			"description": "닥터프로스트 시즌4 연재중",
+			"url": "https://t.co/PTmpH4W5s0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTmpH4W5s0",
+							"expanded_url": "http://blog.naver.com/elmarbum",
+							"display_url": "blog.naver.com/elmarbum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89511,
+			"friends_count": 254,
+			"listed_count": 228,
+			"created_at": "Mon Jul 13 08:08:19 +0000 2009",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094984522964189185/jA_LUeIR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094984522964189185/jA_LUeIR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56320308/1569907076",
+			"profile_link_color": "7DD1B0",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 697,
+		"favorite_count": 276,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "8년전에 이미 써뒀던 시즌4의 이야기는 반보 차이로 현실로 벌어져버려서 폐기하고 결국 전부 다시 썼었다. 그 당시 폐기된 이야기가 바로 ‘사이비종교 교주의 자손이 대통령을 만들어버리는 플롯’. 담당자 마저도 태블릿피씨 보도가 나온 날 연락와서 어떡할까 물어봤었던 기억이 난다."
+	},
+	{
+		"created_at": "Sat Mar 14 04:27:01 +0000 2020",
+		"id": 1238642510500511700,
+		"id_str": "1238683025157681153",
+		"full_text": "just-news - 국내 언론사 뉴스 사이트에서 본문만 보기 https://t.co/mbw7bue1kn \n- 뉴스 본문 이외의 정보를 전부 제거한뒤 페이지를 재구성하는 스크립트\n- Tampermonkey 플러그인을 사용해서 크롬,파이어폭스,엣지,사파리 웹브라우저에서 사용가능",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mbw7bue1kn",
+					"expanded_url": "http://j.mp/2Wbbs0s",
+					"display_url": "j.mp/2Wbbs0s",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2487,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "just-news - 국내 언론사 뉴스 사이트에서 본문만 보기 https://t.co/mbw7bue1kn \n- 뉴스 본문 이외의 정보를 전부 제거한뒤 페이지를 재구성하는 스크립트\n- Tampermonkey 플러그인을 사용해서 크롬,파이어폭스,엣지,사파리 웹브라우저에서 사용가능"
+	},
+	{
+		"created_at": "Sat Mar 14 04:25:10 +0000 2020",
+		"id": 1238296439337496600,
+		"id_str": "1238682558524616709",
+		"full_text": "This tour has been one we’ve dreamed of our entire lives. We will absolutely pick up where we left off whenever it is deemed safe and responsible. For now, stay healthy, stay empathetic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1573265498,
+			"id_str": "1573265498",
+			"name": "FINNEAS",
+			"screen_name": "finneas",
+			"location": "HIGHLAND PARK",
+			"description": "lefty",
+			"url": "https://t.co/l2dMQEVIbh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l2dMQEVIbh",
+							"expanded_url": "https://finneas.lnk.to/ilaf-remix",
+							"display_url": "finneas.lnk.to/ilaf-remix",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285404,
+			"friends_count": 314,
+			"listed_count": 300,
+			"created_at": "Sat Jul 06 17:22:52 +0000 2013",
+			"favourites_count": 18719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208588838039408640/MWRz2O3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208588838039408640/MWRz2O3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1573265498/1570161602",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1390,
+		"favorite_count": 28318,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "This tour has been one we’ve dreamed of our entire lives. We will absolutely pick up where we left off whenever it is deemed safe and responsible. For now, stay healthy, stay empathetic"
+	},
+	{
 		"created_at": "Sat Mar 14 03:00:19 +0000 2020",
 		"id": 1238661207567085600,
 		"id_str": "1238661207567085573",
