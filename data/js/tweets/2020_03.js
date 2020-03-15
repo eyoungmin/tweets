@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 04:01:49 +0000 2020",
+		"id": 1239038614232871000,
+		"id_str": "1239039069805400072",
+		"full_text": "코로나19 바이러스가 공기 중에서는 3시간, 플라스틱ㆍ스테인리스 표면에서는 3일간 살아남는다는 연구 결과가 나왔는데요. 자주 손을 씻고 실내 환기를 해야겠습니다.\n\nhttps://t.co/MIwqQgLMRz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MIwqQgLMRz",
+					"expanded_url": "http://www.hankookilbo.com/News/Npath/202003131070785520?did=tw",
+					"display_url": "hankookilbo.com/News/Npath/202…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134371459,
+			"id_str": "134371459",
+			"name": "한국일보",
+			"screen_name": "hankookilbo",
+			"location": "Seoul,KOREA",
+			"description": "세상을 보는 균형, 한국일보 공식 트위터입니다. 한국일보가 여러분에게 눈과 귀를 열고 있습니다. 제보 02)724-2114 \nhkilbo@hankookilbo.com  https://t.co/bUvgBdr41j",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bUvgBdr41j",
+							"expanded_url": "http://www.facebook.com/hkilbo",
+							"display_url": "facebook.com/hkilbo",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 172913,
+			"friends_count": 44208,
+			"listed_count": 2553,
+			"created_at": "Sun Apr 18 06:43:33 +0000 2010",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 71777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134371459/1439279203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 바이러스가 공기 중에서는 3시간, 플라스틱ㆍ스테인리스 표면에서는 3일간 살아남는다는 연구 결과가 나왔는데요. 자주 손을 씻고 실내 환기를 해야겠습니다.\n\nhttps://t.co/MIwqQgLMRz"
+	},
+	{
+		"created_at": "Sun Mar 15 03:59:47 +0000 2020",
+		"id": 1239038559979360300,
+		"id_str": "1239038559979360258",
+		"full_text": "#스마트하게덕질하기 1탄\n\n[트위터 고급검색을 이용하여 내 가수 공연 알림 받아보는법]\n\nhttps://t.co/AXFIl7ohBr\n1. 트윗덱을 사용하세요.\n\nlist:solplparty/ticket \"아티스트명\" OR \"아티스트 영문명\" \n2. 검색하세요.\n\n3. 알림(Notification) 설정에서 데스크톱 알림을 켜세요. https://t.co/KtpWkhW3Zg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스마트하게덕질하기",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AXFIl7ohBr",
+					"expanded_url": "https://tweetdeck.twitter.com/",
+					"display_url": "tweetdeck.twitter.com",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239038462797308000,
+					"id_str": "1239038462797307904",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ETHy6s4UYAA-CA9.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETHy6s4UYAA-CA9.png",
+					"url": "https://t.co/KtpWkhW3Zg",
+					"display_url": "pic.twitter.com/KtpWkhW3Zg",
+					"expanded_url": "https://twitter.com/fromminn/status/1239038559979360258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 381,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 381,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239038462797308000,
+					"id_str": "1239038462797307904",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ETHy6s4UYAA-CA9.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETHy6s4UYAA-CA9.png",
+					"url": "https://t.co/KtpWkhW3Zg",
+					"display_url": "pic.twitter.com/KtpWkhW3Zg",
+					"expanded_url": "https://twitter.com/fromminn/status/1239038559979360258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 381,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 381,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#스마트하게덕질하기 1탄\n\n[트위터 고급검색을 이용하여 내 가수 공연 알림 받아보는법]\n\nhttps://t.co/AXFIl7ohBr\n1. 트윗덱을 사용하세요.\n\nlist:solplparty/ticket \"아티스트명\" OR \"아티스트 영문명\" \n2. 검색하세요.\n\n3. 알림(Notification) 설정에서 데스크톱 알림을 켜세요. https://t.co/KtpWkhW3Zg"
+	},
+	{
+		"created_at": "Sun Mar 15 03:37:52 +0000 2020",
+		"id": 1239021421453430800,
+		"id_str": "1239033046130552832",
+		"full_text": "@Lirio_0315 참고로 최신 앨범에 오르느냐 못 오르느냐에 따라 단순 노출뿐 아니라 음원 수입도 꽤 차이가 나게 됩니다. 스트리밍 서비스에서 가장 큰 규모의 플레이리스트이 포함되느냐 마느냐가 달려있는 일이니까요. 음원 유통하려는 분들은 아무곳에서나 유통하지 말고 이 부분 꼭 확인하고 유통하시길.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lirio_0315",
+					"name": "리리오",
+					"id": 2872659104,
+					"id_str": "2872659104",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1239018919005839400,
+		"in_reply_to_status_id_str": "1239018919005839362",
+		"in_reply_to_user_id": 8098922,
+		"in_reply_to_user_id_str": "8098922",
+		"in_reply_to_screen_name": "HAVAQQUQ",
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5154,
+			"friends_count": 1199,
+			"listed_count": 96,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 6867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Lirio_0315 참고로 최신 앨범에 오르느냐 못 오르느냐에 따라 단순 노출뿐 아니라 음원 수입도 꽤 차이가 나게 됩니다. 스트리밍 서비스에서 가장 큰 규모의 플레이리스트이 포함되느냐 마느냐가 달려있는 일이니까요. 음원 유통하려는 분들은 아무곳에서나 유통하지 말고 이 부분 꼭 확인하고 유통하시길."
+	},
+	{
+		"created_at": "Sun Mar 15 03:37:47 +0000 2020",
+		"id": 1239018919005839400,
+		"id_str": "1239033024211107840",
+		"full_text": "@Lirio_0315 그래서 가능하면 힘이 있는 (주로 서비스 사에서 운영하는) 유통사와 계약을 맺으려 하는데 신인은 이게 쉽지 않죠. 신인임에도 큰 유통사에서 발매되는 경우는 회사가 전부터 관계를 맺고 있거나 투자(마이킹)으로 묶여 있거나 음악가 입장에서 불리한 조건을 받아들이고 진행한 경우 등이 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lirio_0315",
+					"name": "리리오",
+					"id": 2872659104,
+					"id_str": "2872659104",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1239017810744848400,
+		"in_reply_to_status_id_str": "1239017810744848386",
+		"in_reply_to_user_id": 8098922,
+		"in_reply_to_user_id_str": "8098922",
+		"in_reply_to_screen_name": "HAVAQQUQ",
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5154,
+			"friends_count": 1199,
+			"listed_count": 96,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 6867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Lirio_0315 그래서 가능하면 힘이 있는 (주로 서비스 사에서 운영하는) 유통사와 계약을 맺으려 하는데 신인은 이게 쉽지 않죠. 신인임에도 큰 유통사에서 발매되는 경우는 회사가 전부터 관계를 맺고 있거나 투자(마이킹)으로 묶여 있거나 음악가 입장에서 불리한 조건을 받아들이고 진행한 경우 등이 있습니다."
+	},
+	{
+		"created_at": "Sun Mar 15 03:37:45 +0000 2020",
+		"id": 1239017810744848400,
+		"id_str": "1239033012911665154",
+		"full_text": "@Lirio_0315 국내 음원 서비스의 경우는 유통사가 서비스 사가 사전에 협의한 프로모션 구좌에 놓인 음반을 모아 서비스 담당자의 판단으로 배치됩니다. 음악가나 유통사의 힘이 약한 경우는 프로모션 구좌가 있어도 그날 발매작에 따라 못 오르는 경우도 있고요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lirio_0315",
+					"name": "리리오",
+					"id": 2872659104,
+					"id_str": "2872659104",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1238991694214967300,
+		"in_reply_to_status_id_str": "1238991694214967296",
+		"in_reply_to_user_id": 2872659104,
+		"in_reply_to_user_id_str": "2872659104",
+		"in_reply_to_screen_name": "Lirio_0315",
+		"user": {
+			"id": 8098922,
+			"id_str": "8098922",
+			"name": "하박국HAVAQQUQ",
+			"screen_name": "HAVAQQUQ",
+			"location": "트라팔마도어",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"url": "https://t.co/gavmddaAVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gavmddaAVg",
+							"expanded_url": "http://www.naverdaumnate.com",
+							"display_url": "naverdaumnate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5154,
+			"friends_count": 1199,
+			"listed_count": 96,
+			"created_at": "Fri Aug 10 08:02:33 +0000 2007",
+			"favourites_count": 6867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2264812429/vclyw0js3vel7en3u81r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8098922/1569523865",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Lirio_0315 국내 음원 서비스의 경우는 유통사가 서비스 사가 사전에 협의한 프로모션 구좌에 놓인 음반을 모아 서비스 담당자의 판단으로 배치됩니다. 음악가나 유통사의 힘이 약한 경우는 프로모션 구좌가 있어도 그날 발매작에 따라 못 오르는 경우도 있고요."
+	},
+	{
+		"created_at": "Sun Mar 15 03:37:37 +0000 2020",
+		"id": 1239032981106262000,
+		"id_str": "1239032981106262016",
+		"full_text": "프로모션이 붙지 않더라도 인지도에 따라 담당자 판단에 따라, 알고리즘에 따라 배치되고 안되고도 바뀜.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1239032765581934600,
+		"in_reply_to_status_id_str": "1239032765581934592",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "프로모션이 붙지 않더라도 인지도에 따라 담당자 판단에 따라, 알고리즘에 따라 배치되고 안되고도 바뀜."
+	},
+	{
 		"created_at": "Sun Mar 15 03:01:23 +0000 2020",
 		"id": 1239023861292847000,
 		"id_str": "1239023861292847105",
