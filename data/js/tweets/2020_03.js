@@ -1,6 +1,623 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 03:01:23 +0000 2020",
+		"id": 1239023861292847000,
+		"id_str": "1239023861292847105",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Mar 15) https://t.co/0lNDQQ3euo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0lNDQQ3euo",
+					"expanded_url": "https://nzzl.us/hDHueL0",
+					"display_url": "nzzl.us/hDHueL0",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Mar 15) https://t.co/0lNDQQ3euo"
+	},
+	{
+		"created_at": "Sun Mar 15 02:19:15 +0000 2020",
+		"id": 1238752304674660400,
+		"id_str": "1239013260088586241",
+		"full_text": "3月25日の20:00から butaji「イ・ランとチェロ奏者のイ・ヘジのいる韓国と、神保町試聴室を繋いでライブ配信を行います。この配信が、地理的な距離や、お客さんとライブハウスを繋ぐための一つの事例として共有出来ればと考えています。」https://t.co/uPrDTHI0pD https://t.co/Y4J7OX6AUv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPrDTHI0pD",
+					"expanded_url": "https://avyss-magazine.com/2020/03/14/14228/",
+					"display_url": "avyss-magazine.com/2020/03/14/142…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238752267764785200,
+					"id_str": "1238752267764785152",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDun9TUYAAuso9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDun9TUYAAuso9.jpg",
+					"url": "https://t.co/Y4J7OX6AUv",
+					"display_url": "pic.twitter.com/Y4J7OX6AUv",
+					"expanded_url": "https://twitter.com/consaba/status/1238752304674660352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 804,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238752267764785200,
+					"id_str": "1238752267764785152",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDun9TUYAAuso9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDun9TUYAAuso9.jpg",
+					"url": "https://t.co/Y4J7OX6AUv",
+					"display_url": "pic.twitter.com/Y4J7OX6AUv",
+					"expanded_url": "https://twitter.com/consaba/status/1238752304674660352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 804,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15036765,
+			"id_str": "15036765",
+			"name": "河村書店",
+			"screen_name": "consaba",
+			"location": "そこら辺り",
+			"description": "通りすがりの編集業者\r\nhttp://t.co/5LS36SY9hV",
+			"url": "http://t.co/wTNZ3RUpC3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wTNZ3RUpC3",
+							"expanded_url": "http://d.hatena.ne.jp/NEAT/",
+							"display_url": "d.hatena.ne.jp/NEAT/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/5LS36SY9hV",
+							"expanded_url": "http://astore.amazon.co.jp/catch22-22",
+							"display_url": "astore.amazon.co.jp/catch22-22",
+							"indices": [
+								12,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13388,
+			"friends_count": 71,
+			"listed_count": 1088,
+			"created_at": "Sat Jun 07 08:13:05 +0000 2008",
+			"favourites_count": 10288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 329030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174245296/prof_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174245296/prof_normal.JPG",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "3月25日の20:00から butaji「イ・ランとチェロ奏者のイ・ヘジのいる韓国と、神保町試聴室を繋いでライブ配信を行います。この配信が、地理的な距離や、お客さんとライブハウスを繋ぐための一つの事例として共有出来ればと考えています。」https://t.co/uPrDTHI0pD https://t.co/Y4J7OX6AUv"
+	},
+	{
+		"created_at": "Sun Mar 15 02:19:06 +0000 2020",
+		"id": 1238821490478338000,
+		"id_str": "1239013221022830593",
+		"full_text": "당일 현장 중계 URL은 추후 공지하도록 하겠습니다. 제 라이브 중계는 이랑의 유튜브 채널에서 스트리밍하니 미리미리 구독 및 알림설정 해두시면👌🏼(라이브와 현장, 더블 중계이니 당일 왔다갔다하며 보시면 재밌을 거예요)\nhttps://t.co/pvnWecYpJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pvnWecYpJs",
+					"expanded_url": "http://youtube.com/langleeschool",
+					"display_url": "youtube.com/langleeschool",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238819201688555500,
+		"in_reply_to_status_id_str": "1238819201688555521",
+		"in_reply_to_user_id": 213091891,
+		"in_reply_to_user_id_str": "213091891",
+		"in_reply_to_screen_name": "2lang2",
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "🥕자영업자🔥의뢰|문의 📧 info.langlee@gmail.com 📧 日本の仕事は info.sweetdreams@gmail.comでお願いします. STAFF @info_langlee",
+			"url": "https://t.co/bUYoYg3RHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUYoYg3RHg",
+							"expanded_url": "http://www.youtube.com/user/langleeschool",
+							"display_url": "youtube.com/user/langleesc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31022,
+			"friends_count": 914,
+			"listed_count": 228,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1575387914",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당일 현장 중계 URL은 추후 공지하도록 하겠습니다. 제 라이브 중계는 이랑의 유튜브 채널에서 스트리밍하니 미리미리 구독 및 알림설정 해두시면👌🏼(라이브와 현장, 더블 중계이니 당일 왔다갔다하며 보시면 재밌을 거예요)\nhttps://t.co/pvnWecYpJs"
+	},
+	{
+		"created_at": "Sun Mar 15 02:19:04 +0000 2020",
+		"id": 1238819201688555500,
+		"id_str": "1239013215251488768",
+		"full_text": "당일 도쿄 공연장에는 일본의 뮤지션들이 (리얼)출연하고, 저는 영상으로 출연하는 신기한 라이브가 될 것 같습니다. 현장 상황 또한 스트리밍으로 중계를 한다고 합니다. 오늘 테스트 리허설을 해봤는데 재미있었어요. 심지어 현장의 뮤지션들과 협연도 합니다. (기대기대)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238817291963252700,
+		"in_reply_to_status_id_str": "1238817291963252736",
+		"in_reply_to_user_id": 213091891,
+		"in_reply_to_user_id_str": "213091891",
+		"in_reply_to_screen_name": "2lang2",
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "🥕자영업자🔥의뢰|문의 📧 info.langlee@gmail.com 📧 日本の仕事は info.sweetdreams@gmail.comでお願いします. STAFF @info_langlee",
+			"url": "https://t.co/bUYoYg3RHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUYoYg3RHg",
+							"expanded_url": "http://www.youtube.com/user/langleeschool",
+							"display_url": "youtube.com/user/langleesc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31022,
+			"friends_count": 914,
+			"listed_count": 228,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1575387914",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당일 도쿄 공연장에는 일본의 뮤지션들이 (리얼)출연하고, 저는 영상으로 출연하는 신기한 라이브가 될 것 같습니다. 현장 상황 또한 스트리밍으로 중계를 한다고 합니다. 오늘 테스트 리허설을 해봤는데 재미있었어요. 심지어 현장의 뮤지션들과 협연도 합니다. (기대기대)"
+	},
+	{
+		"created_at": "Sun Mar 15 02:19:03 +0000 2020",
+		"id": 1238817291963252700,
+		"id_str": "1239013211053015040",
+		"full_text": "3월 25일 저녁8시부터 유튜브 스트리밍으로 혜지(첼로)와 라이브를 합니다. 원래는 도쿄에서 라이브 예정이었는데, 비자 무효화로 갈 수 없게되어 당일 도쿄의 공연장에 유튜브 스트리밍으로 관객들 앞에 서게 되었습니다. 국내의 여러분들도 함께 즐겨주세요🖤 다시 공지하겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "🥕자영업자🔥의뢰|문의 📧 info.langlee@gmail.com 📧 日本の仕事は info.sweetdreams@gmail.comでお願いします. STAFF @info_langlee",
+			"url": "https://t.co/bUYoYg3RHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUYoYg3RHg",
+							"expanded_url": "http://www.youtube.com/user/langleeschool",
+							"display_url": "youtube.com/user/langleesc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31022,
+			"friends_count": 914,
+			"listed_count": 228,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201887439284912128/tlCNM7VV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1575387914",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 290,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "3월 25일 저녁8시부터 유튜브 스트리밍으로 혜지(첼로)와 라이브를 합니다. 원래는 도쿄에서 라이브 예정이었는데, 비자 무효화로 갈 수 없게되어 당일 도쿄의 공연장에 유튜브 스트리밍으로 관객들 앞에 서게 되었습니다. 국내의 여러분들도 함께 즐겨주세요🖤 다시 공지하겠습니다."
+	},
+	{
 		"created_at": "Sun Mar 15 01:59:05 +0000 2020",
 		"id": 1239008183076733000,
 		"id_str": "1239008183076732928",
