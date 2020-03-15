@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 15:43:40 +0000 2020",
+		"id": 1239206491162206200,
+		"id_str": "1239215697265393665",
+		"full_text": "'김복동(My name is KIM Bok-dong)'이 넷플릭스에 업데이트 되었습니다.\n음성: 한국어(2.0,5.1)\n자막: 청각 장애인을 위한 한국어(CC)\n※ 다운로드 지원\nhttps://t.co/Nms7Zjv6rC https://t.co/ly6pT16vXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nms7Zjv6rC",
+					"expanded_url": "https://www.netflix.com/title/81252857",
+					"display_url": "netflix.com/title/81252857",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239206464951992300,
+					"id_str": "1239206464951992331",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ETKLttrUwAsyeTG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETKLttrUwAsyeTG.jpg",
+					"url": "https://t.co/ly6pT16vXE",
+					"display_url": "pic.twitter.com/ly6pT16vXE",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/1239206491162206208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1368,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239206464951992300,
+					"id_str": "1239206464951992331",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ETKLttrUwAsyeTG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETKLttrUwAsyeTG.jpg",
+					"url": "https://t.co/ly6pT16vXE",
+					"display_url": "pic.twitter.com/ly6pT16vXE",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/1239206491162206208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1368,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RxyBgmg5lj",
+							"expanded_url": "http://help.netflix.com/help",
+							"display_url": "help.netflix.com/help",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 67829,
+			"friends_count": 38,
+			"listed_count": 293,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 97,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'김복동(My name is KIM Bok-dong)'이 넷플릭스에 업데이트 되었습니다.\n음성: 한국어(2.0,5.1)\n자막: 청각 장애인을 위한 한국어(CC)\n※ 다운로드 지원\nhttps://t.co/Nms7Zjv6rC https://t.co/ly6pT16vXE"
+	},
+	{
 		"created_at": "Sun Mar 15 15:01:22 +0000 2020",
 		"id": 1239205053539520500,
 		"id_str": "1239205053539520513",
