@@ -1,6 +1,2252 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 15:01:22 +0000 2020",
+		"id": 1239205053539520500,
+		"id_str": "1239205053539520513",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n46] 올해 미국 대선, 승자는 누가될까(f. 김다영 기자)\nhttps://t.co/COzrCuULqI\n팟티: https://t.co/j26rcCiPDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/COzrCuULqI",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1584255647459.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/j26rcCiPDV",
+					"expanded_url": "https://www.podty.me/episode/13039198",
+					"display_url": "podty.me/episode/130391…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n46] 올해 미국 대선, 승자는 누가될까(f. 김다영 기자)\nhttps://t.co/COzrCuULqI\n팟티: https://t.co/j26rcCiPDV"
+	},
+	{
+		"created_at": "Sun Mar 15 14:35:55 +0000 2020",
+		"id": 1239198649189466000,
+		"id_str": "1239198649189466118",
+		"full_text": "최근에는 화보랑 사진 위주로 올라오고 정보는 안 올라오는 것 같아 아쉽다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 819690740825530400,
+		"in_reply_to_status_id_str": "819690740825530368",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "최근에는 화보랑 사진 위주로 올라오고 정보는 안 올라오는 것 같아 아쉽다."
+	},
+	{
+		"created_at": "Sun Mar 15 14:33:18 +0000 2020",
+		"id": 1239197990767616000,
+		"id_str": "1239197990767616000",
+		"full_text": "[라디오스타] 안무 원작자 리아킴의 품격! 마마무 ＂HIP＂ 원작자 ver. 20200305\nhttps://t.co/GA0k4242Le\n#리아킴 #안무가 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리아킴",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "안무가",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GA0k4242Le",
+					"expanded_url": "https://youtu.be/SqXRVCK4m28",
+					"display_url": "youtu.be/SqXRVCK4m28",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[라디오스타] 안무 원작자 리아킴의 품격! 마마무 ＂HIP＂ 원작자 ver. 20200305\nhttps://t.co/GA0k4242Le\n#리아킴 #안무가 #뮤직비지니스"
+	},
+	{
+		"created_at": "Sun Mar 15 14:31:54 +0000 2020",
+		"id": 1239197635757531100,
+		"id_str": "1239197635757531141",
+		"full_text": "카메라워킹도 장난아니고 편집기술도 최고임. 뒤에 그림자 지는 것 마저 예술.\n#스튜디오춤 #엠넷 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스튜디오춤",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						54,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "카메라워킹도 장난아니고 편집기술도 최고임. 뒤에 그림자 지는 것 마저 예술.\n#스튜디오춤 #엠넷 #뮤직비지니스"
+	},
+	{
+		"created_at": "Sun Mar 15 14:30:31 +0000 2020",
+		"id": 1239197289610018800,
+		"id_str": "1239197289610018816",
+		"full_text": "스튜디오 춤 채널은 적절하게 잘만들어진 콘텐츠 같다. 안무 중심 채널이라니.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스튜디오 춤 채널은 적절하게 잘만들어진 콘텐츠 같다. 안무 중심 채널이라니."
+	},
+	{
+		"created_at": "Sun Mar 15 14:29:56 +0000 2020",
+		"id": 1239190434867327000,
+		"id_str": "1239197141337165824",
+		"full_text": "5K 화질로 즐기는 #BE_ORIGINAL UNFILTERED CAM! 현장감 넘치는 있지의 춤선을 지금 바로 만나보세요💃🕺 #ITZY #WANNABE #있지 @ITZYofficial #Studio_CHOOM\n\n#류진 ▶ https://t.co/y8fC128yae\n#채령 ▶ https://t.co/TIrDQVpFu1\n#유나 ▶ https://t.co/l6JiMc76wu https://t.co/dqW5c6dmno",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "WANNABE",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "Studio_CHOOM",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "류진",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "채령",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "유나",
+					"indices": [
+						178,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						89,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y8fC128yae",
+					"expanded_url": "https://youtu.be/aDYU-C2nYWc",
+					"display_url": "youtu.be/aDYU-C2nYWc",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/TIrDQVpFu1",
+					"expanded_url": "https://youtu.be/6cnZYbCiIrY",
+					"display_url": "youtu.be/6cnZYbCiIrY",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/l6JiMc76wu",
+					"expanded_url": "https://youtu.be/6rLVR9LmJJA",
+					"display_url": "youtu.be/6rLVR9LmJJA",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239190246719291400,
+					"id_str": "1239190246719291392",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ETJ89sDVAAAcqLt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETJ89sDVAAAcqLt.jpg",
+					"url": "https://t.co/dqW5c6dmno",
+					"display_url": "pic.twitter.com/dqW5c6dmno",
+					"expanded_url": "https://twitter.com/M2MPD/status/1239190434867326976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239190246719291400,
+					"id_str": "1239190246719291392",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ETJ89sDVAAAcqLt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETJ89sDVAAAcqLt.jpg",
+					"url": "https://t.co/dqW5c6dmno",
+					"display_url": "pic.twitter.com/dqW5c6dmno",
+					"expanded_url": "https://twitter.com/M2MPD/status/1239190434867326976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239190251702087700,
+					"id_str": "1239190251702087680",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ETJ89-nUcAACvWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETJ89-nUcAACvWZ.jpg",
+					"url": "https://t.co/dqW5c6dmno",
+					"display_url": "pic.twitter.com/dqW5c6dmno",
+					"expanded_url": "https://twitter.com/M2MPD/status/1239190434867326976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239190263534203000,
+					"id_str": "1239190263534202880",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ETJ8-qsUMAADDLT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETJ8-qsUMAADDLT.jpg",
+					"url": "https://t.co/dqW5c6dmno",
+					"display_url": "pic.twitter.com/dqW5c6dmno",
+					"expanded_url": "https://twitter.com/M2MPD/status/1239190434867326976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239190432946385000,
+		"in_reply_to_status_id_str": "1239190432946384896",
+		"in_reply_to_user_id": 589808615,
+		"in_reply_to_user_id_str": "589808615",
+		"in_reply_to_screen_name": "M2MPD",
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989155,
+			"friends_count": 328,
+			"listed_count": 1618,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1047,
+		"favorite_count": 3710,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5K 화질로 즐기는 #BE_ORIGINAL UNFILTERED CAM! 현장감 넘치는 있지의 춤선을 지금 바로 만나보세요💃🕺 #ITZY #WANNABE #있지 @ITZYofficial #Studio_CHOOM\n\n#류진 ▶ https://t.co/y8fC128yae\n#채령 ▶ https://t.co/TIrDQVpFu1\n#유나 ▶ https://t.co/l6JiMc76wu https://t.co/dqW5c6dmno"
+	},
+	{
+		"created_at": "Sun Mar 15 14:29:54 +0000 2020",
+		"id": 1239190432946385000,
+		"id_str": "1239197134122967045",
+		"full_text": "5K 화질로 즐기는 #BE_ORIGINAL UNFILTERED CAM! 현장감 넘치는 있지의 춤선을 지금 바로 만나보세요💃🕺 #ITZY #WANNABE #있지 @ITZYofficial #Studio_CHOOM\n\n#예지 ▶ https://t.co/erbzxJuyiA\n#리아 ▶ https://t.co/pJq3FQ9xso https://t.co/g185AhH5Td",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "WANNABE",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "Studio_CHOOM",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "예지",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "리아",
+					"indices": [
+						148,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						89,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/erbzxJuyiA",
+					"expanded_url": "https://youtu.be/QY7rZDhj818",
+					"display_url": "youtu.be/QY7rZDhj818",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/pJq3FQ9xso",
+					"expanded_url": "https://youtu.be/QIkVIxObU9Y",
+					"display_url": "youtu.be/QIkVIxObU9Y",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239190134760673300,
+					"id_str": "1239190134760673286",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ETJ83K-UEAYNF7P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETJ83K-UEAYNF7P.jpg",
+					"url": "https://t.co/g185AhH5Td",
+					"display_url": "pic.twitter.com/g185AhH5Td",
+					"expanded_url": "https://twitter.com/M2MPD/status/1239190432946384896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239190134760673300,
+					"id_str": "1239190134760673286",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ETJ83K-UEAYNF7P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETJ83K-UEAYNF7P.jpg",
+					"url": "https://t.co/g185AhH5Td",
+					"display_url": "pic.twitter.com/g185AhH5Td",
+					"expanded_url": "https://twitter.com/M2MPD/status/1239190432946384896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239190153458942000,
+					"id_str": "1239190153458941952",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ETJ84QoVAAACR-H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETJ84QoVAAACR-H.jpg",
+					"url": "https://t.co/g185AhH5Td",
+					"display_url": "pic.twitter.com/g185AhH5Td",
+					"expanded_url": "https://twitter.com/M2MPD/status/1239190432946384896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989155,
+			"friends_count": 328,
+			"listed_count": 1618,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1172,
+		"favorite_count": 4328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5K 화질로 즐기는 #BE_ORIGINAL UNFILTERED CAM! 현장감 넘치는 있지의 춤선을 지금 바로 만나보세요💃🕺 #ITZY #WANNABE #있지 @ITZYofficial #Studio_CHOOM\n\n#예지 ▶ https://t.co/erbzxJuyiA\n#리아 ▶ https://t.co/pJq3FQ9xso https://t.co/g185AhH5Td"
+	},
+	{
+		"created_at": "Sun Mar 15 14:29:51 +0000 2020",
+		"id": 1238794166672306200,
+		"id_str": "1239197119048646657",
+		"full_text": "ITZY와 스튜디오 춤이 만들어낸 또 하나의 퍼포먼스 명작 #BE_ORIGINAL 오늘 밤 11시 최초공개! #ITZY #WANNABE #있지 @ITZYofficial #Studio_CHOOM\n\n▶️ https://t.co/cuy4mJsmTw https://t.co/onjKY4lM23",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "WANNABE",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "Studio_CHOOM",
+					"indices": [
+						94,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						80,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cuy4mJsmTw",
+					"expanded_url": "https://youtu.be/Vp9I_m6znMM",
+					"display_url": "youtu.be/Vp9I_m6znMM",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238794152063701000,
+					"id_str": "1238794152063701002",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/ETEUt8eWkAou-Br.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETEUt8eWkAou-Br.jpg",
+					"url": "https://t.co/onjKY4lM23",
+					"display_url": "pic.twitter.com/onjKY4lM23",
+					"expanded_url": "https://twitter.com/M2MPD/status/1238794166672306176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238794152063701000,
+					"id_str": "1238794152063701002",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/ETEUt8eWkAou-Br.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETEUt8eWkAou-Br.jpg",
+					"url": "https://t.co/onjKY4lM23",
+					"display_url": "pic.twitter.com/onjKY4lM23",
+					"expanded_url": "https://twitter.com/M2MPD/status/1238794166672306176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989155,
+			"friends_count": 328,
+			"listed_count": 1618,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813243078098042882/0FS8jVUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3257,
+		"favorite_count": 14179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ITZY와 스튜디오 춤이 만들어낸 또 하나의 퍼포먼스 명작 #BE_ORIGINAL 오늘 밤 11시 최초공개! #ITZY #WANNABE #있지 @ITZYofficial #Studio_CHOOM\n\n▶️ https://t.co/cuy4mJsmTw https://t.co/onjKY4lM23"
+	},
+	{
+		"created_at": "Sun Mar 15 14:27:58 +0000 2020",
+		"id": 1239196646405111800,
+		"id_str": "1239196646405111808",
+		"full_text": "인간 환멸은 끝이 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인간 환멸은 끝이 없다."
+	},
+	{
+		"created_at": "Sun Mar 15 14:27:48 +0000 2020",
+		"id": 1238995625578029000,
+		"id_str": "1239196603312816129",
+		"full_text": "트위터 트렌딩에 오른 미국에서 유행하는 신조어,\"Boomer Remover\". 미국 베이비 붐 세대인 56~74세,특히 60세 이상의 코로나 사망률이 높은 것을 이유로 주로 10대들이 코로나 바이러스에 붙여준 명칭. 이 명칭에 중,노년층들은 분노를 표시. 세대간 갈등으로 이어지지 않길 https://t.co/tR4ceIvbrc https://t.co/jsl3hkESrG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tR4ceIvbrc",
+					"expanded_url": "https://www.newsweek.com/boomer-remover-meme-trends-virus-coronavirus-social-media-covid-19-baby-boomers-1492190",
+					"display_url": "newsweek.com/boomer-remover…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238995622973395000,
+					"id_str": "1238995622973394945",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETHL9GGX0AEl3Ii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETHL9GGX0AEl3Ii.jpg",
+					"url": "https://t.co/jsl3hkESrG",
+					"display_url": "pic.twitter.com/jsl3hkESrG",
+					"expanded_url": "https://twitter.com/minist/status/1238995625578029058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238995622973395000,
+					"id_str": "1238995622973394945",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETHL9GGX0AEl3Ii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETHL9GGX0AEl3Ii.jpg",
+					"url": "https://t.co/jsl3hkESrG",
+					"display_url": "pic.twitter.com/jsl3hkESrG",
+					"expanded_url": "https://twitter.com/minist/status/1238995625578029058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64626,
+			"friends_count": 724,
+			"listed_count": 927,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 트렌딩에 오른 미국에서 유행하는 신조어,\"Boomer Remover\". 미국 베이비 붐 세대인 56~74세,특히 60세 이상의 코로나 사망률이 높은 것을 이유로 주로 10대들이 코로나 바이러스에 붙여준 명칭. 이 명칭에 중,노년층들은 분노를 표시. 세대간 갈등으로 이어지지 않길 https://t.co/tR4ceIvbrc https://t.co/jsl3hkESrG"
+	},
+	{
+		"created_at": "Sun Mar 15 14:25:08 +0000 2020",
+		"id": 1238480778129965000,
+		"id_str": "1239195934778511361",
+		"full_text": "[매뉴얼] 문화예술 사회적경제 창업 매뉴얼·사례집 &lt;�아트위드 워크북 ARTWITH WORKBOOK&gt; (2020.02)\nhttps://t.co/w5wwbepaWv\n#예술경영지원센터 #예술경영 #발간자료",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "발간자료",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w5wwbepaWv",
+					"expanded_url": "http://www.gokams.or.kr/05_know/data_view.aspx?Idx=1053&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr/05_know/data_v…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "EntRecruitKR",
+			"location": "",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트 관련 트윗을 게시합니다.\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내는 @SOLPLPARTY\n\n▶ 예술경영 디스코드",
+			"url": "https://t.co/GuXqFVZ1rw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GuXqFVZ1rw",
+							"expanded_url": "https://discord.io/ArtManagement",
+							"display_url": "discord.io/ArtManagement",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 29,
+			"listed_count": 2,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800727867881459712/n0C2GtVA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800727867881459712/n0C2GtVA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1583135709",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[매뉴얼] 문화예술 사회적경제 창업 매뉴얼·사례집 &lt;�아트위드 워크북 ARTWITH WORKBOOK&gt; (2020.02)\nhttps://t.co/w5wwbepaWv\n#예술경영지원센터 #예술경영 #발간자료"
+	},
+	{
+		"created_at": "Sun Mar 15 14:16:49 +0000 2020",
+		"id": 1239193839283257300,
+		"id_str": "1239193839283257344",
+		"full_text": "JENNIE in SKP GENTLE MONSTER\nhttps://t.co/P3J6thtT9r\n젠틀몬스터 유튜브에 제니 영상 올라와 있네.\n#블랙핑크 #제니 #BLACKPINK #JENNIE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P3J6thtT9r",
+					"expanded_url": "https://youtu.be/cAWAnKRM1t8",
+					"display_url": "youtu.be/cAWAnKRM1t8",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JENNIE in SKP GENTLE MONSTER\nhttps://t.co/P3J6thtT9r\n젠틀몬스터 유튜브에 제니 영상 올라와 있네.\n#블랙핑크 #제니 #BLACKPINK #JENNIE"
+	},
+	{
+		"created_at": "Sun Mar 15 14:10:04 +0000 2020",
+		"id": 1238550340447985700,
+		"id_str": "1239192141701709829",
+		"full_text": "Schools, offices, &amp; concerts 🌎wide have been requested to close &amp; with many people self-quarantining &amp; working from 🏡, we wanted to help you occupy your time a little. Now until March 20th, get the iKaossilator App FREE for iOS &amp; Android. Have some fun: https://t.co/s4sU1kZAR1 https://t.co/kF2C5tMbdy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s4sU1kZAR1",
+					"expanded_url": "https://buff.ly/38RRHOa",
+					"display_url": "buff.ly/38RRHOa",
+					"indices": [
+						270,
+						293
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238550335704227800,
+					"id_str": "1238550335704227843",
+					"indices": [
+						294,
+						317
+					],
+					"media_url": "http://pbs.twimg.com/media/ETA299wXYAMQyAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETA299wXYAMQyAG.jpg",
+					"url": "https://t.co/kF2C5tMbdy",
+					"display_url": "pic.twitter.com/kF2C5tMbdy",
+					"expanded_url": "https://twitter.com/KorgUSA/status/1238550340447985667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2004,
+							"h": 1042,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238550335704227800,
+					"id_str": "1238550335704227843",
+					"indices": [
+						294,
+						317
+					],
+					"media_url": "http://pbs.twimg.com/media/ETA299wXYAMQyAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETA299wXYAMQyAG.jpg",
+					"url": "https://t.co/kF2C5tMbdy",
+					"display_url": "pic.twitter.com/kF2C5tMbdy",
+					"expanded_url": "https://twitter.com/KorgUSA/status/1238550340447985667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2004,
+							"h": 1042,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28215119,
+			"id_str": "28215119",
+			"name": "KORG USA",
+			"screen_name": "KorgUSA",
+			"location": "New York",
+			"description": "NEW • MUSIC • ALWAYS We make Synths 🎛, Digital Pianos 🎹 & more Follow us on Insta: @korgofficial 👇 Got a support question? support@korgusa.com",
+			"url": "https://t.co/nE4p3GlsnX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nE4p3GlsnX",
+							"expanded_url": "http://www.korg.com",
+							"display_url": "korg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105976,
+			"friends_count": 883,
+			"listed_count": 1494,
+			"created_at": "Wed Apr 01 22:35:23 +0000 2009",
+			"favourites_count": 1958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A0A0B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/760130276215390208/ceda4P48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/760130276215390208/ceda4P48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28215119/1581371779",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FF0000",
+			"profile_sidebar_fill_color": "D3D7DA",
+			"profile_text_color": "030203",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 222,
+		"favorite_count": 339,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Schools, offices, &amp; concerts 🌎wide have been requested to close &amp; with many people self-quarantining &amp; working from 🏡, we wanted to help you occupy your time a little. Now until March 20th, get the iKaossilator App FREE for iOS &amp; Android. Have some fun: https://t.co/s4sU1kZAR1 https://t.co/kF2C5tMbdy"
+	},
+	{
+		"created_at": "Sun Mar 15 14:04:52 +0000 2020",
+		"id": 1239190832063762400,
+		"id_str": "1239190832063762434",
+		"full_text": "스타쉽은 여전한 컨셉이네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스타쉽은 여전한 컨셉이네."
+	},
+	{
 		"created_at": "Sun Mar 15 14:01:36 +0000 2020",
 		"id": 1239190011720937500,
 		"id_str": "1239190011720937474",
