@@ -1,6 +1,1176 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 12:01:52 +0000 2020",
+		"id": 1042413615838445600,
+		"id_str": "1239159878796492802",
+		"full_text": "5 / 슬리퍼도 신발이기에 미적인 요소를 무시할 수 없다. 최고의 편안함을 가지지 않더라도 생김새만으로도 충분히 매력적. 심플한 디자인으로 로고도 없고, 흰색 검은색 줄도 안 그어져있다. 5가지 색상은 어느 하나 촌스럽지 않다. 아래는 토앤토의 인스타그램과 사이트에서 가져온 사진들. https://t.co/e3wXaTDNYu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1042413306277912600,
+					"id_str": "1042413306277912577",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/DndlYQ3V4AEtJSO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DndlYQ3V4AEtJSO.jpg",
+					"url": "https://t.co/e3wXaTDNYu",
+					"display_url": "pic.twitter.com/e3wXaTDNYu",
+					"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 902,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 902,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1042413306277912600,
+					"id_str": "1042413306277912577",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/DndlYQ3V4AEtJSO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DndlYQ3V4AEtJSO.jpg",
+					"url": "https://t.co/e3wXaTDNYu",
+					"display_url": "pic.twitter.com/e3wXaTDNYu",
+					"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 902,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 902,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1042413352578801700,
+					"id_str": "1042413352578801665",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Dndla9WVYAEdW7x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dndla9WVYAEdW7x.jpg",
+					"url": "https://t.co/e3wXaTDNYu",
+					"display_url": "pic.twitter.com/e3wXaTDNYu",
+					"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 814,
+							"h": 778,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 814,
+							"h": 778,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1042413352578777100,
+					"id_str": "1042413352578777088",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Dndla9WVAAALLyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dndla9WVAAALLyv.jpg",
+					"url": "https://t.co/e3wXaTDNYu",
+					"display_url": "pic.twitter.com/e3wXaTDNYu",
+					"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 912,
+							"h": 904,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 912,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1042413352570376200,
+					"id_str": "1042413352570376192",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Dndla9UU0AA-obg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dndla9UU0AA-obg.jpg",
+					"url": "https://t.co/e3wXaTDNYu",
+					"display_url": "pic.twitter.com/e3wXaTDNYu",
+					"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 902,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1042413614097825800,
+		"in_reply_to_status_id_str": "1042413614097825794",
+		"in_reply_to_user_id": 990926091710681100,
+		"in_reply_to_user_id_str": "990926091710681088",
+		"in_reply_to_screen_name": "_dgng",
+		"user": {
+			"id": 990926091710681100,
+			"id_str": "990926091710681088",
+			"name": "dgng",
+			"screen_name": "_dgng",
+			"location": "",
+			"description": "Digging products - 좋은 제품을 찾습니다.",
+			"url": "https://t.co/x8yW8u107t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8yW8u107t",
+							"expanded_url": "https://www.instagram.com/_dgng_",
+							"display_url": "instagram.com/_dgng_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13968,
+			"friends_count": 0,
+			"listed_count": 71,
+			"created_at": "Mon Apr 30 12:09:25 +0000 2018",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998177501938569216/7cd7D8tG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998177501938569216/7cd7D8tG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/990926091710681088/1526797983",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5 / 슬리퍼도 신발이기에 미적인 요소를 무시할 수 없다. 최고의 편안함을 가지지 않더라도 생김새만으로도 충분히 매력적. 심플한 디자인으로 로고도 없고, 흰색 검은색 줄도 안 그어져있다. 5가지 색상은 어느 하나 촌스럽지 않다. 아래는 토앤토의 인스타그램과 사이트에서 가져온 사진들. https://t.co/e3wXaTDNYu"
+	},
+	{
+		"created_at": "Sun Mar 15 12:01:50 +0000 2020",
+		"id": 1238840195513872400,
+		"id_str": "1239159869820682240",
+		"full_text": "이거 착용해봤는데 정적인 공간, 실내에서만 사용하세요.  실외나 동적인 공간에서 신으시면 발목 나갑니다. 제 친구는 목발 짚음.. 이유는 신발 밑창이 미끄럽고, 높습니다. 높아요. 그래서 통통 튀면서 걷다가 장애물이라도 밟으면 발목이 확 꺾여요. 다만 착화감은 끝내줍니다. https://t.co/gmtxZsnEvy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gmtxZsnEvy",
+					"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569",
+					"display_url": "twitter.com/_dgng/status/1…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391783835,
+			"id_str": "391783835",
+			"name": "스금",
+			"screen_name": "zcbmxnd",
+			"location": "",
+			"description": "로스쿨러,,,,,(9기- 입시는 이제 먼 얘기라 모릅니다..)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 301,
+			"listed_count": 0,
+			"created_at": "Sun Oct 16 03:09:00 +0000 2011",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903298742673063936/GceylLCd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903298742673063936/GceylLCd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391783835/1502591079",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1042413615838445600,
+		"quoted_status_id_str": "1042413615838445569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gmtxZsnEvy",
+			"expanded": "https://twitter.com/_dgng/status/1042413615838445569",
+			"display": "twitter.com/_dgng/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 19 14:02:27 +0000 2018",
+			"id": 1042413615838445600,
+			"id_str": "1042413615838445569",
+			"full_text": "5 / 슬리퍼도 신발이기에 미적인 요소를 무시할 수 없다. 최고의 편안함을 가지지 않더라도 생김새만으로도 충분히 매력적. 심플한 디자인으로 로고도 없고, 흰색 검은색 줄도 안 그어져있다. 5가지 색상은 어느 하나 촌스럽지 않다. 아래는 토앤토의 인스타그램과 사이트에서 가져온 사진들. https://t.co/e3wXaTDNYu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1042413306277912600,
+						"id_str": "1042413306277912577",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/DndlYQ3V4AEtJSO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DndlYQ3V4AEtJSO.jpg",
+						"url": "https://t.co/e3wXaTDNYu",
+						"display_url": "pic.twitter.com/e3wXaTDNYu",
+						"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 902,
+								"h": 904,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 902,
+								"h": 904,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1042413306277912600,
+						"id_str": "1042413306277912577",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/DndlYQ3V4AEtJSO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DndlYQ3V4AEtJSO.jpg",
+						"url": "https://t.co/e3wXaTDNYu",
+						"display_url": "pic.twitter.com/e3wXaTDNYu",
+						"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 902,
+								"h": 904,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 902,
+								"h": 904,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1042413352578801700,
+						"id_str": "1042413352578801665",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Dndla9WVYAEdW7x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dndla9WVYAEdW7x.jpg",
+						"url": "https://t.co/e3wXaTDNYu",
+						"display_url": "pic.twitter.com/e3wXaTDNYu",
+						"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 814,
+								"h": 778,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 814,
+								"h": 778,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 650,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1042413352578777100,
+						"id_str": "1042413352578777088",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Dndla9WVAAALLyv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dndla9WVAAALLyv.jpg",
+						"url": "https://t.co/e3wXaTDNYu",
+						"display_url": "pic.twitter.com/e3wXaTDNYu",
+						"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 674,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 912,
+								"h": 904,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 912,
+								"h": 904,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1042413352570376200,
+						"id_str": "1042413352570376192",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Dndla9UU0AA-obg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dndla9UU0AA-obg.jpg",
+						"url": "https://t.co/e3wXaTDNYu",
+						"display_url": "pic.twitter.com/e3wXaTDNYu",
+						"expanded_url": "https://twitter.com/_dgng/status/1042413615838445569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 902,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 902,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1042413614097825800,
+			"in_reply_to_status_id_str": "1042413614097825794",
+			"in_reply_to_user_id": 990926091710681100,
+			"in_reply_to_user_id_str": "990926091710681088",
+			"in_reply_to_screen_name": "_dgng",
+			"user": {
+				"id": 990926091710681100,
+				"id_str": "990926091710681088",
+				"name": "dgng",
+				"screen_name": "_dgng",
+				"location": "",
+				"description": "Digging products - 좋은 제품을 찾습니다.",
+				"url": "https://t.co/x8yW8u107t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x8yW8u107t",
+								"expanded_url": "https://www.instagram.com/_dgng_",
+								"display_url": "instagram.com/_dgng_",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13968,
+				"friends_count": 0,
+				"listed_count": 71,
+				"created_at": "Mon Apr 30 12:09:25 +0000 2018",
+				"favourites_count": 94,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 162,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998177501938569216/7cd7D8tG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998177501938569216/7cd7D8tG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/990926091710681088/1526797983",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 232,
+			"favorite_count": 298,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 637,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 착용해봤는데 정적인 공간, 실내에서만 사용하세요.  실외나 동적인 공간에서 신으시면 발목 나갑니다. 제 친구는 목발 짚음.. 이유는 신발 밑창이 미끄럽고, 높습니다. 높아요. 그래서 통통 튀면서 걷다가 장애물이라도 밟으면 발목이 확 꺾여요. 다만 착화감은 끝내줍니다. https://t.co/gmtxZsnEvy"
+	},
+	{
+		"created_at": "Sun Mar 15 12:01:44 +0000 2020",
+		"id": 1239159844398977000,
+		"id_str": "1239159844398977026",
+		"full_text": "슬리퍼는 알파바운스 직구로 싸게 사서 신으면 개꿀입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "슬리퍼는 알파바운스 직구로 싸게 사서 신으면 개꿀입니다."
+	},
+	{
+		"created_at": "Sun Mar 15 12:00:44 +0000 2020",
+		"id": 1239007669186203600,
+		"id_str": "1239159596255600640",
+		"full_text": "Kosmi - Digital Hangout https://t.co/l1A4ebT5x8 \n- 가입 필요없이 가상 룸을 만들어 온라인에서 친구/지인들과 노는 도구\n- 채팅 및 영상/음성 통화 및 다양한 앱을 동기화\nㅤ→ 게임 : NES/SNES 멀티플레이, 카드게임, OpenArena\nㅤ→ 로컬 비디오를 동기화 스트리밍. \nㅤ→ 화면 공유\nㅤ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l1A4ebT5x8",
+					"expanded_url": "http://j.mp/2QgHQv4",
+					"display_url": "j.mp/2QgHQv4",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2495,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Kosmi - Digital Hangout https://t.co/l1A4ebT5x8 \n- 가입 필요없이 가상 룸을 만들어 온라인에서 친구/지인들과 노는 도구\n- 채팅 및 영상/음성 통화 및 다양한 앱을 동기화\nㅤ→ 게임 : NES/SNES 멀티플레이, 카드게임, OpenArena\nㅤ→ 로컬 비디오를 동기화 스트리밍. \nㅤ→ 화면 공유\nㅤ..."
+	},
+	{
+		"created_at": "Sun Mar 15 11:56:18 +0000 2020",
+		"id": 1239158478918176800,
+		"id_str": "1239158478918176772",
+		"full_text": "인터넷 말썽이라 스트레스. 공유기가 문제가 아니었어.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인터넷 말썽이라 스트레스. 공유기가 문제가 아니었어."
+	},
+	{
+		"created_at": "Sun Mar 15 11:12:35 +0000 2020",
+		"id": 1239147477049045000,
+		"id_str": "1239147477049044995",
+		"full_text": "@HAVAQQUQ 방금 올린 0.9발 777 손톱깎이가 이거 생각하고 쓴 거에요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HAVAQQUQ",
+					"name": "하박국HAVAQQUQ",
+					"id": 8098922,
+					"id_str": "8098922",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1239146239666593800,
+		"in_reply_to_status_id_str": "1239146239666593792",
+		"in_reply_to_user_id": 8098922,
+		"in_reply_to_user_id_str": "8098922",
+		"in_reply_to_screen_name": "HAVAQQUQ",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@HAVAQQUQ 방금 올린 0.9발 777 손톱깎이가 이거 생각하고 쓴 거에요."
+	},
+	{
+		"created_at": "Sun Mar 15 11:11:52 +0000 2020",
+		"id": 1239147298833043500,
+		"id_str": "1239147298833043456",
+		"full_text": "@HAVAQQUQ 저 이것도 샀어요. 집에서 주로 이거 쓰고 있어요. 이거 좋아요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HAVAQQUQ",
+					"name": "하박국HAVAQQUQ",
+					"id": 8098922,
+					"id_str": "8098922",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1239146239666593800,
+		"in_reply_to_status_id_str": "1239146239666593792",
+		"in_reply_to_user_id": 8098922,
+		"in_reply_to_user_id_str": "8098922",
+		"in_reply_to_screen_name": "HAVAQQUQ",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 911,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@HAVAQQUQ 저 이것도 샀어요. 집에서 주로 이거 쓰고 있어요. 이거 좋아요."
+	},
+	{
 		"created_at": "Sun Mar 15 11:01:24 +0000 2020",
 		"id": 1239144662113210400,
 		"id_str": "1239144662113210368",
