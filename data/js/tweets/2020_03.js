@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 15:57:51 +0000 2020",
+		"id": 1239519481279287300,
+		"id_str": "1239581653564940290",
+		"full_text": "번역가를 고용해서 번역료를 지불하세요. 에디터를 고용해서 교열을 맡기세요. 시사인을 전문가들이 정성들여 완성하듯이 귀 사의 귀한 기사를 책임지고 옮길 직업인에게 임금을 지불하고 일을 맡기십시오. @sisain_editor https://t.co/7zvXy9l6b8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sisain_editor",
+					"name": "시사IN News Magazine",
+					"id": 60458250,
+					"id_str": "60458250",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239519471846350800,
+					"id_str": "1239519471846350848",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOoZHOU4AAc4iV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOoZHOU4AAc4iV.jpg",
+					"url": "https://t.co/7zvXy9l6b8",
+					"display_url": "pic.twitter.com/7zvXy9l6b8",
+					"expanded_url": "https://twitter.com/k1vp3/status/1239519481279287296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1580,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239519471846350800,
+					"id_str": "1239519471846350848",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOoZHOU4AAc4iV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOoZHOU4AAc4iV.jpg",
+					"url": "https://t.co/7zvXy9l6b8",
+					"display_url": "pic.twitter.com/7zvXy9l6b8",
+					"expanded_url": "https://twitter.com/k1vp3/status/1239519481279287296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1580,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720556689309765600,
+			"id_str": "720556689309765634",
+			"name": "직장인",
+			"screen_name": "k1vp3",
+			"location": "",
+			"description": "아기 사진 리트윗 하지 마세요. 잠금계정, 알계, 알 수 없는 계정 블언블합니다. 원치 않게 팔로우가 풀리신 분은 디엠으로 말 걸어주세요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1497,
+			"friends_count": 778,
+			"listed_count": 13,
+			"created_at": "Thu Apr 14 10:17:56 +0000 2016",
+			"favourites_count": 24964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733435535474098176/owp58EG-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733435535474098176/owp58EG-_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3061,
+		"favorite_count": 767,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "번역가를 고용해서 번역료를 지불하세요. 에디터를 고용해서 교열을 맡기세요. 시사인을 전문가들이 정성들여 완성하듯이 귀 사의 귀한 기사를 책임지고 옮길 직업인에게 임금을 지불하고 일을 맡기십시오. @sisain_editor https://t.co/7zvXy9l6b8"
+	},
+	{
 		"created_at": "Mon Mar 16 15:04:46 +0000 2020",
 		"id": 1239568295197540400,
 		"id_str": "1239568295197540352",
