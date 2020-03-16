@@ -1,6 +1,678 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 09:57:04 +0000 2020",
+		"id": 1239490858896023600,
+		"id_str": "1239490858896023552",
+		"full_text": "#STUDIO_A\n골든차일드, #아뷰뷰 어땠어요? 조금 늦은 EPILOGUE\nhttps://t.co/VEVOXqv6gH\n#박희아 #KPOP #매거진 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STUDIO_A",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "아뷰뷰",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "박희아",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VEVOXqv6gH",
+					"expanded_url": "https://youtu.be/ZwszhQinfgs",
+					"display_url": "youtu.be/ZwszhQinfgs",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#STUDIO_A\n골든차일드, #아뷰뷰 어땠어요? 조금 늦은 EPILOGUE\nhttps://t.co/VEVOXqv6gH\n#박희아 #KPOP #매거진 #뮤직비지니스"
+	},
+	{
+		"created_at": "Mon Mar 16 09:26:11 +0000 2020",
+		"id": 1239483087723077600,
+		"id_str": "1239483087723077632",
+		"full_text": "#BBC코리아\n코로나19: 내 정신건강을 지키는 법\nhttps://t.co/rWlqmHaBKo\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rWlqmHaBKo",
+					"expanded_url": "https://www.bbc.com/korean/news-51904368",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 내 정신건강을 지키는 법\nhttps://t.co/rWlqmHaBKo\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Mon Mar 16 09:24:41 +0000 2020",
+		"id": 1239480692754415600,
+		"id_str": "1239482710428717056",
+		"full_text": "플랫폼 협동조합은 제품과 서비스를 제공하는 플랫폼을 구성하는 모든 이해 당사자(서비스 개발자, 제공자, 이용자)가 공동으로 주인이 되고 운영 방향을 함께 결정합니다. \n　\n🔖 Nesta, Co-operatives UK ‘플랫폼 협동조합’ 보고서 인사이트 https://t.co/HSAhucoqTr \n\n@nesta_uk @CooperativesUK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nesta_uk",
+					"name": "Nesta",
+					"id": 14711491,
+					"id_str": "14711491",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"screen_name": "CooperativesUK",
+					"name": "Co-operatives UK",
+					"id": 176380362,
+					"id_str": "176380362",
+					"indices": [
+						178,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HSAhucoqTr",
+					"expanded_url": "https://parti.coop/posts/23",
+					"display_url": "parti.coop/posts/23",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239480149252272000,
+		"in_reply_to_status_id_str": "1239480149252272128",
+		"in_reply_to_user_id": 4924449355,
+		"in_reply_to_user_id_str": "4924449355",
+		"in_reply_to_screen_name": "parti_coop",
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 148,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "플랫폼 협동조합은 제품과 서비스를 제공하는 플랫폼을 구성하는 모든 이해 당사자(서비스 개발자, 제공자, 이용자)가 공동으로 주인이 되고 운영 방향을 함께 결정합니다. \n　\n🔖 Nesta, Co-operatives UK ‘플랫폼 협동조합’ 보고서 인사이트 https://t.co/HSAhucoqTr \n\n@nesta_uk @CooperativesUK"
+	},
+	{
+		"created_at": "Mon Mar 16 09:24:32 +0000 2020",
+		"id": 1239480149252272000,
+		"id_str": "1239482671971123201",
+		"full_text": "#플랫폼협동조합 첫번째 스터디📚\n빠띠 크루들이 옹기종기 모여 플랫폼 협동조합 정의, 구성 요소, 거버넌스에 대해 토의하는 시간을 가졌어요. \n\n#PlatformCooperative https://t.co/OS29qehmj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "플랫폼협동조합",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "PlatformCooperative",
+					"indices": [
+						80,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239480135339761700,
+					"id_str": "1239480135339761664",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOEnbUUYAAtWwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOEnbUUYAAtWwn.jpg",
+					"url": "https://t.co/OS29qehmj9",
+					"display_url": "pic.twitter.com/OS29qehmj9",
+					"expanded_url": "https://twitter.com/parti_coop/status/1239480149252272128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 624,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239480135339761700,
+					"id_str": "1239480135339761664",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOEnbUUYAAtWwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOEnbUUYAAtWwn.jpg",
+					"url": "https://t.co/OS29qehmj9",
+					"display_url": "pic.twitter.com/OS29qehmj9",
+					"expanded_url": "https://twitter.com/parti_coop/status/1239480149252272128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 624,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239480135339757600,
+					"id_str": "1239480135339757568",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOEnbUUUAA6TQd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOEnbUUUAA6TQd.jpg",
+					"url": "https://t.co/OS29qehmj9",
+					"display_url": "pic.twitter.com/OS29qehmj9",
+					"expanded_url": "https://twitter.com/parti_coop/status/1239480149252272128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239480135331352600,
+					"id_str": "1239480135331352578",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOEnbSUEAIPY5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOEnbSUEAIPY5c.jpg",
+					"url": "https://t.co/OS29qehmj9",
+					"display_url": "pic.twitter.com/OS29qehmj9",
+					"expanded_url": "https://twitter.com/parti_coop/status/1239480149252272128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 148,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#플랫폼협동조합 첫번째 스터디📚\n빠띠 크루들이 옹기종기 모여 플랫폼 협동조합 정의, 구성 요소, 거버넌스에 대해 토의하는 시간을 가졌어요. \n\n#PlatformCooperative https://t.co/OS29qehmj9"
+	},
+	{
 		"created_at": "Mon Mar 16 08:52:45 +0000 2020",
 		"id": 1239460149015634000,
 		"id_str": "1239474675853352961",
