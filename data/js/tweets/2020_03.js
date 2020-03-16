@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 12:24:34 +0000 2020",
+		"id": 1239521608424804400,
+		"id_str": "1239527978356310017",
+		"full_text": "⠀\nIt is with great sadness to announce the following Se So Neon's tour dates in Canada, scheduled for March 25th in Montreal and March 26th in Toronto, have been cancelled due to Covid-19 concerns.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239521488597704700,
+		"in_reply_to_status_id_str": "1239521488597704710",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8144,
+			"friends_count": 16,
+			"listed_count": 52,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "⠀\nIt is with great sadness to announce the following Se So Neon's tour dates in Canada, scheduled for March 25th in Montreal and March 26th in Toronto, have been cancelled due to Covid-19 concerns."
+	},
+	{
+		"created_at": "Mon Mar 16 12:24:31 +0000 2020",
+		"id": 1239521488597704700,
+		"id_str": "1239527969502236672",
+		"full_text": "예매한 티켓은 예매사이트에서 환불이 진행이 되며, 자세한 내용은 예매처에 문의 부탁드립니다. \n빠른 시일 내로 건강하게 만날 수 있길 바라며, 부디 모두 건강하세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239521409698680800,
+		"in_reply_to_status_id_str": "1239521409698680833",
+		"in_reply_to_user_id": 718392164741472300,
+		"in_reply_to_user_id_str": "718392164741472256",
+		"in_reply_to_screen_name": "se_so_neon",
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8144,
+			"friends_count": 16,
+			"listed_count": 52,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "예매한 티켓은 예매사이트에서 환불이 진행이 되며, 자세한 내용은 예매처에 문의 부탁드립니다. \n빠른 시일 내로 건강하게 만날 수 있길 바라며, 부디 모두 건강하세요!"
+	},
+	{
+		"created_at": "Mon Mar 16 12:21:23 +0000 2020",
+		"id": 1239527180478173200,
+		"id_str": "1239527180478173185",
+		"full_text": "#EO\n양치질에서 발견한 새로운 삶의 기회\nhttps://t.co/5fhwTlR1Rn\n#스타트업 #태용 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EO",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5fhwTlR1Rn",
+					"expanded_url": "https://youtu.be/ytxQIfBUijE",
+					"display_url": "youtu.be/ytxQIfBUijE",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EO\n양치질에서 발견한 새로운 삶의 기회\nhttps://t.co/5fhwTlR1Rn\n#스타트업 #태용 #minfav"
+	},
+	{
 		"created_at": "Mon Mar 16 11:31:30 +0000 2020",
 		"id": 1239514624598241300,
 		"id_str": "1239514624598241280",
