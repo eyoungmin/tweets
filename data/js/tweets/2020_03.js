@@ -1,6 +1,1260 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 03:46:14 +0000 2020",
+		"id": 1239397536135286800,
+		"id_str": "1239397536135286784",
+		"full_text": "#BBC코리아\n코로나19: 이강인, 석현준 자가격리되고 유럽 축구도 멈췄다\nhttps://t.co/KdmV9i8eKr\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						66,
+						79
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KdmV9i8eKr",
+					"expanded_url": "https://www.bbc.com/korean/news-51903666",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 이강인, 석현준 자가격리되고 유럽 축구도 멈췄다\nhttps://t.co/KdmV9i8eKr\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Mon Mar 16 03:32:38 +0000 2020",
+		"id": 1239394114975584300,
+		"id_str": "1239394114975584258",
+		"full_text": "예서 신보만 나오면 스카이캐슬 드립 리뷰에 도배하는 거 짜증난다. \"예서 의대보내야 합니다\" 이러는데 재미도 없고 한심해보임. 본인들 댓글 센스나 배워서라도 끌어올리시길. 뮤지션이 고뇌하고 정성들여 만든 앨범에 김빠지는 싸구려 댓글.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "예서 신보만 나오면 스카이캐슬 드립 리뷰에 도배하는 거 짜증난다. \"예서 의대보내야 합니다\" 이러는데 재미도 없고 한심해보임. 본인들 댓글 센스나 배워서라도 끌어올리시길. 뮤지션이 고뇌하고 정성들여 만든 앨범에 김빠지는 싸구려 댓글."
+	},
+	{
+		"created_at": "Mon Mar 16 03:30:33 +0000 2020",
+		"id": 1239393591476342800,
+		"id_str": "1239393591476342784",
+		"full_text": "이달의소녀탐구 #591 (LOONA TV #591)\nhttps://t.co/Qy5rWE9XPu\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qy5rWE9XPu",
+					"expanded_url": "https://youtu.be/U5z35vxC9bs",
+					"display_url": "youtu.be/U5z35vxC9bs",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의소녀탐구 #591 (LOONA TV #591)\nhttps://t.co/Qy5rWE9XPu\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Mon Mar 16 03:25:07 +0000 2020",
+		"id": 1239390822904156200,
+		"id_str": "1239392223663439872",
+		"full_text": "🏀 ‘진짜 농구, 핸섬 타이거즈’ 조이 활약 모아보기 🐣💚\n\n👉🏻 https://t.co/JAcRAVlDHF\n👉🏻 https://t.co/C7ECwDnMQG\n\n#조이 #JOY #레드벨벳 #RedVelvet #진짜농구핸섬타이거즈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "진짜농구핸섬타이거즈",
+					"indices": [
+						115,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JAcRAVlDHF",
+					"expanded_url": "https://tv.naver.com/v/12859082",
+					"display_url": "tv.naver.com/v/12859082",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/C7ECwDnMQG",
+					"expanded_url": "https://tv.naver.com/v/12859330",
+					"display_url": "tv.naver.com/v/12859330",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2343834,
+			"friends_count": 2,
+			"listed_count": 7026,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1499,
+		"favorite_count": 5255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏀 ‘진짜 농구, 핸섬 타이거즈’ 조이 활약 모아보기 🐣💚\n\n👉🏻 https://t.co/JAcRAVlDHF\n👉🏻 https://t.co/C7ECwDnMQG\n\n#조이 #JOY #레드벨벳 #RedVelvet #진짜농구핸섬타이거즈"
+	},
+	{
+		"created_at": "Mon Mar 16 03:25:05 +0000 2020",
+		"id": 1239386158343147500,
+		"id_str": "1239392214742118400",
+		"full_text": "[이달의소녀탐구 #591]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/u7KJwYaEhG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239386005523681300,
+					"id_str": "1239386005523681280",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239386005523681280/pu/img/XfOsw0N27UVm3O7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239386005523681280/pu/img/XfOsw0N27UVm3O7Z.jpg",
+					"url": "https://t.co/u7KJwYaEhG",
+					"display_url": "pic.twitter.com/u7KJwYaEhG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1239386158343147525/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239386005523681300,
+					"id_str": "1239386005523681280",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239386005523681280/pu/img/XfOsw0N27UVm3O7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239386005523681280/pu/img/XfOsw0N27UVm3O7Z.jpg",
+					"url": "https://t.co/u7KJwYaEhG",
+					"display_url": "pic.twitter.com/u7KJwYaEhG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1239386158343147525/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 60084,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239386005523681280/pu/vid/854x480/ouaSuoyZAyT6dH_U.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239386005523681280/pu/vid/480x270/ed1zzINbYcu8uPrh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1239386005523681280/pu/pl/NdXfZ4KK97KQmjpU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239386005523681280/pu/vid/640x360/wdVfwa1xQ1Q3eOEh.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439038,
+			"friends_count": 0,
+			"listed_count": 6192,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2223,
+		"favorite_count": 6214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #591]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/u7KJwYaEhG"
+	},
+	{
+		"created_at": "Mon Mar 16 03:24:58 +0000 2020",
+		"id": 1239385313589391400,
+		"id_str": "1239392184836685825",
+		"full_text": "유랑마켓 속 효연 모아보기👀👇🏻\n\nhttps://t.co/E7e9Nvwvxo\nhttps://t.co/RikbaT2hxZ\nhttps://t.co/jxFbYs7aQr\nhttps://t.co/KgZv80HdJu\nhttps://t.co/h8KXw47Ehm\nhttps://t.co/f1DP4hQRRR\nhttps://t.co/wiK38YXUjU\n\n#HYOYEON #효연 #소녀시대 #GirlsGeneration #유랑마켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						207,
+						223
+					]
+				},
+				{
+					"text": "유랑마켓",
+					"indices": [
+						224,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E7e9Nvwvxo",
+					"expanded_url": "https://tv.naver.com/v/12642875",
+					"display_url": "tv.naver.com/v/12642875",
+					"indices": [
+						19,
+						42
+					]
+				},
+				{
+					"url": "https://t.co/RikbaT2hxZ",
+					"expanded_url": "https://tv.naver.com/v/12624445",
+					"display_url": "tv.naver.com/v/12624445",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/jxFbYs7aQr",
+					"expanded_url": "https://tv.naver.com/v/12624324",
+					"display_url": "tv.naver.com/v/12624324",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/KgZv80HdJu",
+					"expanded_url": "https://tv.naver.com/v/12624300",
+					"display_url": "tv.naver.com/v/12624300",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/h8KXw47Ehm",
+					"expanded_url": "https://tv.naver.com/v/12624118",
+					"display_url": "tv.naver.com/v/12624118",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/f1DP4hQRRR",
+					"expanded_url": "https://tv.naver.com/v/12624053",
+					"display_url": "tv.naver.com/v/12624053",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/wiK38YXUjU",
+					"expanded_url": "https://tv.naver.com/v/12623888",
+					"display_url": "tv.naver.com/v/12623888",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3561832,
+			"friends_count": 4,
+			"listed_count": 6064,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 882,
+		"favorite_count": 2097,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유랑마켓 속 효연 모아보기👀👇🏻\n\nhttps://t.co/E7e9Nvwvxo\nhttps://t.co/RikbaT2hxZ\nhttps://t.co/jxFbYs7aQr\nhttps://t.co/KgZv80HdJu\nhttps://t.co/h8KXw47Ehm\nhttps://t.co/f1DP4hQRRR\nhttps://t.co/wiK38YXUjU\n\n#HYOYEON #효연 #소녀시대 #GirlsGeneration #유랑마켓"
+	},
+	{
+		"created_at": "Mon Mar 16 03:24:53 +0000 2020",
+		"id": 1239381094018900000,
+		"id_str": "1239392163374551041",
+		"full_text": "놀라운 토요일 속 태연 모아보기👀💜👇🏻\n\nhttps://t.co/S1XgUwBCNr\nhttps://t.co/9Amo96Fntq\nhttps://t.co/WRj0z3QTQr\nhttps://t.co/bnEgNOtHQ2\nhttps://t.co/7G3nwxEHUL\nhttps://t.co/OynzLRnq66\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #놀라운토요일",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						187,
+						203
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						204,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S1XgUwBCNr",
+					"expanded_url": "https://tv.naver.com/v/12850093",
+					"display_url": "tv.naver.com/v/12850093",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/9Amo96Fntq",
+					"expanded_url": "https://tv.naver.com/v/12868825",
+					"display_url": "tv.naver.com/v/12868825",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/WRj0z3QTQr",
+					"expanded_url": "https://tv.naver.com/v/12868826",
+					"display_url": "tv.naver.com/v/12868826",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/bnEgNOtHQ2",
+					"expanded_url": "https://tv.naver.com/v/12868873",
+					"display_url": "tv.naver.com/v/12868873",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/7G3nwxEHUL",
+					"expanded_url": "https://tv.naver.com/v/12868917",
+					"display_url": "tv.naver.com/v/12868917",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/OynzLRnq66",
+					"expanded_url": "https://tv.naver.com/v/12868974",
+					"display_url": "tv.naver.com/v/12868974",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3561832,
+			"friends_count": 4,
+			"listed_count": 6064,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1756,
+		"favorite_count": 3924,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "놀라운 토요일 속 태연 모아보기👀💜👇🏻\n\nhttps://t.co/S1XgUwBCNr\nhttps://t.co/9Amo96Fntq\nhttps://t.co/WRj0z3QTQr\nhttps://t.co/bnEgNOtHQ2\nhttps://t.co/7G3nwxEHUL\nhttps://t.co/OynzLRnq66\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #놀라운토요일"
+	},
+	{
+		"created_at": "Mon Mar 16 03:24:23 +0000 2020",
+		"id": 1239392040263262200,
+		"id_str": "1239392040263262214",
+		"full_text": "#BBC코리아\n코로나19: 미국이 금리를 전격 인하하고 대규모 부양책을 도입한다\nhttps://t.co/MhuQ05qbbv\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MhuQ05qbbv",
+					"expanded_url": "https://www.bbc.com/korean/news-51903659",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n@EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 미국이 금리를 전격 인하하고 대규모 부양책을 도입한다\nhttps://t.co/MhuQ05qbbv\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
 		"created_at": "Mon Mar 16 03:00:32 +0000 2020",
 		"id": 1239386036440105000,
 		"id_str": "1239386036440104960",
