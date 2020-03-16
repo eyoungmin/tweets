@@ -1,6 +1,630 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 04:36:54 +0000 2020",
+		"id": 1239081866965258200,
+		"id_str": "1239410287838498816",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] YESEO(예서) - Beautiful Creature\nhttps://t.co/VONxwldyG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VONxwldyG3",
+					"expanded_url": "https://youtu.be/2Eidd7CrLLk",
+					"display_url": "youtu.be/2Eidd7CrLLk",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] YESEO(예서) - Beautiful Creature\nhttps://t.co/VONxwldyG3"
+	},
+	{
+		"created_at": "Mon Mar 16 04:29:18 +0000 2020",
+		"id": 1239163350820335600,
+		"id_str": "1239408376955588609",
+		"full_text": "OMG ROSÉ I STAN #로제 #블랙핑크 \nhttps://t.co/oso4gc9meh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						20,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oso4gc9meh",
+					"expanded_url": "http://www.wkorea.com/2020/03/15/je-taime-rose-%eb%a1%9c%ec%a0%9c/",
+					"display_url": "wkorea.com/2020/03/15/je-…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 871253046,
+			"id_str": "871253046",
+			"name": "Aria Chen",
+			"screen_name": "ariahychen",
+			"location": "",
+			"description": "Video producer @TIME. Alum: @McClatchy @CNN @columbiajourn. 📸https://t.co/pjLnWjGlp0 ✉️ aria.chen@time.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pjLnWjGlp0",
+							"expanded_url": "http://instagram.com/ariahychen",
+							"display_url": "instagram.com/ariahychen",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8498,
+			"friends_count": 1209,
+			"listed_count": 176,
+			"created_at": "Wed Oct 10 06:46:56 +0000 2012",
+			"favourites_count": 802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207356788225515522/LJQ45Fzx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207356788225515522/LJQ45Fzx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871253046/1401566313",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 496,
+		"favorite_count": 1215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "sv",
+		"text": "OMG ROSÉ I STAN #로제 #블랙핑크 \nhttps://t.co/oso4gc9meh"
+	},
+	{
+		"created_at": "Mon Mar 16 04:27:18 +0000 2020",
+		"id": 1237991361762087000,
+		"id_str": "1239407874171760641",
+		"full_text": "\"그래, 그리 쉽지는 않겠지. 나를 허락해준 세상이란 손쉽게 다가오는 편하고도 감미로운 공간이 아냐\"\n\n20년 전, 그때 그 목소리의 주인공 뮤지션 '전영호'님이 디지몬 어드벤처 OST '버터플라이'와 '브레이브 하트'가 수록된 한국판 앨범을 만듭니다.\n\n► 펀딩 참여하기\nhttps://t.co/tBur2SgVrb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tBur2SgVrb",
+					"expanded_url": "https://bit.ly/33fvLeS",
+					"display_url": "bit.ly/33fvLeS",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1236969664405622800,
+			"id_str": "1236969664405622785",
+			"name": "MUSICPARADISO",
+			"screen_name": "MUSICPARADISO1",
+			"location": "",
+			"description": "뮤직파라디소는 음악으로 감동과 즐거움을 추구하는 회사입니다.국내외 아티스트들의 음원 사업, 공연 사업 등 테마 및 스토리에 맞는 다양한 콘텐츠를 공급하고 있습니다.\n\n마지막 로그인  몇 초 전",
+			"url": "https://t.co/rPG62p1eH1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rPG62p1eH1",
+							"expanded_url": "https://tumblbug.com/junyoungho",
+							"display_url": "tumblbug.com/junyoungho",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Mar 09 10:59:03 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237690513328869381/CP7Ty8n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237690513328869381/CP7Ty8n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1236969664405622785/1583991245",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2892,
+		"favorite_count": 1465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"scopes": {
+			"followers": false
+		},
+		"lang": "ko",
+		"text": "\"그래, 그리 쉽지는 않겠지. 나를 허락해준 세상이란 손쉽게 다가오는 편하고도 감미로운 공간이 아냐\"\n\n20년 전, 그때 그 목소리의 주인공 뮤지션 '전영호'님이 디지몬 어드벤처 OST '버터플라이'와 '브레이브 하트'가 수록된 한국판 앨범을 만듭니다.\n\n► 펀딩 참여하기\nhttps://t.co/tBur2SgVrb"
+	},
+	{
+		"created_at": "Mon Mar 16 04:26:46 +0000 2020",
+		"id": 1239337244835676200,
+		"id_str": "1239407736690888706",
+		"full_text": "지금 상황에서 더 많이 회자되는 2015년 3월 빌 게이츠의 TED 발표 영상. 불과 8분의 영상이지만 발생할 수 밖에 없는 유행병에 대한 위협과 대처를 강조하는 모습은 지금 상황에 소름끼치게 맞아 떨어지는 예측. 그가 강조한 대비를 코로나 후에 인류는 갖출 수 있을 것인지 https://t.co/F09Il8kxN8 https://t.co/8I748MsnSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F09Il8kxN8",
+					"expanded_url": "https://www.youtube.com/watch?v=6Af6b_wyiwI",
+					"display_url": "youtube.com/watch?v=6Af6b_…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239337243304702000,
+					"id_str": "1239337243304701955",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ETMCqBAWsAM8hdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETMCqBAWsAM8hdK.jpg",
+					"url": "https://t.co/8I748MsnSV",
+					"display_url": "pic.twitter.com/8I748MsnSV",
+					"expanded_url": "https://twitter.com/minist/status/1239337244835676161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239337243304702000,
+					"id_str": "1239337243304701955",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ETMCqBAWsAM8hdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETMCqBAWsAM8hdK.jpg",
+					"url": "https://t.co/8I748MsnSV",
+					"display_url": "pic.twitter.com/8I748MsnSV",
+					"expanded_url": "https://twitter.com/minist/status/1239337244835676161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64598,
+			"friends_count": 724,
+			"listed_count": 926,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 상황에서 더 많이 회자되는 2015년 3월 빌 게이츠의 TED 발표 영상. 불과 8분의 영상이지만 발생할 수 밖에 없는 유행병에 대한 위협과 대처를 강조하는 모습은 지금 상황에 소름끼치게 맞아 떨어지는 예측. 그가 강조한 대비를 코로나 후에 인류는 갖출 수 있을 것인지 https://t.co/F09Il8kxN8 https://t.co/8I748MsnSV"
+	},
+	{
+		"created_at": "Mon Mar 16 04:26:34 +0000 2020",
+		"id": 1239341107118403600,
+		"id_str": "1239407688074723331",
+		"full_text": "[속보] 수도권 또 집단감염…성남 은혜의강교회 하루새 40명 확진",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614594,
+			"friends_count": 45510,
+			"listed_count": 2376,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829154861392359424/Lxx50vdu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1578561632",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5461,
+		"favorite_count": 477,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[속보] 수도권 또 집단감염…성남 은혜의강교회 하루새 40명 확진"
+	},
+	{
 		"created_at": "Mon Mar 16 03:46:14 +0000 2020",
 		"id": 1239397536135286800,
 		"id_str": "1239397536135286784",
