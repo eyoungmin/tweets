@@ -1,6 +1,1367 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 06:01:07 +0000 2020",
+		"id": 1239677985575153700,
+		"id_str": "1239793871871041537",
+		"full_text": "- iTunes, 아마존, 다른 디지털 렌탈 플랫폼 통해 대여 가능\n- 물론 $20은 보통 영화 대여 편당 $3.99에 비해 크게 비싼 것이지만 극장에 가는 것보다 훨씬 싼 것\n- 리걸 시네마스, 코로나19 팬데믹으로 미국 내 543개 극장 닫는다고 발표\n- AMC, 스크린 당 50명 이하로 관중수 제한함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1239676871765180400,
+		"in_reply_to_status_id_str": "1239676871765180416",
+		"in_reply_to_user_id": 45398722,
+		"in_reply_to_user_id_str": "45398722",
+		"in_reply_to_screen_name": "wkchoi",
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45586,
+			"friends_count": 217,
+			"listed_count": 286,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- iTunes, 아마존, 다른 디지털 렌탈 플랫폼 통해 대여 가능\n- 물론 $20은 보통 영화 대여 편당 $3.99에 비해 크게 비싼 것이지만 극장에 가는 것보다 훨씬 싼 것\n- 리걸 시네마스, 코로나19 팬데믹으로 미국 내 543개 극장 닫는다고 발표\n- AMC, 스크린 당 50명 이하로 관중수 제한함"
+	},
+	{
+		"created_at": "Tue Mar 17 06:01:05 +0000 2020",
+		"id": 1239676871765180400,
+		"id_str": "1239793863167860741",
+		"full_text": "유니버설, 금요일부터 극장에서 상영 중인 영화들에 $20 iTunes 대여 제공.\n- 이는 코로나19로 극장들의 관객수가 크게 줄고 심지어 일부는 완전 폐쇄되고 있는 중에 나온 것\n- 이는 The Invisible Man, The Hunt, Emma 같은 영화와 4월 10일 개봉될 Trolls World Tour도 포함 https://t.co/7XZkVxJVHC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7XZkVxJVHC",
+					"expanded_url": "https://9to5mac.com/2020/03/16/itunes-theater-rentals-universal/",
+					"display_url": "9to5mac.com/2020/03/16/itu…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45586,
+			"friends_count": 217,
+			"listed_count": 286,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유니버설, 금요일부터 극장에서 상영 중인 영화들에 $20 iTunes 대여 제공.\n- 이는 코로나19로 극장들의 관객수가 크게 줄고 심지어 일부는 완전 폐쇄되고 있는 중에 나온 것\n- 이는 The Invisible Man, The Hunt, Emma 같은 영화와 4월 10일 개봉될 Trolls World Tour도 포함 https://t.co/7XZkVxJVHC"
+	},
+	{
+		"created_at": "Tue Mar 17 05:55:13 +0000 2020",
+		"id": 1239672694787825700,
+		"id_str": "1239792386466656256",
+		"full_text": "스타벅스, 암호화폐 등 디지털 자산으로 결제 테스트 시작 https://t.co/BjxikBlj0Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BjxikBlj0Q",
+					"expanded_url": "http://www.bloter.net/archives/374718",
+					"display_url": "bloter.net/archives/374718",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56420,
+			"friends_count": 9,
+			"listed_count": 2519,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스타벅스, 암호화폐 등 디지털 자산으로 결제 테스트 시작 https://t.co/BjxikBlj0Q"
+	},
+	{
+		"created_at": "Tue Mar 17 05:51:29 +0000 2020",
+		"id": 1239791444455338000,
+		"id_str": "1239791444455337984",
+		"full_text": "관크 당했다고 커뮤에서 욕 엄청 먹을 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1239790772334948400,
+		"in_reply_to_status_id_str": "1239790772334948353",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "관크 당했다고 커뮤에서 욕 엄청 먹을 듯."
+	},
+	{
+		"created_at": "Tue Mar 17 05:48:48 +0000 2020",
+		"id": 1239790772334948400,
+		"id_str": "1239790772334948353",
+		"full_text": "❝ 악장 사이 박수를 지양하는 분위기는 20세기에 이르러 완전히 정착되었습니다. 물론 최근에는 이러한 ‘박수 금지’가 지나치게 청중들을 억압하고 딱딱한 분위기를 만든다는 의견도 있죠.\n\n국내도 중간에 박수 치는 것은 거의 금기시 된다고 봐야. https://t.co/hhO6WPaTRY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hhO6WPaTRY",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239789691324563458",
+					"display_url": "twitter.com/SOLPLPARTY/sta…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239789691324563500,
+		"quoted_status_id_str": "1239789691324563458",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hhO6WPaTRY",
+			"expanded": "https://twitter.com/SOLPLPARTY/status/1239789691324563458",
+			"display": "twitter.com/SOLPLPARTY/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 17 05:44:31 +0000 2020",
+			"id": 1239789691324563500,
+			"id_str": "1239789691324563458",
+			"full_text": "#genie #지니 #지니매거진\n악장 사이의 박수는 과연 쳐도 되는 걸까?\nhttps://t.co/CYF2MCPeK1 https://t.co/15fvl2DA39",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "genie",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "지니",
+						"indices": [
+							7,
+							10
+						]
+					},
+					{
+						"text": "지니매거진",
+						"indices": [
+							11,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CYF2MCPeK1",
+						"expanded_url": "http://bit.ly/33mtTkm",
+						"display_url": "bit.ly/33mtTkm",
+						"indices": [
+							42,
+							65
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1239789689869082600,
+						"id_str": "1239789689869082625",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/ETSeJ3zWoAEmQG4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETSeJ3zWoAEmQG4.jpg",
+						"url": "https://t.co/15fvl2DA39",
+						"display_url": "pic.twitter.com/15fvl2DA39",
+						"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239789691324563458/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 672,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 672,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 672,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1239789689869082600,
+						"id_str": "1239789689869082625",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/ETSeJ3zWoAEmQG4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETSeJ3zWoAEmQG4.jpg",
+						"url": "https://t.co/15fvl2DA39",
+						"display_url": "pic.twitter.com/15fvl2DA39",
+						"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239789691324563458/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 672,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 672,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 672,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 968706450779463700,
+				"id_str": "968706450779463682",
+				"name": "솔플파티",
+				"screen_name": "SOLPLPARTY",
+				"location": "",
+				"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+				"url": "https://t.co/GCEfwO8QQD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GCEfwO8QQD",
+								"expanded_url": "http://solplparty.com",
+								"display_url": "solplparty.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mr16mdiyD3",
+								"expanded_url": "http://join.solplparty.com",
+								"display_url": "join.solplparty.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 202,
+				"friends_count": 352,
+				"listed_count": 3,
+				"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+				"favourites_count": 264,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53126,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❝ 악장 사이 박수를 지양하는 분위기는 20세기에 이르러 완전히 정착되었습니다. 물론 최근에는 이러한 ‘박수 금지’가 지나치게 청중들을 억압하고 딱딱한 분위기를 만든다는 의견도 있죠.\n\n국내도 중간에 박수 치는 것은 거의 금기시 된다고 봐야. https://t.co/hhO6WPaTRY"
+	},
+	{
+		"created_at": "Tue Mar 17 05:45:12 +0000 2020",
+		"id": 1239789691324563500,
+		"id_str": "1239789865836744705",
+		"full_text": "#genie #지니 #지니매거진\n악장 사이의 박수는 과연 쳐도 되는 걸까?\nhttps://t.co/CYF2MCPeK1 https://t.co/15fvl2DA39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CYF2MCPeK1",
+					"expanded_url": "http://bit.ly/33mtTkm",
+					"display_url": "bit.ly/33mtTkm",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239789689869082600,
+					"id_str": "1239789689869082625",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ETSeJ3zWoAEmQG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETSeJ3zWoAEmQG4.jpg",
+					"url": "https://t.co/15fvl2DA39",
+					"display_url": "pic.twitter.com/15fvl2DA39",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239789691324563458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239789689869082600,
+					"id_str": "1239789689869082625",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ETSeJ3zWoAEmQG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETSeJ3zWoAEmQG4.jpg",
+					"url": "https://t.co/15fvl2DA39",
+					"display_url": "pic.twitter.com/15fvl2DA39",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239789691324563458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n악장 사이의 박수는 과연 쳐도 되는 걸까?\nhttps://t.co/CYF2MCPeK1 https://t.co/15fvl2DA39"
+	},
+	{
+		"created_at": "Tue Mar 17 05:44:11 +0000 2020",
+		"id": 1239738483104604200,
+		"id_str": "1239789608906272769",
+		"full_text": "Github가 npm을 인수 https://t.co/JOacTjcIsa \n- 지난 10년간 자바스크립트에 중요한 역할이었던 npm을 인수\n- Registry 인프라와 플랫폼에 투자하고, 코어경험 향상, 커뮤니티와 연계하는것에 집중 예정\n- 깃헙과 npm 통합해서 보안 향상하고, npm패키지의 수정PR을 확인 가능해 질 것\n- npm ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JOacTjcIsa",
+					"expanded_url": "http://j.mp/2TVd90B",
+					"display_url": "j.mp/2TVd90B",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Github가 npm을 인수 https://t.co/JOacTjcIsa \n- 지난 10년간 자바스크립트에 중요한 역할이었던 npm을 인수\n- Registry 인프라와 플랫폼에 투자하고, 코어경험 향상, 커뮤니티와 연계하는것에 집중 예정\n- 깃헙과 npm 통합해서 보안 향상하고, npm패키지의 수정PR을 확인 가능해 질 것\n- npm ..."
+	},
+	{
+		"created_at": "Tue Mar 17 05:43:22 +0000 2020",
+		"id": 1239789401707663400,
+		"id_str": "1239789401707663363",
+		"full_text": "강경화 장관, BBC '앤드류 마 쇼' 인터뷰 [한글자막 요약]\nhttps://t.co/I7XpZWLMV7\n#강경화 #외교부장관 #BBC #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강경화",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "외교부장관",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "BBC",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I7XpZWLMV7",
+					"expanded_url": "https://youtu.be/vA_TAoVTUgI",
+					"display_url": "youtu.be/vA_TAoVTUgI",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "강경화 장관, BBC '앤드류 마 쇼' 인터뷰 [한글자막 요약]\nhttps://t.co/I7XpZWLMV7\n#강경화 #외교부장관 #BBC #minfav"
+	},
+	{
+		"created_at": "Tue Mar 17 05:40:47 +0000 2020",
+		"id": 1239769151305961500,
+		"id_str": "1239788754493034496",
+		"full_text": "코로나 바이러스 이슈로 인해 뉴욕시의 모든 공연장 및 클럽이 폐쇄된다. 미국 트럼프 대통령은 10명이상 모이지 말라는 새로운 생활 수칙을 발표했다. 현재의 상황이 7~8월까지 지속될 수 있다고 전망했기에 향후 페스티벌 스케줄에 상당한 차질이 예상된다. https://t.co/1xKUMgICJT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1xKUMgICJT",
+					"expanded_url": "http://www.mixmag.kr/4390",
+					"display_url": "mixmag.kr/4390",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4787765714,
+			"id_str": "4787765714",
+			"name": "Mixmag Korea",
+			"screen_name": "mixmagkorea",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/isjjyNNsO0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/isjjyNNsO0",
+							"expanded_url": "http://www.mixmag.kr",
+							"display_url": "mixmag.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 541,
+			"friends_count": 320,
+			"listed_count": 7,
+			"created_at": "Wed Jan 20 08:11:32 +0000 2016",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689722973104640000/4jM-8tiG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689722973104640000/4jM-8tiG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4787765714/1453365504",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나 바이러스 이슈로 인해 뉴욕시의 모든 공연장 및 클럽이 폐쇄된다. 미국 트럼프 대통령은 10명이상 모이지 말라는 새로운 생활 수칙을 발표했다. 현재의 상황이 7~8월까지 지속될 수 있다고 전망했기에 향후 페스티벌 스케줄에 상당한 차질이 예상된다. https://t.co/1xKUMgICJT"
+	},
+	{
+		"created_at": "Tue Mar 17 05:37:43 +0000 2020",
+		"id": 1239787981935763500,
+		"id_str": "1239787981935763457",
+		"full_text": "한국에서 어떠한 소신을 가지고 주관을 뚜렷하게 말한다는 것은 참 어려운 일인 것 같다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "한국에서 어떠한 소신을 가지고 주관을 뚜렷하게 말한다는 것은 참 어려운 일인 것 같다."
+	},
+	{
 		"created_at": "Tue Mar 17 04:47:38 +0000 2020",
 		"id": 1239748485135532000,
 		"id_str": "1239775377850904576",
