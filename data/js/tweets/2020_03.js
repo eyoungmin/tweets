@@ -1,6 +1,722 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 14:51:05 +0000 2020",
+		"id": 1239835696619081700,
+		"id_str": "1239927239904350209",
+		"full_text": "[대관지원 이벤트] \n\n&lt;구름아래소극장 개관 1주년 기념 '대관지원 이벤트'&gt;가 진행된다고 합니다🎉\n무대를 사랑하는 많은 분들의 관심 부탁드립니다!🔥\n\n📍 모집기간:  ~ 3/22(일)\n📍 지원부문: 신인뮤지션 / 경력뮤지션 / 평일 / 제안 / 랜선라이브\n📍 지원내용: 이미지 참고\n📍 문의: 02-3280-8800 https://t.co/Ge74zmaYRn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239835435100016600,
+					"id_str": "1239835435100016640",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTHwmEUEAAg51o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTHwmEUEAAg51o.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239835435100016600,
+					"id_str": "1239835435100016640",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTHwmEUEAAg51o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTHwmEUEAAg51o.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239835474279059500,
+					"id_str": "1239835474279059456",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTHy4BU0AARNTQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTHy4BU0AARNTQ.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1417,
+							"h": 945,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239835482751557600,
+					"id_str": "1239835482751557633",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTHzXlU4AE2efE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTHzXlU4AE2efE.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1417,
+							"h": 884,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239835494076133400,
+					"id_str": "1239835494076133376",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTH0BxUMAAcCTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTH0BxUMAAcCTP.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1417,
+							"h": 871,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2877,
+			"friends_count": 2767,
+			"listed_count": 26,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[대관지원 이벤트] \n\n&lt;구름아래소극장 개관 1주년 기념 '대관지원 이벤트'&gt;가 진행된다고 합니다🎉\n무대를 사랑하는 많은 분들의 관심 부탁드립니다!🔥\n\n📍 모집기간:  ~ 3/22(일)\n📍 지원부문: 신인뮤지션 / 경력뮤지션 / 평일 / 제안 / 랜선라이브\n📍 지원내용: 이미지 참고\n📍 문의: 02-3280-8800 https://t.co/Ge74zmaYRn"
+	},
+	{
+		"created_at": "Tue Mar 17 14:49:46 +0000 2020",
+		"id": 1239841046705524700,
+		"id_str": "1239926910823460864",
+		"full_text": "다양한 영화제의 주최자들이 모여 런칭한 'My Darling Quarantine' 온라인 단편 영화제. 코로나19의 여파로 취소•연기된 영화제(SXSW, 트라이베카, 글래스고 단편 영화제 등)에서 원래는 상영됐어야 할 작품들을 무료로 서비스한다. https://t.co/qx7SgN1glG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qx7SgN1glG",
+					"expanded_url": "https://www.talkingshorts.com/festivals/my-darling-quarantine-short-film-festival",
+					"display_url": "talkingshorts.com/festivals/my-d…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706412805189038100,
+			"id_str": "706412805189038080",
+			"name": "🌽튜나",
+			"screen_name": "ctunaworks",
+			"location": "",
+			"description": "영화 미루기 협회 명예회원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 312,
+			"listed_count": 31,
+			"created_at": "Sun Mar 06 09:35:12 +0000 2016",
+			"favourites_count": 96856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209297749344059393/GL_WW9Xq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209297749344059393/GL_WW9Xq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706412805189038080/1500990013",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다양한 영화제의 주최자들이 모여 런칭한 'My Darling Quarantine' 온라인 단편 영화제. 코로나19의 여파로 취소•연기된 영화제(SXSW, 트라이베카, 글래스고 단편 영화제 등)에서 원래는 상영됐어야 할 작품들을 무료로 서비스한다. https://t.co/qx7SgN1glG"
+	},
+	{
+		"created_at": "Tue Mar 17 14:44:10 +0000 2020",
+		"id": 1239829933037248500,
+		"id_str": "1239925499503071235",
+		"full_text": "청소년인권운동을 하면서 써 온 글들을 모으고, 보충/수정해서 엮었습니다. 제 첫 단독 저서입니다. 청소년인권의 문제의식을 알리는 데 보탬이 되기를 바랍니다.\n\n유예된 존재들 - 청소년인권의 도전\nhttps://t.co/qyMyVuy97g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qyMyVuy97g",
+					"expanded_url": "http://www.yes24.com/Product/Goods/89563960?scode=032&OzSrank=1",
+					"display_url": "yes24.com/Product/Goods/…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1233217414428389400,
+			"id_str": "1233217414428389376",
+			"name": "공현_활동가",
+			"screen_name": "GonghyunA",
+			"location": "",
+			"description": "청소년인권운동 활동가. 병역거부자. 대학거부자.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 12,
+			"listed_count": 2,
+			"created_at": "Fri Feb 28 02:28:50 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233218194053009408/o0q9T14A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233218194053009408/o0q9T14A_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청소년인권운동을 하면서 써 온 글들을 모으고, 보충/수정해서 엮었습니다. 제 첫 단독 저서입니다. 청소년인권의 문제의식을 알리는 데 보탬이 되기를 바랍니다.\n\n유예된 존재들 - 청소년인권의 도전\nhttps://t.co/qyMyVuy97g"
+	},
+	{
+		"created_at": "Tue Mar 17 14:32:41 +0000 2020",
+		"id": 1239922608948179000,
+		"id_str": "1239922608948178945",
+		"full_text": "나이키 에어 베이퍼맥스 플라이니트 3 트리플 블랙\nhttps://t.co/A8FhlGZZe8\n\n마르지 않는 샘\n#나이키 #베이퍼맥스 #신발 #minfav https://t.co/CyTYqcSe4Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나이키",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "베이퍼맥스",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "신발",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						78,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A8FhlGZZe8",
+					"expanded_url": "https://www.nike.com/kr/ko_kr/t/men/fw/nike-sportswear/AJ6900-004/prwp49/nike-air-vapormax-flyknit-3",
+					"display_url": "nike.com/kr/ko_kr/t/men…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239922108337012700,
+					"id_str": "1239922108337012736",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ETUWlpCUwAAqTgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETUWlpCUwAAqTgy.jpg",
+					"url": "https://t.co/CyTYqcSe4Q",
+					"display_url": "pic.twitter.com/CyTYqcSe4Q",
+					"expanded_url": "https://twitter.com/fromminn/status/1239922608948178945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239922108337012700,
+					"id_str": "1239922108337012736",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ETUWlpCUwAAqTgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETUWlpCUwAAqTgy.jpg",
+					"url": "https://t.co/CyTYqcSe4Q",
+					"display_url": "pic.twitter.com/CyTYqcSe4Q",
+					"expanded_url": "https://twitter.com/fromminn/status/1239922608948178945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239922204168474600,
+					"id_str": "1239922204168474629",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ETUWrOCU0AUA-Kf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETUWrOCU0AUA-Kf.jpg",
+					"url": "https://t.co/CyTYqcSe4Q",
+					"display_url": "pic.twitter.com/CyTYqcSe4Q",
+					"expanded_url": "https://twitter.com/fromminn/status/1239922608948178945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나이키 에어 베이퍼맥스 플라이니트 3 트리플 블랙\nhttps://t.co/A8FhlGZZe8\n\n마르지 않는 샘\n#나이키 #베이퍼맥스 #신발 #minfav https://t.co/CyTYqcSe4Q"
+	},
+	{
 		"created_at": "Tue Mar 17 13:22:22 +0000 2020",
 		"id": 1239904913498476500,
 		"id_str": "1239904913498476544",
