@@ -1,6 +1,1303 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 03:36:02 +0000 2020",
+		"id": 1239757357405614000,
+		"id_str": "1239757357405614081",
+		"full_text": "#팩트체크 #SNU팩트체크\n“코로나19에 걸렸다 나은 뒤에도 폐손상이 너무 심하다더라”\n▶ 대체로 사실이 아님\nhttps://t.co/XM2nFWuzPS\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XM2nFWuzPS",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2140",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n“코로나19에 걸렸다 나은 뒤에도 폐손상이 너무 심하다더라”\n▶ 대체로 사실이 아님\nhttps://t.co/XM2nFWuzPS\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Tue Mar 17 03:26:19 +0000 2020",
+		"id": 1239754915226046500,
+		"id_str": "1239754915226046468",
+		"full_text": "이달의소녀탐구 #592 (LOONA TV #592)\nhttps://t.co/EgFayjbASJ\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EgFayjbASJ",
+					"expanded_url": "https://youtu.be/YSB8Gef0fx8",
+					"display_url": "youtu.be/YSB8Gef0fx8",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의소녀탐구 #592 (LOONA TV #592)\nhttps://t.co/EgFayjbASJ\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Tue Mar 17 03:24:23 +0000 2020",
+		"id": 1239754425415106600,
+		"id_str": "1239754425415106561",
+		"full_text": "#BBC코리아\n코로나19: 미국에서 첫 백신 실험이 시작됐다\nhttps://t.co/tXhHtkMLC6\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tXhHtkMLC6",
+					"expanded_url": "https://www.bbc.com/korean/news-51921713",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 미국에서 첫 백신 실험이 시작됐다\nhttps://t.co/tXhHtkMLC6\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Tue Mar 17 03:09:30 +0000 2020",
+		"id": 1239647436441661400,
+		"id_str": "1239750681080164354",
+		"full_text": "We've increased capacity world-wide by more than 20% to ensure that you're able to text, video &amp; voice chat smoothly.\n\nMany of you are looking to Discord to communicate with loved ones and colleagues at this time, and we will continue to monitor and scale to keep that happening. https://t.co/Db1xiq1SwQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Db1xiq1SwQ",
+					"expanded_url": "https://twitter.com/discordapp/status/1237845208571588618",
+					"display_url": "twitter.com/discordapp/sta…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discordapp",
+			"location": "San Francisco, CA",
+			"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+			"url": "https://t.co/vBo0wJuUlu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBo0wJuUlu",
+							"expanded_url": "http://dis.gd/website",
+							"display_url": "dis.gd/website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1780783,
+			"friends_count": 1041,
+			"listed_count": 2400,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 32928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 436471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1577993997",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237845208571588600,
+		"quoted_status_id_str": "1237845208571588618",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Db1xiq1SwQ",
+			"expanded": "https://twitter.com/discordapp/status/1237845208571588618",
+			"display": "twitter.com/discordapp/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 11 20:57:50 +0000 2020",
+			"id": 1237845208571588600,
+			"id_str": "1237845208571588618",
+			"full_text": "An update from us regarding COVID-19: https://t.co/gKUXvvsqrs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1237845093299544000,
+						"id_str": "1237845093299544064",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/ES21jdEUYAAlRIb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ES21jdEUYAAlRIb.jpg",
+						"url": "https://t.co/gKUXvvsqrs",
+						"display_url": "pic.twitter.com/gKUXvvsqrs",
+						"expanded_url": "https://twitter.com/discordapp/status/1237845208571588618/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 388,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 628,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1237845093299544000,
+						"id_str": "1237845093299544064",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/ES21jdEUYAAlRIb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ES21jdEUYAAlRIb.jpg",
+						"url": "https://t.co/gKUXvvsqrs",
+						"display_url": "pic.twitter.com/gKUXvvsqrs",
+						"expanded_url": "https://twitter.com/discordapp/status/1237845208571588618/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 388,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 628,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3065618342,
+				"id_str": "3065618342",
+				"name": "Discord",
+				"screen_name": "discordapp",
+				"location": "San Francisco, CA",
+				"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+				"url": "https://t.co/vBo0wJuUlu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vBo0wJuUlu",
+								"expanded_url": "http://dis.gd/website",
+								"display_url": "dis.gd/website",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1780783,
+				"friends_count": 1041,
+				"listed_count": 2400,
+				"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+				"favourites_count": 32928,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 436471,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1577993997",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56795,
+			"favorite_count": 305930,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4310,
+		"favorite_count": 33607,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've increased capacity world-wide by more than 20% to ensure that you're able to text, video &amp; voice chat smoothly.\n\nMany of you are looking to Discord to communicate with loved ones and colleagues at this time, and we will continue to monitor and scale to keep that happening. https://t.co/Db1xiq1SwQ"
+	},
+	{
+		"created_at": "Tue Mar 17 03:09:20 +0000 2020",
+		"id": 1239750641016131600,
+		"id_str": "1239750641016131586",
+		"full_text": "내한은 가망이 없구나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "내한은 가망이 없구나"
+	},
+	{
+		"created_at": "Tue Mar 17 03:09:05 +0000 2020",
+		"id": 1239665025473642500,
+		"id_str": "1239750577816367106",
+		"full_text": "4/10 – Tacoma Dome – Seattle, WA\n4/11 – Pepsi Live at Rogers Arena – Vancouver, BC\n4/15 – Pepsi Center – Denver, CO\n4/17 – CHI Health Center – Omaha, NE\n(5/5)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239665024634777600,
+		"in_reply_to_status_id_str": "1239665024634777600",
+		"in_reply_to_user_id": 2150327072,
+		"in_reply_to_user_id_str": "2150327072",
+		"in_reply_to_screen_name": "billieeilish",
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3902469,
+			"friends_count": 0,
+			"listed_count": 3102,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 4254,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "4/10 – Tacoma Dome – Seattle, WA\n4/11 – Pepsi Live at Rogers Arena – Vancouver, BC\n4/15 – Pepsi Center – Denver, CO\n4/17 – CHI Health Center – Omaha, NE\n(5/5)"
+	},
+	{
+		"created_at": "Tue Mar 17 03:09:03 +0000 2020",
+		"id": 1239665024634777600,
+		"id_str": "1239750568865751040",
+		"full_text": "4/3 – The Forum – Los Angeles, CA\n4/4 – The Forum – Los Angeles, CA\n4/5 – The Forum – Los Angeles, CA\n4/7 – Chase Center – San Francisco, CA\n4/8 – Golden 1 Center – Sacramento, CA\n(4/5)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239665023841996800,
+		"in_reply_to_status_id_str": "1239665023841996801",
+		"in_reply_to_user_id": 2150327072,
+		"in_reply_to_user_id_str": "2150327072",
+		"in_reply_to_screen_name": "billieeilish",
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3902469,
+			"friends_count": 0,
+			"listed_count": 3102,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 265,
+		"favorite_count": 4646,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "4/3 – The Forum – Los Angeles, CA\n4/4 – The Forum – Los Angeles, CA\n4/5 – The Forum – Los Angeles, CA\n4/7 – Chase Center – San Francisco, CA\n4/8 – Golden 1 Center – Sacramento, CA\n(4/5)"
+	},
+	{
+		"created_at": "Tue Mar 17 03:09:02 +0000 2020",
+		"id": 1239665023841996800,
+		"id_str": "1239750562284879872",
+		"full_text": "03/20 - Barclays Center - Brooklyn, NY\n03/23 - Little Caesars Arena - Detroit, MI\n03/24 - United Center - Chicago, IL\n03/25 - Bankers Life Fieldhouse - Indianapolis, IN\n03/27 - Bridgestone Arena - Nashville, TN\n03/28 - Enterprise Center - St. Louis, MO\n(3/5)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239665023137374200,
+		"in_reply_to_status_id_str": "1239665023137374210",
+		"in_reply_to_user_id": 2150327072,
+		"in_reply_to_user_id_str": "2150327072",
+		"in_reply_to_screen_name": "billieeilish",
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3902469,
+			"friends_count": 0,
+			"listed_count": 3102,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 2993,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "03/20 - Barclays Center - Brooklyn, NY\n03/23 - Little Caesars Arena - Detroit, MI\n03/24 - United Center - Chicago, IL\n03/25 - Bankers Life Fieldhouse - Indianapolis, IN\n03/27 - Bridgestone Arena - Nashville, TN\n03/28 - Enterprise Center - St. Louis, MO\n(3/5)"
+	},
+	{
+		"created_at": "Tue Mar 17 03:09:00 +0000 2020",
+		"id": 1239665023137374200,
+		"id_str": "1239750553703346181",
+		"full_text": "‘WHERE DO WE GO?’ TOUR DATES — TO BE RESCHEDULED:\n03/13 – Wells Fargo Center - Philadelphia, PA\n03/15 - Madison Square Garden - New York, NY\n03/16 - Prudential Center - Newark, NJ\n03/18 - Capital One Center - Washington, DC\n03/19 - TD Garden - Boston, MA\n(2/5)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239665022369849300,
+		"in_reply_to_status_id_str": "1239665022369849344",
+		"in_reply_to_user_id": 2150327072,
+		"in_reply_to_user_id_str": "2150327072",
+		"in_reply_to_screen_name": "billieeilish",
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3902469,
+			"friends_count": 0,
+			"listed_count": 3102,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 2916,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "‘WHERE DO WE GO?’ TOUR DATES — TO BE RESCHEDULED:\n03/13 – Wells Fargo Center - Philadelphia, PA\n03/15 - Madison Square Garden - New York, NY\n03/16 - Prudential Center - Newark, NJ\n03/18 - Capital One Center - Washington, DC\n03/19 - TD Garden - Boston, MA\n(2/5)"
+	},
+	{
+		"created_at": "Tue Mar 17 03:08:57 +0000 2020",
+		"id": 1239665022369849300,
+		"id_str": "1239750544828198913",
+		"full_text": "Following last week’s announcement and in light of the ongoing CDC restrictions and guidelines, all of Billie's remaining ‘WHERE DO WE GO’ North American tour dates are actively being rescheduled &amp; will be announced soon. All tickets will be honored for the new tour dates. (1/5)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3902469,
+			"friends_count": 0,
+			"listed_count": 3102,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1734,
+		"favorite_count": 27180,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Following last week’s announcement and in light of the ongoing CDC restrictions and guidelines, all of Billie's remaining ‘WHERE DO WE GO’ North American tour dates are actively being rescheduled &amp; will be announced soon. All tickets will be honored for the new tour dates. (1/5)"
+	},
+	{
 		"created_at": "Tue Mar 17 03:00:16 +0000 2020",
 		"id": 1239748357196824600,
 		"id_str": "1239748357196824576",
