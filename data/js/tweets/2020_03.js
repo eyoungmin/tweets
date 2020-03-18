@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 05:24:19 +0000 2020",
+		"id": 1240146995802714000,
+		"id_str": "1240146995802714118",
+		"full_text": "토 나온다. 🤮🤮🤮",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "토 나온다. 🤮🤮🤮"
+	},
+	{
+		"created_at": "Wed Mar 18 05:23:57 +0000 2020",
+		"id": 1240108252345467000,
+		"id_str": "1240146906094985217",
+		"full_text": "“인간 김윤기는 이만 갑니다”\n\n꼴에 언론에 &lt;약한 자해&gt;로 기사화됐던데 유서랍시고 남긴 꼬라지. 이런 쓰레기는 진짜 뒈지지도 않고 자살•자해를 협박용으로 악용하지. 온갖 혐오 나열하며 투사•피해자•희생양 코스프레하는 꼬락서니 보시죠.\n\n김윤기•손정우. \n\n디지털성범죄 가해자 명단. https://t.co/F9g9SpTxMm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240108242048405500,
+					"id_str": "1240108242048405505",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ETW_4DJUUAElcxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETW_4DJUUAElcxr.jpg",
+					"url": "https://t.co/F9g9SpTxMm",
+					"display_url": "pic.twitter.com/F9g9SpTxMm",
+					"expanded_url": "https://twitter.com/C_F_diablesse/status/1240108252345466880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 440,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 662,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 440,
+							"h": 662,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240108242048405500,
+					"id_str": "1240108242048405505",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ETW_4DJUUAElcxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETW_4DJUUAElcxr.jpg",
+					"url": "https://t.co/F9g9SpTxMm",
+					"display_url": "pic.twitter.com/F9g9SpTxMm",
+					"expanded_url": "https://twitter.com/C_F_diablesse/status/1240108252345466880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 440,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 662,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 440,
+							"h": 662,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 915162143372091400,
+			"id_str": "915162143372091392",
+			"name": "마녀(_디_D)",
+			"screen_name": "C_F_diablesse",
+			"location": "피해자들의 뒤 앞 그리고 옆",
+			"description": "피해자의 말•시간•자리를 지킵니다. 피해회복과 일상재구성을 위해 연대합니다. 이 계정은 2019년 12월 31일 자정까지만 운영됐습니다. 현재 계정 정리(삭제 등) 중입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10365,
+			"friends_count": 0,
+			"listed_count": 63,
+			"created_at": "Tue Oct 03 10:30:32 +0000 2017",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080038800804347904/ZNsL56Dd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080038800804347904/ZNsL56Dd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/915162143372091392/1582564202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4868,
+		"favorite_count": 592,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“인간 김윤기는 이만 갑니다”\n\n꼴에 언론에 &lt;약한 자해&gt;로 기사화됐던데 유서랍시고 남긴 꼬라지. 이런 쓰레기는 진짜 뒈지지도 않고 자살•자해를 협박용으로 악용하지. 온갖 혐오 나열하며 투사•피해자•희생양 코스프레하는 꼬락서니 보시죠.\n\n김윤기•손정우. \n\n디지털성범죄 가해자 명단. https://t.co/F9g9SpTxMm"
+	},
+	{
 		"created_at": "Wed Mar 18 03:01:09 +0000 2020",
 		"id": 1240110968916639700,
 		"id_str": "1240110968916639745",
