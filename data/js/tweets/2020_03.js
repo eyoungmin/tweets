@@ -1,6 +1,1301 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 01:59:24 +0000 2020",
+		"id": 1239968032325156900,
+		"id_str": "1240095428797849600",
+		"full_text": "GitHub Mobile is officially leaving beta and entering general availability today. Learn more and download: https://t.co/nTHAv107Or https://t.co/BjaRyofbbA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTHAv107Or",
+					"expanded_url": "https://github.com/mobile/",
+					"display_url": "github.com/mobile/",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239967993209053200,
+					"id_str": "1239967993209053192",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239967993209053192/pu/img/UG37ZJw6qkca--_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239967993209053192/pu/img/UG37ZJw6qkca--_6.jpg",
+					"url": "https://t.co/BjaRyofbbA",
+					"display_url": "pic.twitter.com/BjaRyofbbA",
+					"expanded_url": "https://twitter.com/github/status/1239968032325156864/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239967993209053200,
+					"id_str": "1239967993209053192",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239967993209053192/pu/img/UG37ZJw6qkca--_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239967993209053192/pu/img/UG37ZJw6qkca--_6.jpg",
+					"url": "https://t.co/BjaRyofbbA",
+					"display_url": "pic.twitter.com/BjaRyofbbA",
+					"expanded_url": "https://twitter.com/github/status/1239968032325156864/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14581,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239967993209053192/pu/vid/1280x720/RBJvpZKTLDBEA-Le.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239967993209053192/pu/vid/640x360/T95_uY9qW7gngmGM.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1239967993209053192/pu/pl/8QnjMVbekIDz1JcS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239967993209053192/pu/vid/480x270/cLTPBEVvpS0fO8cF.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13334762,
+			"id_str": "13334762",
+			"name": "GitHub",
+			"screen_name": "github",
+			"location": "San Francisco, CA",
+			"description": "How people build software. \n\nNeed help? Send us a message at https://t.co/YU5nzbpDIg for support.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YU5nzbpDIg",
+							"expanded_url": "http://git.io/c",
+							"display_url": "git.io/c",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1895206,
+			"friends_count": 310,
+			"listed_count": 15318,
+			"created_at": "Mon Feb 11 04:41:50 +0000 2008",
+			"favourites_count": 4376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157035760085684224/iuxTnT5g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157035760085684224/iuxTnT5g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13334762/1540567602",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "BBBBBB",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2321,
+		"favorite_count": 4964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GitHub Mobile is officially leaving beta and entering general availability today. Learn more and download: https://t.co/nTHAv107Or https://t.co/BjaRyofbbA"
+	},
+	{
+		"created_at": "Wed Mar 18 01:59:04 +0000 2020",
+		"id": 1239952195535147000,
+		"id_str": "1240095344269987840",
+		"full_text": "A Case Report in @NatureMedicine shows that #COVID19 is not a laboratory construct or a purposefully manipulated virus. The report reviews what can be deduced about the origin of the virus from comparative analysis of genomic data. https://t.co/pLloPRD4Jj https://t.co/4ytN3dk5Qk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NatureMedicine",
+					"name": "Nature Medicine",
+					"id": 26832834,
+					"id_str": "26832834",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pLloPRD4Jj",
+					"expanded_url": "https://go.nature.com/2x2unjG",
+					"display_url": "go.nature.com/2x2unjG",
+					"indices": [
+						232,
+						255
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239952193240871000,
+					"id_str": "1239952193240870918",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/ETUx80CWsAYx6EN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETUx80CWsAYx6EN.jpg",
+					"url": "https://t.co/4ytN3dk5Qk",
+					"display_url": "pic.twitter.com/4ytN3dk5Qk",
+					"expanded_url": "https://twitter.com/nresearchnews/status/1239952195535147008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1066,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1066,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239952193240871000,
+					"id_str": "1239952193240870918",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/ETUx80CWsAYx6EN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETUx80CWsAYx6EN.jpg",
+					"url": "https://t.co/4ytN3dk5Qk",
+					"display_url": "pic.twitter.com/4ytN3dk5Qk",
+					"expanded_url": "https://twitter.com/nresearchnews/status/1239952195535147008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1066,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1066,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107391777,
+			"id_str": "107391777",
+			"name": "Nature Research",
+			"screen_name": "nresearchnews",
+			"location": "",
+			"description": "Our purpose is to champion and support scientific work and to advance discovery. Learn more: https://t.co/pcRBNqStp4",
+			"url": "http://t.co/3AIujMygNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/3AIujMygNh",
+							"expanded_url": "http://www.nature.com",
+							"display_url": "nature.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pcRBNqStp4",
+							"expanded_url": "https://go.nature.com/natureresearch",
+							"display_url": "go.nature.com/natureresearch",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 94330,
+			"friends_count": 944,
+			"listed_count": 1264,
+			"created_at": "Fri Jan 22 12:02:54 +0000 2010",
+			"favourites_count": 1744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224427592322813957/LfWZs_Uv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224427592322813957/LfWZs_Uv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107391777/1562771957",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1920,
+		"favorite_count": 2345,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Case Report in @NatureMedicine shows that #COVID19 is not a laboratory construct or a purposefully manipulated virus. The report reviews what can be deduced about the origin of the virus from comparative analysis of genomic data. https://t.co/pLloPRD4Jj https://t.co/4ytN3dk5Qk"
+	},
+	{
+		"created_at": "Wed Mar 18 01:59:02 +0000 2020",
+		"id": 1240002990767038500,
+		"id_str": "1240095334153351168",
+		"full_text": "그동안 신종 코로나바이러스가 사실은 랩에서 유출된 거라는 음모론도 꽤 돌았는데 오늘 네이쳐에 genomic data를 추적해서 코비드19 발생 경로를 추론해본 논문 떴다 결국 인공적으로 만들어진 바이러스는 절대 아니라는 결론 https://t.co/ZjKqVx87n1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZjKqVx87n1",
+					"expanded_url": "https://twitter.com/nresearchnews/status/1239952195535147008",
+					"display_url": "twitter.com/nresearchnews/…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81049210,
+			"id_str": "81049210",
+			"name": "chloed",
+			"screen_name": "lookslikechloe",
+			"location": "뻘",
+			"description": "모든 뜻밖에의 완전한 환희",
+			"url": "https://t.co/mnV3EaArMX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mnV3EaArMX",
+							"expanded_url": "https://cat-bounce.com",
+							"display_url": "cat-bounce.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2915,
+			"friends_count": 143,
+			"listed_count": 42,
+			"created_at": "Fri Oct 09 07:01:58 +0000 2009",
+			"favourites_count": 10981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/951445816698441729/q6LmXYqV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/951445816698441729/q6LmXYqV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81049210/1515962705",
+			"profile_link_color": "3700FF",
+			"profile_sidebar_border_color": "3700FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239952195535147000,
+		"quoted_status_id_str": "1239952195535147008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZjKqVx87n1",
+			"expanded": "https://twitter.com/nresearchnews/status/1239952195535147008",
+			"display": "twitter.com/nresearchnews/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 17 16:30:15 +0000 2020",
+			"id": 1239952195535147000,
+			"id_str": "1239952195535147008",
+			"full_text": "A Case Report in @NatureMedicine shows that #COVID19 is not a laboratory construct or a purposefully manipulated virus. The report reviews what can be deduced about the origin of the virus from comparative analysis of genomic data. https://t.co/pLloPRD4Jj https://t.co/4ytN3dk5Qk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							44,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NatureMedicine",
+						"name": "Nature Medicine",
+						"id": 26832834,
+						"id_str": "26832834",
+						"indices": [
+							17,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pLloPRD4Jj",
+						"expanded_url": "https://go.nature.com/2x2unjG",
+						"display_url": "go.nature.com/2x2unjG",
+						"indices": [
+							232,
+							255
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1239952193240871000,
+						"id_str": "1239952193240870918",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/ETUx80CWsAYx6EN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETUx80CWsAYx6EN.jpg",
+						"url": "https://t.co/4ytN3dk5Qk",
+						"display_url": "pic.twitter.com/4ytN3dk5Qk",
+						"expanded_url": "https://twitter.com/nresearchnews/status/1239952195535147008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1066,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1066,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1239952193240871000,
+						"id_str": "1239952193240870918",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/ETUx80CWsAYx6EN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETUx80CWsAYx6EN.jpg",
+						"url": "https://t.co/4ytN3dk5Qk",
+						"display_url": "pic.twitter.com/4ytN3dk5Qk",
+						"expanded_url": "https://twitter.com/nresearchnews/status/1239952195535147008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1066,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1066,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 107391777,
+				"id_str": "107391777",
+				"name": "Nature Research",
+				"screen_name": "nresearchnews",
+				"location": "",
+				"description": "Our purpose is to champion and support scientific work and to advance discovery. Learn more: https://t.co/pcRBNqStp4",
+				"url": "http://t.co/3AIujMygNh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3AIujMygNh",
+								"expanded_url": "http://www.nature.com",
+								"display_url": "nature.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pcRBNqStp4",
+								"expanded_url": "https://go.nature.com/natureresearch",
+								"display_url": "go.nature.com/natureresearch",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 94330,
+				"friends_count": 944,
+				"listed_count": 1264,
+				"created_at": "Fri Jan 22 12:02:54 +0000 2010",
+				"favourites_count": 1744,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7485,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1224427592322813957/LfWZs_Uv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224427592322813957/LfWZs_Uv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/107391777/1562771957",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1920,
+			"favorite_count": 2345,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1107,
+		"favorite_count": 320,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그동안 신종 코로나바이러스가 사실은 랩에서 유출된 거라는 음모론도 꽤 돌았는데 오늘 네이쳐에 genomic data를 추적해서 코비드19 발생 경로를 추론해본 논문 떴다 결국 인공적으로 만들어진 바이러스는 절대 아니라는 결론 https://t.co/ZjKqVx87n1"
+	},
+	{
+		"created_at": "Wed Mar 18 01:54:19 +0000 2020",
+		"id": 1239683781025362000,
+		"id_str": "1240094149493186561",
+		"full_text": "Okay...looks like we're up and running again!\n\nThe last few days we've seen a huge jump in traffic and our teams have been working around the clock to welcome all the newcomers.\n\nThank you for your patience and understanding while we work through this together. (๑•̀ㅂ•́)و",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discordapp",
+			"location": "San Francisco, CA",
+			"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+			"url": "https://t.co/vBo0wJuUlu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBo0wJuUlu",
+							"expanded_url": "http://dis.gd/website",
+							"display_url": "dis.gd/website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1784288,
+			"friends_count": 1042,
+			"listed_count": 2400,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 32928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 436649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1577993997",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2786,
+		"favorite_count": 43032,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Okay...looks like we're up and running again!\n\nThe last few days we've seen a huge jump in traffic and our teams have been working around the clock to welcome all the newcomers.\n\nThank you for your patience and understanding while we work through this together. (๑•̀ㅂ•́)و"
+	},
+	{
+		"created_at": "Wed Mar 18 01:54:04 +0000 2020",
+		"id": 1240008247995560000,
+		"id_str": "1240094086104666113",
+		"full_text": "welcome educators new to Discord 👋\n\nyou can now create your own pre-organized classroom space with one single click.\n\nwe wrote up some words on how to best use Discord with your students: https://t.co/Bd64IXBZzA https://t.co/HgcmdIDJnO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bd64IXBZzA",
+					"expanded_url": "https://dis.gd/Discord101",
+					"display_url": "dis.gd/Discord101",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240007755647160300,
+					"id_str": "1240007755647160320",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVke-IUEAADA-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETVke-IUEAADA-K.jpg",
+					"url": "https://t.co/HgcmdIDJnO",
+					"display_url": "pic.twitter.com/HgcmdIDJnO",
+					"expanded_url": "https://twitter.com/discordapp/status/1240008247995559937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240007755647160300,
+					"id_str": "1240007755647160320",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVke-IUEAADA-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETVke-IUEAADA-K.jpg",
+					"url": "https://t.co/HgcmdIDJnO",
+					"display_url": "pic.twitter.com/HgcmdIDJnO",
+					"expanded_url": "https://twitter.com/discordapp/status/1240008247995559937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discordapp",
+			"location": "San Francisco, CA",
+			"description": "Connect with your friends and communities with top tier voice, video, and text chat.",
+			"url": "https://t.co/vBo0wJuUlu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBo0wJuUlu",
+							"expanded_url": "http://dis.gd/website",
+							"display_url": "dis.gd/website",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1784288,
+			"friends_count": 1042,
+			"listed_count": 2400,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 32928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 436649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212820842712727552/XCuWn8yF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1577993997",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3700,
+		"favorite_count": 17015,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "welcome educators new to Discord 👋\n\nyou can now create your own pre-organized classroom space with one single click.\n\nwe wrote up some words on how to best use Discord with your students: https://t.co/Bd64IXBZzA https://t.co/HgcmdIDJnO"
+	},
+	{
+		"created_at": "Wed Mar 18 01:52:56 +0000 2020",
+		"id": 1240047772608462800,
+		"id_str": "1240093802339004416",
+		"full_text": "요즘처럼 집에 오래 있을때 친구들과 같이 채팅을 나누며 함께 넷플릭스 무비나 TV 프로를 감상할 수 있게 해주는 크롬 확장 프로그램 Netflix Party https://t.co/HQ2NnkJfJl 사회적 거리를 두면서 소셜할 수 있도록 해주는 좋은 아이디어. 다른 50만명의 가입자와도 같이 즐길 수 있어 https://t.co/aOdtCSwqc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HQ2NnkJfJl",
+					"expanded_url": "https://www.netflixparty.com/",
+					"display_url": "netflixparty.com",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240047770658095000,
+					"id_str": "1240047770658095104",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ETWI4JqXQAAUUhI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETWI4JqXQAAUUhI.jpg",
+					"url": "https://t.co/aOdtCSwqc1",
+					"display_url": "pic.twitter.com/aOdtCSwqc1",
+					"expanded_url": "https://twitter.com/minist/status/1240047772608462848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1914,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240047770658095000,
+					"id_str": "1240047770658095104",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ETWI4JqXQAAUUhI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETWI4JqXQAAUUhI.jpg",
+					"url": "https://t.co/aOdtCSwqc1",
+					"display_url": "pic.twitter.com/aOdtCSwqc1",
+					"expanded_url": "https://twitter.com/minist/status/1240047772608462848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1914,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64550,
+			"friends_count": 724,
+			"listed_count": 926,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 725,
+		"favorite_count": 246,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘처럼 집에 오래 있을때 친구들과 같이 채팅을 나누며 함께 넷플릭스 무비나 TV 프로를 감상할 수 있게 해주는 크롬 확장 프로그램 Netflix Party https://t.co/HQ2NnkJfJl 사회적 거리를 두면서 소셜할 수 있도록 해주는 좋은 아이디어. 다른 50만명의 가입자와도 같이 즐길 수 있어 https://t.co/aOdtCSwqc1"
+	},
+	{
+		"created_at": "Wed Mar 18 01:24:35 +0000 2020",
+		"id": 1240079028280672300,
+		"id_str": "1240086666032885763",
+		"full_text": "커뮤니티가 갖추어야 할 7가지 요소\n　[관계] 시작하는 멤버를 3명 이상 모아요\n　[정체성] 커뮤니티를 부르는 이름을 만들어요\n　[약속] 약속을 정해보아요\n　[공간] 온라인 공간을 만들어요\n　[활동] 함께 할 활동을 정해요\n　[소통] 일상적으로 이슈를 이야기 나눠요\n　[회고] 돌아보고 달리 해봐요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240079025696989200,
+		"in_reply_to_status_id_str": "1240079025696989184",
+		"in_reply_to_user_id": 4924449355,
+		"in_reply_to_user_id_str": "4924449355",
+		"in_reply_to_screen_name": "parti_coop",
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 148,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "커뮤니티가 갖추어야 할 7가지 요소\n　[관계] 시작하는 멤버를 3명 이상 모아요\n　[정체성] 커뮤니티를 부르는 이름을 만들어요\n　[약속] 약속을 정해보아요\n　[공간] 온라인 공간을 만들어요\n　[활동] 함께 할 활동을 정해요\n　[소통] 일상적으로 이슈를 이야기 나눠요\n　[회고] 돌아보고 달리 해봐요"
+	},
+	{
 		"created_at": "Tue Mar 17 15:16:18 +0000 2020",
 		"id": 1239933584615538700,
 		"id_str": "1239933584615538699",
