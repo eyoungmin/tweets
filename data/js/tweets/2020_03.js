@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 10:47:28 +0000 2020",
+		"id": 1240054004391932000,
+		"id_str": "1240228319716614144",
+		"full_text": "백종원 장아찌간장소스. 자신이 원하는 장아찌 재료에 이거 붓고 상온 반나절, 냉장고에 3~5일 숙성시키면 장아찌가 되는 편의성 제품. 혹은 양파 썰고 부어서 고깃집 양파절임 해먹을 수도 있다고 함. 코스트코 단독 판매. 1.8L 2병 13990원. https://t.co/KuWPWJh62P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240053377490247700,
+					"id_str": "1240053377490247680",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/ETWN-gvUYAA2CX-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETWN-gvUYAA2CX-.jpg",
+					"url": "https://t.co/KuWPWJh62P",
+					"display_url": "pic.twitter.com/KuWPWJh62P",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1240054004391931907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 633,
+							"h": 619,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 633,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240053377490247700,
+					"id_str": "1240053377490247680",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/ETWN-gvUYAA2CX-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETWN-gvUYAA2CX-.jpg",
+					"url": "https://t.co/KuWPWJh62P",
+					"display_url": "pic.twitter.com/KuWPWJh62P",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1240054004391931907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 633,
+							"h": 619,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 633,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992272,
+			"id_str": "71992272",
+			"name": "foodnjoy",
+			"screen_name": "foodnjoy",
+			"location": "위장 속",
+			"description": "굶주림에 고통받는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206584,
+			"friends_count": 480,
+			"listed_count": 373,
+			"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+			"favourites_count": 1101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231161909715423232/Ommt9-qa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231161909715423232/Ommt9-qa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1551049603",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3608,
+		"favorite_count": 1520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백종원 장아찌간장소스. 자신이 원하는 장아찌 재료에 이거 붓고 상온 반나절, 냉장고에 3~5일 숙성시키면 장아찌가 되는 편의성 제품. 혹은 양파 썰고 부어서 고깃집 양파절임 해먹을 수도 있다고 함. 코스트코 단독 판매. 1.8L 2병 13990원. https://t.co/KuWPWJh62P"
+	},
+	{
 		"created_at": "Wed Mar 18 09:36:05 +0000 2020",
 		"id": 1240210355273506800,
 		"id_str": "1240210355273506817",
