@@ -1,6 +1,1205 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 07:01:16 +0000 2020",
+		"id": 1240171393179771000,
+		"id_str": "1240171393179770881",
+		"full_text": "리본이 필요해 (1987화 | 2020년 03월 17일 방송) (4분 12초)\nhttps://t.co/zZDf0bTj32\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZDf0bTj32",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20248332",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리본이 필요해 (1987화 | 2020년 03월 17일 방송) (4분 12초)\nhttps://t.co/zZDf0bTj32\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Wed Mar 18 06:25:16 +0000 2020",
+		"id": 1240161613870555100,
+		"id_str": "1240162334934323205",
+		"full_text": "코로나19 바이러스의 우려로 인해 4월 29일 예정되어 있었던 2020년 빌보드 뮤직 어워드가 공식 연기되었습니다. 공식적인 연기 일정은 아직 발표되지 않았습니다.\n\n@BBMAs @billboard \n#BillboardMusicAwards #BBMAs\nhttps://t.co/2MsI8y1joT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillboardMusicAwards",
+					"indices": [
+						112,
+						133
+					]
+				},
+				{
+					"text": "BBMAs",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBMAs",
+					"name": "Billboard Music Awards",
+					"id": 278662460,
+					"id_str": "278662460",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"screen_name": "billboard",
+					"name": "billboard",
+					"id": 9695312,
+					"id_str": "9695312",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2MsI8y1joT",
+					"expanded_url": "https://www.billboard.com/articles/news/awards/9336804/2020-billboard-music-awards-postponed-coronavirus?utm_medium=social&utm_source=twitter",
+					"display_url": "billboard.com/articles/news/…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20040,
+			"friends_count": 16,
+			"listed_count": 78,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1583207273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 바이러스의 우려로 인해 4월 29일 예정되어 있었던 2020년 빌보드 뮤직 어워드가 공식 연기되었습니다. 공식적인 연기 일정은 아직 발표되지 않았습니다.\n\n@BBMAs @billboard \n#BillboardMusicAwards #BBMAs\nhttps://t.co/2MsI8y1joT"
+	},
+	{
+		"created_at": "Wed Mar 18 06:24:32 +0000 2020",
+		"id": 1240152569919541200,
+		"id_str": "1240162149131005953",
+		"full_text": "#슬로워크의_일\n서울시복지재단은 서울시민의 복지권 증진과 사회복지 실천 현장을 지원하기 위한 기관입니다. 슬로워크는 기관의 미션에 담긴 주요 개념인 '복지 공동체'에 착안하여, 한 땀 한 땀 엮어가는 뜨개실을 모티브로 재단의 홍보물 세트를 제작했습니다.  https://t.co/rBtqbF7mhX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬로워크의_일",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rBtqbF7mhX",
+					"expanded_url": "https://slowalk.co.kr/archives/portfolio/%ec%84%9c%ec%9a%b8%ec%8b%9c%eb%b3%b5%ec%a7%80%ec%9e%ac%eb%8b%a8-%eb%a6%ac%ed%94%8c%eb%a6%bf-%eb%b0%8f-%ed%99%8d%eb%b3%b4%eb%ac%bc",
+					"display_url": "slowalk.co.kr/archives/portf…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112719160,
+			"id_str": "112719160",
+			"name": "슬로워크",
+			"screen_name": "slowalk_",
+			"location": "Seoul, Republic of Korea",
+			"description": "슬로워크는 조직과 사회의 변화에 기여하는 크리에이티브 솔루션 회사입니다",
+			"url": "https://t.co/KU57tuhEFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KU57tuhEFE",
+							"expanded_url": "https://slowalk.co.kr",
+							"display_url": "slowalk.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4960,
+			"friends_count": 3449,
+			"listed_count": 226,
+			"created_at": "Tue Feb 09 13:43:31 +0000 2010",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852079313855762434/iExI31mS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112719160/1552290167",
+			"profile_link_color": "FA5514",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "7A7A7A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬로워크의_일\n서울시복지재단은 서울시민의 복지권 증진과 사회복지 실천 현장을 지원하기 위한 기관입니다. 슬로워크는 기관의 미션에 담긴 주요 개념인 '복지 공동체'에 착안하여, 한 땀 한 땀 엮어가는 뜨개실을 모티브로 재단의 홍보물 세트를 제작했습니다.  https://t.co/rBtqbF7mhX"
+	},
+	{
+		"created_at": "Wed Mar 18 06:14:07 +0000 2020",
+		"id": 1240132598439071700,
+		"id_str": "1240159527330340865",
+		"full_text": "월 8억 사용자의 선풍적 인기 서비스,중국 바이트댄스의 소셜앱 '틱톡'이 유출된 내부 문서에서 관리자들에게 못생겼거나 가난하거나,장애인이 작성한 포스트의 노출을 줄이라고 지시. 또한 라이브 스트림에서 정치적 발언도 검열. 보이지않는 검열이 작동하고 있는 것 https://t.co/fv7MCj6V1r https://t.co/lG9fTdha4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fv7MCj6V1r",
+					"expanded_url": "https://theintercept.com/2020/03/16/tiktok-app-moderators-users-discrimination/",
+					"display_url": "theintercept.com/2020/03/16/tik…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240132596652261400,
+					"id_str": "1240132596652261377",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ETXWBrHXQAE2m3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETXWBrHXQAE2m3N.jpg",
+					"url": "https://t.co/lG9fTdha4c",
+					"display_url": "pic.twitter.com/lG9fTdha4c",
+					"expanded_url": "https://twitter.com/minist/status/1240132598439071746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240132596652261400,
+					"id_str": "1240132596652261377",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ETXWBrHXQAE2m3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETXWBrHXQAE2m3N.jpg",
+					"url": "https://t.co/lG9fTdha4c",
+					"display_url": "pic.twitter.com/lG9fTdha4c",
+					"expanded_url": "https://twitter.com/minist/status/1240132598439071746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64549,
+			"friends_count": 724,
+			"listed_count": 927,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "월 8억 사용자의 선풍적 인기 서비스,중국 바이트댄스의 소셜앱 '틱톡'이 유출된 내부 문서에서 관리자들에게 못생겼거나 가난하거나,장애인이 작성한 포스트의 노출을 줄이라고 지시. 또한 라이브 스트림에서 정치적 발언도 검열. 보이지않는 검열이 작동하고 있는 것 https://t.co/fv7MCj6V1r https://t.co/lG9fTdha4c"
+	},
+	{
+		"created_at": "Wed Mar 18 06:12:36 +0000 2020",
+		"id": 1240141308469170200,
+		"id_str": "1240159146667720704",
+		"full_text": "퍼블리 문화 포스터에 대한 반응이 좋아서 두번째 포스터도 소개. 💪 요것도 민우님이 뚝딱뚝딱. \n\n#퍼블리 #PUBLY #퍼블리문화 https://t.co/pOxt3i4x2J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퍼블리",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "PUBLY",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "퍼블리문화",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240141278416904200,
+					"id_str": "1240141278416904194",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/ETXd7BNWoAIVjM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETXd7BNWoAIVjM2.jpg",
+					"url": "https://t.co/pOxt3i4x2J",
+					"display_url": "pic.twitter.com/pOxt3i4x2J",
+					"expanded_url": "https://twitter.com/January19_/status/1240141308469170178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2028,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1188,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240141278416904200,
+					"id_str": "1240141278416904194",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/ETXd7BNWoAIVjM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETXd7BNWoAIVjM2.jpg",
+					"url": "https://t.co/pOxt3i4x2J",
+					"display_url": "pic.twitter.com/pOxt3i4x2J",
+					"expanded_url": "https://twitter.com/January19_/status/1240141308469170178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2028,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1188,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239501598889402400,
+		"in_reply_to_status_id_str": "1239501598889402369",
+		"in_reply_to_user_id": 1067401196,
+		"in_reply_to_user_id_str": "1067401196",
+		"in_reply_to_screen_name": "January19_",
+		"user": {
+			"id": 1067401196,
+			"id_str": "1067401196",
+			"name": "박소령 | Soryoung Park",
+			"screen_name": "January19_",
+			"location": "",
+			"description": "일하는 사람들의 콘텐츠 플랫폼, 퍼블리를 만듭니다. 트위터에서는 일하는 사람들과 일하는 마인드에 대한 이야기를 주로 소개합니다. 그리고 재밌는 콘텐츠 추천도. -:) CEO of PUBLY @publy_",
+			"url": "https://t.co/BPqHYGGmHS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BPqHYGGmHS",
+							"expanded_url": "http://publy.co",
+							"display_url": "publy.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16774,
+			"friends_count": 31,
+			"listed_count": 150,
+			"created_at": "Mon Jan 07 04:10:56 +0000 2013",
+			"favourites_count": 6763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239182499323904001/xjiGA7-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239182499323904001/xjiGA7-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067401196/1578142251",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "퍼블리 문화 포스터에 대한 반응이 좋아서 두번째 포스터도 소개. 💪 요것도 민우님이 뚝딱뚝딱. \n\n#퍼블리 #PUBLY #퍼블리문화 https://t.co/pOxt3i4x2J"
+	},
+	{
+		"created_at": "Wed Mar 18 06:09:27 +0000 2020",
+		"id": 1240143378039427000,
+		"id_str": "1240158353587752961",
+		"full_text": "요가레깅스 제품 9종을 비교한 결과, 땀 흡수 속도는 리복과 아디다스 제품이, 건조 속도는 데상트와 뮬라웨어 제품이 우수한 것으로 나타났다.\n\nhttps://t.co/SRLJVD0LXn https://t.co/Uor8isBR53",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SRLJVD0LXn",
+					"expanded_url": "http://www.womennews.co.kr/news/197236",
+					"display_url": "womennews.co.kr/news/197236",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240143360091963400,
+					"id_str": "1240143360091963394",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ETXf0MDXQAI9hyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETXf0MDXQAI9hyb.jpg",
+					"url": "https://t.co/Uor8isBR53",
+					"display_url": "pic.twitter.com/Uor8isBR53",
+					"expanded_url": "https://twitter.com/wnewskr/status/1240143378039427073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 259,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 259,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240143360091963400,
+					"id_str": "1240143360091963394",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ETXf0MDXQAI9hyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETXf0MDXQAI9hyb.jpg",
+					"url": "https://t.co/Uor8isBR53",
+					"display_url": "pic.twitter.com/Uor8isBR53",
+					"expanded_url": "https://twitter.com/wnewskr/status/1240143378039427073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 259,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 259,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197691,
+			"friends_count": 3603,
+			"listed_count": 362,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요가레깅스 제품 9종을 비교한 결과, 땀 흡수 속도는 리복과 아디다스 제품이, 건조 속도는 데상트와 뮬라웨어 제품이 우수한 것으로 나타났다.\n\nhttps://t.co/SRLJVD0LXn https://t.co/Uor8isBR53"
+	},
+	{
+		"created_at": "Wed Mar 18 06:08:48 +0000 2020",
+		"id": 1240136222149918700,
+		"id_str": "1240158190748213250",
+		"full_text": "구글 번역의 인공지능을 활용한 새로운 받아쓰기 기능이 안드로이드 앱에서 정식 지원 시작. 오늘부터 일부 유저에게 적용되고 주말까지 모든 사용자가 사용 가능하게 될 예정. 영어,불어,독어,힌두어,포르투갈어,러시아어,스페인어,태국어로 얘기하면 원하는 언어로 번역 https://t.co/9MSAiuCzjj https://t.co/nvpBVD7crB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9MSAiuCzjj",
+					"expanded_url": "https://www.theverge.com/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai",
+					"display_url": "theverge.com/2020/3/17/2118…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240136220077953000,
+					"id_str": "1240136220077953025",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ETXZUlbXkAER9d2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETXZUlbXkAER9d2.jpg",
+					"url": "https://t.co/nvpBVD7crB",
+					"display_url": "pic.twitter.com/nvpBVD7crB",
+					"expanded_url": "https://twitter.com/minist/status/1240136222149918722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240136220077953000,
+					"id_str": "1240136220077953025",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ETXZUlbXkAER9d2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETXZUlbXkAER9d2.jpg",
+					"url": "https://t.co/nvpBVD7crB",
+					"display_url": "pic.twitter.com/nvpBVD7crB",
+					"expanded_url": "https://twitter.com/minist/status/1240136222149918722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64549,
+			"friends_count": 724,
+			"listed_count": 927,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 번역의 인공지능을 활용한 새로운 받아쓰기 기능이 안드로이드 앱에서 정식 지원 시작. 오늘부터 일부 유저에게 적용되고 주말까지 모든 사용자가 사용 가능하게 될 예정. 영어,불어,독어,힌두어,포르투갈어,러시아어,스페인어,태국어로 얘기하면 원하는 언어로 번역 https://t.co/9MSAiuCzjj https://t.co/nvpBVD7crB"
+	},
+	{
+		"created_at": "Wed Mar 18 06:06:02 +0000 2020",
+		"id": 1240157496146346000,
+		"id_str": "1240157496146345984",
+		"full_text": "@seoulrain 귀여운데 가격이 좀 있네요. 지금 뭐 쓰고 계신가요? 전 Enpass 쓰다가 파이어폭스 나이틀리랑 개발자버전에서 작동안되어서 갈아타려고 Bitwarden 설치해쓰다가 고쳐줘서 걍 Enpass 쓰고 있는데 자동완성이 안먹을때가 있어서 이번에 갈아타려구요. SafeInCloud 유료 생각하고 있어요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seoulrain",
+					"name": "서울비",
+					"id": 14941102,
+					"id_str": "14941102",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1240120759965622300,
+		"in_reply_to_status_id_str": "1240120759965622272",
+		"in_reply_to_user_id": 14941102,
+		"in_reply_to_user_id_str": "14941102",
+		"in_reply_to_screen_name": "seoulrain",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@seoulrain 귀여운데 가격이 좀 있네요. 지금 뭐 쓰고 계신가요? 전 Enpass 쓰다가 파이어폭스 나이틀리랑 개발자버전에서 작동안되어서 갈아타려고 Bitwarden 설치해쓰다가 고쳐줘서 걍 Enpass 쓰고 있는데 자동완성이 안먹을때가 있어서 이번에 갈아타려구요. SafeInCloud 유료 생각하고 있어요."
+	},
+	{
 		"created_at": "Wed Mar 18 05:24:19 +0000 2020",
 		"id": 1240146995802714000,
 		"id_str": "1240146995802714118",
