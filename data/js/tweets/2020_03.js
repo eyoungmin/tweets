@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 11:33:53 +0000 2020",
+		"id": 1240240000417050600,
+		"id_str": "1240240000417050624",
+		"full_text": "팬데믹 보고 볼 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "팬데믹 보고 볼 것."
+	},
+	{
+		"created_at": "Wed Mar 18 11:33:46 +0000 2020",
+		"id": 1240235681038749700,
+		"id_str": "1240239969848954880",
+		"full_text": "'대학살: 나치 강제수용소(Nazi Concentration Camps)'가 넷플릭스에 업데이트 되었습니다.\n음성: 영어(2.0)\n자막: 한국어,영어(CC)\n※ 다운로드 지원\nhttps://t.co/klYHHts3ZL https://t.co/pFM1cPuiA3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/klYHHts3ZL",
+					"expanded_url": "https://www.netflix.com/title/80119192",
+					"display_url": "netflix.com/title/80119192",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240235582485188600,
+					"id_str": "1240235582485188608",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/ETYzsPPUUAAvh6n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETYzsPPUUAAvh6n.jpg",
+					"url": "https://t.co/pFM1cPuiA3",
+					"display_url": "pic.twitter.com/pFM1cPuiA3",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/1240235681038749697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 1019,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240235582485188600,
+					"id_str": "1240235582485188608",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/ETYzsPPUUAAvh6n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETYzsPPUUAAvh6n.jpg",
+					"url": "https://t.co/pFM1cPuiA3",
+					"display_url": "pic.twitter.com/pFM1cPuiA3",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/1240235681038749697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 1019,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701825105538646000,
+			"id_str": "701825105538646016",
+			"name": "넷플릭스 업데이트봇",
+			"screen_name": "netflixkr_up",
+			"location": "Republic of Korea",
+			"description": "*fan account* 넷플릭스 문의는 고객센터(https://t.co/RxyBgmg5lj)나 공식 계정(@NetflixKR)을 이용해주세요. \"비공식 수동봇\"으로서 업데이트 소식에 시간차 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 각종 제보 환영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RxyBgmg5lj",
+							"expanded_url": "http://help.netflix.com/help",
+							"display_url": "help.netflix.com/help",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68060,
+			"friends_count": 38,
+			"listed_count": 296,
+			"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1563551606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'대학살: 나치 강제수용소(Nazi Concentration Camps)'가 넷플릭스에 업데이트 되었습니다.\n음성: 영어(2.0)\n자막: 한국어,영어(CC)\n※ 다운로드 지원\nhttps://t.co/klYHHts3ZL https://t.co/pFM1cPuiA3"
+	},
+	{
+		"created_at": "Wed Mar 18 11:24:31 +0000 2020",
+		"id": 1240236157763342300,
+		"id_str": "1240237645403492354",
+		"full_text": "💎Beautiful Creature💎 Concept Photo 1\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by Mo Eun Seo\nThx to Beautiful Eyewear by Godsomware\n\nProduced by YESEO\nComposed by YESEO \nArranged by YESEO \nLyrics by YESEO\n\nMixed &amp; Mastered by IMLAY\nDistribution by Poclanos https://t.co/qKolBkkNht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240236077073305600,
+					"id_str": "1240236077073305603",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/ETY0JBuUEAMGdVx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETY0JBuUEAMGdVx.jpg",
+					"url": "https://t.co/qKolBkkNht",
+					"display_url": "pic.twitter.com/qKolBkkNht",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1240236157763342337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1575,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 923,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240236077073305600,
+					"id_str": "1240236077073305603",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/ETY0JBuUEAMGdVx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETY0JBuUEAMGdVx.jpg",
+					"url": "https://t.co/qKolBkkNht",
+					"display_url": "pic.twitter.com/qKolBkkNht",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1240236157763342337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1575,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 923,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1240236116701106200,
+					"id_str": "1240236116701106177",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/ETY0LVWUUAE4zzB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETY0LVWUUAE4zzB.jpg",
+					"url": "https://t.co/qKolBkkNht",
+					"display_url": "pic.twitter.com/qKolBkkNht",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1240236157763342337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1240236141686612000,
+					"id_str": "1240236141686611968",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/ETY0MybU4AA8zxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETY0MybU4AA8zxF.jpg",
+					"url": "https://t.co/qKolBkkNht",
+					"display_url": "pic.twitter.com/qKolBkkNht",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1240236157763342337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 556,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1584516876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💎Beautiful Creature💎 Concept Photo 1\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by Mo Eun Seo\nThx to Beautiful Eyewear by Godsomware\n\nProduced by YESEO\nComposed by YESEO \nArranged by YESEO \nLyrics by YESEO\n\nMixed &amp; Mastered by IMLAY\nDistribution by Poclanos https://t.co/qKolBkkNht"
+	},
+	{
 		"created_at": "Wed Mar 18 10:47:28 +0000 2020",
 		"id": 1240054004391932000,
 		"id_str": "1240228319716614144",
