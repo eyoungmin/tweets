@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 13:59:57 +0000 2020",
+		"id": 1240276759586549800,
+		"id_str": "1240276759586549761",
+		"full_text": "@seoulrain 봇이 작동하면 뭐 되었다 이런식으로 메시지가 표시 되는 것들이 컴퓨터에 남는 것도 있고 서버단에 남는 것도 있는데 이걸 사용자가 선택을 못해요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seoulrain",
+					"name": "서울비",
+					"id": 14941102,
+					"id_str": "14941102",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1240276055862079500,
+		"in_reply_to_status_id_str": "1240276055862079489",
+		"in_reply_to_user_id": 14941102,
+		"in_reply_to_user_id_str": "14941102",
+		"in_reply_to_screen_name": "seoulrain",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@seoulrain 봇이 작동하면 뭐 되었다 이런식으로 메시지가 표시 되는 것들이 컴퓨터에 남는 것도 있고 서버단에 남는 것도 있는데 이걸 사용자가 선택을 못해요."
+	},
+	{
+		"created_at": "Wed Mar 18 13:50:29 +0000 2020",
+		"id": 1240247032486310000,
+		"id_str": "1240274377318563841",
+		"full_text": "ㅠㅠ사실 코토바에게 글래스톤베리에서 섭외가 왔었답니다...\n영어공부 열심히 하고 있었는데.... ㅠ ㅠ https://t.co/Yel9X4Ld4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yel9X4Ld4g",
+					"expanded_url": "https://twitter.com/glastonbury/status/1240230721060589569",
+					"display_url": "twitter.com/glastonbury/st…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4559492294,
+			"id_str": "4559492294",
+			"name": "DyoN Joo 🌱 4/12 NANA 코스프레 라이브",
+			"screen_name": "DyonJoo",
+			"location": "Seoul, Republic of Korea",
+			"description": "고통의 싱어송라이터 오따꾸🌱 4월 12일 합정 드림홀 NANA 코스프레 라이브 / 트라네스&블래스트 출연 🌿 밴드 cotoba  @bandcotoba 🍃 본격 코스프레 애니송 밴드 버츄얼로맨스 @_VirtualRomance",
+			"url": "https://t.co/6IhdSW1z3C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6IhdSW1z3C",
+							"expanded_url": "https://youtu.be/ZFydJz5dy3A",
+							"display_url": "youtu.be/ZFydJz5dy3A",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1229,
+			"friends_count": 768,
+			"listed_count": 10,
+			"created_at": "Mon Dec 14 20:22:05 +0000 2015",
+			"favourites_count": 30893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083769716538171392/L5yfAI08_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083769716538171392/L5yfAI08_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4559492294/1523271809",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240230721060589600,
+		"quoted_status_id_str": "1240230721060589569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yel9X4Ld4g",
+			"expanded": "https://twitter.com/glastonbury/status/1240230721060589569",
+			"display": "twitter.com/glastonbury/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 18 10:57:00 +0000 2020",
+			"id": 1240230721060589600,
+			"id_str": "1240230721060589569",
+			"full_text": "We are so sorry to announce this, but we are going to have to cancel Glastonbury 2020. Tickets for this year will roll over to next year. Full statement below and on our website. Michael &amp; Emily https://t.co/ox8kcQ0HoB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1240230620653146000,
+						"id_str": "1240230620653146113",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/ETYvLa-X0AE30P7.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETYvLa-X0AE30P7.png",
+						"url": "https://t.co/ox8kcQ0HoB",
+						"display_url": "pic.twitter.com/ox8kcQ0HoB",
+						"expanded_url": "https://twitter.com/glastonbury/status/1240230721060589569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240230620653146000,
+						"id_str": "1240230620653146113",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/ETYvLa-X0AE30P7.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETYvLa-X0AE30P7.png",
+						"url": "https://t.co/ox8kcQ0HoB",
+						"display_url": "pic.twitter.com/ox8kcQ0HoB",
+						"expanded_url": "https://twitter.com/glastonbury/status/1240230721060589569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18863867,
+				"id_str": "18863867",
+				"name": "Glastonbury Festival",
+				"screen_name": "glastonbury",
+				"location": "Worthy Farm, Pilton",
+				"description": "Official Glastonbury Festival. We can't answer all Qs asked here, but they should be answered at our website (link below), where there's also a contact form.",
+				"url": "https://t.co/RnEGnca2dP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RnEGnca2dP",
+								"expanded_url": "http://www.glastonburyfestivals.co.uk",
+								"display_url": "glastonburyfestivals.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 746586,
+				"friends_count": 294,
+				"listed_count": 4879,
+				"created_at": "Sun Jan 11 11:07:24 +0000 2009",
+				"favourites_count": 608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6267,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1238178472083820546/bidq1QoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238178472083820546/bidq1QoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863867/1556897842",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6214,
+			"favorite_count": 12695,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅠㅠ사실 코토바에게 글래스톤베리에서 섭외가 왔었답니다...\n영어공부 열심히 하고 있었는데.... ㅠ ㅠ https://t.co/Yel9X4Ld4g"
+	},
+	{
 		"created_at": "Wed Mar 18 11:33:53 +0000 2020",
 		"id": 1240240000417050600,
 		"id_str": "1240240000417050624",
