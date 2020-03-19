@@ -1,6 +1,932 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 07:01:10 +0000 2020",
+		"id": 1240533759260319700,
+		"id_str": "1240533759260319744",
+		"full_text": "성렬e에요 (1988화 | 2020년 03월 18일 방송) (47분 4초)\nhttps://t.co/hyp56rGD8S\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						78,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hyp56rGD8S",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20248333",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성렬e에요 (1988화 | 2020년 03월 18일 방송) (47분 4초)\nhttps://t.co/hyp56rGD8S\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Thu Mar 19 06:24:37 +0000 2020",
+		"id": 1240517955433017300,
+		"id_str": "1240524558991527937",
+		"full_text": "🐝 매주 수요일은 수요일!\n똑똑한 경제 뉴스레터와 비상사태에 대비하는 이메일을 모아 소개합니다. 비상사태에 대응하는 이메일 모음도 전합니다.캐리와 함께 전하는 스요레터를 살펴보세요🙏 https://t.co/RttrIIx6q5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RttrIIx6q5",
+					"expanded_url": "https://stib.ee/Q832",
+					"display_url": "stib.ee/Q832",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060719996,
+			"id_str": "3060719996",
+			"name": "스티비",
+			"screen_name": "stibeemail",
+			"location": "Seoul, Republic of Korea",
+			"description": "모두를 위한 #이메일마케팅",
+			"url": "https://t.co/cxE6SH6mda",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cxE6SH6mda",
+							"expanded_url": "https://stibee.com",
+							"display_url": "stibee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 12,
+			"listed_count": 10,
+			"created_at": "Wed Mar 04 02:29:04 +0000 2015",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230772107094577152/IQDdZ2fb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230772107094577152/IQDdZ2fb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060719996/1582274888",
+			"profile_link_color": "3E81F6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐝 매주 수요일은 수요일!\n똑똑한 경제 뉴스레터와 비상사태에 대비하는 이메일을 모아 소개합니다. 비상사태에 대응하는 이메일 모음도 전합니다.캐리와 함께 전하는 스요레터를 살펴보세요🙏 https://t.co/RttrIIx6q5"
+	},
+	{
+		"created_at": "Thu Mar 19 06:24:32 +0000 2020",
+		"id": 1240517504998334500,
+		"id_str": "1240524537550311425",
+		"full_text": "Stray Kids (스트레이 키즈) 'SKZ2020' Released!\n🔊https://t.co/SI9ojhbyqC https://t.co/1HHKoYfDdQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SI9ojhbyqC",
+					"expanded_url": "https://www.facebook.com/942907422391026/posts/3394499183898492/",
+					"display_url": "facebook.com/94290742239102…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240517405043908600,
+					"id_str": "1240517405043908609",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ETc0AeFU4AEFG3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETc0AeFU4AEFG3I.jpg",
+					"url": "https://t.co/1HHKoYfDdQ",
+					"display_url": "pic.twitter.com/1HHKoYfDdQ",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1240517504998334464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240517405043908600,
+					"id_str": "1240517405043908609",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ETc0AeFU4AEFG3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETc0AeFU4AEFG3I.jpg",
+					"url": "https://t.co/1HHKoYfDdQ",
+					"display_url": "pic.twitter.com/1HHKoYfDdQ",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1240517504998334464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6092,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Stray Kids (스트레이 키즈) 'SKZ2020' Released!\n🔊https://t.co/SI9ojhbyqC https://t.co/1HHKoYfDdQ"
+	},
+	{
+		"created_at": "Thu Mar 19 06:22:06 +0000 2020",
+		"id": 1240523927035629600,
+		"id_str": "1240523927035629579",
+		"full_text": "미디어도 다양한 이야기와 시선을 보여주는 것이 있고 다른 혐오와 차별을 만드는 경우가 있다. 그리고 그것을 소비하는 이도 나은 방식으로 변화하고 이야기를 풀어 나가는 사람이 있고 단지 스스로를 프레임으로 가두고 혐오하기 위해 쓰는 이가 있다. 나는 어디에 있는가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "미디어도 다양한 이야기와 시선을 보여주는 것이 있고 다른 혐오와 차별을 만드는 경우가 있다. 그리고 그것을 소비하는 이도 나은 방식으로 변화하고 이야기를 풀어 나가는 사람이 있고 단지 스스로를 프레임으로 가두고 혐오하기 위해 쓰는 이가 있다. 나는 어디에 있는가."
+	},
+	{
+		"created_at": "Thu Mar 19 06:07:34 +0000 2020",
+		"id": 1240520268516225000,
+		"id_str": "1240520268516225026",
+		"full_text": "팩트체크 진짜 빠르다. 코로나 끝나도 시스템이나 플랫폼 만들어서 빠르게 정보 제공 해뒀으면 좋겠다. 사기꾼이 너무 많은 세상이라.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "팩트체크 진짜 빠르다. 코로나 끝나도 시스템이나 플랫폼 만들어서 빠르게 정보 제공 해뒀으면 좋겠다. 사기꾼이 너무 많은 세상이라."
+	},
+	{
+		"created_at": "Thu Mar 19 06:06:22 +0000 2020",
+		"id": 1240510527068991500,
+		"id_str": "1240519967033810945",
+		"full_text": "[#사이다] 나노필터 마스크 허가 관련\n\n다수 언론 보도 \"사실은 이렇습니다.\"\n\n1) 업체는 현재까지 #허가 신청하지 않았으며, 27일 기점 관련 절차 역시 진행되지 않음\n\n2) '#톱텍'과 톱텍의 자회사 '#레몬'은 의약외품 제조업으로 신고된 바 없음\n\n3) #나노필터 로 KF94인증 한 바 역시 업음 https://t.co/CxW2kF9Li1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사이다",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "허가",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "톱텍",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "레몬",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "나노필터",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240510093617070000,
+					"id_str": "1240510093617070080",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETctW45VAAAV2wr.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETctW45VAAAV2wr.png",
+					"url": "https://t.co/CxW2kF9Li1",
+					"display_url": "pic.twitter.com/CxW2kF9Li1",
+					"expanded_url": "https://twitter.com/TheMFDS/status/1240510527068991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240510093617070000,
+					"id_str": "1240510093617070080",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETctW45VAAAV2wr.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETctW45VAAAV2wr.png",
+					"url": "https://t.co/CxW2kF9Li1",
+					"display_url": "pic.twitter.com/CxW2kF9Li1",
+					"expanded_url": "https://twitter.com/TheMFDS/status/1240510527068991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1240510107261141000,
+					"id_str": "1240510107261140992",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETctXruVAAAtebU.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETctXruVAAAtebU.png",
+					"url": "https://t.co/CxW2kF9Li1",
+					"display_url": "pic.twitter.com/CxW2kF9Li1",
+					"expanded_url": "https://twitter.com/TheMFDS/status/1240510527068991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1240510119676264400,
+					"id_str": "1240510119676264448",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETctYZ-UwAAaup7.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETctYZ-UwAAaup7.png",
+					"url": "https://t.co/CxW2kF9Li1",
+					"display_url": "pic.twitter.com/CxW2kF9Li1",
+					"expanded_url": "https://twitter.com/TheMFDS/status/1240510527068991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1240510139125264400,
+					"id_str": "1240510139125264385",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETctZibU8AEKFlM.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETctZibU8AEKFlM.png",
+					"url": "https://t.co/CxW2kF9Li1",
+					"display_url": "pic.twitter.com/CxW2kF9Li1",
+					"expanded_url": "https://twitter.com/TheMFDS/status/1240510527068991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138347667,
+			"id_str": "138347667",
+			"name": "식품의약품안전처",
+			"screen_name": "TheMFDS",
+			"location": "",
+			"description": "식품의약품안전처 공식 트위터입니다. 안전한 식의약! 건강한 국민! 행복한 사회를 위해 식의약의 生生한 정보를 신속하게 전달하는 메신저입니다. #식약처 #식품의약품안전처",
+			"url": "https://t.co/0prRVmineH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0prRVmineH",
+							"expanded_url": "http://www.mfds.go.kr",
+							"display_url": "mfds.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33345,
+			"friends_count": 519,
+			"listed_count": 514,
+			"created_at": "Thu Apr 29 08:51:52 +0000 2010",
+			"favourites_count": 1344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189436813896638464/yPZ3Dbkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189436813896638464/yPZ3Dbkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138347667/1572563527",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 390,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#사이다] 나노필터 마스크 허가 관련\n\n다수 언론 보도 \"사실은 이렇습니다.\"\n\n1) 업체는 현재까지 #허가 신청하지 않았으며, 27일 기점 관련 절차 역시 진행되지 않음\n\n2) '#톱텍'과 톱텍의 자회사 '#레몬'은 의약외품 제조업으로 신고된 바 없음\n\n3) #나노필터 로 KF94인증 한 바 역시 업음 https://t.co/CxW2kF9Li1"
+	},
+	{
 		"created_at": "Thu Mar 19 04:23:35 +0000 2020",
 		"id": 1240200575297478700,
 		"id_str": "1240494100748500992",
