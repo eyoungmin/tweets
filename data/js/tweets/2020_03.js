@@ -1,6 +1,1422 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 13:45:39 +0000 2020",
+		"id": 1240214444942037000,
+		"id_str": "1240635547304882176",
+		"full_text": "위에 있는 뉴시스 기사가 이제 그냥 삭제되었다. 아무 설명도 없이.\n\nhttps://t.co/q0oREYB6Zz https://t.co/oHhkYNQvFJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q0oREYB6Zz",
+					"expanded_url": "https://newsis.com/view/?id=NISX20200318_0000960935&cID=10899&pID=10800",
+					"display_url": "newsis.com/view/?id=NISX2…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240214419675607000,
+					"id_str": "1240214419675607042",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/ETYgcZoU8AIppRi.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETYgcZoU8AIppRi.png",
+					"url": "https://t.co/oHhkYNQvFJ",
+					"display_url": "pic.twitter.com/oHhkYNQvFJ",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1240214444942036993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 777,
+							"h": 805,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 777,
+							"h": 805,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240214419675607000,
+					"id_str": "1240214419675607042",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/ETYgcZoU8AIppRi.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETYgcZoU8AIppRi.png",
+					"url": "https://t.co/oHhkYNQvFJ",
+					"display_url": "pic.twitter.com/oHhkYNQvFJ",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1240214444942036993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 777,
+							"h": 805,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 777,
+							"h": 805,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240211299755118600,
+		"in_reply_to_status_id_str": "1240211299755118593",
+		"in_reply_to_user_id": 155488031,
+		"in_reply_to_user_id_str": "155488031",
+		"in_reply_to_screen_name": "koryodynasty",
+		"user": {
+			"id": 155488031,
+			"id_str": "155488031",
+			"name": "Raphael Rashid",
+			"screen_name": "koryodynasty",
+			"location": "Seoul, Republic of Korea",
+			"description": "Seoul-based freelance journo & @KoreaExpose co-founder. Formerly @EdelmanPR 📧 raphael [at] https://t.co/fLY5GmQEoi 🇬🇧🇫🇷🇧🇩🇰🇷 프리랜서 기자 | 서울 거주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLY5GmQEoi",
+							"expanded_url": "http://rashid.kr",
+							"display_url": "rashid.kr",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10159,
+			"friends_count": 719,
+			"listed_count": 182,
+			"created_at": "Mon Jun 14 08:04:07 +0000 2010",
+			"favourites_count": 13689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155488031/1581572990",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "위에 있는 뉴시스 기사가 이제 그냥 삭제되었다. 아무 설명도 없이.\n\nhttps://t.co/q0oREYB6Zz https://t.co/oHhkYNQvFJ"
+	},
+	{
+		"created_at": "Thu Mar 19 13:45:36 +0000 2020",
+		"id": 1240211299755118600,
+		"id_str": "1240635538438160386",
+		"full_text": "관련 글을 썼다. 왜 우리는 언론을 불신하게 되었나. 팩트와 루머 사이 어딘가에 위치한 한국의 뉴스, '좋아요'와 클릭 수에 목매는 한국의 미디어와 관련한 나의 다섯 가지 경험들.\n\n\"한국 언론을 믿을 수 없는 다섯 가지 이유\"\n\nhttps://t.co/VHfZ1yO7V7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VHfZ1yO7V7",
+					"expanded_url": "https://news.v.daum.net/v/20200306000115984",
+					"display_url": "news.v.daum.net/v/202003060001…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240209783157743600,
+		"in_reply_to_status_id_str": "1240209783157743616",
+		"in_reply_to_user_id": 155488031,
+		"in_reply_to_user_id_str": "155488031",
+		"in_reply_to_screen_name": "koryodynasty",
+		"user": {
+			"id": 155488031,
+			"id_str": "155488031",
+			"name": "Raphael Rashid",
+			"screen_name": "koryodynasty",
+			"location": "Seoul, Republic of Korea",
+			"description": "Seoul-based freelance journo & @KoreaExpose co-founder. Formerly @EdelmanPR 📧 raphael [at] https://t.co/fLY5GmQEoi 🇬🇧🇫🇷🇧🇩🇰🇷 프리랜서 기자 | 서울 거주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLY5GmQEoi",
+							"expanded_url": "http://rashid.kr",
+							"display_url": "rashid.kr",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10159,
+			"friends_count": 719,
+			"listed_count": 182,
+			"created_at": "Mon Jun 14 08:04:07 +0000 2010",
+			"favourites_count": 13689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155488031/1581572990",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "관련 글을 썼다. 왜 우리는 언론을 불신하게 되었나. 팩트와 루머 사이 어딘가에 위치한 한국의 뉴스, '좋아요'와 클릭 수에 목매는 한국의 미디어와 관련한 나의 다섯 가지 경험들.\n\n\"한국 언론을 믿을 수 없는 다섯 가지 이유\"\n\nhttps://t.co/VHfZ1yO7V7"
+	},
+	{
+		"created_at": "Thu Mar 19 13:45:34 +0000 2020",
+		"id": 1240209783157743600,
+		"id_str": "1240635527302266881",
+		"full_text": "내가 한국 언론을 믿을 수 없는 이유는 바로 이것 때문이다. 아래 뉴시스 기사에서 \"(코로나19) 국내 첫 청소년 사망 사례\"라는 문장이 갑자기 사라졌다. 수정 이유에 대한 설명도 없고 정정보도도 없다. \n\n한국에서 기사 내용을 너무 쉽게 부꿀 수 있는 사실은 너무 위험하고 비양심적이다. https://t.co/1H87j2FQ9C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1H87j2FQ9C",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1240206601694277633",
+					"display_url": "twitter.com/koryodynasty/s…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155488031,
+			"id_str": "155488031",
+			"name": "Raphael Rashid",
+			"screen_name": "koryodynasty",
+			"location": "Seoul, Republic of Korea",
+			"description": "Seoul-based freelance journo & @KoreaExpose co-founder. Formerly @EdelmanPR 📧 raphael [at] https://t.co/fLY5GmQEoi 🇬🇧🇫🇷🇧🇩🇰🇷 프리랜서 기자 | 서울 거주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLY5GmQEoi",
+							"expanded_url": "http://rashid.kr",
+							"display_url": "rashid.kr",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10159,
+			"friends_count": 719,
+			"listed_count": 182,
+			"created_at": "Mon Jun 14 08:04:07 +0000 2010",
+			"favourites_count": 13689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155488031/1581572990",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240206601694277600,
+		"quoted_status_id_str": "1240206601694277633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1H87j2FQ9C",
+			"expanded": "https://twitter.com/koryodynasty/status/1240206601694277633",
+			"display": "twitter.com/koryodynasty/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 18 09:21:10 +0000 2020",
+			"id": 1240206601694277600,
+			"id_str": "1240206601694277633",
+			"full_text": "Here are the before and after of the SAME article (even same link) on Newsis. The sentence (and headline) saying the boy is the first teen to die of coronavirus has magically disappeared/been edited, no correction notice has been issued. https://t.co/q0oREYB6Zz https://t.co/9RflwxoPtH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/q0oREYB6Zz",
+						"expanded_url": "https://newsis.com/view/?id=NISX20200318_0000960935&cID=10899&pID=10800",
+						"display_url": "newsis.com/view/?id=NISX2…",
+						"indices": [
+							238,
+							261
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1240205833209655300,
+						"id_str": "1240205833209655296",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/ETYYomjUMAAmZ1T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETYYomjUMAAmZ1T.jpg",
+						"url": "https://t.co/9RflwxoPtH",
+						"display_url": "pic.twitter.com/9RflwxoPtH",
+						"expanded_url": "https://twitter.com/koryodynasty/status/1240206601694277633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 889,
+								"h": 1018,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 594,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 889,
+								"h": 1018,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240205833209655300,
+						"id_str": "1240205833209655296",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/ETYYomjUMAAmZ1T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETYYomjUMAAmZ1T.jpg",
+						"url": "https://t.co/9RflwxoPtH",
+						"display_url": "pic.twitter.com/9RflwxoPtH",
+						"expanded_url": "https://twitter.com/koryodynasty/status/1240206601694277633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 889,
+								"h": 1018,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 594,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 889,
+								"h": 1018,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1240205848569204700,
+						"id_str": "1240205848569204736",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/ETYYpfxUUAAum2U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETYYpfxUUAAum2U.jpg",
+						"url": "https://t.co/9RflwxoPtH",
+						"display_url": "pic.twitter.com/9RflwxoPtH",
+						"expanded_url": "https://twitter.com/koryodynasty/status/1240206601694277633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 494,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 755,
+								"h": 1040,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 755,
+								"h": 1040,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1240204630061006800,
+			"in_reply_to_status_id_str": "1240204630061006848",
+			"in_reply_to_user_id": 155488031,
+			"in_reply_to_user_id_str": "155488031",
+			"in_reply_to_screen_name": "koryodynasty",
+			"user": {
+				"id": 155488031,
+				"id_str": "155488031",
+				"name": "Raphael Rashid",
+				"screen_name": "koryodynasty",
+				"location": "Seoul, Republic of Korea",
+				"description": "Seoul-based freelance journo & @KoreaExpose co-founder. Formerly @EdelmanPR 📧 raphael [at] https://t.co/fLY5GmQEoi 🇬🇧🇫🇷🇧🇩🇰🇷 프리랜서 기자 | 서울 거주",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fLY5GmQEoi",
+								"expanded_url": "http://rashid.kr",
+								"display_url": "rashid.kr",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10159,
+				"friends_count": 719,
+				"listed_count": 182,
+				"created_at": "Mon Jun 14 08:04:07 +0000 2010",
+				"favourites_count": 13689,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11296,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/155488031/1581572990",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1660,
+		"favorite_count": 586,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 한국 언론을 믿을 수 없는 이유는 바로 이것 때문이다. 아래 뉴시스 기사에서 \"(코로나19) 국내 첫 청소년 사망 사례\"라는 문장이 갑자기 사라졌다. 수정 이유에 대한 설명도 없고 정정보도도 없다. \n\n한국에서 기사 내용을 너무 쉽게 부꿀 수 있는 사실은 너무 위험하고 비양심적이다. https://t.co/1H87j2FQ9C"
+	},
+	{
+		"created_at": "Thu Mar 19 13:44:38 +0000 2020",
+		"id": 1240635292668661800,
+		"id_str": "1240635292668661761",
+		"full_text": "유튜브 같은 동영상 플랫폼은 아니었지만 위장하여 신고했을 때 글이 삭제 된다는 것을. 아직 10년이 안 지났군요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1240634105542279200,
+		"in_reply_to_status_id_str": "1240634105542279168",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유튜브 같은 동영상 플랫폼은 아니었지만 위장하여 신고했을 때 글이 삭제 된다는 것을. 아직 10년이 안 지났군요."
+	},
+	{
+		"created_at": "Thu Mar 19 13:39:55 +0000 2020",
+		"id": 1240634105542279200,
+		"id_str": "1240634105542279168",
+		"full_text": "저는 이 유튜브를 보고 경악을 했습니다. 이러한 것처럼 위장하는 방식으로 행해지는 신고 방식들을 플랫폼에 건의한 적이 있기 때문입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1240572782552977400,
+		"in_reply_to_status_id_str": "1240572782552977413",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "저는 이 유튜브를 보고 경악을 했습니다. 이러한 것처럼 위장하는 방식으로 행해지는 신고 방식들을 플랫폼에 건의한 적이 있기 때문입니다."
+	},
+	{
+		"created_at": "Thu Mar 19 13:37:55 +0000 2020",
+		"id": 1240619217667231700,
+		"id_str": "1240633603362447361",
+		"full_text": "#선우정아 의 #재즈클럽 이 성공적으로 정식오픈을 하였습니다. 1500명의 랜선 관객님들과 함께 한 재즈박스 그랜드 - 오픈! 혹시 라이브 놓치셨던 분들은 지금 선우정아 유튜브에서 감상해보세요😉\n\n🍷 https://t.co/4Xxs9YOsCA https://t.co/gD7svmm2wb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "재즈클럽",
+					"indices": [
+						8,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Xxs9YOsCA",
+					"expanded_url": "https://youtu.be/Dpb8O6FzPd0",
+					"display_url": "youtu.be/Dpb8O6FzPd0",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240617989579268000,
+					"id_str": "1240617989579268097",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240617989579268097/pu/img/X9zgLo5YOFal3uQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240617989579268097/pu/img/X9zgLo5YOFal3uQj.jpg",
+					"url": "https://t.co/gD7svmm2wb",
+					"display_url": "pic.twitter.com/gD7svmm2wb",
+					"expanded_url": "https://twitter.com/msbsound/status/1240619217667231744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240617989579268000,
+					"id_str": "1240617989579268097",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240617989579268097/pu/img/X9zgLo5YOFal3uQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240617989579268097/pu/img/X9zgLo5YOFal3uQj.jpg",
+					"url": "https://t.co/gD7svmm2wb",
+					"display_url": "pic.twitter.com/gD7svmm2wb",
+					"expanded_url": "https://twitter.com/msbsound/status/1240619217667231744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 59542,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1240617989579268097/pu/pl/B19OOI04nzCFCIn1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1240617989579268097/pu/vid/854x480/PfAbOMWkrLVNHRf4.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1240617989579268097/pu/vid/480x270/h_JCjMPXUgJoEXmH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1240617989579268097/pu/vid/640x360/oRNfRtMgL_Mq20vQ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8231,
+			"friends_count": 6569,
+			"listed_count": 108,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#선우정아 의 #재즈클럽 이 성공적으로 정식오픈을 하였습니다. 1500명의 랜선 관객님들과 함께 한 재즈박스 그랜드 - 오픈! 혹시 라이브 놓치셨던 분들은 지금 선우정아 유튜브에서 감상해보세요😉\n\n🍷 https://t.co/4Xxs9YOsCA https://t.co/gD7svmm2wb"
+	},
+	{
+		"created_at": "Thu Mar 19 13:37:25 +0000 2020",
+		"id": 1240633476652699600,
+		"id_str": "1240633476652699651",
+		"full_text": "#EO\n롯데가 투자한 물류 스타트업 '나우픽'이 쿠팡, 배민과 경쟁할 수 있을까?\nhttps://t.co/XOLIg0s9Wr\n#스타트업 #태용 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EO",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XOLIg0s9Wr",
+					"expanded_url": "https://youtu.be/L7rYVSjsg-I",
+					"display_url": "youtu.be/L7rYVSjsg-I",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EO\n롯데가 투자한 물류 스타트업 '나우픽'이 쿠팡, 배민과 경쟁할 수 있을까?\nhttps://t.co/XOLIg0s9Wr\n#스타트업 #태용 #minfav"
+	},
+	{
+		"created_at": "Thu Mar 19 13:23:39 +0000 2020",
+		"id": 1240621621406130200,
+		"id_str": "1240630011251417088",
+		"full_text": "\"이재웅 쏘카 전 대표는 불법파견을 해왔다는 사실은 지금까지 부인하면서 자신의 입지가 불리해지면 1만2000명의 드라이버를 볼모로 내세워 정부가 책임지라고 말해왔다. 이에 드라이버들은 참을 수 없는 분노를 느꼈고 그들에게 맞서기 위해 수단과 방법을 가리지 않겠다\"\n\nhttps://t.co/dWHVrQw0iZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dWHVrQw0iZ",
+					"expanded_url": "http://m.pressian.com/m/m_article/?no=284175",
+					"display_url": "m.pressian.com/m/m_article/?n…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101700883,
+			"id_str": "101700883",
+			"name": "언론 협동조합 프레시안",
+			"screen_name": "PRESSIAN_news",
+			"location": "서울",
+			"description": "언론 협동조합 프레시안 공식 트위터입니다",
+			"url": "http://t.co/yBOp0OQBd4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/yBOp0OQBd4",
+							"expanded_url": "http://www.PRESSIAN.com",
+							"display_url": "PRESSIAN.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184819,
+			"friends_count": 56312,
+			"listed_count": 3758,
+			"created_at": "Mon Jan 04 08:23:21 +0000 2010",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000184902587/a45647c1bfd893d99b4bf8417b87411a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000184902587/a45647c1bfd893d99b4bf8417b87411a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101700883/1583312163",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"이재웅 쏘카 전 대표는 불법파견을 해왔다는 사실은 지금까지 부인하면서 자신의 입지가 불리해지면 1만2000명의 드라이버를 볼모로 내세워 정부가 책임지라고 말해왔다. 이에 드라이버들은 참을 수 없는 분노를 느꼈고 그들에게 맞서기 위해 수단과 방법을 가리지 않겠다\"\n\nhttps://t.co/dWHVrQw0iZ"
+	},
+	{
+		"created_at": "Thu Mar 19 13:15:58 +0000 2020",
+		"id": 1240626537616924700,
+		"id_str": "1240628080810414082",
+		"full_text": "[JAZZ BOX vol.1] 선우정아 재즈클럽 무사히 정식오픈 마쳤고 이거슨 그 날의 편집본✂️❤️  https://t.co/y9bwoXGQB2 - @YouTube #재즈박스  #jazzbox #swja",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재즈박스",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "jazzbox",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "swja",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y9bwoXGQB2",
+					"expanded_url": "https://youtu.be/Dpb8O6FzPd0",
+					"display_url": "youtu.be/Dpb8O6FzPd0",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13526,
+			"friends_count": 129,
+			"listed_count": 60,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1575982490",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[JAZZ BOX vol.1] 선우정아 재즈클럽 무사히 정식오픈 마쳤고 이거슨 그 날의 편집본✂️❤️  https://t.co/y9bwoXGQB2 - @YouTube #재즈박스  #jazzbox #swja"
+	},
+	{
 		"created_at": "Thu Mar 19 12:59:22 +0000 2020",
 		"id": 1240448189418705000,
 		"id_str": "1240623899999490049",
