@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 04:23:35 +0000 2020",
+		"id": 1240200575297478700,
+		"id_str": "1240494100748500992",
+		"full_text": "#인터파크티켓 #티켓오픈소식 #주요티켓오픈\n뮤지컬 드라큘라 (Dracula：The Musical) 추가 회차 티켓오픈 안내 : 20.03.24(화) 14:00\nhttps://t.co/2GJcbo5Ly5 https://t.co/dc7X0ARObF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "주요티켓오픈",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2GJcbo5Ly5",
+					"expanded_url": "http://bit.ly/3a0GfRQ",
+					"display_url": "bit.ly/3a0GfRQ",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240200574391500800,
+					"id_str": "1240200574391500802",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ETYT2f7XQAIuYmN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETYT2f7XQAIuYmN.jpg",
+					"url": "https://t.co/dc7X0ARObF",
+					"display_url": "pic.twitter.com/dc7X0ARObF",
+					"expanded_url": "https://twitter.com/InterTicketOpen/status/1240200575297478656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240200574391500800,
+					"id_str": "1240200574391500802",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ETYT2f7XQAIuYmN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETYT2f7XQAIuYmN.jpg",
+					"url": "https://t.co/dc7X0ARObF",
+					"display_url": "pic.twitter.com/dc7X0ARObF",
+					"expanded_url": "https://twitter.com/InterTicketOpen/status/1240200575297478656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1210277696464248800,
+			"id_str": "1210277696464248832",
+			"name": "인터파크 티켓 - 티켓오픈소식",
+			"screen_name": "InterTicketOpen",
+			"location": "",
+			"description": "#인터파크티켓 #티켓오픈소식 비공식 봇\n#주요티켓오픈 \n\n@YES24TicketOpen @MelonTicketOpen",
+			"url": "https://t.co/O3Spoldw9S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O3Spoldw9S",
+							"expanded_url": "http://ticket.interpark.com/webzine/paper/TPNoticeList.asp",
+							"display_url": "ticket.interpark.com/webzine/paper/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Dec 26 19:14:33 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210277915377594368/N2kpJZh2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210277915377594368/N2kpJZh2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1210277696464248832/1583569240",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓 #티켓오픈소식 #주요티켓오픈\n뮤지컬 드라큘라 (Dracula：The Musical) 추가 회차 티켓오픈 안내 : 20.03.24(화) 14:00\nhttps://t.co/2GJcbo5Ly5 https://t.co/dc7X0ARObF"
+	},
+	{
 		"created_at": "Thu Mar 19 04:02:28 +0000 2020",
 		"id": 1240488787089584000,
 		"id_str": "1240488787089584128",
