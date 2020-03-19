@@ -1,6 +1,1166 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 04:02:28 +0000 2020",
+		"id": 1240488787089584000,
+		"id_str": "1240488787089584128",
+		"full_text": "코로나만 아니었으면 길거리에 흑청자켓이랑 청자켓 클론으로 깔려서 입고 다니는 것 볼 수 있었을텐데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "코로나만 아니었으면 길거리에 흑청자켓이랑 청자켓 클론으로 깔려서 입고 다니는 것 볼 수 있었을텐데."
+	},
+	{
+		"created_at": "Thu Mar 19 03:44:21 +0000 2020",
+		"id": 1240366110165237800,
+		"id_str": "1240484225150676992",
+		"full_text": "Billboard News: #KatyPerry is off the hook for the $2.8M \"Dark Horse\" copyright verdict. #BillboardNews https://t.co/q1viL5Tp1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KatyPerry",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "BillboardNews",
+					"indices": [
+						89,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240340503725396000,
+					"id_str": "1240340503725395968",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ETaigrNXkAEoDos.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETaigrNXkAEoDos.jpg",
+					"url": "https://t.co/q1viL5Tp1r",
+					"display_url": "pic.twitter.com/q1viL5Tp1r",
+					"expanded_url": "https://twitter.com/billboard/status/1240366110165237760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240340503725396000,
+					"id_str": "1240340503725395968",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ETaigrNXkAEoDos.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETaigrNXkAEoDos.jpg",
+					"url": "https://t.co/q1viL5Tp1r",
+					"display_url": "pic.twitter.com/q1viL5Tp1r",
+					"expanded_url": "https://twitter.com/billboard/status/1240366110165237760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 67568,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1240340503725395968/vid/480x270/bLr6MlhGoQp8yEQO.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1240340503725395968/pl/Bxx6wMQVXXl7fOK4.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1240340503725395968/vid/1280x720/sUkidamB36cuPmRS.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1240340503725395968/vid/640x360/oC2T2m9Fseujx5Lx.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Katy Perry Off the Hook for $2.8M 'Dark Horse' Copyright Verdict",
+						"description": "More than a half a year after a California jury stunned the music world by punishing Perry for ripping off a Christian rapper's song, a judge finds there was nothing protectable to infringe.",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/3IA5YKU30t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IA5YKU30t",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8476578,
+			"friends_count": 3195,
+			"listed_count": 25762,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 6387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 245136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1584028138",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 1176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billboard News: #KatyPerry is off the hook for the $2.8M \"Dark Horse\" copyright verdict. #BillboardNews https://t.co/q1viL5Tp1r"
+	},
+	{
+		"created_at": "Thu Mar 19 03:43:47 +0000 2020",
+		"id": 1240484085350281200,
+		"id_str": "1240484085350281216",
+		"full_text": "새로운 미디어와 채널이 계속 생겨서 덕질 DB나 베이스를 만들려면 계속 파악하고 추가해줘야 한다. 그리고 유튜브나 트위터의 경우 채널이 어디서 운영되고 있는지 사명이나 플랫폼명을 숨겨두는 경우도 많다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "새로운 미디어와 채널이 계속 생겨서 덕질 DB나 베이스를 만들려면 계속 파악하고 추가해줘야 한다. 그리고 유튜브나 트위터의 경우 채널이 어디서 운영되고 있는지 사명이나 플랫폼명을 숨겨두는 경우도 많다."
+	},
+	{
+		"created_at": "Thu Mar 19 03:38:51 +0000 2020",
+		"id": 1239371653873668000,
+		"id_str": "1240482842225737728",
+		"full_text": "#아이돌차트 에서 만날 수 있는 특별한 이벤트!\n#이달의소녀 #현진 #이브 #진솔 #올리비아혜 사인볼을 획득해 보세요!\n응모수가 많을 수록 당첨 확률이 올라가니 최대한 빠르게 오는게 좋겠쥬? 샥샥~\n#LOONA #sowhat #Hyunjin #Yves #Jinsuol #OliviaHye\n\n이벤트 참여 및 안내 https://t.co/05oWqWZaSl https://t.co/NrU5vYUWf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌차트",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "sowhat",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "Hyunjin",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "Jinsuol",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/05oWqWZaSl",
+					"expanded_url": "https://www.idol-chart.com/event/?mode=view&no=44",
+					"display_url": "idol-chart.com/event/?mode=vi…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239371569371033600,
+					"id_str": "1239371569371033602",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/ETMh4DkUMAIN1rD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETMh4DkUMAIN1rD.jpg",
+					"url": "https://t.co/NrU5vYUWf3",
+					"display_url": "pic.twitter.com/NrU5vYUWf3",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1239371653873668096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239371569371033600,
+					"id_str": "1239371569371033602",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/ETMh4DkUMAIN1rD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETMh4DkUMAIN1rD.jpg",
+					"url": "https://t.co/NrU5vYUWf3",
+					"display_url": "pic.twitter.com/NrU5vYUWf3",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1239371653873668096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239371599129673700,
+					"id_str": "1239371599129673728",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/ETMh5ybVAAAcifR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETMh5ybVAAAcifR.jpg",
+					"url": "https://t.co/NrU5vYUWf3",
+					"display_url": "pic.twitter.com/NrU5vYUWf3",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1239371653873668096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1520,
+							"h": 2026,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1736,
+			"friends_count": 33,
+			"listed_count": 17,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 372,
+		"favorite_count": 609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아이돌차트 에서 만날 수 있는 특별한 이벤트!\n#이달의소녀 #현진 #이브 #진솔 #올리비아혜 사인볼을 획득해 보세요!\n응모수가 많을 수록 당첨 확률이 올라가니 최대한 빠르게 오는게 좋겠쥬? 샥샥~\n#LOONA #sowhat #Hyunjin #Yves #Jinsuol #OliviaHye\n\n이벤트 참여 및 안내 https://t.co/05oWqWZaSl https://t.co/NrU5vYUWf3"
+	},
+	{
+		"created_at": "Thu Mar 19 03:38:38 +0000 2020",
+		"id": 1240457740327116800,
+		"id_str": "1240482790610616320",
+		"full_text": "[#아이돌차트]\n드디어 기다리고 기다리던 아차초대석📺\n첫번째 주인공 #이달의소녀 영상이 최초 공개중입니다!\n2, 3편도 있으니 쪼~금만 기다려주세요!\n#LOONA #이브 #진솔 #현진 #올리비아혜 #Yves #JinSoul #HyunJin #OliviaHye\n\n최초공개보러가기👉https://t.co/ntkjXBy9gp https://t.co/S7sehz35Fn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌차트",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						134,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ntkjXBy9gp",
+					"expanded_url": "https://youtu.be/MW_tHMRoq3k",
+					"display_url": "youtu.be/MW_tHMRoq3k",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240457295823134700,
+					"id_str": "1240457295823134721",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ETb9VpyUYAEHSr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETb9VpyUYAEHSr3.jpg",
+					"url": "https://t.co/S7sehz35Fn",
+					"display_url": "pic.twitter.com/S7sehz35Fn",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1240457740327116800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240457295823134700,
+					"id_str": "1240457295823134721",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ETb9VpyUYAEHSr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETb9VpyUYAEHSr3.jpg",
+					"url": "https://t.co/S7sehz35Fn",
+					"display_url": "pic.twitter.com/S7sehz35Fn",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1240457740327116800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1736,
+			"friends_count": 33,
+			"listed_count": 17,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌차트]\n드디어 기다리고 기다리던 아차초대석📺\n첫번째 주인공 #이달의소녀 영상이 최초 공개중입니다!\n2, 3편도 있으니 쪼~금만 기다려주세요!\n#LOONA #이브 #진솔 #현진 #올리비아혜 #Yves #JinSoul #HyunJin #OliviaHye\n\n최초공개보러가기👉https://t.co/ntkjXBy9gp https://t.co/S7sehz35Fn"
+	},
+	{
+		"created_at": "Thu Mar 19 03:37:48 +0000 2020",
+		"id": 1240476758782046200,
+		"id_str": "1240482577896464387",
+		"full_text": "코로나19 바이러스로 인해 사회적 거리두기 중인 사람들을 위해 콜드플레이(@coldplay)의 크리스 마틴은 인스타그램 라이브를 통해 #TogetherAtHome 콘서트를 열었습니다. 존 레전드(@johnlegend)도 뒤이어 #TogetherAtHome '방구석 콘서트'를 개최할 예정입니다.\n\nhttps://t.co/2EDqMRY1Md",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TogetherAtHome",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"text": "TogetherAtHome",
+					"indices": [
+						127,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay🌙☀️",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"screen_name": "johnlegend",
+					"name": "John Legend",
+					"id": 18228898,
+					"id_str": "18228898",
+					"indices": [
+						109,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2EDqMRY1Md",
+					"expanded_url": "https://www.billboard.com/articles/news/9336191/coldplaychris-martin-live-stream-concert?utm_medium=social&utm_source=twitter",
+					"display_url": "billboard.com/articles/news/…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20038,
+			"friends_count": 16,
+			"listed_count": 78,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1583207273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 바이러스로 인해 사회적 거리두기 중인 사람들을 위해 콜드플레이(@coldplay)의 크리스 마틴은 인스타그램 라이브를 통해 #TogetherAtHome 콘서트를 열었습니다. 존 레전드(@johnlegend)도 뒤이어 #TogetherAtHome '방구석 콘서트'를 개최할 예정입니다.\n\nhttps://t.co/2EDqMRY1Md"
+	},
+	{
 		"created_at": "Thu Mar 19 03:00:54 +0000 2020",
 		"id": 1240473292252815400,
 		"id_str": "1240473292252815372",
