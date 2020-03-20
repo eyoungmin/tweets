@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 09:26:07 +0000 2020",
+		"id": 1240932623431671800,
+		"id_str": "1240932623431671808",
+		"full_text": "#BBC코리아\n코로나19: 마스크 대란 속 전쟁터가 된 약국\nhttps://t.co/GoCrOEJv5f\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GoCrOEJv5f",
+					"expanded_url": "https://www.bbc.com/korean/news-51973762",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n뮤직비지니스 & 예술경영 @EntRecruitKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 910,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 38770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n코로나19: 마스크 대란 속 전쟁터가 된 약국\nhttps://t.co/GoCrOEJv5f\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Fri Mar 20 09:24:40 +0000 2020",
+		"id": 1240926042916708400,
+		"id_str": "1240932257235337217",
+		"full_text": "거브제로 홈 해커톤(@g0vtw Hack from Home Hackath38n)\n　\n대만 거브제로 온라인 해커톤에 빠띠의 민주주의랩이 참여했어요. 허스토리 프로젝트를 오거나이징하고 공동작업 했답니다.\n　　\n🌏 https://t.co/ah4Ez2pKtD\n🧑🏻 허스토리 https://t.co/mIl2Nn75Mw\n\n2020/03/14 토 \n@nullfull_kr @codeforJP https://t.co/ZIVNJ85FAP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "g0vtw",
+					"name": "g0v.tw | 台灣零時政府",
+					"id": 1337150378,
+					"id_str": "1337150378",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"screen_name": "nullfull_kr",
+					"name": "nullfull_kr",
+					"id": 1239532243577495600,
+					"id_str": "1239532243577495552",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"screen_name": "codeforJP",
+					"name": "Code for Japan",
+					"id": 291104255,
+					"id_str": "291104255",
+					"indices": [
+						201,
+						211
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ah4Ez2pKtD",
+					"expanded_url": "https://intro.g0v.ronny.tw/meet/channel/g0v-hackath38n/9",
+					"display_url": "intro.g0v.ronny.tw/meet/channel/g…",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/mIl2Nn75Mw",
+					"expanded_url": "https://herstory-of-east-asia.netlify.com/",
+					"display_url": "herstory-of-east-asia.netlify.com",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240925293092589600,
+					"id_str": "1240925293092589568",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ETim-reU0AA8Vqs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETim-reU0AA8Vqs.jpg",
+					"url": "https://t.co/ZIVNJ85FAP",
+					"display_url": "pic.twitter.com/ZIVNJ85FAP",
+					"expanded_url": "https://twitter.com/parti_coop/status/1240926042916708352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240925293092589600,
+					"id_str": "1240925293092589568",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ETim-reU0AA8Vqs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETim-reU0AA8Vqs.jpg",
+					"url": "https://t.co/ZIVNJ85FAP",
+					"display_url": "pic.twitter.com/ZIVNJ85FAP",
+					"expanded_url": "https://twitter.com/parti_coop/status/1240926042916708352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1240925323098611700,
+					"id_str": "1240925323098611712",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ETinAbQUYAAheB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETinAbQUYAAheB3.jpg",
+					"url": "https://t.co/ZIVNJ85FAP",
+					"display_url": "pic.twitter.com/ZIVNJ85FAP",
+					"expanded_url": "https://twitter.com/parti_coop/status/1240926042916708352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 717,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 765,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1240925355231207400,
+					"id_str": "1240925355231207424",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ETinCS9U4AA6KAO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETinCS9U4AA6KAO.jpg",
+					"url": "https://t.co/ZIVNJ85FAP",
+					"display_url": "pic.twitter.com/ZIVNJ85FAP",
+					"expanded_url": "https://twitter.com/parti_coop/status/1240926042916708352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1208,
+							"h": 882,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 876,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 148,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "거브제로 홈 해커톤(@g0vtw Hack from Home Hackath38n)\n　\n대만 거브제로 온라인 해커톤에 빠띠의 민주주의랩이 참여했어요. 허스토리 프로젝트를 오거나이징하고 공동작업 했답니다.\n　　\n🌏 https://t.co/ah4Ez2pKtD\n🧑🏻 허스토리 https://t.co/mIl2Nn75Mw\n\n2020/03/14 토 \n@nullfull_kr @codeforJP https://t.co/ZIVNJ85FAP"
+	},
+	{
+		"created_at": "Fri Mar 20 09:24:32 +0000 2020",
+		"id": 1240924558183420000,
+		"id_str": "1240932223139930114",
+		"full_text": "* 스티비는 Xyzorba를 포함한 좋은 뉴스레터를 지원하고 있습니다. 크리에이터,미디어 프로그램이 궁금하신가요? 👉https://t.co/dQh591hhHd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dQh591hhHd",
+					"expanded_url": "https://stib.ee/uA32",
+					"display_url": "stib.ee/uA32",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1240924497500196900,
+		"in_reply_to_status_id_str": "1240924497500196867",
+		"in_reply_to_user_id": 3060719996,
+		"in_reply_to_user_id_str": "3060719996",
+		"in_reply_to_screen_name": "stibeemail",
+		"user": {
+			"id": 3060719996,
+			"id_str": "3060719996",
+			"name": "스티비",
+			"screen_name": "stibeemail",
+			"location": "Seoul, Republic of Korea",
+			"description": "모두를 위한 #이메일마케팅",
+			"url": "https://t.co/cxE6SH6mda",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cxE6SH6mda",
+							"expanded_url": "https://stibee.com",
+							"display_url": "stibee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 12,
+			"listed_count": 10,
+			"created_at": "Wed Mar 04 02:29:04 +0000 2015",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230772107094577152/IQDdZ2fb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230772107094577152/IQDdZ2fb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060719996/1582274888",
+			"profile_link_color": "3E81F6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "* 스티비는 Xyzorba를 포함한 좋은 뉴스레터를 지원하고 있습니다. 크리에이터,미디어 프로그램이 궁금하신가요? 👉https://t.co/dQh591hhHd"
+	},
+	{
 		"created_at": "Fri Mar 20 07:56:04 +0000 2020",
 		"id": 1240909960852189200,
 		"id_str": "1240909960852189184",
