@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 04:24:47 +0000 2020",
+		"id": 1240844298242764800,
+		"id_str": "1240856790020939776",
+		"full_text": "5. 함께 의사 결정 내려요. 🗳\n‘빠띠 타운홀’로 구성원들의 의견을 실시간으로 파악하고 토론을 이어 나가요. ‘제안'과 ‘배틀’ 기능으로 투표, 토론, 숙의, 최종 의사 결정해요.\n\n🌈모두가 참여하는 회의, 행사, 워크숍을 위한 \n‘빠띠 타운홀'을 무료로 이용해보세요. https://t.co/3Gk1oqKcMx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Gk1oqKcMx",
+					"expanded_url": "https://townhall.kr/",
+					"display_url": "townhall.kr",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240844295403233300,
+		"in_reply_to_status_id_str": "1240844295403233280",
+		"in_reply_to_user_id": 4924449355,
+		"in_reply_to_user_id_str": "4924449355",
+		"in_reply_to_screen_name": "parti_coop",
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 148,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5. 함께 의사 결정 내려요. 🗳\n‘빠띠 타운홀’로 구성원들의 의견을 실시간으로 파악하고 토론을 이어 나가요. ‘제안'과 ‘배틀’ 기능으로 투표, 토론, 숙의, 최종 의사 결정해요.\n\n🌈모두가 참여하는 회의, 행사, 워크숍을 위한 \n‘빠띠 타운홀'을 무료로 이용해보세요. https://t.co/3Gk1oqKcMx"
+	},
+	{
+		"created_at": "Fri Mar 20 04:24:42 +0000 2020",
+		"id": 1240844295403233300,
+		"id_str": "1240856768361742336",
+		"full_text": "3. 역할 분배해요. 👯‍♀️\n진행자, 타임 키퍼, 공동 기록하는 사람을 정해요. \n　\n4. 시간표에 맞게 진행해요. ⏰\n진행자나 타임키퍼가 특정 안건에 대한 논의가 길어지지 않도록 시간 알림을 합니다. 대면 회의보다 더 깊은 집중을 요하기 때문에, 중요한건 적절한 휴식 안배임을 잊지 마세요. 😉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240844293301928000,
+		"in_reply_to_status_id_str": "1240844293301927936",
+		"in_reply_to_user_id": 4924449355,
+		"in_reply_to_user_id_str": "4924449355",
+		"in_reply_to_screen_name": "parti_coop",
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 148,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "3. 역할 분배해요. 👯‍♀️\n진행자, 타임 키퍼, 공동 기록하는 사람을 정해요. \n　\n4. 시간표에 맞게 진행해요. ⏰\n진행자나 타임키퍼가 특정 안건에 대한 논의가 길어지지 않도록 시간 알림을 합니다. 대면 회의보다 더 깊은 집중을 요하기 때문에, 중요한건 적절한 휴식 안배임을 잊지 마세요. 😉"
+	},
+	{
+		"created_at": "Fri Mar 20 04:24:34 +0000 2020",
+		"id": 1240844293301928000,
+		"id_str": "1240856734236901376",
+		"full_text": "❝온라인 회의/워크숍 이렇게 하면 잘 돼요❞\n1. 자세히 안내해요. 📣\n회의시 사용하는 온라인 도구, 사전 준비해야할 것, 당일 주의 사항 등을 알려요. \n　\n2. 미리 준비해요. 📝\n온라인 회의를 참여하는 공간은 조용한지, 하드/소프트웨어를 갖췄는지 테스트합니다. 약속한 시간에 맞춰 입장해요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240844289527009300,
+		"in_reply_to_status_id_str": "1240844289527009280",
+		"in_reply_to_user_id": 4924449355,
+		"in_reply_to_user_id_str": "4924449355",
+		"in_reply_to_screen_name": "parti_coop",
+		"user": {
+			"id": 4924449355,
+			"id_str": "4924449355",
+			"name": "빠띠 Parti Co-op",
+			"screen_name": "parti_coop",
+			"location": "Republic of Korea",
+			"description": "빠띠는 민주주의를 혁신하고 일상에 확산하는 민주주의 활동가 사회적협동조합입니다. \nParti, a co-op comprised of democracy activists, work to innovate and promote democracy in people’s daily lives.",
+			"url": "https://t.co/Qa3tqo9emC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa3tqo9emC",
+							"expanded_url": "https://parti.coop",
+							"display_url": "parti.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 148,
+			"listed_count": 5,
+			"created_at": "Thu Feb 18 07:08:05 +0000 2016",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039067593141706753/XusvTgrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4924449355/1537501292",
+			"profile_link_color": "966FD6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝온라인 회의/워크숍 이렇게 하면 잘 돼요❞\n1. 자세히 안내해요. 📣\n회의시 사용하는 온라인 도구, 사전 준비해야할 것, 당일 주의 사항 등을 알려요. \n　\n2. 미리 준비해요. 📝\n온라인 회의를 참여하는 공간은 조용한지, 하드/소프트웨어를 갖췄는지 테스트합니다. 약속한 시간에 맞춰 입장해요."
+	},
+	{
 		"created_at": "Fri Mar 20 03:59:22 +0000 2020",
 		"id": 1240825955431493600,
 		"id_str": "1240850392180637696",
