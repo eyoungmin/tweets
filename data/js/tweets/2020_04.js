@@ -1,6 +1,912 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 11:27:26 +0000 2020",
+		"id": 1245300394781061000,
+		"id_str": "1245311808962834433",
+		"full_text": "안녕 4월의 첫날 잘 지내고 있나요. 오늘은 &lt;꾸꾸꾸&gt; 악보를 준비했습니다! 어제 발매 된 비사이드 두번째파트 음원들도 많이 들어주세요. 고맙습니다(੭•̀ᴗ•̀)੭ https://t.co/cuvPNP8AaN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245300382667956200,
+					"id_str": "1245300382667956224",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EUgyGaOU4AAJjst.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUgyGaOU4AAJjst.jpg",
+					"url": "https://t.co/cuvPNP8AaN",
+					"display_url": "pic.twitter.com/cuvPNP8AaN",
+					"expanded_url": "https://twitter.com/studiobroccoli/status/1245300394781061121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1133,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245300382667956200,
+					"id_str": "1245300382667956224",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EUgyGaOU4AAJjst.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUgyGaOU4AAJjst.jpg",
+					"url": "https://t.co/cuvPNP8AaN",
+					"display_url": "pic.twitter.com/cuvPNP8AaN",
+					"expanded_url": "https://twitter.com/studiobroccoli/status/1245300394781061121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1133,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 929392287053836300,
+			"id_str": "929392287053836288",
+			"name": "브로콜리너마저",
+			"screen_name": "studiobroccoli",
+			"location": "",
+			"description": "밴드 브로콜리너마저 입니다. 070-7745-3003 broccoliyoutoo@gmail.com https://t.co/tLNzk6AXwx",
+			"url": "https://t.co/MBSb6ZMhK7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MBSb6ZMhK7",
+							"expanded_url": "http://broccoliyoutoo.com",
+							"display_url": "broccoliyoutoo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tLNzk6AXwx",
+							"expanded_url": "http://www.youtube.com/VIDEOBROCCOLIYOUTOO",
+							"display_url": "youtube.com/VIDEOBROCCOLIY…",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 315,
+			"listed_count": 1,
+			"created_at": "Sat Nov 11 16:56:03 +0000 2017",
+			"favourites_count": 2195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/929393624239939584/Czlxz7k4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/929393624239939584/Czlxz7k4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/929392287053836288/1579254457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "안녕 4월의 첫날 잘 지내고 있나요. 오늘은 &lt;꾸꾸꾸&gt; 악보를 준비했습니다! 어제 발매 된 비사이드 두번째파트 음원들도 많이 들어주세요. 고맙습니다(੭•̀ᴗ•̀)੭ https://t.co/cuvPNP8AaN"
+	},
+	{
+		"created_at": "Wed Apr 01 11:21:12 +0000 2020",
+		"id": 1245305066023616500,
+		"id_str": "1245310240574169088",
+		"full_text": "최강창민의 힐링 1% | 창민이 건네는 'Chocolate'은 카카오 99%짜리였다 #MAX\n\n👉https://t.co/QGMw1U87xe\n\n#최강창민 #MAX #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate #4월6일_솔로앨범 #초콜릿",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "MAX",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						109,
+						123
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						124,
+						139
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "4월6일_솔로앨범",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "초콜릿",
+					"indices": [
+						162,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QGMw1U87xe",
+					"expanded_url": "https://youtu.be/_YQECgOXGNA",
+					"display_url": "youtu.be/_YQECgOXGNA",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265494,
+			"friends_count": 1,
+			"listed_count": 938,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2252,
+		"favorite_count": 3211,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최강창민의 힐링 1% | 창민이 건네는 'Chocolate'은 카카오 99%짜리였다 #MAX\n\n👉https://t.co/QGMw1U87xe\n\n#최강창민 #MAX #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate #4월6일_솔로앨범 #초콜릿"
+	},
+	{
+		"created_at": "Wed Apr 01 11:20:36 +0000 2020",
+		"id": 1245278065602646000,
+		"id_str": "1245310088262193153",
+		"full_text": "4월 3일 금요일 저녁 7시 30분!\n대반전 음악 추리쇼 &lt;너의 목소리가 보여 시즌7&gt; 자우림 편이 방송됩니다.\n#자우림 #mnet #너목보 https://t.co/er8OToinTc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "mnet",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "너목보",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245278002893566000,
+					"id_str": "1245278002893565953",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245278002893565953/pu/img/Y9xQs13jsUuhS_5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245278002893565953/pu/img/Y9xQs13jsUuhS_5j.jpg",
+					"url": "https://t.co/er8OToinTc",
+					"display_url": "pic.twitter.com/er8OToinTc",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1245278065602646016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 886,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245278002893566000,
+					"id_str": "1245278002893565953",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245278002893565953/pu/img/Y9xQs13jsUuhS_5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245278002893565953/pu/img/Y9xQs13jsUuhS_5j.jpg",
+					"url": "https://t.co/er8OToinTc",
+					"display_url": "pic.twitter.com/er8OToinTc",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1245278065602646016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 886,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							443,
+							249
+						],
+						"duration_millis": 33175,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245278002893565953/pu/vid/886x498/F_eYB9bQ6lsRl7S4.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245278002893565953/pu/vid/640x360/Lc9CVVqOMMzZUaAn.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1245278002893565953/pu/pl/9mlS-mgxGMvpKKW0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245278002893565953/pu/vid/480x270/XqEj5NTUcF59MvYT.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다. 정규 10집 [자우림] 2018년 6월 22일 발매 / 콘서트 [윈터 원더랜드] 2018년 12월 24-25일 서울코엑스 hall D, 29일 KBS부산홀",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1611,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007101229317550080/_cesaqJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1542078244",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4월 3일 금요일 저녁 7시 30분!\n대반전 음악 추리쇼 &lt;너의 목소리가 보여 시즌7&gt; 자우림 편이 방송됩니다.\n#자우림 #mnet #너목보 https://t.co/er8OToinTc"
+	},
+	{
+		"created_at": "Wed Apr 01 11:18:44 +0000 2020",
+		"id": 1244930784365969400,
+		"id_str": "1245309620840566784",
+		"full_text": "제시카 틱톡 수정이 https://t.co/pe1DgbCBzu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244930740288024600,
+					"id_str": "1244930740288024577",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244930740288024577/pu/img/ZY4Y2wRySGcW6DWc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244930740288024577/pu/img/ZY4Y2wRySGcW6DWc.jpg",
+					"url": "https://t.co/pe1DgbCBzu",
+					"display_url": "pic.twitter.com/pe1DgbCBzu",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1244930784365969408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244930740288024600,
+					"id_str": "1244930740288024577",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244930740288024577/pu/img/ZY4Y2wRySGcW6DWc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244930740288024577/pu/img/ZY4Y2wRySGcW6DWc.jpg",
+					"url": "https://t.co/pe1DgbCBzu",
+					"display_url": "pic.twitter.com/pe1DgbCBzu",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1244930784365969408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 9868,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244930740288024577/pu/vid/320x568/Dp4JsZ3xRUkgx3p6.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244930740288024577/pu/vid/540x960/FYCk6SgBCEOhTInB.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244930740288024577/pu/vid/360x640/9uxfkHg3qE6OZJtr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1244930740288024577/pu/pl/HhyCoJ2m_gxOJRoN.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3308936688,
+			"id_str": "3308936688",
+			"name": "수정이 저장소",
+			"screen_name": "saveKRYSTAL",
+			"location": "fan account",
+			"description": "𝐦𝐲 𝐨𝐧𝐞 𝐚𝐧𝐝 𝐨𝐧𝐥𝐲 𝐣𝐮𝐧𝐠𝐬𝐨𝐨𝐣𝐮𝐧𝐠",
+			"url": "https://t.co/cLkBsX6961",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cLkBsX6961",
+							"expanded_url": "http://Instagram.com/vousmevoyez",
+							"display_url": "Instagram.com/vousmevoyez",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43737,
+			"friends_count": 0,
+			"listed_count": 1171,
+			"created_at": "Fri Aug 07 18:18:52 +0000 2015",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244242294754050053/i_89X9gn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244242294754050053/i_89X9gn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308936688/1570248590",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1274,
+		"favorite_count": 1482,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제시카 틱톡 수정이 https://t.co/pe1DgbCBzu"
+	},
+	{
+		"created_at": "Wed Apr 01 11:18:31 +0000 2020",
+		"id": 1245309562711728000,
+		"id_str": "1245309562711728128",
+		"full_text": "@HAVAQQUQ 자바스크립트 할 줄 아시면 카카오봇 어플리케이션 만들어져 있는 것으로도 할 수 있을 거에요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HAVAQQUQ",
+					"name": "하박국HAVAQQUQ",
+					"id": 8098922,
+					"id_str": "8098922",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1245309142362800000,
+		"in_reply_to_status_id_str": "1245309142362800128",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@HAVAQQUQ 자바스크립트 할 줄 아시면 카카오봇 어플리케이션 만들어져 있는 것으로도 할 수 있을 거에요."
+	},
+	{
 		"created_at": "Wed Apr 01 10:23:16 +0000 2020",
 		"id": 1245295661073010700,
 		"id_str": "1245295661073010689",
