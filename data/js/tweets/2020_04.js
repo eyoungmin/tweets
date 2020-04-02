@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 20:35:26 +0000 2020",
+		"id": 1245164998701150200,
+		"id_str": "1245812106848436224",
+		"full_text": "[전 국민 대상 1달간 무료]\n책 봄으로 봄을 느껴요!\n\n전자책, 오디오북\n4월 한 달간 무료 제공\n\n힘내라 대한민국!\n코로나 19 극복을 위한 책과 함께 슬기로운 거리 두기\n\n#문화체육관광부 #한국출판문화산업진흥원\n#책쉼터 #전자도서관 #교보문고\n\nhttps://t.co/t2cxCg0Pmm https://t.co/6A48bY6T3L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화체육관광부",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "한국출판문화산업진흥원",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "책쉼터",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "전자도서관",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "교보문고",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t2cxCg0Pmm",
+					"expanded_url": "http://m.kyobobook.co.kr/digital/event/eventTemplate.ink?tmplSeq=52888",
+					"display_url": "m.kyobobook.co.kr/digital/event/…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245164991264718800,
+					"id_str": "1245164991264718848",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EUe29l8WAAA55aD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUe29l8WAAA55aD.jpg",
+					"url": "https://t.co/6A48bY6T3L",
+					"display_url": "pic.twitter.com/6A48bY6T3L",
+					"expanded_url": "https://twitter.com/kyobo_comix/status/1245164998701150208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 654,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 654,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 635,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245164991264718800,
+					"id_str": "1245164991264718848",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EUe29l8WAAA55aD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUe29l8WAAA55aD.jpg",
+					"url": "https://t.co/6A48bY6T3L",
+					"display_url": "pic.twitter.com/6A48bY6T3L",
+					"expanded_url": "https://twitter.com/kyobo_comix/status/1245164998701150208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 654,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 654,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 635,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 721919620739825700,
+			"id_str": "721919620739825664",
+			"name": "교보eBook (노벨&코믹스)",
+			"screen_name": "kyobo_comix",
+			"location": "",
+			"description": "교보eBook MD들의 사심 공간\n로맨스/BL/판타지/무협/라이트노벨/코믹스",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3955,
+			"friends_count": 3616,
+			"listed_count": 6,
+			"created_at": "Mon Apr 18 04:33:45 +0000 2016",
+			"favourites_count": 525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127796595104202754/ji-ONLwZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127796595104202754/ji-ONLwZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/721919620739825664/1558671759",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1262,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전 국민 대상 1달간 무료]\n책 봄으로 봄을 느껴요!\n\n전자책, 오디오북\n4월 한 달간 무료 제공\n\n힘내라 대한민국!\n코로나 19 극복을 위한 책과 함께 슬기로운 거리 두기\n\n#문화체육관광부 #한국출판문화산업진흥원\n#책쉼터 #전자도서관 #교보문고\n\nhttps://t.co/t2cxCg0Pmm https://t.co/6A48bY6T3L"
+	},
+	{
 		"created_at": "Thu Apr 02 18:20:30 +0000 2020",
 		"id": 1245540122356924400,
 		"id_str": "1245778145728331776",
