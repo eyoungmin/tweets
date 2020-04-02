@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 11:57:10 +0000 2020",
+		"id": 1245516297644806100,
+		"id_str": "1245681677730369543",
+		"full_text": "영국 BBC 방송은 “세계는 완전히 변할 것”이라고 했고, 미국 정치전문지 폴리티코는 “안전벨트를 단단히 매라”고 했다. 가디언, 포린폴리시 등 해외 언론들이 예측한 팬데믹 이후 세계정세 변화 시나리오는 무엇일까.\nhttps://t.co/HaWdUz1kgi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HaWdUz1kgi",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202004012122005&code=970100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738746,
+			"friends_count": 79932,
+			"listed_count": 6415,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영국 BBC 방송은 “세계는 완전히 변할 것”이라고 했고, 미국 정치전문지 폴리티코는 “안전벨트를 단단히 매라”고 했다. 가디언, 포린폴리시 등 해외 언론들이 예측한 팬데믹 이후 세계정세 변화 시나리오는 무엇일까.\nhttps://t.co/HaWdUz1kgi"
+	},
+	{
 		"created_at": "Thu Apr 02 07:51:54 +0000 2020",
 		"id": 1245619776681939000,
 		"id_str": "1245619955048960001",
@@ -726,7 +832,7 @@ Grailbird.data.tweets_2020_04 =
 		"created_at": "Thu Apr 02 07:42:27 +0000 2020",
 		"id": 1244630341827956700,
 		"id_str": "1245617575045685248",
-		"full_text": "🤦🏻‍♀️ https://t.co/ZeXke6Q6Q1",
+		"full_text": "🤦🏻♀️ https://t.co/ZeXke6Q6Q1",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -917,7 +1023,7 @@ Grailbird.data.tweets_2020_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🤦🏻‍♀️ https://t.co/ZeXke6Q6Q1"
+		"text": "🤦🏻♀️ https://t.co/ZeXke6Q6Q1"
 	},
 	{
 		"created_at": "Thu Apr 02 07:41:56 +0000 2020",
