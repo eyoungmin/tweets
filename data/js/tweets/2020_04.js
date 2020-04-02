@@ -1,6 +1,3489 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 18:20:30 +0000 2020",
+		"id": 1245540122356924400,
+		"id_str": "1245778145728331776",
+		"full_text": "여성들은 지금 ‘홧김에’가 아니라, 자신의 생을 걸고 이야기한다. 이 ‘강간문화’는 끝나야 한다. 우리는 완전히 새로운 세계에서 동등한 인간으로서 살아가야 한다.\n\n-영화 ‘벌새’ 김보라 감독 \nhttps://t.co/ViZhbP70Dk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ViZhbP70Dk",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202004021128001&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232470362991939600,
+			"id_str": "1232470362991939584",
+			"name": "플랫",
+			"screen_name": "flatflat38",
+			"location": "",
+			"description": "여성 서사 아카이브. 평평한, 반듯한, 균일한, 반음 낮은 플랫(flat). 플랫의 뜻만큼이나 다양한 여성들의 삶을 지지한다. instagram@flatflat38",
+			"url": "https://t.co/FWa3Dfp7Bw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FWa3Dfp7Bw",
+							"expanded_url": "http://bitly.kr/IPoAJLja",
+							"display_url": "bitly.kr/IPoAJLja",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 361,
+			"friends_count": 62,
+			"listed_count": 3,
+			"created_at": "Wed Feb 26 01:00:20 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232471779337109504/WmrmOmIg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232471779337109504/WmrmOmIg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232470362991939584/1582680592",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1748,
+		"favorite_count": 722,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여성들은 지금 ‘홧김에’가 아니라, 자신의 생을 걸고 이야기한다. 이 ‘강간문화’는 끝나야 한다. 우리는 완전히 새로운 세계에서 동등한 인간으로서 살아가야 한다.\n\n-영화 ‘벌새’ 김보라 감독 \nhttps://t.co/ViZhbP70Dk"
+	},
+	{
+		"created_at": "Thu Apr 02 18:19:56 +0000 2020",
+		"id": 1245616773430272000,
+		"id_str": "1245778007110762497",
+		"full_text": "4월 1일 트로이 시반이 'Take Yourself Home'을 발매했습니다. 트로이 시반은 그의 플랫폼을 통해 코로나 바이러스로 활동에 영향을 받은 아티스트들의 홍보를 도우면서 새로운 MD에 대한 모든 수익을 코로나 바이러스로 피해 복구를 위해 기부할 예정입니다. @troyesivan\nhttps://t.co/6TF0u4d7pF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "troyesivan",
+					"name": "troye",
+					"id": 53338746,
+					"id_str": "53338746",
+					"indices": [
+						149,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6TF0u4d7pF",
+					"expanded_url": "https://www.billboard.com/articles/news/pride/9348580/troye-sivan-take-yourself-home?utm_medium=social&utm_source=twitter",
+					"display_url": "billboard.com/articles/news/…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20989,
+			"friends_count": 17,
+			"listed_count": 81,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4월 1일 트로이 시반이 'Take Yourself Home'을 발매했습니다. 트로이 시반은 그의 플랫폼을 통해 코로나 바이러스로 활동에 영향을 받은 아티스트들의 홍보를 도우면서 새로운 MD에 대한 모든 수익을 코로나 바이러스로 피해 복구를 위해 기부할 예정입니다. @troyesivan\nhttps://t.co/6TF0u4d7pF"
+	},
+	{
+		"created_at": "Thu Apr 02 18:19:20 +0000 2020",
+		"id": 1245638377556209700,
+		"id_str": "1245777852567412736",
+		"full_text": "[우효]\n2018년 우효의 첫 단독공연 중\n‘민들레' LIVE 가 공개되었습니다 🌼\n\n#OOHYO #우효 #민들레 #봄 #집콕\n\n🎬 풀영상은 우효 유튜브채널에서 확인하세요!\n\nhttps://t.co/psGsHFq4ma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OOHYO",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "우효",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "민들레",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "봄",
+					"indices": [
+						64,
+						66
+					]
+				},
+				{
+					"text": "집콕",
+					"indices": [
+						67,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/psGsHFq4ma",
+					"expanded_url": "https://youtu.be/gEquU4kYaxw",
+					"display_url": "youtu.be/gEquU4kYaxw",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 우효/윤현상/유라/크래커/앤츠/알레프/에버루아/로지/아일",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 654,
+			"friends_count": 4,
+			"listed_count": 14,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[우효]\n2018년 우효의 첫 단독공연 중\n‘민들레' LIVE 가 공개되었습니다 🌼\n\n#OOHYO #우효 #민들레 #봄 #집콕\n\n🎬 풀영상은 우효 유튜브채널에서 확인하세요!\n\nhttps://t.co/psGsHFq4ma"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:46 +0000 2020",
+		"id": 1245002937396424700,
+		"id_str": "1245777209588985856",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 미연 (MIYEON)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#미연 #MIYEON https://t.co/7QAq0NXs7e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "MIYEON",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245002912725495800,
+					"id_str": "1245002912725495808",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjjYVUcAAImNM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjjYVUcAAImNM.jpg",
+					"url": "https://t.co/7QAq0NXs7e",
+					"display_url": "pic.twitter.com/7QAq0NXs7e",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245002937396424707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245002912725495800,
+					"id_str": "1245002912725495808",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjjYVUcAAImNM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjjYVUcAAImNM.jpg",
+					"url": "https://t.co/7QAq0NXs7e",
+					"display_url": "pic.twitter.com/7QAq0NXs7e",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245002937396424707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15023,
+		"favorite_count": 35435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 미연 (MIYEON)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#미연 #MIYEON https://t.co/7QAq0NXs7e"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:44 +0000 2020",
+		"id": 1245002965410132000,
+		"id_str": "1245777200785133568",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 민니 (MINNIE)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#민니 #MINNIE https://t.co/7YOQ8xRHmZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "민니",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "MINNIE",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245002941800431600,
+					"id_str": "1245002941800431618",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjlEpUwAIzT7K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjlEpUwAIzT7K.jpg",
+					"url": "https://t.co/7YOQ8xRHmZ",
+					"display_url": "pic.twitter.com/7YOQ8xRHmZ",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245002965410131971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245002941800431600,
+					"id_str": "1245002941800431618",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjlEpUwAIzT7K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjlEpUwAIzT7K.jpg",
+					"url": "https://t.co/7YOQ8xRHmZ",
+					"display_url": "pic.twitter.com/7YOQ8xRHmZ",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245002965410131971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15055,
+		"favorite_count": 33139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 민니 (MINNIE)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#민니 #MINNIE https://t.co/7YOQ8xRHmZ"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:42 +0000 2020",
+		"id": 1245003025858490400,
+		"id_str": "1245777192040058881",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 수진 (SOOJIN)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#수진 #SOOJIN https://t.co/bijKG2ATp7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "수진",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "SOOJIN",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245003007189643300,
+					"id_str": "1245003007189643266",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjo4PU8AIDjti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjo4PU8AIDjti.jpg",
+					"url": "https://t.co/bijKG2ATp7",
+					"display_url": "pic.twitter.com/bijKG2ATp7",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003025858490369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245003007189643300,
+					"id_str": "1245003007189643266",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjo4PU8AIDjti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjo4PU8AIDjti.jpg",
+					"url": "https://t.co/bijKG2ATp7",
+					"display_url": "pic.twitter.com/bijKG2ATp7",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003025858490369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18168,
+		"favorite_count": 41173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 수진 (SOOJIN)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#수진 #SOOJIN https://t.co/bijKG2ATp7"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:40 +0000 2020",
+		"id": 1245003066157351000,
+		"id_str": "1245777184549031937",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 소연 (SOYEON)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#소연 #SOYEON https://t.co/34sg4y3Zpo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "SOYEON",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245003041612296200,
+					"id_str": "1245003041612296192",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjq4eU8AAWNpS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjq4eU8AAWNpS.jpg",
+					"url": "https://t.co/34sg4y3Zpo",
+					"display_url": "pic.twitter.com/34sg4y3Zpo",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003066157350912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245003041612296200,
+					"id_str": "1245003041612296192",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjq4eU8AAWNpS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjq4eU8AAWNpS.jpg",
+					"url": "https://t.co/34sg4y3Zpo",
+					"display_url": "pic.twitter.com/34sg4y3Zpo",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003066157350912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14686,
+		"favorite_count": 33475,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 소연 (SOYEON)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#소연 #SOYEON https://t.co/34sg4y3Zpo"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:35 +0000 2020",
+		"id": 1245003091570643000,
+		"id_str": "1245777162843504640",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 우기 (YUQI)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#우기 #YUQI https://t.co/2Ac8418meg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "우기",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "YUQI",
+					"indices": [
+						140,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245003069466636300,
+					"id_str": "1245003069466636299",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjsgPUcAsRi2b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjsgPUcAsRi2b.jpg",
+					"url": "https://t.co/2Ac8418meg",
+					"display_url": "pic.twitter.com/2Ac8418meg",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003091570642954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245003069466636300,
+					"id_str": "1245003069466636299",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjsgPUcAsRi2b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjsgPUcAsRi2b.jpg",
+					"url": "https://t.co/2Ac8418meg",
+					"display_url": "pic.twitter.com/2Ac8418meg",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003091570642954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13921,
+		"favorite_count": 31760,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 우기 (YUQI)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#우기 #YUQI https://t.co/2Ac8418meg"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:33 +0000 2020",
+		"id": 1245003120070942700,
+		"id_str": "1245777151900581890",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 슈화 (SHUHUA)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#슈화 #SHUHUA https://t.co/NLyM0dzg0N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "슈화",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "SHUHUA",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245003096230490000,
+					"id_str": "1245003096230490113",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjuD8UcAERX8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjuD8UcAERX8j.jpg",
+					"url": "https://t.co/NLyM0dzg0N",
+					"display_url": "pic.twitter.com/NLyM0dzg0N",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003120070942720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245003096230490000,
+					"id_str": "1245003096230490113",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjuD8UcAERX8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjuD8UcAERX8j.jpg",
+					"url": "https://t.co/NLyM0dzg0N",
+					"display_url": "pic.twitter.com/NLyM0dzg0N",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003120070942720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14919,
+		"favorite_count": 33355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image : 슈화 (SHUHUA)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#슈화 #SHUHUA https://t.co/NLyM0dzg0N"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:31 +0000 2020",
+		"id": 1245003161560961000,
+		"id_str": "1245777143511965696",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image \n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust https://t.co/RDpFB5hmeH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245003125649371100,
+					"id_str": "1245003125649371139",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjvxiU8AMdZnu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjvxiU8AMdZnu.jpg",
+					"url": "https://t.co/RDpFB5hmeH",
+					"display_url": "pic.twitter.com/RDpFB5hmeH",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003161560961024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245003125649371100,
+					"id_str": "1245003125649371139",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EUcjvxiU8AMdZnu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUcjvxiU8AMdZnu.jpg",
+					"url": "https://t.co/RDpFB5hmeH",
+					"display_url": "pic.twitter.com/RDpFB5hmeH",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245003161560961024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23991,
+		"favorite_count": 49495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] True Ver. \nConcept Image \n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust https://t.co/RDpFB5hmeH"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:24 +0000 2020",
+		"id": 1245365341175218200,
+		"id_str": "1245777114441199616",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 미연 (MIYEON)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#미연 #MIYEON https://t.co/wqzemsbdFu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "MIYEON",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245365323500408800,
+					"id_str": "1245365323500408832",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtKdrU0AAT0wT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtKdrU0AAT0wT.jpg",
+					"url": "https://t.co/wqzemsbdFu",
+					"display_url": "pic.twitter.com/wqzemsbdFu",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365341175218178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245365323500408800,
+					"id_str": "1245365323500408832",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtKdrU0AAT0wT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtKdrU0AAT0wT.jpg",
+					"url": "https://t.co/wqzemsbdFu",
+					"display_url": "pic.twitter.com/wqzemsbdFu",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365341175218178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11849,
+		"favorite_count": 29721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 미연 (MIYEON)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#미연 #MIYEON https://t.co/wqzemsbdFu"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:21 +0000 2020",
+		"id": 1245365361379168300,
+		"id_str": "1245777105205383169",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 민니 (MINNIE)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#민니 #MINNIE https://t.co/er9GOAAzGX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "민니",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "MINNIE",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245365344476082200,
+					"id_str": "1245365344476082179",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtLr0UMAMH9MK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtLr0UMAMH9MK.jpg",
+					"url": "https://t.co/er9GOAAzGX",
+					"display_url": "pic.twitter.com/er9GOAAzGX",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365361379168257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245365344476082200,
+					"id_str": "1245365344476082179",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtLr0UMAMH9MK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtLr0UMAMH9MK.jpg",
+					"url": "https://t.co/er9GOAAzGX",
+					"display_url": "pic.twitter.com/er9GOAAzGX",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365361379168257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11040,
+		"favorite_count": 24827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 민니 (MINNIE)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#민니 #MINNIE https://t.co/er9GOAAzGX"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:20 +0000 2020",
+		"id": 1245365391406190600,
+		"id_str": "1245777097471098881",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 수진 (SOOJIN)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#수진 #SOOJIN https://t.co/WmmDe2tjxN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "수진",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "SOOJIN",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245365377057489000,
+					"id_str": "1245365377057488896",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtNlMVAAAwtA0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtNlMVAAAwtA0.jpg",
+					"url": "https://t.co/WmmDe2tjxN",
+					"display_url": "pic.twitter.com/WmmDe2tjxN",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365391406190598/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245365377057489000,
+					"id_str": "1245365377057488896",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtNlMVAAAwtA0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtNlMVAAAwtA0.jpg",
+					"url": "https://t.co/WmmDe2tjxN",
+					"display_url": "pic.twitter.com/WmmDe2tjxN",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365391406190598/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11658,
+		"favorite_count": 26823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 수진 (SOOJIN)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#수진 #SOOJIN https://t.co/WmmDe2tjxN"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:18 +0000 2020",
+		"id": 1245365421697462300,
+		"id_str": "1245777089602523136",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 소연 (SOYEON)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#소연 #SOYEON https://t.co/zqbe4zF9hV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "소연",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "SOYEON",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245365407130648600,
+					"id_str": "1245365407130648580",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtPVOVAAQF89K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtPVOVAAQF89K.jpg",
+					"url": "https://t.co/zqbe4zF9hV",
+					"display_url": "pic.twitter.com/zqbe4zF9hV",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365421697462272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245365407130648600,
+					"id_str": "1245365407130648580",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtPVOVAAQF89K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtPVOVAAQF89K.jpg",
+					"url": "https://t.co/zqbe4zF9hV",
+					"display_url": "pic.twitter.com/zqbe4zF9hV",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365421697462272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10185,
+		"favorite_count": 24641,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 소연 (SOYEON)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#소연 #SOYEON https://t.co/zqbe4zF9hV"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:16 +0000 2020",
+		"id": 1245365458561200000,
+		"id_str": "1245777081138417665",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 우기 (YUQI)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#우기 #YUQI https://t.co/rZyevqBJNb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "우기",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "YUQI",
+					"indices": [
+						139,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245365442186625000,
+					"id_str": "1245365442186625024",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtRX0UwAAXatF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtRX0UwAAXatF.jpg",
+					"url": "https://t.co/rZyevqBJNb",
+					"display_url": "pic.twitter.com/rZyevqBJNb",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365458561200128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245365442186625000,
+					"id_str": "1245365442186625024",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtRX0UwAAXatF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtRX0UwAAXatF.jpg",
+					"url": "https://t.co/rZyevqBJNb",
+					"display_url": "pic.twitter.com/rZyevqBJNb",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365458561200128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10970,
+		"favorite_count": 26063,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 우기 (YUQI)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#우기 #YUQI https://t.co/rZyevqBJNb"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:14 +0000 2020",
+		"id": 1245365484691718100,
+		"id_str": "1245777072804397056",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 슈화 (SHUHUA)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#슈화 #SHUHUA https://t.co/WQDz3W8ofA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "슈화",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "SHUHUA",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245365469978054700,
+					"id_str": "1245365469978054663",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtS_WUUAcZK3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtS_WUUAcZK3q.jpg",
+					"url": "https://t.co/WQDz3W8ofA",
+					"display_url": "pic.twitter.com/WQDz3W8ofA",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365484691718150/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245365469978054700,
+					"id_str": "1245365469978054663",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtS_WUUAcZK3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtS_WUUAcZK3q.jpg",
+					"url": "https://t.co/WQDz3W8ofA",
+					"display_url": "pic.twitter.com/WQDz3W8ofA",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365484691718150/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10729,
+		"favorite_count": 24224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image : 슈화 (SHUHUA)\n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust\n#슈화 #SHUHUA https://t.co/WQDz3W8ofA"
+	},
+	{
+		"created_at": "Thu Apr 02 18:16:09 +0000 2020",
+		"id": 1245365517856075800,
+		"id_str": "1245777054563368962",
+		"full_text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image \n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust https://t.co/NnNuWkvkMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245365500579700700,
+					"id_str": "1245365500579700736",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtUxWUYAAmS4H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtUxWUYAAmS4H.jpg",
+					"url": "https://t.co/NnNuWkvkMM",
+					"display_url": "pic.twitter.com/NnNuWkvkMM",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365517856075776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245365500579700700,
+					"id_str": "1245365500579700736",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhtUxWUYAAmS4H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhtUxWUYAAmS4H.jpg",
+					"url": "https://t.co/NnNuWkvkMM",
+					"display_url": "pic.twitter.com/NnNuWkvkMM",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245365517856075776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18272,
+		"favorite_count": 39820,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 3rd Mini Album \n[I trust] Lie Ver. \nConcept Image \n\n🎧 Release On  \n2020.04.06 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_trust https://t.co/NnNuWkvkMM"
+	},
+	{
+		"created_at": "Thu Apr 02 18:15:55 +0000 2020",
+		"id": 1245727844220539000,
+		"id_str": "1245776995146813440",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Audio Snippet\n\n▶ https://t.co/cZ2WlA8UFu\n\n#여자아이들 #GIDLE #I_trust https://t.co/LYh83d8tdr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cZ2WlA8UFu",
+					"expanded_url": "https://youtu.be/uhAQ1Hrbc8w",
+					"display_url": "youtu.be/uhAQ1Hrbc8w",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245727827795701800,
+					"id_str": "1245727827795701760",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EUm22_aU8AAFj4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUm22_aU8AAFj4Y.jpg",
+					"url": "https://t.co/LYh83d8tdr",
+					"display_url": "pic.twitter.com/LYh83d8tdr",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245727844220538882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245727827795701800,
+					"id_str": "1245727827795701760",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EUm22_aU8AAFj4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUm22_aU8AAFj4Y.jpg",
+					"url": "https://t.co/LYh83d8tdr",
+					"display_url": "pic.twitter.com/LYh83d8tdr",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1245727844220538882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606788,
+			"friends_count": 28,
+			"listed_count": 2804,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10107,
+		"favorite_count": 18959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] (여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Audio Snippet\n\n▶ https://t.co/cZ2WlA8UFu\n\n#여자아이들 #GIDLE #I_trust https://t.co/LYh83d8tdr"
+	},
+	{
 		"created_at": "Thu Apr 02 15:10:31 +0000 2020",
 		"id": 1245730338472693800,
 		"id_str": "1245730338472693760",
