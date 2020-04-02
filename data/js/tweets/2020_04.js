@@ -1,6 +1,1231 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 03:41:21 +0000 2020",
+		"id": 1245522848644554800,
+		"id_str": "1245556900336242688",
+		"full_text": "빠르고 정확하게 답변을 받을 수 있는 질문하는 법 https://t.co/R11Q7U0Cvw \n세상에 나쁜 질문은 없습니다. 물어보고 답변하는 과정에서 서로가 좀 더 성장할 수 있습니다.\n원하는 답변을, 빠르고 정확하게 들을 수 있는 질문하는 법에 대해서 제안합니다.\n1. 궁금한 점은 언제든 질문합니다.\n...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R11Q7U0Cvw",
+					"expanded_url": "https://j.mp/2JADris",
+					"display_url": "j.mp/2JADris",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2608,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠르고 정확하게 답변을 받을 수 있는 질문하는 법 https://t.co/R11Q7U0Cvw \n세상에 나쁜 질문은 없습니다. 물어보고 답변하는 과정에서 서로가 좀 더 성장할 수 있습니다.\n원하는 답변을, 빠르고 정확하게 들을 수 있는 질문하는 법에 대해서 제안합니다.\n1. 궁금한 점은 언제든 질문합니다.\n..."
+	},
+	{
+		"created_at": "Thu Apr 02 03:39:38 +0000 2020",
+		"id": 1245452732925763600,
+		"id_str": "1245556472299192320",
+		"full_text": "유튜브, ‘틱톡’ 대항마 쏜다…연말 모바일앱에 장착 https://t.co/TMWTY8MxYD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TMWTY8MxYD",
+					"expanded_url": "http://www.bloter.net/archives/376512",
+					"display_url": "bloter.net/archives/376512",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55983,
+			"friends_count": 9,
+			"listed_count": 2502,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유튜브, ‘틱톡’ 대항마 쏜다…연말 모바일앱에 장착 https://t.co/TMWTY8MxYD"
+	},
+	{
+		"created_at": "Thu Apr 02 03:39:35 +0000 2020",
+		"id": 1245350202371760000,
+		"id_str": "1245556455790411777",
+		"full_text": "n번방의 가해자들은 갑자기 한국 땅에 불시착한 존재들이 아니다. 그들은 남성 공동체가 즐기고, 방관하고, 외면한 ‘강간문화’와 ‘여성혐오’의 비극적인 결과다.\nhttps://t.co/mjx4nfLFY4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mjx4nfLFY4",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202004012106005&code=990304",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738752,
+			"friends_count": 79938,
+			"listed_count": 6415,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 860,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "n번방의 가해자들은 갑자기 한국 땅에 불시착한 존재들이 아니다. 그들은 남성 공동체가 즐기고, 방관하고, 외면한 ‘강간문화’와 ‘여성혐오’의 비극적인 결과다.\nhttps://t.co/mjx4nfLFY4"
+	},
+	{
+		"created_at": "Thu Apr 02 03:39:30 +0000 2020",
+		"id": 1245480196565655600,
+		"id_str": "1245556438350458880",
+		"full_text": "이 와중에 10만명 채용…코로나 난리에 더 세진 빅테크 https://t.co/PFWPghedRg 넷플릭스, 아마존, MS의 주가는 코로나19 와중에도 올랐다. 페이스북과 구글은 하락. 한국에서는 엔씨소프트가 가장 크게 상승. https://t.co/7AMnD36bxG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFWPghedRg",
+					"expanded_url": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=025&aid=0002989619",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245480182581874700,
+					"id_str": "1245480182581874688",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EUjVoJGU0AAHEYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUjVoJGU0AAHEYj.jpg",
+					"url": "https://t.co/7AMnD36bxG",
+					"display_url": "pic.twitter.com/7AMnD36bxG",
+					"expanded_url": "https://twitter.com/estima7/status/1245480196565655553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245480182581874700,
+					"id_str": "1245480182581874688",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EUjVoJGU0AAHEYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUjVoJGU0AAHEYj.jpg",
+					"url": "https://t.co/7AMnD36bxG",
+					"display_url": "pic.twitter.com/7AMnD36bxG",
+					"expanded_url": "https://twitter.com/estima7/status/1245480196565655553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245480183684976600,
+					"id_str": "1245480183684976640",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EUjVoNNU0AAjpS4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUjVoNNU0AAjpS4.jpg",
+					"url": "https://t.co/7AMnD36bxG",
+					"display_url": "pic.twitter.com/7AMnD36bxG",
+					"expanded_url": "https://twitter.com/estima7/status/1245480196565655553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 661,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 661,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376765,
+			"friends_count": 2290,
+			"listed_count": 4756,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 와중에 10만명 채용…코로나 난리에 더 세진 빅테크 https://t.co/PFWPghedRg 넷플릭스, 아마존, MS의 주가는 코로나19 와중에도 올랐다. 페이스북과 구글은 하락. 한국에서는 엔씨소프트가 가장 크게 상승. https://t.co/7AMnD36bxG"
+	},
+	{
+		"created_at": "Thu Apr 02 03:38:24 +0000 2020",
+		"id": 1245486097779523600,
+		"id_str": "1245556158300950528",
+		"full_text": "텔레그램 ‘n번방’의 시초로 알려진 ‘갓갓’으로 추정되는 인물에게 성착취 영상 제작을 의뢰하고 10대를 대상으로 한 성착취물을 170개나 제작한 30대 남성이 최근 법원에서 징역 3년의 가벼운 처벌을 받은 사실이 뒤늦게 확인됐다\nhttps://t.co/eCTzIDlxkK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eCTzIDlxkK",
+					"expanded_url": "http://www.hani.co.kr/arti/society/society_general/935299.html",
+					"display_url": "hani.co.kr/arti/society/s…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문, 한겨레 공식 트위터입니다. https://t.co/gaFSERTpRb",
+			"url": "https://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gaFSERTpRb",
+							"expanded_url": "http://youtube.com/hanitv",
+							"display_url": "youtube.com/hanitv",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 556224,
+			"friends_count": 141650,
+			"listed_count": 7626,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4080,
+		"favorite_count": 417,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "텔레그램 ‘n번방’의 시초로 알려진 ‘갓갓’으로 추정되는 인물에게 성착취 영상 제작을 의뢰하고 10대를 대상으로 한 성착취물을 170개나 제작한 30대 남성이 최근 법원에서 징역 3년의 가벼운 처벌을 받은 사실이 뒤늦게 확인됐다\nhttps://t.co/eCTzIDlxkK"
+	},
+	{
+		"created_at": "Thu Apr 02 03:38:12 +0000 2020",
+		"id": 1245507243413344300,
+		"id_str": "1245556108736880641",
+		"full_text": "Howler.JS - 모던 웹을 위한 오디오 라이브러리 https://t.co/sQbTbRtRwp \n- MP3,OGG,WAV,AAC,MP4,M4A,WEBA,WEBM,FLAC,DOLBY 등 지원\n- 재생/중지/탐색/페이드/반복 등 풀 컨트롤\n- 폴백 내장:모든 브라우저 지원\n- 3D게임을 위한 Sptial Audio\n- Audio Sprites / Auto Caching 지원\n- 의존성...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sQbTbRtRwp",
+					"expanded_url": "https://j.mp/2w4NYPV",
+					"display_url": "j.mp/2w4NYPV",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2608,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Howler.JS - 모던 웹을 위한 오디오 라이브러리 https://t.co/sQbTbRtRwp \n- MP3,OGG,WAV,AAC,MP4,M4A,WEBA,WEBM,FLAC,DOLBY 등 지원\n- 재생/중지/탐색/페이드/반복 등 풀 컨트롤\n- 폴백 내장:모든 브라우저 지원\n- 3D게임을 위한 Sptial Audio\n- Audio Sprites / Auto Caching 지원\n- 의존성..."
+	},
+	{
+		"created_at": "Thu Apr 02 03:26:07 +0000 2020",
+		"id": 1245311332846416000,
+		"id_str": "1245553067400949760",
+		"full_text": "대한민국 #대중문화예술산업 전체 규모는\n약 6조 4,210억 원으로, 16년 대비 19.5% 성장하며\n#콘텐츠 산업 성장을 견인하고 있습니다!\n\n우리나라 대중문화예술산업의 성장과\n대중문화예술인의 월 평균 소득에 대해 알아볼까요?\n\n#한국콘텐츠진흥원 #콘진원 #KOCCA\n#대중문화 #표준계약서 https://t.co/E05jxdQWZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대중문화예술산업",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "콘텐츠",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "콘진원",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "KOCCA",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "대중문화",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "표준계약서",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245311266849079300,
+					"id_str": "1245311266849079296",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EUg7_89UwAAL_jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUg7_89UwAAL_jv.jpg",
+					"url": "https://t.co/E05jxdQWZi",
+					"display_url": "pic.twitter.com/E05jxdQWZi",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1245311332846415872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245311266849079300,
+					"id_str": "1245311266849079296",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EUg7_89UwAAL_jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUg7_89UwAAL_jv.jpg",
+					"url": "https://t.co/E05jxdQWZi",
+					"display_url": "pic.twitter.com/E05jxdQWZi",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1245311332846415872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19592,
+			"friends_count": 15518,
+			"listed_count": 417,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1581039286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대한민국 #대중문화예술산업 전체 규모는\n약 6조 4,210억 원으로, 16년 대비 19.5% 성장하며\n#콘텐츠 산업 성장을 견인하고 있습니다!\n\n우리나라 대중문화예술산업의 성장과\n대중문화예술인의 월 평균 소득에 대해 알아볼까요?\n\n#한국콘텐츠진흥원 #콘진원 #KOCCA\n#대중문화 #표준계약서 https://t.co/E05jxdQWZi"
+	},
+	{
+		"created_at": "Thu Apr 02 03:26:02 +0000 2020",
+		"id": 1245311335786676200,
+		"id_str": "1245553047155044352",
+		"full_text": "https://t.co/CgqOAxWk9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245311302475513900,
+					"id_str": "1245311302475513861",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUg8CBrVAAUewXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUg8CBrVAAUewXz.jpg",
+					"url": "https://t.co/CgqOAxWk9P",
+					"display_url": "pic.twitter.com/CgqOAxWk9P",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1245311335786676224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245311302475513900,
+					"id_str": "1245311302475513861",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUg8CBrVAAUewXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUg8CBrVAAUewXz.jpg",
+					"url": "https://t.co/CgqOAxWk9P",
+					"display_url": "pic.twitter.com/CgqOAxWk9P",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1245311335786676224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245311303024955400,
+					"id_str": "1245311303024955392",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUg8CDuU0AAITLZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUg8CDuU0AAITLZ.jpg",
+					"url": "https://t.co/CgqOAxWk9P",
+					"display_url": "pic.twitter.com/CgqOAxWk9P",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1245311335786676224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245311303322710000,
+					"id_str": "1245311303322710016",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUg8CE1UMAAxe3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUg8CE1UMAAxe3q.jpg",
+					"url": "https://t.co/CgqOAxWk9P",
+					"display_url": "pic.twitter.com/CgqOAxWk9P",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1245311335786676224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245311303545024500,
+					"id_str": "1245311303545024513",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EUg8CFqUcAEN1Lv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUg8CFqUcAEN1Lv.jpg",
+					"url": "https://t.co/CgqOAxWk9P",
+					"display_url": "pic.twitter.com/CgqOAxWk9P",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1245311335786676224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245311332846416000,
+		"in_reply_to_status_id_str": "1245311332846415872",
+		"in_reply_to_user_id": 128414082,
+		"in_reply_to_user_id_str": "128414082",
+		"in_reply_to_screen_name": "ContentKorea",
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19592,
+			"friends_count": 15518,
+			"listed_count": 417,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1581039286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/CgqOAxWk9P"
+	},
+	{
 		"created_at": "Thu Apr 02 03:01:23 +0000 2020",
 		"id": 1245546845809643500,
 		"id_str": "1245546845809643521",
