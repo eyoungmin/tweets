@@ -1,6 +1,1022 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 06:58:12 +0000 2020",
+		"id": 1245547301872889900,
+		"id_str": "1245606439327916032",
+		"full_text": "[그린데이 내한공연 일정 공지 안내]\n잠정 연기 되었던 그린데이의 내한공연 일자가 공개되었습니다!\n-\n[Green Day Live in Seoul 2021]\n▶공연일 : 2021년 3월 24일 (수)\n*공연장/티켓 관련 정보는 추후 공지될 예정입니다.\n-\n#Greenday #그린데이 #GreenDayLiveinSeoul #그린데이내한공연 #펑크록 https://t.co/PFywCgjaPO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Greenday",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "그린데이",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "GreenDayLiveinSeoul",
+					"indices": [
+						159,
+						179
+					]
+				},
+				{
+					"text": "그린데이내한공연",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"text": "펑크록",
+					"indices": [
+						190,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245547291911450600,
+					"id_str": "1245547291911450624",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EUkSqa1U8AA7Sgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUkSqa1U8AA7Sgj.jpg",
+					"url": "https://t.co/PFywCgjaPO",
+					"display_url": "pic.twitter.com/PFywCgjaPO",
+					"expanded_url": "https://twitter.com/livenationkr/status/1245547301872889857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245547291911450600,
+					"id_str": "1245547291911450624",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EUkSqa1U8AA7Sgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUkSqa1U8AA7Sgj.jpg",
+					"url": "https://t.co/PFywCgjaPO",
+					"display_url": "pic.twitter.com/PFywCgjaPO",
+					"expanded_url": "https://twitter.com/livenationkr/status/1245547301872889857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7018,
+			"friends_count": 234,
+			"listed_count": 34,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 78,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린데이 내한공연 일정 공지 안내]\n잠정 연기 되었던 그린데이의 내한공연 일자가 공개되었습니다!\n-\n[Green Day Live in Seoul 2021]\n▶공연일 : 2021년 3월 24일 (수)\n*공연장/티켓 관련 정보는 추후 공지될 예정입니다.\n-\n#Greenday #그린데이 #GreenDayLiveinSeoul #그린데이내한공연 #펑크록 https://t.co/PFywCgjaPO"
+	},
+	{
+		"created_at": "Thu Apr 02 06:56:47 +0000 2020",
+		"id": 1245606084380749800,
+		"id_str": "1245606084380749825",
+		"full_text": "볼빨간사춘기 1인체제로 전환\n우지윤 볼빨간사춘기 탈퇴 후 새로운 출발 예고\n\n#볼빨간사춘기 #BOL4 \n#우지윤 #안지영 https://t.co/vrA9AP58v7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "우지윤",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "안지영",
+					"indices": [
+						63,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245605725608366000,
+					"id_str": "1245605725608366081",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlHztUUUAEsnYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlHztUUUAEsnYu.jpg",
+					"url": "https://t.co/vrA9AP58v7",
+					"display_url": "pic.twitter.com/vrA9AP58v7",
+					"expanded_url": "https://twitter.com/fromminn/status/1245606084380749825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 786,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245605725608366000,
+					"id_str": "1245605725608366081",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlHztUUUAEsnYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlHztUUUAEsnYu.jpg",
+					"url": "https://t.co/vrA9AP58v7",
+					"display_url": "pic.twitter.com/vrA9AP58v7",
+					"expanded_url": "https://twitter.com/fromminn/status/1245606084380749825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 786,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245605725604200400,
+					"id_str": "1245605725604200448",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlHztTUwAAp365.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlHztTUwAAp365.jpg",
+					"url": "https://t.co/vrA9AP58v7",
+					"display_url": "pic.twitter.com/vrA9AP58v7",
+					"expanded_url": "https://twitter.com/fromminn/status/1245606084380749825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 295,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 1106,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "볼빨간사춘기 1인체제로 전환\n우지윤 볼빨간사춘기 탈퇴 후 새로운 출발 예고\n\n#볼빨간사춘기 #BOL4 \n#우지윤 #안지영 https://t.co/vrA9AP58v7"
+	},
+	{
+		"created_at": "Thu Apr 02 06:54:56 +0000 2020",
+		"id": 1245565979687399400,
+		"id_str": "1245605620176187395",
+		"full_text": "안녕하세요, 쇼파르뮤직입니다.\n\n당사 소속 아티스트인 볼빨간사춘기의 멤버 구성에 변화가 생겨 다음과 같이 공식 입장을 알려드리고자 합니다. https://t.co/qTcEVHycMF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245563142161092600,
+					"id_str": "1245563142161092608",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EUkhFBnU0AAfdX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUkhFBnU0AAfdX7.jpg",
+					"url": "https://t.co/qTcEVHycMF",
+					"display_url": "pic.twitter.com/qTcEVHycMF",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1245565979687399425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1184,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245563142161092600,
+					"id_str": "1245563142161092608",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EUkhFBnU0AAfdX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUkhFBnU0AAfdX7.jpg",
+					"url": "https://t.co/qTcEVHycMF",
+					"display_url": "pic.twitter.com/qTcEVHycMF",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1245565979687399425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1184,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수, \n레터플로우, 스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7841,
+			"friends_count": 11,
+			"listed_count": 73,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1582004148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 449,
+		"favorite_count": 178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요, 쇼파르뮤직입니다.\n\n당사 소속 아티스트인 볼빨간사춘기의 멤버 구성에 변화가 생겨 다음과 같이 공식 입장을 알려드리고자 합니다. https://t.co/qTcEVHycMF"
+	},
+	{
+		"created_at": "Thu Apr 02 06:52:08 +0000 2020",
+		"id": 1245604916489367600,
+		"id_str": "1245604916489367563",
+		"full_text": "#마리끌레르 #MarieClaire\nHOME, SWEET JENTLE HOME \nhttps://t.co/v7heqhybwE\n\n#블랙핑크 #BLACKPINK #제니 #JENNIE #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마리끌레르",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MarieClaire",
+					"indices": [
+						7,
+						19
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v7heqhybwE",
+					"expanded_url": "http://www.marieclairekorea.com/?p=180597",
+					"display_url": "marieclairekorea.com/?p=180597",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#마리끌레르 #MarieClaire\nHOME, SWEET JENTLE HOME \nhttps://t.co/v7heqhybwE\n\n#블랙핑크 #BLACKPINK #제니 #JENNIE #minfav"
+	},
+	{
+		"created_at": "Thu Apr 02 06:44:09 +0000 2020",
+		"id": 1245602905425506300,
+		"id_str": "1245602905425506304",
+		"full_text": "#라이브네이션코리아 #Live_Nation\nGreen Day (그린데이) 내한공연 at Seoul Seoul - To Be Announced (2021. 3. 24. 수)\nhttps://t.co/jNQwanMNAY\n#내한 #공연일정 #티켓공지 #라네코 https://t.co/i7c5oc7MsO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브네이션코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Live_Nation",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "라네코",
+					"indices": [
+						136,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jNQwanMNAY",
+					"expanded_url": "https://www.livenation.kr/show/1285659/green-day-%ea%b7%b8%eb%a6%b0%eb%8d%b0%ec%9d%b4-%eb%82%b4%ed%95%9c%ea%b3%b5%ec%97%b0/seoul/2021-03-24/kr",
+					"display_url": "livenation.kr/show/1285659/g…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245602904142012400,
+					"id_str": "1245602904142012418",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlFPeiUYAIug05.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlFPeiUYAIug05.jpg",
+					"url": "https://t.co/i7c5oc7MsO",
+					"display_url": "pic.twitter.com/i7c5oc7MsO",
+					"expanded_url": "https://twitter.com/fromminn/status/1245602905425506304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 871,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 871,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245602904142012400,
+					"id_str": "1245602904142012418",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlFPeiUYAIug05.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlFPeiUYAIug05.jpg",
+					"url": "https://t.co/i7c5oc7MsO",
+					"display_url": "pic.twitter.com/i7c5oc7MsO",
+					"expanded_url": "https://twitter.com/fromminn/status/1245602905425506304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 871,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 871,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#라이브네이션코리아 #Live_Nation\nGreen Day (그린데이) 내한공연 at Seoul Seoul - To Be Announced (2021. 3. 24. 수)\nhttps://t.co/jNQwanMNAY\n#내한 #공연일정 #티켓공지 #라네코 https://t.co/i7c5oc7MsO"
+	},
+	{
 		"created_at": "Thu Apr 02 05:05:10 +0000 2020",
 		"id": 1245571056997240800,
 		"id_str": "1245577994619387908",
