@@ -1,6 +1,3805 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 17:12:41 +0000 2020",
+		"id": 1246123468736721000,
+		"id_str": "1246123468736720899",
+		"full_text": "옴걸 신보에 서지음님 있나보다 🤫",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "옴걸 신보에 서지음님 있나보다 🤫"
+	},
+	{
+		"created_at": "Fri Apr 03 17:08:12 +0000 2020",
+		"id": 1246090233004691500,
+		"id_str": "1246122341299437569",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/G3Vipyadzp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLyoyn",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245965760406499300,
+					"id_str": "1245965760406499328",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqPQfdUMAAHOAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqPQfdUMAAHOAC.jpg",
+					"url": "https://t.co/G3Vipyadzp",
+					"display_url": "pic.twitter.com/G3Vipyadzp",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246090233004691457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245965760406499300,
+					"id_str": "1245965760406499328",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqPQfdUMAAHOAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqPQfdUMAAHOAC.jpg",
+					"url": "https://t.co/G3Vipyadzp",
+					"display_url": "pic.twitter.com/G3Vipyadzp",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246090233004691457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3479,
+		"favorite_count": 6776,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/G3Vipyadzp"
+	},
+	{
+		"created_at": "Fri Apr 03 17:08:10 +0000 2020",
+		"id": 1246090200456945700,
+		"id_str": "1246122331413475329",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/MuoUtPZf6W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLyoyn",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245965760410747000,
+					"id_str": "1245965760410746880",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqPQfeVAAAT_Zl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqPQfeVAAAT_Zl.jpg",
+					"url": "https://t.co/MuoUtPZf6W",
+					"display_url": "pic.twitter.com/MuoUtPZf6W",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246090200456945666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245965760410747000,
+					"id_str": "1245965760410746880",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqPQfeVAAAT_Zl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqPQfeVAAAT_Zl.jpg",
+					"url": "https://t.co/MuoUtPZf6W",
+					"display_url": "pic.twitter.com/MuoUtPZf6W",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246090200456945666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3306,
+		"favorite_count": 6404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/MuoUtPZf6W"
+	},
+	{
+		"created_at": "Fri Apr 03 17:08:05 +0000 2020",
+		"id": 1246090081024094200,
+		"id_str": "1246122309208780801",
+		"full_text": "Mood Sampler #5\n\nMAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST) \n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/lG8gqGYIhc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						143,
+						157
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						158,
+						173
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						174,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNij94qFu5",
+					"expanded_url": "http://max.smtown.com/",
+					"display_url": "max.smtown.com",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245963146386268200,
+					"id_str": "1245963146386268160",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqu5rmUYAAVUM4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqu5rmUYAAVUM4.jpg",
+					"url": "https://t.co/lG8gqGYIhc",
+					"display_url": "pic.twitter.com/lG8gqGYIhc",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246090081024094208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245963146386268200,
+					"id_str": "1245963146386268160",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqu5rmUYAAVUM4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqu5rmUYAAVUM4.jpg",
+					"url": "https://t.co/lG8gqGYIhc",
+					"display_url": "pic.twitter.com/lG8gqGYIhc",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246090081024094208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 19792,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245963146386268160/vid/720x900/aA8dDuWXyLVq4reK.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245963146386268160/vid/360x450/jvs0H_lnpdSFnFOc.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1245963146386268160/pl/M1JuGvNR-PNw068T.m3u8?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245963146386268160/vid/320x400/spbdFTuPiM5_9ulZ.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3983,
+		"favorite_count": 7019,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mood Sampler #5\n\nMAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST) \n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/lG8gqGYIhc"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:48 +0000 2020",
+		"id": 1245727950512644000,
+		"id_str": "1246122241772802050",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/U4zfnIy6Az",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLyoyn",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245700602551656400,
+					"id_str": "1245700602551656449",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUmeGReU4AEcBIT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUmeGReU4AEcBIT.jpg",
+					"url": "https://t.co/U4zfnIy6Az",
+					"display_url": "pic.twitter.com/U4zfnIy6Az",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727950512644096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245700602551656400,
+					"id_str": "1245700602551656449",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUmeGReU4AEcBIT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUmeGReU4AEcBIT.jpg",
+					"url": "https://t.co/U4zfnIy6Az",
+					"display_url": "pic.twitter.com/U4zfnIy6Az",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727950512644096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4526,
+		"favorite_count": 9829,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/U4zfnIy6Az"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:47 +0000 2020",
+		"id": 1245727923383885800,
+		"id_str": "1246122234302697472",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/YspRVVgzCE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLyoyn",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245700502932750300,
+					"id_str": "1245700502932750336",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUmeAeXVAAAYpCo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUmeAeXVAAAYpCo.jpg",
+					"url": "https://t.co/YspRVVgzCE",
+					"display_url": "pic.twitter.com/YspRVVgzCE",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727923383885830/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245700502932750300,
+					"id_str": "1245700502932750336",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUmeAeXVAAAYpCo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUmeAeXVAAAYpCo.jpg",
+					"url": "https://t.co/YspRVVgzCE",
+					"display_url": "pic.twitter.com/YspRVVgzCE",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727923383885830/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5223,
+		"favorite_count": 11595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/YspRVVgzCE"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:45 +0000 2020",
+		"id": 1245727853016043500,
+		"id_str": "1246122227390541830",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/OszCdkL50j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLyoyn",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245700326138638300,
+					"id_str": "1245700326138638337",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUmd2LwU8AEu7-Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUmd2LwU8AEu7-Y.jpg",
+					"url": "https://t.co/OszCdkL50j",
+					"display_url": "pic.twitter.com/OszCdkL50j",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727853016043522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245700326138638300,
+					"id_str": "1245700326138638337",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUmd2LwU8AEu7-Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUmd2LwU8AEu7-Y.jpg",
+					"url": "https://t.co/OszCdkL50j",
+					"display_url": "pic.twitter.com/OszCdkL50j",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727853016043522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4996,
+		"favorite_count": 10953,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/OszCdkL50j"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:43 +0000 2020",
+		"id": 1245727798460706800,
+		"id_str": "1246122220281200641",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/wasbMHjTM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLyoyn",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245700197641904000,
+					"id_str": "1245700197641904137",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUmdutEUYAkjIHR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUmdutEUYAkjIHR.jpg",
+					"url": "https://t.co/wasbMHjTM6",
+					"display_url": "pic.twitter.com/wasbMHjTM6",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727798460706913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245700197641904000,
+					"id_str": "1245700197641904137",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUmdutEUYAkjIHR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUmdutEUYAkjIHR.jpg",
+					"url": "https://t.co/wasbMHjTM6",
+					"display_url": "pic.twitter.com/wasbMHjTM6",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727798460706913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5232,
+		"favorite_count": 11202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLyoyn\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/wasbMHjTM6"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:41 +0000 2020",
+		"id": 1245727691510145000,
+		"id_str": "1246122210386837504",
+		"full_text": "Mood Sampler #4\n\nMAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST) \n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/P7hBfCWDVZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						143,
+						157
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						158,
+						173
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						174,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNij94qFu5",
+					"expanded_url": "http://max.smtown.com/",
+					"display_url": "max.smtown.com",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245696330124497000,
+					"id_str": "1245696330124496896",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EUma0SFUMAEPYzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUma0SFUMAEPYzf.jpg",
+					"url": "https://t.co/P7hBfCWDVZ",
+					"display_url": "pic.twitter.com/P7hBfCWDVZ",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727691510145030/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245696330124497000,
+					"id_str": "1245696330124496896",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EUma0SFUMAEPYzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUma0SFUMAEPYzf.jpg",
+					"url": "https://t.co/P7hBfCWDVZ",
+					"display_url": "pic.twitter.com/P7hBfCWDVZ",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245727691510145030/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 18417,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245696330124496896/vid/320x400/BmKIVrq6BnTYI4lP.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1245696330124496896/pl/uKvMR-1gi74tYC7G.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245696330124496896/vid/720x900/5ECSSsC4I46eG3xZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245696330124496896/vid/360x450/o3lXrZ3BRh6vHEhk.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5156,
+		"favorite_count": 10842,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mood Sampler #4\n\nMAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST) \n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/P7hBfCWDVZ"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:38 +0000 2020",
+		"id": 1245519709237203000,
+		"id_str": "1246122200001699840",
+		"full_text": "'솔로 완결판' #최강창민 이 힘든 상황에서도 멈추지 말고 삶이라는 여정을 즐기며 나아갔으면 좋겠다는 메시지의 서정적인 포크 록 수록곡 #No_Tomorrow 부터 옴므파탈 매력의 타이틀 곡 #Chocolate 까지 다채로운 음악 감성과 아이덴티티를 작사로 표현했습니다!🎵\n\n#MAX #TVXQ! #동방신기 #東方神起",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최강창민",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "No_Tomorrow",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "MAX",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3057,
+		"favorite_count": 6751,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'솔로 완결판' #최강창민 이 힘든 상황에서도 멈추지 말고 삶이라는 여정을 즐기며 나아갔으면 좋겠다는 메시지의 서정적인 포크 록 수록곡 #No_Tomorrow 부터 옴므파탈 매력의 타이틀 곡 #Chocolate 까지 다채로운 음악 감성과 아이덴티티를 작사로 표현했습니다!🎵\n\n#MAX #TVXQ! #동방신기 #東方神起"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:33 +0000 2020",
+		"id": 1245365715948851200,
+		"id_str": "1246122178732363776",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/R8nBUsszBo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNij94qFu5",
+					"expanded_url": "http://max.smtown.com/",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245321220855189500,
+					"id_str": "1245321220855189505",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhFDWhUUAEBIUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhFDWhUUAEBIUF.jpg",
+					"url": "https://t.co/R8nBUsszBo",
+					"display_url": "pic.twitter.com/R8nBUsszBo",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365715948851206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245321220855189500,
+					"id_str": "1245321220855189505",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhFDWhUUAEBIUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhFDWhUUAEBIUF.jpg",
+					"url": "https://t.co/R8nBUsszBo",
+					"display_url": "pic.twitter.com/R8nBUsszBo",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365715948851206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5265,
+		"favorite_count": 11790,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/R8nBUsszBo"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:32 +0000 2020",
+		"id": 1245365681605890000,
+		"id_str": "1246122170893225986",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/G0MMeI32Ha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNij94qFu5",
+					"expanded_url": "http://max.smtown.com/",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245321107462217700,
+					"id_str": "1245321107462217728",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhE8wGU4AACsCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhE8wGU4AACsCe.jpg",
+					"url": "https://t.co/G0MMeI32Ha",
+					"display_url": "pic.twitter.com/G0MMeI32Ha",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365681605890049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245321107462217700,
+					"id_str": "1245321107462217728",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhE8wGU4AACsCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhE8wGU4AACsCe.jpg",
+					"url": "https://t.co/G0MMeI32Ha",
+					"display_url": "pic.twitter.com/G0MMeI32Ha",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365681605890049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5302,
+		"favorite_count": 12404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/G0MMeI32Ha"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:30 +0000 2020",
+		"id": 1245365607970660400,
+		"id_str": "1246122163708391427",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/GXUqDIOjOF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNij94qFu5",
+					"expanded_url": "http://max.smtown.com/",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245320926763208700,
+					"id_str": "1245320926763208704",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhEyO8U0AAX6eI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhEyO8U0AAX6eI.jpg",
+					"url": "https://t.co/GXUqDIOjOF",
+					"display_url": "pic.twitter.com/GXUqDIOjOF",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365607970660354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245320926763208700,
+					"id_str": "1245320926763208704",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhEyO8U0AAX6eI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhEyO8U0AAX6eI.jpg",
+					"url": "https://t.co/GXUqDIOjOF",
+					"display_url": "pic.twitter.com/GXUqDIOjOF",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365607970660354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4865,
+		"favorite_count": 10846,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/GXUqDIOjOF"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:28 +0000 2020",
+		"id": 1245365536566866000,
+		"id_str": "1246122155013627905",
+		"full_text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/Ia0L6ar65L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNij94qFu5",
+					"expanded_url": "http://max.smtown.com/",
+					"display_url": "max.smtown.com",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245317750559400000,
+					"id_str": "1245317750559399937",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhB5WqU4AEiA2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhB5WqU4AEiA2E.jpg",
+					"url": "https://t.co/Ia0L6ar65L",
+					"display_url": "pic.twitter.com/Ia0L6ar65L",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365536566865920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245317750559400000,
+					"id_str": "1245317750559399937",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhB5WqU4AEiA2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhB5WqU4AEiA2E.jpg",
+					"url": "https://t.co/Ia0L6ar65L",
+					"display_url": "pic.twitter.com/Ia0L6ar65L",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365536566865920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4802,
+		"favorite_count": 10393,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/UNij94qFu5\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/Ia0L6ar65L"
+	},
+	{
+		"created_at": "Fri Apr 03 17:07:26 +0000 2020",
+		"id": 1245365305905422300,
+		"id_str": "1246122147665170432",
+		"full_text": "Mood Sampler #3\n\nMAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLPZWX\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/pG8mmXVObY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						142,
+						156
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						157,
+						172
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						173,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLPZWX",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245315012786131000,
+					"id_str": "1245315012786130945",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhDATIU0AE314U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhDATIU0AE314U.jpg",
+					"url": "https://t.co/pG8mmXVObY",
+					"display_url": "pic.twitter.com/pG8mmXVObY",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365305905422342/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245315012786131000,
+					"id_str": "1245315012786130945",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhDATIU0AE314U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhDATIU0AE314U.jpg",
+					"url": "https://t.co/pG8mmXVObY",
+					"display_url": "pic.twitter.com/pG8mmXVObY",
+					"expanded_url": "https://twitter.com/TVXQ/status/1245365305905422342/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 16209,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1245315012786130945/pl/aFxts0YXr70tZvR7.m3u8?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245315012786130945/vid/320x400/n1bwprKn6hcyx0fr.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245315012786130945/vid/360x450/Gu_zcrnS9X5vO8Sw.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245315012786130945/vid/720x900/o8fZxavEaf0_ffQT.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266106,
+			"friends_count": 1,
+			"listed_count": 935,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7184,
+		"favorite_count": 14176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mood Sampler #3\n\nMAX 최강창민 The 1st mini album [‘Chocolate’]\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLPZWX\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate https://t.co/pG8mmXVObY"
+	},
+	{
+		"created_at": "Fri Apr 03 17:06:12 +0000 2020",
+		"id": 1245960589953781800,
+		"id_str": "1246121837009850368",
+		"full_text": "제주도에 살아본 적도, 친지도 없는, 그저 제주도의 푸른 바다를 두어번 본 것이 전부인 제가 영상을 보는 것이 이렇게나 힘든 이유는 ‘잊혀짐’에 대한 기억때문입니다. #제주43이젠우리의역사 #제주43_72주년 📺영상보기&gt;https://t.co/PV3GKLeYAw https://t.co/WRGM5Wmt0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제주43이젠우리의역사",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"text": "제주43_72주년",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PV3GKLeYAw",
+					"expanded_url": "https://youtu.be/M0oetkBf_Fc",
+					"display_url": "youtu.be/M0oetkBf_Fc",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245960081679630300,
+					"id_str": "1245960081679630336",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245960081679630336/pu/img/kmtnNnhdkXfTjotN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245960081679630336/pu/img/kmtnNnhdkXfTjotN.jpg",
+					"url": "https://t.co/WRGM5Wmt0a",
+					"display_url": "pic.twitter.com/WRGM5Wmt0a",
+					"expanded_url": "https://twitter.com/Creal_kor/status/1245960589953781766/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245960081679630300,
+					"id_str": "1245960081679630336",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245960081679630336/pu/img/kmtnNnhdkXfTjotN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245960081679630336/pu/img/kmtnNnhdkXfTjotN.jpg",
+					"url": "https://t.co/WRGM5Wmt0a",
+					"display_url": "pic.twitter.com/WRGM5Wmt0a",
+					"expanded_url": "https://twitter.com/Creal_kor/status/1245960589953781766/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 134434,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245960081679630336/pu/vid/640x360/2_fFTipZB8BruICs.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1245960081679630336/pu/pl/3FuXs4q0VrJY2gZ5.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245960081679630336/pu/vid/1280x720/IJvTjVBcziA0fGWC.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245960081679630336/pu/vid/480x270/0RkPBoVTTxQHekgi.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220245599284420600,
+			"id_str": "1220245599284420614",
+			"name": "씨리얼 C-Real",
+			"screen_name": "Creal_kor",
+			"location": "",
+			"description": "진짜 세상을 보다; See Real",
+			"url": "https://t.co/lvmtVffk9N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lvmtVffk9N",
+							"expanded_url": "http://bit.ly/37ekY5L",
+							"display_url": "bit.ly/37ekY5L",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 123,
+			"listed_count": 0,
+			"created_at": "Thu Jan 23 07:24:17 +0000 2020",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220246513835626497/4V0EbxbR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220246513835626497/4V0EbxbR_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2418,
+		"favorite_count": 549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제주도에 살아본 적도, 친지도 없는, 그저 제주도의 푸른 바다를 두어번 본 것이 전부인 제가 영상을 보는 것이 이렇게나 힘든 이유는 ‘잊혀짐’에 대한 기억때문입니다. #제주43이젠우리의역사 #제주43_72주년 📺영상보기&gt;https://t.co/PV3GKLeYAw https://t.co/WRGM5Wmt0a"
+	},
+	{
+		"created_at": "Fri Apr 03 17:04:28 +0000 2020",
+		"id": 1246121402186395600,
+		"id_str": "1246121402186395648",
+		"full_text": "티비에서 공황장애 다루고 있어 보고 있는데  공황장애를 말하는 것을 커밍아웃이이라 표현하는 전문의는 뭐지...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "티비에서 공황장애 다루고 있어 보고 있는데  공황장애를 말하는 것을 커밍아웃이이라 표현하는 전문의는 뭐지..."
+	},
+	{
 		"created_at": "Fri Apr 03 16:55:34 +0000 2020",
 		"id": 1246119162025398300,
 		"id_str": "1246119162025398274",
