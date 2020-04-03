@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 10:48:09 +0000 2020",
+		"id": 1246016931808698400,
+		"id_str": "1246026697826164736",
+		"full_text": "SM ent. 인도네시아 한경진 대표에 따르면\n#인도네시아 는 다른 국가에 비해 해외 문화를\n잘 포용하는 국가라고 하는데요.\n\n#SM엔터테인먼트 가 본 인도네시아 시장의 가능성, 함께 확인해볼까요?\n\n✅자세히보기 ▶️https://t.co/HdBvp5SMS1\n\n#한국콘텐츠진흥원 #콘진원 #케이팝 #해외진출",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인도네시아",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "콘진원",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "케이팝",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "해외진출",
+					"indices": [
+						166,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HdBvp5SMS1",
+					"expanded_url": "https://vo.la/bxOm",
+					"display_url": "vo.la/bxOm",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19588,
+			"friends_count": 15513,
+			"listed_count": 417,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1581039286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM ent. 인도네시아 한경진 대표에 따르면\n#인도네시아 는 다른 국가에 비해 해외 문화를\n잘 포용하는 국가라고 하는데요.\n\n#SM엔터테인먼트 가 본 인도네시아 시장의 가능성, 함께 확인해볼까요?\n\n✅자세히보기 ▶️https://t.co/HdBvp5SMS1\n\n#한국콘텐츠진흥원 #콘진원 #케이팝 #해외진출"
+	},
+	{
 		"created_at": "Fri Apr 03 07:44:13 +0000 2020",
 		"id": 1245980407616753700,
 		"id_str": "1245980407616753664",
