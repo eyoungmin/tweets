@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 16:55:34 +0000 2020",
+		"id": 1246119162025398300,
+		"id_str": "1246119162025398274",
+		"full_text": "마이크를 주도적으로 가져가며 냉철하게 봐야한다며 당연한 이야기를 높히는 것은 도움이 되지 않는다. 어떨 때는 말을 아껴야 하며 필요할 때는 말을 해야한다. 그러나 반대로 살며 본인이 냉철하며 깨인 사람이란 착각은 매우 위험하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1246116224716517400,
+		"in_reply_to_status_id_str": "1246116224716517386",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "마이크를 주도적으로 가져가며 냉철하게 봐야한다며 당연한 이야기를 높히는 것은 도움이 되지 않는다. 어떨 때는 말을 아껴야 하며 필요할 때는 말을 해야한다. 그러나 반대로 살며 본인이 냉철하며 깨인 사람이란 착각은 매우 위험하다."
+	},
+	{
+		"created_at": "Fri Apr 03 16:43:54 +0000 2020",
+		"id": 1246116224716517400,
+		"id_str": "1246116224716517386",
+		"full_text": "성범죄 처벌에 분노하는 곳에서 플레인 하는 것은 뭐랄까... 정말 그 내용을 다른 사람들이 몰라서 이야기 안하는 것이 아닐텐데... 냉철함도 중요하고 감정에 호소하는 것이 위험한지도 알지만 왜 많은 사람들이 분노하고 있는지 생각해봤으면. 진짜 공부하고 배운 사람은 지식을 이렇게 쓰지 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "Founder @SOLPLPARTY\n#예술경영 #뮤직비지니스 @ArtManagementKR",
+			"url": "https://t.co/pEO2GdCFpF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEO2GdCFpF",
+							"expanded_url": "http://about.solplparty.com",
+							"display_url": "about.solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 912,
+			"listed_count": 9,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 39215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675405192091725824/M0DLTPWg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1464571598",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "성범죄 처벌에 분노하는 곳에서 플레인 하는 것은 뭐랄까... 정말 그 내용을 다른 사람들이 몰라서 이야기 안하는 것이 아닐텐데... 냉철함도 중요하고 감정에 호소하는 것이 위험한지도 알지만 왜 많은 사람들이 분노하고 있는지 생각해봤으면. 진짜 공부하고 배운 사람은 지식을 이렇게 쓰지 않는다."
+	},
+	{
+		"created_at": "Fri Apr 03 16:21:35 +0000 2020",
+		"id": 1245947792645750800,
+		"id_str": "1246110607998218241",
+		"full_text": "실체도, 구체적인 텍스트도 없는 ‘유교문화’를 운운하는 것 자체가 한국에 대해서 전혀 모른다는 뜻. 유교문화 때문에 남 생각해서 사재기를 안 하게 아니다. 정부가 하고 있는 걸 보니 사재기 안해도 되겠다 싶어서 안 한거지. - Nathan Park이라는 워싱턴의 변호사가 쓰셨네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245946055855706000,
+		"in_reply_to_status_id_str": "1245946055855706113",
+		"in_reply_to_user_id": 113901843,
+		"in_reply_to_user_id_str": "113901843",
+		"in_reply_to_screen_name": "yejinsoul",
+		"user": {
+			"id": 113901843,
+			"id_str": "113901843",
+			"name": "yejinsoul",
+			"screen_name": "yejinsoul",
+			"location": "Seoul, Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2714,
+			"friends_count": 19,
+			"listed_count": 44,
+			"created_at": "Sat Feb 13 12:02:48 +0000 2010",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFDCE3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3450007695/a69dda471ed10f67cd900e31282c0f90_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3450007695/a69dda471ed10f67cd900e31282c0f90_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113901843/1415415279",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 458,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "실체도, 구체적인 텍스트도 없는 ‘유교문화’를 운운하는 것 자체가 한국에 대해서 전혀 모른다는 뜻. 유교문화 때문에 남 생각해서 사재기를 안 하게 아니다. 정부가 하고 있는 걸 보니 사재기 안해도 되겠다 싶어서 안 한거지. - Nathan Park이라는 워싱턴의 변호사가 쓰셨네요."
+	},
+	{
 		"created_at": "Fri Apr 03 13:39:42 +0000 2020",
 		"id": 1246069868815761400,
 		"id_str": "1246069868815761408",
